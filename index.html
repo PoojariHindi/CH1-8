@@ -141,6 +141,32 @@
         padding: 11px;
       }
     }
+    <style>
+  body { ... }
+
+  .quiz-box { ... }
+
+  .quiz-question { ... }
+
+  /* ←このへんに追加してOK */
+  .quiz-meta-row {
+    display: flex;
+    justify-content: center;
+    gap: 8px;
+    font-size: 12px;
+    opacity: 0.8;
+    margin: 4px 0;
+  }
+
+  .quiz-meta-row span::after {
+    content: "｜";
+    margin-left: 8px;
+  }
+
+  .quiz-meta-row span:last-child::after {
+    content: "";
+  }
+</style>
   </style>
 </head>
 
