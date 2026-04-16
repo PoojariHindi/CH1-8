@@ -10,56 +10,87 @@
 <style>
 body {
   font-family: sans-serif;
-  background:#f2f2f2;
-  padding:10px;
+  background: #f2f2f2;
+  margin: 0;
+  padding: 8px;
 }
 
 .quiz-box {
-  background:white;
-  max-width:600px;
-  margin:auto;
-  padding:15px;
-  border-radius:12px;
+  background: white;
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 12px;
+  border-radius: 12px;
+  box-sizing: border-box;
 }
 
-.question {
-  font-size:26px;
-  margin:20px 0;
-  text-align:center;
+.app-title {
+  text-align: center;
+  font-size: 20px;
+  margin: 4px 0 10px;
 }
 
-.hi-text {
-  font-size:36px;
-  font-weight:bold;
+.controls {
+  display: grid;
+  grid-template-columns: 1fr 1fr auto;
+  gap: 8px;
+  align-items: end;
+  margin-bottom: 12px;
+}
+
+.control-group {
+  display: flex;
+  flex-direction: column;
+}
+
+.control-group label {
+  font-size: 12px;
+  margin-bottom: 4px;
+  color: #444;
+}
+
+select,
+button {
+  box-sizing: border-box;
+  border-radius: 10px;
+  font-size: 16px;
+}
+
+select {
+  width: 100%;
+  padding: 10px;
 }
 
 button {
-  width:100%;
-  padding:14px;
-  margin:6px 0;
-  font-size:20px;
-  border-radius:10px;
+  padding: 10px;
+  cursor: pointer;
+  border: 1px solid #ccc;
+  background: #fff;
 }
 
-.correct { background:#c8f7c5; }
-.wrong { background:#f7c5c5; }
-
-.top-bar {
-  display:flex;
-  gap:5px;
+.start-btn {
+  white-space: nowrap;
 }
 
-.mode-btn {
-  flex:1;
-  padding:8px;
+.quiz-card {
+  margin-top: 8px;
+}
+
+.quiz-question {
+  font-size: 28px;
+  text-align: center;
+  margin: 8px 0;
+  word-break: break-word;
 }
 
 .choice-btn {
   display: block;
   width: 100%;
-  margin: 8px 0;
-  padding: 10px;
+  margin: 6px 0;
+  padding: 12px;
+  font-size: 17px;
   cursor: pointer;
+  border-radius: 10px;
 }
 
 .choice-btn.correct {
@@ -71,21 +102,47 @@ button {
 }
 
 .quiz-feedback {
-  margin-top: 12px;
+  margin-top: 10px;
   font-weight: bold;
+  text-align: center;
 }
 
 .next-btn {
-  margin-top: 12px;
-  padding: 10px 14px;
-  cursor: pointer;
+  margin-top: 10px;
+  width: 100%;
+  padding: 12px;
 }
 
 .quiz-meta {
-  font-size: 0.9rem;
+  font-size: 12px;
   opacity: 0.8;
-}  
+  margin: 4px 0;
+  text-align: center;
+}
 
+@media (max-width: 640px) {
+  .controls {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .start-btn {
+    grid-column: 1 / -1;
+    width: 100%;
+  }
+
+  .app-title {
+    font-size: 18px;
+  }
+
+  .quiz-question {
+    font-size: 24px;
+  }
+
+  .choice-btn {
+    font-size: 16px;
+    padding: 11px;
+  }
+}
 </style>
 </head>
 
@@ -93,32 +150,32 @@ button {
 
 <div class="quiz-box">
   <h2 style="text-align:center;">ヒンディー語単語クイズ</h2>
-
-  <label for="modeSelect">モード</label>
-  <select id="modeSelect">
+  
+  <div class="controls">
+    <div class="control-group">
+   　 <label for="modeSelect">モード</label>
+　　  <select id="modeSelect">
     <option value="ch">基礎語彙</option>
     <option value="news">ニュース</option>
-  </select>
+  </select>  
+ </div>
 
-  <br><br>
-
-  <label for="lessonSelect" id="lessonLabel">レッスン範囲</label>
+<div class="control-group" id="lessonWrap">
+  <label for="lessonSelect" id="lessonLabel">範囲</label>
   <select id="lessonSelect">
-    <option value="1">Lesson 1</option>
-    <option value="2">Lesson 1–2</option>
-    <option value="3">Lesson 1–3</option>
-    <option value="4">Lesson 1–4</option>
-    <option value="5">Lesson 1–5</option>
-    <option value="6">Lesson 1–6</option>
-    <option value="7">Lesson 1–7</option>
-    <option value="8">Lesson 1–8</option>
+    <option value="1">L1</option>
+    <option value="2">L1–2</option>
+    <option value="3">L1–3</option>
+    <option value="4">L1–4</option>
+    <option value="5">L1–5</option>
+    <option value="6">L1–6</option>
+    <option value="7">L1–7</option>
+    <option value="8">L1–8</option>
   </select>
+ </div>
 
-  <br><br>
-
-  <button id="startQuizBtn">クイズ開始</button>
-
-  <hr>
+  <button id="startQuizBtn">開始</button>
+</div>
 
   <div id="quizArea"></div>
 </div>
