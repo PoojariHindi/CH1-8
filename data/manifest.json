@@ -1,0 +1,29 @@
+{
+  "ch": {
+    "texts": [
+      "data/ch/texts/lesson01.json",
+      "data/ch/texts/lesson02.json",
+      "data/ch/texts/lesson03.json",
+      "data/ch/texts/lesson04.json",
+      "data/ch/texts/lesson05.json",
+      "data/ch/texts/lesson06.json",
+      "data/ch/texts/lesson07.json",
+      "data/ch/texts/lesson08.json"
+    ],
+    "vocab": [
+      "data/ch/vocab/lesson01_vocab.json",
+      "data/ch/vocab/lesson02_vocab.json",
+      "data/ch/vocab/lesson03_vocab.json",
+      "data/ch/vocab/lesson04_vocab.json",
+      "data/ch/vocab/lesson05_vocab.json",
+      "data/ch/vocab/lesson06_vocab.json",
+      "data/ch/vocab/lesson07_vocab.json",
+      "data/ch/vocab/lesson08_vocab.json"
+    ]
+  },
+  "news": {
+    "vocab": [
+      "data/news/vocab/news_vocab_01.json"
+    ]
+  }
+}
