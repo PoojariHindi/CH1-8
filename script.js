@@ -125,15 +125,13 @@ function renderQuiz(quiz) {
     return;
   }
 
-  const lessonInfo =
-    quiz.meta.source === "ch" && quiz.meta.lesson
-      ? `<p class="quiz-meta">Lesson ${quiz.meta.lesson}</p>`
-      : "";
-
-  const posInfo = quiz.meta.pos
-    ? `<p class="quiz-meta">品詞: ${quiz.meta.pos}</p>`
-    : "";
-
+const metaRow = `
+  <div class="quiz-meta-row">
+    ${quiz.meta.lesson ? `<span>L${quiz.meta.lesson}</span>` : ""}
+    ${quiz.meta.pos ? `<span>${quiz.meta.pos}</span>` : ""}
+  </div>
+`;
+  
   quizArea.innerHTML = `
     <div class="quiz-card">
       ${lessonInfo}
