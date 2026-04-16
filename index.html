@@ -53,143 +53,77 @@ button {
   flex:1;
   padding:8px;
 }
+
+.choice-btn {
+  display: block;
+  width: 100%;
+  margin: 8px 0;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.choice-btn.correct {
+  border: 2px solid #2e7d32;
+}
+
+.choice-btn.wrong {
+  border: 2px solid #c62828;
+}
+
+.quiz-feedback {
+  margin-top: 12px;
+  font-weight: bold;
+}
+
+.next-btn {
+  margin-top: 12px;
+  padding: 10px 14px;
+  cursor: pointer;
+}
+
+.quiz-meta {
+  font-size: 0.9rem;
+  opacity: 0.8;
+}  
+
 </style>
 </head>
 
 <body>
 
 <div class="quiz-box">
+  <h2 style="text-align:center;">ヒンディー語単語クイズ</h2>
 
-<div class="top-bar">
-<button class="mode-btn" onclick="setMode('hi2jp')">ヒ→日</button>
-<button class="mode-btn" onclick="setMode('jp2hi')">日→ヒ</button>
-<button class="mode-btn" onclick="reviewMode()">復習</button>
+  <label for="modeSelect">モード</label>
+  <select id="modeSelect">
+    <option value="ch">Complete Hindi</option>
+    <option value="news">News Vocabulary</option>
+  </select>
+
+  <br><br>
+
+  <label for="lessonSelect" id="lessonLabel">レッスン範囲</label>
+  <select id="lessonSelect">
+    <option value="1">Lesson 1</option>
+    <option value="2">Lesson 1–2</option>
+    <option value="3">Lesson 1–3</option>
+    <option value="4">Lesson 1–4</option>
+    <option value="5">Lesson 1–5</option>
+    <option value="6">Lesson 1–6</option>
+    <option value="7">Lesson 1–7</option>
+    <option value="8">Lesson 1–8</option>
+  </select>
+
+  <br><br>
+
+  <button id="startQuizBtn">クイズ開始</button>
+
+  <hr>
+
+  <div id="quizArea"></div>
 </div>
 
-<h2 style="text-align:center;">ヒンディー語単語クイズ（300語）</h2>
-
-<div id="question" class="question"></div>
-<div id="answers"></div>
-
-<p id="result"></p>
-<p id="score"></p>
-
-<button onclick="nextQuestion()">次へ</button>
-
-</div>
-
-<script>
-
-// ===== 300語リスト =====
-const vocabList = [
-{hi:"कमरा", jp:"部屋"},{hi:"घर", jp:"家"},{hi:"मकान", jp:"建物"},
-{hi:"किताब", jp:"本"},{hi:"कॉपी", jp:"ノート"},{hi:"कागज़", jp:"紙"},
-{hi:"कुर्सी", jp:"椅子"},{hi:"मेज़", jp:"机"},{hi:"दरवाज़ा", jp:"ドア"},
-{hi:"खिड़की", jp:"窓"},{hi:"अलमारी", jp:"棚"},{hi:"चाबी", jp:"鍵"},
-{hi:"बैग", jp:"かばん"},{hi:"बच्चा", jp:"子ども"},{hi:"लड़का", jp:"男の子"},
-{hi:"लड़की", jp:"女の子"},{hi:"आदमी", jp:"人"},{hi:"औरत", jp:"女性"},
-{hi:"भाई", jp:"兄弟"},{hi:"बहन", jp:"姉妹"},{hi:"माँ", jp:"母"},
-{hi:"पिता", jp:"父"},{hi:"पिताजी", jp:"父（敬）"},{hi:"बेटा", jp:"息子"},
-{hi:"बेटी", jp:"娘"},{hi:"परिवार", jp:"家族"},{hi:"दोस्त", jp:"友達"},
-{hi:"मित्र", jp:"友人"},{hi:"लोग", jp:"人々"},{hi:"डॉक्टर", jp:"医者"},
-{hi:"अध्यापक", jp:"教師"},{hi:"विद्यार्थी", jp:"学生"},{hi:"स्कूल", jp:"学校"},
-{hi:"कालेज", jp:"大学"},{hi:"कक्षा", jp:"クラス"},{hi:"भाषा", jp:"言語"},
-{hi:"नाम", jp:"名前"},{hi:"सवाल", jp:"質問"},{hi:"जवाब", jp:"答え"},
-{hi:"काम", jp:"仕事"},{hi:"खेल", jp:"遊び"},{hi:"समय", jp:"時間"},
-{hi:"दिन", jp:"日"},{hi:"रात", jp:"夜"},{hi:"सुबह", jp:"朝"},
-{hi:"शाम", jp:"夕方"},{hi:"साल", jp:"年"},{hi:"उम्र", jp:"年齢"},
-{hi:"चाय", jp:"お茶"},{hi:"पानी", jp:"水"},{hi:"दूध", jp:"牛乳"},
-{hi:"खाना", jp:"食事"},{hi:"रोटी", jp:"パン"},{hi:"सब्ज़ी", jp:"野菜"},
-{hi:"गोश्त", jp:"肉"},{hi:"बाज़ार", jp:"市場"},{hi:"रास्ता", jp:"道"},
-{hi:"गली", jp:"路地"},{hi:"शहर", jp:"都市"},{hi:"गाँव", jp:"村"},
-{hi:"अच्छा", jp:"良い"},{hi:"बुरा", jp:"悪い"},{hi:"बड़ा", jp:"大きい"},
-{hi:"छोटा", jp:"小さい"},{hi:"लंबा", jp:"長い"},{hi:"नया", jp:"新しい"},
-{hi:"पुराना", jp:"古い"},{hi:"सुंदर", jp:"美しい"},{hi:"साफ़", jp:"きれい"},
-{hi:"गंदा", jp:"汚い"},{hi:"तेज़", jp:"速い"},{hi:"धीमा", jp:"遅い"},
-{hi:"होना", jp:"〜である"},{hi:"करना", jp:"する"},{hi:"जाना", jp:"行く"},
-{hi:"आना", jp:"来る"},{hi:"चलना", jp:"歩く"},{hi:"बैठना", jp:"座る"},
-{hi:"खाना", jp:"食べる"},{hi:"पीना", jp:"飲む"},{hi:"देखना", jp:"見る"},
-{hi:"सुनना", jp:"聞く"},{hi:"बोलना", jp:"話す"},{hi:"सोचना", jp:"考える"},
-{hi:"समझना", jp:"理解する"},{hi:"रहना", jp:"住む"},
-{hi:"को", jp:"〜に"},{hi:"से", jp:"〜から／〜より"},
-{hi:"में", jp:"〜の中で"},{hi:"पर", jp:"〜の上に"},
-{hi:"और", jp:"そして"},{hi:"लेकिन", jp:"しかし"},
-{hi:"क्या", jp:"何"},{hi:"कौन", jp:"誰"},
-{hi:"कहाँ", jp:"どこ"},{hi:"क्यों", jp:"なぜ"},
-{hi:"कैसे", jp:"どのように"}
-];
-
-// ===== ロジック =====
-function shuffle(a){return a.sort(()=>Math.random()-0.5);}
-
-let current=0, score=0, mode="hi2jp";
-let quiz=[], wrongList=[];
-
-function resetQuiz(){
-current=0; score=0; wrongList=[];
-quiz = shuffle([...vocabList]).slice(0,30);
-generateQuestion();
-}
-
-function setMode(m){mode=m; resetQuiz();}
-
-function reviewMode(){
-if(wrongList.length===0){alert("復習なし");return;}
-quiz=shuffle([...wrongList]); current=0; score=0; generateQuestion();
-}
-
-function generateQuestion(){
-let q=quiz[current];
-let correct, options;
-
-if(mode==="hi2jp"){
-correct=q.jp;
-options=shuffle([q.jp,...shuffle(vocabList).slice(0,3).map(x=>x.jp)]);
-document.getElementById("question").innerHTML=`<div class="hi-text">${q.hi}</div>`;
-}else{
-correct=q.hi;
-options=shuffle([q.hi,...shuffle(vocabList).slice(0,3).map(x=>x.hi)]);
-document.getElementById("question").innerText=q.jp;
-}
-
-let div=document.getElementById("answers");
-div.innerHTML="";
-options.forEach(opt=>{
-let b=document.createElement("button");
-b.innerText=opt;
-b.onclick=()=>checkAnswer(opt,correct);
-div.appendChild(b);
-});
-
-document.getElementById("result").innerText="";
-}
-
-function checkAnswer(sel,correct){
-let btns=document.querySelectorAll("#answers button");
-btns.forEach(b=>{
-if(b.innerText===correct)b.classList.add("correct");
-else b.classList.add("wrong");
-b.disabled=true;
-});
-
-if(sel===correct){score++;document.getElementById("result").innerText="✅ 正解";}
-else{wrongList.push(quiz[current]);document.getElementById("result").innerText="❌ 不正解";}
-
-document.getElementById("score").innerText=`${score}/30`;
-}
-
-function nextQuestion(){
-current++;
-if(current<quiz.length)generateQuestion();
-else document.getElementById("question").innerText="終了！";
-}
-
-resetQuiz();
-if ('serviceWorker' in navigator) {
-  navigator.serviceWorker.register('service-worker.js');
-}
-
-</script>
 <script src="script.js"></script>
 </body>
+
 </html>
