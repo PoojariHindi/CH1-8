@@ -6,10 +6,9 @@
 let chVocab = [];
 let newsVocab = [];
 let currentQuiz = null;
+let wrongAnswers = [];
+let reviewModeEnabled = false;
 
-// ------------------------------
-// Utility
-// ------------------------------
 async function loadJson(path) {
   const response = await fetch(path);
   if (!response.ok) {
@@ -31,9 +30,6 @@ function pickRandom(array, count) {
   return shuffle(array).slice(0, count);
 }
 
-// ------------------------------
-// Load all vocab
-// ------------------------------
 async function loadManifest() {
   return await loadJson("data/manifest.json");
 }
@@ -41,7 +37,6 @@ async function loadManifest() {
 async function loadAllChVocab(manifest) {
   const files = manifest.ch.vocab;
   const results = await Promise.all(files.map(loadJson));
-
   return results.flatMap((fileData) =>
     fileData.vocab.map((entry) => ({
       ...entry,
@@ -54,7 +49,6 @@ async function loadAllChVocab(manifest) {
 async function loadAllNewsVocab(manifest) {
   const files = manifest.news.vocab;
   const results = await Promise.all(files.map(loadJson));
-
   return results.flatMap((fileData) =>
     fileData.vocab.map((entry) => ({
       ...entry,
@@ -64,17 +58,15 @@ async function loadAllNewsVocab(manifest) {
   );
 }
 
-// ------------------------------
-// Filters
-// ------------------------------
 function filterChByLesson(vocabList, maxLesson) {
   return vocabList.filter((item) => item.lesson <= maxLesson);
 }
 
-// ------------------------------
-// Quiz creation
-// ------------------------------
-function createQuizQuestion(vocabPool) {
+function getDirection() {
+  return document.getElementById("directionSelect").value;
+}
+
+function createQuizQuestion(vocabPool, direction) {
   if (vocabPool.length < 4) {
     return null;
   }
@@ -83,15 +75,31 @@ function createQuizQuestion(vocabPool) {
   const wrongPool = vocabPool.filter((item) => item.word !== correct.word);
   const wrongChoices = pickRandom(wrongPool, 3);
 
-  const choices = shuffle([
-    correct.meaning,
-    ...wrongChoices.map((item) => item.meaning)
-  ]);
+  let question = "";
+  let correctAnswer = "";
+  let choices = [];
+
+  if (direction === "hi2jp") {
+    question = correct.word;
+    correctAnswer = correct.meaning;
+    choices = shuffle([
+      correct.meaning,
+      ...wrongChoices.map((item) => item.meaning)
+    ]);
+  } else {
+    question = correct.meaning;
+    correctAnswer = correct.word;
+    choices = shuffle([
+      correct.word,
+      ...wrongChoices.map((item) => item.word)
+    ]);
+  }
 
   return {
-    question: correct.word,
-    correctAnswer: correct.meaning,
+    question,
+    correctAnswer,
     choices,
+    entry: correct,
     meta: {
       source: correct.source,
       lesson: correct.lesson || null,
@@ -100,9 +108,15 @@ function createQuizQuestion(vocabPool) {
   };
 }
 
-// ------------------------------
-// Render
-// ------------------------------
+function escapeHtml(text) {
+  return text
+    .replaceAll("&", "&amp;")
+    .replaceAll("<", "&lt;")
+    .replaceAll(">", "&gt;")
+    .replaceAll('"', "&quot;")
+    .replaceAll("'", "&#039;");
+}
+
 function renderQuiz(quiz) {
   const quizArea = document.getElementById("quizArea");
 
@@ -123,7 +137,7 @@ function renderQuiz(quiz) {
   quizArea.innerHTML = `
     <div class="quiz-card">
       ${lessonInfo}
-      <h2 class="quiz-question">${quiz.question}</h2>
+      <h2 class="quiz-question">${escapeHtml(quiz.question)}</h2>
       ${posInfo}
       <div class="quiz-choices">
         ${quiz.choices
@@ -152,18 +166,15 @@ function renderQuiz(quiz) {
     .addEventListener("click", startQuiz);
 }
 
-function escapeHtml(text) {
-  return text
-    .replaceAll("&", "&amp;")
-    .replaceAll("<", "&lt;")
-    .replaceAll(">", "&gt;")
-    .replaceAll('"', "&quot;")
-    .replaceAll("'", "&#039;");
+function addWrongAnswer(entry) {
+  const exists = wrongAnswers.some(
+    (item) => item.word === entry.word && item.meaning === entry.meaning
+  );
+  if (!exists) {
+    wrongAnswers.push(entry);
+  }
 }
 
-// ------------------------------
-// Answer handling
-// ------------------------------
 function handleAnswerClick(event) {
   if (!currentQuiz) return;
 
@@ -186,6 +197,7 @@ function handleAnswerClick(event) {
   if (selected === currentQuiz.correctAnswer) {
     feedback.innerHTML = `<p>✅ 正解です</p>`;
   } else {
+    addWrongAnswer(currentQuiz.entry);
     feedback.innerHTML = `<p>❌ 不正解です。正解: ${escapeHtml(
       currentQuiz.correctAnswer
     )}</p>`;
@@ -194,10 +206,11 @@ function handleAnswerClick(event) {
   nextBtn.style.display = "inline-block";
 }
 
-// ------------------------------
-// Start quiz
-// ------------------------------
 function getCurrentPool() {
+  if (reviewModeEnabled) {
+    return [...wrongAnswers];
+  }
+
   const mode = document.getElementById("modeSelect").value;
 
   if (mode === "ch") {
@@ -214,6 +227,7 @@ function getCurrentPool() {
 
 function startQuiz() {
   const pool = getCurrentPool();
+  const direction = getDirection();
   const quizArea = document.getElementById("quizArea");
 
   if (pool.length < 4) {
@@ -222,13 +236,15 @@ function startQuiz() {
     return;
   }
 
-  currentQuiz = createQuizQuestion(pool);
+  currentQuiz = createQuizQuestion(pool, direction);
   renderQuiz(currentQuiz);
 }
 
-// ------------------------------
-// UI mode switching
-// ------------------------------
+function startReviewMode() {
+  reviewModeEnabled = true;
+  startQuiz();
+}
+
 function updateUiByMode() {
   const mode = document.getElementById("modeSelect").value;
   const lessonSelect = document.getElementById("lessonSelect");
@@ -243,9 +259,6 @@ function updateUiByMode() {
   }
 }
 
-// ------------------------------
-// App init
-// ------------------------------
 async function initApp() {
   try {
     const manifest = await loadManifest();
@@ -254,17 +267,20 @@ async function initApp() {
 
     document
       .getElementById("startQuizBtn")
-      .addEventListener("click", startQuiz);
+      .addEventListener("click", () => {
+        reviewModeEnabled = false;
+        startQuiz();
+      });
+
+    document
+      .getElementById("reviewBtn")
+      .addEventListener("click", startReviewMode);
 
     document
       .getElementById("modeSelect")
       .addEventListener("change", updateUiByMode);
 
     updateUiByMode();
-
-    console.log("App initialized");
-    console.log("CH vocab:", chVocab.length);
-    console.log("News vocab:", newsVocab.length);
   } catch (error) {
     console.error(error);
     const quizArea = document.getElementById("quizArea");
