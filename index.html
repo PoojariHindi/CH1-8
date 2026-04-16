@@ -32,7 +32,7 @@ body {
 
 .controls {
   display: grid;
-  grid-template-columns: 1fr 1fr auto;
+  grid-template-columns: 1fr 1fr 1fr;
   gap: 8px;
   align-items: end;
   margin-bottom: 12px;
@@ -68,19 +68,9 @@ button {
   background: #fff;
 }
 
-.start-btn {
+.start-btn,
+.review-btn {
   white-space: nowrap;
-}
-
-.quiz-card {
-  margin-top: 8px;
-}
-
-.quiz-question {
-  font-size: 28px;
-  text-align: center;
-  margin: 8px 0;
-  word-break: break-word;
 }
 
 .choice-btn {
@@ -125,10 +115,12 @@ button {
     grid-template-columns: 1fr 1fr;
   }
 
-  .start-btn {
+  .start-btn,
+  .review-btn {
     grid-column: 1 / -1;
     width: 100%;
   }
+}
 
   .app-title {
     font-size: 18px;
@@ -148,41 +140,50 @@ button {
 
 <body>
 
-<div class="quiz-box">
-  <h2 style="text-align:center;">Hindi Quiz</h2>
-  
+
+<script>
+if ("serviceWork<div class="quiz-box">
+  <h2 class="app-title">Hindi Quiz</h2>
+
   <div class="controls">
     <div class="control-group">
-   　 <label for="modeSelect">モード</label>
-　　  <select id="modeSelect">
-    <option value="ch">基礎語彙</option>
-    <option value="news">ニュース</option>
-  </select>  
- </div>
+      <label for="modeSelect">語彙セット</label>
+      <select id="modeSelect">
+        <option value="ch">基礎</option>
+        <option value="news">ニュース</option>
+      </select>
+    </div>
 
-<div class="control-group" id="lessonWrap">
-  <label for="lessonSelect" id="lessonLabel">範囲</label>
-  <select id="lessonSelect">
-    <option value="1">L1</option>
-    <option value="2">L1–2</option>
-    <option value="3">L1–3</option>
-    <option value="4">L1–4</option>
-    <option value="5">L1–5</option>
-    <option value="6">L1–6</option>
-    <option value="7">L1–7</option>
-    <option value="8">L1–8</option>
-  </select>
- </div>
+    <div class="control-group" id="lessonWrap">
+      <label for="lessonSelect" id="lessonLabel">範囲</label>
+      <select id="lessonSelect">
+        <option value="1">L1</option>
+        <option value="2">L1–2</option>
+        <option value="3">L1–3</option>
+        <option value="4">L1–4</option>
+        <option value="5">L1–5</option>
+        <option value="6">L1–6</option>
+        <option value="7">L1–7</option>
+        <option value="8">L1–8</option>
+      </select>
+    </div>
 
-  <button id="startQuizBtn">開始</button>
-</div>
+    <div class="control-group">
+      <label for="directionSelect">出題方向</label>
+      <select id="directionSelect">
+        <option value="hi2jp">ヒン→日</option>
+        <option value="jp2hi">日→ヒン</option>
+      </select>
+    </div>
+
+    <button id="startQuizBtn" class="start-btn">開始</button>
+    <button id="reviewBtn" class="review-btn">復習</button>
+  </div>
 
   <div id="quizArea"></div>
 </div>
 
-<script src="script.js"></script>
-<script>
-if ("serviceWorker" in navigator) {
+<script src="script.js"></script>er" in navigator) {
   window.addEventListener("load", async () => {
     try {
       const registration = await navigator.serviceWorker.register("./service-worker.js");
