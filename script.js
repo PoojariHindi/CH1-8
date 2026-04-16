@@ -133,10 +133,9 @@ const metaRow = `
 `;
   
   quizArea.innerHTML = `
-    <div class="quiz-card">
-      ${lessonInfo}
-      <h2 class="quiz-question">${escapeHtml(quiz.question)}</h2>
-      ${posInfo}
+  <div class="quiz-card">
+    ${metaRow}
+    <h2 class="quiz-question">${escapeHtml(quiz.question)}</h2>
       <div class="quiz-choices">
         ${quiz.choices
           .map(
