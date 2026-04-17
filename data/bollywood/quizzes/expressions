@@ -1,0 +1,105 @@
+{
+  "topic": "bollywood_expressions",
+  "items": [
+    {
+      "expression": "होना है क्या",
+      "meaning": "何が起こるのか",
+      "pos": "表現",
+      "category": "哲学",
+      "difficulty": 2,
+      "sourceSongIds": [
+        "bolly_008"
+      ]
+    },
+    {
+      "expression": "हर लम्हें को जीना",
+      "meaning": "一瞬一瞬を生きる",
+      "pos": "表現",
+      "category": "哲学",
+      "difficulty": 2,
+      "sourceSongIds": [
+        "bolly_010"
+      ]
+    },
+    {
+      "expression": "खुद अपनी राह बनाना",
+      "meaning": "自分の道を作る",
+      "pos": "表現",
+      "category": "行動",
+      "difficulty": 2,
+      "sourceSongIds": [
+        "bolly_010"
+      ]
+    },
+    {
+      "expression": "तुम हर कहीं हो",
+      "meaning": "君はどこにでもいる",
+      "pos": "表現",
+      "category": "関係",
+      "difficulty": 2,
+      "sourceSongIds": [
+        "bolly_009"
+      ]
+    },
+    {
+      "expression": "लाख दुनिया कहे",
+      "meaning": "たとえ世界が何と言おうと",
+      "pos": "表現",
+      "category": "哲学",
+      "difficulty": 2,
+      "sourceSongIds": [
+        "bolly_009"
+      ]
+    },
+    {
+      "expression": "दिल में उतर जाना",
+      "meaning": "心に入り込む",
+      "pos": "表現",
+      "category": "感情",
+      "difficulty": 2,
+      "sourceSongIds": [
+        "bolly_002"
+      ]
+    },
+    {
+      "expression": "जी ले ज़रा",
+      "meaning": "少し生きてみよう・今を生きよう",
+      "pos": "表現",
+      "category": "行動",
+      "difficulty": 1,
+      "sourceSongIds": [
+        "bolly_006"
+      ]
+    },
+    {
+      "expression": "जिया लागे ना",
+      "meaning": "心が落ち着かない・しっくりこない",
+      "pos": "表現",
+      "category": "感情",
+      "difficulty": 3,
+      "sourceSongIds": [
+        "bolly_007"
+      ]
+    },
+    {
+      "expression": "मन के घाव पे मरहम",
+      "meaning": "心の傷への癒やし",
+      "pos": "表現",
+      "category": "関係",
+      "difficulty": 3,
+      "sourceSongIds": [
+        "bolly_010"
+      ]
+    },
+    {
+      "expression": "आज का जश्न मनाना",
+      "meaning": "今日を祝う・今を楽しむ",
+      "pos": "表現",
+      "category": "行動",
+      "difficulty": 1,
+      "sourceSongIds": [
+        "bolly_010"
+      ]
+    }
+  ]
+}
