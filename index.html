@@ -73,12 +73,13 @@
       white-space: nowrap;
     }
 
+    /* 🔴 ここを +2px に強化 */
     .choice-btn {
       display: block;
       width: 100%;
       margin: 6px 0;
       padding: 12px;
-      font-size: 20px;
+      font-size: 22px; /* ← 20 → 22 */
       font-family: "Noto Sans Devanagari", "Noto Sans JP", sans-serif;
       cursor: pointer;
       border-radius: 10px;
@@ -104,18 +105,30 @@
       padding: 12px;
     }
 
-    .quiz-meta {
-      font-size: 12px;
-      opacity: 0.8;
-      margin: 4px 0;
-      text-align: center;
-    }
-
     .quiz-question {
       font-size: 28px;
       text-align: center;
       margin: 8px 0;
       word-break: break-word;
+    }
+
+    /* ✅ meta行（修正版） */
+    .quiz-meta-row {
+      display: flex;
+      justify-content: center;
+      gap: 8px;
+      font-size: 12px;
+      opacity: 0.8;
+      margin: 4px 0;
+    }
+
+    .quiz-meta-row span::after {
+      content: "｜";
+      margin-left: 8px;
+    }
+
+    .quiz-meta-row span:last-child::after {
+      content: "";
     }
 
     @media (max-width: 640px) {
@@ -138,36 +151,10 @@
       }
 
       .choice-btn {
-        font-size: 20px;
+        font-size: 22px; /* ← モバイルも22px維持 */
         padding: 11px;
       }
     }
-    <style>
-  body { ... }
-
-  .quiz-box { ... }
-
-  .quiz-question { ... }
-
-  /* ←このへんに追加してOK */
-  .quiz-meta-row {
-    display: flex;
-    justify-content: center;
-    gap: 8px;
-    font-size: 12px;
-    opacity: 0.8;
-    margin: 4px 0;
-  }
-
-  .quiz-meta-row span::after {
-    content: "｜";
-    margin-left: 8px;
-  }
-
-  .quiz-meta-row span:last-child::after {
-    content: "";
-  }
-</style>
   </style>
 </head>
 
@@ -181,6 +168,9 @@
         <select id="modeSelect">
           <option value="ch">基礎</option>
           <option value="news">ニュース</option>
+          <option value="bollywood_vocab">Bollywood語彙</option>
+          <option value="bollywood_fill">Bollywood穴埋め</option>
+          <option value="bollywood_expressions">Bollywood表現</option>
         </select>
       </div>
 
@@ -199,7 +189,7 @@
       </div>
 
       <div class="control-group">
-        <label for="directionSelect">出題方向</label>
+        <label for="directionSelect" id="directionLabel">出題方向</label>
         <select id="directionSelect">
           <option value="hi2jp">ヒン→日</option>
           <option value="jp2hi">日→ヒン</option>
