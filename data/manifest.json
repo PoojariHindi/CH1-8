@@ -11,23 +11,21 @@
       "data/ch/vocab/lesson08_vocab.json"
     ]
   },
-
   "news": {
     "vocab": [
       "data/news/vocab/news_vocab_01.json",
       "data/news/vocab/news_vocab_02.json"
     ]
   },
-
   "bollywood": {
     "vocab": [
-      "data/bollywood/vocab/bollywood_vocab_01.json"
+      "data/bollywood/quizzes/vocab.json"
     ],
     "fill": [
-      "data/bollywood/quizzes/bollywood_fill_01.json"
+      "data/bollywood/quizzes/fill_patterns.json"
     ],
     "expressions": [
-      "data/bollywood/quizzes/bollywood_expressions_01.json"
+      "data/bollywood/quizzes/expressions.json"
     ]
   }
 }
