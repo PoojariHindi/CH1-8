@@ -1,0 +1,19 @@
+{
+  "songId": "bolly_001",
+  "title": "Mere Haath Mein",
+  "film": "Fanaa",
+  "singers": [
+    "Sonu Nigam"
+  ],
+  "lyricist": "Prasoon Joshi",
+  "composer": [
+    "Jatin-Lalit"
+  ],
+  "year": 2006,
+  "tags": [
+    "恋愛",
+    "スーフィー的"
+  ],
+  "keyPhrase": "मेरे हाथ में तेरा हाथ हो",
+  "status": "processed"
+}
