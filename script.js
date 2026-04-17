@@ -1,10 +1,17 @@
 // ==============================
-// Hindi Quiz App - Minimal Script
-// Complete Hindi (lesson-based) + News vocab
+// Hindi Quiz App - Extended Script
+// Complete Hindi + News + Bollywood
+// - 語彙問題
+// - 穴埋め問題（構文）
+// - 表現問題
 // ==============================
 
 let chVocab = [];
 let newsVocab = [];
+let bollywoodVocab = [];
+let bollywoodFill = [];
+let bollywoodExpressions = [];
+
 let currentQuiz = null;
 let wrongAnswers = [];
 let reviewModeEnabled = false;
@@ -35,10 +42,10 @@ async function loadManifest() {
 }
 
 async function loadAllChVocab(manifest) {
-  const files = manifest.ch.vocab;
+  const files = manifest.ch?.vocab || [];
   const results = await Promise.all(files.map(loadJson));
   return results.flatMap((fileData) =>
-    fileData.vocab.map((entry) => ({
+    (fileData.vocab || []).map((entry) => ({
       ...entry,
       lesson: fileData.lesson,
       source: "ch"
@@ -47,13 +54,47 @@ async function loadAllChVocab(manifest) {
 }
 
 async function loadAllNewsVocab(manifest) {
-  const files = manifest.news.vocab;
+  const files = manifest.news?.vocab || [];
   const results = await Promise.all(files.map(loadJson));
   return results.flatMap((fileData) =>
-    fileData.vocab.map((entry) => ({
+    (fileData.vocab || []).map((entry) => ({
       ...entry,
       source: "news",
       topic: fileData.topic || "mixed"
+    }))
+  );
+}
+
+async function loadAllBollywoodVocab(manifest) {
+  const files = manifest.bollywood?.vocab || [];
+  const results = await Promise.all(files.map(loadJson));
+  return results.flatMap((fileData) =>
+    (fileData.vocab || []).map((entry) => ({
+      ...entry,
+      source: "bollywood",
+      topic: fileData.topic || "bollywood"
+    }))
+  );
+}
+
+async function loadAllBollywoodFill(manifest) {
+  const files = manifest.bollywood?.fill || [];
+  const results = await Promise.all(files.map(loadJson));
+  return results.flatMap((fileData) =>
+    (fileData.items || []).map((entry) => ({
+      ...entry,
+      source: "bollywood_fill"
+    }))
+  );
+}
+
+async function loadAllBollywoodExpressions(manifest) {
+  const files = manifest.bollywood?.expressions || [];
+  const results = await Promise.all(files.map(loadJson));
+  return results.flatMap((fileData) =>
+    (fileData.items || []).map((entry) => ({
+      ...entry,
+      source: "bollywood_expressions"
     }))
   );
 }
@@ -64,6 +105,14 @@ function filterChByLesson(vocabList, maxLesson) {
 
 function getDirection() {
   return document.getElementById("directionSelect").value;
+}
+
+function getMode() {
+  return document.getElementById("modeSelect").value;
+}
+
+function isVocabularyMode(mode) {
+  return mode === "ch" || mode === "news" || mode === "bollywood_vocab";
 }
 
 function createQuizQuestion(vocabPool, direction) {
@@ -108,8 +157,80 @@ function createQuizQuestion(vocabPool, direction) {
   };
 }
 
+function createFillQuestion(pool) {
+  if (pool.length < 4) {
+    return null;
+  }
+
+  const correct = pickRandom(pool, 1)[0];
+  const wrongPool = pool.filter((item) => item.answer !== correct.answer);
+  const wrongChoices = pickRandom(wrongPool, 3);
+
+  return {
+    question: correct.question,
+    correctAnswer: correct.answer,
+    choices: shuffle([
+      correct.answer,
+      ...wrongChoices.map((item) => item.answer)
+    ]),
+    entry: correct,
+    meta: {
+      source: correct.source,
+      lesson: null,
+      pos: correct.patternLabel || "構文"
+    },
+    extra: {
+      translation: correct.translation || ""
+    }
+  };
+}
+
+function createExpressionQuestion(pool, direction) {
+  if (pool.length < 4) {
+    return null;
+  }
+
+  const correct = pickRandom(pool, 1)[0];
+  const wrongPool = pool.filter(
+    (item) => item.expression !== correct.expression
+  );
+  const wrongChoices = pickRandom(wrongPool, 3);
+
+  let question = "";
+  let correctAnswer = "";
+  let choices = [];
+
+  if (direction === "hi2jp") {
+    question = correct.expression;
+    correctAnswer = correct.meaning;
+    choices = shuffle([
+      correct.meaning,
+      ...wrongChoices.map((item) => item.meaning)
+    ]);
+  } else {
+    question = correct.meaning;
+    correctAnswer = correct.expression;
+    choices = shuffle([
+      correct.expression,
+      ...wrongChoices.map((item) => item.expression)
+    ]);
+  }
+
+  return {
+    question,
+    correctAnswer,
+    choices,
+    entry: correct,
+    meta: {
+      source: correct.source,
+      lesson: null,
+      pos: correct.pos || "表現"
+    }
+  };
+}
+
 function escapeHtml(text) {
-  return text
+  return String(text)
     .replaceAll("&", "&amp;")
     .replaceAll("<", "&lt;")
     .replaceAll(">", "&gt;")
@@ -125,17 +246,23 @@ function renderQuiz(quiz) {
     return;
   }
 
-const metaRow = `
-  <div class="quiz-meta-row">
-    ${quiz.meta.lesson ? `<span>L${quiz.meta.lesson}</span>` : ""}
-    ${quiz.meta.pos ? `<span>${quiz.meta.pos}</span>` : ""}
-  </div>
-`;
-  
+  const metaRow = `
+    <div class="quiz-meta-row">
+      ${quiz.meta.lesson ? `<span>L${quiz.meta.lesson}</span>` : ""}
+      ${quiz.meta.pos ? `<span>${escapeHtml(quiz.meta.pos)}</span>` : ""}
+    </div>
+  `;
+
+  const translationBlock =
+    quiz.extra && quiz.extra.translation
+      ? `<div class="quiz-subhint">${escapeHtml(quiz.extra.translation)}</div>`
+      : "";
+
   quizArea.innerHTML = `
-  <div class="quiz-card">
-    ${metaRow}
-    <h2 class="quiz-question">${escapeHtml(quiz.question)}</h2>
+    <div class="quiz-card">
+      ${metaRow}
+      <h2 class="quiz-question">${escapeHtml(quiz.question)}</h2>
+      ${translationBlock}
       <div class="quiz-choices">
         ${quiz.choices
           .map(
@@ -164,9 +291,17 @@ const metaRow = `
 }
 
 function addWrongAnswer(entry) {
+  const mode = getMode();
+
+  // 復習モードは語彙問題のみ対応
+  if (!isVocabularyMode(mode)) {
+    return;
+  }
+
   const exists = wrongAnswers.some(
     (item) => item.word === entry.word && item.meaning === entry.meaning
   );
+
   if (!exists) {
     wrongAnswers.push(entry);
   }
@@ -208,7 +343,7 @@ function getCurrentPool() {
     return [...wrongAnswers];
   }
 
-  const mode = document.getElementById("modeSelect").value;
+  const mode = getMode();
 
   if (mode === "ch") {
     const lessonValue = Number(document.getElementById("lessonSelect").value);
@@ -219,33 +354,64 @@ function getCurrentPool() {
     return [...newsVocab];
   }
 
+  if (mode === "bollywood_vocab") {
+    return [...bollywoodVocab];
+  }
+
+  if (mode === "bollywood_fill") {
+    return [...bollywoodFill];
+  }
+
+  if (mode === "bollywood_expressions") {
+    return [...bollywoodExpressions];
+  }
+
   return [];
 }
 
 function startQuiz() {
-  const pool = getCurrentPool();
+  const mode = getMode();
   const direction = getDirection();
   const quizArea = document.getElementById("quizArea");
+  const pool = getCurrentPool();
 
   if (pool.length < 4) {
     quizArea.innerHTML =
-      "<p>問題を作るのに十分な語彙がありません。</p>";
+      "<p>問題を作るのに十分なデータがありません。</p>";
     return;
   }
 
-  currentQuiz = createQuizQuestion(pool, direction);
+  if (mode === "bollywood_fill") {
+    currentQuiz = createFillQuestion(pool);
+  } else if (mode === "bollywood_expressions") {
+    currentQuiz = createExpressionQuestion(pool, direction);
+  } else {
+    currentQuiz = createQuizQuestion(pool, direction);
+  }
+
   renderQuiz(currentQuiz);
 }
 
 function startReviewMode() {
+  const mode = getMode();
+  const quizArea = document.getElementById("quizArea");
+
+  if (!isVocabularyMode(mode)) {
+    quizArea.innerHTML =
+      "<p>復習モードは現在、語彙問題のみ対応しています。</p>";
+    return;
+  }
+
   reviewModeEnabled = true;
   startQuiz();
 }
 
 function updateUiByMode() {
-  const mode = document.getElementById("modeSelect").value;
+  const mode = getMode();
   const lessonSelect = document.getElementById("lessonSelect");
   const lessonLabel = document.getElementById("lessonLabel");
+  const directionSelect = document.getElementById("directionSelect");
+  const directionLabel = document.getElementById("directionLabel");
 
   if (mode === "ch") {
     lessonSelect.style.display = "";
@@ -254,13 +420,26 @@ function updateUiByMode() {
     lessonSelect.style.display = "none";
     if (lessonLabel) lessonLabel.style.display = "none";
   }
+
+  // 穴埋め問題では方向選択は不要
+  if (mode === "bollywood_fill") {
+    directionSelect.style.display = "none";
+    if (directionLabel) directionLabel.style.display = "none";
+  } else {
+    directionSelect.style.display = "";
+    if (directionLabel) directionLabel.style.display = "";
+  }
 }
 
 async function initApp() {
   try {
     const manifest = await loadManifest();
+
     chVocab = await loadAllChVocab(manifest);
     newsVocab = await loadAllNewsVocab(manifest);
+    bollywoodVocab = await loadAllBollywoodVocab(manifest);
+    bollywoodFill = await loadAllBollywoodFill(manifest);
+    bollywoodExpressions = await loadAllBollywoodExpressions(manifest);
 
     document
       .getElementById("startQuizBtn")
@@ -275,7 +454,10 @@ async function initApp() {
 
     document
       .getElementById("modeSelect")
-      .addEventListener("change", updateUiByMode);
+      .addEventListener("change", () => {
+        reviewModeEnabled = false;
+        updateUiByMode();
+      });
 
     updateUiByMode();
   } catch (error) {
