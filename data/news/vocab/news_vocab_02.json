@@ -1,130 +1,973 @@
-[
-  {"key":"प्रशासन","word":"प्रशासन","pos":"名詞","meaning_ja":"行政","category":"行政・制度","source":"news","difficulty":2},
-  {"key":"अधिकारी","word":"अधिकारी","pos":"名詞","meaning_ja":"役人、職員","category":"行政・制度","source":"news","difficulty":2},
-  {"key":"विभाग","word":"विभाग","pos":"名詞","meaning_ja":"部門、部署","category":"行政・制度","source":"news","difficulty":2},
-  {"key":"आयोग","word":"आयोग","pos":"名詞","meaning_ja":"委員会","category":"行政・制度","source":"news","difficulty":3},
-  {"key":"अधिनियम","word":"अधिनियम","pos":"名詞","meaning_ja":"法律、法令","category":"行政・制度","source":"news","difficulty":4},
-  {"key":"निर्देश","word":"निर्देश","pos":"名詞","meaning_ja":"指示、指令","category":"行政・制度","source":"news","difficulty":3},
-  {"key":"व्यवस्था","word":"व्यवस्था","pos":"名詞","meaning_ja":"体制、仕組み","category":"行政・制度","source":"news","difficulty":3},
-  {"key":"प्रक्रिया","word":"प्रक्रिया","pos":"名詞","meaning_ja":"手続き、過程、プロセス","category":"行政・制度","source":"news","difficulty":2},
-  {"key":"प्रावधान","word":"प्रावधान","pos":"名詞","meaning_ja":"規定、条項","category":"行政・制度","source":"news","difficulty":4},
-  {"key":"नीति","word":"नीति","pos":"名詞","meaning_ja":"政策、方針","category":"行政・制度","source":"news","difficulty":2},
-  {"key":"योजना","word":"योजना","pos":"名詞","meaning_ja":"計画","category":"行政・制度","source":"news","difficulty":2},
-  {"key":"क्रियान्वयन","word":"क्रियान्वयन","pos":"名詞","meaning_ja":"実施、施行","category":"行政・制度","source":"news","difficulty":5},
-  {"key":"निगरानी","word":"निगरानी","pos":"名詞","meaning_ja":"監視、モニタリング","category":"行政・制度","source":"news","difficulty":3},
-  {"key":"सर्वेक्षण","word":"सर्वेक्षण","pos":"名詞","meaning_ja":"調査、サーベイ","category":"行政・制度","source":"news","difficulty":3},
-  {"key":"रिपोर्ट","word":"रिपोर्ट","pos":"名詞","meaning_ja":"報告、レポート","category":"行政・制度","source":"news","difficulty":1},
-  {"key":"अनुमति","word":"अनुमति","pos":"名詞","meaning_ja":"許可","category":"行政・制度","source":"news","difficulty":2},
-  {"key":"सुविधा","word":"सुविधा","pos":"名詞","meaning_ja":"便宜、設備、機能","category":"行政・制度","source":"news","difficulty":2},
-  {"key":"प्राधिकरण","word":"प्राधिकरण","pos":"名詞","meaning_ja":"当局、管轄機関","category":"行政・制度","source":"news","difficulty":5},
-  {"key":"परिषद","word":"परिषद","pos":"名詞","meaning_ja":"評議会、審議会","category":"行政・制度","source":"news","difficulty":4},
-  {"key":"गठन","word":"गठन","pos":"名詞","meaning_ja":"結成、編成、設立","category":"行政・制度","source":"news","difficulty":3},
-
-  {"key":"मजदूर","word":"मज़दूर","pos":"名詞","meaning_ja":"労働者","category":"労働・経済","source":"news","difficulty":2},
-  {"key":"मजदूरी","word":"मज़दूरी","pos":"名詞","meaning_ja":"労賃、賃金、日当","category":"労働・経済","source":"news","difficulty":3},
-  {"key":"वेतन","word":"वेतन","pos":"名詞","meaning_ja":"給与、賃金","category":"労働・経済","source":"news","difficulty":2},
-  {"key":"न्यूनतम","word":"न्यूनतम","pos":"形容詞","meaning_ja":"最低の、最小の","category":"労働・経済","source":"news","difficulty":3},
-  {"key":"कर्मचारी","word":"कर्मचारी","pos":"名詞","meaning_ja":"職員、従業員","category":"労働・経済","source":"news","difficulty":2},
-  {"key":"भुगतान","word":"भुगतान","pos":"名詞","meaning_ja":"支払い","category":"労働・経済","source":"news","difficulty":2},
-  {"key":"बकाया","word":"बकाया","pos":"名詞","meaning_ja":"未払い分、残額","category":"労働・経済","source":"news","difficulty":3},
-  {"key":"वृद्धि","word":"वृद्धि","pos":"名詞","meaning_ja":"増加、上昇","category":"労働・経済","source":"news","difficulty":3},
-  {"key":"बढ़ोतरी","word":"बढ़ोतरी","pos":"名詞","meaning_ja":"増加、引き上げ","category":"労働・経済","source":"news","difficulty":2},
-  {"key":"कमी","word":"कमी","pos":"名詞","meaning_ja":"不足、欠乏","category":"労働・経済","source":"news","difficulty":1},
-  {"key":"फंड","word":"फंड","pos":"名詞","meaning_ja":"基金、資金","category":"労働・経済","source":"news","difficulty":1},
-  {"key":"औद्योगिक","word":"औद्योगिक","pos":"形容詞","meaning_ja":"工業の、産業の","category":"労働・経済","source":"news","difficulty":3},
-  {"key":"कारखाना","word":"कारखाना","pos":"名詞","meaning_ja":"工場","category":"労働・経済","source":"news","difficulty":2},
-  {"key":"असंगठित","word":"असंगठित","pos":"形容詞","meaning_ja":"非組織的な、未組織の","category":"労働・経済","source":"news","difficulty":4},
-  {"key":"मांग","word":"मांग","pos":"名詞","meaning_ja":"要求、需要","category":"労働・経済","source":"news","difficulty":2},
-
-  {"key":"सुप्रीम_कोर्ट","word":"सुप्रीम कोर्ट","pos":"名詞","meaning_ja":"最高裁判所","category":"裁判・法・選挙","source":"news","difficulty":2},
-  {"key":"अदालत","word":"अदालत","pos":"名詞","meaning_ja":"裁判所","category":"裁判・法・選挙","source":"news","difficulty":2},
-  {"key":"न्यायालय","word":"न्यायालय","pos":"名詞","meaning_ja":"裁判所、法廷","category":"裁判・法・選挙","source":"news","difficulty":4},
-  {"key":"न्यायिक","word":"न्यायिक","pos":"形容詞","meaning_ja":"司法の、裁判上の","category":"裁判・法・選挙","source":"news","difficulty":4},
-  {"key":"अपील","word":"अपील","pos":"名詞","meaning_ja":"上訴、訴え、アピール","category":"裁判・法・選挙","source":"news","difficulty":2},
-  {"key":"अपीलीय","word":"अपीलीय","pos":"形容詞","meaning_ja":"上訴の、控訴審の","category":"裁判・法・選挙","source":"news","difficulty":5},
-  {"key":"ट्रिब्युनल","word":"ट्रिब्युनल","pos":"名詞","meaning_ja":"審判機関、法廷、トリビュナル","category":"裁判・法・選挙","source":"news","difficulty":4},
-  {"key":"याचिका","word":"याचिका","pos":"名詞","meaning_ja":"請願、訴状、申立て","category":"裁判・法・選挙","source":"news","difficulty":4},
-  {"key":"सुनवाई","word":"सुनवाई","pos":"名詞","meaning_ja":"審理、聴聞","category":"裁判・法・選挙","source":"news","difficulty":3},
-  {"key":"मंजूरी","word":"मंजूरी","pos":"名詞","meaning_ja":"承認、認可","category":"裁判・法・選挙","source":"news","difficulty":3},
-  {"key":"अनुच्छेद","word":"अनुच्छेद","pos":"名詞","meaning_ja":"条文、条項、憲法の条","category":"裁判・法・選挙","source":"news","difficulty":4},
-  {"key":"संविधान","word":"संविधान","pos":"名詞","meaning_ja":"憲法","category":"裁判・法・選挙","source":"news","difficulty":3},
-  {"key":"फैसला","word":"फैसला","pos":"名詞","meaning_ja":"判決、決定","category":"裁判・法・選挙","source":"news","difficulty":2},
-  {"key":"अधिकार","word":"अधिकार","pos":"名詞","meaning_ja":"権利、権限","category":"裁判・法・選挙","source":"news","difficulty":2},
-  {"key":"मतदान","word":"मतदान","pos":"名詞","meaning_ja":"投票","category":"裁判・法・選挙","source":"news","difficulty":3},
-  {"key":"मतदाता","word":"मतदाता","pos":"名詞","meaning_ja":"有権者","category":"裁判・法・選挙","source":"news","difficulty":3},
-  {"key":"मतदाता_सूची","word":"मतदाता सूची","pos":"名詞","meaning_ja":"有権者名簿","category":"裁判・法・選挙","source":"news","difficulty":4},
-  {"key":"पूरक","word":"पूरक","pos":"形容詞","meaning_ja":"補足の、追加の","category":"裁判・法・選挙","source":"news","difficulty":4},
-  {"key":"चुनाव_आयोग","word":"चुनाव आयोग","pos":"名詞","meaning_ja":"選挙管理委員会","category":"裁判・法・選挙","source":"news","difficulty":4},
-  {"key":"चुनाव","word":"चुनाव","pos":"名詞","meaning_ja":"選挙","category":"裁判・法・選挙","source":"news","difficulty":2},
-
-  {"key":"घटना","word":"घटना","pos":"名詞","meaning_ja":"出来事、事件","category":"事件・事故","source":"news","difficulty":2},
-  {"key":"हिंसा","word":"हिंसा","pos":"名詞","meaning_ja":"暴力","category":"事件・事故","source":"news","difficulty":2},
-  {"key":"हिंसक","word":"हिंसक","pos":"形容詞","meaning_ja":"暴力的な","category":"事件・事故","source":"news","difficulty":3},
-  {"key":"प्रदर्शन","word":"प्रदर्शन","pos":"名詞","meaning_ja":"デモ、抗議行動、示威行動","category":"事件・事故","source":"news","difficulty":3},
-  {"key":"तोड़फोड़","word":"तोड़फोड़","pos":"名詞","meaning_ja":"破壊行為、器物損壊","category":"事件・事故","source":"news","difficulty":4},
-  {"key":"पुलिस","word":"पुलिस","pos":"名詞","meaning_ja":"警察","category":"事件・事故","source":"news","difficulty":1},
-  {"key":"थाना","word":"थाना","pos":"名詞","meaning_ja":"警察署","category":"事件・事故","source":"news","difficulty":2},
-  {"key":"अभियुक्त","word":"अभियुक्त","pos":"名詞","meaning_ja":"被告、被疑者、容疑者","category":"事件・事故","source":"news","difficulty":4},
-  {"key":"पोस्टमॉर्टम","word":"पोस्टमॉर्टम","pos":"名詞","meaning_ja":"検死、死体解剖","category":"事件・事故","source":"news","difficulty":3},
-  {"key":"पुष्टि","word":"पुष्टि","pos":"名詞","meaning_ja":"確認、裏づけ、確証","category":"事件・事故","source":"news","difficulty":3},
-  {"key":"साज़िश","word":"साज़िश","pos":"名詞","meaning_ja":"陰謀、企み","category":"事件・事故","source":"news","difficulty":3},
-  {"key":"मौत","word":"मौत","pos":"名詞","meaning_ja":"死","category":"事件・事故","source":"news","difficulty":2},
-  {"key":"मृत्यु","word":"मृत्यु","pos":"名詞","meaning_ja":"死亡、死去","category":"事件・事故","source":"news","difficulty":3},
-  {"key":"गिरफ्तारी","word":"गिरफ्तारी","pos":"名詞","meaning_ja":"逮捕","category":"事件・事故","source":"news","difficulty":2},
-  {"key":"जांच","word":"जांच","pos":"名詞","meaning_ja":"捜査、調査、検査","category":"事件・事故","source":"news","difficulty":2},
-
-  {"key":"स्वच्छता","word":"स्वच्छता","pos":"名詞","meaning_ja":"清潔さ、衛生、清掃状態","category":"都市・環境","source":"news","difficulty":3},
-  {"key":"कूड़ा","word":"कूड़ा","pos":"名詞","meaning_ja":"ごみ、廃棄物","category":"都市・環境","source":"news","difficulty":2},
-  {"key":"रैंकिंग","word":"रैंकिंग","pos":"名詞","meaning_ja":"ランキング、順位付け","category":"都市・環境","source":"news","difficulty":1},
-  {"key":"लैंडफिल","word":"लैंडफिल","pos":"名詞","meaning_ja":"埋立地、最終処分場","category":"都市・環境","source":"news","difficulty":3},
-  {"key":"एजेंसी","word":"एजेंसी","pos":"名詞","meaning_ja":"機関、エージェンシー","category":"都市・環境","source":"news","difficulty":1},
-  {"key":"भागीदारी","word":"भागीदारी","pos":"名詞","meaning_ja":"参加、参画、関与","category":"都市・環境","source":"news","difficulty":3},
-  {"key":"जागरूकता","word":"जागरूकता","pos":"名詞","meaning_ja":"意識向上、認識","category":"都市・環境","source":"news","difficulty":3},
-  {"key":"महानगर","word":"महानगर","pos":"名詞","meaning_ja":"大都市、メトロポリス","category":"都市・環境","source":"news","difficulty":3},
-  {"key":"आबादी","word":"आबादी","pos":"名詞","meaning_ja":"人口","category":"都市・環境","source":"news","difficulty":2},
-  {"key":"चालान","word":"चालान","pos":"名詞","meaning_ja":"罰金切符、違反切符、伝票","category":"都市・環境","source":"news","difficulty":3},
-  {"key":"भूजल","word":"भू-जल","pos":"名詞","meaning_ja":"地下水","category":"都市・環境","source":"news","difficulty":4},
-  {"key":"गुणवत्ता","word":"गुणवत्ता","pos":"名詞","meaning_ja":"品質、質","category":"都市・環境","source":"news","difficulty":3},
-  {"key":"खारा","word":"खारा","pos":"形容詞","meaning_ja":"塩分を含む、塩辛い","category":"都市・環境","source":"news","difficulty":3},
-  {"key":"संकट","word":"संकट","pos":"名詞","meaning_ja":"危機","category":"都市・環境","source":"news","difficulty":2},
-  {"key":"दोहन","word":"दोहन","pos":"名詞","meaning_ja":"搾取、過度利用、採取","category":"都市・環境","source":"news","difficulty":5},
-
-  {"key":"जनगणना","word":"जनगणना","pos":"名詞","meaning_ja":"国勢調査、人口調査","category":"調査・データ","source":"news","difficulty":4},
-  {"key":"अभियान","word":"अभियान","pos":"名詞","meaning_ja":"キャンペーン、活動","category":"調査・データ","source":"news","difficulty":2},
-  {"key":"डेटा","word":"डेटा","pos":"名詞","meaning_ja":"データ","category":"調査・データ","source":"news","difficulty":1},
-  {"key":"डिजिटल","word":"डिजिटल","pos":"形容詞","meaning_ja":"デジタルの","category":"調査・データ","source":"news","difficulty":1},
-  {"key":"पोर्टल","word":"पोर्टल","pos":"名詞","meaning_ja":"ポータル、ウェブ窓口","category":"調査・データ","source":"news","difficulty":1},
-  {"key":"परिवार","word":"परिवार","pos":"名詞","meaning_ja":"家族、世帯","category":"調査・データ","source":"news","difficulty":1},
-  {"key":"गणना","word":"गणना","pos":"名詞","meaning_ja":"計数、集計、計算","category":"調査・データ","source":"news","difficulty":3},
-  {"key":"स्वगणना","word":"स्व-गणना","pos":"名詞","meaning_ja":"自己申告式調査、自主記入","category":"調査・データ","source":"news","difficulty":5},
-  {"key":"सत्यापन","word":"सत्यापन","pos":"名詞","meaning_ja":"検証、照合、確認","category":"調査・データ","source":"news","difficulty":4},
-  {"key":"संख्या","word":"संख्या","pos":"名詞","meaning_ja":"数、数量","category":"調査・データ","source":"news","difficulty":2},
-  {"key":"स्थिति","word":"स्थिति","pos":"名詞","meaning_ja":"状況、状態","category":"調査・データ","source":"news","difficulty":2},
-  {"key":"क्षेत्रीय_कार्य","word":"क्षेत्रीय कार्य","pos":"名詞","meaning_ja":"現地調査、地域での実地作業","category":"調査・データ","source":"news","difficulty":5},
-
-  {"key":"उपभोक्ता","word":"उपभोक्ता","pos":"名詞","meaning_ja":"消費者","category":"社会・公共","source":"news","difficulty":3},
-  {"key":"सहमति","word":"सहमति","pos":"名詞","meaning_ja":"同意、合意","category":"社会・公共","source":"news","difficulty":2},
-  {"key":"गुमराह","word":"गुमराह","pos":"形容詞","meaning_ja":"誤導された、惑わされた","category":"社会・公共","source":"news","difficulty":4},
-  {"key":"गंभीर","word":"गंभीर","pos":"形容詞","meaning_ja":"重大な、深刻な","category":"社会・公共","source":"news","difficulty":2},
-  {"key":"मुद्दा","word":"मुद्दा","pos":"名詞","meaning_ja":"問題点、争点","category":"社会・公共","source":"news","difficulty":2},
-  {"key":"निवासी","word":"निवासी","pos":"名詞","meaning_ja":"住民、居住者","category":"社会・公共","source":"news","difficulty":3},
-  {"key":"ग्रामीण","word":"ग्रामीण","pos":"名詞","meaning_ja":"農村住民","category":"社会・公共","source":"news","difficulty":3},
-  {"key":"कृषि","word":"कृषि","pos":"名詞","meaning_ja":"農業","category":"社会・公共","source":"news","difficulty":3},
-  {"key":"नुकसानदायक","word":"नुकसानदायक","pos":"形容詞","meaning_ja":"有害な、損害を与える","category":"社会・公共","source":"news","difficulty":4},
-  {"key":"सुधार","word":"सुधार","pos":"名詞","meaning_ja":"改善、改良","category":"社会・公共","source":"news","difficulty":2},
-
-  {"key":"लागू_करना","word":"लागू करना","pos":"動詞句","meaning_ja":"施行する、適用する","category":"重要動詞","source":"news","difficulty":3},
-  {"key":"लागू_होना","word":"लागू होना","pos":"動詞句","meaning_ja":"施行される、適用される","category":"重要動詞","source":"news","difficulty":3},
-  {"key":"घोषणा_करना","word":"घोषणा करना","pos":"動詞句","meaning_ja":"発表する","category":"重要動詞","source":"news","difficulty":2},
-  {"key":"एलान_करना","word":"एलान करना","pos":"動詞句","meaning_ja":"発表する","category":"重要動詞","source":"news","difficulty":2},
-  {"key":"जारी_रखना","word":"जारी रखना","pos":"動詞句","meaning_ja":"継続する、続ける","category":"重要動詞","source":"news","difficulty":2},
-  {"key":"बढ़ाना","word":"बढ़ाना","pos":"動詞","meaning_ja":"増やす、引き上げる","category":"重要動詞","source":"news","difficulty":1},
-  {"key":"बढ़ना","word":"बढ़ना","pos":"動詞","meaning_ja":"増える、上がる","category":"重要動詞","source":"news","difficulty":1},
-  {"key":"पुष्टि_करना","word":"पुष्टि करना","pos":"動詞句","meaning_ja":"確認する、裏づける","category":"重要動詞","source":"news","difficulty":3},
-  {"key":"मंजूर_करना","word":"मंजूर करना","pos":"動詞句","meaning_ja":"承認する、認可する","category":"重要動詞","source":"news","difficulty":2},
-  {"key":"निपटारा_करना","word":"निपटारा करना","pos":"動詞句","meaning_ja":"処理する、解決する、裁く","category":"重要動詞","source":"news","difficulty":4},
-  {"key":"सत्यापित_करना","word":"सत्यापित करना","pos":"動詞句","meaning_ja":"検証する、確認する","category":"重要動詞","source":"news","difficulty":4},
-  {"key":"प्रभावित_होना","word":"प्रभावित होना","pos":"動詞句","meaning_ja":"影響を受ける","category":"重要動詞","source":"news","difficulty":3},
-  {"key":"मांग_करना","word":"मांग करना","pos":"動詞句","meaning_ja":"要求する","category":"重要動詞","source":"news","difficulty":2},
-  {"key":"सुधार_करना","word":"सुधार करना","pos":"動詞句","meaning_ja":"改善する","category":"重要動詞","source":"news","difficulty":2}
-]
+{
+  "topic": "mixed",
+  "vocab": [
+    {
+      "word": "प्रशासन",
+      "meaning": "行政",
+      "pos": "名詞",
+      "key": "प्रशासन",
+      "category": "行政・制度",
+      "difficulty": 2
+    },
+    {
+      "word": "अधिकारी",
+      "meaning": "役人、職員",
+      "pos": "名詞",
+      "key": "अधिकारी",
+      "category": "行政・制度",
+      "difficulty": 2
+    },
+    {
+      "word": "विभाग",
+      "meaning": "部門、部署",
+      "pos": "名詞",
+      "key": "विभाग",
+      "category": "行政・制度",
+      "difficulty": 2
+    },
+    {
+      "word": "आयोग",
+      "meaning": "委員会",
+      "pos": "名詞",
+      "key": "आयोग",
+      "category": "行政・制度",
+      "difficulty": 3
+    },
+    {
+      "word": "अधिनियम",
+      "meaning": "法律、法令",
+      "pos": "名詞",
+      "key": "अधिनियम",
+      "category": "行政・制度",
+      "difficulty": 4
+    },
+    {
+      "word": "निर्देश",
+      "meaning": "指示、指令",
+      "pos": "名詞",
+      "key": "निर्देश",
+      "category": "行政・制度",
+      "difficulty": 3
+    },
+    {
+      "word": "व्यवस्था",
+      "meaning": "体制、仕組み",
+      "pos": "名詞",
+      "key": "व्यवस्था",
+      "category": "行政・制度",
+      "difficulty": 3
+    },
+    {
+      "word": "प्रक्रिया",
+      "meaning": "手続き、過程、プロセス",
+      "pos": "名詞",
+      "key": "प्रक्रिया",
+      "category": "行政・制度",
+      "difficulty": 2
+    },
+    {
+      "word": "प्रावधान",
+      "meaning": "規定、条項",
+      "pos": "名詞",
+      "key": "प्रावधान",
+      "category": "行政・制度",
+      "difficulty": 4
+    },
+    {
+      "word": "नीति",
+      "meaning": "政策、方針",
+      "pos": "名詞",
+      "key": "नीति",
+      "category": "行政・制度",
+      "difficulty": 2
+    },
+    {
+      "word": "योजना",
+      "meaning": "計画",
+      "pos": "名詞",
+      "key": "योजना",
+      "category": "行政・制度",
+      "difficulty": 2
+    },
+    {
+      "word": "क्रियान्वयन",
+      "meaning": "実施、施行",
+      "pos": "名詞",
+      "key": "क्रियान्वयन",
+      "category": "行政・制度",
+      "difficulty": 5
+    },
+    {
+      "word": "निगरानी",
+      "meaning": "監視、モニタリング",
+      "pos": "名詞",
+      "key": "निगरानी",
+      "category": "行政・制度",
+      "difficulty": 3
+    },
+    {
+      "word": "सर्वेक्षण",
+      "meaning": "調査、サーベイ",
+      "pos": "名詞",
+      "key": "सर्वेक्षण",
+      "category": "行政・制度",
+      "difficulty": 3
+    },
+    {
+      "word": "रिपोर्ट",
+      "meaning": "報告、レポート",
+      "pos": "名詞",
+      "key": "रिपोर्ट",
+      "category": "行政・制度",
+      "difficulty": 1
+    },
+    {
+      "word": "अनुमति",
+      "meaning": "許可",
+      "pos": "名詞",
+      "key": "अनुमति",
+      "category": "行政・制度",
+      "difficulty": 2
+    },
+    {
+      "word": "सुविधा",
+      "meaning": "便宜、設備、機能",
+      "pos": "名詞",
+      "key": "सुविधा",
+      "category": "行政・制度",
+      "difficulty": 2
+    },
+    {
+      "word": "प्राधिकरण",
+      "meaning": "当局、管轄機関",
+      "pos": "名詞",
+      "key": "प्राधिकरण",
+      "category": "行政・制度",
+      "difficulty": 5
+    },
+    {
+      "word": "परिषद",
+      "meaning": "評議会、審議会",
+      "pos": "名詞",
+      "key": "परिषद",
+      "category": "行政・制度",
+      "difficulty": 4
+    },
+    {
+      "word": "गठन",
+      "meaning": "結成、編成、設立",
+      "pos": "名詞",
+      "key": "गठन",
+      "category": "行政・制度",
+      "difficulty": 3
+    },
+    {
+      "word": "मज़दूर",
+      "meaning": "労働者",
+      "pos": "名詞",
+      "key": "मजदूर",
+      "category": "労働・経済",
+      "difficulty": 2
+    },
+    {
+      "word": "मज़दूरी",
+      "meaning": "労賃、賃金、日当",
+      "pos": "名詞",
+      "key": "मजदूरी",
+      "category": "労働・経済",
+      "difficulty": 3
+    },
+    {
+      "word": "वेतन",
+      "meaning": "給与、賃金",
+      "pos": "名詞",
+      "key": "वेतन",
+      "category": "労働・経済",
+      "difficulty": 2
+    },
+    {
+      "word": "न्यूनतम",
+      "meaning": "最低の、最小の",
+      "pos": "形容詞",
+      "key": "न्यूनतम",
+      "category": "労働・経済",
+      "difficulty": 3
+    },
+    {
+      "word": "कर्मचारी",
+      "meaning": "職員、従業員",
+      "pos": "名詞",
+      "key": "कर्मचारी",
+      "category": "労働・経済",
+      "difficulty": 2
+    },
+    {
+      "word": "भुगतान",
+      "meaning": "支払い",
+      "pos": "名詞",
+      "key": "भुगतान",
+      "category": "労働・経済",
+      "difficulty": 2
+    },
+    {
+      "word": "बकाया",
+      "meaning": "未払い分、残額",
+      "pos": "名詞",
+      "key": "बकाया",
+      "category": "労働・経済",
+      "difficulty": 3
+    },
+    {
+      "word": "वृद्धि",
+      "meaning": "増加、上昇",
+      "pos": "名詞",
+      "key": "वृद्धि",
+      "category": "労働・経済",
+      "difficulty": 3
+    },
+    {
+      "word": "बढ़ोतरी",
+      "meaning": "増加、引き上げ",
+      "pos": "名詞",
+      "key": "बढ़ोतरी",
+      "category": "労働・経済",
+      "difficulty": 2
+    },
+    {
+      "word": "कमी",
+      "meaning": "不足、欠乏",
+      "pos": "名詞",
+      "key": "कमी",
+      "category": "労働・経済",
+      "difficulty": 1
+    },
+    {
+      "word": "फंड",
+      "meaning": "基金、資金",
+      "pos": "名詞",
+      "key": "फंड",
+      "category": "労働・経済",
+      "difficulty": 1
+    },
+    {
+      "word": "औद्योगिक",
+      "meaning": "工業の、産業の",
+      "pos": "形容詞",
+      "key": "औद्योगिक",
+      "category": "労働・経済",
+      "difficulty": 3
+    },
+    {
+      "word": "कारखाना",
+      "meaning": "工場",
+      "pos": "名詞",
+      "key": "कारखाना",
+      "category": "労働・経済",
+      "difficulty": 2
+    },
+    {
+      "word": "असंगठित",
+      "meaning": "非組織的な、未組織の",
+      "pos": "形容詞",
+      "key": "असंगठित",
+      "category": "労働・経済",
+      "difficulty": 4
+    },
+    {
+      "word": "मांग",
+      "meaning": "要求、需要",
+      "pos": "名詞",
+      "key": "मांग",
+      "category": "労働・経済",
+      "difficulty": 2
+    },
+    {
+      "word": "सुप्रीम कोर्ट",
+      "meaning": "最高裁判所",
+      "pos": "名詞",
+      "key": "सुप्रीम_कोर्ट",
+      "category": "裁判・法・選挙",
+      "difficulty": 2
+    },
+    {
+      "word": "अदालत",
+      "meaning": "裁判所",
+      "pos": "名詞",
+      "key": "अदालत",
+      "category": "裁判・法・選挙",
+      "difficulty": 2
+    },
+    {
+      "word": "न्यायालय",
+      "meaning": "裁判所、法廷",
+      "pos": "名詞",
+      "key": "न्यायालय",
+      "category": "裁判・法・選挙",
+      "difficulty": 4
+    },
+    {
+      "word": "न्यायिक",
+      "meaning": "司法の、裁判上の",
+      "pos": "形容詞",
+      "key": "न्यायिक",
+      "category": "裁判・法・選挙",
+      "difficulty": 4
+    },
+    {
+      "word": "अपील",
+      "meaning": "上訴、訴え、アピール",
+      "pos": "名詞",
+      "key": "अपील",
+      "category": "裁判・法・選挙",
+      "difficulty": 2
+    },
+    {
+      "word": "अपीलीय",
+      "meaning": "上訴の、控訴審の",
+      "pos": "形容詞",
+      "key": "अपीलीय",
+      "category": "裁判・法・選挙",
+      "difficulty": 5
+    },
+    {
+      "word": "ट्रिब्युनल",
+      "meaning": "審判機関、法廷、トリビュナル",
+      "pos": "名詞",
+      "key": "ट्रिब्युनल",
+      "category": "裁判・法・選挙",
+      "difficulty": 4
+    },
+    {
+      "word": "याचिका",
+      "meaning": "請願、訴状、申立て",
+      "pos": "名詞",
+      "key": "याचिका",
+      "category": "裁判・法・選挙",
+      "difficulty": 4
+    },
+    {
+      "word": "सुनवाई",
+      "meaning": "審理、聴聞",
+      "pos": "名詞",
+      "key": "सुनवाई",
+      "category": "裁判・法・選挙",
+      "difficulty": 3
+    },
+    {
+      "word": "मंजूरी",
+      "meaning": "承認、認可",
+      "pos": "名詞",
+      "key": "मंजूरी",
+      "category": "裁判・法・選挙",
+      "difficulty": 3
+    },
+    {
+      "word": "अनुच्छेद",
+      "meaning": "条文、条項、憲法の条",
+      "pos": "名詞",
+      "key": "अनुच्छेद",
+      "category": "裁判・法・選挙",
+      "difficulty": 4
+    },
+    {
+      "word": "संविधान",
+      "meaning": "憲法",
+      "pos": "名詞",
+      "key": "संविधान",
+      "category": "裁判・法・選挙",
+      "difficulty": 3
+    },
+    {
+      "word": "फैसला",
+      "meaning": "判決、決定",
+      "pos": "名詞",
+      "key": "फैसला",
+      "category": "裁判・法・選挙",
+      "difficulty": 2
+    },
+    {
+      "word": "अधिकार",
+      "meaning": "権利、権限",
+      "pos": "名詞",
+      "key": "अधिकार",
+      "category": "裁判・法・選挙",
+      "difficulty": 2
+    },
+    {
+      "word": "मतदान",
+      "meaning": "投票",
+      "pos": "名詞",
+      "key": "मतदान",
+      "category": "裁判・法・選挙",
+      "difficulty": 3
+    },
+    {
+      "word": "मतदाता",
+      "meaning": "有権者",
+      "pos": "名詞",
+      "key": "मतदाता",
+      "category": "裁判・法・選挙",
+      "difficulty": 3
+    },
+    {
+      "word": "मतदाता सूची",
+      "meaning": "有権者名簿",
+      "pos": "名詞",
+      "key": "मतदाता_सूची",
+      "category": "裁判・法・選挙",
+      "difficulty": 4
+    },
+    {
+      "word": "पूरक",
+      "meaning": "補足の、追加の",
+      "pos": "形容詞",
+      "key": "पूरक",
+      "category": "裁判・法・選挙",
+      "difficulty": 4
+    },
+    {
+      "word": "चुनाव आयोग",
+      "meaning": "選挙管理委員会",
+      "pos": "名詞",
+      "key": "चुनाव_आयोग",
+      "category": "裁判・法・選挙",
+      "difficulty": 4
+    },
+    {
+      "word": "चुनाव",
+      "meaning": "選挙",
+      "pos": "名詞",
+      "key": "चुनाव",
+      "category": "裁判・法・選挙",
+      "difficulty": 2
+    },
+    {
+      "word": "घटना",
+      "meaning": "出来事、事件",
+      "pos": "名詞",
+      "key": "घटना",
+      "category": "事件・事故",
+      "difficulty": 2
+    },
+    {
+      "word": "हिंसा",
+      "meaning": "暴力",
+      "pos": "名詞",
+      "key": "हिंसा",
+      "category": "事件・事故",
+      "difficulty": 2
+    },
+    {
+      "word": "हिंसक",
+      "meaning": "暴力的な",
+      "pos": "形容詞",
+      "key": "हिंसक",
+      "category": "事件・事故",
+      "difficulty": 3
+    },
+    {
+      "word": "प्रदर्शन",
+      "meaning": "デモ、抗議行動、示威行動",
+      "pos": "名詞",
+      "key": "प्रदर्शन",
+      "category": "事件・事故",
+      "difficulty": 3
+    },
+    {
+      "word": "तोड़फोड़",
+      "meaning": "破壊行為、器物損壊",
+      "pos": "名詞",
+      "key": "तोड़फोड़",
+      "category": "事件・事故",
+      "difficulty": 4
+    },
+    {
+      "word": "पुलिस",
+      "meaning": "警察",
+      "pos": "名詞",
+      "key": "पुलिस",
+      "category": "事件・事故",
+      "difficulty": 1
+    },
+    {
+      "word": "थाना",
+      "meaning": "警察署",
+      "pos": "名詞",
+      "key": "थाना",
+      "category": "事件・事故",
+      "difficulty": 2
+    },
+    {
+      "word": "अभियुक्त",
+      "meaning": "被告、被疑者、容疑者",
+      "pos": "名詞",
+      "key": "अभियुक्त",
+      "category": "事件・事故",
+      "difficulty": 4
+    },
+    {
+      "word": "पोस्टमॉर्टम",
+      "meaning": "検死、死体解剖",
+      "pos": "名詞",
+      "key": "पोस्टमॉर्टम",
+      "category": "事件・事故",
+      "difficulty": 3
+    },
+    {
+      "word": "पुष्टि",
+      "meaning": "確認、裏づけ、確証",
+      "pos": "名詞",
+      "key": "पुष्टि",
+      "category": "事件・事故",
+      "difficulty": 3
+    },
+    {
+      "word": "साज़िश",
+      "meaning": "陰謀、企み",
+      "pos": "名詞",
+      "key": "साज़िश",
+      "category": "事件・事故",
+      "difficulty": 3
+    },
+    {
+      "word": "मौत",
+      "meaning": "死",
+      "pos": "名詞",
+      "key": "मौत",
+      "category": "事件・事故",
+      "difficulty": 2
+    },
+    {
+      "word": "मृत्यु",
+      "meaning": "死亡、死去",
+      "pos": "名詞",
+      "key": "मृत्यु",
+      "category": "事件・事故",
+      "difficulty": 3
+    },
+    {
+      "word": "गिरफ्तारी",
+      "meaning": "逮捕",
+      "pos": "名詞",
+      "key": "गिरफ्तारी",
+      "category": "事件・事故",
+      "difficulty": 2
+    },
+    {
+      "word": "जांच",
+      "meaning": "捜査、調査、検査",
+      "pos": "名詞",
+      "key": "जांच",
+      "category": "事件・事故",
+      "difficulty": 2
+    },
+    {
+      "word": "स्वच्छता",
+      "meaning": "清潔さ、衛生、清掃状態",
+      "pos": "名詞",
+      "key": "स्वच्छता",
+      "category": "都市・環境",
+      "difficulty": 3
+    },
+    {
+      "word": "कूड़ा",
+      "meaning": "ごみ、廃棄物",
+      "pos": "名詞",
+      "key": "कूड़ा",
+      "category": "都市・環境",
+      "difficulty": 2
+    },
+    {
+      "word": "रैंकिंग",
+      "meaning": "ランキング、順位付け",
+      "pos": "名詞",
+      "key": "रैंकिंग",
+      "category": "都市・環境",
+      "difficulty": 1
+    },
+    {
+      "word": "लैंडफिल",
+      "meaning": "埋立地、最終処分場",
+      "pos": "名詞",
+      "key": "लैंडफिल",
+      "category": "都市・環境",
+      "difficulty": 3
+    },
+    {
+      "word": "एजेंसी",
+      "meaning": "機関、エージェンシー",
+      "pos": "名詞",
+      "key": "एजेंसी",
+      "category": "都市・環境",
+      "difficulty": 1
+    },
+    {
+      "word": "भागीदारी",
+      "meaning": "参加、参画、関与",
+      "pos": "名詞",
+      "key": "भागीदारी",
+      "category": "都市・環境",
+      "difficulty": 3
+    },
+    {
+      "word": "जागरूकता",
+      "meaning": "意識向上、認識",
+      "pos": "名詞",
+      "key": "जागरूकता",
+      "category": "都市・環境",
+      "difficulty": 3
+    },
+    {
+      "word": "महानगर",
+      "meaning": "大都市、メトロポリス",
+      "pos": "名詞",
+      "key": "महानगर",
+      "category": "都市・環境",
+      "difficulty": 3
+    },
+    {
+      "word": "आबादी",
+      "meaning": "人口",
+      "pos": "名詞",
+      "key": "आबादी",
+      "category": "都市・環境",
+      "difficulty": 2
+    },
+    {
+      "word": "चालान",
+      "meaning": "罰金切符、違反切符、伝票",
+      "pos": "名詞",
+      "key": "चालान",
+      "category": "都市・環境",
+      "difficulty": 3
+    },
+    {
+      "word": "भू-जल",
+      "meaning": "地下水",
+      "pos": "名詞",
+      "key": "भूजल",
+      "category": "都市・環境",
+      "difficulty": 4
+    },
+    {
+      "word": "गुणवत्ता",
+      "meaning": "品質、質",
+      "pos": "名詞",
+      "key": "गुणवत्ता",
+      "category": "都市・環境",
+      "difficulty": 3
+    },
+    {
+      "word": "खारा",
+      "meaning": "塩分を含む、塩辛い",
+      "pos": "形容詞",
+      "key": "खारा",
+      "category": "都市・環境",
+      "difficulty": 3
+    },
+    {
+      "word": "संकट",
+      "meaning": "危機",
+      "pos": "名詞",
+      "key": "संकट",
+      "category": "都市・環境",
+      "difficulty": 2
+    },
+    {
+      "word": "दोहन",
+      "meaning": "搾取、過度利用、採取",
+      "pos": "名詞",
+      "key": "दोहन",
+      "category": "都市・環境",
+      "difficulty": 5
+    },
+    {
+      "word": "जनगणना",
+      "meaning": "国勢調査、人口調査",
+      "pos": "名詞",
+      "key": "जनगणना",
+      "category": "調査・データ",
+      "difficulty": 4
+    },
+    {
+      "word": "अभियान",
+      "meaning": "キャンペーン、活動",
+      "pos": "名詞",
+      "key": "अभियान",
+      "category": "調査・データ",
+      "difficulty": 2
+    },
+    {
+      "word": "डेटा",
+      "meaning": "データ",
+      "pos": "名詞",
+      "key": "डेटा",
+      "category": "調査・データ",
+      "difficulty": 1
+    },
+    {
+      "word": "डिजिटल",
+      "meaning": "デジタルの",
+      "pos": "形容詞",
+      "key": "डिजिटल",
+      "category": "調査・データ",
+      "difficulty": 1
+    },
+    {
+      "word": "पोर्टल",
+      "meaning": "ポータル、ウェブ窓口",
+      "pos": "名詞",
+      "key": "पोर्टल",
+      "category": "調査・データ",
+      "difficulty": 1
+    },
+    {
+      "word": "परिवार",
+      "meaning": "家族、世帯",
+      "pos": "名詞",
+      "key": "परिवार",
+      "category": "調査・データ",
+      "difficulty": 1
+    },
+    {
+      "word": "गणना",
+      "meaning": "計数、集計、計算",
+      "pos": "名詞",
+      "key": "गणना",
+      "category": "調査・データ",
+      "difficulty": 3
+    },
+    {
+      "word": "स्व-गणना",
+      "meaning": "自己申告式調査、自主記入",
+      "pos": "名詞",
+      "key": "स्वगणना",
+      "category": "調査・データ",
+      "difficulty": 5
+    },
+    {
+      "word": "सत्यापन",
+      "meaning": "検証、照合、確認",
+      "pos": "名詞",
+      "key": "सत्यापन",
+      "category": "調査・データ",
+      "difficulty": 4
+    },
+    {
+      "word": "संख्या",
+      "meaning": "数、数量",
+      "pos": "名詞",
+      "key": "संख्या",
+      "category": "調査・データ",
+      "difficulty": 2
+    },
+    {
+      "word": "स्थिति",
+      "meaning": "状況、状態",
+      "pos": "名詞",
+      "key": "स्थिति",
+      "category": "調査・データ",
+      "difficulty": 2
+    },
+    {
+      "word": "क्षेत्रीय कार्य",
+      "meaning": "現地調査、地域での実地作業",
+      "pos": "名詞",
+      "key": "क्षेत्रीय_कार्य",
+      "category": "調査・データ",
+      "difficulty": 5
+    },
+    {
+      "word": "उपभोक्ता",
+      "meaning": "消費者",
+      "pos": "名詞",
+      "key": "उपभोक्ता",
+      "category": "社会・公共",
+      "difficulty": 3
+    },
+    {
+      "word": "सहमति",
+      "meaning": "同意、合意",
+      "pos": "名詞",
+      "key": "सहमति",
+      "category": "社会・公共",
+      "difficulty": 2
+    },
+    {
+      "word": "गुमराह",
+      "meaning": "誤導された、惑わされた",
+      "pos": "形容詞",
+      "key": "गुमराह",
+      "category": "社会・公共",
+      "difficulty": 4
+    },
+    {
+      "word": "गंभीर",
+      "meaning": "重大な、深刻な",
+      "pos": "形容詞",
+      "key": "गंभीर",
+      "category": "社会・公共",
+      "difficulty": 2
+    },
+    {
+      "word": "मुद्दा",
+      "meaning": "問題点、争点",
+      "pos": "名詞",
+      "key": "मुद्दा",
+      "category": "社会・公共",
+      "difficulty": 2
+    },
+    {
+      "word": "निवासी",
+      "meaning": "住民、居住者",
+      "pos": "名詞",
+      "key": "निवासी",
+      "category": "社会・公共",
+      "difficulty": 3
+    },
+    {
+      "word": "ग्रामीण",
+      "meaning": "農村住民",
+      "pos": "名詞",
+      "key": "ग्रामीण",
+      "category": "社会・公共",
+      "difficulty": 3
+    },
+    {
+      "word": "कृषि",
+      "meaning": "農業",
+      "pos": "名詞",
+      "key": "कृषि",
+      "category": "社会・公共",
+      "difficulty": 3
+    },
+    {
+      "word": "नुकसानदायक",
+      "meaning": "有害な、損害を与える",
+      "pos": "形容詞",
+      "key": "नुकसानदायक",
+      "category": "社会・公共",
+      "difficulty": 4
+    },
+    {
+      "word": "सुधार",
+      "meaning": "改善、改良",
+      "pos": "名詞",
+      "key": "सुधार",
+      "category": "社会・公共",
+      "difficulty": 2
+    },
+    {
+      "word": "लागू करना",
+      "meaning": "施行する、適用する",
+      "pos": "動詞句",
+      "key": "लागू_करना",
+      "category": "重要動詞",
+      "difficulty": 3
+    },
+    {
+      "word": "लागू होना",
+      "meaning": "施行される、適用される",
+      "pos": "動詞句",
+      "key": "लागू_होना",
+      "category": "重要動詞",
+      "difficulty": 3
+    },
+    {
+      "word": "घोषणा करना",
+      "meaning": "発表する",
+      "pos": "動詞句",
+      "key": "घोषणा_करना",
+      "category": "重要動詞",
+      "difficulty": 2
+    },
+    {
+      "word": "एलान करना",
+      "meaning": "発表する",
+      "pos": "動詞句",
+      "key": "एलान_करना",
+      "category": "重要動詞",
+      "difficulty": 2
+    },
+    {
+      "word": "जारी रखना",
+      "meaning": "継続する、続ける",
+      "pos": "動詞句",
+      "key": "जारी_रखना",
+      "category": "重要動詞",
+      "difficulty": 2
+    },
+    {
+      "word": "बढ़ाना",
+      "meaning": "増やす、引き上げる",
+      "pos": "動詞",
+      "key": "बढ़ाना",
+      "category": "重要動詞",
+      "difficulty": 1
+    },
+    {
+      "word": "बढ़ना",
+      "meaning": "増える、上がる",
+      "pos": "動詞",
+      "key": "बढ़ना",
+      "category": "重要動詞",
+      "difficulty": 1
+    },
+    {
+      "word": "पुष्टि करना",
+      "meaning": "確認する、裏づける",
+      "pos": "動詞句",
+      "key": "पुष्टि_करना",
+      "category": "重要動詞",
+      "difficulty": 3
+    },
+    {
+      "word": "मंजूर करना",
+      "meaning": "承認する、認可する",
+      "pos": "動詞句",
+      "key": "मंजूर_करना",
+      "category": "重要動詞",
+      "difficulty": 2
+    },
+    {
+      "word": "निपटारा करना",
+      "meaning": "処理する、解決する、裁く",
+      "pos": "動詞句",
+      "key": "निपटारा_करना",
+      "category": "重要動詞",
+      "difficulty": 4
+    },
+    {
+      "word": "सत्यापित करना",
+      "meaning": "検証する、確認する",
+      "pos": "動詞句",
+      "key": "सत्यापित_करना",
+      "category": "重要動詞",
+      "difficulty": 4
+    },
+    {
+      "word": "प्रभावित होना",
+      "meaning": "影響を受ける",
+      "pos": "動詞句",
+      "key": "प्रभावित_होना",
+      "category": "重要動詞",
+      "difficulty": 3
+    },
+    {
+      "word": "मांग करना",
+      "meaning": "要求する",
+      "pos": "動詞句",
+      "key": "मांग_करना",
+      "category": "重要動詞",
+      "difficulty": 2
+    },
+    {
+      "word": "सुधार करना",
+      "meaning": "改善する",
+      "pos": "動詞句",
+      "key": "सुधार_करना",
+      "category": "重要動詞",
+      "difficulty": 2
+    }
+  ]
+}
