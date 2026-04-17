@@ -1,0 +1,190 @@
+[
+  {
+    "songId": "bolly_001",
+    "title": "Mere Haath Mein",
+    "film": "Fanaa",
+    "singers": [
+      "Sonu Nigam"
+    ],
+    "lyricist": "Prasoon Joshi",
+    "composer": [
+      "Jatin-Lalit"
+    ],
+    "year": 2006,
+    "tags": [
+      "恋愛",
+      "スーフィー的"
+    ],
+    "keyPhrase": "मेरे हाथ में तेरा हाथ हो",
+    "status": "processed"
+  },
+  {
+    "songId": "bolly_002",
+    "title": "Chand Sifarish",
+    "film": "Fanaa",
+    "singers": [
+      "Shaan"
+    ],
+    "lyricist": "Prasoon Joshi",
+    "composer": [
+      "Jatin-Lalit"
+    ],
+    "year": 2006,
+    "tags": [
+      "恋愛"
+    ],
+    "keyPhrase": "चाँद सिफ़ारिश जो करता हमारी",
+    "status": "processed"
+  },
+  {
+    "songId": "bolly_003",
+    "title": "Dekho Na",
+    "film": "Fanaa",
+    "singers": [
+      "Sonu Nigam",
+      "Sunidhi Chauhaan"
+    ],
+    "lyricist": "Prasoon Joshi",
+    "composer": [
+      "Jatin-Lalit"
+    ],
+    "year": 2006,
+    "tags": [
+      "恋愛",
+      "雨"
+    ],
+    "keyPhrase": "ये साज़िश है बूंदों की",
+    "status": "processed"
+  },
+  {
+    "songId": "bolly_004",
+    "title": "Chanda Chamuke Cham Cham",
+    "film": "Fanaa",
+    "singers": [
+      "Aamir Khan",
+      "Kajol"
+    ],
+    "lyricist": "Prasoon Joshi",
+    "composer": [
+      "Jatin-Lalit"
+    ],
+    "year": 2006,
+    "tags": [
+      "子供",
+      "言葉遊び"
+    ],
+    "keyPhrase": "चंदा चमके चम चम",
+    "status": "processed"
+  },
+  {
+    "songId": "bolly_005",
+    "title": "Des Rangeela",
+    "film": "Fanaa",
+    "singers": [
+      "Mahalakshmi Iyer"
+    ],
+    "lyricist": "Prasoon Joshi",
+    "composer": [
+      "Jatin-Lalit"
+    ],
+    "year": 2006,
+    "tags": [
+      "愛国"
+    ],
+    "keyPhrase": "देस रंगीला रंगीला",
+    "status": "processed"
+  },
+  {
+    "songId": "bolly_006",
+    "title": "Jee Le Zaraa",
+    "film": "Talaash",
+    "singers": [
+      "Vishal Dadlani"
+    ],
+    "lyricist": "Javed Akhtar",
+    "composer": [
+      "Ram Sampath"
+    ],
+    "year": 2012,
+    "tags": [
+      "喪失"
+    ],
+    "keyPhrase": "जी ले ज़रा",
+    "status": "processed"
+  },
+  {
+    "songId": "bolly_007",
+    "title": "Jiya Lage Na",
+    "film": "Talaash",
+    "singers": [
+      "Sona Mohapatra",
+      "Ravindra Upadhyay"
+    ],
+    "lyricist": "Javed Akhtar",
+    "composer": [
+      "Ram Sampath"
+    ],
+    "year": 2012,
+    "tags": [
+      "祈り",
+      "救済"
+    ],
+    "keyPhrase": "जिया लागे ना तुम बिन मोरा",
+    "status": "processed"
+  },
+  {
+    "songId": "bolly_008",
+    "title": "Hona Hai Kya",
+    "film": "Talaash",
+    "singers": [
+      "Ram Sampath"
+    ],
+    "lyricist": "Javed Akhtar",
+    "composer": [
+      "Ram Sampath"
+    ],
+    "year": 2012,
+    "tags": [
+      "人生"
+    ],
+    "keyPhrase": "ना मैं जानूँ, ना तू जाने",
+    "status": "processed"
+  },
+  {
+    "songId": "bolly_009",
+    "title": "Laakh Duniya Kahe",
+    "film": "Talaash",
+    "singers": [
+      "Ram Sampath"
+    ],
+    "lyricist": "Javed Akhtar",
+    "composer": [
+      "Ram Sampath"
+    ],
+    "year": 2012,
+    "tags": [
+      "喪失",
+      "救済"
+    ],
+    "keyPhrase": "लाख दुनिया कहे तुम नहीं हो",
+    "status": "processed"
+  },
+  {
+    "songId": "bolly_010",
+    "title": "Behti Hawa Sa Tha Woh",
+    "film": "3 Idiots",
+    "singers": [
+      "Shaan"
+    ],
+    "lyricist": "Swanand Kirkire",
+    "composer": [
+      "Shaantanu Moitra"
+    ],
+    "year": 2009,
+    "tags": [
+      "友情"
+    ],
+    "keyPhrase": "बहती हवा सा था वो",
+    "status": "processed"
+  }
+]
