@@ -86,10 +86,10 @@ function main() {
     throw new Error("vocab_master.json must be an array.");
   }
 
-  const lyricsText = getLyricsText(songData);
-  if (!lyricsText) {
-    throw new Error(`No lyrics found in ${songPath}`);
-  }
+ const lyricsText = getTextFromSong(songData);
+if (!lyricsText) {
+  throw new Error(`No lyrics or expressions found in ${songPath}`);
+}
 
   let updatedCount = 0;
 
