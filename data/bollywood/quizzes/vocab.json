@@ -7,7 +7,11 @@
       "pos": "名詞（男）",
       "key": "इश्क",
       "category": "感情",
-      "difficulty": 2
+      "difficulty": 2,
+      "frequency": 2,
+      "importance": 3,
+      "layer": "B",
+      "tags": []
     },
     {
       "word": "प्यार",
@@ -15,7 +19,11 @@
       "pos": "名詞（男）",
       "key": "प्यार",
       "category": "感情",
-      "difficulty": 1
+      "difficulty": 1,
+      "frequency": 2,
+      "importance": 3,
+      "layer": "B",
+      "tags": []
     },
     {
       "word": "चाहत",
@@ -23,7 +31,11 @@
       "pos": "名詞（女）",
       "key": "चाहत",
       "category": "感情",
-      "difficulty": 2
+      "difficulty": 2,
+      "frequency": 2,
+      "importance": 3,
+      "layer": "B",
+      "tags": []
     },
     {
       "word": "दिल",
@@ -31,7 +43,11 @@
       "pos": "名詞（男）",
       "key": "दिल",
       "category": "感情",
-      "difficulty": 1
+      "difficulty": 1,
+      "frequency": 5,
+      "importance": 3,
+      "layer": "B",
+      "tags": []
     },
     {
       "word": "मन",
@@ -39,7 +55,11 @@
       "pos": "名詞（男）",
       "key": "मन",
       "category": "感情",
-      "difficulty": 2
+      "difficulty": 2,
+      "frequency": 3,
+      "importance": 3,
+      "layer": "B",
+      "tags": []
     },
     {
       "word": "जिया",
@@ -47,7 +67,11 @@
       "pos": "名詞（男）",
       "key": "जिया",
       "category": "感情",
-      "difficulty": 3
+      "difficulty": 3,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": []
     },
     {
       "word": "फ़ना",
@@ -55,7 +79,11 @@
       "pos": "名詞（女）",
       "key": "फ़ना",
       "category": "神秘",
-      "difficulty": 4
+      "difficulty": 4,
+      "frequency": 2,
+      "importance": 3,
+      "layer": "B",
+      "tags": []
     },
     {
       "word": "जन्नत",
@@ -63,7 +91,11 @@
       "pos": "名詞（女）",
       "key": "जन्नत",
       "category": "神秘",
-      "difficulty": 3
+      "difficulty": 3,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": []
     },
     {
       "word": "हमसफ़र",
@@ -71,7 +103,11 @@
       "pos": "名詞（男）",
       "key": "हमसफ़र",
       "category": "関係",
-      "difficulty": 2
+      "difficulty": 2,
+      "frequency": 3,
+      "importance": 3,
+      "layer": "B",
+      "tags": []
     },
     {
       "word": "हमनवा",
@@ -79,7 +115,11 @@
       "pos": "名詞（男）",
       "key": "हमनवा",
       "category": "関係",
-      "difficulty": 4
+      "difficulty": 4,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": []
     },
     {
       "word": "एहसास",
@@ -87,7 +127,11 @@
       "pos": "名詞（男）",
       "key": "एहसास",
       "category": "感情",
-      "difficulty": 3
+      "difficulty": 3,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": []
     },
     {
       "word": "जज़्बात",
@@ -95,7 +139,11 @@
       "pos": "名詞（男）",
       "key": "जज़्बात",
       "category": "感情",
-      "difficulty": 3
+      "difficulty": 3,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": []
     },
     {
       "word": "ग़म",
@@ -103,7 +151,11 @@
       "pos": "名詞（男）",
       "key": "ग़म",
       "category": "感情",
-      "difficulty": 2
+      "difficulty": 2,
+      "frequency": 2,
+      "importance": 3,
+      "layer": "B",
+      "tags": []
     },
     {
       "word": "ख़ुशी",
@@ -111,7 +163,11 @@
       "pos": "名詞（女）",
       "key": "ख़ुशी",
       "category": "感情",
-      "difficulty": 1
+      "difficulty": 1,
+      "frequency": 2,
+      "importance": 3,
+      "layer": "B",
+      "tags": []
     },
     {
       "word": "फिकर",
@@ -119,7 +175,11 @@
       "pos": "名詞（女）",
       "key": "फिकर",
       "category": "感情",
-      "difficulty": 2
+      "difficulty": 2,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": []
     },
     {
       "word": "चैन",
@@ -127,7 +187,11 @@
       "pos": "名詞（男）",
       "key": "चैन",
       "category": "感情",
-      "difficulty": 2
+      "difficulty": 2,
+      "frequency": 2,
+      "importance": 3,
+      "layer": "B",
+      "tags": []
     },
     {
       "word": "ख़्वाहिश",
@@ -135,7 +199,11 @@
       "pos": "名詞（女）",
       "key": "ख़्वाहिश",
       "category": "感情",
-      "difficulty": 3
+      "difficulty": 3,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": []
     },
     {
       "word": "मर्ज़ी",
@@ -143,7 +211,11 @@
       "pos": "名詞（女）",
       "key": "मर्ज़ी",
       "category": "感情",
-      "difficulty": 3
+      "difficulty": 3,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": []
     },
     {
       "word": "पनाह",
@@ -151,7 +223,11 @@
       "pos": "名詞（女）",
       "key": "पनाह",
       "category": "関係",
-      "difficulty": 4
+      "difficulty": 4,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": []
     },
     {
       "word": "दूरी",
@@ -159,7 +235,11 @@
       "pos": "名詞（女）",
       "key": "दूरी",
       "category": "関係",
-      "difficulty": 2
+      "difficulty": 2,
+      "frequency": 2,
+      "importance": 3,
+      "layer": "B",
+      "tags": []
     },
     {
       "word": "डोर",
@@ -167,7 +247,11 @@
       "pos": "名詞（女）",
       "key": "डोर",
       "category": "関係",
-      "difficulty": 3
+      "difficulty": 3,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": []
     },
     {
       "word": "पहेली",
@@ -175,7 +259,11 @@
       "pos": "名詞（女）",
       "key": "पहेली",
       "category": "哲学",
-      "difficulty": 3
+      "difficulty": 3,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": []
     },
     {
       "word": "रहस्य",
@@ -183,7 +271,11 @@
       "pos": "名詞（男）",
       "key": "रहस्य",
       "category": "哲学",
-      "difficulty": 4
+      "difficulty": 4,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": []
     },
     {
       "word": "ज़िंदगी",
@@ -191,7 +283,11 @@
       "pos": "名詞（女）",
       "key": "ज़िंदगी",
       "category": "哲学",
-      "difficulty": 1
+      "difficulty": 1,
+      "frequency": 2,
+      "importance": 3,
+      "layer": "B",
+      "tags": []
     },
     {
       "word": "लम्हा",
@@ -199,7 +295,11 @@
       "pos": "名詞（男）",
       "key": "लम्हा",
       "category": "哲学",
-      "difficulty": 2
+      "difficulty": 2,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": []
     },
     {
       "word": "जुआ",
@@ -207,7 +307,11 @@
       "pos": "名詞（男）",
       "key": "जुआ",
       "category": "哲学",
-      "difficulty": 3
+      "difficulty": 3,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": []
     },
     {
       "word": "मंज़िल",
@@ -215,7 +319,11 @@
       "pos": "名詞（女）",
       "key": "मंज़िल",
       "category": "哲学",
-      "difficulty": 2
+      "difficulty": 2,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": []
     },
     {
       "word": "रहगुज़र",
@@ -223,7 +331,11 @@
       "pos": "名詞（女）",
       "key": "रहगुज़र",
       "category": "哲学",
-      "difficulty": 4
+      "difficulty": 4,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": []
     },
     {
       "word": "समाँ",
@@ -231,7 +343,11 @@
       "pos": "名詞（男）",
       "key": "समाँ",
       "category": "哲学",
-      "difficulty": 4
+      "difficulty": 4,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": []
     },
     {
       "word": "हवा",
@@ -239,7 +355,11 @@
       "pos": "名詞（女）",
       "key": "हवा",
       "category": "自然",
-      "difficulty": 1
+      "difficulty": 1,
+      "frequency": 3,
+      "importance": 3,
+      "layer": "B",
+      "tags": []
     },
     {
       "word": "बादल",
@@ -247,7 +367,11 @@
       "pos": "名詞（男）",
       "key": "बादल",
       "category": "自然",
-      "difficulty": 1
+      "difficulty": 1,
+      "frequency": 2,
+      "importance": 3,
+      "layer": "B",
+      "tags": []
     },
     {
       "word": "धूप",
@@ -255,7 +379,11 @@
       "pos": "名詞（女）",
       "key": "धूप",
       "category": "自然",
-      "difficulty": 1
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": []
     },
     {
       "word": "छाँव",
@@ -263,7 +391,11 @@
       "pos": "名詞（女）",
       "key": "छाँव",
       "category": "自然",
-      "difficulty": 2
+      "difficulty": 2,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": []
     },
     {
       "word": "नदिया",
@@ -271,7 +403,11 @@
       "pos": "名詞（女）",
       "key": "नदिया",
       "category": "自然",
-      "difficulty": 2
+      "difficulty": 2,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": []
     },
     {
       "word": "रेगिस्तान",
@@ -279,7 +415,11 @@
       "pos": "名詞（男）",
       "key": "रेगिस्तान",
       "category": "自然",
-      "difficulty": 3
+      "difficulty": 3,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": []
     },
     {
       "word": "खुश्बू",
@@ -287,7 +427,11 @@
       "pos": "名詞（女）",
       "key": "खुश्बू",
       "category": "自然",
-      "difficulty": 2
+      "difficulty": 2,
+      "frequency": 2,
+      "importance": 3,
+      "layer": "B",
+      "tags": []
     },
     {
       "word": "रंग",
@@ -295,7 +439,11 @@
       "pos": "名詞（男）",
       "key": "रंग",
       "category": "文化",
-      "difficulty": 1
+      "difficulty": 1,
+      "frequency": 2,
+      "importance": 3,
+      "layer": "B",
+      "tags": []
     },
     {
       "word": "पतंग",
@@ -303,7 +451,11 @@
       "pos": "名詞（女）",
       "key": "पतंग",
       "category": "自然",
-      "difficulty": 2
+      "difficulty": 2,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": []
     },
     {
       "word": "मरहम",
@@ -311,7 +463,11 @@
       "pos": "名詞（男）",
       "key": "मरहम",
       "category": "関係",
-      "difficulty": 3
+      "difficulty": 3,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": []
     },
     {
       "word": "यार",
@@ -319,7 +475,11 @@
       "pos": "名詞（男）",
       "key": "यार",
       "category": "関係",
-      "difficulty": 1
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": []
     },
     {
       "word": "चलना",
@@ -327,7 +487,11 @@
       "pos": "自動詞",
       "key": "चलना",
       "category": "行動",
-      "difficulty": 1
+      "difficulty": 1,
+      "frequency": 2,
+      "importance": 3,
+      "layer": "B",
+      "tags": []
     },
     {
       "word": "जीना",
@@ -335,7 +499,11 @@
       "pos": "自動詞",
       "key": "जीना",
       "category": "行動",
-      "difficulty": 1
+      "difficulty": 1,
+      "frequency": 2,
+      "importance": 3,
+      "layer": "B",
+      "tags": []
     },
     {
       "word": "गिरना",
@@ -343,7 +511,11 @@
       "pos": "自動詞",
       "key": "गिरना",
       "category": "行動",
-      "difficulty": 1
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": []
     },
     {
       "word": "गुज़रना",
@@ -351,7 +523,11 @@
       "pos": "自動詞",
       "key": "गुज़रना",
       "category": "行動",
-      "difficulty": 2
+      "difficulty": 2,
+      "frequency": 2,
+      "importance": 3,
+      "layer": "B",
+      "tags": []
     },
     {
       "word": "निखरना",
@@ -359,7 +535,11 @@
       "pos": "自動詞",
       "key": "निखरना",
       "category": "行動",
-      "difficulty": 3
+      "difficulty": 3,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": []
     },
     {
       "word": "मुस्कुराना",
@@ -367,7 +547,11 @@
       "pos": "自動詞",
       "key": "मुस्कुराना",
       "category": "行動",
-      "difficulty": 1
+      "difficulty": 1,
+      "frequency": 2,
+      "importance": 3,
+      "layer": "B",
+      "tags": []
     },
     {
       "word": "पाना",
@@ -375,7 +559,11 @@
       "pos": "他動詞",
       "key": "पाना",
       "category": "行動",
-      "difficulty": 1
+      "difficulty": 1,
+      "frequency": 2,
+      "importance": 3,
+      "layer": "B",
+      "tags": []
     },
     {
       "word": "खोना",
@@ -383,7 +571,11 @@
       "pos": "他動詞",
       "key": "खोना",
       "category": "行動",
-      "difficulty": 1
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": []
     },
     {
       "word": "ढूँढना",
@@ -391,7 +583,11 @@
       "pos": "他動詞",
       "key": "ढूँढना",
       "category": "行動",
-      "difficulty": 1
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": []
     },
     {
       "word": "छूना",
@@ -399,7 +595,11 @@
       "pos": "他動詞",
       "key": "छूना",
       "category": "行動",
-      "difficulty": 1
+      "difficulty": 1,
+      "frequency": 2,
+      "importance": 3,
+      "layer": "B",
+      "tags": []
     },
     {
       "word": "संभालना",
@@ -407,7 +607,11 @@
       "pos": "他動詞",
       "key": "संभालना",
       "category": "行動",
-      "difficulty": 2
+      "difficulty": 2,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": []
     },
     {
       "word": "बनाना",
@@ -415,7 +619,11 @@
       "pos": "他動詞",
       "key": "बनाना",
       "category": "行動",
-      "difficulty": 1
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": []
     },
     {
       "word": "थामना",
@@ -423,7 +631,11 @@
       "pos": "他動詞",
       "key": "थामना",
       "category": "行動",
-      "difficulty": 2
+      "difficulty": 2,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": []
     },
     {
       "word": "छुपाना",
@@ -431,7 +643,320 @@
       "pos": "他動詞",
       "key": "छुपाना",
       "category": "行動",
-      "difficulty": 2
+      "difficulty": 2,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": []
+    },
+    {
+      "word": "रब",
+      "meaning": "神（口語・ウルドゥー系）",
+      "pos": "名詞（男）",
+      "key": "रब",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": []
+    },
+    {
+      "word": "सफ़र",
+      "meaning": "旅、道のり",
+      "pos": "名詞（男）",
+      "key": "सफ़र",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": []
+    },
+    {
+      "word": "डगर",
+      "meaning": "道、小道（比喩的）",
+      "pos": "名詞（女）",
+      "key": "डगर",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": []
+    },
+    {
+      "word": "कदम",
+      "meaning": "一歩、足取り",
+      "pos": "名詞（男）",
+      "key": "कदम",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": []
+    },
+    {
+      "word": "खत",
+      "meaning": "手紙（やや古風）",
+      "pos": "名詞（男）",
+      "key": "खत",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": []
+    },
+    {
+      "word": "दम",
+      "meaning": "息、力、気力",
+      "pos": "名詞（男）",
+      "key": "दम",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": []
+    },
+    {
+      "word": "माँ",
+      "meaning": "母",
+      "pos": "名詞（女）",
+      "key": "माँ",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": []
+    },
+    {
+      "word": "बीतना",
+      "meaning": "（時間が）過ぎる",
+      "pos": "自動詞",
+      "key": "बीतना",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": []
+    },
+    {
+      "word": "लड़खड़ाना",
+      "meaning": "よろめく、ふらつく",
+      "pos": "自動詞",
+      "key": "लड़खड़ाना",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": []
+    },
+    {
+      "word": "रूठना",
+      "meaning": "すねる、機嫌を損ねる",
+      "pos": "自動詞",
+      "key": "रूठना",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": []
+    },
+    {
+      "word": "सताना",
+      "meaning": "悩ませる、苦しめる",
+      "pos": "他動詞",
+      "key": "सताना",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": []
+    },
+    {
+      "word": "डटना",
+      "meaning": "踏ん張る、立ち向かう",
+      "pos": "自動詞",
+      "key": "डटना",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": []
+    },
+    {
+      "word": "अधूरी",
+      "pos": "adj",
+      "key": "अधूरी",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": []
+    },
+    {
+      "word": "प्यास",
+      "pos": "noun_f",
+      "key": "प्यास",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": []
+    },
+    {
+      "word": "रास",
+      "pos": "noun_m",
+      "key": "रास",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": []
+    },
+    {
+      "word": "संग",
+      "pos": "postposition",
+      "key": "संग",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": []
+    },
+    {
+      "word": "ख्वाब",
+      "pos": "noun_m",
+      "key": "ख्वाब",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": []
+    },
+    {
+      "word": "तन्हाई",
+      "pos": "noun_f",
+      "key": "तन्हाई",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": []
+    },
+    {
+      "word": "दास्ताँ",
+      "pos": "noun_f",
+      "key": "दास्ताँ",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": []
+    },
+    {
+      "word": "धड़कन",
+      "pos": "noun_f",
+      "key": "धड़कन",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": []
+    },
+    {
+      "word": "बेचैनी",
+      "pos": "noun_f",
+      "key": "बेचैनी",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": []
+    },
+    {
+      "word": "लौ",
+      "pos": "noun_f",
+      "key": "लौ",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": []
+    },
+    {
+      "word": "बुझना",
+      "pos": "verb",
+      "key": "बुझना",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": []
+    },
+    {
+      "word": "बढ़ना",
+      "pos": "verb",
+      "key": "बढ़ना",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": []
+    },
+    {
+      "word": "डसना",
+      "pos": "verb",
+      "key": "डसना",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": []
+    },
+    {
+      "word": "हाल",
+      "pos": "noun_m",
+      "key": "हाल",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": []
+    },
+    {
+      "word": "पास",
+      "pos": "postposition",
+      "key": "पास",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": []
     }
   ]
 }

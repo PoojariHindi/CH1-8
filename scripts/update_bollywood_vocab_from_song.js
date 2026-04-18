@@ -34,6 +34,7 @@ function normalizeText(text) {
     .trim();
 }
 
+// --- lyrics取得（従来） ---
 function getLyricsText(songData) {
   if (Array.isArray(songData.lyrics)) {
     return normalizeText(songData.lyrics.join(" "));
@@ -44,14 +45,33 @@ function getLyricsText(songData) {
   return "";
 }
 
-function songContainsWord(lyricsText, word) {
-  const escaped = word.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
-  const pattern = new RegExp(`(^|\\s)${escaped}(?=\\s|$)`, "u");
-  return pattern.test(lyricsText);
+// --- ⭐ 新：lyrics or expressions 両対応 ---
+function getTextFromSong(songData) {
+  // ① lyrics優先
+  const lyrics = getLyricsText(songData);
+  if (lyrics) return lyrics;
+
+  // ② expressions fallback
+  if (Array.isArray(songData.expressions)) {
+    const texts = songData.expressions
+      .map(e => e.text)
+      .filter(Boolean)
+      .join(" ");
+
+    return normalizeText(texts);
+  }
+
+  return "";
 }
 
-function extractTokenCandidates(lyricsText) {
-  const rawTokens = lyricsText.split(/\s+/).filter(Boolean);
+function songContainsWord(text, word) {
+  const escaped = word.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+  const pattern = new RegExp(`(^|\\s)${escaped}(?=\\s|$)`, "u");
+  return pattern.test(text);
+}
+
+function extractTokenCandidates(text) {
+  const rawTokens = text.split(/\s+/).filter(Boolean);
 
   const stopwords = new Set([
     "है", "हैं", "हो", "हूँ", "था", "थी", "थे", "यह", "वह", "ये", "वे",
@@ -86,17 +106,20 @@ function main() {
     throw new Error("vocab_master.json must be an array.");
   }
 
- const lyricsText = getTextFromSong(songData);
-if (!lyricsText) {
-  throw new Error(`No lyrics or expressions found in ${songPath}`);
-}
+  // ⭐ ここが今回の核心
+  const text = getTextFromSong(songData);
+  if (!text) {
+    throw new Error(`No lyrics or expressions found in ${songPath}`);
+  }
 
   let updatedCount = 0;
 
   const updatedMaster = vocabMaster.map((entry) => {
-    const ids = Array.isArray(entry.sourceSongIds) ? [...new Set(entry.sourceSongIds)] : [];
+    const ids = Array.isArray(entry.sourceSongIds)
+      ? [...new Set(entry.sourceSongIds)]
+      : [];
 
-    if (songContainsWord(lyricsText, entry.word)) {
+    if (songContainsWord(text, entry.word)) {
       if (!ids.includes(songId)) {
         ids.push(songId);
         updatedCount += 1;
@@ -112,7 +135,8 @@ if (!lyricsText) {
   saveJson(vocabMasterPath, updatedMaster);
 
   const knownWords = new Set(updatedMaster.map((entry) => entry.word));
-  const candidates = extractTokenCandidates(lyricsText)
+
+  const candidates = extractTokenCandidates(text)
     .filter((item) => !knownWords.has(item.word));
 
   saveJson(candidatesPath, {

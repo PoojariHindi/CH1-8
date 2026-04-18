@@ -10,7 +10,9 @@
       "bolly_001",
       "bolly_005"
     ],
-    "status": "active"
+    "status": "active",
+    "sourceCount": 2,
+    "frequency": 2
   },
   {
     "word": "प्यार",
@@ -23,7 +25,9 @@
       "bolly_001",
       "bolly_005"
     ],
-    "status": "active"
+    "status": "active",
+    "sourceCount": 2,
+    "frequency": 2
   },
   {
     "word": "चाहत",
@@ -36,7 +40,9 @@
       "bolly_003",
       "bolly_006"
     ],
-    "status": "active"
+    "status": "active",
+    "sourceCount": 2,
+    "frequency": 2
   },
   {
     "word": "दिल",
@@ -49,9 +55,12 @@
       "bolly_001",
       "bolly_002",
       "bolly_006",
-      "bolly_009"
+      "bolly_009",
+      "bolly_013"
     ],
-    "status": "active"
+    "status": "active",
+    "sourceCount": 5,
+    "frequency": 5
   },
   {
     "word": "मन",
@@ -62,9 +71,12 @@
     "difficulty": 2,
     "sourceSongIds": [
       "bolly_007",
-      "bolly_010"
+      "bolly_010",
+      "bolly_013"
     ],
-    "status": "active"
+    "status": "active",
+    "sourceCount": 3,
+    "frequency": 3
   },
   {
     "word": "जिया",
@@ -76,7 +88,9 @@
     "sourceSongIds": [
       "bolly_007"
     ],
-    "status": "active"
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
   },
   {
     "word": "फ़ना",
@@ -89,7 +103,9 @@
       "bolly_001",
       "bolly_002"
     ],
-    "status": "active"
+    "status": "active",
+    "sourceCount": 2,
+    "frequency": 2
   },
   {
     "word": "जन्नत",
@@ -101,7 +117,9 @@
     "sourceSongIds": [
       "bolly_001"
     ],
-    "status": "active"
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
   },
   {
     "word": "हमसफ़र",
@@ -115,7 +133,9 @@
       "bolly_006",
       "bolly_009"
     ],
-    "status": "active"
+    "status": "active",
+    "sourceCount": 3,
+    "frequency": 3
   },
   {
     "word": "हमनवा",
@@ -127,7 +147,9 @@
     "sourceSongIds": [
       "bolly_006"
     ],
-    "status": "active"
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
   },
   {
     "word": "एहसास",
@@ -139,7 +161,9 @@
     "sourceSongIds": [
       "bolly_009"
     ],
-    "status": "active"
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
   },
   {
     "word": "जज़्बात",
@@ -151,7 +175,9 @@
     "sourceSongIds": [
       "bolly_009"
     ],
-    "status": "active"
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
   },
   {
     "word": "ग़म",
@@ -164,7 +190,9 @@
       "bolly_006",
       "bolly_008"
     ],
-    "status": "active"
+    "status": "active",
+    "sourceCount": 2,
+    "frequency": 2
   },
   {
     "word": "ख़ुशी",
@@ -177,7 +205,9 @@
       "bolly_005",
       "bolly_008"
     ],
-    "status": "active"
+    "status": "active",
+    "sourceCount": 2,
+    "frequency": 2
   },
   {
     "word": "फिकर",
@@ -189,7 +219,9 @@
     "sourceSongIds": [
       "bolly_010"
     ],
-    "status": "active"
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
   },
   {
     "word": "चैन",
@@ -199,9 +231,12 @@
     "category": "感情",
     "difficulty": 2,
     "sourceSongIds": [
-      "bolly_007"
+      "bolly_007",
+      "bolly_013"
     ],
-    "status": "active"
+    "status": "active",
+    "sourceCount": 2,
+    "frequency": 2
   },
   {
     "word": "ख़्वाहिश",
@@ -213,7 +248,9 @@
     "sourceSongIds": [
       "bolly_003"
     ],
-    "status": "active"
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
   },
   {
     "word": "मर्ज़ी",
@@ -225,7 +262,9 @@
     "sourceSongIds": [
       "bolly_003"
     ],
-    "status": "active"
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
   },
   {
     "word": "पनाह",
@@ -237,7 +276,9 @@
     "sourceSongIds": [
       "bolly_001"
     ],
-    "status": "active"
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
   },
   {
     "word": "दूरी",
@@ -250,7 +291,9 @@
       "bolly_003",
       "bolly_007"
     ],
-    "status": "active"
+    "status": "active",
+    "sourceCount": 2,
+    "frequency": 2
   },
   {
     "word": "डोर",
@@ -262,7 +305,9 @@
     "sourceSongIds": [
       "bolly_007"
     ],
-    "status": "active"
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
   },
   {
     "word": "पहेली",
@@ -274,7 +319,9 @@
     "sourceSongIds": [
       "bolly_007"
     ],
-    "status": "active"
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
   },
   {
     "word": "रहस्य",
@@ -286,7 +333,9 @@
     "sourceSongIds": [
       "bolly_007"
     ],
-    "status": "active"
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
   },
   {
     "word": "ज़िंदगी",
@@ -299,7 +348,9 @@
       "bolly_006",
       "bolly_008"
     ],
-    "status": "active"
+    "status": "active",
+    "sourceCount": 2,
+    "frequency": 2
   },
   {
     "word": "लम्हा",
@@ -311,7 +362,9 @@
     "sourceSongIds": [
       "bolly_010"
     ],
-    "status": "active"
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
   },
   {
     "word": "जुआ",
@@ -323,7 +376,9 @@
     "sourceSongIds": [
       "bolly_008"
     ],
-    "status": "active"
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
   },
   {
     "word": "मंज़िल",
@@ -335,7 +390,9 @@
     "sourceSongIds": [
       "bolly_009"
     ],
-    "status": "active"
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
   },
   {
     "word": "रहगुज़र",
@@ -347,7 +404,9 @@
     "sourceSongIds": [
       "bolly_009"
     ],
-    "status": "active"
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
   },
   {
     "word": "समाँ",
@@ -359,7 +418,9 @@
     "sourceSongIds": [
       "bolly_008"
     ],
-    "status": "active"
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
   },
   {
     "word": "हवा",
@@ -373,7 +434,9 @@
       "bolly_009",
       "bolly_010"
     ],
-    "status": "active"
+    "status": "active",
+    "sourceCount": 3,
+    "frequency": 3
   },
   {
     "word": "बादल",
@@ -386,7 +449,9 @@
       "bolly_006",
       "bolly_010"
     ],
-    "status": "active"
+    "status": "active",
+    "sourceCount": 2,
+    "frequency": 2
   },
   {
     "word": "धूप",
@@ -398,7 +463,9 @@
     "sourceSongIds": [
       "bolly_010"
     ],
-    "status": "active"
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
   },
   {
     "word": "छाँव",
@@ -410,7 +477,9 @@
     "sourceSongIds": [
       "bolly_010"
     ],
-    "status": "active"
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
   },
   {
     "word": "नदिया",
@@ -422,7 +491,9 @@
     "sourceSongIds": [
       "bolly_010"
     ],
-    "status": "active"
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
   },
   {
     "word": "रेगिस्तान",
@@ -434,7 +505,9 @@
     "sourceSongIds": [
       "bolly_010"
     ],
-    "status": "active"
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
   },
   {
     "word": "खुश्बू",
@@ -447,7 +520,9 @@
       "bolly_001",
       "bolly_009"
     ],
-    "status": "active"
+    "status": "active",
+    "sourceCount": 2,
+    "frequency": 2
   },
   {
     "word": "रंग",
@@ -460,7 +535,9 @@
       "bolly_005",
       "bolly_009"
     ],
-    "status": "active"
+    "status": "active",
+    "sourceCount": 2,
+    "frequency": 2
   },
   {
     "word": "पतंग",
@@ -472,7 +549,9 @@
     "sourceSongIds": [
       "bolly_010"
     ],
-    "status": "active"
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
   },
   {
     "word": "मरहम",
@@ -484,7 +563,9 @@
     "sourceSongIds": [
       "bolly_010"
     ],
-    "status": "active"
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
   },
   {
     "word": "यार",
@@ -496,7 +577,9 @@
     "sourceSongIds": [
       "bolly_010"
     ],
-    "status": "active"
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
   },
   {
     "word": "चलना",
@@ -506,9 +589,12 @@
     "category": "行動",
     "difficulty": 1,
     "sourceSongIds": [
-      "bolly_010"
+      "bolly_010",
+      "bolly_013"
     ],
-    "status": "active"
+    "status": "active",
+    "sourceCount": 2,
+    "frequency": 2
   },
   {
     "word": "जीना",
@@ -521,7 +607,9 @@
       "bolly_006",
       "bolly_010"
     ],
-    "status": "active"
+    "status": "active",
+    "sourceCount": 2,
+    "frequency": 2
   },
   {
     "word": "गिरना",
@@ -533,7 +621,9 @@
     "sourceSongIds": [
       "bolly_010"
     ],
-    "status": "active"
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
   },
   {
     "word": "गुज़रना",
@@ -546,7 +636,9 @@
       "bolly_002",
       "bolly_006"
     ],
-    "status": "active"
+    "status": "active",
+    "sourceCount": 2,
+    "frequency": 2
   },
   {
     "word": "निखरना",
@@ -558,7 +650,9 @@
     "sourceSongIds": [
       "bolly_006"
     ],
-    "status": "active"
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
   },
   {
     "word": "मुस्कुराना",
@@ -571,7 +665,9 @@
       "bolly_007",
       "bolly_008"
     ],
-    "status": "active"
+    "status": "active",
+    "sourceCount": 2,
+    "frequency": 2
   },
   {
     "word": "पाना",
@@ -584,7 +680,9 @@
       "bolly_007",
       "bolly_008"
     ],
-    "status": "active"
+    "status": "active",
+    "sourceCount": 2,
+    "frequency": 2
   },
   {
     "word": "खोना",
@@ -596,7 +694,9 @@
     "sourceSongIds": [
       "bolly_008"
     ],
-    "status": "active"
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
   },
   {
     "word": "ढूँढना",
@@ -608,7 +708,9 @@
     "sourceSongIds": [
       "bolly_010"
     ],
-    "status": "active"
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
   },
   {
     "word": "छूना",
@@ -621,7 +723,9 @@
       "bolly_002",
       "bolly_010"
     ],
-    "status": "active"
+    "status": "active",
+    "sourceCount": 2,
+    "frequency": 2
   },
   {
     "word": "संभालना",
@@ -633,7 +737,9 @@
     "sourceSongIds": [
       "bolly_010"
     ],
-    "status": "active"
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
   },
   {
     "word": "बनाना",
@@ -645,7 +751,9 @@
     "sourceSongIds": [
       "bolly_010"
     ],
-    "status": "active"
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
   },
   {
     "word": "थामना",
@@ -657,7 +765,9 @@
     "sourceSongIds": [
       "bolly_009"
     ],
-    "status": "active"
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
   },
   {
     "word": "छुपाना",
@@ -669,6 +779,312 @@
     "sourceSongIds": [
       "bolly_007"
     ],
-    "status": "active"
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "रब",
+    "pos": "名詞（男）",
+    "gender": "m",
+    "meaning": "神（口語・ウルドゥー系）",
+    "sourceSongIds": [
+      "bolly_011"
+    ],
+    "status": "active",
+    "frequency": 1,
+    "sourceCount": 1
+  },
+  {
+    "word": "सफ़र",
+    "pos": "名詞（男）",
+    "gender": "m",
+    "meaning": "旅、道のり",
+    "sourceSongIds": [
+      "bolly_011"
+    ],
+    "status": "active",
+    "frequency": 1,
+    "sourceCount": 1
+  },
+  {
+    "word": "डगर",
+    "pos": "名詞（女）",
+    "gender": "f",
+    "meaning": "道、小道（比喩的）",
+    "sourceSongIds": [
+      "bolly_011"
+    ],
+    "status": "active",
+    "frequency": 1,
+    "sourceCount": 1
+  },
+  {
+    "word": "कदम",
+    "pos": "名詞（男）",
+    "gender": "m",
+    "meaning": "一歩、足取り",
+    "sourceSongIds": [
+      "bolly_011"
+    ],
+    "status": "active",
+    "frequency": 1,
+    "sourceCount": 1
+  },
+  {
+    "word": "खत",
+    "pos": "名詞（男）",
+    "gender": "m",
+    "meaning": "手紙（やや古風）",
+    "sourceSongIds": [
+      "bolly_011"
+    ],
+    "status": "active",
+    "frequency": 1,
+    "sourceCount": 1
+  },
+  {
+    "word": "दम",
+    "pos": "名詞（男）",
+    "gender": "m",
+    "meaning": "息、力、気力",
+    "sourceSongIds": [
+      "bolly_011"
+    ],
+    "status": "active",
+    "frequency": 1,
+    "sourceCount": 1
+  },
+  {
+    "word": "माँ",
+    "pos": "名詞（女）",
+    "gender": "f",
+    "meaning": "母",
+    "sourceSongIds": [
+      "bolly_011"
+    ],
+    "status": "active",
+    "frequency": 1,
+    "sourceCount": 1
+  },
+  {
+    "word": "बीतना",
+    "pos": "自動詞",
+    "meaning": "（時間が）過ぎる",
+    "sourceSongIds": [
+      "bolly_011"
+    ],
+    "status": "active",
+    "frequency": 1,
+    "sourceCount": 1
+  },
+  {
+    "word": "लड़खड़ाना",
+    "pos": "自動詞",
+    "meaning": "よろめく、ふらつく",
+    "sourceSongIds": [
+      "bolly_011"
+    ],
+    "status": "active",
+    "frequency": 1,
+    "sourceCount": 1
+  },
+  {
+    "word": "रूठना",
+    "pos": "自動詞",
+    "meaning": "すねる、機嫌を損ねる",
+    "sourceSongIds": [
+      "bolly_011"
+    ],
+    "status": "active",
+    "frequency": 1,
+    "sourceCount": 1
+  },
+  {
+    "word": "सताना",
+    "pos": "他動詞",
+    "meaning": "悩ませる、苦しめる",
+    "sourceSongIds": [
+      "bolly_011"
+    ],
+    "status": "active",
+    "frequency": 1,
+    "sourceCount": 1
+  },
+  {
+    "word": "डटना",
+    "pos": "自動詞",
+    "meaning": "踏ん張る、立ち向かう",
+    "sourceSongIds": [
+      "bolly_011"
+    ],
+    "status": "active",
+    "frequency": 1,
+    "sourceCount": 1
+  },
+  {
+    "word": "अधूरी",
+    "pos": "adj",
+    "meaning_ja": "不完全な・満たされない",
+    "sourceSongIds": [
+      "bolly_013"
+    ],
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "प्यास",
+    "pos": "noun_f",
+    "meaning_ja": "渇き",
+    "sourceSongIds": [
+      "bolly_013"
+    ],
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "रास",
+    "pos": "noun_m",
+    "meaning_ja": "気に入ること・しっくり来ること",
+    "sourceSongIds": [
+      "bolly_013"
+    ],
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "संग",
+    "pos": "postposition",
+    "meaning_ja": "〜と一緒に",
+    "sourceSongIds": [
+      "bolly_013"
+    ],
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "ख्वाब",
+    "pos": "noun_m",
+    "meaning_ja": "夢",
+    "sourceSongIds": [
+      "bolly_013"
+    ],
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "तन्हाई",
+    "pos": "noun_f",
+    "meaning_ja": "孤独",
+    "sourceSongIds": [
+      "bolly_013"
+    ],
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "दास्ताँ",
+    "pos": "noun_f",
+    "meaning_ja": "物語・逸話",
+    "sourceSongIds": [
+      "bolly_013"
+    ],
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "धड़कन",
+    "pos": "noun_f",
+    "meaning_ja": "鼓動",
+    "sourceSongIds": [
+      "bolly_013"
+    ],
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "बेचैनी",
+    "pos": "noun_f",
+    "meaning_ja": "落ち着かなさ・不安",
+    "sourceSongIds": [
+      "bolly_013"
+    ],
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "लौ",
+    "pos": "noun_f",
+    "meaning_ja": "炎・灯",
+    "sourceSongIds": [
+      "bolly_013"
+    ],
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "बुझना",
+    "pos": "verb",
+    "meaning_ja": "消える（火・灯が）",
+    "sourceSongIds": [
+      "bolly_013"
+    ],
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "बढ़ना",
+    "pos": "verb",
+    "meaning_ja": "増える・高まる",
+    "sourceSongIds": [
+      "bolly_013"
+    ],
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "डसना",
+    "pos": "verb",
+    "meaning_ja": "噛む（毒蛇などが）・襲う",
+    "sourceSongIds": [
+      "bolly_013"
+    ],
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "हाल",
+    "pos": "noun_m",
+    "meaning_ja": "状態・様子",
+    "sourceSongIds": [
+      "bolly_013"
+    ],
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "पास",
+    "pos": "postposition",
+    "meaning_ja": "近くに",
+    "sourceSongIds": [
+      "bolly_013"
+    ],
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
   }
 ]

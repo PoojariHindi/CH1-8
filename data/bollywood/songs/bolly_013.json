@@ -1,0 +1,130 @@
+{
+  "id": "bolly_013",
+  "title": "Guzarish",
+  "film": "Ghajini",
+  "year": 2008,
+
+  "singer": [
+    "Javed Ali",
+    "Sonu Nigam"
+  ],
+  "lyricist": [
+    "Prasoon Joshi"
+  ],
+  "composer": [
+    "A.R. Rahman"
+  ],
+
+  "notes": [
+    "アーミル"
+  ],
+
+  "key_phrase": "तू मेरी अधूरी प्यास",
+
+  "expressions": [
+    {
+      "text": "अधूरी प्यास",
+      "meaning_ja": "満たされない渇き",
+      "type": "metaphor"
+    },
+    {
+      "text": "मन को रास आना",
+      "meaning_ja": "心にしっくり来る",
+      "type": "idiom"
+    },
+    {
+      "text": "पास आना",
+      "meaning_ja": "近づく",
+      "type": "collocation"
+    },
+    {
+      "text": "दिल का हाल",
+      "meaning_ja": "心の状態",
+      "type": "expression"
+    },
+    {
+      "text": "संग संग चलना",
+      "meaning_ja": "一緒に歩む",
+      "type": "collocation"
+    },
+    {
+      "text": "हाँ कहना",
+      "meaning_ja": "同意する・承諾する",
+      "type": "verb_phrase"
+    },
+    {
+      "text": "ख्वाब देखना",
+      "meaning_ja": "夢を見る",
+      "type": "verb_phrase"
+    },
+    {
+      "text": "टकरा जाना",
+      "meaning_ja": "ぶつかってしまう",
+      "type": "compound_verb"
+    },
+    {
+      "text": "लौ बुझना",
+      "meaning_ja": "灯が消える",
+      "type": "metaphor"
+    },
+    {
+      "text": "तन्हाई डसना",
+      "meaning_ja": "孤独が襲う（噛みつくように苦しめる）",
+      "type": "metaphor"
+    },
+    {
+      "text": "धड़कन बढ़ना",
+      "meaning_ja": "鼓動が高まる",
+      "type": "expression"
+    },
+    {
+      "text": "चैन आना",
+      "meaning_ja": "安らぎを得る",
+      "type": "expression"
+    },
+    {
+      "text": "दास्ताँ होना",
+      "meaning_ja": "物語である",
+      "type": "expression"
+    },
+    {
+      "text": "बेचैनी होना",
+      "meaning_ja": "落ち着かない状態になる",
+      "type": "expression"
+    }
+  ],
+
+  "vocab_candidates": [
+    "अधूरी",
+    "प्यास",
+    "रास",
+    "गुजारिश",
+    "तंग",
+    "रंग",
+    "संग",
+    "झरना",
+    "शीशा",
+    "ख्वाब",
+    "टकराना",
+    "आशा",
+    "लौ",
+    "रोशन",
+    "तूफ़ान",
+    "बुझना",
+    "तन्हाई",
+    "धड़कन",
+    "चैन",
+    "अजब",
+    "दास्ताँ",
+    "बेचैनी"
+  ],
+
+  "tags": [
+    "恋愛",
+    "渇望"
+  ],
+
+  "difficulty": "intermediate",
+  "emotion": "yearning",
+  "register": "poetic"
+}
