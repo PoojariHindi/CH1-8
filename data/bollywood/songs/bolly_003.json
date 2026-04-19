@@ -1,20 +1,172 @@
 {
-  "songId": "bolly_003",
+  "id": "bolly_003",
+  "schema_version": 2,
+
   "title": "Dekho Na",
   "film": "Fanaa",
-  "singers": [
+  "year": 2006,
+
+  "singer": [
     "Sonu Nigam",
     "Sunidhi Chauhaan"
   ],
-  "lyricist": "Prasoon Joshi",
+  "lyricist": [
+    "Prasoon Joshi"
+  ],
   "composer": [
     "Jatin-Lalit"
   ],
-  "year": 2006,
+
+  "notes": [],
+
   "tags": [
     "恋愛",
     "雨"
   ],
-  "keyPhrase": "ये साज़िश है बूंदों की",
-  "status": "processed"
+
+  "emotion": "love",
+  "register": "poetic",
+
+  "key_phrase": "ये साज़िश है बूंदों की",
+
+  "expressions": [
+    {
+      "text": "बूंदों की साज़िश",
+      "normalized": "बूंदों की साजिश",
+      "meaning_ja": "雨粒のたくらみ",
+      "type": "metaphor",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "दिल में चाहत जागना",
+      "normalized": "दिल में चाहत जागना",
+      "meaning_ja": "心に想いが芽生える",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "नज़रें मिलना",
+      "normalized": "नजरें मिलना",
+      "meaning_ja": "視線が合う",
+      "type": "expression",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "दूरी मिटना",
+      "normalized": "दूरी मिटना",
+      "meaning_ja": "距離が消える",
+      "type": "expression",
+      "importance": 3,
+      "status": "active"
+    }
+  ],
+
+  "vocab_candidates": [
+    {
+      "word": "साज़िश",
+      "normalized": "साजिश",
+      "pos": "名詞（女）",
+      "meaning_ja": "たくらみ・仕掛け",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "बूंद",
+      "normalized": "बूंद",
+      "pos": "名詞（女）",
+      "meaning_ja": "しずく、雨粒",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "चाहत",
+      "normalized": "चाहत",
+      "pos": "名詞（女）",
+      "meaning_ja": "想い・愛情",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "ख़्वाहिश",
+      "normalized": "ख्वाहिश",
+      "pos": "名詞（女）",
+      "meaning_ja": "願い・願望",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "मर्ज़ी",
+      "normalized": "मर्जी",
+      "pos": "名詞（女）",
+      "meaning_ja": "意思・意向",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "दूरी",
+      "normalized": "दूरी",
+      "pos": "名詞（女）",
+      "meaning_ja": "距離",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "हवा",
+      "normalized": "हवा",
+      "pos": "名詞（女）",
+      "meaning_ja": "風",
+      "importance": 2,
+      "status": "active"
+    },
+    {
+      "word": "बरसात",
+      "normalized": "बरसात",
+      "pos": "名詞（女）",
+      "meaning_ja": "雨、雨季の雨",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "नज़र",
+      "normalized": "नजर",
+      "pos": "名詞（女）",
+      "meaning_ja": "視線、まなざし",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "इशारा",
+      "normalized": "इशारा",
+      "pos": "名詞（男）",
+      "meaning_ja": "合図・ संकेत",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "भीगना",
+      "normalized": "भीगना",
+      "pos": "自動詞",
+      "meaning_ja": "濡れる",
+      "importance": 2,
+      "status": "active"
+    },
+    {
+      "word": "महक",
+      "normalized": "महक",
+      "pos": "名詞（女）",
+      "meaning_ja": "香り",
+      "importance": 2,
+      "status": "active"
+    }
+  ],
+
+  "meta": {
+    "copyright_safe": true,
+    "lyrics_included": false,
+    "source_type": "manual_curated",
+    "dedupe_ready": true
+  }
 }

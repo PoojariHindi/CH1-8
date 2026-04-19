@@ -1,20 +1,164 @@
 {
-  "songId": "bolly_004",
-  "title": "Chanda Chamuke Cham Cham",
+  "id": "bolly_004",
+  "schema_version": 2,
+
+  "title": "Chanda Chamke Cham Cham",
   "film": "Fanaa",
-  "singers": [
+  "year": 2006,
+
+  "singer": [
     "Aamir Khan",
     "Kajol"
   ],
-  "lyricist": "Prasoon Joshi",
+  "lyricist": [
+    "Prasoon Joshi"
+  ],
   "composer": [
     "Jatin-Lalit"
   ],
-  "year": 2006,
+
+  "notes": [],
+
   "tags": [
     "子供",
     "言葉遊び"
   ],
-  "keyPhrase": "चंदा चमके चम चम",
-  "status": "processed"
+
+  "emotion": "playful",
+  "register": "poetic",
+
+  "key_phrase": "चंदा चमके चम चम",
+
+  "expressions": [
+    {
+      "text": "चम चम करना",
+      "normalized": "चम चम करना",
+      "meaning_ja": "きらきら輝く",
+      "type": "onomatopoeia",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "नाचना गाना",
+      "normalized": "नाचना गाना",
+      "meaning_ja": "踊って歌う",
+      "type": "expression",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "मस्ती करना",
+      "normalized": "मस्ती करना",
+      "meaning_ja": "楽しくはしゃぐ",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "चंदा चमकना",
+      "normalized": "चंदा चमकना",
+      "meaning_ja": "月が輝く",
+      "type": "expression",
+      "importance": 3,
+      "status": "active"
+    }
+  ],
+
+  "vocab_candidates": [
+    {
+      "word": "चंदा",
+      "normalized": "चंदा",
+      "pos": "名詞（男）",
+      "meaning_ja": "月（口語・愛称）",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "चमक",
+      "normalized": "चमक",
+      "pos": "名詞（女）",
+      "meaning_ja": "輝き",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "मस्ती",
+      "normalized": "मस्ती",
+      "pos": "名詞（女）",
+      "meaning_ja": "楽しさ・はしゃぎ",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "नाचना",
+      "normalized": "नाचना",
+      "pos": "自動詞",
+      "meaning_ja": "踊る",
+      "importance": 2,
+      "status": "active"
+    },
+    {
+      "word": "गाना",
+      "normalized": "गाना",
+      "pos": "他動詞",
+      "meaning_ja": "歌う",
+      "importance": 2,
+      "status": "active"
+    },
+    {
+      "word": "खेलना",
+      "normalized": "खेलना",
+      "pos": "自動詞",
+      "meaning_ja": "遊ぶ",
+      "importance": 2,
+      "status": "active"
+    },
+    {
+      "word": "बचपन",
+      "normalized": "बचपन",
+      "pos": "名詞（男）",
+      "meaning_ja": "子供時代",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "खुशी",
+      "normalized": "खुशी",
+      "pos": "名詞（女）",
+      "meaning_ja": "喜び",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "हँसी",
+      "normalized": "हंसी",
+      "pos": "名詞（女）",
+      "meaning_ja": "笑い",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "रंग",
+      "normalized": "रंग",
+      "pos": "名詞（男）",
+      "meaning_ja": "色",
+      "importance": 2,
+      "status": "active"
+    },
+    {
+      "word": "रोशनी",
+      "normalized": "रोशनी",
+      "pos": "名詞（女）",
+      "meaning_ja": "光",
+      "importance": 2,
+      "status": "active"
+    }
+  ],
+
+  "meta": {
+    "copyright_safe": true,
+    "lyrics_included": false,
+    "source_type": "manual_curated",
+    "dedupe_ready": true
+  }
 }

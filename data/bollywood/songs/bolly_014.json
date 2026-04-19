@@ -1,0 +1,174 @@
+{
+  "id": "bolly_014",
+  "schema_version": 2,
+
+  "title": "Kaise Mujhe",
+  "film": "Ghajini",
+  "year": 2008,
+
+  "singer": [
+    "Benny Dayal",
+    "Shreya Ghosal"
+  ],
+  "lyricist": [
+    "Prasoon Joshi"
+  ],
+  "composer": [
+    "A.R. Rahman"
+  ],
+
+  "notes": [
+    "アーミル"
+  ],
+
+  "tags": [
+    "恋愛",
+    "運命"
+  ],
+
+  "emotion": "love",
+  "register": "poetic",
+
+  "key_phrase": "कैसे मुझे तुम मिल गयी",
+
+  "expressions": [
+    {
+      "text": "किस्मत पे यकीं आना",
+      "normalized": "किस्मत पे यकीं आना",
+      "meaning_ja": "運命を信じられるようになる",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "मन को रास आना",
+      "normalized": "मन को रास आना",
+      "meaning_ja": "心にしっくり来る",
+      "type": "idiom",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "हौले हौले उतरना",
+      "normalized": "हौले हौले उतरना",
+      "meaning_ja": "そっと降りてくる",
+      "type": "metaphor",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "ख़्वाब सा लगना",
+      "normalized": "ख्वाब सा लगना",
+      "meaning_ja": "夢のように感じる",
+      "type": "metaphor",
+      "importance": 4,
+      "status": "active"
+    }
+  ],
+
+  "vocab_candidates": [
+    {
+      "word": "किस्मत",
+      "normalized": "किस्मत",
+      "pos": "名詞（女）",
+      "meaning_ja": "運命",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "यकीं",
+      "normalized": "यकीं",
+      "pos": "名詞（男）",
+      "meaning_ja": "確信・信頼",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "झील",
+      "normalized": "झील",
+      "pos": "名詞（女）",
+      "meaning_ja": "湖",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "चाँद",
+      "normalized": "चांद",
+      "pos": "名詞（男）",
+      "meaning_ja": "月",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "हौले",
+      "normalized": "हौले",
+      "pos": "副詞",
+      "meaning_ja": "そっと、やわらかく",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "तरन्नुम",
+      "normalized": "तरन्नुम",
+      "pos": "名詞（男）",
+      "meaning_ja": "旋律・歌うような調子",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "सुकूँ",
+      "normalized": "सुकूं",
+      "pos": "名詞（男）",
+      "meaning_ja": "安らぎ",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "जुनूँ",
+      "normalized": "जुनूं",
+      "pos": "名詞（男）",
+      "meaning_ja": "情熱・熱狂",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "फ़ुर्सत",
+      "normalized": "फुर्सत",
+      "pos": "名詞（女）",
+      "meaning_ja": "暇・余裕",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "नज़र",
+      "normalized": "नजर",
+      "pos": "名詞（女）",
+      "meaning_ja": "視線・まなざし",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "रुतबा",
+      "normalized": "रुतबा",
+      "pos": "名詞（男）",
+      "meaning_ja": "地位・格",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "बढ़ना",
+      "normalized": "बढ़ना",
+      "pos": "自動詞",
+      "meaning_ja": "増す・高まる",
+      "importance": 2,
+      "status": "active"
+    }
+  ],
+
+  "meta": {
+    "copyright_safe": true,
+    "lyrics_included": false,
+    "source_type": "manual_curated",
+    "dedupe_ready": true
+  }
+}

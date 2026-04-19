@@ -1,19 +1,179 @@
 {
-  "songId": "bolly_009",
-  "title": "Laakh Duniya Kahe",
+  "id": "bolly_009",
+  "schema_version": 2,
+
+  "title": "Jee Le Zaraa",
   "film": "Talaash",
-  "singers": [
-    "Ram Sampath"
+  "year": 2012,
+
+  "singer": [
+    "Vishal Dadlani"
   ],
-  "lyricist": "Javed Akhtar",
+  "lyricist": [
+    "Javed Akhtar"
+  ],
   "composer": [
     "Ram Sampath"
   ],
-  "year": 2012,
+
+  "notes": [],
+
   "tags": [
-    "喪失",
-    "救済"
+    "人生",
+    "再生"
   ],
-  "keyPhrase": "लाख दुनिया कहे तुम नहीं हो",
-  "status": "processed"
+
+  "emotion": "hope",
+  "register": "poetic",
+
+  "key_phrase": "जी ले ज़रा",
+
+  "expressions": [
+    {
+      "text": "जी ले ज़रा",
+      "normalized": "जी ले जरा",
+      "meaning_ja": "少しでも生きてみよう",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "खुद को पाना",
+      "normalized": "खुद को पाना",
+      "meaning_ja": "自分自身を見つける",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "ग़म को भुलाना",
+      "normalized": "गम को भुलाना",
+      "meaning_ja": "悲しみを忘れる",
+      "type": "expression",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "आगे बढ़ना",
+      "normalized": "आगे बढ़ना",
+      "meaning_ja": "前に進む",
+      "type": "expression",
+      "importance": 3,
+      "status": "active"
+    }
+  ],
+
+  "vocab_candidates": [
+    {
+      "word": "ज़िंदगी",
+      "normalized": "जिंदगी",
+      "pos": "名詞（女）",
+      "meaning_ja": "人生",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "ग़म",
+      "normalized": "गम",
+      "pos": "名詞（男）",
+      "meaning_ja": "悲しみ",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "ख़ुशी",
+      "normalized": "खुशी",
+      "pos": "名詞（女）",
+      "meaning_ja": "喜び",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "खुद",
+      "normalized": "खुद",
+      "pos": "代名詞",
+      "meaning_ja": "自分自身",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "सफ़र",
+      "normalized": "सफर",
+      "pos": "名詞（男）",
+      "meaning_ja": "旅・人生の道のり",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "चलना",
+      "normalized": "चलना",
+      "pos": "自動詞",
+      "meaning_ja": "進む・歩く",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "रास्ता",
+      "normalized": "रास्ता",
+      "pos": "名詞（男）",
+      "meaning_ja": "道",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "यक़ीं",
+      "normalized": "यकीं",
+      "pos": "名詞（男）",
+      "meaning_ja": "確信・信頼",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "हौसला",
+      "normalized": "हौसला",
+      "pos": "名詞（男）",
+      "meaning_ja": "勇気・意志",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "पाना",
+      "normalized": "पाना",
+      "pos": "他動詞",
+      "meaning_ja": "得る",
+      "importance": 2,
+      "status": "active"
+    },
+    {
+      "word": "खोना",
+      "normalized": "खोना",
+      "pos": "他動詞",
+      "meaning_ja": "失う",
+      "importance": 2,
+      "status": "active"
+    },
+    {
+      "word": "भूलना",
+      "normalized": "भूलना",
+      "pos": "他動詞",
+      "meaning_ja": "忘れる",
+      "importance": 2,
+      "status": "active"
+    },
+    {
+      "word": "सपना",
+      "normalized": "सपना",
+      "pos": "名詞（男）",
+      "meaning_ja": "夢",
+      "importance": 3,
+      "status": "active"
+    }
+  ],
+
+  "meta": {
+    "copyright_safe": true,
+    "lyrics_included": false,
+    "source_type": "manual_curated",
+    "dedupe_ready": true
+  }
 }

@@ -1,5 +1,5 @@
 {
-  "id": "bolly_006",
+  "id": "bolly_012",
   "schema_version": 2,
 
   "title": "Kal Ho Naa Ho",
@@ -16,30 +16,24 @@
     "Shankar Ehsaan Loy"
   ],
 
-  "notes": [],
+  "notes": [
+    "シャールク"
+  ],
 
   "tags": [
     "人生"
   ],
 
-  "emotion": "philosophical",
+  "emotion": "life",
   "register": "poetic",
 
   "key_phrase": "हर पल यहाँ जी भर जियो",
 
   "expressions": [
     {
-      "text": "हर पल जीना",
-      "normalized": "हर पल जीना",
-      "meaning_ja": "一瞬一瞬を生きる",
-      "type": "expression",
-      "importance": 4,
-      "status": "active"
-    },
-    {
-      "text": "जी भर जीना",
-      "normalized": "जी भर जीना",
-      "meaning_ja": "思いきり生きる",
+      "text": "जी भर जियो",
+      "normalized": "जी भर जियो",
+      "meaning_ja": "思いきり生きよ",
       "type": "expression",
       "importance": 4,
       "status": "active"
@@ -53,9 +47,17 @@
       "status": "active"
     },
     {
-      "text": "ज़िंदगी बदलना",
-      "normalized": "जिंदगी बदलना",
-      "meaning_ja": "人生が変わる",
+      "text": "हर पल जीना",
+      "normalized": "हर पल जीना",
+      "meaning_ja": "一瞬一瞬を生きる",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "दिल से चाहना",
+      "normalized": "दिल से चाहना",
+      "meaning_ja": "心から想う",
       "type": "expression",
       "importance": 3,
       "status": "active"
@@ -63,14 +65,6 @@
   ],
 
   "vocab_candidates": [
-    {
-      "word": "ज़िंदगी",
-      "normalized": "जिंदगी",
-      "pos": "名詞（女）",
-      "meaning_ja": "人生",
-      "importance": 4,
-      "status": "active"
-    },
     {
       "word": "पल",
       "normalized": "पल",
@@ -80,10 +74,26 @@
       "status": "active"
     },
     {
-      "word": "लम्हा",
-      "normalized": "लम्हा",
+      "word": "ज़िंदगी",
+      "normalized": "जिंदगी",
+      "pos": "名詞（女）",
+      "meaning_ja": "人生",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "समाँ",
+      "normalized": "समां",
       "pos": "名詞（男）",
-      "meaning_ja": "一瞬",
+      "meaning_ja": "雰囲気・その場の情景",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "मेहरबाँ",
+      "normalized": "मेहरबां",
+      "pos": "形容詞",
+      "meaning_ja": "優しい・慈悲深い",
       "importance": 4,
       "status": "active"
     },
@@ -96,43 +106,51 @@
       "status": "active"
     },
     {
-      "word": "समाँ",
-      "normalized": "समां",
-      "pos": "名詞（男）",
-      "meaning_ja": "雰囲気・状況",
-      "importance": 4,
-      "status": "active"
-    },
-    {
-      "word": "बदलना",
-      "normalized": "बदलना",
+      "word": "चाहना",
+      "normalized": "चाहना",
       "pos": "他動詞",
-      "meaning_ja": "変える・変わる",
+      "meaning_ja": "望む・愛する",
       "importance": 3,
       "status": "active"
     },
     {
-      "word": "जीना",
-      "normalized": "जीना",
+      "word": "मुश्किल",
+      "normalized": "मुश्किल",
+      "pos": "形容詞",
+      "meaning_ja": "難しい",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "हसीं",
+      "normalized": "हसीं",
+      "pos": "形容詞",
+      "meaning_ja": "美しい",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "थामना",
+      "normalized": "थामना",
+      "pos": "他動詞",
+      "meaning_ja": "つかむ・握る",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "साया",
+      "normalized": "साया",
+      "pos": "名詞（男）",
+      "meaning_ja": "影",
+      "importance": 2,
+      "status": "active"
+    },
+    {
+      "word": "धड़कना",
+      "normalized": "धड़कना",
       "pos": "自動詞",
-      "meaning_ja": "生きる",
-      "importance": 3,
-      "status": "active"
-    },
-    {
-      "word": "याद",
-      "normalized": "याद",
-      "pos": "名詞（女）",
-      "meaning_ja": "記憶・思い出",
-      "importance": 3,
-      "status": "active"
-    },
-    {
-      "word": "कहानी",
-      "normalized": "कहानी",
-      "pos": "名詞（女）",
-      "meaning_ja": "物語",
-      "importance": 3,
+      "meaning_ja": "鼓動する",
+      "importance": 2,
       "status": "active"
     },
     {
@@ -140,22 +158,6 @@
       "normalized": "सोचना",
       "pos": "自動詞",
       "meaning_ja": "考える",
-      "importance": 2,
-      "status": "active"
-    },
-    {
-      "word": "धूप",
-      "normalized": "धूप",
-      "pos": "名詞（女）",
-      "meaning_ja": "日差し",
-      "importance": 2,
-      "status": "active"
-    },
-    {
-      "word": "छाँव",
-      "normalized": "छांव",
-      "pos": "名詞（女）",
-      "meaning_ja": "影・日陰",
       "importance": 2,
       "status": "active"
     }

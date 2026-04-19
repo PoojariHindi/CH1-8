@@ -1,0 +1,189 @@
+{
+  "id": "bolly_015",
+  "schema_version": 2,
+
+  "title": "Behka Main Behka",
+  "film": "Ghajini",
+  "year": 2008,
+
+  "singer": [
+    "Karthik"
+  ],
+  "lyricist": [
+    "Prasoon Joshi"
+  ],
+  "composer": [
+    "A.R. Rahman"
+  ],
+
+  "notes": [
+    "アーミル・カーン主演作品"
+  ],
+
+  "tags": [
+    "恋愛",
+    "風"
+  ],
+
+  "emotion": "love",
+  "register": "poetic",
+
+  "key_phrase": "बेहका मैं बेहका, वो बेहकी हवा सी आई",
+
+  "expressions": [
+    {
+      "text": "बेहका मैं बेहका",
+      "normalized": "बहका मैं बहका",
+      "meaning_ja": "僕はすっかり夢中になってしまった",
+      "type": "expression",
+      "importance": 5,
+      "status": "active"
+    },
+    {
+      "text": "वो बेहकी हवा सी आई",
+      "normalized": "वो बहकी हवा सी आई",
+      "meaning_ja": "彼女はふわっとした風のように現れた",
+      "type": "expression",
+      "importance": 5,
+      "status": "active"
+    },
+    {
+      "text": "एक ही नज़र में सब मंज़िल पायी",
+      "normalized": "एक ही नजर में सब मंजिल पाई",
+      "meaning_ja": "たった一目で、すべてを手に入れたように感じた",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "दिल धक धक हुआ",
+      "normalized": "दिल धक धक हुआ",
+      "meaning_ja": "心臓がドキドキした",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    }
+  ],
+
+  "vocab_candidates": [
+    {
+      "word": "बेहका",
+      "normalized": "बहका",
+      "pos": "形容詞",
+      "meaning_ja": "酔ったような、夢中になった",
+      "importance": 5,
+      "status": "active"
+    },
+    {
+      "word": "हवा",
+      "normalized": "हवा",
+      "pos": "名詞（女）",
+      "meaning_ja": "風",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "नज़र",
+      "normalized": "नजर",
+      "pos": "名詞（女）",
+      "meaning_ja": "視線、一目",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "मंज़िल",
+      "normalized": "मंजिल",
+      "pos": "名詞（女）",
+      "meaning_ja": "目的地、到達点",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "अलग",
+      "normalized": "अलग",
+      "pos": "形容詞",
+      "meaning_ja": "違った、別の",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "जुदा",
+      "normalized": "जुदा",
+      "pos": "形容詞",
+      "meaning_ja": "異なる、離れた",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "अदा",
+      "normalized": "अदा",
+      "pos": "名詞（女）",
+      "meaning_ja": "しぐさ、魅力的な振る舞い",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "धड़कन",
+      "normalized": "धड़कन",
+      "pos": "名詞（女）",
+      "meaning_ja": "鼓動、心拍",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "रौनक",
+      "normalized": "रौनक",
+      "pos": "名詞（女）",
+      "meaning_ja": "華やかさ、賑わい",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "शरारत",
+      "normalized": "शरारत",
+      "pos": "名詞（女）",
+      "meaning_ja": "いたずらっぽさ",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "नज़ाकत",
+      "normalized": "नजाकत",
+      "pos": "名詞（女）",
+      "meaning_ja": "優雅さ、繊細さ",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "शरमाना",
+      "normalized": "शरमाना",
+      "pos": "動詞",
+      "meaning_ja": "恥ずかしがる",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "लहराना",
+      "normalized": "लहराना",
+      "pos": "動詞",
+      "meaning_ja": "揺れる、なびく",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "गहराई",
+      "normalized": "गहराई",
+      "pos": "名詞（女）",
+      "meaning_ja": "深さ、奥深さ",
+      "importance": 4,
+      "status": "active"
+    }
+  ],
+
+  "meta": {
+    "copyright_safe": true,
+    "lyrics_included": false,
+    "source_type": "manual_curated",
+    "dedupe_ready": true
+  }
+}

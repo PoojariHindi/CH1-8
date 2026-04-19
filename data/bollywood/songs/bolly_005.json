@@ -1,18 +1,178 @@
 {
-  "songId": "bolly_005",
+  "id": "bolly_005",
+  "schema_version": 2,
+
   "title": "Des Rangeela",
   "film": "Fanaa",
-  "singers": [
+  "year": 2006,
+
+  "singer": [
     "Mahalakshmi Iyer"
   ],
-  "lyricist": "Prasoon Joshi",
+  "lyricist": [
+    "Prasoon Joshi"
+  ],
   "composer": [
     "Jatin-Lalit"
   ],
-  "year": 2006,
+
+  "notes": [],
+
   "tags": [
     "愛国"
   ],
-  "keyPhrase": "देस रंगीला रंगीला",
-  "status": "processed"
+
+  "emotion": "patriotism",
+  "register": "poetic",
+
+  "key_phrase": "देस रंगीला रंगीला",
+
+  "expressions": [
+    {
+      "text": "देस रंगीला होना",
+      "normalized": "देस रंगीला होना",
+      "meaning_ja": "国が色鮮やかである",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "मिट्टी की खुश्बू",
+      "normalized": "मिट्टी की खुश्बू",
+      "meaning_ja": "土の香り",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "रंग में रंग जाना",
+      "normalized": "रंग में रंग जाना",
+      "meaning_ja": "色に染まる",
+      "type": "metaphor",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "दिल से पुकारना",
+      "normalized": "दिल से पुकारना",
+      "meaning_ja": "心から呼びかける",
+      "type": "expression",
+      "importance": 3,
+      "status": "active"
+    }
+  ],
+
+  "vocab_candidates": [
+    {
+      "word": "देस",
+      "normalized": "देस",
+      "pos": "名詞（男）",
+      "meaning_ja": "国、ふるさと",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "रंगीला",
+      "normalized": "रंगीला",
+      "pos": "形容詞",
+      "meaning_ja": "色鮮やかな、華やかな",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "मिट्टी",
+      "normalized": "मिट्टी",
+      "pos": "名詞（女）",
+      "meaning_ja": "土、大地",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "खुश्बू",
+      "normalized": "खुश्बू",
+      "pos": "名詞（女）",
+      "meaning_ja": "香り",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "धरती",
+      "normalized": "धरती",
+      "pos": "名詞（女）",
+      "meaning_ja": "大地",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "रंग",
+      "normalized": "रंग",
+      "pos": "名詞（男）",
+      "meaning_ja": "色",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "चुनरिया",
+      "normalized": "चुनरिया",
+      "pos": "名詞（女）",
+      "meaning_ja": "チャドリ、色布",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "पुकारना",
+      "normalized": "पुकारना",
+      "pos": "他動詞",
+      "meaning_ja": "呼びかける",
+      "importance": 2,
+      "status": "active"
+    },
+    {
+      "word": "नदिया",
+      "normalized": "नदिया",
+      "pos": "名詞（女）",
+      "meaning_ja": "川",
+      "importance": 2,
+      "status": "active"
+    },
+    {
+      "word": "अंबर",
+      "normalized": "अंबर",
+      "pos": "名詞（男）",
+      "meaning_ja": "空、天空",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "पवन",
+      "normalized": "पवन",
+      "pos": "名詞（男）",
+      "meaning_ja": "風",
+      "importance": 2,
+      "status": "active"
+    },
+    {
+      "word": "सुर",
+      "normalized": "सुर",
+      "pos": "名詞（男）",
+      "meaning_ja": "音、旋律",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "गूँज",
+      "normalized": "गूंज",
+      "pos": "名詞（女）",
+      "meaning_ja": "響き、こだま",
+      "importance": 3,
+      "status": "active"
+    }
+  ],
+
+  "meta": {
+    "copyright_safe": true,
+    "lyrics_included": false,
+    "source_type": "manual_curated",
+    "dedupe_ready": true
+  }
 }

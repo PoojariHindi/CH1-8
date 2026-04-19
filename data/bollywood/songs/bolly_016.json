@@ -1,0 +1,188 @@
+{
+  "id": "bolly_016",
+  "schema_version": 2,
+
+  "title": "Rang De Basanti",
+  "film": "Rang De Basanti",
+  "year": 2006,
+
+  "singer": [
+    "Daler Mehndi"
+  ],
+  "lyricist": [
+    "Prasoon Joshi"
+  ],
+  "composer": [
+    "A.R. Rahman"
+  ],
+
+  "notes": [
+    "アーミル"
+  ],
+
+  "tags": [
+    "愛国"
+  ],
+
+  "emotion": "patriotic",
+  "register": "poetic",
+
+  "key_phrase": "मोहे तू रंग दे बसंती यारा, मोहे तू रंग दे बसंती",
+
+  "expressions": [
+    {
+      "text": "रंग दे बसंती",
+      "normalized": "रंग दे बसंती",
+      "meaning_ja": "私をサフラン色に染め上げて",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "मोहे तू रंग दे",
+      "normalized": "मोहे तू रंग दे",
+      "meaning_ja": "私を染めてくれ",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "धीमी आँच पे इश्क चढ़ाना",
+      "normalized": "धीमी आंच पे इश्क चढ़ाना",
+      "meaning_ja": "弱火で愛を煮込むように高める",
+      "type": "metaphor",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "रंगरेज़ मेरे सब कुछ रंग दे",
+      "normalized": "रंगरेज मेरे सब कुछ रंग दे",
+      "meaning_ja": "わが染物師よ、私のすべてを染めてくれ",
+      "type": "metaphor",
+      "importance": 4,
+      "status": "active"
+    }
+  ],
+
+  "vocab_candidates": [
+    {
+      "word": "वतन",
+      "normalized": "वतन",
+      "pos": "名詞（男）",
+      "meaning_ja": "祖国",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "धूल",
+      "normalized": "धूल",
+      "pos": "名詞（女）",
+      "meaning_ja": "ほこり、土",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "धरती",
+      "normalized": "धरती",
+      "pos": "名詞（女）",
+      "meaning_ja": "大地",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "खुशबू",
+      "normalized": "खुशबू",
+      "pos": "名詞（女）",
+      "meaning_ja": "香り",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "पवन",
+      "normalized": "पवन",
+      "pos": "名詞（男）",
+      "meaning_ja": "風",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "जुनूँ",
+      "normalized": "जुनूं",
+      "pos": "名詞（男）",
+      "meaning_ja": "情熱、熱狂",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "लहू",
+      "normalized": "लहू",
+      "pos": "名詞（男）",
+      "meaning_ja": "血",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "धड़कन",
+      "normalized": "धडकन",
+      "pos": "名詞（女）",
+      "meaning_ja": "鼓動",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "सरगम",
+      "normalized": "सरगम",
+      "pos": "名詞（女）",
+      "meaning_ja": "音階、旋律",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "इश्क",
+      "normalized": "इश्क",
+      "pos": "名詞（男）",
+      "meaning_ja": "愛、情熱的な愛",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "बस्ती",
+      "normalized": "बस्ती",
+      "pos": "名詞（女）",
+      "meaning_ja": "集落、町",
+      "importance": 2,
+      "status": "active"
+    },
+    {
+      "word": "बचपन",
+      "normalized": "बचपन",
+      "pos": "名詞（男）",
+      "meaning_ja": "子ども時代",
+      "importance": 2,
+      "status": "active"
+    },
+    {
+      "word": "जोबन",
+      "normalized": "जोबन",
+      "pos": "名詞（男）",
+      "meaning_ja": "若さ、青春",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "रंगरेज़",
+      "normalized": "रंगरेज",
+      "pos": "名詞（男）",
+      "meaning_ja": "染物師",
+      "importance": 4,
+      "status": "active"
+    }
+  ],
+
+  "meta": {
+    "copyright_safe": true,
+    "lyrics_included": false,
+    "source_type": "manual_curated",
+    "dedupe_ready": true
+  }
+}

@@ -1,18 +1,179 @@
 {
-  "songId": "bolly_010",
+  "id": "bolly_010",
+  "schema_version": 2,
+
   "title": "Behti Hawa Sa Tha Woh",
   "film": "3 Idiots",
-  "singers": [
+  "year": 2009,
+
+  "singer": [
     "Shaan"
   ],
-  "lyricist": "Swanand Kirkire",
+  "lyricist": [
+    "Swanand Kirkire"
+  ],
   "composer": [
-    "Shaantanu Moitra"
+    "Shantanu Moitra"
   ],
-  "year": 2009,
+
+  "notes": [],
+
   "tags": [
-    "友情"
+    "友情",
+    "回想"
   ],
-  "keyPhrase": "बहती हवा सा था वो",
-  "status": "processed"
+
+  "emotion": "nostalgia",
+  "register": "poetic",
+
+  "key_phrase": "बहती हवा सा था वो",
+
+  "expressions": [
+    {
+      "text": "बहती हवा सा होना",
+      "normalized": "बहती हवा सा होना",
+      "meaning_ja": "流れる風のようである",
+      "type": "metaphor",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "कभी मिलना कभी खो जाना",
+      "normalized": "कभी मिलना कभी खो जाना",
+      "meaning_ja": "出会っては消えていく",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "याद आना",
+      "normalized": "याद आना",
+      "meaning_ja": "思い出す",
+      "type": "expression",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "दूर चला जाना",
+      "normalized": "दूर चला जाना",
+      "meaning_ja": "遠くへ去る",
+      "type": "expression",
+      "importance": 3,
+      "status": "active"
+    }
+  ],
+
+  "vocab_candidates": [
+    {
+      "word": "हवा",
+      "normalized": "हवा",
+      "pos": "名詞（女）",
+      "meaning_ja": "風",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "बहना",
+      "normalized": "बहना",
+      "pos": "自動詞",
+      "meaning_ja": "流れる",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "दोस्त",
+      "normalized": "दोस्त",
+      "pos": "名詞（男）",
+      "meaning_ja": "友人",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "याद",
+      "normalized": "याद",
+      "pos": "名詞（女）",
+      "meaning_ja": "思い出",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "खोना",
+      "normalized": "खोना",
+      "pos": "他動詞",
+      "meaning_ja": "失う",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "मिलना",
+      "normalized": "मिलना",
+      "pos": "自動詞",
+      "meaning_ja": "出会う",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "दूर",
+      "normalized": "दूर",
+      "pos": "副詞",
+      "meaning_ja": "遠く",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "चलना",
+      "normalized": "चलना",
+      "pos": "自動詞",
+      "meaning_ja": "進む",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "साथ",
+      "normalized": "साथ",
+      "pos": "名詞（男）",
+      "meaning_ja": "一緒・共に",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "पल",
+      "normalized": "पल",
+      "pos": "名詞（男）",
+      "meaning_ja": "瞬間",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "कभी",
+      "normalized": "कभी",
+      "pos": "副詞",
+      "meaning_ja": "時々",
+      "importance": 2,
+      "status": "active"
+    },
+    {
+      "word": "जाना",
+      "normalized": "जाना",
+      "pos": "自動詞",
+      "meaning_ja": "行く",
+      "importance": 2,
+      "status": "active"
+    },
+    {
+      "word": "फिर",
+      "normalized": "फिर",
+      "pos": "副詞",
+      "meaning_ja": "再び",
+      "importance": 2,
+      "status": "active"
+    }
+  ],
+
+  "meta": {
+    "copyright_safe": true,
+    "lyrics_included": false,
+    "source_type": "manual_curated",
+    "dedupe_ready": true
+  }
 }

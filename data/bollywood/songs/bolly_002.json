@@ -1,18 +1,178 @@
 {
-  "songId": "bolly_002",
+  "id": "bolly_002",
+  "schema_version": 2,
+
   "title": "Chand Sifarish",
   "film": "Fanaa",
-  "singers": [
+  "year": 2006,
+
+  "singer": [
     "Shaan"
   ],
-  "lyricist": "Prasoon Joshi",
+  "lyricist": [
+    "Prasoon Joshi"
+  ],
   "composer": [
     "Jatin-Lalit"
   ],
-  "year": 2006,
+
+  "notes": [],
+
   "tags": [
     "恋愛"
   ],
-  "keyPhrase": "चाँद सिफ़ारिश जो करता हमारी",
-  "status": "processed"
+
+  "emotion": "love",
+  "register": "poetic",
+
+  "key_phrase": "चाँद सिफ़ारिश जो करता हमारी",
+
+  "expressions": [
+    {
+      "text": "चाँद सिफ़ारिश करना",
+      "normalized": "चांद सिफारिश करना",
+      "meaning_ja": "月が取りなす",
+      "type": "metaphor",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "नज़र मिलना",
+      "normalized": "नजर मिलना",
+      "meaning_ja": "視線が合う",
+      "type": "expression",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "दिल में उतरना",
+      "normalized": "दिल में उतरना",
+      "meaning_ja": "心に入り込む",
+      "type": "metaphor",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "छू के गुजरना",
+      "normalized": "छू के गुजरना",
+      "meaning_ja": "触れるように通り過ぎる",
+      "type": "verb_phrase",
+      "importance": 3,
+      "status": "active"
+    }
+  ],
+
+  "vocab_candidates": [
+    {
+      "word": "सिफ़ारिश",
+      "normalized": "सिफारिश",
+      "pos": "名詞（女）",
+      "meaning_ja": "推薦・取りなし",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "चाँद",
+      "normalized": "चांद",
+      "pos": "名詞（男）",
+      "meaning_ja": "月",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "नज़र",
+      "normalized": "नजर",
+      "pos": "名詞（女）",
+      "meaning_ja": "視線・まなざし",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "नज़ारा",
+      "normalized": "नजारा",
+      "pos": "名詞（男）",
+      "meaning_ja": "光景",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "गुज़रना",
+      "normalized": "गुजरना",
+      "pos": "自動詞",
+      "meaning_ja": "過ぎる",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "छूना",
+      "normalized": "छूना",
+      "pos": "他動詞",
+      "meaning_ja": "触れる",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "तमन्ना",
+      "normalized": "तमन्ना",
+      "pos": "名詞（女）",
+      "meaning_ja": "願い・切望",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "आरज़ू",
+      "normalized": "आरजू",
+      "pos": "名詞（女）",
+      "meaning_ja": "願望・憧れ",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "ख़्वाब",
+      "normalized": "ख्वाब",
+      "pos": "名詞（男）",
+      "meaning_ja": "夢",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "ख़ामोशी",
+      "normalized": "खामोशी",
+      "pos": "名詞（女）",
+      "meaning_ja": "静けさ",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "चमन",
+      "normalized": "चमन",
+      "pos": "名詞（男）",
+      "meaning_ja": "花園",
+      "importance": 2,
+      "status": "active"
+    },
+    {
+      "word": "रौशनी",
+      "normalized": "रौशनी",
+      "pos": "名詞（女）",
+      "meaning_ja": "光",
+      "importance": 2,
+      "status": "active"
+    },
+    {
+      "word": "साया",
+      "normalized": "साया",
+      "pos": "名詞（男）",
+      "meaning_ja": "影",
+      "importance": 2,
+      "status": "active"
+    }
+  ],
+
+  "meta": {
+    "copyright_safe": true,
+    "lyrics_included": false,
+    "source_type": "manual_curated",
+    "dedupe_ready": true
+  }
 }

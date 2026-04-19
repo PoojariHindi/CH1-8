@@ -1,18 +1,170 @@
 {
-  "songId": "bolly_008",
+  "id": "bolly_008",
+  "schema_version": 2,
+
   "title": "Hona Hai Kya",
   "film": "Talaash",
-  "singers": [
+  "year": 2012,
+
+  "singer": [
     "Ram Sampath"
   ],
-  "lyricist": "Javed Akhtar",
+  "lyricist": [
+    "Javed Akhtar"
+  ],
   "composer": [
     "Ram Sampath"
   ],
-  "year": 2012,
+
+  "notes": [],
+
   "tags": [
     "人生"
   ],
-  "keyPhrase": "ना मैं जानूँ, ना तू जाने",
-  "status": "processed"
+
+  "emotion": "life",
+  "register": "poetic",
+
+  "key_phrase": "ना मैं जानूँ, ना तू जाने",
+
+  "expressions": [
+    {
+      "text": "ना मैं जानूँ, ना तू जाने",
+      "normalized": "ना मैं जानूं ना तू जाने",
+      "meaning_ja": "私にもあなたにも分からない",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "होना है क्या",
+      "normalized": "होना है क्या",
+      "meaning_ja": "何が起こるのか",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "ज़िंदगी एक जुआ",
+      "normalized": "जिंदगी एक जुआ",
+      "meaning_ja": "人生は賭けのようなもの",
+      "type": "metaphor",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "ग़म और ख़ुशी",
+      "normalized": "गम और खुशी",
+      "meaning_ja": "悲しみと喜び",
+      "type": "collocation",
+      "importance": 3,
+      "status": "active"
+    }
+  ],
+
+  "vocab_candidates": [
+    {
+      "word": "समाँ",
+      "normalized": "समां",
+      "pos": "名詞（男）",
+      "meaning_ja": "雰囲気・情景・状況",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "ज़िंदगी",
+      "normalized": "जिंदगी",
+      "pos": "名詞（女）",
+      "meaning_ja": "人生",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "जुआ",
+      "normalized": "जुआ",
+      "pos": "名詞（男）",
+      "meaning_ja": "賭け",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "ग़म",
+      "normalized": "गम",
+      "pos": "名詞（男）",
+      "meaning_ja": "悲しみ",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "ख़ुशी",
+      "normalized": "खुशी",
+      "pos": "名詞（女）",
+      "meaning_ja": "喜び",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "मुस्कुराना",
+      "normalized": "मुस्कुराना",
+      "pos": "自動詞",
+      "meaning_ja": "微笑む",
+      "importance": 2,
+      "status": "active"
+    },
+    {
+      "word": "पाना",
+      "normalized": "पाना",
+      "pos": "他動詞",
+      "meaning_ja": "得る",
+      "importance": 2,
+      "status": "active"
+    },
+    {
+      "word": "खोना",
+      "normalized": "खोना",
+      "pos": "他動詞",
+      "meaning_ja": "失う",
+      "importance": 2,
+      "status": "active"
+    },
+    {
+      "word": "सोचना",
+      "normalized": "सोचना",
+      "pos": "自動詞",
+      "meaning_ja": "考える",
+      "importance": 2,
+      "status": "active"
+    },
+    {
+      "word": "यक़ीं",
+      "normalized": "यकीं",
+      "pos": "名詞（男）",
+      "meaning_ja": "確信・信頼",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "रास्ता",
+      "normalized": "रास्ता",
+      "pos": "名詞（男）",
+      "meaning_ja": "道",
+      "importance": 2,
+      "status": "active"
+    },
+    {
+      "word": "फैसला",
+      "normalized": "फैसला",
+      "pos": "名詞（男）",
+      "meaning_ja": "決断",
+      "importance": 3,
+      "status": "active"
+    }
+  ],
+
+  "meta": {
+    "copyright_safe": true,
+    "lyrics_included": false,
+    "source_type": "manual_curated",
+    "dedupe_ready": true
+  }
 }

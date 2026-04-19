@@ -1,19 +1,179 @@
 {
-  "songId": "bolly_001",
+  "id": "bolly_001",
+  "schema_version": 2,
+
   "title": "Mere Haath Mein",
   "film": "Fanaa",
-  "singers": [
+  "year": 2006,
+
+  "singer": [
     "Sonu Nigam"
   ],
-  "lyricist": "Prasoon Joshi",
+  "lyricist": [
+    "Prasoon Joshi"
+  ],
   "composer": [
     "Jatin-Lalit"
   ],
-  "year": 2006,
+
+  "notes": [],
+
   "tags": [
     "恋愛",
     "スーフィー的"
   ],
-  "keyPhrase": "मेरे हाथ में तेरा हाथ हो",
-  "status": "processed"
+
+  "emotion": "love",
+  "register": "poetic",
+
+  "key_phrase": "मेरे हाथ में तेरा हाथ हो",
+
+  "expressions": [
+    {
+      "text": "हाथ में हाथ होना",
+      "normalized": "हाथ में हाथ होना",
+      "meaning_ja": "手を取り合っている",
+      "type": "expression",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "पनाह मिलना",
+      "normalized": "पनाह मिलना",
+      "meaning_ja": "庇護を得る",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "इश्क में फ़ना होना",
+      "normalized": "इश्क में फना होना",
+      "meaning_ja": "愛に溶けて消える",
+      "type": "metaphor",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "हमसफ़र बनना",
+      "normalized": "हमसफर बनना",
+      "meaning_ja": "人生の伴侶になる",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    }
+  ],
+
+  "vocab_candidates": [
+    {
+      "word": "इश्क",
+      "normalized": "इश्क",
+      "pos": "名詞（男）",
+      "meaning_ja": "激しい愛",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "फ़ना",
+      "normalized": "फना",
+      "pos": "名詞（女）",
+      "meaning_ja": "消滅・愛に溶けること",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "हमसफ़र",
+      "normalized": "हमसफर",
+      "pos": "名詞（男）",
+      "meaning_ja": "人生の伴侶",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "पनाह",
+      "normalized": "पनाह",
+      "pos": "名詞（女）",
+      "meaning_ja": "庇護・避難所",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "जन्नत",
+      "normalized": "जन्नत",
+      "pos": "名詞（女）",
+      "meaning_ja": "天国",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "खुश्बू",
+      "normalized": "खुश्बू",
+      "pos": "名詞（女）",
+      "meaning_ja": "香り",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "रूह",
+      "normalized": "रूह",
+      "pos": "名詞（女）",
+      "meaning_ja": "魂",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "नज़ारा",
+      "normalized": "नजारा",
+      "pos": "名詞（男）",
+      "meaning_ja": "光景",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "एहसास",
+      "normalized": "एहसास",
+      "pos": "名詞（男）",
+      "meaning_ja": "感情・感覚",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "ख़ामोशी",
+      "normalized": "खामोशी",
+      "pos": "名詞（女）",
+      "meaning_ja": "静けさ",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "सफ़र",
+      "normalized": "सफर",
+      "pos": "名詞（男）",
+      "meaning_ja": "旅",
+      "importance": 2,
+      "status": "active"
+    },
+    {
+      "word": "रास्ता",
+      "normalized": "रास्ता",
+      "pos": "名詞（男）",
+      "meaning_ja": "道",
+      "importance": 2,
+      "status": "active"
+    },
+    {
+      "word": "पल",
+      "normalized": "पल",
+      "pos": "名詞（男）",
+      "meaning_ja": "瞬間",
+      "importance": 2,
+      "status": "active"
+    }
+  ],
+
+  "meta": {
+    "copyright_safe": true,
+    "lyrics_included": false,
+    "source_type": "manual_curated",
+    "dedupe_ready": true
+  }
 }

@@ -2,688 +2,59 @@
   "topic": "bollywood",
   "vocab": [
     {
+      "word": "अधूरी",
+      "meaning": "不完全な・満たされない",
+      "pos": "形容詞",
+      "key": "अधूरी",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 4,
+      "layer": "B",
+      "tags": [],
+      "normalized": "अधूरी",
+      "sourceSongIds": [
+        "bolly_013"
+      ]
+    },
+    {
       "word": "इश्क",
       "meaning": "激しい愛",
       "pos": "名詞（男）",
       "key": "इश्क",
-      "category": "感情",
-      "difficulty": 2,
-      "frequency": 2,
-      "importance": 3,
-      "layer": "B",
-      "tags": []
-    },
-    {
-      "word": "प्यार",
-      "meaning": "愛",
-      "pos": "名詞（男）",
-      "key": "प्यार",
-      "category": "感情",
+      "category": "",
       "difficulty": 1,
-      "frequency": 2,
-      "importance": 3,
-      "layer": "B",
-      "tags": []
-    },
-    {
-      "word": "चाहत",
-      "meaning": "想い・愛",
-      "pos": "名詞（女）",
-      "key": "चाहत",
-      "category": "感情",
-      "difficulty": 2,
-      "frequency": 2,
-      "importance": 3,
-      "layer": "B",
-      "tags": []
-    },
-    {
-      "word": "दिल",
-      "meaning": "心",
-      "pos": "名詞（男）",
-      "key": "दिल",
-      "category": "感情",
-      "difficulty": 1,
-      "frequency": 5,
-      "importance": 3,
-      "layer": "B",
-      "tags": []
-    },
-    {
-      "word": "मन",
-      "meaning": "心・内面",
-      "pos": "名詞（男）",
-      "key": "मन",
-      "category": "感情",
-      "difficulty": 2,
       "frequency": 3,
-      "importance": 3,
+      "importance": 4,
       "layer": "B",
-      "tags": []
-    },
-    {
-      "word": "जिया",
-      "meaning": "心・魂",
-      "pos": "名詞（男）",
-      "key": "जिया",
-      "category": "感情",
-      "difficulty": 3,
-      "frequency": 1,
-      "importance": 3,
-      "layer": "B",
-      "tags": []
-    },
-    {
-      "word": "फ़ना",
-      "meaning": "消滅・愛に溶けること",
-      "pos": "名詞（女）",
-      "key": "फ़ना",
-      "category": "神秘",
-      "difficulty": 4,
-      "frequency": 2,
-      "importance": 3,
-      "layer": "B",
-      "tags": []
-    },
-    {
-      "word": "जन्नत",
-      "meaning": "天国",
-      "pos": "名詞（女）",
-      "key": "जन्नत",
-      "category": "神秘",
-      "difficulty": 3,
-      "frequency": 1,
-      "importance": 3,
-      "layer": "B",
-      "tags": []
-    },
-    {
-      "word": "हमसफ़र",
-      "meaning": "人生の伴侶",
-      "pos": "名詞（男）",
-      "key": "हमसफ़र",
-      "category": "関係",
-      "difficulty": 2,
-      "frequency": 3,
-      "importance": 3,
-      "layer": "B",
-      "tags": []
-    },
-    {
-      "word": "हमनवा",
-      "meaning": "心を同じくする人",
-      "pos": "名詞（男）",
-      "key": "हमनवा",
-      "category": "関係",
-      "difficulty": 4,
-      "frequency": 1,
-      "importance": 3,
-      "layer": "B",
-      "tags": []
+      "tags": [
+        "感情"
+      ],
+      "normalized": "इश्क",
+      "sourceSongIds": [
+        "bolly_001",
+        "bolly_005",
+        "bolly_016"
+      ]
     },
     {
       "word": "एहसास",
       "meaning": "感覚・実感",
       "pos": "名詞（男）",
       "key": "एहसास",
-      "category": "感情",
-      "difficulty": 3,
-      "frequency": 1,
-      "importance": 3,
-      "layer": "B",
-      "tags": []
-    },
-    {
-      "word": "जज़्बात",
-      "meaning": "感情",
-      "pos": "名詞（男）",
-      "key": "जज़्बात",
-      "category": "感情",
-      "difficulty": 3,
-      "frequency": 1,
-      "importance": 3,
-      "layer": "B",
-      "tags": []
-    },
-    {
-      "word": "ग़म",
-      "meaning": "悲しみ",
-      "pos": "名詞（男）",
-      "key": "ग़म",
-      "category": "感情",
-      "difficulty": 2,
-      "frequency": 2,
-      "importance": 3,
-      "layer": "B",
-      "tags": []
-    },
-    {
-      "word": "ख़ुशी",
-      "meaning": "喜び",
-      "pos": "名詞（女）",
-      "key": "ख़ुशी",
-      "category": "感情",
-      "difficulty": 1,
-      "frequency": 2,
-      "importance": 3,
-      "layer": "B",
-      "tags": []
-    },
-    {
-      "word": "फिकर",
-      "meaning": "心配",
-      "pos": "名詞（女）",
-      "key": "फिकर",
-      "category": "感情",
-      "difficulty": 2,
-      "frequency": 1,
-      "importance": 3,
-      "layer": "B",
-      "tags": []
-    },
-    {
-      "word": "चैन",
-      "meaning": "安らぎ",
-      "pos": "名詞（男）",
-      "key": "चैन",
-      "category": "感情",
-      "difficulty": 2,
-      "frequency": 2,
-      "importance": 3,
-      "layer": "B",
-      "tags": []
-    },
-    {
-      "word": "ख़्वाहिश",
-      "meaning": "願望",
-      "pos": "名詞（女）",
-      "key": "ख़्वाहिश",
-      "category": "感情",
-      "difficulty": 3,
-      "frequency": 1,
-      "importance": 3,
-      "layer": "B",
-      "tags": []
-    },
-    {
-      "word": "मर्ज़ी",
-      "meaning": "意思",
-      "pos": "名詞（女）",
-      "key": "मर्ज़ी",
-      "category": "感情",
-      "difficulty": 3,
-      "frequency": 1,
-      "importance": 3,
-      "layer": "B",
-      "tags": []
-    },
-    {
-      "word": "पनाह",
-      "meaning": "避難所・庇護",
-      "pos": "名詞（女）",
-      "key": "पनाह",
-      "category": "関係",
-      "difficulty": 4,
-      "frequency": 1,
-      "importance": 3,
-      "layer": "B",
-      "tags": []
-    },
-    {
-      "word": "दूरी",
-      "meaning": "距離",
-      "pos": "名詞（女）",
-      "key": "दूरी",
-      "category": "関係",
-      "difficulty": 2,
-      "frequency": 2,
-      "importance": 3,
-      "layer": "B",
-      "tags": []
-    },
-    {
-      "word": "डोर",
-      "meaning": "糸・絆",
-      "pos": "名詞（女）",
-      "key": "डोर",
-      "category": "関係",
-      "difficulty": 3,
-      "frequency": 1,
-      "importance": 3,
-      "layer": "B",
-      "tags": []
-    },
-    {
-      "word": "पहेली",
-      "meaning": "なぞなぞ・謎",
-      "pos": "名詞（女）",
-      "key": "पहेली",
-      "category": "哲学",
-      "difficulty": 3,
-      "frequency": 1,
-      "importance": 3,
-      "layer": "B",
-      "tags": []
-    },
-    {
-      "word": "रहस्य",
-      "meaning": "秘密・謎",
-      "pos": "名詞（男）",
-      "key": "रहस्य",
-      "category": "哲学",
-      "difficulty": 4,
-      "frequency": 1,
-      "importance": 3,
-      "layer": "B",
-      "tags": []
-    },
-    {
-      "word": "ज़िंदगी",
-      "meaning": "人生",
-      "pos": "名詞（女）",
-      "key": "ज़िंदगी",
-      "category": "哲学",
-      "difficulty": 1,
-      "frequency": 2,
-      "importance": 3,
-      "layer": "B",
-      "tags": []
-    },
-    {
-      "word": "लम्हा",
-      "meaning": "瞬間",
-      "pos": "名詞（男）",
-      "key": "लम्हा",
-      "category": "哲学",
-      "difficulty": 2,
-      "frequency": 1,
-      "importance": 3,
-      "layer": "B",
-      "tags": []
-    },
-    {
-      "word": "जुआ",
-      "meaning": "賭け",
-      "pos": "名詞（男）",
-      "key": "जुआ",
-      "category": "哲学",
-      "difficulty": 3,
-      "frequency": 1,
-      "importance": 3,
-      "layer": "B",
-      "tags": []
-    },
-    {
-      "word": "मंज़िल",
-      "meaning": "目的地",
-      "pos": "名詞（女）",
-      "key": "मंज़िल",
-      "category": "哲学",
-      "difficulty": 2,
-      "frequency": 1,
-      "importance": 3,
-      "layer": "B",
-      "tags": []
-    },
-    {
-      "word": "रहगुज़र",
-      "meaning": "道・通り道",
-      "pos": "名詞（女）",
-      "key": "रहगुज़र",
-      "category": "哲学",
-      "difficulty": 4,
-      "frequency": 1,
-      "importance": 3,
-      "layer": "B",
-      "tags": []
-    },
-    {
-      "word": "समाँ",
-      "meaning": "雰囲気・情景",
-      "pos": "名詞（男）",
-      "key": "समाँ",
-      "category": "哲学",
-      "difficulty": 4,
-      "frequency": 1,
-      "importance": 3,
-      "layer": "B",
-      "tags": []
-    },
-    {
-      "word": "हवा",
-      "meaning": "風",
-      "pos": "名詞（女）",
-      "key": "हवा",
-      "category": "自然",
-      "difficulty": 1,
-      "frequency": 3,
-      "importance": 3,
-      "layer": "B",
-      "tags": []
-    },
-    {
-      "word": "बादल",
-      "meaning": "雲",
-      "pos": "名詞（男）",
-      "key": "बादल",
-      "category": "自然",
-      "difficulty": 1,
-      "frequency": 2,
-      "importance": 3,
-      "layer": "B",
-      "tags": []
-    },
-    {
-      "word": "धूप",
-      "meaning": "日差し",
-      "pos": "名詞（女）",
-      "key": "धूप",
-      "category": "自然",
-      "difficulty": 1,
-      "frequency": 1,
-      "importance": 3,
-      "layer": "B",
-      "tags": []
-    },
-    {
-      "word": "छाँव",
-      "meaning": "日陰",
-      "pos": "名詞（女）",
-      "key": "छाँव",
-      "category": "自然",
-      "difficulty": 2,
-      "frequency": 1,
-      "importance": 3,
-      "layer": "B",
-      "tags": []
-    },
-    {
-      "word": "नदिया",
-      "meaning": "川",
-      "pos": "名詞（女）",
-      "key": "नदिया",
-      "category": "自然",
-      "difficulty": 2,
-      "frequency": 1,
-      "importance": 3,
-      "layer": "B",
-      "tags": []
-    },
-    {
-      "word": "रेगिस्तान",
-      "meaning": "砂漠",
-      "pos": "名詞（男）",
-      "key": "रेगिस्तान",
-      "category": "自然",
-      "difficulty": 3,
-      "frequency": 1,
-      "importance": 3,
-      "layer": "B",
-      "tags": []
-    },
-    {
-      "word": "खुश्बू",
-      "meaning": "香り",
-      "pos": "名詞（女）",
-      "key": "खुश्बू",
-      "category": "自然",
-      "difficulty": 2,
-      "frequency": 2,
-      "importance": 3,
-      "layer": "B",
-      "tags": []
-    },
-    {
-      "word": "रंग",
-      "meaning": "色",
-      "pos": "名詞（男）",
-      "key": "रंग",
-      "category": "文化",
-      "difficulty": 1,
-      "frequency": 2,
-      "importance": 3,
-      "layer": "B",
-      "tags": []
-    },
-    {
-      "word": "पतंग",
-      "meaning": "凧",
-      "pos": "名詞（女）",
-      "key": "पतंग",
-      "category": "自然",
-      "difficulty": 2,
-      "frequency": 1,
-      "importance": 3,
-      "layer": "B",
-      "tags": []
-    },
-    {
-      "word": "मरहम",
-      "meaning": "軟膏・癒やし",
-      "pos": "名詞（男）",
-      "key": "मरहम",
-      "category": "関係",
-      "difficulty": 3,
-      "frequency": 1,
-      "importance": 3,
-      "layer": "B",
-      "tags": []
-    },
-    {
-      "word": "यार",
-      "meaning": "友達",
-      "pos": "名詞（男）",
-      "key": "यार",
-      "category": "関係",
-      "difficulty": 1,
-      "frequency": 1,
-      "importance": 3,
-      "layer": "B",
-      "tags": []
-    },
-    {
-      "word": "चलना",
-      "meaning": "歩く",
-      "pos": "自動詞",
-      "key": "चलना",
-      "category": "行動",
-      "difficulty": 1,
-      "frequency": 2,
-      "importance": 3,
-      "layer": "B",
-      "tags": []
-    },
-    {
-      "word": "जीना",
-      "meaning": "生きる",
-      "pos": "自動詞",
-      "key": "जीना",
-      "category": "行動",
-      "difficulty": 1,
-      "frequency": 2,
-      "importance": 3,
-      "layer": "B",
-      "tags": []
-    },
-    {
-      "word": "गिरना",
-      "meaning": "落ちる",
-      "pos": "自動詞",
-      "key": "गिरना",
-      "category": "行動",
-      "difficulty": 1,
-      "frequency": 1,
-      "importance": 3,
-      "layer": "B",
-      "tags": []
-    },
-    {
-      "word": "गुज़रना",
-      "meaning": "過ぎる",
-      "pos": "自動詞",
-      "key": "गुज़रना",
-      "category": "行動",
-      "difficulty": 2,
-      "frequency": 2,
-      "importance": 3,
-      "layer": "B",
-      "tags": []
-    },
-    {
-      "word": "निखरना",
-      "meaning": "輝きを増す",
-      "pos": "自動詞",
-      "key": "निखरना",
-      "category": "行動",
-      "difficulty": 3,
-      "frequency": 1,
-      "importance": 3,
-      "layer": "B",
-      "tags": []
-    },
-    {
-      "word": "मुस्कुराना",
-      "meaning": "微笑む",
-      "pos": "自動詞",
-      "key": "मुस्कुराना",
-      "category": "行動",
-      "difficulty": 1,
-      "frequency": 2,
-      "importance": 3,
-      "layer": "B",
-      "tags": []
-    },
-    {
-      "word": "पाना",
-      "meaning": "得る",
-      "pos": "他動詞",
-      "key": "पाना",
-      "category": "行動",
-      "difficulty": 1,
-      "frequency": 2,
-      "importance": 3,
-      "layer": "B",
-      "tags": []
-    },
-    {
-      "word": "खोना",
-      "meaning": "失う",
-      "pos": "他動詞",
-      "key": "खोना",
-      "category": "行動",
-      "difficulty": 1,
-      "frequency": 1,
-      "importance": 3,
-      "layer": "B",
-      "tags": []
-    },
-    {
-      "word": "ढूँढना",
-      "meaning": "探す",
-      "pos": "他動詞",
-      "key": "ढूँढना",
-      "category": "行動",
-      "difficulty": 1,
-      "frequency": 1,
-      "importance": 3,
-      "layer": "B",
-      "tags": []
-    },
-    {
-      "word": "छूना",
-      "meaning": "触れる",
-      "pos": "他動詞",
-      "key": "छूना",
-      "category": "行動",
-      "difficulty": 1,
-      "frequency": 2,
-      "importance": 3,
-      "layer": "B",
-      "tags": []
-    },
-    {
-      "word": "संभालना",
-      "meaning": "立て直す",
-      "pos": "他動詞",
-      "key": "संभालना",
-      "category": "行動",
-      "difficulty": 2,
-      "frequency": 1,
-      "importance": 3,
-      "layer": "B",
-      "tags": []
-    },
-    {
-      "word": "बनाना",
-      "meaning": "作る",
-      "pos": "他動詞",
-      "key": "बनाना",
-      "category": "行動",
-      "difficulty": 1,
-      "frequency": 1,
-      "importance": 3,
-      "layer": "B",
-      "tags": []
-    },
-    {
-      "word": "थामना",
-      "meaning": "握る・支える",
-      "pos": "他動詞",
-      "key": "थामना",
-      "category": "行動",
-      "difficulty": 2,
-      "frequency": 1,
-      "importance": 3,
-      "layer": "B",
-      "tags": []
-    },
-    {
-      "word": "छुपाना",
-      "meaning": "隠す",
-      "pos": "他動詞",
-      "key": "छुपाना",
-      "category": "行動",
-      "difficulty": 2,
-      "frequency": 1,
-      "importance": 3,
-      "layer": "B",
-      "tags": []
-    },
-    {
-      "word": "रब",
-      "meaning": "神（口語・ウルドゥー系）",
-      "pos": "名詞（男）",
-      "key": "रब",
       "category": "",
       "difficulty": 1,
-      "frequency": 1,
+      "frequency": 2,
       "importance": 3,
       "layer": "B",
-      "tags": []
-    },
-    {
-      "word": "सफ़र",
-      "meaning": "旅、道のり",
-      "pos": "名詞（男）",
-      "key": "सफ़र",
-      "category": "",
-      "difficulty": 1,
-      "frequency": 1,
-      "importance": 3,
-      "layer": "B",
-      "tags": []
-    },
-    {
-      "word": "डगर",
-      "meaning": "道、小道（比喩的）",
-      "pos": "名詞（女）",
-      "key": "डगर",
-      "category": "",
-      "difficulty": 1,
-      "frequency": 1,
-      "importance": 3,
-      "layer": "B",
-      "tags": []
+      "tags": [
+        "感情"
+      ],
+      "normalized": "एहसास",
+      "sourceSongIds": [
+        "bolly_009",
+        "bolly_001"
+      ]
     },
     {
       "word": "कदम",
@@ -695,7 +66,11 @@
       "frequency": 1,
       "importance": 3,
       "layer": "B",
-      "tags": []
+      "tags": [],
+      "normalized": "कदम",
+      "sourceSongIds": [
+        "bolly_011"
+      ]
     },
     {
       "word": "खत",
@@ -707,79 +82,402 @@
       "frequency": 1,
       "importance": 3,
       "layer": "B",
-      "tags": []
+      "tags": [],
+      "normalized": "खत",
+      "sourceSongIds": [
+        "bolly_011"
+      ]
     },
     {
-      "word": "दम",
-      "meaning": "息、力、気力",
-      "pos": "名詞（男）",
-      "key": "दम",
-      "category": "",
-      "difficulty": 1,
-      "frequency": 1,
-      "importance": 3,
-      "layer": "B",
-      "tags": []
-    },
-    {
-      "word": "माँ",
-      "meaning": "母",
+      "word": "ख़ुशी",
+      "meaning": "喜び",
       "pos": "名詞（女）",
-      "key": "माँ",
+      "key": "ख़ुशी",
       "category": "",
       "difficulty": 1,
-      "frequency": 1,
-      "importance": 3,
+      "frequency": 2,
+      "importance": 2,
       "layer": "B",
-      "tags": []
+      "tags": [
+        "感情"
+      ],
+      "normalized": "ख़ुशी",
+      "sourceSongIds": [
+        "bolly_005",
+        "bolly_008"
+      ]
     },
     {
-      "word": "बीतना",
-      "meaning": "（時間が）過ぎる",
-      "pos": "自動詞",
-      "key": "बीतना",
+      "word": "खुश्बू",
+      "meaning": "香り",
+      "pos": "名詞（女）",
+      "key": "खुश्बू",
       "category": "",
       "difficulty": 1,
-      "frequency": 1,
+      "frequency": 4,
       "importance": 3,
       "layer": "B",
-      "tags": []
+      "tags": [
+        "自然"
+      ],
+      "normalized": "खुश्बू",
+      "sourceSongIds": [
+        "bolly_001",
+        "bolly_009",
+        "bolly_005",
+        "bolly_016"
+      ]
     },
     {
-      "word": "लड़खड़ाना",
-      "meaning": "よろめく、ふらつく",
-      "pos": "自動詞",
-      "key": "लड़खड़ाना",
-      "category": "",
-      "difficulty": 1,
-      "frequency": 1,
-      "importance": 3,
-      "layer": "B",
-      "tags": []
-    },
-    {
-      "word": "रूठना",
-      "meaning": "すねる、機嫌を損ねる",
-      "pos": "自動詞",
-      "key": "रूठना",
-      "category": "",
-      "difficulty": 1,
-      "frequency": 1,
-      "importance": 3,
-      "layer": "B",
-      "tags": []
-    },
-    {
-      "word": "सताना",
-      "meaning": "悩ませる、苦しめる",
+      "word": "खोना",
+      "meaning": "失う",
       "pos": "他動詞",
-      "key": "सताना",
+      "key": "खोना",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 3,
+      "importance": 4,
+      "layer": "B",
+      "tags": [
+        "行動"
+      ],
+      "normalized": "खोना",
+      "sourceSongIds": [
+        "bolly_008",
+        "bolly_009",
+        "bolly_010"
+      ]
+    },
+    {
+      "word": "ख्वाब",
+      "meaning": "夢",
+      "pos": "名詞（男）",
+      "key": "ख्वाब",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 2,
+      "importance": 3,
+      "layer": "B",
+      "tags": [],
+      "normalized": "ख्वाब",
+      "sourceSongIds": [
+        "bolly_013",
+        "bolly_002"
+      ]
+    },
+    {
+      "word": "ख़्वाहिश",
+      "meaning": "願望",
+      "pos": "名詞（女）",
+      "key": "ख़्वाहिश",
       "category": "",
       "difficulty": 1,
       "frequency": 1,
       "importance": 3,
       "layer": "B",
-      "tags": []
+      "tags": [
+        "感情"
+      ],
+      "normalized": "ख़्वाहिश",
+      "sourceSongIds": [
+        "bolly_003"
+      ]
+    },
+    {
+      "word": "ग़म",
+      "meaning": "悲しみ",
+      "pos": "名詞（男）",
+      "key": "ग़म",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 2,
+      "importance": 2,
+      "layer": "B",
+      "tags": [
+        "感情"
+      ],
+      "normalized": "ग़म",
+      "sourceSongIds": [
+        "bolly_006",
+        "bolly_008"
+      ]
+    },
+    {
+      "word": "गिरना",
+      "meaning": "落ちる",
+      "pos": "自動詞",
+      "key": "गिरना",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 2,
+      "layer": "B",
+      "tags": [
+        "行動"
+      ],
+      "normalized": "गिरना",
+      "sourceSongIds": [
+        "bolly_010"
+      ]
+    },
+    {
+      "word": "गुज़रना",
+      "meaning": "過ぎる",
+      "pos": "自動詞",
+      "key": "गुज़रना",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 2,
+      "importance": 2,
+      "layer": "B",
+      "tags": [
+        "行動"
+      ],
+      "normalized": "गुज़रना",
+      "sourceSongIds": [
+        "bolly_002",
+        "bolly_006"
+      ]
+    },
+    {
+      "word": "चलना",
+      "meaning": "歩く",
+      "pos": "自動詞",
+      "key": "चलना",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 3,
+      "importance": 3,
+      "layer": "B",
+      "tags": [
+        "行動"
+      ],
+      "normalized": "चलना",
+      "sourceSongIds": [
+        "bolly_010",
+        "bolly_013",
+        "bolly_009"
+      ]
+    },
+    {
+      "word": "चाहत",
+      "meaning": "想い・愛",
+      "pos": "名詞（女）",
+      "key": "चाहत",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 2,
+      "importance": 4,
+      "layer": "B",
+      "tags": [
+        "感情"
+      ],
+      "normalized": "चाहत",
+      "sourceSongIds": [
+        "bolly_003",
+        "bolly_006"
+      ]
+    },
+    {
+      "word": "चैन",
+      "meaning": "安らぎ",
+      "pos": "名詞（男）",
+      "key": "चैन",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 2,
+      "importance": 4,
+      "layer": "B",
+      "tags": [
+        "感情"
+      ],
+      "normalized": "चैन",
+      "sourceSongIds": [
+        "bolly_007",
+        "bolly_013"
+      ]
+    },
+    {
+      "word": "छाँव",
+      "meaning": "日陰",
+      "pos": "名詞（女）",
+      "key": "छाँव",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 2,
+      "importance": 2,
+      "layer": "B",
+      "tags": [
+        "自然"
+      ],
+      "normalized": "छाँव",
+      "sourceSongIds": [
+        "bolly_010",
+        "bolly_006"
+      ]
+    },
+    {
+      "word": "छुपाना",
+      "meaning": "隠す",
+      "pos": "他動詞",
+      "key": "छुपाना",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 2,
+      "layer": "B",
+      "tags": [
+        "行動"
+      ],
+      "normalized": "छुपाना",
+      "sourceSongIds": [
+        "bolly_007"
+      ]
+    },
+    {
+      "word": "छूना",
+      "meaning": "触れる",
+      "pos": "他動詞",
+      "key": "छूना",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 2,
+      "importance": 3,
+      "layer": "B",
+      "tags": [
+        "行動"
+      ],
+      "normalized": "छूना",
+      "sourceSongIds": [
+        "bolly_002",
+        "bolly_010"
+      ]
+    },
+    {
+      "word": "जज़्बात",
+      "meaning": "感情",
+      "pos": "名詞（男）",
+      "key": "जज़्बात",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": [
+        "感情"
+      ],
+      "normalized": "जज़्बात",
+      "sourceSongIds": [
+        "bolly_009"
+      ]
+    },
+    {
+      "word": "जन्नत",
+      "meaning": "天国",
+      "pos": "名詞（女）",
+      "key": "जन्नत",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 4,
+      "layer": "B",
+      "tags": [
+        "神秘"
+      ],
+      "normalized": "जन्नत",
+      "sourceSongIds": [
+        "bolly_001"
+      ]
+    },
+    {
+      "word": "ज़िंदगी",
+      "meaning": "人生",
+      "pos": "名詞（女）",
+      "key": "ज़िंदगी",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 2,
+      "importance": 2,
+      "layer": "B",
+      "tags": [
+        "哲学"
+      ],
+      "normalized": "ज़िंदगी",
+      "sourceSongIds": [
+        "bolly_006",
+        "bolly_008"
+      ]
+    },
+    {
+      "word": "जिया",
+      "meaning": "心・魂",
+      "pos": "名詞（男）",
+      "key": "जिया",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 4,
+      "layer": "B",
+      "tags": [
+        "感情"
+      ],
+      "normalized": "जिया",
+      "sourceSongIds": [
+        "bolly_007"
+      ]
+    },
+    {
+      "word": "जीना",
+      "meaning": "生きる",
+      "pos": "自動詞",
+      "key": "जीना",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 2,
+      "importance": 3,
+      "layer": "B",
+      "tags": [
+        "行動"
+      ],
+      "normalized": "जीना",
+      "sourceSongIds": [
+        "bolly_006",
+        "bolly_010"
+      ]
+    },
+    {
+      "word": "जुआ",
+      "meaning": "賭け",
+      "pos": "名詞（男）",
+      "key": "जुआ",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 4,
+      "layer": "B",
+      "tags": [
+        "哲学"
+      ],
+      "normalized": "जुआ",
+      "sourceSongIds": [
+        "bolly_008"
+      ]
+    },
+    {
+      "word": "डगर",
+      "meaning": "道、小道（比喩的）",
+      "pos": "名詞（女）",
+      "key": "डगर",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": [],
+      "normalized": "डगर",
+      "sourceSongIds": [
+        "bolly_011"
+      ]
     },
     {
       "word": "डटना",
@@ -791,172 +489,2369 @@
       "frequency": 1,
       "importance": 3,
       "layer": "B",
-      "tags": []
-    },
-    {
-      "word": "अधूरी",
-      "pos": "adj",
-      "key": "अधूरी",
-      "category": "",
-      "difficulty": 1,
-      "frequency": 1,
-      "importance": 3,
-      "layer": "B",
-      "tags": []
-    },
-    {
-      "word": "प्यास",
-      "pos": "noun_f",
-      "key": "प्यास",
-      "category": "",
-      "difficulty": 1,
-      "frequency": 1,
-      "importance": 3,
-      "layer": "B",
-      "tags": []
-    },
-    {
-      "word": "रास",
-      "pos": "noun_m",
-      "key": "रास",
-      "category": "",
-      "difficulty": 1,
-      "frequency": 1,
-      "importance": 3,
-      "layer": "B",
-      "tags": []
-    },
-    {
-      "word": "संग",
-      "pos": "postposition",
-      "key": "संग",
-      "category": "",
-      "difficulty": 1,
-      "frequency": 1,
-      "importance": 3,
-      "layer": "B",
-      "tags": []
-    },
-    {
-      "word": "ख्वाब",
-      "pos": "noun_m",
-      "key": "ख्वाब",
-      "category": "",
-      "difficulty": 1,
-      "frequency": 1,
-      "importance": 3,
-      "layer": "B",
-      "tags": []
-    },
-    {
-      "word": "तन्हाई",
-      "pos": "noun_f",
-      "key": "तन्हाई",
-      "category": "",
-      "difficulty": 1,
-      "frequency": 1,
-      "importance": 3,
-      "layer": "B",
-      "tags": []
-    },
-    {
-      "word": "दास्ताँ",
-      "pos": "noun_f",
-      "key": "दास्ताँ",
-      "category": "",
-      "difficulty": 1,
-      "frequency": 1,
-      "importance": 3,
-      "layer": "B",
-      "tags": []
-    },
-    {
-      "word": "धड़कन",
-      "pos": "noun_f",
-      "key": "धड़कन",
-      "category": "",
-      "difficulty": 1,
-      "frequency": 1,
-      "importance": 3,
-      "layer": "B",
-      "tags": []
-    },
-    {
-      "word": "बेचैनी",
-      "pos": "noun_f",
-      "key": "बेचैनी",
-      "category": "",
-      "difficulty": 1,
-      "frequency": 1,
-      "importance": 3,
-      "layer": "B",
-      "tags": []
-    },
-    {
-      "word": "लौ",
-      "pos": "noun_f",
-      "key": "लौ",
-      "category": "",
-      "difficulty": 1,
-      "frequency": 1,
-      "importance": 3,
-      "layer": "B",
-      "tags": []
-    },
-    {
-      "word": "बुझना",
-      "pos": "verb",
-      "key": "बुझना",
-      "category": "",
-      "difficulty": 1,
-      "frequency": 1,
-      "importance": 3,
-      "layer": "B",
-      "tags": []
-    },
-    {
-      "word": "बढ़ना",
-      "pos": "verb",
-      "key": "बढ़ना",
-      "category": "",
-      "difficulty": 1,
-      "frequency": 1,
-      "importance": 3,
-      "layer": "B",
-      "tags": []
+      "tags": [],
+      "normalized": "डटना",
+      "sourceSongIds": [
+        "bolly_011"
+      ]
     },
     {
       "word": "डसना",
-      "pos": "verb",
+      "meaning": "噛む（毒蛇などが）・襲う",
+      "pos": "動詞",
       "key": "डसना",
       "category": "",
       "difficulty": 1,
       "frequency": 1,
       "importance": 3,
       "layer": "B",
-      "tags": []
+      "tags": [],
+      "normalized": "डसना",
+      "sourceSongIds": [
+        "bolly_013"
+      ]
     },
     {
-      "word": "हाल",
-      "pos": "noun_m",
-      "key": "हाल",
+      "word": "डोर",
+      "meaning": "糸・絆",
+      "pos": "名詞（女）",
+      "key": "डोर",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 4,
+      "layer": "B",
+      "tags": [
+        "関係"
+      ],
+      "normalized": "डोर",
+      "sourceSongIds": [
+        "bolly_007"
+      ]
+    },
+    {
+      "word": "ढूँढना",
+      "meaning": "探す",
+      "pos": "他動詞",
+      "key": "ढूँढना",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 2,
+      "layer": "B",
+      "tags": [
+        "行動"
+      ],
+      "normalized": "ढूँढना",
+      "sourceSongIds": [
+        "bolly_010"
+      ]
+    },
+    {
+      "word": "तन्हाई",
+      "meaning": "孤独",
+      "pos": "名詞（女）",
+      "key": "तन्हाई",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 4,
+      "layer": "B",
+      "tags": [],
+      "normalized": "तन्हाई",
+      "sourceSongIds": [
+        "bolly_013"
+      ]
+    },
+    {
+      "word": "थामना",
+      "meaning": "握る・支える",
+      "pos": "他動詞",
+      "key": "थामना",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 2,
+      "importance": 3,
+      "layer": "B",
+      "tags": [
+        "行動"
+      ],
+      "normalized": "थामना",
+      "sourceSongIds": [
+        "bolly_009",
+        "bolly_012"
+      ]
+    },
+    {
+      "word": "दम",
+      "meaning": "息、力、気力",
+      "pos": "名詞（男）",
+      "key": "दम",
       "category": "",
       "difficulty": 1,
       "frequency": 1,
       "importance": 3,
       "layer": "B",
-      "tags": []
+      "tags": [],
+      "normalized": "दम",
+      "sourceSongIds": [
+        "bolly_011"
+      ]
+    },
+    {
+      "word": "दास्ताँ",
+      "meaning": "物語・逸話",
+      "pos": "名詞（女）",
+      "key": "दास्ताँ",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": [],
+      "normalized": "दास्ताँ",
+      "sourceSongIds": [
+        "bolly_013"
+      ]
+    },
+    {
+      "word": "दिल",
+      "meaning": "心",
+      "pos": "名詞（男）",
+      "key": "दिल",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 6,
+      "importance": 2,
+      "layer": "B",
+      "tags": [
+        "感情"
+      ],
+      "normalized": "दिल",
+      "sourceSongIds": [
+        "bolly_001",
+        "bolly_002",
+        "bolly_006",
+        "bolly_009",
+        "bolly_013",
+        "bolly_011"
+      ]
+    },
+    {
+      "word": "दूरी",
+      "meaning": "距離",
+      "pos": "名詞（女）",
+      "key": "दूरी",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 2,
+      "importance": 3,
+      "layer": "B",
+      "tags": [
+        "関係"
+      ],
+      "normalized": "दूरी",
+      "sourceSongIds": [
+        "bolly_003",
+        "bolly_007"
+      ]
+    },
+    {
+      "word": "धड़कन",
+      "meaning": "鼓動、心拍",
+      "pos": "名詞（女）",
+      "key": "धड़कन",
+      "category": "body",
+      "difficulty": 2,
+      "frequency": 3,
+      "importance": 4,
+      "layer": "A",
+      "tags": [],
+      "normalized": "धडकन",
+      "sourceSongIds": [
+        "bolly_013",
+        "bolly_015",
+        "bolly_016"
+      ]
+    },
+    {
+      "word": "धूप",
+      "meaning": "日差し",
+      "pos": "名詞（女）",
+      "key": "धूप",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 2,
+      "importance": 2,
+      "layer": "B",
+      "tags": [
+        "自然"
+      ],
+      "normalized": "धूप",
+      "sourceSongIds": [
+        "bolly_010",
+        "bolly_006"
+      ]
+    },
+    {
+      "word": "नदिया",
+      "meaning": "川",
+      "pos": "名詞（女）",
+      "key": "नदिया",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 2,
+      "importance": 2,
+      "layer": "B",
+      "tags": [
+        "自然"
+      ],
+      "normalized": "नदिया",
+      "sourceSongIds": [
+        "bolly_010",
+        "bolly_005"
+      ]
+    },
+    {
+      "word": "निखरना",
+      "meaning": "輝きを増す",
+      "pos": "自動詞",
+      "key": "निखरना",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": [
+        "行動"
+      ],
+      "normalized": "निखरना",
+      "sourceSongIds": [
+        "bolly_006"
+      ]
+    },
+    {
+      "word": "पतंग",
+      "meaning": "凧",
+      "pos": "名詞（女）",
+      "key": "पतंग",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 2,
+      "layer": "B",
+      "tags": [
+        "自然"
+      ],
+      "normalized": "पतंग",
+      "sourceSongIds": [
+        "bolly_010"
+      ]
+    },
+    {
+      "word": "पनाह",
+      "meaning": "避難所・庇護",
+      "pos": "名詞（女）",
+      "key": "पनाह",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 2,
+      "importance": 4,
+      "layer": "B",
+      "tags": [
+        "関係"
+      ],
+      "normalized": "पनाह",
+      "sourceSongIds": [
+        "bolly_001",
+        "bolly_007"
+      ]
+    },
+    {
+      "word": "पहेली",
+      "meaning": "なぞなぞ・謎",
+      "pos": "名詞（女）",
+      "key": "पहेली",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": [
+        "哲学"
+      ],
+      "normalized": "पहेली",
+      "sourceSongIds": [
+        "bolly_007"
+      ]
+    },
+    {
+      "word": "पाना",
+      "meaning": "得る",
+      "pos": "他動詞",
+      "key": "पाना",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 3,
+      "importance": 2,
+      "layer": "B",
+      "tags": [
+        "行動"
+      ],
+      "normalized": "पाना",
+      "sourceSongIds": [
+        "bolly_007",
+        "bolly_008",
+        "bolly_009"
+      ]
     },
     {
       "word": "पास",
-      "pos": "postposition",
+      "meaning": "近くに",
+      "pos": "後置詞",
       "key": "पास",
       "category": "",
       "difficulty": 1,
       "frequency": 1,
       "importance": 3,
       "layer": "B",
-      "tags": []
+      "tags": [],
+      "normalized": "पास",
+      "sourceSongIds": [
+        "bolly_013"
+      ]
+    },
+    {
+      "word": "प्यार",
+      "meaning": "愛",
+      "pos": "名詞（男）",
+      "key": "प्यार",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 2,
+      "importance": 2,
+      "layer": "B",
+      "tags": [
+        "感情"
+      ],
+      "normalized": "प्यार",
+      "sourceSongIds": [
+        "bolly_001",
+        "bolly_005"
+      ]
+    },
+    {
+      "word": "प्यास",
+      "meaning": "渇き",
+      "pos": "名詞（女）",
+      "key": "प्यास",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 4,
+      "layer": "B",
+      "tags": [],
+      "normalized": "प्यास",
+      "sourceSongIds": [
+        "bolly_013"
+      ]
+    },
+    {
+      "word": "फ़ना",
+      "meaning": "消滅・愛に溶けること",
+      "pos": "名詞（女）",
+      "key": "फ़ना",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 2,
+      "importance": 4,
+      "layer": "B",
+      "tags": [
+        "神秘"
+      ],
+      "normalized": "फ़ना",
+      "sourceSongIds": [
+        "bolly_001",
+        "bolly_002"
+      ]
+    },
+    {
+      "word": "फिकर",
+      "meaning": "心配",
+      "pos": "名詞（女）",
+      "key": "फिकर",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 2,
+      "layer": "B",
+      "tags": [
+        "感情"
+      ],
+      "normalized": "फिकर",
+      "sourceSongIds": [
+        "bolly_010"
+      ]
+    },
+    {
+      "word": "बढ़ना",
+      "meaning": "増える・高まる",
+      "pos": "動詞",
+      "key": "बढ़ना",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": [],
+      "normalized": "बढना",
+      "sourceSongIds": [
+        "bolly_013"
+      ]
+    },
+    {
+      "word": "बनाना",
+      "meaning": "作る",
+      "pos": "他動詞",
+      "key": "बनाना",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 2,
+      "layer": "B",
+      "tags": [
+        "行動"
+      ],
+      "normalized": "बनाना",
+      "sourceSongIds": [
+        "bolly_010"
+      ]
+    },
+    {
+      "word": "बादल",
+      "meaning": "雲",
+      "pos": "名詞（男）",
+      "key": "बादल",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 2,
+      "importance": 2,
+      "layer": "B",
+      "tags": [
+        "自然"
+      ],
+      "normalized": "बादल",
+      "sourceSongIds": [
+        "bolly_006",
+        "bolly_010"
+      ]
+    },
+    {
+      "word": "बीतना",
+      "meaning": "（時間が）過ぎる",
+      "pos": "自動詞",
+      "key": "बीतना",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": [],
+      "normalized": "बीतना",
+      "sourceSongIds": [
+        "bolly_011"
+      ]
+    },
+    {
+      "word": "बुझना",
+      "meaning": "消える（火・灯が）",
+      "pos": "動詞",
+      "key": "बुझना",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": [],
+      "normalized": "बुझना",
+      "sourceSongIds": [
+        "bolly_013"
+      ]
+    },
+    {
+      "word": "बेचैनी",
+      "meaning": "落ち着かなさ・不安",
+      "pos": "名詞（女）",
+      "key": "बेचैनी",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 4,
+      "layer": "B",
+      "tags": [],
+      "normalized": "बेचैनी",
+      "sourceSongIds": [
+        "bolly_013"
+      ]
+    },
+    {
+      "word": "मंज़िल",
+      "meaning": "目的地、到達点",
+      "pos": "名詞（女）",
+      "key": "मंज़िल",
+      "category": "abstract",
+      "difficulty": 2,
+      "frequency": 2,
+      "importance": 4,
+      "layer": "A",
+      "tags": [],
+      "normalized": "मंजिल",
+      "sourceSongIds": [
+        "bolly_009",
+        "bolly_015"
+      ]
+    },
+    {
+      "word": "मन",
+      "meaning": "心・内面",
+      "pos": "名詞（男）",
+      "key": "मन",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 3,
+      "importance": 2,
+      "layer": "B",
+      "tags": [
+        "感情"
+      ],
+      "normalized": "मन",
+      "sourceSongIds": [
+        "bolly_007",
+        "bolly_010",
+        "bolly_013"
+      ]
+    },
+    {
+      "word": "मरहम",
+      "meaning": "軟膏・癒やし",
+      "pos": "名詞（男）",
+      "key": "मरहम",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": [
+        "関係"
+      ],
+      "normalized": "मरहम",
+      "sourceSongIds": [
+        "bolly_010"
+      ]
+    },
+    {
+      "word": "मर्ज़ी",
+      "meaning": "意思",
+      "pos": "名詞（女）",
+      "key": "मर्ज़ी",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": [
+        "感情"
+      ],
+      "normalized": "मर्ज़ी",
+      "sourceSongIds": [
+        "bolly_003"
+      ]
+    },
+    {
+      "word": "माँ",
+      "meaning": "母",
+      "pos": "名詞（女）",
+      "key": "माँ",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": [],
+      "normalized": "माँ",
+      "sourceSongIds": [
+        "bolly_011"
+      ]
+    },
+    {
+      "word": "मुस्कुराना",
+      "meaning": "微笑む",
+      "pos": "自動詞",
+      "key": "मुस्कुराना",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 2,
+      "importance": 2,
+      "layer": "B",
+      "tags": [
+        "行動"
+      ],
+      "normalized": "मुस्कुराना",
+      "sourceSongIds": [
+        "bolly_007",
+        "bolly_008"
+      ]
+    },
+    {
+      "word": "यार",
+      "meaning": "友達",
+      "pos": "名詞（男）",
+      "key": "यार",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 2,
+      "layer": "B",
+      "tags": [
+        "関係"
+      ],
+      "normalized": "यार",
+      "sourceSongIds": [
+        "bolly_010"
+      ]
+    },
+    {
+      "word": "रंग",
+      "meaning": "色",
+      "pos": "名詞（男）",
+      "key": "रंग",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 3,
+      "importance": 3,
+      "layer": "B",
+      "tags": [
+        "文化"
+      ],
+      "normalized": "रंग",
+      "sourceSongIds": [
+        "bolly_005",
+        "bolly_009",
+        "bolly_004"
+      ]
+    },
+    {
+      "word": "रब",
+      "meaning": "神（口語・ウルドゥー系）",
+      "pos": "名詞（男）",
+      "key": "रब",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": [],
+      "normalized": "रब",
+      "sourceSongIds": [
+        "bolly_011"
+      ]
+    },
+    {
+      "word": "रहगुज़र",
+      "meaning": "道・通り道",
+      "pos": "名詞（女）",
+      "key": "रहगुज़र",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 4,
+      "layer": "B",
+      "tags": [
+        "哲学"
+      ],
+      "normalized": "रहगुज़र",
+      "sourceSongIds": [
+        "bolly_009"
+      ]
+    },
+    {
+      "word": "रहस्य",
+      "meaning": "秘密・謎",
+      "pos": "名詞（男）",
+      "key": "रहस्य",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 4,
+      "layer": "B",
+      "tags": [
+        "哲学"
+      ],
+      "normalized": "रहस्य",
+      "sourceSongIds": [
+        "bolly_007"
+      ]
+    },
+    {
+      "word": "रास",
+      "meaning": "気に入ること・しっくり来ること",
+      "pos": "名詞（男）",
+      "key": "रास",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": [],
+      "normalized": "रास",
+      "sourceSongIds": [
+        "bolly_013"
+      ]
+    },
+    {
+      "word": "रूठना",
+      "meaning": "すねる、機嫌を損ねる",
+      "pos": "自動詞",
+      "key": "रूठना",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": [],
+      "normalized": "रूठना",
+      "sourceSongIds": [
+        "bolly_011"
+      ]
+    },
+    {
+      "word": "रेगिस्तान",
+      "meaning": "砂漠",
+      "pos": "名詞（男）",
+      "key": "रेगिस्तान",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": [
+        "自然"
+      ],
+      "normalized": "रेगिस्तान",
+      "sourceSongIds": [
+        "bolly_010"
+      ]
+    },
+    {
+      "word": "लड़खड़ाना",
+      "meaning": "よろめく、ふらつく",
+      "pos": "自動詞",
+      "key": "लड़खड़ाना",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": [],
+      "normalized": "लडखडाना",
+      "sourceSongIds": [
+        "bolly_011"
+      ]
+    },
+    {
+      "word": "लम्हा",
+      "meaning": "瞬間",
+      "pos": "名詞（男）",
+      "key": "लम्हा",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 2,
+      "importance": 4,
+      "layer": "B",
+      "tags": [
+        "哲学"
+      ],
+      "normalized": "लम्हा",
+      "sourceSongIds": [
+        "bolly_010",
+        "bolly_006"
+      ]
+    },
+    {
+      "word": "लौ",
+      "meaning": "炎・灯",
+      "pos": "名詞（女）",
+      "key": "लौ",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": [],
+      "normalized": "लौ",
+      "sourceSongIds": [
+        "bolly_013"
+      ]
+    },
+    {
+      "word": "संग",
+      "meaning": "〜と一緒に",
+      "pos": "後置詞",
+      "key": "संग",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": [],
+      "normalized": "संग",
+      "sourceSongIds": [
+        "bolly_013"
+      ]
+    },
+    {
+      "word": "संभालना",
+      "meaning": "立て直す",
+      "pos": "他動詞",
+      "key": "संभालना",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 2,
+      "layer": "B",
+      "tags": [
+        "行動"
+      ],
+      "normalized": "संभालना",
+      "sourceSongIds": [
+        "bolly_010"
+      ]
+    },
+    {
+      "word": "सताना",
+      "meaning": "悩ませる、苦しめる",
+      "pos": "他動詞",
+      "key": "सताना",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": [],
+      "normalized": "सताना",
+      "sourceSongIds": [
+        "bolly_011"
+      ]
+    },
+    {
+      "word": "सफ़र",
+      "meaning": "旅、道のり",
+      "pos": "名詞（男）",
+      "key": "सफ़र",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 3,
+      "importance": 4,
+      "layer": "B",
+      "tags": [],
+      "normalized": "सफर",
+      "sourceSongIds": [
+        "bolly_011",
+        "bolly_001",
+        "bolly_009"
+      ]
+    },
+    {
+      "word": "समाँ",
+      "meaning": "雰囲気・情景",
+      "pos": "名詞（男）",
+      "key": "समाँ",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 3,
+      "importance": 4,
+      "layer": "B",
+      "tags": [
+        "哲学"
+      ],
+      "normalized": "समाँ",
+      "sourceSongIds": [
+        "bolly_008",
+        "bolly_006",
+        "bolly_012"
+      ]
+    },
+    {
+      "word": "हमनवा",
+      "meaning": "心を同じくする人",
+      "pos": "名詞（男）",
+      "key": "हमनवा",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 4,
+      "layer": "B",
+      "tags": [
+        "関係"
+      ],
+      "normalized": "हमनवा",
+      "sourceSongIds": [
+        "bolly_006"
+      ]
+    },
+    {
+      "word": "हमसफ़र",
+      "meaning": "人生の伴侶",
+      "pos": "名詞（男）",
+      "key": "हमसफ़र",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 3,
+      "importance": 2,
+      "layer": "B",
+      "tags": [
+        "関係"
+      ],
+      "normalized": "हमसफ़र",
+      "sourceSongIds": [
+        "bolly_001",
+        "bolly_006",
+        "bolly_009"
+      ]
+    },
+    {
+      "word": "हवा",
+      "meaning": "風",
+      "pos": "名詞（女）",
+      "key": "हवा",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 4,
+      "importance": 4,
+      "layer": "B",
+      "tags": [
+        "自然"
+      ],
+      "normalized": "हवा",
+      "sourceSongIds": [
+        "bolly_003",
+        "bolly_009",
+        "bolly_010",
+        "bolly_015"
+      ]
+    },
+    {
+      "word": "हाल",
+      "meaning": "状態・様子",
+      "pos": "名詞（男）",
+      "key": "हाल",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": [],
+      "normalized": "हाल",
+      "sourceSongIds": [
+        "bolly_013"
+      ]
+    },
+    {
+      "word": "बेहका",
+      "meaning": "酔ったような、夢中になった",
+      "pos": "形容詞",
+      "key": "बेहका",
+      "category": "emotion",
+      "difficulty": 2,
+      "frequency": 1,
+      "importance": 4,
+      "layer": "A",
+      "tags": [
+        "恋愛",
+        "風"
+      ],
+      "normalized": "बहका",
+      "sourceSongIds": [
+        "bolly_015"
+      ]
+    },
+    {
+      "word": "नज़र",
+      "meaning": "視線、一目",
+      "pos": "名詞（女）",
+      "key": "नज़र",
+      "category": "perception",
+      "difficulty": 2,
+      "frequency": 1,
+      "importance": 4,
+      "layer": "A",
+      "tags": [
+        "恋愛",
+        "風"
+      ],
+      "normalized": "नजर",
+      "sourceSongIds": [
+        "bolly_015"
+      ]
+    },
+    {
+      "word": "अलग",
+      "meaning": "違った、別の",
+      "pos": "形容詞",
+      "key": "अलग",
+      "category": "description",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": [
+        "恋愛",
+        "風"
+      ],
+      "normalized": "अलग",
+      "sourceSongIds": [
+        "bolly_015"
+      ]
+    },
+    {
+      "word": "जुदा",
+      "meaning": "異なる、離れた",
+      "pos": "形容詞",
+      "key": "जुदा",
+      "category": "description",
+      "difficulty": 2,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": [
+        "恋愛",
+        "風"
+      ],
+      "normalized": "जुदा",
+      "sourceSongIds": [
+        "bolly_015"
+      ]
+    },
+    {
+      "word": "अदा",
+      "meaning": "しぐさ、魅力的な振る舞い",
+      "pos": "名詞（女）",
+      "key": "अदा",
+      "category": "appearance",
+      "difficulty": 2,
+      "frequency": 1,
+      "importance": 4,
+      "layer": "A",
+      "tags": [
+        "恋愛",
+        "風"
+      ],
+      "normalized": "अदा",
+      "sourceSongIds": [
+        "bolly_015"
+      ]
+    },
+    {
+      "word": "रौनक",
+      "meaning": "華やかさ、賑わい",
+      "pos": "名詞（女）",
+      "key": "रौनक",
+      "category": "atmosphere",
+      "difficulty": 3,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": [
+        "恋愛",
+        "風"
+      ],
+      "normalized": "रौनक",
+      "sourceSongIds": [
+        "bolly_015"
+      ]
+    },
+    {
+      "word": "शरारत",
+      "meaning": "いたずらっぽさ",
+      "pos": "名詞（女）",
+      "key": "शरारत",
+      "category": "personality",
+      "difficulty": 2,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": [
+        "恋愛",
+        "風"
+      ],
+      "normalized": "शरारत",
+      "sourceSongIds": [
+        "bolly_015"
+      ]
+    },
+    {
+      "word": "नज़ाकत",
+      "meaning": "優雅さ、繊細さ",
+      "pos": "名詞（女）",
+      "key": "नज़ाकत",
+      "category": "appearance",
+      "difficulty": 3,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": [
+        "恋愛",
+        "風"
+      ],
+      "normalized": "नजाकत",
+      "sourceSongIds": [
+        "bolly_015"
+      ]
+    },
+    {
+      "word": "शरमाना",
+      "meaning": "恥ずかしがる",
+      "pos": "動詞",
+      "key": "शरमाना",
+      "category": "action",
+      "difficulty": 2,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": [
+        "恋愛",
+        "風"
+      ],
+      "normalized": "शरमाना",
+      "sourceSongIds": [
+        "bolly_015"
+      ]
+    },
+    {
+      "word": "लहराना",
+      "meaning": "揺れる、なびく",
+      "pos": "動詞",
+      "key": "लहराना",
+      "category": "action",
+      "difficulty": 2,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": [
+        "恋愛",
+        "風"
+      ],
+      "normalized": "लहराना",
+      "sourceSongIds": [
+        "bolly_015"
+      ]
+    },
+    {
+      "word": "गहराई",
+      "meaning": "深さ、奥深さ",
+      "pos": "名詞（女）",
+      "key": "गहराई",
+      "category": "abstract",
+      "difficulty": 2,
+      "frequency": 1,
+      "importance": 4,
+      "layer": "A",
+      "tags": [
+        "恋愛",
+        "風"
+      ],
+      "normalized": "गहराई",
+      "sourceSongIds": [
+        "bolly_015"
+      ]
+    },
+    {
+      "word": "रूह",
+      "meaning": "魂",
+      "pos": "名詞（女）",
+      "key": "रूह",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 2,
+      "importance": 3,
+      "layer": "B",
+      "tags": [],
+      "normalized": "रूह",
+      "sourceSongIds": [
+        "bolly_001",
+        "bolly_007"
+      ]
+    },
+    {
+      "word": "नज़ारा",
+      "meaning": "光景",
+      "pos": "名詞（男）",
+      "key": "नज़ारा",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 2,
+      "importance": 3,
+      "layer": "B",
+      "tags": [],
+      "normalized": "नजारा",
+      "sourceSongIds": [
+        "bolly_001",
+        "bolly_002"
+      ]
+    },
+    {
+      "word": "ख़ामोशी",
+      "meaning": "静けさ",
+      "pos": "名詞（女）",
+      "key": "ख़ामोशी",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 2,
+      "importance": 3,
+      "layer": "B",
+      "tags": [],
+      "normalized": "खामोशी",
+      "sourceSongIds": [
+        "bolly_001",
+        "bolly_002"
+      ]
+    },
+    {
+      "word": "रास्ता",
+      "meaning": "道",
+      "pos": "名詞（男）",
+      "key": "रास्ता",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 3,
+      "importance": 3,
+      "layer": "B",
+      "tags": [],
+      "normalized": "रास्ता",
+      "sourceSongIds": [
+        "bolly_001",
+        "bolly_008",
+        "bolly_009"
+      ]
+    },
+    {
+      "word": "पल",
+      "meaning": "瞬間",
+      "pos": "名詞（男）",
+      "key": "पल",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 4,
+      "importance": 3,
+      "layer": "B",
+      "tags": [],
+      "normalized": "पल",
+      "sourceSongIds": [
+        "bolly_001",
+        "bolly_006",
+        "bolly_010",
+        "bolly_012"
+      ]
+    },
+    {
+      "word": "सिफ़ारिश",
+      "meaning": "推薦・取りなし",
+      "pos": "名詞（女）",
+      "key": "सिफ़ारिश",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 4,
+      "layer": "B",
+      "tags": [],
+      "normalized": "सिफारिश",
+      "sourceSongIds": [
+        "bolly_002"
+      ]
+    },
+    {
+      "word": "चाँद",
+      "meaning": "月",
+      "pos": "名詞（男）",
+      "key": "चाँद",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 2,
+      "importance": 3,
+      "layer": "B",
+      "tags": [],
+      "normalized": "चांद",
+      "sourceSongIds": [
+        "bolly_002",
+        "bolly_014"
+      ]
+    },
+    {
+      "word": "तमन्ना",
+      "meaning": "願い・切望",
+      "pos": "名詞（女）",
+      "key": "तमन्ना",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 4,
+      "layer": "B",
+      "tags": [],
+      "normalized": "तमन्ना",
+      "sourceSongIds": [
+        "bolly_002"
+      ]
+    },
+    {
+      "word": "आरज़ू",
+      "meaning": "願望・憧れ",
+      "pos": "名詞（女）",
+      "key": "आरज़ू",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 4,
+      "layer": "B",
+      "tags": [],
+      "normalized": "आरजू",
+      "sourceSongIds": [
+        "bolly_002"
+      ]
+    },
+    {
+      "word": "चमन",
+      "meaning": "花園",
+      "pos": "名詞（男）",
+      "key": "चमन",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": [],
+      "normalized": "चमन",
+      "sourceSongIds": [
+        "bolly_002"
+      ]
+    },
+    {
+      "word": "रोशनी",
+      "meaning": "光",
+      "pos": "名詞（女）",
+      "key": "रोशनी",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 2,
+      "importance": 3,
+      "layer": "B",
+      "tags": [],
+      "normalized": "रोशनी",
+      "sourceSongIds": [
+        "bolly_002",
+        "bolly_004"
+      ]
+    },
+    {
+      "word": "साया",
+      "meaning": "影",
+      "pos": "名詞（男）",
+      "key": "साया",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 2,
+      "importance": 3,
+      "layer": "B",
+      "tags": [],
+      "normalized": "साया",
+      "sourceSongIds": [
+        "bolly_002",
+        "bolly_012"
+      ]
+    },
+    {
+      "word": "साज़िश",
+      "meaning": "たくらみ・仕掛け",
+      "pos": "名詞（女）",
+      "key": "साज़िश",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 4,
+      "layer": "B",
+      "tags": [],
+      "normalized": "साजिश",
+      "sourceSongIds": [
+        "bolly_003"
+      ]
+    },
+    {
+      "word": "महक",
+      "meaning": "香り",
+      "pos": "名詞（女）",
+      "key": "महक",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": [],
+      "normalized": "महक",
+      "sourceSongIds": [
+        "bolly_003"
+      ]
+    },
+    {
+      "word": "बूंद",
+      "meaning": "しずく、雨粒",
+      "pos": "名詞（女）",
+      "key": "बूंद",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": [],
+      "normalized": "बूंद",
+      "sourceSongIds": [
+        "bolly_003"
+      ]
+    },
+    {
+      "word": "बरसात",
+      "meaning": "雨、雨季の雨",
+      "pos": "名詞（女）",
+      "key": "बरसात",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": [],
+      "normalized": "बरसात",
+      "sourceSongIds": [
+        "bolly_003"
+      ]
+    },
+    {
+      "word": "इशारा",
+      "meaning": "合図・ संकेत",
+      "pos": "名詞（男）",
+      "key": "इशारा",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": [],
+      "normalized": "इशारा",
+      "sourceSongIds": [
+        "bolly_003"
+      ]
+    },
+    {
+      "word": "भीगना",
+      "meaning": "濡れる",
+      "pos": "自動詞",
+      "key": "भीगना",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": [],
+      "normalized": "भीगना",
+      "sourceSongIds": [
+        "bolly_003"
+      ]
+    },
+    {
+      "word": "चंदा",
+      "meaning": "月（口語・愛称）",
+      "pos": "名詞（男）",
+      "key": "चंदा",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 2,
+      "layer": "B",
+      "tags": [],
+      "normalized": "चंदा",
+      "sourceSongIds": [
+        "bolly_004"
+      ]
+    },
+    {
+      "word": "चमक",
+      "meaning": "輝き",
+      "pos": "名詞（女）",
+      "key": "चमक",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": [],
+      "normalized": "चमक",
+      "sourceSongIds": [
+        "bolly_004"
+      ]
+    },
+    {
+      "word": "मस्ती",
+      "meaning": "楽しさ・はしゃぎ",
+      "pos": "名詞（女）",
+      "key": "मस्ती",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": [],
+      "normalized": "मस्ती",
+      "sourceSongIds": [
+        "bolly_004"
+      ]
+    },
+    {
+      "word": "बचपन",
+      "meaning": "子供時代",
+      "pos": "名詞（男）",
+      "key": "बचपन",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 2,
+      "importance": 3,
+      "layer": "B",
+      "tags": [],
+      "normalized": "बचपन",
+      "sourceSongIds": [
+        "bolly_004",
+        "bolly_016"
+      ]
+    },
+    {
+      "word": "हँसी",
+      "meaning": "笑い",
+      "pos": "名詞（女）",
+      "key": "हँसी",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": [],
+      "normalized": "हंसी",
+      "sourceSongIds": [
+        "bolly_004"
+      ]
+    },
+    {
+      "word": "देस",
+      "meaning": "国、ふるさと",
+      "pos": "名詞（男）",
+      "key": "देस",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": [],
+      "normalized": "देस",
+      "sourceSongIds": [
+        "bolly_005"
+      ]
+    },
+    {
+      "word": "रंगीला",
+      "meaning": "色鮮やかな、華やかな",
+      "pos": "形容詞",
+      "key": "रंगीला",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": [],
+      "normalized": "रंगीला",
+      "sourceSongIds": [
+        "bolly_005"
+      ]
+    },
+    {
+      "word": "मिट्टी",
+      "meaning": "土、大地",
+      "pos": "名詞（女）",
+      "key": "मिट्टी",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": [],
+      "normalized": "मिट्टी",
+      "sourceSongIds": [
+        "bolly_005"
+      ]
+    },
+    {
+      "word": "धरती",
+      "meaning": "大地",
+      "pos": "名詞（女）",
+      "key": "धरती",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 2,
+      "importance": 4,
+      "layer": "B",
+      "tags": [],
+      "normalized": "धरती",
+      "sourceSongIds": [
+        "bolly_005",
+        "bolly_016"
+      ]
+    },
+    {
+      "word": "चुनरिया",
+      "meaning": "チャドリ、色布",
+      "pos": "名詞（女）",
+      "key": "चुनरिया",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": [],
+      "normalized": "चुनरिया",
+      "sourceSongIds": [
+        "bolly_005"
+      ]
+    },
+    {
+      "word": "पुकारना",
+      "meaning": "呼びかける",
+      "pos": "他動詞",
+      "key": "पुकारना",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": [],
+      "normalized": "पुकारना",
+      "sourceSongIds": [
+        "bolly_005"
+      ]
+    },
+    {
+      "word": "अंबर",
+      "meaning": "空、天空",
+      "pos": "名詞（男）",
+      "key": "अंबर",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": [],
+      "normalized": "अंबर",
+      "sourceSongIds": [
+        "bolly_005"
+      ]
+    },
+    {
+      "word": "पवन",
+      "meaning": "風",
+      "pos": "名詞（男）",
+      "key": "पवन",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 2,
+      "importance": 3,
+      "layer": "B",
+      "tags": [],
+      "normalized": "पवन",
+      "sourceSongIds": [
+        "bolly_005",
+        "bolly_016"
+      ]
+    },
+    {
+      "word": "सुर",
+      "meaning": "音、旋律",
+      "pos": "名詞（男）",
+      "key": "सुर",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": [],
+      "normalized": "सुर",
+      "sourceSongIds": [
+        "bolly_005"
+      ]
+    },
+    {
+      "word": "गूँज",
+      "meaning": "響き、こだま",
+      "pos": "名詞（女）",
+      "key": "गूँज",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": [],
+      "normalized": "गूंज",
+      "sourceSongIds": [
+        "bolly_005"
+      ]
+    },
+    {
+      "word": "याद",
+      "meaning": "記憶・思い出",
+      "pos": "名詞（女）",
+      "key": "याद",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 2,
+      "importance": 3,
+      "layer": "B",
+      "tags": [],
+      "normalized": "याद",
+      "sourceSongIds": [
+        "bolly_006",
+        "bolly_010"
+      ]
+    },
+    {
+      "word": "कहानी",
+      "meaning": "物語",
+      "pos": "名詞（女）",
+      "key": "कहानी",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": [],
+      "normalized": "कहानी",
+      "sourceSongIds": [
+        "bolly_006"
+      ]
+    },
+    {
+      "word": "आस",
+      "meaning": "望み・希望",
+      "pos": "名詞（女）",
+      "key": "आस",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": [],
+      "normalized": "आस",
+      "sourceSongIds": [
+        "bolly_007"
+      ]
+    },
+    {
+      "word": "साँस",
+      "meaning": "息",
+      "pos": "名詞（女）",
+      "key": "साँस",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": [],
+      "normalized": "सांस",
+      "sourceSongIds": [
+        "bolly_007"
+      ]
+    },
+    {
+      "word": "यक़ीं",
+      "meaning": "確信・信頼",
+      "pos": "名詞（男）",
+      "key": "यक़ीं",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 3,
+      "importance": 4,
+      "layer": "B",
+      "tags": [],
+      "normalized": "यकीं",
+      "sourceSongIds": [
+        "bolly_008",
+        "bolly_009",
+        "bolly_014"
+      ]
+    },
+    {
+      "word": "फैसला",
+      "meaning": "決断",
+      "pos": "名詞（男）",
+      "key": "फैसला",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": [],
+      "normalized": "फैसला",
+      "sourceSongIds": [
+        "bolly_008"
+      ]
+    },
+    {
+      "word": "हौसला",
+      "meaning": "勇気・意志",
+      "pos": "名詞（男）",
+      "key": "हौसला",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": [],
+      "normalized": "हौसला",
+      "sourceSongIds": [
+        "bolly_009"
+      ]
+    },
+    {
+      "word": "सपना",
+      "meaning": "夢",
+      "pos": "名詞（男）",
+      "key": "सपना",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": [],
+      "normalized": "सपना",
+      "sourceSongIds": [
+        "bolly_009"
+      ]
+    },
+    {
+      "word": "भूलना",
+      "meaning": "忘れる",
+      "pos": "他動詞",
+      "key": "भूलना",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 2,
+      "layer": "B",
+      "tags": [],
+      "normalized": "भूलना",
+      "sourceSongIds": [
+        "bolly_009"
+      ]
+    },
+    {
+      "word": "बहना",
+      "meaning": "流れる",
+      "pos": "自動詞",
+      "key": "बहना",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": [],
+      "normalized": "बहना",
+      "sourceSongIds": [
+        "bolly_010"
+      ]
+    },
+    {
+      "word": "दोस्त",
+      "meaning": "友人",
+      "pos": "名詞（男）",
+      "key": "दोस्त",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 2,
+      "importance": 3,
+      "layer": "B",
+      "tags": [],
+      "normalized": "दोस्त",
+      "sourceSongIds": [
+        "bolly_010",
+        "bolly_011"
+      ]
+    },
+    {
+      "word": "साथ",
+      "meaning": "一緒・共に",
+      "pos": "名詞（男）",
+      "key": "साथ",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 2,
+      "importance": 4,
+      "layer": "B",
+      "tags": [],
+      "normalized": "साथ",
+      "sourceSongIds": [
+        "bolly_010",
+        "bolly_011"
+      ]
+    },
+    {
+      "word": "जान",
+      "meaning": "命",
+      "pos": "名詞（女）",
+      "key": "जान",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": [],
+      "normalized": "जान",
+      "sourceSongIds": [
+        "bolly_011"
+      ]
+    },
+    {
+      "word": "प्यारा",
+      "meaning": "大切な・愛しい",
+      "pos": "形容詞",
+      "key": "प्यारा",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": [],
+      "normalized": "प्यारा",
+      "sourceSongIds": [
+        "bolly_011"
+      ]
+    },
+    {
+      "word": "छोड़ना",
+      "meaning": "離す・見捨てる",
+      "pos": "他動詞",
+      "key": "छोड़ना",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": [],
+      "normalized": "छोड़ना",
+      "sourceSongIds": [
+        "bolly_011"
+      ]
+    },
+    {
+      "word": "रोकना",
+      "meaning": "止める",
+      "pos": "他動詞",
+      "key": "रोकना",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": [],
+      "normalized": "रोकना",
+      "sourceSongIds": [
+        "bolly_011"
+      ]
+    },
+    {
+      "word": "बचाना",
+      "meaning": "守る・救う",
+      "pos": "他動詞",
+      "key": "बचाना",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": [],
+      "normalized": "बचाना",
+      "sourceSongIds": [
+        "bolly_011"
+      ]
+    },
+    {
+      "word": "डर",
+      "meaning": "恐れ",
+      "pos": "名詞（男）",
+      "key": "डर",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": [],
+      "normalized": "डर",
+      "sourceSongIds": [
+        "bolly_011"
+      ]
+    },
+    {
+      "word": "आँसू",
+      "meaning": "涙",
+      "pos": "名詞（男）",
+      "key": "आँसू",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": [],
+      "normalized": "आंसू",
+      "sourceSongIds": [
+        "bolly_011"
+      ]
+    },
+    {
+      "word": "दर्द",
+      "meaning": "痛み",
+      "pos": "名詞（男）",
+      "key": "दर्द",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": [],
+      "normalized": "दर्द",
+      "sourceSongIds": [
+        "bolly_011"
+      ]
+    },
+    {
+      "word": "संकट",
+      "meaning": "危機",
+      "pos": "名詞（男）",
+      "key": "संकट",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": [],
+      "normalized": "संकट",
+      "sourceSongIds": [
+        "bolly_011"
+      ]
+    },
+    {
+      "word": "मेहरबाँ",
+      "meaning": "優しい・慈悲深い",
+      "pos": "形容詞",
+      "key": "मेहरबाँ",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": [],
+      "normalized": "मेहरबां",
+      "sourceSongIds": [
+        "bolly_012"
+      ]
+    },
+    {
+      "word": "हसीं",
+      "meaning": "美しい",
+      "pos": "形容詞",
+      "key": "हसीं",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": [],
+      "normalized": "हसीं",
+      "sourceSongIds": [
+        "bolly_012"
+      ]
+    },
+    {
+      "word": "धड़कना",
+      "meaning": "鼓動する",
+      "pos": "自動詞",
+      "key": "धड़कना",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": [],
+      "normalized": "धडकना",
+      "sourceSongIds": [
+        "bolly_012"
+      ]
+    },
+    {
+      "word": "गुज़ारिश",
+      "meaning": "願い・懇願",
+      "pos": "名詞（女）",
+      "key": "गुज़ारिश",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 4,
+      "layer": "B",
+      "tags": [],
+      "normalized": "गुजारिश",
+      "sourceSongIds": [
+        "bolly_013"
+      ]
+    },
+    {
+      "word": "किस्मत",
+      "meaning": "運命",
+      "pos": "名詞（女）",
+      "key": "किस्मत",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 4,
+      "layer": "B",
+      "tags": [],
+      "normalized": "किस्मत",
+      "sourceSongIds": [
+        "bolly_014"
+      ]
+    },
+    {
+      "word": "झील",
+      "meaning": "湖",
+      "pos": "名詞（女）",
+      "key": "झील",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": [],
+      "normalized": "झील",
+      "sourceSongIds": [
+        "bolly_014"
+      ]
+    },
+    {
+      "word": "हौले",
+      "meaning": "そっと、やわらかく",
+      "pos": "副詞",
+      "key": "हौले",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": [],
+      "normalized": "हौले",
+      "sourceSongIds": [
+        "bolly_014"
+      ]
+    },
+    {
+      "word": "सुकूँ",
+      "meaning": "安らぎ",
+      "pos": "名詞（男）",
+      "key": "सुकूँ",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 4,
+      "layer": "B",
+      "tags": [],
+      "normalized": "सुकूं",
+      "sourceSongIds": [
+        "bolly_014"
+      ]
+    },
+    {
+      "word": "तरन्नुम",
+      "meaning": "旋律・歌うような調子",
+      "pos": "名詞（男）",
+      "key": "तरन्नुम",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": [],
+      "normalized": "तरन्नुम",
+      "sourceSongIds": [
+        "bolly_014"
+      ]
+    },
+    {
+      "word": "जुनूँ",
+      "meaning": "情熱・熱狂",
+      "pos": "名詞（男）",
+      "key": "जुनूँ",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 2,
+      "importance": 4,
+      "layer": "B",
+      "tags": [],
+      "normalized": "जुनूं",
+      "sourceSongIds": [
+        "bolly_014",
+        "bolly_016"
+      ]
+    },
+    {
+      "word": "फ़ुर्सत",
+      "meaning": "暇・余裕",
+      "pos": "名詞（女）",
+      "key": "फ़ुर्सत",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": [],
+      "normalized": "फुर्सत",
+      "sourceSongIds": [
+        "bolly_014"
+      ]
+    },
+    {
+      "word": "रुतबा",
+      "meaning": "地位・格",
+      "pos": "名詞（男）",
+      "key": "रुतबा",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": [],
+      "normalized": "रुतबा",
+      "sourceSongIds": [
+        "bolly_014"
+      ]
+    },
+    {
+      "word": "वतन",
+      "meaning": "祖国",
+      "pos": "名詞（男）",
+      "key": "वतन",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 4,
+      "layer": "B",
+      "tags": [],
+      "normalized": "वतन",
+      "sourceSongIds": [
+        "bolly_016"
+      ]
+    },
+    {
+      "word": "धूल",
+      "meaning": "ほこり、土",
+      "pos": "名詞（女）",
+      "key": "धूल",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": [],
+      "normalized": "धूल",
+      "sourceSongIds": [
+        "bolly_016"
+      ]
+    },
+    {
+      "word": "लहू",
+      "meaning": "血",
+      "pos": "名詞（男）",
+      "key": "लहू",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 4,
+      "layer": "B",
+      "tags": [],
+      "normalized": "लहू",
+      "sourceSongIds": [
+        "bolly_016"
+      ]
+    },
+    {
+      "word": "सरगम",
+      "meaning": "音階、旋律",
+      "pos": "名詞（女）",
+      "key": "सरगम",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": [],
+      "normalized": "सरगम",
+      "sourceSongIds": [
+        "bolly_016"
+      ]
+    },
+    {
+      "word": "बस्ती",
+      "meaning": "集落、町",
+      "pos": "名詞（女）",
+      "key": "बस्ती",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 2,
+      "layer": "B",
+      "tags": [],
+      "normalized": "बस्ती",
+      "sourceSongIds": [
+        "bolly_016"
+      ]
+    },
+    {
+      "word": "जोबन",
+      "meaning": "若さ、青春",
+      "pos": "名詞（男）",
+      "key": "जोबन",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": [],
+      "normalized": "जोबन",
+      "sourceSongIds": [
+        "bolly_016"
+      ]
+    },
+    {
+      "word": "रंगरेज़",
+      "meaning": "染物師",
+      "pos": "名詞（男）",
+      "key": "रंगरेज़",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 4,
+      "layer": "B",
+      "tags": [],
+      "normalized": "रंगरेज",
+      "sourceSongIds": [
+        "bolly_016"
+      ]
     }
   ]
 }

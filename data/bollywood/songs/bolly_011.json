@@ -1,57 +1,180 @@
 {
   "id": "bolly_011",
-  "source": "bollywood",
-  "type": "song",
+  "schema_version": 2,
+
   "title": "Jaane Nahin Denge",
   "film": "3 Idiots",
   "year": 2009,
-  "singer": "Sonu Nigam",
-  "lyricist": "Swanand Kirkire",
-  "composer": "Shantanu Moitra",
-  "notes": "アーミル",
-  "tags": ["友情"],
-  "key_phrase": "जाने नहीं देंगे तुझे",
-  "lyrics": [
-    "जाने नहीं देंगे तुझे",
-    "जाने तुझे देंगे नहीं",
-    "जाने नहीं देंगे तुझे",
-    "जाने तुझे देंगे नहीं",
 
-    "चाहे तुझको रब बुला ले",
-    "हम ना रब से डरनेवाले",
-    "राहों में डटके खड़े है हम",
-
-    "यारों से नजरें चुरा ले",
-    "चाहे कितना दम लगा ले",
-    "जाने ना तुझको ऐसे देंगे हम",
-    "जाने नहीं देंगे तुझे",
-    "जाने तुझे देंगे नहीं",
-
-    "दो कदम का यह सफर है",
-    "उम्र्र छोटी सी डगर है",
-    "इक कदम में लड़खड़ाये क्यूँ",
-
-    "सुन ले यारों की यह बातें",
-    "बीतेंगी सब घुम की रातें",
-    "यारों से रूठा है साले क्यों",
-
-    "जाने नहीं देंगे तुझे",
-    "जाने तुझे देंगे नहीं",
-    "जाने नहीं देंगे तुझे",
-    "जाने तुझे देंगे नहीं",
-
-    "माँ ने खत में क्या लिखा था",
-    "जिए तू जग जग यह कहाँ था",
-    "चार पल भी जी ना पाया तू",
-
-    "यारों से नजरें मिला ले",
-    "इक बार तू मुस्कुरा दे",
-    "उठ जा साले यु सताता है क्यों",
-
-    "जाने नहीं देंगे तुझे",
-    "जाने तुझे देंगे नहीं",
-    "जाने नहीं देंगे तुझे",
-    "जाने तुझे देंगे नहीं"
+  "singer": [
+    "Sonu Nigam"
   ],
-  "vocab_notes": []
+  "lyricist": [
+    "Swanand Kirkire"
+  ],
+  "composer": [
+    "Shantanu Moitra"
+  ],
+
+  "notes": [
+    "アーミル"
+  ],
+
+  "tags": [
+    "友情"
+  ],
+
+  "emotion": "friendship",
+  "register": "poetic",
+
+  "key_phrase": "जाने नहीं देंगे तुझे",
+
+  "expressions": [
+    {
+      "text": "जाने नहीं देंगे",
+      "normalized": "जाने नहीं देंगे",
+      "meaning_ja": "絶対に行かせない",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "तुझे छोड़ना नहीं",
+      "normalized": "तुझे छोड़ना नहीं",
+      "meaning_ja": "君を見捨てない",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "साथ देना",
+      "normalized": "साथ देना",
+      "meaning_ja": "支える・寄り添う",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "जान से प्यारा होना",
+      "normalized": "जान से प्यारा होना",
+      "meaning_ja": "命より大切である",
+      "type": "metaphor",
+      "importance": 4,
+      "status": "active"
+    }
+  ],
+
+  "vocab_candidates": [
+    {
+      "word": "जान",
+      "normalized": "जान",
+      "pos": "名詞（女）",
+      "meaning_ja": "命",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "प्यारा",
+      "normalized": "प्यारा",
+      "pos": "形容詞",
+      "meaning_ja": "大切な・愛しい",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "साथ",
+      "normalized": "साथ",
+      "pos": "名詞（男）",
+      "meaning_ja": "共にいること",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "दोस्त",
+      "normalized": "दोस्त",
+      "pos": "名詞（男）",
+      "meaning_ja": "友人",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "छोड़ना",
+      "normalized": "छोड़ना",
+      "pos": "他動詞",
+      "meaning_ja": "離す・見捨てる",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "जाना",
+      "normalized": "जाना",
+      "pos": "自動詞",
+      "meaning_ja": "行く",
+      "importance": 2,
+      "status": "active"
+    },
+    {
+      "word": "रोकना",
+      "normalized": "रोकना",
+      "pos": "他動詞",
+      "meaning_ja": "止める",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "बचाना",
+      "normalized": "बचाना",
+      "pos": "他動詞",
+      "meaning_ja": "守る・救う",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "डर",
+      "normalized": "डर",
+      "pos": "名詞（男）",
+      "meaning_ja": "恐れ",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "आँसू",
+      "normalized": "आंसू",
+      "pos": "名詞（男）",
+      "meaning_ja": "涙",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "दर्द",
+      "normalized": "दर्द",
+      "pos": "名詞（男）",
+      "meaning_ja": "痛み",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "दिल",
+      "normalized": "दिल",
+      "pos": "名詞（男）",
+      "meaning_ja": "心",
+      "importance": 2,
+      "status": "active"
+    },
+    {
+      "word": "संकट",
+      "normalized": "संकट",
+      "pos": "名詞（男）",
+      "meaning_ja": "危機",
+      "importance": 3,
+      "status": "active"
+    }
+  ],
+
+  "meta": {
+    "copyright_safe": true,
+    "lyrics_included": false,
+    "source_type": "manual_curated",
+    "dedupe_ready": true
+  }
 }

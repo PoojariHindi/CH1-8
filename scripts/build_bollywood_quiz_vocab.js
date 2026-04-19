@@ -27,6 +27,15 @@ function loadJson(filePath) {
   return JSON.parse(raw);
 }
 
+function saveJson(filePath, data) {
+  fs.mkdirSync(path.dirname(filePath), { recursive: true });
+  fs.writeFileSync(filePath, JSON.stringify(data, null, 2), "utf8");
+}
+
+function normalizeTags(value) {
+  return Array.isArray(value) ? value : [];
+}
+
 function buildQuizVocab(masterEntries) {
   if (!Array.isArray(masterEntries)) {
     throw new Error("vocab_master.json must be an array.");
@@ -35,18 +44,32 @@ function buildQuizVocab(masterEntries) {
   const vocab = masterEntries
     .filter((entry) => entry.status === "active")
     .map((entry) => ({
-      word: entry.word,
-      meaning: entry.meaning,
-      pos: entry.pos,
-      key: entry.key || entry.word,
+      word: entry.word || "",
+
+      // ⭐ v2対応（ここが重要）
+      meaning: entry.meaning_ja || entry.meaning || "",
+
+      pos: entry.pos || "",
+      key: entry.key || entry.word || "",
       category: entry.category || "",
       difficulty: entry.difficulty ?? 1,
 
-      // 今後の重み付き出題やフィルタ用
-      frequency: entry.frequency ?? (Array.isArray(entry.sourceSongIds) ? entry.sourceSongIds.length : 0),
+      // 重み
+      frequency:
+        entry.frequency ??
+        (Array.isArray(entry.sourceSongIds)
+          ? entry.sourceSongIds.length
+          : 0),
+
       importance: entry.importance ?? 3,
       layer: entry.layer || "B",
-      tags: Array.isArray(entry.tags) ? entry.tags : []
+      tags: normalizeTags(entry.tags),
+
+      // 補助
+      normalized: entry.normalized || "",
+      sourceSongIds: Array.isArray(entry.sourceSongIds)
+        ? entry.sourceSongIds
+        : []
     }));
 
   return {
@@ -59,8 +82,7 @@ function main() {
   const masterEntries = loadJson(masterPath);
   const quizData = buildQuizVocab(masterEntries);
 
-  fs.mkdirSync(path.dirname(outputPath), { recursive: true });
-  fs.writeFileSync(outputPath, JSON.stringify(quizData, null, 2), "utf8");
+  saveJson(outputPath, quizData);
 
   console.log(`Built quiz vocab: ${outputPath}`);
   console.log(`Entries written: ${quizData.vocab.length}`);

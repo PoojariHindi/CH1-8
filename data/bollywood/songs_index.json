@@ -1,217 +1,364 @@
 [
   {
-    "songId": "bolly_001",
+    "id": "bolly_001",
     "title": "Mere Haath Mein",
     "film": "Fanaa",
-    "singers": [
+    "year": 2006,
+    "singer": [
       "Sonu Nigam"
     ],
-    "lyricist": "Prasoon Joshi",
+    "lyricist": [
+      "Prasoon Joshi"
+    ],
     "composer": [
       "Jatin-Lalit"
     ],
-    "year": 2006,
+    "notes": [],
     "tags": [
       "恋愛",
       "スーフィー的"
     ],
-    "keyPhrase": "मेरे हाथ में तेरा हाथ हो",
+    "key_phrase": "मेरे हाथ में तेरा हाथ हो",
     "status": "processed"
   },
   {
-    "songId": "bolly_002",
+    "id": "bolly_002",
     "title": "Chand Sifarish",
     "film": "Fanaa",
-    "singers": [
+    "year": 2006,
+    "singer": [
       "Shaan"
     ],
-    "lyricist": "Prasoon Joshi",
+    "lyricist": [
+      "Prasoon Joshi"
+    ],
     "composer": [
       "Jatin-Lalit"
     ],
-    "year": 2006,
+    "notes": [],
     "tags": [
       "恋愛"
     ],
-    "keyPhrase": "चाँद सिफ़ारिश जो करता हमारी",
+    "key_phrase": "चाँद सिफ़ारिश जो करता हमारी",
     "status": "processed"
   },
   {
-    "songId": "bolly_003",
+    "id": "bolly_003",
     "title": "Dekho Na",
     "film": "Fanaa",
-    "singers": [
+    "year": 2006,
+    "singer": [
       "Sonu Nigam",
       "Sunidhi Chauhaan"
     ],
-    "lyricist": "Prasoon Joshi",
+    "lyricist": [
+      "Prasoon Joshi"
+    ],
     "composer": [
       "Jatin-Lalit"
     ],
-    "year": 2006,
+    "notes": [],
     "tags": [
       "恋愛",
       "雨"
     ],
-    "keyPhrase": "ये साज़िश है बूंदों की",
+    "key_phrase": "ये साज़िश है बूंदों की",
     "status": "processed"
   },
   {
-    "songId": "bolly_004",
-    "title": "Chanda Chamuke Cham Cham",
+    "id": "bolly_004",
+    "title": "Chanda Chamke Cham Cham",
     "film": "Fanaa",
-    "singers": [
+    "year": 2006,
+    "singer": [
       "Aamir Khan",
       "Kajol"
     ],
-    "lyricist": "Prasoon Joshi",
+    "lyricist": [
+      "Prasoon Joshi"
+    ],
     "composer": [
       "Jatin-Lalit"
     ],
-    "year": 2006,
+    "notes": [],
     "tags": [
       "子供",
       "言葉遊び"
     ],
-    "keyPhrase": "चंदा चमके चम चम",
+    "key_phrase": "चंदा चमके चम चम",
     "status": "processed"
   },
   {
-    "songId": "bolly_005",
+    "id": "bolly_005",
     "title": "Des Rangeela",
     "film": "Fanaa",
-    "singers": [
+    "year": 2006,
+    "singer": [
       "Mahalakshmi Iyer"
     ],
-    "lyricist": "Prasoon Joshi",
+    "lyricist": [
+      "Prasoon Joshi"
+    ],
     "composer": [
       "Jatin-Lalit"
     ],
-    "year": 2006,
+    "notes": [],
     "tags": [
       "愛国"
     ],
-    "keyPhrase": "देस रंगीला रंगीला",
+    "key_phrase": "देस रंगीला रंगीला",
     "status": "processed"
   },
   {
-    "songId": "bolly_006",
-    "title": "Jee Le Zaraa",
-    "film": "Talaash",
-    "singers": [
-      "Vishal Dadlani"
+    "id": "bolly_006",
+    "title": "Kal Ho Naa Ho",
+    "film": "Kal Ho Naa Ho",
+    "year": 2003,
+    "singer": [
+      "Sonu Nigam"
     ],
-    "lyricist": "Javed Akhtar",
+    "lyricist": [
+      "Javed Akhtar"
+    ],
     "composer": [
-      "Ram Sampath"
+      "Shankar Ehsaan Loy"
     ],
-    "year": 2012,
+    "notes": [],
     "tags": [
-      "喪失"
+      "人生"
     ],
-    "keyPhrase": "जी ले ज़रा",
+    "key_phrase": "हर पल यहाँ जी भर जियो",
     "status": "processed"
   },
   {
-    "songId": "bolly_007",
+    "id": "bolly_007",
     "title": "Jiya Lage Na",
     "film": "Talaash",
-    "singers": [
+    "year": 2012,
+    "singer": [
       "Sona Mohapatra",
       "Ravindra Upadhyay"
     ],
-    "lyricist": "Javed Akhtar",
+    "lyricist": [
+      "Javed Akhtar"
+    ],
     "composer": [
       "Ram Sampath"
     ],
-    "year": 2012,
+    "notes": [],
     "tags": [
       "祈り",
       "救済"
     ],
-    "keyPhrase": "जिया लागे ना तुम बिन मोरा",
+    "key_phrase": "जिया लागे ना तुम बिन मोरा",
     "status": "processed"
   },
   {
-    "songId": "bolly_008",
+    "id": "bolly_008",
     "title": "Hona Hai Kya",
     "film": "Talaash",
-    "singers": [
+    "year": 2012,
+    "singer": [
       "Ram Sampath"
     ],
-    "lyricist": "Javed Akhtar",
+    "lyricist": [
+      "Javed Akhtar"
+    ],
     "composer": [
       "Ram Sampath"
     ],
-    "year": 2012,
+    "notes": [],
     "tags": [
       "人生"
     ],
-    "keyPhrase": "ना मैं जानूँ, ना तू जाने",
+    "key_phrase": "ना मैं जानूँ, ना तू जाने",
     "status": "processed"
   },
   {
-    "songId": "bolly_009",
-    "title": "Laakh Duniya Kahe",
+    "id": "bolly_009",
+    "title": "Jee Le Zaraa",
     "film": "Talaash",
-    "singers": [
-      "Ram Sampath"
+    "year": 2012,
+    "singer": [
+      "Vishal Dadlani"
     ],
-    "lyricist": "Javed Akhtar",
+    "lyricist": [
+      "Javed Akhtar"
+    ],
     "composer": [
       "Ram Sampath"
     ],
-    "year": 2012,
+    "notes": [],
     "tags": [
-      "喪失",
-      "救済"
+      "人生",
+      "再生"
     ],
-    "keyPhrase": "लाख दुनिया कहे तुम नहीं हो",
+    "key_phrase": "जी ले ज़रा",
     "status": "processed"
   },
   {
-    "songId": "bolly_010",
+    "id": "bolly_010",
     "title": "Behti Hawa Sa Tha Woh",
     "film": "3 Idiots",
-    "singers": [
+    "year": 2009,
+    "singer": [
       "Shaan"
     ],
-    "lyricist": "Swanand Kirkire",
-    "composer": [
-      "Shaantanu Moitra"
+    "lyricist": [
+      "Swanand Kirkire"
     ],
-    "year": 2009,
-    "tags": [
-      "友情"
-    ],
-    "keyPhrase": "बहती हवा सा था वो",
-    "status": "processed"
-  },
-   {
-    "songId": "bolly_011",
-    "title": "Jaane Nahin Denge",
-    "film": "3 Idiots",
-    "singers": [
-      "Sonu Nigam"
-    ],
-    "lyricist": "Swanand Kirkire",
     "composer": [
       "Shantanu Moitra"
     ],
+    "notes": [],
+    "tags": [
+      "友情",
+      "回想"
+    ],
+    "key_phrase": "बहती हवा सा था वो",
+    "status": "processed"
+  },
+  {
+    "id": "bolly_011",
+    "title": "Jaane Nahin Denge",
+    "film": "3 Idiots",
     "year": 2009,
+    "singer": [
+      "Sonu Nigam"
+    ],
+    "lyricist": [
+      "Swanand Kirkire"
+    ],
+    "composer": [
+      "Shantanu Moitra"
+    ],
+    "notes": [
+      "アーミル"
+    ],
     "tags": [
       "友情"
     ],
-    "keyPhrase": "जाने नहीं देंगे तुझे",
-    "status": "raw"
+    "key_phrase": "जाने नहीं देंगे तुझे",
+    "status": "processed"
+  },
+  {
+    "id": "bolly_012",
+    "title": "Kal Ho Naa Ho",
+    "film": "Kal Ho Naa Ho",
+    "year": 2003,
+    "singer": [
+      "Sonu Nigam"
+    ],
+    "lyricist": [
+      "Javed Akhtar"
+    ],
+    "composer": [
+      "Shankar Ehsaan Loy"
+    ],
+    "notes": [
+      "シャールク"
+    ],
+    "tags": [
+      "人生"
+    ],
+    "key_phrase": "हर पल यहाँ जी भर जियो",
+    "status": "processed"
   },
   {
     "id": "bolly_013",
     "title": "Guzarish",
     "film": "Ghajini",
     "year": 2008,
-    "singer": ["Javed Ali", "Sonu Nigam"],
-    "tags": ["恋愛", "渇望"],
-    "difficulty": "intermediate"
+    "singer": [
+      "Javed Ali",
+      "Sonu Nigam"
+    ],
+    "lyricist": [
+      "Prasoon Joshi"
+    ],
+    "composer": [
+      "A.R. Rahman"
+    ],
+    "notes": [
+      "アーミル"
+    ],
+    "tags": [
+      "恋愛",
+      "渇望"
+    ],
+    "key_phrase": "तू मेरी अधूरी प्यास",
+    "status": "processed"
+  },
+  {
+    "id": "bolly_014",
+    "title": "Kaise Mujhe",
+    "film": "Ghajini",
+    "year": 2008,
+    "singer": [
+      "Benny Dayal",
+      "Shreya Ghosal"
+    ],
+    "lyricist": [
+      "Prasoon Joshi"
+    ],
+    "composer": [
+      "A.R. Rahman"
+    ],
+    "notes": [
+      "アーミル"
+    ],
+    "tags": [
+      "恋愛",
+      "運命"
+    ],
+    "key_phrase": "कैसे मुझे तुम मिल गयी",
+    "status": "processed"
+  },
+  {
+    "id": "bolly_015",
+    "title": "Behka Main Behka",
+    "film": "Ghajini",
+    "year": 2008,
+    "singer": [
+      "Karthik"
+    ],
+    "lyricist": [
+      "Prasoon Joshi"
+    ],
+    "composer": [
+      "A.R. Rahman"
+    ],
+    "notes": [
+      "アーミル・カーン主演作品"
+    ],
+    "tags": [
+      "恋愛",
+      "風"
+    ],
+    "key_phrase": "बेहका मैं बेहका, वो बेहकी हवा सी आई",
+    "status": "processed"
+  },
+  {
+    "id": "bolly_016",
+    "title": "Rang De Basanti",
+    "film": "Rang De Basanti",
+    "year": 2006,
+    "singer": [
+      "Daler Mehndi"
+    ],
+    "lyricist": [
+      "Prasoon Joshi"
+    ],
+    "composer": [
+      "A.R. Rahman"
+    ],
+    "notes": [
+      "アーミル"
+    ],
+    "tags": [
+      "愛国"
+    ],
+    "key_phrase": "मोहे तू रंग दे बसंती यारा, मोहे तू रंग दे बसंती",
+    "status": "processed"
   }
 ]

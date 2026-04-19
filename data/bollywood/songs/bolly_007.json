@@ -1,20 +1,172 @@
 {
-  "songId": "bolly_007",
+  "id": "bolly_007",
+  "schema_version": 2,
+
   "title": "Jiya Lage Na",
   "film": "Talaash",
-  "singers": [
+  "year": 2012,
+
+  "singer": [
     "Sona Mohapatra",
     "Ravindra Upadhyay"
   ],
-  "lyricist": "Javed Akhtar",
+  "lyricist": [
+    "Javed Akhtar"
+  ],
   "composer": [
     "Ram Sampath"
   ],
-  "year": 2012,
+
+  "notes": [],
+
   "tags": [
     "祈り",
     "救済"
   ],
-  "keyPhrase": "जिया लागे ना तुम बिन मोरा",
-  "status": "processed"
+
+  "emotion": "devotion",
+  "register": "poetic",
+
+  "key_phrase": "जिया लागे ना तुम बिन मोरा",
+
+  "expressions": [
+    {
+      "text": "जिया लागे ना",
+      "normalized": "जिया लागे ना",
+      "meaning_ja": "心が落ち着かない",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "तुम बिन",
+      "normalized": "तुम बिन",
+      "meaning_ja": "あなたなしでは",
+      "type": "expression",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "डोर न टूटना",
+      "normalized": "डोर न टूटना",
+      "meaning_ja": "絆が切れない",
+      "type": "metaphor",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "चैन न आना",
+      "normalized": "चैन न आना",
+      "meaning_ja": "安らぎが得られない",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    }
+  ],
+
+  "vocab_candidates": [
+    {
+      "word": "जिया",
+      "normalized": "जिया",
+      "pos": "名詞（男）",
+      "meaning_ja": "心・魂",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "चैन",
+      "normalized": "चैन",
+      "pos": "名詞（男）",
+      "meaning_ja": "安らぎ",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "डोर",
+      "normalized": "डोर",
+      "pos": "名詞（女）",
+      "meaning_ja": "糸・絆",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "दूरी",
+      "normalized": "दूरी",
+      "pos": "名詞（女）",
+      "meaning_ja": "距離",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "पहेली",
+      "normalized": "पहेली",
+      "pos": "名詞（女）",
+      "meaning_ja": "謎",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "रहस्य",
+      "normalized": "रहस्य",
+      "pos": "名詞（男）",
+      "meaning_ja": "秘密・神秘",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "पनाह",
+      "normalized": "पनाह",
+      "pos": "名詞（女）",
+      "meaning_ja": "庇護・避難所",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "आस",
+      "normalized": "आस",
+      "pos": "名詞（女）",
+      "meaning_ja": "望み・希望",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "साँस",
+      "normalized": "सांस",
+      "pos": "名詞（女）",
+      "meaning_ja": "息",
+      "importance": 2,
+      "status": "active"
+    },
+    {
+      "word": "रूह",
+      "normalized": "रूह",
+      "pos": "名詞（女）",
+      "meaning_ja": "魂",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "मुस्कुराना",
+      "normalized": "मुस्कुराना",
+      "pos": "自動詞",
+      "meaning_ja": "微笑む",
+      "importance": 2,
+      "status": "active"
+    },
+    {
+      "word": "पाना",
+      "normalized": "पाना",
+      "pos": "他動詞",
+      "meaning_ja": "得る",
+      "importance": 2,
+      "status": "active"
+    }
+  ],
+
+  "meta": {
+    "copyright_safe": true,
+    "lyrics_included": false,
+    "source_type": "manual_curated",
+    "dedupe_ready": true
+  }
 }
