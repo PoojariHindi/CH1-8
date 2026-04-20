@@ -20,12 +20,6 @@
   "bollywood": {
     "vocab": [
       "data/bollywood/quizzes/vocab.json"
-    ],
-    "fill": [
-      "data/bollywood/quizzes/fill_patterns.json"
-    ],
-    "expressions": [
-      "data/bollywood/quizzes/expressions.json"
     ]
   }
 }

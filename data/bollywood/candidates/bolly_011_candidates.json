@@ -2,191 +2,115 @@
   "songId": "bolly_011",
   "title": "Jaane Nahin Denge",
   "film": "3 Idiots",
-  "candidateCount": 46,
+  "candidateCount": 12,
   "candidates": [
     {
-      "word": "जाने",
-      "count": 15
+      "word": "जान",
+      "normalized": "जान",
+      "pos": "名詞（女）",
+      "meaning_ja": "命",
+      "importance": 4,
+      "status": "active",
+      "source": "vocab_candidates"
     },
     {
-      "word": "देंगे",
-      "count": 15
+      "word": "प्यारा",
+      "normalized": "प्यारा",
+      "pos": "形容詞",
+      "meaning_ja": "大切な・愛しい",
+      "importance": 4,
+      "status": "active",
+      "source": "vocab_candidates"
     },
     {
-      "word": "ले",
-      "count": 5
+      "word": "साथ",
+      "normalized": "साथ",
+      "pos": "名詞（男）",
+      "meaning_ja": "共にいること",
+      "importance": 4,
+      "status": "active",
+      "source": "vocab_candidates"
     },
     {
-      "word": "यारों",
-      "count": 4
+      "word": "दोस्त",
+      "normalized": "दोस्त",
+      "pos": "名詞（男）",
+      "meaning_ja": "友人",
+      "importance": 4,
+      "status": "active",
+      "source": "vocab_candidates"
     },
     {
-      "word": "कदम",
-      "count": 2
+      "word": "छोड़ना",
+      "normalized": "छोड़ना",
+      "pos": "他動詞",
+      "meaning_ja": "離す・見捨てる",
+      "importance": 3,
+      "status": "active",
+      "source": "vocab_candidates"
     },
     {
-      "word": "जग",
-      "count": 2
+      "word": "जाना",
+      "normalized": "जाना",
+      "pos": "自動詞",
+      "meaning_ja": "行く",
+      "importance": 2,
+      "status": "active",
+      "source": "vocab_candidates"
     },
     {
-      "word": "तुझको",
-      "count": 2
+      "word": "रोकना",
+      "normalized": "रोकना",
+      "pos": "他動詞",
+      "meaning_ja": "止める",
+      "importance": 3,
+      "status": "active",
+      "source": "vocab_candidates"
     },
     {
-      "word": "नजरें",
-      "count": 2
+      "word": "बचाना",
+      "normalized": "बचाना",
+      "pos": "他動詞",
+      "meaning_ja": "守る・救う",
+      "importance": 4,
+      "status": "active",
+      "source": "vocab_candidates"
     },
     {
-      "word": "रब",
-      "count": 2
+      "word": "डर",
+      "normalized": "डर",
+      "pos": "名詞（男）",
+      "meaning_ja": "恐れ",
+      "importance": 3,
+      "status": "active",
+      "source": "vocab_candidates"
     },
     {
-      "word": "साले",
-      "count": 2
+      "word": "आँसू",
+      "normalized": "आंसू",
+      "pos": "名詞（男）",
+      "meaning_ja": "涙",
+      "importance": 3,
+      "status": "active",
+      "source": "vocab_candidates"
     },
     {
-      "word": "उठ",
-      "count": 1
+      "word": "दर्द",
+      "normalized": "दर्द",
+      "pos": "名詞（男）",
+      "meaning_ja": "痛み",
+      "importance": 3,
+      "status": "active",
+      "source": "vocab_candidates"
     },
     {
-      "word": "उम्र्र",
-      "count": 1
-    },
-    {
-      "word": "कहाँ",
-      "count": 1
-    },
-    {
-      "word": "क्यूँ",
-      "count": 1
-    },
-    {
-      "word": "खड़े",
-      "count": 1
-    },
-    {
-      "word": "खत",
-      "count": 1
-    },
-    {
-      "word": "घुम",
-      "count": 1
-    },
-    {
-      "word": "चुरा",
-      "count": 1
-    },
-    {
-      "word": "छोटी",
-      "count": 1
-    },
-    {
-      "word": "जा",
-      "count": 1
-    },
-    {
-      "word": "जिए",
-      "count": 1
-    },
-    {
-      "word": "जी",
-      "count": 1
-    },
-    {
-      "word": "डगर",
-      "count": 1
-    },
-    {
-      "word": "डटके",
-      "count": 1
-    },
-    {
-      "word": "डरनेवाले",
-      "count": 1
-    },
-    {
-      "word": "दम",
-      "count": 1
-    },
-    {
-      "word": "दे",
-      "count": 1
-    },
-    {
-      "word": "ने",
-      "count": 1
-    },
-    {
-      "word": "पाया",
-      "count": 1
-    },
-    {
-      "word": "बातें",
-      "count": 1
-    },
-    {
-      "word": "बीतेंगी",
-      "count": 1
-    },
-    {
-      "word": "बुला",
-      "count": 1
-    },
-    {
-      "word": "माँ",
-      "count": 1
-    },
-    {
-      "word": "मिला",
-      "count": 1
-    },
-    {
-      "word": "मुस्कुरा",
-      "count": 1
-    },
-    {
-      "word": "यु",
-      "count": 1
-    },
-    {
-      "word": "रातें",
-      "count": 1
-    },
-    {
-      "word": "राहों",
-      "count": 1
-    },
-    {
-      "word": "रूठा",
-      "count": 1
-    },
-    {
-      "word": "लगा",
-      "count": 1
-    },
-    {
-      "word": "लड़खड़ाये",
-      "count": 1
-    },
-    {
-      "word": "लिखा",
-      "count": 1
-    },
-    {
-      "word": "सताता",
-      "count": 1
-    },
-    {
-      "word": "सफर",
-      "count": 1
-    },
-    {
-      "word": "सी",
-      "count": 1
-    },
-    {
-      "word": "सुन",
-      "count": 1
+      "word": "संकट",
+      "normalized": "संकट",
+      "pos": "名詞（男）",
+      "meaning_ja": "危機",
+      "importance": 3,
+      "status": "active",
+      "source": "vocab_candidates"
     }
   ]
 }

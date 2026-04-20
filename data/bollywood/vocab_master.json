@@ -583,7 +583,7 @@
     "normalized": "दिल",
     "pos": "名詞（男）",
     "meaning_ja": "心",
-    "importance": 2,
+    "importance": 4,
     "status": "active",
     "sourceSongIds": [
       "bolly_001",
@@ -591,10 +591,11 @@
       "bolly_006",
       "bolly_009",
       "bolly_013",
-      "bolly_011"
+      "bolly_011",
+      "bolly_018"
     ],
-    "sourceCount": 6,
-    "frequency": 6,
+    "sourceCount": 7,
+    "frequency": 7,
     "tags": [
       "感情"
     ],
@@ -833,13 +834,14 @@
     "normalized": "फिकर",
     "pos": "名詞（女）",
     "meaning_ja": "心配",
-    "importance": 2,
+    "importance": 4,
     "status": "active",
     "sourceSongIds": [
-      "bolly_010"
+      "bolly_010",
+      "bolly_018"
     ],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 2,
+    "frequency": 2,
     "tags": [
       "感情"
     ],
@@ -1369,13 +1371,14 @@
     "normalized": "हाल",
     "pos": "名詞（男）",
     "meaning_ja": "状態・様子",
-    "importance": 3,
+    "importance": 4,
     "status": "active",
     "sourceSongIds": [
-      "bolly_013"
+      "bolly_013",
+      "bolly_018"
     ],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 2,
+    "frequency": 2,
     "tags": [],
     "notes": ""
   },
@@ -2224,12 +2227,13 @@
     "importance": 3,
     "status": "active",
     "sourceSongIds": [
-      "bolly_009"
+      "bolly_009",
+      "bolly_017"
     ],
     "tags": [],
     "notes": "",
-    "sourceCount": 1,
-    "frequency": 1
+    "sourceCount": 2,
+    "frequency": 2
   },
   {
     "word": "भूलना",
@@ -2647,10 +2651,11 @@
     "importance": 4,
     "status": "active",
     "sourceSongIds": [
-      "bolly_016"
+      "bolly_016",
+      "bolly_017"
     ],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 2,
+    "frequency": 2,
     "tags": [],
     "notes": ""
   },
@@ -2713,5 +2718,269 @@
     "frequency": 1,
     "tags": [],
     "notes": ""
+  },
+  {
+    "word": "नाचना",
+    "normalized": "नाचना",
+    "pos": "動詞",
+    "meaning_ja": "踊る",
+    "importance": 4,
+    "status": "active",
+    "sourceSongIds": [
+      "bolly_004"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "word": "गाना",
+    "normalized": "गाना",
+    "pos": "動詞",
+    "meaning_ja": "歌う",
+    "importance": 4,
+    "status": "active",
+    "sourceSongIds": [
+      "bolly_004"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "word": "खेलना",
+    "normalized": "खेलना",
+    "pos": "動詞",
+    "meaning_ja": "遊ぶ",
+    "importance": 4,
+    "status": "active",
+    "sourceSongIds": [
+      "bolly_004"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "word": "बदलना",
+    "normalized": "बदलना",
+    "pos": "動詞",
+    "meaning_ja": "変える・変わる",
+    "importance": 3,
+    "status": "active",
+    "sourceSongIds": [
+      "bolly_006"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "word": "सोचना",
+    "normalized": "सोचना",
+    "pos": "動詞",
+    "meaning_ja": "考える",
+    "importance": 4,
+    "status": "active",
+    "sourceSongIds": [
+      "bolly_006",
+      "bolly_008",
+      "bolly_012"
+    ],
+    "sourceCount": 3,
+    "frequency": 3,
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "word": "मिलना",
+    "normalized": "मिलना",
+    "pos": "動詞",
+    "meaning_ja": "出会う",
+    "importance": 3,
+    "status": "active",
+    "sourceSongIds": [
+      "bolly_010"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "word": "जाना",
+    "normalized": "जाना",
+    "pos": "動詞",
+    "meaning_ja": "行く",
+    "importance": 3,
+    "status": "active",
+    "sourceSongIds": [
+      "bolly_010",
+      "bolly_011"
+    ],
+    "sourceCount": 2,
+    "frequency": 2,
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "word": "चाहना",
+    "normalized": "चाहना",
+    "pos": "動詞",
+    "meaning_ja": "望む・愛する",
+    "importance": 4,
+    "status": "active",
+    "sourceSongIds": [
+      "bolly_012"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "word": "मुश्किल",
+    "normalized": "मुश्किल",
+    "pos": "形容詞",
+    "meaning_ja": "難しい",
+    "importance": 3,
+    "status": "active",
+    "sourceSongIds": [
+      "bolly_012"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "word": "बदतमीज़",
+    "normalized": "बदतमीज",
+    "pos": "形容詞",
+    "meaning_ja": "無作法な、生意気な、行儀の悪い",
+    "importance": 4,
+    "status": "active",
+    "songIds": [
+      "bolly_018"
+    ],
+    "sourceSongIds": [],
+    "sourceCount": 0,
+    "frequency": 0
+  },
+  {
+    "word": "ज़िद",
+    "normalized": "जिद",
+    "pos": "名詞（女）",
+    "meaning_ja": "意地、強情",
+    "importance": 4,
+    "status": "active",
+    "songIds": [
+      "bolly_018"
+    ],
+    "sourceSongIds": [],
+    "sourceCount": 0,
+    "frequency": 0
+  },
+  {
+    "word": "सवाल",
+    "normalized": "सवाल",
+    "pos": "名詞（男）",
+    "meaning_ja": "質問、問題",
+    "importance": 3,
+    "status": "active",
+    "songIds": [
+      "bolly_018"
+    ],
+    "sourceSongIds": [],
+    "sourceCount": 0,
+    "frequency": 0
+  },
+  {
+    "word": "कमाल",
+    "normalized": "कमाल",
+    "pos": "名詞（男）",
+    "meaning_ja": "驚くべきこと、すごさ",
+    "importance": 3,
+    "status": "active",
+    "songIds": [
+      "bolly_018"
+    ],
+    "sourceSongIds": [],
+    "sourceCount": 0,
+    "frequency": 0
+  },
+  {
+    "word": "भूत",
+    "normalized": "भूत",
+    "pos": "名詞（男）",
+    "meaning_ja": "幽霊、取り憑いたもの",
+    "importance": 3,
+    "status": "active",
+    "songIds": [
+      "bolly_018"
+    ],
+    "sourceSongIds": [],
+    "sourceCount": 0,
+    "frequency": 0
+  },
+  {
+    "word": "फर्क",
+    "normalized": "फर्क",
+    "pos": "名詞（男）",
+    "meaning_ja": "違い、差",
+    "importance": 4,
+    "status": "active",
+    "songIds": [
+      "bolly_018"
+    ],
+    "sourceSongIds": [],
+    "sourceCount": 0,
+    "frequency": 0
+  },
+  {
+    "word": "शरम",
+    "normalized": "शरम",
+    "pos": "名詞（女）",
+    "meaning_ja": "恥",
+    "importance": 3,
+    "status": "active",
+    "songIds": [
+      "bolly_018"
+    ],
+    "sourceSongIds": [],
+    "sourceCount": 0,
+    "frequency": 0
+  },
+  {
+    "word": "धक्का",
+    "normalized": "धक्का",
+    "pos": "名詞（男）",
+    "meaning_ja": "押し、突き飛ばし",
+    "importance": 3,
+    "status": "active",
+    "songIds": [
+      "bolly_018"
+    ],
+    "sourceSongIds": [],
+    "sourceCount": 0,
+    "frequency": 0
+  },
+  {
+    "word": "चक्कर",
+    "normalized": "चक्कर",
+    "pos": "名詞（男）",
+    "meaning_ja": "回転、ぐるぐる回ること",
+    "importance": 3,
+    "status": "active",
+    "songIds": [
+      "bolly_018"
+    ],
+    "sourceSongIds": [],
+    "sourceCount": 0,
+    "frequency": 0
   }
 ]

@@ -2,12 +2,13 @@
 // Hindi Quiz App - Extended Script
 // Complete Hindi + News + Bollywood
 // - 語彙問題
-// - 穴埋め問題（構文）
+// - 穴埋め問題
 // - 表現問題
 // ==============================
 
 let chVocab = [];
 let newsVocab = [];
+
 let bollywoodVocab = [];
 let bollywoodFill = [];
 let bollywoodExpressions = [];
@@ -37,13 +38,27 @@ function pickRandom(array, count) {
   return shuffle(array).slice(0, count);
 }
 
-async function loadManifest() {
-  return await loadJson("data/manifest.json");
+function escapeHtml(text) {
+  return String(text ?? "")
+    .replaceAll("&", "&amp;")
+    .replaceAll("<", "&lt;")
+    .replaceAll(">", "&gt;")
+    .replaceAll('"', "&quot;")
+    .replaceAll("'", "&#039;");
+}
+
+function normalizeString(value) {
+  return typeof value === "string" ? value.trim() : "";
+}
+
+function loadManifest() {
+  return loadJson("data/manifest.json");
 }
 
 async function loadAllChVocab(manifest) {
   const files = manifest.ch?.vocab || [];
   const results = await Promise.all(files.map(loadJson));
+
   return results.flatMap((fileData) =>
     (fileData.vocab || []).map((entry) => ({
       ...entry,
@@ -56,6 +71,7 @@ async function loadAllChVocab(manifest) {
 async function loadAllNewsVocab(manifest) {
   const files = manifest.news?.vocab || [];
   const results = await Promise.all(files.map(loadJson));
+
   return results.flatMap((fileData) =>
     (fileData.vocab || []).map((entry) => ({
       ...entry,
@@ -65,42 +81,35 @@ async function loadAllNewsVocab(manifest) {
   );
 }
 
-async function loadAllBollywoodVocab(manifest) {
-  const files = manifest.bollywood?.vocab || [];
-  const results = await Promise.all(files.map(loadJson));
-  return results.flatMap((fileData) =>
-    (fileData.vocab || []).map((entry) => ({
-      ...entry,
-      source: "bollywood",
-      topic: fileData.topic || "bollywood"
-    }))
-  );
-}
+// Bollywood は統合ファイルを1つ読む
+async function loadBollywoodAll() {
+  const data = await loadJson("data/bollywood/quizzes/vocab.json");
 
-async function loadAllBollywoodFill(manifest) {
-  const files = manifest.bollywood?.fill || [];
-  const results = await Promise.all(files.map(loadJson));
-  return results.flatMap((fileData) =>
-    (fileData.items || []).map((entry) => ({
-      ...entry,
-      source: "bollywood_fill"
-    }))
-  );
-}
-
-async function loadAllBollywoodExpressions(manifest) {
-  const files = manifest.bollywood?.expressions || [];
-  const results = await Promise.all(files.map(loadJson));
-  return results.flatMap((fileData) =>
-    (fileData.items || []).map((entry) => ({
-      ...entry,
-      source: "bollywood_expressions"
-    }))
-  );
+  return {
+    vocab: Array.isArray(data.vocab)
+      ? data.vocab.map((entry) => ({
+          ...entry,
+          source: "bollywood",
+          topic: "bollywood"
+        }))
+      : [],
+    expressions: Array.isArray(data.expressions)
+      ? data.expressions.map((entry) => ({
+          ...entry,
+          source: "bollywood_expressions"
+        }))
+      : [],
+    fillBlanks: Array.isArray(data.fillBlanks)
+      ? data.fillBlanks.map((entry) => ({
+          ...entry,
+          source: "bollywood_fill"
+        }))
+      : []
+  };
 }
 
 function filterChByLesson(vocabList, maxLesson) {
-  return vocabList.filter((item) => item.lesson <= maxLesson);
+  return vocabList.filter((item) => Number(item.lesson) <= maxLesson);
 }
 
 function getDirection() {
@@ -115,13 +124,32 @@ function isVocabularyMode(mode) {
   return mode === "ch" || mode === "news" || mode === "bollywood_vocab";
 }
 
+function getMeaning(entry) {
+  return normalizeString(entry.meaning) || normalizeString(entry.meaning_ja);
+}
+
+function getWord(entry) {
+  return normalizeString(entry.word);
+}
+
+function buildWrongPoolForVocab(pool, correct, direction) {
+  if (direction === "hi2jp") {
+    return pool.filter((item) => getMeaning(item) && getMeaning(item) !== getMeaning(correct));
+  }
+  return pool.filter((item) => getWord(item) && getWord(item) !== getWord(correct));
+}
+
 function createQuizQuestion(vocabPool, direction) {
-  if (vocabPool.length < 4) {
+  if (!Array.isArray(vocabPool) || vocabPool.length < 4) {
     return null;
   }
 
   const correct = pickRandom(vocabPool, 1)[0];
-  const wrongPool = vocabPool.filter((item) => item.word !== correct.word);
+  const wrongPool = buildWrongPoolForVocab(vocabPool, correct, direction);
+  if (wrongPool.length < 3) {
+    return null;
+  }
+
   const wrongChoices = pickRandom(wrongPool, 3);
 
   let question = "";
@@ -129,22 +157,23 @@ function createQuizQuestion(vocabPool, direction) {
   let choices = [];
 
   if (direction === "hi2jp") {
-    question = correct.word;
-    correctAnswer = correct.meaning;
+    question = getWord(correct);
+    correctAnswer = getMeaning(correct);
     choices = shuffle([
-      correct.meaning,
-      ...wrongChoices.map((item) => item.meaning)
+      correctAnswer,
+      ...wrongChoices.map((item) => getMeaning(item))
     ]);
   } else {
-    question = correct.meaning;
-    correctAnswer = correct.word;
+    question = getMeaning(correct);
+    correctAnswer = getWord(correct);
     choices = shuffle([
-      correct.word,
-      ...wrongChoices.map((item) => item.word)
+      correctAnswer,
+      ...wrongChoices.map((item) => getWord(item))
     ]);
   }
 
   return {
+    type: "vocab",
     question,
     correctAnswer,
     choices,
@@ -152,48 +181,89 @@ function createQuizQuestion(vocabPool, direction) {
     meta: {
       source: correct.source,
       lesson: correct.lesson || null,
-      pos: correct.pos || ""
+      pos: correct.pos || "",
+      songTitle: "",
+      film: ""
     }
   };
 }
 
 function createFillQuestion(pool) {
-  if (pool.length < 4) {
+  if (!Array.isArray(pool) || pool.length < 4) {
     return null;
   }
 
-  const correct = pickRandom(pool, 1)[0];
-  const wrongPool = pool.filter((item) => item.answer !== correct.answer);
+  const usable = pool.filter(
+    (item) =>
+      normalizeString(item.prompt) &&
+      normalizeString(item.answer)
+  );
+
+  if (usable.length < 4) {
+    return null;
+  }
+
+  const correct = pickRandom(usable, 1)[0];
+  const wrongPool = usable.filter(
+    (item) => normalizeString(item.answer) !== normalizeString(correct.answer)
+  );
+
+  if (wrongPool.length < 3) {
+    return null;
+  }
+
   const wrongChoices = pickRandom(wrongPool, 3);
 
   return {
-    question: correct.question,
-    correctAnswer: correct.answer,
+    type: "fill_blank",
+    question: normalizeString(correct.prompt),
+    correctAnswer: normalizeString(correct.answer),
     choices: shuffle([
-      correct.answer,
-      ...wrongChoices.map((item) => item.answer)
+      normalizeString(correct.answer),
+      ...wrongChoices.map((item) => normalizeString(item.answer))
     ]),
     entry: correct,
     meta: {
       source: correct.source,
       lesson: null,
-      pos: correct.patternLabel || "構文"
+      pos: "穴埋め",
+      songTitle: correct.songTitle || "",
+      film: correct.film || ""
     },
     extra: {
-      translation: correct.translation || ""
+      translation: normalizeString(correct.meaning),
+      sourceText: normalizeString(correct.sourceText)
     }
   };
 }
 
 function createExpressionQuestion(pool, direction) {
-  if (pool.length < 4) {
+  if (!Array.isArray(pool) || pool.length < 4) {
     return null;
   }
 
-  const correct = pickRandom(pool, 1)[0];
-  const wrongPool = pool.filter(
-    (item) => item.expression !== correct.expression
+  const usable = pool.filter(
+    (item) =>
+      normalizeString(item.text) &&
+      normalizeString(item.meaning)
   );
+
+  if (usable.length < 4) {
+    return null;
+  }
+
+  const correct = pickRandom(usable, 1)[0];
+  const wrongPool = usable.filter((item) => {
+    if (direction === "hi2jp") {
+      return normalizeString(item.meaning) !== normalizeString(correct.meaning);
+    }
+    return normalizeString(item.text) !== normalizeString(correct.text);
+  });
+
+  if (wrongPool.length < 3) {
+    return null;
+  }
+
   const wrongChoices = pickRandom(wrongPool, 3);
 
   let question = "";
@@ -201,22 +271,23 @@ function createExpressionQuestion(pool, direction) {
   let choices = [];
 
   if (direction === "hi2jp") {
-    question = correct.expression;
-    correctAnswer = correct.meaning;
+    question = normalizeString(correct.text);
+    correctAnswer = normalizeString(correct.meaning);
     choices = shuffle([
-      correct.meaning,
-      ...wrongChoices.map((item) => item.meaning)
+      correctAnswer,
+      ...wrongChoices.map((item) => normalizeString(item.meaning))
     ]);
   } else {
-    question = correct.meaning;
-    correctAnswer = correct.expression;
+    question = normalizeString(correct.meaning);
+    correctAnswer = normalizeString(correct.text);
     choices = shuffle([
-      correct.expression,
-      ...wrongChoices.map((item) => item.expression)
+      correctAnswer,
+      ...wrongChoices.map((item) => normalizeString(item.text))
     ]);
   }
 
   return {
+    type: "expression",
     question,
     correctAnswer,
     choices,
@@ -224,18 +295,11 @@ function createExpressionQuestion(pool, direction) {
     meta: {
       source: correct.source,
       lesson: null,
-      pos: correct.pos || "表現"
+      pos: "表現",
+      songTitle: correct.songTitle || "",
+      film: correct.film || ""
     }
   };
-}
-
-function escapeHtml(text) {
-  return String(text)
-    .replaceAll("&", "&amp;")
-    .replaceAll("<", "&lt;")
-    .replaceAll(">", "&gt;")
-    .replaceAll('"', "&quot;")
-    .replaceAll("'", "&#039;");
 }
 
 function renderQuiz(quiz) {
@@ -246,16 +310,25 @@ function renderQuiz(quiz) {
     return;
   }
 
+  const metaParts = [];
+  if (quiz.meta.lesson) metaParts.push(`<span>L${escapeHtml(quiz.meta.lesson)}</span>`);
+  if (quiz.meta.pos) metaParts.push(`<span>${escapeHtml(quiz.meta.pos)}</span>`);
+  if (quiz.meta.songTitle) metaParts.push(`<span>${escapeHtml(quiz.meta.songTitle)}</span>`);
+
   const metaRow = `
     <div class="quiz-meta-row">
-      ${quiz.meta.lesson ? `<span>L${quiz.meta.lesson}</span>` : ""}
-      ${quiz.meta.pos ? `<span>${escapeHtml(quiz.meta.pos)}</span>` : ""}
+      ${metaParts.join("")}
     </div>
   `;
 
   const translationBlock =
     quiz.extra && quiz.extra.translation
-      ? `<div class="quiz-subhint">${escapeHtml(quiz.extra.translation)}</div>`
+      ? `<div class="quiz-subhint" style="text-align:center; font-size:14px; opacity:0.85; margin:6px 0 10px;">${escapeHtml(quiz.extra.translation)}</div>`
+      : "";
+
+  const sourceTextBlock =
+    quiz.type === "fill_blank" && quiz.extra && quiz.extra.sourceText
+      ? `<div class="quiz-subhint" style="text-align:center; font-size:13px; opacity:0.65; margin:4px 0 10px;">元表現: ${escapeHtml(quiz.extra.sourceText)}</div>`
       : "";
 
   quizArea.innerHTML = `
@@ -263,6 +336,7 @@ function renderQuiz(quiz) {
       ${metaRow}
       <h2 class="quiz-question">${escapeHtml(quiz.question)}</h2>
       ${translationBlock}
+      ${sourceTextBlock}
       <div class="quiz-choices">
         ${quiz.choices
           .map(
@@ -293,13 +367,14 @@ function renderQuiz(quiz) {
 function addWrongAnswer(entry) {
   const mode = getMode();
 
-  // 復習モードは語彙問題のみ対応
   if (!isVocabularyMode(mode)) {
     return;
   }
 
   const exists = wrongAnswers.some(
-    (item) => item.word === entry.word && item.meaning === entry.meaning
+    (item) =>
+      normalizeString(item.word) === normalizeString(entry.word) &&
+      getMeaning(item) === getMeaning(entry)
   );
 
   if (!exists) {
@@ -330,9 +405,7 @@ function handleAnswerClick(event) {
     feedback.innerHTML = `<p>✅ 正解です</p>`;
   } else {
     addWrongAnswer(currentQuiz.entry);
-    feedback.innerHTML = `<p>❌ 不正解です。正解: ${escapeHtml(
-      currentQuiz.correctAnswer
-    )}</p>`;
+    feedback.innerHTML = `<p>❌ 不正解です。正解: ${escapeHtml(currentQuiz.correctAnswer)}</p>`;
   }
 
   nextBtn.style.display = "inline-block";
@@ -421,7 +494,6 @@ function updateUiByMode() {
     if (lessonLabel) lessonLabel.style.display = "none";
   }
 
-  // 穴埋め問題では方向選択は不要
   if (mode === "bollywood_fill") {
     directionSelect.style.display = "none";
     if (directionLabel) directionLabel.style.display = "none";
@@ -437,9 +509,11 @@ async function initApp() {
 
     chVocab = await loadAllChVocab(manifest);
     newsVocab = await loadAllNewsVocab(manifest);
-    bollywoodVocab = await loadAllBollywoodVocab(manifest);
-    bollywoodFill = await loadAllBollywoodFill(manifest);
-    bollywoodExpressions = await loadAllBollywoodExpressions(manifest);
+
+    const bolly = await loadBollywoodAll();
+    bollywoodVocab = bolly.vocab;
+    bollywoodFill = bolly.fillBlanks;
+    bollywoodExpressions = bolly.expressions;
 
     document
       .getElementById("startQuizBtn")

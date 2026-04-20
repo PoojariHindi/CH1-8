@@ -360,5 +360,57 @@
     ],
     "key_phrase": "मोहे तू रंग दे बसंती यारा, मोहे तू रंग दे बसंती",
     "status": "processed"
+  },
+  {
+    "id": "bolly_017",
+    "title": "Ishwar Allah Tere Jahan Mein",
+    "film": "Earth",
+    "year": 1998,
+    "singer": [
+      "Anuradha Sriram",
+      "Sujata Mohan"
+    ],
+    "lyricist": [
+      "Javed Akhtar"
+    ],
+    "composer": [
+      "A.R. Rahman"
+    ],
+    "notes": [
+      "アーミル"
+    ],
+    "tags": [
+      "神",
+      "社会",
+      "平和"
+    ],
+    "key_phrase": "ईश्वर अल्लाह तेरे जहां में नफ़रत क्यों है जंग है क्यों",
+    "status": "processed"
+  },
+  {
+    "id": "bolly_018",
+    "title": "Badtameez Dil",
+    "film": "Yeh Jawaani Hai Deewani",
+    "year": 2013,
+    "singer": [
+      "Benny Dayal",
+      "Shefali Alvares"
+    ],
+    "lyricist": [
+      "Amitabh Bhattacharya"
+    ],
+    "composer": [
+      "Pritam"
+    ],
+    "notes": [
+      "ランビール"
+    ],
+    "tags": [
+      "恋愛",
+      "ダンス",
+      "パーティー"
+    ],
+    "key_phrase": "बदतमीज़ दिल, बदतमीज़ दिल, बदतमीज़ दिल माने ना, माने ना",
+    "status": "processed"
   }
 ]

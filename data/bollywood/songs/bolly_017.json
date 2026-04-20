@@ -1,0 +1,160 @@
+{
+  "id": "bolly_017",
+  "schema_version": 2,
+
+  "title": "Ishwar Allah Tere Jahan Mein",
+  "film": "Earth",
+  "year": 1998,
+
+  "singer": ["Anuradha Sriram", "Sujata Mohan"],
+  "lyricist": ["Javed Akhtar"],
+  "composer": ["A.R. Rahman"],
+
+  "notes": ["アーミル"],
+  "tags": ["神", "社会", "平和"],
+  "emotion": "social",
+  "register": "poetic",
+
+  "key_phrase": "ईश्वर अल्लाह तेरे जहां में नफ़रत क्यों है जंग है क्यों",
+
+  "expressions": [
+    {
+      "text": "नफ़रत क्यों है",
+      "normalized": "नफरत क्यों है",
+      "meaning_ja": "なぜ憎しみがあるのか",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "जंग है क्यों",
+      "normalized": "जंग है क्यों",
+      "meaning_ja": "なぜ戦争があるのか",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "इन्साँ का दिल तंग है",
+      "normalized": "इन्सां का दिल तंग है",
+      "meaning_ja": "人間の心は狭い",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "क़दम क़दम पर सरहद",
+      "normalized": "कदम कदम पर सरहद",
+      "meaning_ja": "一歩ごとに国境がある",
+      "type": "expression",
+      "importance": 3,
+      "status": "active"
+    }
+  ],
+
+  "vocab_candidates": [
+    {
+      "word": "ईश्वर",
+      "normalized": "ईश्वर",
+      "pos": "名詞（男）",
+      "meaning_ja": "神（ヒンドゥー的）",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "अल्लाह",
+      "normalized": "अल्लाह",
+      "pos": "名詞（男）",
+      "meaning_ja": "アッラー、神",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "जहां",
+      "normalized": "जहां",
+      "pos": "名詞（男）",
+      "meaning_ja": "世界",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "नफ़रत",
+      "normalized": "नफरत",
+      "pos": "名詞（女）",
+      "meaning_ja": "憎しみ",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "जंग",
+      "normalized": "जंग",
+      "pos": "名詞（女）",
+      "meaning_ja": "戦争",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "इन्साँ",
+      "normalized": "इंसां",
+      "pos": "名詞（男）",
+      "meaning_ja": "人間",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "सरहद",
+      "normalized": "सरहद",
+      "pos": "名詞（女）",
+      "meaning_ja": "国境",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "जमीं",
+      "normalized": "जमीं",
+      "pos": "名詞（女）",
+      "meaning_ja": "大地",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "लहू",
+      "normalized": "लहू",
+      "pos": "名詞（男）",
+      "meaning_ja": "血",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "चीख",
+      "normalized": "चीख",
+      "pos": "名詞（女）",
+      "meaning_ja": "叫び",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "सपना",
+      "normalized": "सपना",
+      "pos": "名詞（男）",
+      "meaning_ja": "夢",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "दरवाज़ा",
+      "normalized": "दरवाजा",
+      "pos": "名詞（男）",
+      "meaning_ja": "扉",
+      "importance": 3,
+      "status": "active"
+    }
+  ],
+
+  "meta": {
+    "copyright_safe": true,
+    "lyrics_included": false,
+    "source_type": "manual_curated",
+    "dedupe_ready": true
+  }
+}

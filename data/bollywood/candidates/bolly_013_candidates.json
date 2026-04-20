@@ -2,95 +2,43 @@
   "songId": "bolly_013",
   "title": "Guzarish",
   "film": "Ghajini",
-  "candidateCount": 22,
+  "candidateCount": 4,
   "candidates": [
     {
-      "word": "आना",
-      "count": 3
-    },
-    {
-      "word": "संग",
-      "count": 2
-    },
-    {
-      "word": "होना",
-      "count": 2
-    },
-    {
-      "word": "अधूरी",
-      "count": 1
-    },
-    {
-      "word": "कहना",
-      "count": 1
-    },
-    {
-      "word": "ख्वाब",
-      "count": 1
-    },
-    {
-      "word": "जाना",
-      "count": 1
-    },
-    {
-      "word": "टकरा",
-      "count": 1
-    },
-    {
-      "word": "डसना",
-      "count": 1
-    },
-    {
-      "word": "तन्हाई",
-      "count": 1
-    },
-    {
-      "word": "दास्ताँ",
-      "count": 1
-    },
-    {
-      "word": "देखना",
-      "count": 1
+      "word": "गुज़ारिश",
+      "normalized": "गुजारिश",
+      "pos": "名詞（女）",
+      "meaning_ja": "願い・懇願",
+      "importance": 4,
+      "status": "active",
+      "source": "vocab_candidates"
     },
     {
       "word": "धड़कन",
-      "count": 1
+      "normalized": "धड़कन",
+      "pos": "名詞（女）",
+      "meaning_ja": "鼓動",
+      "importance": 4,
+      "status": "active",
+      "source": "vocab_candidates"
     },
     {
-      "word": "पास",
-      "count": 1
-    },
-    {
-      "word": "प्यास",
-      "count": 1
+      "word": "दास्ताँ",
+      "normalized": "दास्तां",
+      "pos": "名詞（女）",
+      "meaning_ja": "物語",
+      "importance": 3,
+      "status": "active",
+      "source": "vocab_candidates"
     },
     {
       "word": "बढ़ना",
-      "count": 1
-    },
-    {
-      "word": "बुझना",
-      "count": 1
-    },
-    {
-      "word": "बेचैनी",
-      "count": 1
-    },
-    {
-      "word": "रास",
-      "count": 1
-    },
-    {
-      "word": "लौ",
-      "count": 1
-    },
-    {
-      "word": "हाँ",
-      "count": 1
-    },
-    {
-      "word": "हाल",
-      "count": 1
+      "normalized": "बढ़ना",
+      "pos": "自動詞",
+      "meaning_ja": "増える・高まる",
+      "importance": 2,
+      "status": "active",
+      "source": "vocab_candidates"
     }
   ]
 }

@@ -1,0 +1,184 @@
+{
+  "id": "bolly_018",
+  "schema_version": 2,
+
+  "title": "Badtameez Dil",
+  "film": "Yeh Jawaani Hai Deewani",
+  "year": 2013,
+
+  "singer": ["Benny Dayal", "Shefali Alvares"],
+  "lyricist": ["Amitabh Bhattacharya"],
+  "composer": ["Pritam"],
+
+  "notes": ["ランビール"],
+  "tags": ["恋愛", "ダンス", "パーティー"],
+  "emotion": "playful",
+  "register": "colloquial",
+
+  "key_phrase": "बदतमीज़ दिल, बदतमीज़ दिल, बदतमीज़ दिल माने ना, माने ना",
+
+  "expressions": [
+    {
+      "text": "बदतमीज़ दिल",
+      "normalized": "बदतमीज दिल",
+      "meaning_ja": "やんちゃで言うことを聞かない心",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "माने ना",
+      "normalized": "माने ना",
+      "meaning_ja": "言うことを聞かない、承知しない",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "ज़िद पकड़ के खड़ा है",
+      "normalized": "जिद पकड़ के खड़ा है",
+      "meaning_ja": "意地を張って突っ立っている、強情に構えている",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "फर्क पहचाने ना",
+      "normalized": "फर्क पहचाने ना",
+      "meaning_ja": "違いがわからない、善し悪しの区別がつかない",
+      "type": "expression",
+      "importance": 3,
+      "status": "active"
+    }
+  ],
+
+  "vocab_candidates": [
+    {
+      "word": "दिल",
+      "normalized": "दिल",
+      "pos": "名詞（男）",
+      "meaning_ja": "心、心臓",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "बदतमीज़",
+      "normalized": "बदतमीज",
+      "pos": "形容詞",
+      "meaning_ja": "無作法な、生意気な、行儀の悪い",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "ज़िद",
+      "normalized": "जिद",
+      "pos": "名詞（女）",
+      "meaning_ja": "意地、強情",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "हाल",
+      "normalized": "हाल",
+      "pos": "名詞（男）",
+      "meaning_ja": "状態、様子",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "सवाल",
+      "normalized": "सवाल",
+      "pos": "名詞（男）",
+      "meaning_ja": "質問、問題",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "कमाल",
+      "normalized": "कमाल",
+      "pos": "名詞（男）",
+      "meaning_ja": "驚くべきこと、すごさ",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "भूत",
+      "normalized": "भूत",
+      "pos": "名詞（男）",
+      "meaning_ja": "幽霊、取り憑いたもの",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "फर्क",
+      "normalized": "फर्क",
+      "pos": "名詞（男）",
+      "meaning_ja": "違い、差",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "शरम",
+      "normalized": "शरम",
+      "pos": "名詞（女）",
+      "meaning_ja": "恥、 शर्म",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "फिकर",
+      "normalized": "फिकर",
+      "pos": "名詞（女）",
+      "meaning_ja": "心配、気がかり",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "धक्का",
+      "normalized": "धक्का",
+      "pos": "名詞（男）",
+      "meaning_ja": "押し、突き飛ばし",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "चक्कर",
+      "normalized": "चक्कर",
+      "pos": "名詞（男）",
+      "meaning_ja": "回転、ぐるぐる回ること",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+  "word": "दिल",
+  "normalized": "दिल",
+  "pos": "名詞（男）",
+  "meaning_ja": "心",
+  "importance": 4,
+  "status": "active"
+},
+{
+  "word": "हाल",
+  "normalized": "हाल",
+  "pos": "名詞（男）",
+  "meaning_ja": "状態",
+  "importance": 4,
+  "status": "active"
+},
+{
+  "word": "फिकर",
+  "normalized": "फिकर",
+  "pos": "名詞（女）",
+  "meaning_ja": "心配",
+  "importance": 4,
+  "status": "active"
+}
+  ],
+
+  "meta": {
+    "copyright_safe": true,
+    "lyrics_included": false,
+    "source_type": "manual_curated",
+    "dedupe_ready": true
+  }
+}
