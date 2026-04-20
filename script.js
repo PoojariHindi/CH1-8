@@ -326,17 +326,11 @@ function renderQuiz(quiz) {
       ? `<div class="quiz-subhint" style="text-align:center; font-size:14px; opacity:0.85; margin:6px 0 10px;">${escapeHtml(quiz.extra.translation)}</div>`
       : "";
 
-  const sourceTextBlock =
-    quiz.type === "fill_blank" && quiz.extra && quiz.extra.sourceText
-      ? `<div class="quiz-subhint" style="text-align:center; font-size:13px; opacity:0.65; margin:4px 0 10px;">元表現: ${escapeHtml(quiz.extra.sourceText)}</div>`
-      : "";
-
   quizArea.innerHTML = `
     <div class="quiz-card">
       ${metaRow}
       <h2 class="quiz-question">${escapeHtml(quiz.question)}</h2>
       ${translationBlock}
-      ${sourceTextBlock}
       <div class="quiz-choices">
         ${quiz.choices
           .map(
@@ -363,7 +357,6 @@ function renderQuiz(quiz) {
     .getElementById("nextQuestionBtn")
     .addEventListener("click", startQuiz);
 }
-
 function addWrongAnswer(entry) {
   const mode = getMode();
 
