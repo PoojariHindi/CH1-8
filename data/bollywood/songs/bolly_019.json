@@ -1,0 +1,206 @@
+{
+  "id": "bolly_019",
+  "schema_version": 2,
+
+  "title": "Main Agar Kahoon",
+  "film": "Om Shanti Om",
+  "year": 2007,
+
+  "singer": [
+    "Sonu Nigam",
+    "Shreya Ghosal"
+  ],
+  "lyricist": [
+    "Javed Akhtar"
+  ],
+  "composer": [
+    "Vishal Dadlani",
+    "Shekhar Ravjiani"
+  ],
+
+  "notes": [
+    "シャールク"
+  ],
+
+  "tags": [
+    "恋愛"
+  ],
+
+  "emotion": "love",
+  "register": "poetic",
+
+  "key_phrase": "मैं अगर कहूँ, हमसफ़र मेरी अप्सरा हो तुम, या कोई परी",
+
+  "expressions": [
+    {
+      "text": "तुमको पाया है तो जैसे खोया हूँ",
+      "normalized": "तुमको पाया है तो जैसे खोया हूं",
+      "meaning_ja": "君を得たのに、まるで我を失ったようだ",
+      "type": "metaphor",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "लफ़्ज़ ही नहीं",
+      "normalized": "लफ्ज ही नहीं",
+      "meaning_ja": "言葉がまったくない",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "तुम हुए मेहरबाँ",
+      "normalized": "तुम हुए मेहरबां",
+      "meaning_ja": "君が優しくしてくれた",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "एक है कारवाँ",
+      "normalized": "एक है कारवां",
+      "meaning_ja": "道連れはひとつ、行く道を共にしている",
+      "type": "metaphor",
+      "importance": 3,
+      "status": "active"
+    }
+  ],
+
+  "vocab_candidates": [
+    {
+      "word": "ज़बाँ",
+      "normalized": "जबां",
+      "pos": "名詞（女）",
+      "meaning_ja": "言語、ことば",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "लफ़्ज़",
+      "normalized": "लफ्ज",
+      "pos": "名詞（男）",
+      "meaning_ja": "語、言葉",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "हसीं",
+      "normalized": "हसीं",
+      "pos": "形容詞",
+      "meaning_ja": "美しい",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "क़ायनात",
+      "normalized": "कायनात",
+      "pos": "名詞（女）",
+      "meaning_ja": "宇宙、世界",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "तारीफ़",
+      "normalized": "तारीफ",
+      "pos": "名詞（女）",
+      "meaning_ja": "称賛、褒め言葉",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "अदायें",
+      "normalized": "अदाएं",
+      "pos": "名詞（女・複）",
+      "meaning_ja": "しぐさ、魅力ある身のこなし",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "जुल्फ़",
+      "normalized": "जुल्फ",
+      "pos": "名詞（女）",
+      "meaning_ja": "髪、髪房",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "आँचल",
+      "normalized": "आंचल",
+      "pos": "名詞（男）",
+      "meaning_ja": "（サリーやドゥパッタの）端、裾",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "चाँदनी",
+      "normalized": "चांदनी",
+      "pos": "名詞（女）",
+      "meaning_ja": "月光",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "दिलकशी",
+      "normalized": "दिलकशी",
+      "pos": "名詞（女）",
+      "meaning_ja": "心を惹く美しさ、魅力",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "मेहरबाँ",
+      "normalized": "मेहरबां",
+      "pos": "形容詞",
+      "meaning_ja": "親切な、優しい",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "कारवाँ",
+      "normalized": "कारवां",
+      "pos": "名詞（男）",
+      "meaning_ja": "隊商、旅の一行",
+      "importance": 3,
+      "status": "active"
+    },
+{
+  "word": "हमसफ़र",
+  "normalized": "हमसफर",
+  "pos": "名詞（男）",
+  "meaning_ja": "旅の道連れ、人生の伴侶",
+  "importance": 5,
+  "status": "active"
+},
+{
+  "word": "अप्सरा",
+  "normalized": "अप्सरा",
+  "pos": "名詞（女）",
+  "meaning_ja": "天女、妖精のように美しい女性",
+  "importance": 4,
+  "status": "active"
+},
+{
+  "word": "परी",
+  "normalized": "परी",
+  "pos": "名詞（女）",
+  "meaning_ja": "妖精、天使のような存在",
+  "importance": 4,
+  "status": "active"
+},
+{
+  "word": "दास्ताँ",
+  "normalized": "दास्तां",
+  "pos": "名詞（女）",
+  "meaning_ja": "物語、叙事詩的な話",
+  "importance": 5,
+  "status": "active"
+}
+  ],
+
+  "meta": {
+    "copyright_safe": true,
+    "lyrics_included": false,
+    "source_type": "manual_curated",
+    "dedupe_ready": true
+  }
+}

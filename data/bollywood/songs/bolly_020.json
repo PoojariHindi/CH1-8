@@ -1,0 +1,214 @@
+{
+  "id": "bolly_020",
+  "schema_version": 2,
+
+  "title": "Tujh Mein Rab Dikhta Hai",
+  "film": "Rab Ne Bana Di Jodi",
+  "year": 2008,
+
+  "singer": [
+    "Roop Kumar Rathod"
+  ],
+  "lyricist": [
+    "Jaideep Sahni"
+  ],
+  "composer": [
+    "Salim-Sulaiman"
+  ],
+
+  "notes": [
+    "シャールク"
+  ],
+
+  "tags": [
+    "恋愛",
+    "神",
+    "運命"
+  ],
+
+  "emotion": "devotional_love",
+  "register": "poetic",
+
+  "key_phrase": "तुझमें रब दिखता है, यारा मैं क्या करूँ",
+
+  "expressions": [
+    {
+      "text": "तुझमें रब दिखता है",
+      "normalized": "तुझमें रब दिखता है",
+      "meaning_ja": "君の中に神が見える",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "यारा मैं क्या करूँ",
+      "normalized": "यारा मैं क्या करूं",
+      "meaning_ja": "友よ、私はどうしたらいいのか",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "सर झुकता है",
+      "normalized": "सर झुकता है",
+      "meaning_ja": "頭が下がる、ひれ伏す",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "नज़रों से छू लिया",
+      "normalized": "नजरों से छू लिया",
+      "meaning_ja": "視線で触れた",
+      "type": "metaphor",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "बिन मांगे जहाँ पा लिया",
+      "normalized": "बिन मांगे जहां पा लिया",
+      "meaning_ja": "求めずして世界を得た",
+      "type": "metaphor",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "रब ने बना दी जोड़ी",
+      "normalized": "रब ने बना दी जोड़ी",
+      "meaning_ja": "神が二人を結び合わせた",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    }
+  ],
+
+  "vocab_candidates": [
+    {
+      "word": "रब",
+      "normalized": "रब",
+      "pos": "名詞（男）",
+      "meaning_ja": "神（口語・ウルドゥー系）",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "जन्नत",
+      "normalized": "जन्नत",
+      "pos": "名詞（女）",
+      "meaning_ja": "天国",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "जूनून",
+      "normalized": "जुनून",
+      "pos": "名詞（男）",
+      "meaning_ja": "情熱、熱狂",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "मन्नत",
+      "normalized": "मन्नत",
+      "pos": "名詞（女）",
+      "meaning_ja": "願掛け、祈願",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "रूह",
+      "normalized": "रूह",
+      "pos": "名詞（女）",
+      "meaning_ja": "魂",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "सुकून",
+      "normalized": "सुकून",
+      "pos": "名詞（男）",
+      "meaning_ja": "安らぎ",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "अंखियाँ",
+      "normalized": "अंखियां",
+      "pos": "名詞（女・複）",
+      "meaning_ja": "目、瞳",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "ठंडक",
+      "normalized": "ठंडक",
+      "pos": "名詞（女）",
+      "meaning_ja": "涼しさ、心地よい安らぎ",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "दस्तक",
+      "normalized": "दस्तक",
+      "pos": "名詞（女）",
+      "meaning_ja": "ノック、心に届く合図",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "सजदा",
+      "normalized": "सजदा",
+      "pos": "名詞（男）",
+      "meaning_ja": "礼拝、ひれ伏すこと",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "दूरी",
+      "normalized": "दूरी",
+      "pos": "名詞（女）",
+      "meaning_ja": "距離、隔たり",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "मजबूरी",
+      "normalized": "मजबूरी",
+      "pos": "名詞（女）",
+      "meaning_ja": "どうしようもなさ、やむを得ない事情",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "रौनक",
+      "normalized": "रौनक",
+      "pos": "名詞（女）",
+      "meaning_ja": "輝き、華やかさ",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "बरकत",
+      "normalized": "बरकत",
+      "pos": "名詞（女）",
+      "meaning_ja": "祝福、恵み",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "इबादत",
+      "normalized": "इबादत",
+      "pos": "名詞（女）",
+      "meaning_ja": "祈り、信仰行為",
+      "importance": 4,
+      "status": "active"
+    }
+  ],
+
+  "meta": {
+    "copyright_safe": true,
+    "lyrics_included": false,
+    "source_type": "manual_curated",
+    "dedupe_ready": true
+  }
+}

@@ -1,11 +1,11 @@
 {
   "topic": "bollywood",
-  "generatedAt": "2026-04-20T06:36:08.791Z",
+  "generatedAt": "2026-04-27T23:38:45.747Z",
   "counts": {
-    "vocab": 183,
-    "expressions": 72,
-    "fillBlanks": 72,
-    "songs": 18
+    "vocab": 203,
+    "expressions": 82,
+    "fillBlanks": 82,
+    "songs": 20
   },
   "vocab": [
     {
@@ -385,7 +385,7 @@
       "key": "जन्नत",
       "category": "",
       "difficulty": 1,
-      "frequency": 1,
+      "frequency": 2,
       "importance": 4,
       "layer": "B",
       "tags": [
@@ -393,7 +393,8 @@
       ],
       "normalized": "जन्नत",
       "sourceSongIds": [
-        "bolly_001"
+        "bolly_001",
+        "bolly_020"
       ]
     },
     {
@@ -607,18 +608,21 @@
     },
     {
       "word": "दास्ताँ",
-      "meaning": "物語・逸話",
+      "meaning": "物語、叙事詩的な話",
       "pos": "名詞（女）",
       "key": "दास्ताँ",
       "category": "",
       "difficulty": 1,
-      "frequency": 1,
-      "importance": 3,
+      "frequency": 4,
+      "importance": 4,
       "layer": "B",
       "tags": [],
-      "normalized": "दास्ताँ",
+      "normalized": "दास्तां",
       "sourceSongIds": [
-        "bolly_013"
+        "bolly_006",
+        "bolly_012",
+        "bolly_013",
+        "bolly_019"
       ]
     },
     {
@@ -652,7 +656,7 @@
       "key": "दूरी",
       "category": "",
       "difficulty": 1,
-      "frequency": 2,
+      "frequency": 3,
       "importance": 3,
       "layer": "B",
       "tags": [
@@ -661,7 +665,8 @@
       "normalized": "दूरी",
       "sourceSongIds": [
         "bolly_003",
-        "bolly_007"
+        "bolly_007",
+        "bolly_020"
       ]
     },
     {
@@ -1156,13 +1161,14 @@
       "key": "रब",
       "category": "",
       "difficulty": 1,
-      "frequency": 1,
-      "importance": 3,
+      "frequency": 2,
+      "importance": 4,
       "layer": "B",
       "tags": [],
       "normalized": "रब",
       "sourceSongIds": [
-        "bolly_011"
+        "bolly_011",
+        "bolly_020"
       ]
     },
     {
@@ -1410,13 +1416,13 @@
     },
     {
       "word": "हमसफ़र",
-      "meaning": "人生の伴侶",
+      "meaning": "旅の道連れ、人生の伴侶",
       "pos": "名詞（男）",
       "key": "हमसफ़र",
       "category": "",
       "difficulty": 1,
-      "frequency": 3,
-      "importance": 2,
+      "frequency": 4,
+      "importance": 4,
       "layer": "B",
       "tags": [
         "関係"
@@ -1425,7 +1431,8 @@
       "sourceSongIds": [
         "bolly_001",
         "bolly_006",
-        "bolly_009"
+        "bolly_009",
+        "bolly_019"
       ]
     },
     {
@@ -1568,7 +1575,7 @@
       "key": "रौनक",
       "category": "atmosphere",
       "difficulty": 3,
-      "frequency": 1,
+      "frequency": 2,
       "importance": 3,
       "layer": "B",
       "tags": [
@@ -1577,7 +1584,8 @@
       ],
       "normalized": "रौनक",
       "sourceSongIds": [
-        "bolly_015"
+        "bolly_015",
+        "bolly_020"
       ]
     },
     {
@@ -1682,14 +1690,15 @@
       "key": "रूह",
       "category": "",
       "difficulty": 1,
-      "frequency": 2,
-      "importance": 3,
+      "frequency": 3,
+      "importance": 4,
       "layer": "B",
       "tags": [],
       "normalized": "रूह",
       "sourceSongIds": [
         "bolly_001",
-        "bolly_007"
+        "bolly_007",
+        "bolly_020"
       ]
     },
     {
@@ -2566,13 +2575,14 @@
       "key": "मेहरबाँ",
       "category": "",
       "difficulty": 1,
-      "frequency": 1,
-      "importance": 3,
+      "frequency": 2,
+      "importance": 4,
       "layer": "B",
       "tags": [],
       "normalized": "मेहरबां",
       "sourceSongIds": [
-        "bolly_012"
+        "bolly_012",
+        "bolly_019"
       ]
     },
     {
@@ -2582,13 +2592,14 @@
       "key": "हसीं",
       "category": "",
       "difficulty": 1,
-      "frequency": 1,
-      "importance": 3,
+      "frequency": 2,
+      "importance": 4,
       "layer": "B",
       "tags": [],
       "normalized": "हसीं",
       "sourceSongIds": [
-        "bolly_012"
+        "bolly_012",
+        "bolly_019"
       ]
     },
     {
@@ -2678,13 +2689,14 @@
       "key": "सुकूँ",
       "category": "",
       "difficulty": 1,
-      "frequency": 1,
+      "frequency": 2,
       "importance": 4,
       "layer": "B",
       "tags": [],
       "normalized": "सुकूं",
       "sourceSongIds": [
-        "bolly_014"
+        "bolly_014",
+        "bolly_020"
       ]
     },
     {
@@ -2710,14 +2722,15 @@
       "key": "जुनूँ",
       "category": "",
       "difficulty": 1,
-      "frequency": 2,
+      "frequency": 3,
       "importance": 4,
       "layer": "B",
       "tags": [],
       "normalized": "जुनूं",
       "sourceSongIds": [
         "bolly_014",
-        "bolly_016"
+        "bolly_016",
+        "bolly_020"
       ]
     },
     {
@@ -3137,6 +3150,326 @@
       "tags": [],
       "normalized": "चक्कर",
       "sourceSongIds": []
+    },
+    {
+      "word": "ज़बाँ",
+      "meaning": "言語、ことば",
+      "pos": "名詞（女）",
+      "key": "ज़बाँ",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 4,
+      "layer": "B",
+      "tags": [],
+      "normalized": "जबां",
+      "sourceSongIds": [
+        "bolly_019"
+      ]
+    },
+    {
+      "word": "लफ़्ज़",
+      "meaning": "語、言葉",
+      "pos": "名詞（男）",
+      "key": "लफ़्ज़",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 4,
+      "layer": "B",
+      "tags": [],
+      "normalized": "लफ्ज",
+      "sourceSongIds": [
+        "bolly_019"
+      ]
+    },
+    {
+      "word": "क़ायनात",
+      "meaning": "宇宙、世界",
+      "pos": "名詞（女）",
+      "key": "क़ायनात",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 4,
+      "layer": "B",
+      "tags": [],
+      "normalized": "कायनात",
+      "sourceSongIds": [
+        "bolly_019"
+      ]
+    },
+    {
+      "word": "तारीफ़",
+      "meaning": "称賛、褒め言葉",
+      "pos": "名詞（女）",
+      "key": "तारीफ़",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 4,
+      "layer": "B",
+      "tags": [],
+      "normalized": "तारीफ",
+      "sourceSongIds": [
+        "bolly_019"
+      ]
+    },
+    {
+      "word": "अदायें",
+      "meaning": "しぐさ、魅力ある身のこなし",
+      "pos": "名詞（女・複）",
+      "key": "अदायें",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": [],
+      "normalized": "अदाएं",
+      "sourceSongIds": [
+        "bolly_019"
+      ]
+    },
+    {
+      "word": "जुल्फ़",
+      "meaning": "髪、髪房",
+      "pos": "名詞（女）",
+      "key": "जुल्फ़",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": [],
+      "normalized": "जुल्फ",
+      "sourceSongIds": [
+        "bolly_019"
+      ]
+    },
+    {
+      "word": "आँचल",
+      "meaning": "（サリーやドゥパッタの）端、裾",
+      "pos": "名詞（男）",
+      "key": "आँचल",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": [],
+      "normalized": "आंचल",
+      "sourceSongIds": [
+        "bolly_019"
+      ]
+    },
+    {
+      "word": "चाँदनी",
+      "meaning": "月光",
+      "pos": "名詞（女）",
+      "key": "चाँदनी",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 4,
+      "layer": "B",
+      "tags": [],
+      "normalized": "चांदनी",
+      "sourceSongIds": [
+        "bolly_019"
+      ]
+    },
+    {
+      "word": "दिलकशी",
+      "meaning": "心を惹く美しさ、魅力",
+      "pos": "名詞（女）",
+      "key": "दिलकशी",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 4,
+      "layer": "B",
+      "tags": [],
+      "normalized": "दिलकशी",
+      "sourceSongIds": [
+        "bolly_019"
+      ]
+    },
+    {
+      "word": "कारवाँ",
+      "meaning": "隊商、旅の一行",
+      "pos": "名詞（男）",
+      "key": "कारवाँ",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": [],
+      "normalized": "कारवां",
+      "sourceSongIds": [
+        "bolly_019"
+      ]
+    },
+    {
+      "word": "अप्सरा",
+      "meaning": "天女、妖精のように美しい女性",
+      "pos": "名詞（女）",
+      "key": "अप्सरा",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 4,
+      "layer": "B",
+      "tags": [],
+      "normalized": "अप्सरा",
+      "sourceSongIds": [
+        "bolly_019"
+      ]
+    },
+    {
+      "word": "परी",
+      "meaning": "妖精、天使のような存在",
+      "pos": "名詞（女）",
+      "key": "परी",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 4,
+      "layer": "B",
+      "tags": [],
+      "normalized": "परी",
+      "sourceSongIds": [
+        "bolly_019"
+      ]
+    },
+    {
+      "word": "मन्नत",
+      "meaning": "願掛け、祈願",
+      "pos": "名詞（女）",
+      "key": "मन्नत",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 4,
+      "layer": "B",
+      "tags": [],
+      "normalized": "मन्नत",
+      "sourceSongIds": [
+        "bolly_020"
+      ]
+    },
+    {
+      "word": "अंखियाँ",
+      "meaning": "目、瞳",
+      "pos": "名詞（女・複）",
+      "key": "अंखियाँ",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": [],
+      "normalized": "अंखियां",
+      "sourceSongIds": [
+        "bolly_020"
+      ]
+    },
+    {
+      "word": "ठंडक",
+      "meaning": "涼しさ、心地よい安らぎ",
+      "pos": "名詞（女）",
+      "key": "ठंडक",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": [],
+      "normalized": "ठंडक",
+      "sourceSongIds": [
+        "bolly_020"
+      ]
+    },
+    {
+      "word": "दस्तक",
+      "meaning": "ノック、心に届く合図",
+      "pos": "名詞（女）",
+      "key": "दस्तक",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 4,
+      "layer": "B",
+      "tags": [],
+      "normalized": "दस्तक",
+      "sourceSongIds": [
+        "bolly_020"
+      ]
+    },
+    {
+      "word": "सजदा",
+      "meaning": "礼拝、ひれ伏すこと",
+      "pos": "名詞（男）",
+      "key": "सजदा",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 4,
+      "layer": "B",
+      "tags": [],
+      "normalized": "सजदा",
+      "sourceSongIds": [
+        "bolly_020"
+      ]
+    },
+    {
+      "word": "मजबूरी",
+      "meaning": "どうしようもなさ、やむを得ない事情",
+      "pos": "名詞（女）",
+      "key": "मजबूरी",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 3,
+      "layer": "B",
+      "tags": [],
+      "normalized": "मजबूरी",
+      "sourceSongIds": [
+        "bolly_020"
+      ]
+    },
+    {
+      "word": "बरकत",
+      "meaning": "祝福、恵み",
+      "pos": "名詞（女）",
+      "key": "बरकत",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 4,
+      "layer": "B",
+      "tags": [],
+      "normalized": "बरकत",
+      "sourceSongIds": [
+        "bolly_020"
+      ]
+    },
+    {
+      "word": "इबादत",
+      "meaning": "祈り、信仰行為",
+      "pos": "名詞（女）",
+      "key": "इबादत",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "importance": 4,
+      "layer": "B",
+      "tags": [],
+      "normalized": "इबादत",
+      "sourceSongIds": [
+        "bolly_020"
+      ]
     }
   ],
   "expressions": [
@@ -4216,6 +4549,156 @@
       "normalized": "फर्क पहचाने ना",
       "meaning": "違いがわからない、善し悪しの区別がつかない",
       "importance": 3,
+      "difficulty": 1,
+      "tags": [],
+      "status": "active"
+    },
+    {
+      "id": "bolly_019::expr::1",
+      "type": "expression",
+      "songId": "bolly_019",
+      "songTitle": "Main Agar Kahoon",
+      "film": "Om Shanti Om",
+      "year": 2007,
+      "text": "तुमको पाया है तो जैसे खोया हूँ",
+      "normalized": "तुमको पाया है तो जैसे खोया हूं",
+      "meaning": "君を得たのに、まるで我を失ったようだ",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": [],
+      "status": "active"
+    },
+    {
+      "id": "bolly_019::expr::2",
+      "type": "expression",
+      "songId": "bolly_019",
+      "songTitle": "Main Agar Kahoon",
+      "film": "Om Shanti Om",
+      "year": 2007,
+      "text": "लफ़्ज़ ही नहीं",
+      "normalized": "लफ्ज ही नहीं",
+      "meaning": "言葉がまったくない",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": [],
+      "status": "active"
+    },
+    {
+      "id": "bolly_019::expr::3",
+      "type": "expression",
+      "songId": "bolly_019",
+      "songTitle": "Main Agar Kahoon",
+      "film": "Om Shanti Om",
+      "year": 2007,
+      "text": "तुम हुए मेहरबाँ",
+      "normalized": "तुम हुए मेहरबां",
+      "meaning": "君が優しくしてくれた",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": [],
+      "status": "active"
+    },
+    {
+      "id": "bolly_019::expr::4",
+      "type": "expression",
+      "songId": "bolly_019",
+      "songTitle": "Main Agar Kahoon",
+      "film": "Om Shanti Om",
+      "year": 2007,
+      "text": "एक है कारवाँ",
+      "normalized": "एक है कारवां",
+      "meaning": "道連れはひとつ、行く道を共にしている",
+      "importance": 3,
+      "difficulty": 1,
+      "tags": [],
+      "status": "active"
+    },
+    {
+      "id": "bolly_020::expr::1",
+      "type": "expression",
+      "songId": "bolly_020",
+      "songTitle": "Tujh Mein Rab Dikhta Hai",
+      "film": "Rab Ne Bana Di Jodi",
+      "year": 2008,
+      "text": "तुझमें रब दिखता है",
+      "normalized": "तुझमें रब दिखता है",
+      "meaning": "君の中に神が見える",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": [],
+      "status": "active"
+    },
+    {
+      "id": "bolly_020::expr::2",
+      "type": "expression",
+      "songId": "bolly_020",
+      "songTitle": "Tujh Mein Rab Dikhta Hai",
+      "film": "Rab Ne Bana Di Jodi",
+      "year": 2008,
+      "text": "यारा मैं क्या करूँ",
+      "normalized": "यारा मैं क्या करूं",
+      "meaning": "友よ、私はどうしたらいいのか",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": [],
+      "status": "active"
+    },
+    {
+      "id": "bolly_020::expr::3",
+      "type": "expression",
+      "songId": "bolly_020",
+      "songTitle": "Tujh Mein Rab Dikhta Hai",
+      "film": "Rab Ne Bana Di Jodi",
+      "year": 2008,
+      "text": "सर झुकता है",
+      "normalized": "सर झुकता है",
+      "meaning": "頭が下がる、ひれ伏す",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": [],
+      "status": "active"
+    },
+    {
+      "id": "bolly_020::expr::4",
+      "type": "expression",
+      "songId": "bolly_020",
+      "songTitle": "Tujh Mein Rab Dikhta Hai",
+      "film": "Rab Ne Bana Di Jodi",
+      "year": 2008,
+      "text": "नज़रों से छू लिया",
+      "normalized": "नजरों से छू लिया",
+      "meaning": "視線で触れた",
+      "importance": 3,
+      "difficulty": 1,
+      "tags": [],
+      "status": "active"
+    },
+    {
+      "id": "bolly_020::expr::5",
+      "type": "expression",
+      "songId": "bolly_020",
+      "songTitle": "Tujh Mein Rab Dikhta Hai",
+      "film": "Rab Ne Bana Di Jodi",
+      "year": 2008,
+      "text": "बिन मांगे जहाँ पा लिया",
+      "normalized": "बिन मांगे जहां पा लिया",
+      "meaning": "求めずして世界を得た",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": [],
+      "status": "active"
+    },
+    {
+      "id": "bolly_020::expr::6",
+      "type": "expression",
+      "songId": "bolly_020",
+      "songTitle": "Tujh Mein Rab Dikhta Hai",
+      "film": "Rab Ne Bana Di Jodi",
+      "year": 2008,
+      "text": "रब ने बना दी जोड़ी",
+      "normalized": "रब ने बना दी जोड़ी",
+      "meaning": "神が二人を結び合わせた",
+      "importance": 4,
       "difficulty": 1,
       "tags": [],
       "status": "active"
@@ -5299,6 +5782,156 @@
       "answer": "फर्क",
       "meaning": "違いがわからない、善し悪しの区別がつかない",
       "importance": 3,
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "id": "bolly_019::expr::1::blank::1",
+      "type": "fill_blank",
+      "songId": "bolly_019",
+      "songTitle": "Main Agar Kahoon",
+      "film": "Om Shanti Om",
+      "year": 2007,
+      "sourceText": "तुमको पाया है तो जैसे खोया हूँ",
+      "prompt": "_____ पाया है तो जैसे खोया हूँ",
+      "answer": "तुमको",
+      "meaning": "君を得たのに、まるで我を失ったようだ",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "id": "bolly_019::expr::2::blank::2",
+      "type": "fill_blank",
+      "songId": "bolly_019",
+      "songTitle": "Main Agar Kahoon",
+      "film": "Om Shanti Om",
+      "year": 2007,
+      "sourceText": "लफ़्ज़ ही नहीं",
+      "prompt": "_____ ही नहीं",
+      "answer": "लफ़्ज़",
+      "meaning": "言葉がまったくない",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "id": "bolly_019::expr::3::blank::3",
+      "type": "fill_blank",
+      "songId": "bolly_019",
+      "songTitle": "Main Agar Kahoon",
+      "film": "Om Shanti Om",
+      "year": 2007,
+      "sourceText": "तुम हुए मेहरबाँ",
+      "prompt": "_____ हुए मेहरबाँ",
+      "answer": "तुम",
+      "meaning": "君が優しくしてくれた",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "id": "bolly_019::expr::4::blank::4",
+      "type": "fill_blank",
+      "songId": "bolly_019",
+      "songTitle": "Main Agar Kahoon",
+      "film": "Om Shanti Om",
+      "year": 2007,
+      "sourceText": "एक है कारवाँ",
+      "prompt": "_____ है कारवाँ",
+      "answer": "एक",
+      "meaning": "道連れはひとつ、行く道を共にしている",
+      "importance": 3,
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "id": "bolly_020::expr::1::blank::1",
+      "type": "fill_blank",
+      "songId": "bolly_020",
+      "songTitle": "Tujh Mein Rab Dikhta Hai",
+      "film": "Rab Ne Bana Di Jodi",
+      "year": 2008,
+      "sourceText": "तुझमें रब दिखता है",
+      "prompt": "_____ रब दिखता है",
+      "answer": "तुझमें",
+      "meaning": "君の中に神が見える",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "id": "bolly_020::expr::2::blank::2",
+      "type": "fill_blank",
+      "songId": "bolly_020",
+      "songTitle": "Tujh Mein Rab Dikhta Hai",
+      "film": "Rab Ne Bana Di Jodi",
+      "year": 2008,
+      "sourceText": "यारा मैं क्या करूँ",
+      "prompt": "_____ मैं क्या करूँ",
+      "answer": "यारा",
+      "meaning": "友よ、私はどうしたらいいのか",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "id": "bolly_020::expr::3::blank::3",
+      "type": "fill_blank",
+      "songId": "bolly_020",
+      "songTitle": "Tujh Mein Rab Dikhta Hai",
+      "film": "Rab Ne Bana Di Jodi",
+      "year": 2008,
+      "sourceText": "सर झुकता है",
+      "prompt": "_____ झुकता है",
+      "answer": "सर",
+      "meaning": "頭が下がる、ひれ伏す",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "id": "bolly_020::expr::4::blank::4",
+      "type": "fill_blank",
+      "songId": "bolly_020",
+      "songTitle": "Tujh Mein Rab Dikhta Hai",
+      "film": "Rab Ne Bana Di Jodi",
+      "year": 2008,
+      "sourceText": "नज़रों से छू लिया",
+      "prompt": "_____ से छू लिया",
+      "answer": "नज़रों",
+      "meaning": "視線で触れた",
+      "importance": 3,
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "id": "bolly_020::expr::5::blank::5",
+      "type": "fill_blank",
+      "songId": "bolly_020",
+      "songTitle": "Tujh Mein Rab Dikhta Hai",
+      "film": "Rab Ne Bana Di Jodi",
+      "year": 2008,
+      "sourceText": "बिन मांगे जहाँ पा लिया",
+      "prompt": "_____ मांगे जहाँ पा लिया",
+      "answer": "बिन",
+      "meaning": "求めずして世界を得た",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "id": "bolly_020::expr::6::blank::6",
+      "type": "fill_blank",
+      "songId": "bolly_020",
+      "songTitle": "Tujh Mein Rab Dikhta Hai",
+      "film": "Rab Ne Bana Di Jodi",
+      "year": 2008,
+      "sourceText": "रब ने बना दी जोड़ी",
+      "prompt": "_____ ने बना दी जोड़ी",
+      "answer": "रब",
+      "meaning": "神が二人を結び合わせた",
+      "importance": 4,
       "difficulty": 1,
       "tags": []
     }

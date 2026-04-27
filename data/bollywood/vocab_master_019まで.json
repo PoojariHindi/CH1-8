@@ -360,8 +360,8 @@
       "bolly_001",
       "bolly_020"
     ],
-    "sourceCount": 2,
-    "frequency": 2,
+    "sourceCount": 1,
+    "frequency": 1,
     "tags": [
       "神秘"
     ],
@@ -569,7 +569,7 @@
     "normalized": "दास्तां",
     "pos": "名詞（女）",
     "meaning_ja": "物語、叙事詩的な話",
-    "importance": 4,
+    "importance": 5,
     "status": "active",
     "sourceSongIds": [
       "bolly_006",
@@ -617,8 +617,8 @@
       "bolly_007",
       "bolly_020"
     ],
-    "sourceCount": 3,
-    "frequency": 3,
+    "sourceCount": 2,
+    "frequency": 2,
     "tags": [
       "関係"
     ],
@@ -1099,8 +1099,8 @@
       "bolly_011",
       "bolly_020"
     ],
-    "sourceCount": 2,
-    "frequency": 2,
+    "sourceCount": 1,
+    "frequency": 1,
     "tags": [],
     "notes": ""
   },
@@ -1338,7 +1338,7 @@
     "normalized": "हमसफ़र",
     "pos": "名詞（男）",
     "meaning_ja": "旅の道連れ、人生の伴侶",
-    "importance": 4,
+    "importance": 5,
     "status": "active",
     "sourceSongIds": [
       "bolly_001",
@@ -1407,8 +1407,7 @@
     "difficulty": 2,
     "category": "emotion",
     "sourceCount": 1,
-    "frequency": 1,
-    "notes": ""
+    "frequency": 1
   },
   {
     "word": "नज़र",
@@ -1428,8 +1427,7 @@
     "difficulty": 2,
     "category": "perception",
     "sourceCount": 1,
-    "frequency": 1,
-    "notes": ""
+    "frequency": 1
   },
   {
     "word": "अलग",
@@ -1449,8 +1447,7 @@
     "difficulty": 1,
     "category": "description",
     "sourceCount": 1,
-    "frequency": 1,
-    "notes": ""
+    "frequency": 1
   },
   {
     "word": "जुदा",
@@ -1470,8 +1467,7 @@
     "difficulty": 2,
     "category": "description",
     "sourceCount": 1,
-    "frequency": 1,
-    "notes": ""
+    "frequency": 1
   },
   {
     "word": "अदा",
@@ -1491,8 +1487,7 @@
     "difficulty": 2,
     "category": "appearance",
     "sourceCount": 1,
-    "frequency": 1,
-    "notes": ""
+    "frequency": 1
   },
   {
     "word": "रौनक",
@@ -1512,9 +1507,8 @@
     "layer": "B",
     "difficulty": 3,
     "category": "atmosphere",
-    "sourceCount": 2,
-    "frequency": 2,
-    "notes": ""
+    "sourceCount": 1,
+    "frequency": 1
   },
   {
     "word": "शरारत",
@@ -1534,8 +1528,7 @@
     "difficulty": 2,
     "category": "personality",
     "sourceCount": 1,
-    "frequency": 1,
-    "notes": ""
+    "frequency": 1
   },
   {
     "word": "नज़ाकत",
@@ -1555,8 +1548,7 @@
     "difficulty": 3,
     "category": "appearance",
     "sourceCount": 1,
-    "frequency": 1,
-    "notes": ""
+    "frequency": 1
   },
   {
     "word": "शरमाना",
@@ -1576,8 +1568,7 @@
     "difficulty": 2,
     "category": "action",
     "sourceCount": 1,
-    "frequency": 1,
-    "notes": ""
+    "frequency": 1
   },
   {
     "word": "लहराना",
@@ -1597,8 +1588,7 @@
     "difficulty": 2,
     "category": "action",
     "sourceCount": 1,
-    "frequency": 1,
-    "notes": ""
+    "frequency": 1
   },
   {
     "word": "गहराई",
@@ -1618,8 +1608,7 @@
     "difficulty": 2,
     "category": "abstract",
     "sourceCount": 1,
-    "frequency": 1,
-    "notes": ""
+    "frequency": 1
   },
   {
     "word": "रूह",
@@ -1635,8 +1624,8 @@
     ],
     "tags": [],
     "notes": "",
-    "sourceCount": 3,
-    "frequency": 3
+    "sourceCount": 2,
+    "frequency": 2
   },
   {
     "word": "नज़ारा",
@@ -2567,13 +2556,12 @@
     "importance": 4,
     "status": "active",
     "sourceSongIds": [
-      "bolly_014",
-      "bolly_020"
+      "bolly_014"
     ],
     "tags": [],
     "notes": "",
-    "sourceCount": 2,
-    "frequency": 2
+    "sourceCount": 1,
+    "frequency": 1
   },
   {
     "word": "तरन्नुम",
@@ -2599,13 +2587,12 @@
     "status": "active",
     "sourceSongIds": [
       "bolly_014",
-      "bolly_016",
-      "bolly_020"
+      "bolly_016"
     ],
     "tags": [],
     "notes": "",
-    "sourceCount": 3,
-    "frequency": 3
+    "sourceCount": 2,
+    "frequency": 2
   },
   {
     "word": "फ़ुर्सत",
@@ -2893,9 +2880,7 @@
     ],
     "sourceSongIds": [],
     "sourceCount": 0,
-    "frequency": 0,
-    "tags": [],
-    "notes": ""
+    "frequency": 0
   },
   {
     "word": "ज़िद",
@@ -2909,9 +2894,7 @@
     ],
     "sourceSongIds": [],
     "sourceCount": 0,
-    "frequency": 0,
-    "tags": [],
-    "notes": ""
+    "frequency": 0
   },
   {
     "word": "सवाल",
@@ -2925,9 +2908,7 @@
     ],
     "sourceSongIds": [],
     "sourceCount": 0,
-    "frequency": 0,
-    "tags": [],
-    "notes": ""
+    "frequency": 0
   },
   {
     "word": "कमाल",
@@ -2941,9 +2922,7 @@
     ],
     "sourceSongIds": [],
     "sourceCount": 0,
-    "frequency": 0,
-    "tags": [],
-    "notes": ""
+    "frequency": 0
   },
   {
     "word": "भूत",
@@ -2957,9 +2936,7 @@
     ],
     "sourceSongIds": [],
     "sourceCount": 0,
-    "frequency": 0,
-    "tags": [],
-    "notes": ""
+    "frequency": 0
   },
   {
     "word": "फर्क",
@@ -2973,9 +2950,7 @@
     ],
     "sourceSongIds": [],
     "sourceCount": 0,
-    "frequency": 0,
-    "tags": [],
-    "notes": ""
+    "frequency": 0
   },
   {
     "word": "शरम",
@@ -2989,9 +2964,7 @@
     ],
     "sourceSongIds": [],
     "sourceCount": 0,
-    "frequency": 0,
-    "tags": [],
-    "notes": ""
+    "frequency": 0
   },
   {
     "word": "धक्का",
@@ -3005,9 +2978,7 @@
     ],
     "sourceSongIds": [],
     "sourceCount": 0,
-    "frequency": 0,
-    "tags": [],
-    "notes": ""
+    "frequency": 0
   },
   {
     "word": "चक्कर",
@@ -3021,9 +2992,7 @@
     ],
     "sourceSongIds": [],
     "sourceCount": 0,
-    "frequency": 0,
-    "tags": [],
-    "notes": ""
+    "frequency": 0
   },
   {
     "word": "ज़बाँ",
@@ -3199,126 +3168,6 @@
     "status": "active",
     "sourceSongIds": [
       "bolly_019"
-    ],
-    "sourceCount": 1,
-    "frequency": 1,
-    "tags": [],
-    "notes": ""
-  },
-  {
-    "word": "मन्नत",
-    "normalized": "मन्नत",
-    "pos": "名詞（女）",
-    "meaning_ja": "願掛け、祈願",
-    "importance": 4,
-    "status": "active",
-    "sourceSongIds": [
-      "bolly_020"
-    ],
-    "sourceCount": 1,
-    "frequency": 1,
-    "tags": [],
-    "notes": ""
-  },
-  {
-    "word": "अंखियाँ",
-    "normalized": "अंखियां",
-    "pos": "名詞（女・複）",
-    "meaning_ja": "目、瞳",
-    "importance": 3,
-    "status": "active",
-    "sourceSongIds": [
-      "bolly_020"
-    ],
-    "sourceCount": 1,
-    "frequency": 1,
-    "tags": [],
-    "notes": ""
-  },
-  {
-    "word": "ठंडक",
-    "normalized": "ठंडक",
-    "pos": "名詞（女）",
-    "meaning_ja": "涼しさ、心地よい安らぎ",
-    "importance": 3,
-    "status": "active",
-    "sourceSongIds": [
-      "bolly_020"
-    ],
-    "sourceCount": 1,
-    "frequency": 1,
-    "tags": [],
-    "notes": ""
-  },
-  {
-    "word": "दस्तक",
-    "normalized": "दस्तक",
-    "pos": "名詞（女）",
-    "meaning_ja": "ノック、心に届く合図",
-    "importance": 4,
-    "status": "active",
-    "sourceSongIds": [
-      "bolly_020"
-    ],
-    "sourceCount": 1,
-    "frequency": 1,
-    "tags": [],
-    "notes": ""
-  },
-  {
-    "word": "सजदा",
-    "normalized": "सजदा",
-    "pos": "名詞（男）",
-    "meaning_ja": "礼拝、ひれ伏すこと",
-    "importance": 4,
-    "status": "active",
-    "sourceSongIds": [
-      "bolly_020"
-    ],
-    "sourceCount": 1,
-    "frequency": 1,
-    "tags": [],
-    "notes": ""
-  },
-  {
-    "word": "मजबूरी",
-    "normalized": "मजबूरी",
-    "pos": "名詞（女）",
-    "meaning_ja": "どうしようもなさ、やむを得ない事情",
-    "importance": 3,
-    "status": "active",
-    "sourceSongIds": [
-      "bolly_020"
-    ],
-    "sourceCount": 1,
-    "frequency": 1,
-    "tags": [],
-    "notes": ""
-  },
-  {
-    "word": "बरकत",
-    "normalized": "बरकत",
-    "pos": "名詞（女）",
-    "meaning_ja": "祝福、恵み",
-    "importance": 4,
-    "status": "active",
-    "sourceSongIds": [
-      "bolly_020"
-    ],
-    "sourceCount": 1,
-    "frequency": 1,
-    "tags": [],
-    "notes": ""
-  },
-  {
-    "word": "इबादत",
-    "normalized": "इबादत",
-    "pos": "名詞（女）",
-    "meaning_ja": "祈り、信仰行為",
-    "importance": 4,
-    "status": "active",
-    "sourceSongIds": [
-      "bolly_020"
     ],
     "sourceCount": 1,
     "frequency": 1,
