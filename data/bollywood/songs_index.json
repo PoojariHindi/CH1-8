@@ -561,5 +561,148 @@
     ],
     "key_phrase": "रांझां दे यार बुल्लेया, सुन ले पुकार बुल्लेया",
     "status": "processed"
+  },
+  {
+    "id": "bolly_025",
+    "title": "Ae Dil Hai Mushkil",
+    "film": "Ae Dil Hai Mushkil",
+    "year": 2016,
+    "singer": [
+      "Arijit Singh"
+    ],
+    "lyricist": [
+      "Amitabh Bhattacharya"
+    ],
+    "composer": [
+      "Pritam"
+    ],
+    "notes": [
+      "ランビール"
+    ],
+    "tags": [
+      "恋愛",
+      "苦悩"
+    ],
+    "key_phrase": "तेरे बिना गुज़ारा, ऐ दिल है मुश्किल",
+    "status": "processed"
+  },
+  {
+    "id": "bolly_026",
+    "title": "Arziyan",
+    "film": "Delhi 6",
+    "year": 2009,
+    "singer": [
+      "Javed Ali",
+      "Kailash Kher"
+    ],
+    "lyricist": [
+      "Prasoon Joshi"
+    ],
+    "composer": [
+      "A.R. Rahman"
+    ],
+    "notes": [
+      "アビシェーク・バッチャン"
+    ],
+    "tags": [
+      "スーフィー的",
+      "神"
+    ],
+    "key_phrase": "अर्ज़ियाँ सारी मैं चेहरे पे लिख के लाया हूँ, मौला मौला मौला मेरे मौला",
+    "status": "processed"
+  },
+  {
+    "id": "bolly_027",
+    "title": "Saans Mein Teri",
+    "film": "Jab Tak Hai Jaan",
+    "year": 2012,
+    "singer": [
+      "Mohit Chauhan",
+      "Shreya Ghoshal"
+    ],
+    "lyricist": [
+      "Gulzar"
+    ],
+    "composer": [
+      "A.R. Rahman"
+    ],
+    "notes": [
+      "シャールク"
+    ],
+    "tags": [
+      "恋愛"
+    ],
+    "key_phrase": "सांस में तेरी सांस मिली तो मुझे सांस आयी",
+    "status": "processed"
+  },
+  {
+    "id": "bolly_028",
+    "title": "Munni Badnaam Hui",
+    "film": "Dabangg",
+    "year": 2010,
+    "singer": [
+      "Mamta Sharma",
+      "Aishwarya"
+    ],
+    "lyricist": [
+      "Lalit Pandit"
+    ],
+    "composer": [
+      "Lalit Pandit"
+    ],
+    "notes": [
+      "サルマン"
+    ],
+    "tags": [
+      "ダンス"
+    ],
+    "key_phrase": "मुन्नी बदनाम हुई, Darling तेरे लिए",
+    "status": "processed"
+  },
+  {
+    "id": "bolly_029",
+    "title": "Banno Rani",
+    "film": "Earth",
+    "year": 1998,
+    "singer": [
+      "Sadhana Sargam"
+    ],
+    "lyricist": [
+      "Javed Akhtar"
+    ],
+    "composer": [
+      "A.R. Rahman"
+    ],
+    "notes": [
+      "アーミル"
+    ],
+    "tags": [
+      "結婚"
+    ],
+    "key_phrase": "बन्नो रानी तुम्हे सियानी होना ही था",
+    "status": "processed"
+  },
+  {
+    "id": "bolly_030",
+    "title": "Kajra Re",
+    "film": "Bunty Aur Babli",
+    "year": 2005,
+    "singer": [
+      "Alisha Chinai"
+    ],
+    "lyricist": [
+      "Gulzar"
+    ],
+    "composer": [
+      "Shankar-Ehsaan-Loy"
+    ],
+    "notes": [
+      "アビシェーク・バッチャン"
+    ],
+    "tags": [
+      "出会い"
+    ],
+    "key_phrase": "कजरा रे कजरा रे तेरे कारे कारे नैना",
+    "status": "processed"
   }
 ]

@@ -1,0 +1,220 @@
+{
+  "id": "bolly_027",
+  "schema_version": 2,
+  "title": "Saans Mein Teri",
+  "film": "Jab Tak Hai Jaan",
+  "year": 2012,
+  "singer": [
+    "Mohit Chauhan",
+    "Shreya Ghoshal"
+  ],
+  "lyricist": [
+    "Gulzar"
+  ],
+  "composer": [
+    "A.R. Rahman"
+  ],
+  "notes": [
+    "シャールク"
+  ],
+  "tags": [
+    "恋愛"
+  ],
+  "emotion": "romantic_union",
+  "register": "poetic",
+  "key_phrase": "सांस में तेरी सांस मिली तो मुझे सांस आयी",
+  "expressions": [
+    {
+      "text": "सांस में तेरी सांस मिली",
+      "normalized": "सांस में तेरी सांस मिली",
+      "meaning_ja": "君の息が私の息に溶け合った",
+      "type": "metaphor",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "रूह ने छू ली जिस्म की खुश्बू",
+      "normalized": "रूह ने छू ली जिस्म की खुश्बू",
+      "meaning_ja": "魂が身体の香りに触れた",
+      "type": "metaphor",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "तेरे ख्याल में डूब के",
+      "normalized": "तेरे ख्याल में डूब के",
+      "meaning_ja": "君の想いに沈み込んで",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "रात तेरी बाहों में कटे",
+      "normalized": "रात तेरी बाहों में कटे",
+      "meaning_ja": "夜を君の腕の中で過ごす",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "मेरी कसम क्या खाई",
+      "normalized": "मेरी कसम क्या खाई",
+      "meaning_ja": "私に誓ったの？",
+      "type": "idiom",
+      "importance": 3,
+      "status": "active"
+    }
+  ],
+  "vocab_candidates": [
+    {
+      "word": "सांस",
+      "normalized": "सांस",
+      "pos": "名詞（女）",
+      "meaning_ja": "息、呼吸",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "रूह",
+      "normalized": "रूह",
+      "pos": "名詞（女）",
+      "meaning_ja": "魂",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "जिस्म",
+      "normalized": "जिस्म",
+      "pos": "名詞（男）",
+      "meaning_ja": "身体、肉体",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "ख़ुश्बू",
+      "normalized": "खुश्बू",
+      "pos": "名詞（女）",
+      "meaning_ja": "香り",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "होश",
+      "normalized": "होश",
+      "pos": "名詞（男）",
+      "meaning_ja": "意識、正気",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "संभालना",
+      "normalized": "संभालना",
+      "pos": "他動詞",
+      "meaning_ja": "保つ、支える、管理する",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "सीधी",
+      "normalized": "सीधा",
+      "pos": "形容詞",
+      "meaning_ja": "まっすぐな",
+      "importance": 2,
+      "status": "active"
+    },
+    {
+      "word": "राह",
+      "normalized": "राह",
+      "pos": "名詞（女）",
+      "meaning_ja": "道、進路",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "मुड़ना",
+      "normalized": "मुड़ना",
+      "pos": "自動詞",
+      "meaning_ja": "曲がる、向きを変える",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "ख्याल",
+      "normalized": "ख्याल",
+      "pos": "名詞（男）",
+      "meaning_ja": "想い、考え",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "डूबना",
+      "normalized": "डूबना",
+      "pos": "自動詞",
+      "meaning_ja": "沈む、没頭する",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "अक्सर",
+      "normalized": "अक्सर",
+      "pos": "副詞",
+      "meaning_ja": "しばしば",
+      "importance": 2,
+      "status": "active"
+    },
+    {
+      "word": "तन्हाई",
+      "normalized": "तन्हाई",
+      "pos": "名詞（女）",
+      "meaning_ja": "孤独、寂しさ",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "बाहों",
+      "normalized": "बाहें",
+      "pos": "名詞（女・複）",
+      "meaning_ja": "腕の中、両腕",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "सुबह",
+      "normalized": "सुबह",
+      "pos": "名詞（女）",
+      "meaning_ja": "朝",
+      "importance": 2,
+      "status": "active"
+    },
+    {
+      "word": "हल्की",
+      "normalized": "हल्का",
+      "pos": "形容詞",
+      "meaning_ja": "軽い、穏やかな",
+      "importance": 2,
+      "status": "active"
+    },
+    {
+      "word": "छलकी",
+      "normalized": "छलकना",
+      "pos": "形容詞・分詞",
+      "meaning_ja": "あふれた、こぼれそうな",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "कसम",
+      "normalized": "कसम",
+      "pos": "名詞（女）",
+      "meaning_ja": "誓い",
+      "importance": 3,
+      "status": "active"
+    }
+  ],
+  "meta": {
+    "copyright_safe": true,
+    "lyrics_included": false,
+    "source_type": "manual_curated",
+    "dedupe_ready": true
+  }
+}

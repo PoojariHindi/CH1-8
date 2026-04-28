@@ -1,0 +1,300 @@
+{
+  "id": "bolly_025",
+  "schema_version": 2,
+  "title": "Ae Dil Hai Mushkil",
+  "film": "Ae Dil Hai Mushkil",
+  "year": 2016,
+  "singer": [
+    "Arijit Singh"
+  ],
+  "lyricist": [
+    "Amitabh Bhattacharya"
+  ],
+  "composer": [
+    "Pritam"
+  ],
+  "notes": [
+    "ランビール"
+  ],
+  "tags": [
+    "恋愛",
+    "苦悩"
+  ],
+  "emotion": "painful_love",
+  "register": "poetic",
+  "key_phrase": "तेरे बिना गुज़ारा, ऐ दिल है मुश्किल",
+  "expressions": [
+    {
+      "text": "तू सफर मेरा",
+      "normalized": "तू सफर मेरा",
+      "meaning_ja": "君は私の旅そのものだ",
+      "type": "metaphor",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "तू ही मेरी मंज़िल",
+      "normalized": "तू ही मेरी मंजिल",
+      "meaning_ja": "君こそが私の目的地だ",
+      "type": "metaphor",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "तेरे बिना गुज़ारा मुश्किल",
+      "normalized": "तेरे बिना गुजारा मुश्किल",
+      "meaning_ja": "君なしで生きていくのは難しい",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "मेरी हर कमी को है तू लाज़मी",
+      "normalized": "मेरी हर कमी को है तू लाजमी",
+      "meaning_ja": "私のすべての欠けた部分には君が必要だ",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "एक तरफ़ा मेरा सफ़र",
+      "normalized": "एक तरफा मेरा सफर",
+      "meaning_ja": "私の一方通行の旅、片想いの道",
+      "type": "metaphor",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "अधूरा होके भी इश्क़ कामिल",
+      "normalized": "अधूरा होके भी इश्क कामिल",
+      "meaning_ja": "不完全であっても、この愛は完全だ",
+      "type": "metaphor",
+      "importance": 4,
+      "status": "active"
+    }
+  ],
+  "vocab_candidates": [
+    {
+      "word": "सफर",
+      "normalized": "सफर",
+      "pos": "名詞（男）",
+      "meaning_ja": "旅、道のり",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "मंज़िल",
+      "normalized": "मंजिल",
+      "pos": "名詞（女）",
+      "meaning_ja": "目的地、到達点",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "गुज़ारा",
+      "normalized": "गुजारा",
+      "pos": "名詞（男）",
+      "meaning_ja": "暮らし、やっていくこと",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "खुदा",
+      "normalized": "खुदा",
+      "pos": "名詞（男）",
+      "meaning_ja": "神、アッラー",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "दुआ",
+      "normalized": "दुआ",
+      "pos": "名詞（女）",
+      "meaning_ja": "祈り、願い",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "कमी",
+      "normalized": "कमी",
+      "pos": "名詞（女）",
+      "meaning_ja": "不足、欠けているもの",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "लाज़मी",
+      "normalized": "लाजमी",
+      "pos": "形容詞",
+      "meaning_ja": "必要な、不可欠な",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "जूनून",
+      "normalized": "जुनून",
+      "pos": "名詞（男）",
+      "meaning_ja": "情熱、熱狂",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "क़ाबिल",
+      "normalized": "काबिल",
+      "pos": "形容詞",
+      "meaning_ja": "ふさわしい、有能な",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "रूह",
+      "normalized": "रूह",
+      "pos": "名詞（女）",
+      "meaning_ja": "魂",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "जिस्म",
+      "normalized": "जिस्म",
+      "pos": "名詞（男）",
+      "meaning_ja": "身体、肉体",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "दर्द",
+      "normalized": "दर्द",
+      "pos": "名詞（男）",
+      "meaning_ja": "痛み、苦しみ",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "इनाम",
+      "normalized": "इनाम",
+      "pos": "名詞（男）",
+      "meaning_ja": "褒美、贈り物",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "आसमान",
+      "normalized": "आसमान",
+      "pos": "名詞（男）",
+      "meaning_ja": "空、天空",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "ज़मीं",
+      "normalized": "जमीं",
+      "pos": "名詞（女）",
+      "meaning_ja": "大地、地面",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "मौजूदगी",
+      "normalized": "मौजूदगी",
+      "pos": "名詞（女）",
+      "meaning_ja": "存在、そこにいること",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "जिंदगानी",
+      "normalized": "जिंदगानी",
+      "pos": "名詞（女）",
+      "meaning_ja": "人生、生命",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "महरूम",
+      "normalized": "महरूम",
+      "pos": "形容詞",
+      "meaning_ja": "奪われた、恵まれない",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "दूजा",
+      "normalized": "दूजा",
+      "pos": "形容詞",
+      "meaning_ja": "別の、第二の",
+      "importance": 2,
+      "status": "active"
+    },
+    {
+      "word": "मालूम",
+      "normalized": "मालूम",
+      "pos": "形容詞",
+      "meaning_ja": "知られている、分かっている",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "शिद्दत",
+      "normalized": "शिद्दत",
+      "pos": "名詞（女）",
+      "meaning_ja": "激しさ、強さ、深さ",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "बेखबर",
+      "normalized": "बेखबर",
+      "pos": "形容詞",
+      "meaning_ja": "知らない、気づいていない",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "मोहताज",
+      "normalized": "मोहताज",
+      "pos": "形容詞",
+      "meaning_ja": "頼っている、依存している",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "एक तरफ़ा",
+      "normalized": "एक तरफा",
+      "pos": "形容詞句",
+      "meaning_ja": "一方的な、片想いの",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "अधूरा",
+      "normalized": "अधूरा",
+      "pos": "形容詞",
+      "meaning_ja": "不完全な、未完成の",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "इश्क़",
+      "normalized": "इश्क",
+      "pos": "名詞（男）",
+      "meaning_ja": "愛、情熱的な愛",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "कामिल",
+      "normalized": "कामिल",
+      "pos": "形容詞",
+      "meaning_ja": "完全な、成熟した",
+      "importance": 4,
+      "status": "active"
+    }
+  ],
+  "meta": {
+    "copyright_safe": true,
+    "lyrics_included": false,
+    "source_type": "manual_curated",
+    "dedupe_ready": true
+  }
+}

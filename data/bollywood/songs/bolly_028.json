@@ -1,0 +1,260 @@
+{
+  "id": "bolly_028",
+  "schema_version": 2,
+  "title": "Munni Badnaam Hui",
+  "film": "Dabangg",
+  "year": 2010,
+  "singer": [
+    "Mamta Sharma",
+    "Aishwarya"
+  ],
+  "lyricist": [
+    "Lalit Pandit"
+  ],
+  "composer": [
+    "Lalit Pandit"
+  ],
+  "notes": [
+    "サルマン"
+  ],
+  "tags": [
+    "ダンス"
+  ],
+  "emotion": "dance_item_song",
+  "register": "colloquial",
+  "key_phrase": "मुन्नी बदनाम हुई, Darling तेरे लिए",
+  "expressions": [
+    {
+      "text": "मुन्नी बदनाम हुई",
+      "normalized": "मुन्नी बदनाम हुई",
+      "meaning_ja": "ムンニは悪名高くなった（あなたのせいで）",
+      "type": "hook_phrase",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "नैन शराबी",
+      "normalized": "नैन शराबी",
+      "meaning_ja": "酔わせるような瞳",
+      "type": "poetic_expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "चाल नवाबी",
+      "normalized": "चाल नवाबी",
+      "meaning_ja": "貴族のような歩き方",
+      "type": "poetic_expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "लाखों रुपैया उड़ा",
+      "normalized": "लाखों रुपैया उड़ा",
+      "meaning_ja": "何十万ルピーも使い果たした",
+      "type": "idiom",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "पूरी बोतल का नशा",
+      "normalized": "पूरी बोतल का नशा",
+      "meaning_ja": "一本分の酒のような酔い",
+      "type": "metaphor",
+      "importance": 4,
+      "status": "active"
+    }
+  ],
+  "vocab_candidates": [
+    {
+      "word": "बदनाम",
+      "normalized": "बदनाम",
+      "pos": "形容詞",
+      "meaning_ja": "悪名高い、評判の悪い",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "गाल",
+      "normalized": "गाल",
+      "pos": "名詞（男）",
+      "meaning_ja": "頬",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "गुलाबी",
+      "normalized": "गुलाबी",
+      "pos": "形容詞",
+      "meaning_ja": "ピンク色の、薔薇色の",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "नैन",
+      "normalized": "नैन",
+      "pos": "名詞（男・複）",
+      "meaning_ja": "瞳、目（詩語）",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "शराबी",
+      "normalized": "शराबी",
+      "pos": "形容詞・名詞",
+      "meaning_ja": "酔った、酒好きの",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "चाल",
+      "normalized": "चाल",
+      "pos": "名詞（女）",
+      "meaning_ja": "歩き方、動き、仕草",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "नवाबी",
+      "normalized": "नवाबी",
+      "pos": "形容詞",
+      "meaning_ja": "ナワーブ風の、高貴な",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "झटका",
+      "normalized": "झटका",
+      "pos": "名詞（男）",
+      "meaning_ja": "振り、衝撃、キレのある動き",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "नखरा",
+      "normalized": "नखरा",
+      "pos": "名詞（男）",
+      "meaning_ja": "お高くとまった仕草、色気ある気取り",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "लाखों",
+      "normalized": "लाख",
+      "pos": "数詞・名詞",
+      "meaning_ja": "何十万もの",
+      "importance": 2,
+      "status": "active"
+    },
+    {
+      "word": "रुपैया",
+      "normalized": "रुपैया",
+      "pos": "名詞（男）",
+      "meaning_ja": "ルピー（金）",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "टकसाल",
+      "normalized": "टकसाल",
+      "pos": "名詞（女）",
+      "meaning_ja": "造幣局、金のなる場所",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "चर्चा",
+      "normalized": "चर्चा",
+      "pos": "名詞（女）",
+      "meaning_ja": "話題、噂",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "अनाड़ी",
+      "normalized": "अनाड़ी",
+      "pos": "名詞・形容詞",
+      "meaning_ja": "不器用な人、素人",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "पाला",
+      "normalized": "पाला",
+      "pos": "名詞（男）",
+      "meaning_ja": "相手、遭遇（पाला पड़ना）",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "बिना",
+      "normalized": "बिना",
+      "pos": "前置詞・後置詞的",
+      "meaning_ja": "〜なしで",
+      "importance": 2,
+      "status": "active"
+    },
+    {
+      "word": "बुढ़ापा",
+      "normalized": "बुढ़ापा",
+      "pos": "名詞（男）",
+      "meaning_ja": "老い、老年",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "जवाँ",
+      "normalized": "जवां",
+      "pos": "形容詞",
+      "meaning_ja": "若い、若々しい",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "होंठों",
+      "normalized": "होंठ",
+      "pos": "名詞（男・複）",
+      "meaning_ja": "唇",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "काली",
+      "normalized": "काला",
+      "pos": "形容詞",
+      "meaning_ja": "黒い",
+      "importance": 2,
+      "status": "active"
+    },
+    {
+      "word": "जिया",
+      "normalized": "जिया",
+      "pos": "名詞（男）",
+      "meaning_ja": "心、胸、命（詩語）",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "सरे आम",
+      "normalized": "सरेआम",
+      "pos": "副詞句",
+      "meaning_ja": "公然と、人前で",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "नशा",
+      "normalized": "नशा",
+      "pos": "名詞（男）",
+      "meaning_ja": "酔い、陶酔",
+      "importance": 4,
+      "status": "active"
+    }
+  ],
+  "meta": {
+    "copyright_safe": true,
+    "lyrics_included": false,
+    "source_type": "manual_curated",
+    "dedupe_ready": true
+  }
+}

@@ -1,0 +1,325 @@
+{
+  "id": "bolly_026",
+  "schema_version": 2,
+  "title": "Arziyan",
+  "film": "Delhi 6",
+  "year": 2009,
+  "singer": [
+    "Javed Ali",
+    "Kailash Kher"
+  ],
+  "lyricist": [
+    "Prasoon Joshi"
+  ],
+  "composer": [
+    "A.R. Rahman"
+  ],
+  "notes": [
+    "アビシェーク・バッチャン"
+  ],
+  "tags": [
+    "スーフィー的",
+    "神"
+  ],
+  "emotion": "sufi_devotion",
+  "register": "poetic",
+  "key_phrase": "अर्ज़ियाँ सारी मैं चेहरे पे लिख के लाया हूँ, मौला मौला मौला मेरे मौला",
+  "expressions": [
+    {
+      "text": "अर्ज़ियाँ सारी मैं चेहरे पे लिख के लाया हूँ",
+      "normalized": "अर्जियां सारी मैं चेहरे पे लिख के लाया हूं",
+      "meaning_ja": "すべての願いを顔に書いて持ってきた",
+      "type": "metaphor",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "मरम्मत मुक़द्दर की कर दो",
+      "normalized": "मरम्मत मुकद्दर की कर दो",
+      "meaning_ja": "運命を修復してください",
+      "type": "metaphor",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "तेरे दर पे झुका हूँ",
+      "normalized": "तेरे दर पे झुका हूं",
+      "meaning_ja": "あなたの門前で頭を垂れている",
+      "type": "sufi_expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "नूर की बारिश में भीगना",
+      "normalized": "नूर की बारिश में भीगना",
+      "meaning_ja": "光の雨に濡れる、神聖な恵みに包まれる",
+      "type": "sufi_expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "सजदे में रहने दो",
+      "normalized": "सजदे में रहने दो",
+      "meaning_ja": "礼拝・ひれ伏しの状態にいさせてください",
+      "type": "sufi_expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "सर झुका के एक पल में",
+      "normalized": "सर झुका के एक पल में",
+      "meaning_ja": "頭を下げた一瞬で",
+      "type": "expression",
+      "importance": 3,
+      "status": "active"
+    }
+  ],
+  "vocab_candidates": [
+    {
+      "word": "अर्ज़ियाँ",
+      "normalized": "अर्जियां",
+      "pos": "名詞（女・複）",
+      "meaning_ja": "願い、嘆願",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "मौला",
+      "normalized": "मौला",
+      "pos": "名詞（男）",
+      "meaning_ja": "神、主、守護者",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "दरार",
+      "normalized": "दरार",
+      "pos": "名詞（女）",
+      "meaning_ja": "ひび、亀裂",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "माथा",
+      "normalized": "माथा",
+      "pos": "名詞（男）",
+      "meaning_ja": "額、頭",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "मरम्मत",
+      "normalized": "मरम्मत",
+      "pos": "名詞（女）",
+      "meaning_ja": "修理、修復",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "मुक़द्दर",
+      "normalized": "मुकद्दर",
+      "pos": "名詞（男）",
+      "meaning_ja": "運命、宿命",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "दर",
+      "normalized": "दर",
+      "pos": "名詞（男）",
+      "meaning_ja": "門、戸口、聖者や神のもと",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "मस्ती",
+      "normalized": "मस्ती",
+      "pos": "名詞（女）",
+      "meaning_ja": "陶酔、楽しさ、酔いしれた状態",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "दरिया",
+      "normalized": "दरिया",
+      "pos": "名詞（男）",
+      "meaning_ja": "川、大河、豊かな流れ",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "नूर",
+      "normalized": "नूर",
+      "pos": "名詞（男）",
+      "meaning_ja": "光輝、神々しい光",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "बारिश",
+      "normalized": "बारिश",
+      "pos": "名詞（女）",
+      "meaning_ja": "雨",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "तर",
+      "normalized": "तर",
+      "pos": "形容詞",
+      "meaning_ja": "濡れた、湿った",
+      "importance": 2,
+      "status": "active"
+    },
+    {
+      "word": "खुशबू",
+      "normalized": "खुशबू",
+      "pos": "名詞（女）",
+      "meaning_ja": "香り",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "भटकना",
+      "normalized": "भटकना",
+      "pos": "自動詞",
+      "meaning_ja": "さまよう、迷う",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "रेशमी",
+      "normalized": "रेशमी",
+      "pos": "形容詞",
+      "meaning_ja": "絹のような、なめらかな",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "माया",
+      "normalized": "माया",
+      "pos": "名詞（女）",
+      "meaning_ja": "幻、魅惑、この世の迷い",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "गली",
+      "normalized": "गली",
+      "pos": "名詞（女）",
+      "meaning_ja": "路地、通り",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "बिखरना",
+      "normalized": "बिखरना",
+      "pos": "自動詞",
+      "meaning_ja": "散らばる、崩れ散る",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "इबादत",
+      "normalized": "इबादत",
+      "pos": "名詞（女）",
+      "meaning_ja": "祈り、信仰行為",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "शऊर",
+      "normalized": "शऊर",
+      "pos": "名詞（男）",
+      "meaning_ja": "分別、心得、理解",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "सजदा",
+      "normalized": "सजदा",
+      "pos": "名詞（男）",
+      "meaning_ja": "礼拝、ひれ伏すこと",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "ठुकराना",
+      "normalized": "ठुकराना",
+      "pos": "他動詞",
+      "meaning_ja": "拒む、突き放す",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "सँवरना",
+      "normalized": "संवरना",
+      "pos": "自動詞",
+      "meaning_ja": "整う、よくなる、立ち直る",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "ख्वाहिश",
+      "normalized": "ख्वाहिश",
+      "pos": "名詞（女）",
+      "meaning_ja": "願望、望み",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "ख्वाब",
+      "normalized": "ख्वाब",
+      "pos": "名詞（男）",
+      "meaning_ja": "夢",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "कोशिश",
+      "normalized": "कोशिश",
+      "pos": "名詞（女）",
+      "meaning_ja": "努力、試み",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "रूबरू",
+      "normalized": "रूबरू",
+      "pos": "副詞・形容詞",
+      "meaning_ja": "向かい合って、面前で",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "नज़र",
+      "normalized": "नजर",
+      "pos": "名詞（女）",
+      "meaning_ja": "視線、まなざし",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "मोरा",
+      "normalized": "मोरा",
+      "pos": "所有形容詞・詩語",
+      "meaning_ja": "私の、我が",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "पिया",
+      "normalized": "पिया",
+      "pos": "名詞（男）",
+      "meaning_ja": "恋人、愛しい人",
+      "importance": 4,
+      "status": "active"
+    }
+  ],
+  "meta": {
+    "copyright_safe": true,
+    "lyrics_included": false,
+    "source_type": "manual_curated",
+    "dedupe_ready": true
+  }
+}

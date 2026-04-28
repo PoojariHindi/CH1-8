@@ -1,0 +1,315 @@
+{
+  "id": "bolly_029",
+  "schema_version": 2,
+  "title": "Banno Rani",
+  "film": "Earth",
+  "year": 1998,
+  "singer": [
+    "Sadhana Sargam"
+  ],
+  "lyricist": [
+    "Javed Akhtar"
+  ],
+  "composer": [
+    "A.R. Rahman"
+  ],
+  "notes": [
+    "アーミル"
+  ],
+  "tags": [
+    "結婚"
+  ],
+  "emotion": "wedding_playful",
+  "register": "poetic_folk",
+  "key_phrase": "बन्नो रानी तुम्हे सियानी होना ही था",
+  "expressions": [
+    {
+      "text": "बन्नो रानी",
+      "normalized": "बन्नो रानी",
+      "meaning_ja": "花嫁のお姫さま",
+      "type": "wedding_expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "डोली में जाके",
+      "normalized": "डोली में जाके",
+      "meaning_ja": "婚礼の輿に乗って行って",
+      "type": "wedding_expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "हम सखियों से अंजानी होना",
+      "normalized": "हम सखियों से अंजानी होना",
+      "meaning_ja": "私たち女友だちから離れて別の人になる",
+      "type": "expression",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "मेहंदी से रचे हाथ",
+      "normalized": "मेहंदी से रचे हाथ",
+      "meaning_ja": "メヘンディで染められた手",
+      "type": "wedding_expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "घूंघट उठाना",
+      "normalized": "घूंघट उठाना",
+      "meaning_ja": "花嫁のヴェールを上げる",
+      "type": "wedding_expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "मन ही मन मुस्काना",
+      "normalized": "मन ही मन मुस्काना",
+      "meaning_ja": "心の中でそっと微笑む",
+      "type": "expression",
+      "importance": 3,
+      "status": "active"
+    }
+  ],
+  "vocab_candidates": [
+    {
+      "word": "बन्नो",
+      "normalized": "बन्नो",
+      "pos": "名詞（女）・呼びかけ",
+      "meaning_ja": "花嫁、若い花嫁への呼びかけ",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "रानी",
+      "normalized": "रानी",
+      "pos": "名詞（女）",
+      "meaning_ja": "女王、王妃、お姫さま",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "सियानी",
+      "normalized": "सियानी",
+      "pos": "形容詞",
+      "meaning_ja": "賢い、大人びた",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "राजा",
+      "normalized": "राजा",
+      "pos": "名詞（男）",
+      "meaning_ja": "王、花婿への呼びかけ",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "डोली",
+      "normalized": "डोली",
+      "pos": "名詞（女）",
+      "meaning_ja": "婚礼の輿、花嫁の輿",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "सखी",
+      "normalized": "सखी",
+      "pos": "名詞（女）",
+      "meaning_ja": "女友だち、親しい女性の友人",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "अंजानी",
+      "normalized": "अंजानी",
+      "pos": "形容詞",
+      "meaning_ja": "見知らぬ、なじみのない",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "काजल",
+      "normalized": "काजल",
+      "pos": "名詞（男）",
+      "meaning_ja": "カージャル、目元の黒い化粧",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "डोरे",
+      "normalized": "डोरे",
+      "pos": "名詞（男・複）",
+      "meaning_ja": "筋、線、糸状のもの",
+      "importance": 2,
+      "status": "active"
+    },
+    {
+      "word": "मेहंदी",
+      "normalized": "मेहंदी",
+      "pos": "名詞（女）",
+      "meaning_ja": "メヘンディ、ヘナ",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "रचना",
+      "normalized": "रचना",
+      "pos": "他動詞",
+      "meaning_ja": "染める、飾る、構成する",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "गोरे",
+      "normalized": "गोरा",
+      "pos": "形容詞",
+      "meaning_ja": "色白の、白い",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "झूमर",
+      "normalized": "झूमर",
+      "pos": "名詞（男）",
+      "meaning_ja": "額飾り、揺れる装飾品",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "दमकना",
+      "normalized": "दमकना",
+      "pos": "自動詞",
+      "meaning_ja": "輝く、きらめく",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "झुमका",
+      "normalized": "झुमका",
+      "pos": "名詞（男）",
+      "meaning_ja": "揺れるイヤリング",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "झमकना",
+      "normalized": "झमकना",
+      "pos": "自動詞",
+      "meaning_ja": "きらきら鳴る、揺れて光る",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "हार",
+      "normalized": "हार",
+      "pos": "名詞（男）",
+      "meaning_ja": "首飾り、ネックレス",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "जगमगाना",
+      "normalized": "जगमगाना",
+      "pos": "自動詞",
+      "meaning_ja": "きらきら輝く",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "आँचल",
+      "normalized": "आंचल",
+      "pos": "名詞（男）",
+      "meaning_ja": "サリーの端、裾、覆い布",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "रेशम",
+      "normalized": "रेशम",
+      "pos": "名詞（男）",
+      "meaning_ja": "絹、シルク",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "हौले",
+      "normalized": "हौले",
+      "pos": "副詞",
+      "meaning_ja": "そっと、ゆっくり",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "मद्धम",
+      "normalized": "मद्धम",
+      "pos": "形容詞・副詞",
+      "meaning_ja": "柔らかな、控えめな、かすかな",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "मस्तानी",
+      "normalized": "मस्तानी",
+      "pos": "形容詞",
+      "meaning_ja": "陶酔した、夢見心地の",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "घूंघट",
+      "normalized": "घूंघट",
+      "pos": "名詞（男）",
+      "meaning_ja": "花嫁のヴェール、顔覆い",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "मुखड़ा",
+      "normalized": "मुखड़ा",
+      "pos": "名詞（男）",
+      "meaning_ja": "顔、愛らしい顔",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "मनवाना",
+      "normalized": "मनवाना",
+      "pos": "他動詞",
+      "meaning_ja": "承諾させる、聞き入れさせる",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "सलामी",
+      "normalized": "सलामी",
+      "pos": "名詞（女）",
+      "meaning_ja": "挨拶、敬礼、礼金",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "गुलामी",
+      "normalized": "गुलामी",
+      "pos": "名詞（女）",
+      "meaning_ja": "奴隷状態、服従",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "दीवाना",
+      "normalized": "दीवाना",
+      "pos": "名詞・形容詞",
+      "meaning_ja": "恋に狂った人、夢中な",
+      "importance": 4,
+      "status": "active"
+    }
+  ],
+  "meta": {
+    "copyright_safe": true,
+    "lyrics_included": false,
+    "source_type": "manual_curated",
+    "dedupe_ready": true
+  }
+}

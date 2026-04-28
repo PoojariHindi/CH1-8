@@ -1,0 +1,315 @@
+{
+  "id": "bolly_030",
+  "schema_version": 2,
+  "title": "Kajra Re",
+  "film": "Bunty Aur Babli",
+  "year": 2005,
+  "singer": [
+    "Alisha Chinai"
+  ],
+  "lyricist": [
+    "Gulzar"
+  ],
+  "composer": [
+    "Shankar-Ehsaan-Loy"
+  ],
+  "notes": [
+    "アビシェーク・バッチャン"
+  ],
+  "tags": [
+    "出会い"
+  ],
+  "emotion": "flirtatious_encounter",
+  "register": "playful_poetic",
+  "key_phrase": "कजरा रे कजरा रे तेरे कारे कारे नैना",
+  "expressions": [
+    {
+      "text": "कलेजा रख दिया चाकू की नोक पर",
+      "normalized": "कलेजा रख दिया चाकू की नोक पर",
+      "meaning_ja": "胸を刃先の上に差し出した（命がけで惚れた）",
+      "type": "metaphor",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "मेरा चैन-वैन सब उजड़ा",
+      "normalized": "मेरा चैन वैन सब उजड़ा",
+      "meaning_ja": "私の安らぎは全部失われた",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "तेरे कारे कारे नैना",
+      "normalized": "तेरे कारे कारे नैना",
+      "meaning_ja": "君の真っ黒な瞳",
+      "type": "poetic_expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "तेरी बातों में किमाम की खुशबू है",
+      "normalized": "तेरी बातों में किमाम की खुशबू है",
+      "meaning_ja": "君の言葉には香り高い魅惑がある",
+      "type": "metaphor",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "मेरी जान उदास है, होठों पे प्यास है",
+      "normalized": "मेरी जान उदास है होठों पे प्यास है",
+      "meaning_ja": "心は寂しく、唇には渇きがある",
+      "type": "poetic_expression",
+      "importance": 4,
+      "status": "active"
+    }
+  ],
+  "vocab_candidates": [
+    {
+      "word": "कजरा",
+      "normalized": "कजरा",
+      "pos": "名詞（男）",
+      "meaning_ja": "アイメイク、カージャル",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "कारे",
+      "normalized": "काला",
+      "pos": "形容詞",
+      "meaning_ja": "黒い（詩語）",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "नैना",
+      "normalized": "नैन",
+      "pos": "名詞（男・複）",
+      "meaning_ja": "瞳、目（詩語）",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "ज़ालिम",
+      "normalized": "जालिम",
+      "pos": "名詞・形容詞",
+      "meaning_ja": "残酷な人、いじわるな人",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "चौक",
+      "normalized": "चौक",
+      "pos": "名詞（男）",
+      "meaning_ja": "広場、辻、市場通り",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "कलेजा",
+      "normalized": "कलेजा",
+      "pos": "名詞（男）",
+      "meaning_ja": "肝、胸、心臓（感情の座）",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "नोक",
+      "normalized": "नोक",
+      "pos": "名詞（女）",
+      "meaning_ja": "先端、刃先",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "चैन",
+      "normalized": "चैन",
+      "pos": "名詞（男）",
+      "meaning_ja": "安らぎ、平穏",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "उजड़ना",
+      "normalized": "उजड़ना",
+      "pos": "自動詞",
+      "meaning_ja": "荒廃する、失われる",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "अंगड़ाई",
+      "normalized": "अंगड़ाई",
+      "pos": "名詞（女）",
+      "meaning_ja": "背伸び、身をよじる仕草",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "सुरमा",
+      "normalized": "सुरमा",
+      "pos": "名詞（男）",
+      "meaning_ja": "目元化粧粉、コール",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "वादे",
+      "normalized": "वादा",
+      "pos": "名詞（男・複）",
+      "meaning_ja": "約束",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "ज़बानी",
+      "normalized": "जबानी",
+      "pos": "形容詞・副詞",
+      "meaning_ja": "口頭の、言葉による",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "रूमाल",
+      "normalized": "रूमाल",
+      "pos": "名詞（男）",
+      "meaning_ja": "ハンカチ",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "लब",
+      "normalized": "लब",
+      "pos": "名詞（男・複）",
+      "meaning_ja": "唇（詩語）",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "निशानी",
+      "normalized": "निशानी",
+      "pos": "名詞（女）",
+      "meaning_ja": "記念、しるし",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "किमाम",
+      "normalized": "किमाम",
+      "pos": "名詞（男）",
+      "meaning_ja": "香料入り噛みたばこ、芳香物",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "लू",
+      "normalized": "लू",
+      "pos": "名詞（女）",
+      "meaning_ja": "熱風、酷暑の風",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "कमाल",
+      "normalized": "कमाल",
+      "pos": "名詞（男）",
+      "meaning_ja": "驚異、すごさ",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "पलकों",
+      "normalized": "पलक",
+      "pos": "名詞（女・複）",
+      "meaning_ja": "まぶた、まつげ",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "परदा",
+      "normalized": "परदा",
+      "pos": "名詞（男）",
+      "meaning_ja": "幕、覆い、慎み",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "ख्याल",
+      "normalized": "ख्याल",
+      "pos": "名詞（男）",
+      "meaning_ja": "思い、配慮",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "ग़म",
+      "normalized": "गम",
+      "pos": "名詞（男）",
+      "meaning_ja": "悲しみ、憂い",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "चुभना",
+      "normalized": "चुभना",
+      "pos": "自動詞",
+      "meaning_ja": "刺さる、痛む",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "बल्लीमाराँ",
+      "normalized": "बल्लीमाराँ",
+      "pos": "固有名詞",
+      "meaning_ja": "デリー旧市街の地名",
+      "importance": 2,
+      "status": "active"
+    },
+    {
+      "word": "दरीबा",
+      "normalized": "दरीबा",
+      "pos": "固有名詞",
+      "meaning_ja": "デリー旧市街の地名",
+      "importance": 2,
+      "status": "active"
+    },
+    {
+      "word": "क़सम",
+      "normalized": "कसम",
+      "pos": "名詞（女）",
+      "meaning_ja": "誓い",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "बलाएँ",
+      "normalized": "बला",
+      "pos": "名詞（女・複）",
+      "meaning_ja": "災い、悪運（取り払う対象）",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "दुआएँ",
+      "normalized": "दुआ",
+      "pos": "名詞（女・複）",
+      "meaning_ja": "祈り、祝福",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "प्यास",
+      "normalized": "प्यास",
+      "pos": "名詞（女）",
+      "meaning_ja": "渇き、欲求",
+      "importance": 4,
+      "status": "active"
+    }
+  ],
+  "meta": {
+    "copyright_safe": true,
+    "lyrics_included": false,
+    "source_type": "manual_curated",
+    "dedupe_ready": true
+  }
+}
