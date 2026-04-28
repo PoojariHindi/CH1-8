@@ -67,41 +67,6 @@ function listSongFiles(dirPath) {
     .sort();
 }
 
-function getSourceCount(entry) {
-  if (Array.isArray(entry.sourceSongIds)) {
-    return entry.sourceSongIds.length;
-  }
-
-  if (typeof entry.sourceCount === "number") {
-    return entry.sourceCount;
-  }
-
-  if (typeof entry.frequency === "number") {
-    return entry.frequency;
-  }
-
-  return 1;
-}
-
-function getRarityBonus(sourceCount) {
-  if (sourceCount <= 1) return 2.0;
-  if (sourceCount === 2) return 1.6;
-  if (sourceCount === 3) return 1.3;
-  return 1.0;
-}
-
-function getQuizWeight(entry) {
-  const rawImportance = Number(entry.importance ?? 3);
-
-  // 現行方針：importance は 2〜4 の範囲で扱う
-  const importance = Math.max(2, Math.min(rawImportance, 4));
-
-  const sourceCount = getSourceCount(entry);
-  const rarityBonus = getRarityBonus(sourceCount);
-
-  return Math.round(importance * rarityBonus * 10) / 10;
-}
-
 function buildQuizVocab(masterEntries) {
   if (!Array.isArray(masterEntries)) {
     throw new Error("vocab_master.json must be an array.");
@@ -109,38 +74,34 @@ function buildQuizVocab(masterEntries) {
 
   return masterEntries
     .filter((entry) => entry.status === "active")
-    .map((entry) => {
-      const sourceCount = getSourceCount(entry);
-      const importance = Math.max(2, Math.min(Number(entry.importance ?? 3), 4));
-      const quizWeight = getQuizWeight(entry);
+    .map((entry) => ({
+      word: entry.word || "",
 
-      return {
-        word: entry.word || "",
+      // v2対応
+      meaning: entry.meaning_ja || entry.meaning || "",
 
-        // v2対応
-        meaning: entry.meaning_ja || entry.meaning || "",
+      pos: entry.pos || "",
+      key: entry.key || entry.word || "",
+      category: entry.category || "",
+      difficulty: entry.difficulty ?? 1,
 
-        pos: entry.pos || "",
-        key: entry.key || entry.word || "",
-        category: entry.category || "",
-        difficulty: entry.difficulty ?? 1,
+      // 重み
+      frequency:
+        entry.frequency ??
+        (Array.isArray(entry.sourceSongIds)
+          ? entry.sourceSongIds.length
+          : 0),
 
-        // 出題補助
-        frequency: entry.frequency ?? sourceCount,
-        sourceCount,
-        importance,
-        quizWeight,
+      importance: entry.importance ?? 3,
+      layer: entry.layer || "B",
+      tags: normalizeTags(entry.tags),
 
-        layer: entry.layer || "B",
-        tags: normalizeTags(entry.tags),
-
-        // 補助
-        normalized: entry.normalized || "",
-        sourceSongIds: Array.isArray(entry.sourceSongIds)
-          ? entry.sourceSongIds
-          : []
-      };
-    });
+      // 補助
+      normalized: entry.normalized || "",
+      sourceSongIds: Array.isArray(entry.sourceSongIds)
+        ? entry.sourceSongIds
+        : []
+    }));
 }
 
 function buildExpressionEntry(song, expr, index) {
@@ -278,7 +239,6 @@ function main() {
   console.log(`Vocab entries: ${quizData.counts.vocab}`);
   console.log(`Expression entries: ${quizData.counts.expressions}`);
   console.log(`Fill blank entries: ${quizData.counts.fillBlanks}`);
-  console.log("Rare-word weighted quizWeight added for Bollywood vocab.");
 }
 
 try {

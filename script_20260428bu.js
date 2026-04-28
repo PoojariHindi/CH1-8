@@ -38,27 +38,6 @@ function pickRandom(array, count) {
   return shuffle(array).slice(0, count);
 }
 
-// Bollywood語彙専用：rare-word重視の重み付き抽選
-function pickWeightedRandom(array) {
-  if (!Array.isArray(array) || array.length === 0) return null;
-
-  const totalWeight = array.reduce((sum, item) => {
-    const weight = Number(item.quizWeight) || 1;
-    return sum + weight;
-  }, 0);
-
-  let random = Math.random() * totalWeight;
-
-  for (const item of array) {
-    random -= Number(item.quizWeight) || 1;
-    if (random <= 0) {
-      return item;
-    }
-  }
-
-  return array[array.length - 1];
-}
-
 function escapeHtml(text) {
   return String(text ?? "")
     .replaceAll("&", "&amp;")
@@ -155,14 +134,9 @@ function getWord(entry) {
 
 function buildWrongPoolForVocab(pool, correct, direction) {
   if (direction === "hi2jp") {
-    return pool.filter(
-      (item) => getMeaning(item) && getMeaning(item) !== getMeaning(correct)
-    );
+    return pool.filter((item) => getMeaning(item) && getMeaning(item) !== getMeaning(correct));
   }
-
-  return pool.filter(
-    (item) => getWord(item) && getWord(item) !== getWord(correct)
-  );
+  return pool.filter((item) => getWord(item) && getWord(item) !== getWord(correct));
 }
 
 function createQuizQuestion(vocabPool, direction) {
@@ -170,16 +144,7 @@ function createQuizQuestion(vocabPool, direction) {
     return null;
   }
 
-  const mode = getMode();
-
-  // Bollywood語彙のみ rare-word weighted random
-  const correct =
-    mode === "bollywood_vocab"
-      ? pickWeightedRandom(vocabPool)
-      : pickRandom(vocabPool, 1)[0];
-
-  if (!correct) return null;
-
+  const correct = pickRandom(vocabPool, 1)[0];
   const wrongPool = buildWrongPoolForVocab(vocabPool, correct, direction);
   if (wrongPool.length < 3) {
     return null;
@@ -229,7 +194,9 @@ function createFillQuestion(pool) {
   }
 
   const usable = pool.filter(
-    (item) => normalizeString(item.prompt) && normalizeString(item.answer)
+    (item) =>
+      normalizeString(item.prompt) &&
+      normalizeString(item.answer)
   );
 
   if (usable.length < 4) {
@@ -276,7 +243,9 @@ function createExpressionQuestion(pool, direction) {
   }
 
   const usable = pool.filter(
-    (item) => normalizeString(item.text) && normalizeString(item.meaning)
+    (item) =>
+      normalizeString(item.text) &&
+      normalizeString(item.meaning)
   );
 
   if (usable.length < 4) {
@@ -342,15 +311,9 @@ function renderQuiz(quiz) {
   }
 
   const metaParts = [];
-  if (quiz.meta.lesson) {
-    metaParts.push(`<span>L${escapeHtml(quiz.meta.lesson)}</span>`);
-  }
-  if (quiz.meta.pos) {
-    metaParts.push(`<span>${escapeHtml(quiz.meta.pos)}</span>`);
-  }
-  if (quiz.meta.songTitle) {
-    metaParts.push(`<span>${escapeHtml(quiz.meta.songTitle)}</span>`);
-  }
+  if (quiz.meta.lesson) metaParts.push(`<span>L${escapeHtml(quiz.meta.lesson)}</span>`);
+  if (quiz.meta.pos) metaParts.push(`<span>${escapeHtml(quiz.meta.pos)}</span>`);
+  if (quiz.meta.songTitle) metaParts.push(`<span>${escapeHtml(quiz.meta.songTitle)}</span>`);
 
   const metaRow = `
     <div class="quiz-meta-row">
@@ -394,7 +357,6 @@ function renderQuiz(quiz) {
     .getElementById("nextQuestionBtn")
     .addEventListener("click", startQuiz);
 }
-
 function addWrongAnswer(entry) {
   const mode = getMode();
 
@@ -480,7 +442,8 @@ function startQuiz() {
   const pool = getCurrentPool();
 
   if (pool.length < 4) {
-    quizArea.innerHTML = "<p>問題を作るのに十分なデータがありません。</p>";
+    quizArea.innerHTML =
+      "<p>問題を作るのに十分なデータがありません。</p>";
     return;
   }
 
@@ -500,7 +463,8 @@ function startReviewMode() {
   const quizArea = document.getElementById("quizArea");
 
   if (!isVocabularyMode(mode)) {
-    quizArea.innerHTML = "<p>復習モードは現在、語彙問題のみ対応しています。</p>";
+    quizArea.innerHTML =
+      "<p>復習モードは現在、語彙問題のみ対応しています。</p>";
     return;
   }
 
