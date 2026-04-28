@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hindi Quiz</title>
+  <link rel="manifest" href="manifest.json">
+  <meta name="theme-color" content="#4CAF50">
+<style>
+  body {
+    font-family: "Noto Sans JP", sans-serif;
+    background: linear-gradient(180deg, #fffdf8 0%, #f7fbf7 100%);
+    color: #222;
+    margin: 0;
+    padding: 8px;
+  }
+
+  .quiz-box {
+    background: #ffffff;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 10px;
+    border-radius: 16px;
+    box-sizing: border-box;
+    border: 1px solid #e8efe8;
+    box-shadow: 0 4px 14px rgba(0, 0, 0, 0.04);
+  }
+
+  .app-title {
+    text-align: center;
+    font-size: 20px;
+    margin: 2px 0 8px;
+    color: #2f5d3a;
+    letter-spacing: 0.3px;
+  }
+
+  .controls {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 8px;
+    align-items: end;
+    margin-bottom: 10px;
+  }
+
+  .control-group {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .control-group label {
+    font-size: 12px;
+    margin-bottom: 4px;
+    color: #555;
+  }
+
+  select,
+  button {
+    box-sizing: border-box;
+    border-radius: 10px;
+    font-size: 15px;
+  }
+
+  select {
+    width: 100%;
+    padding: 9px 10px;
+    border: 1px solid #d7e3d7;
+    background: #fff;
+    color: #222;
+  }
+
+  button {
+    padding: 9px 10px;
+    cursor: pointer;
+    border: 1px solid #d9d9d9;
+    background: #fff;
+    color: #222;
+    transition: 0.15s ease;
+  }
+
+  button:hover {
+    background: #fafaf7;
+  }
+
+  .start-btn {
+    background: #e8f3e8;
+    border: 1px solid #b8d3b8;
+    color: #244d2d;
+  }
+
+  .review-btn {
+    background: #fff1df;
+    border: 1px solid #f0c999;
+    color: #7b4b12;
+  }
+
+  .start-btn,
+  .review-btn {
+    white-space: nowrap;
+  }
+
+  .quiz-card {
+    padding-top: 2px;
+  }
+
+  .quiz-meta-row {
+    display: flex;
+    justify-content: center;
+    gap: 6px;
+    font-size: 11px;
+    opacity: 0.82;
+    margin: 2px 0 4px;
+    flex-wrap: wrap;
+  }
+
+  .quiz-meta-row span {
+    background: #f7faf7;
+    border: 1px solid #e4eee4;
+    padding: 2px 7px;
+    border-radius: 999px;
+  }
+
+  .quiz-question {
+    font-size: 32px;
+    line-height: 1.22;
+    text-align: center;
+    margin: 6px 0 8px;
+    word-break: break-word;
+    font-family: "Noto Sans Devanagari", "Noto Sans JP", sans-serif;
+    color: #1f1f1f;
+  }
+
+  .quiz-subhint {
+    text-align: center;
+    font-size: 13px;
+    opacity: 0.82;
+    margin: 3px 0 7px;
+    line-height: 1.35;
+  }
+
+  .quiz-choices {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 7px;
+  }
+
+  .choice-btn {
+    display: block;
+    width: 100%;
+    margin: 0;
+    padding: 10px 8px;
+    min-height: 52px;
+    font-size: 24px;
+    line-height: 1.22;
+    font-family: "Noto Sans Devanagari", "Noto Sans JP", sans-serif;
+    cursor: pointer;
+    border-radius: 12px;
+    border: 1px solid #dcdcdc;
+    background: #fff;
+    color: #111;
+  }
+
+  .choice-btn.correct {
+    border: 2px solid #2e7d32;
+    background: #edf8ee;
+  }
+
+  .choice-btn.wrong {
+    border: 2px solid #c62828;
+    background: #fff3f3;
+  }
+
+  .quiz-feedback {
+    margin-top: 8px;
+    font-weight: 600;
+    text-align: center;
+    font-size: 14px;
+    line-height: 1.35;
+    min-height: 22px;
+  }
+
+  .next-btn {
+    margin-top: 8px;
+    width: 100%;
+    padding: 10px;
+    background: #eef7ee;
+    border: 1px solid #bdd8bd;
+    color: #23492b;
+  }
+
+  @media (max-width: 640px) {
+    body {
+      padding: 6px;
+    }
+
+    .quiz-box {
+      padding: 9px;
+      border-radius: 14px;
+    }
+
+    .controls {
+      grid-template-columns: 1fr 1fr;
+      gap: 7px;
+      margin-bottom: 9px;
+    }
+
+    .start-btn,
+    .review-btn {
+      grid-column: 1 / -1;
+      width: 100%;
+    }
+
+    .app-title {
+      font-size: 18px;
+      margin-bottom: 7px;
+    }
+
+    .quiz-question {
+      font-size: 30px;
+      margin: 5px 0 7px;
+    }
+
+    .quiz-choices {
+      grid-template-columns: 1fr;
+      gap: 6px;
+    }
+
+    .choice-btn {
+      font-size: 24px;
+      min-height: 50px;
+      padding: 9px 8px;
+    }
+
+    .quiz-feedback {
+      margin-top: 7px;
+      font-size: 13px;
+    }
+
+    .next-btn {
+      margin-top: 7px;
+      padding: 9px;
+    }
+  }
+</style>
+</head>
+
+<body>
+  <div class="quiz-box">
+    <h2 class="app-title">Hindi Quiz</h2>
+
+    <div class="controls">
+      <div class="control-group">
+        <label for="modeSelect">語彙セット</label>
+        <select id="modeSelect">
+          <option value="ch">基礎</option>
+          <option value="news">ニュース</option>
+          <option value="bollywood_vocab">B語彙</option>
+          <option value="bollywood_fill">B穴埋め</option>
+          <option value="bollywood_expressions">B表現</option>
+        </select>
+      </div>
+
+      <div class="control-group" id="lessonWrap">
+        <label for="lessonSelect" id="lessonLabel">範囲</label>
+        <select id="lessonSelect">
+          <option value="1">L1</option>
+          <option value="2">L1–2</option>
+          <option value="3">L1–3</option>
+          <option value="4">L1–4</option>
+          <option value="5">L1–5</option>
+          <option value="6">L1–6</option>
+          <option value="7">L1–7</option>
+          <option value="8">L1–8</option>
+        </select>
+      </div>
+
+      <div class="control-group">
+        <label for="directionSelect" id="directionLabel">出題方向</label>
+        <select id="directionSelect">
+          <option value="hi2jp">ヒン→日</option>
+          <option value="jp2hi">日→ヒン</option>
+        </select>
+      </div>
+
+      <button id="startQuizBtn" class="start-btn">開始</button>
+      <button id="reviewBtn" class="review-btn">復習</button>
+    </div>
+
+    <div id="quizArea"></div>
+  </div>
+
+  <script src="script.js"></script>
+
+  <script>
+    if ("serviceWorker" in navigator) {
+      window.addEventListener("load", async () => {
+        try {
+          const registration = await navigator.serviceWorker.register("./service-worker.js");
+
+          registration.addEventListener("updatefound", () => {
+            const newWorker = registration.installing;
+            if (!newWorker) return;
+
+            newWorker.addEventListener("statechange", () => {
+              if (
+                newWorker.state === "installed" &&
+                navigator.serviceWorker.controller
+              ) {
+                console.log("新しいバージョンが利用可能です。再読み込みしてください。");
+              }
+            });
+          });
+        } catch (error) {
+          console.error("Service Worker registration failed:", error);
+        }
+      });
+    }
+  </script>
+</body>
+</html>
