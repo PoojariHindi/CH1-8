@@ -1,0 +1,301 @@
+{
+  "id": "bolly_024",
+  "schema_version": 2,
+  "title": "Bulleya",
+  "film": "Ae Dil Hai Mushkil",
+  "year": 2016,
+  "singer": [
+    "Amit Mishra",
+    "Shilpa Rao"
+  ],
+  "lyricist": [
+    "Amitabh Bhattacharya"
+  ],
+  "composer": [
+    "Pritam"
+  ],
+  "notes": [
+    "ランビール"
+  ],
+  "tags": [
+    "恋愛",
+    "スーフィー的"
+  ],
+  "emotion": "sufi_love",
+  "register": "poetic",
+  "key_phrase": "रांझां दे यार बुल्लेया, सुन ले पुकार बुल्लेया",
+  "expressions": [
+    {
+      "text": "मेरी रूह का परींदा फड़फड़ाये",
+      "normalized": "मेरी रूह का परिंदा फड़फड़ाए",
+      "meaning_ja": "私の魂の鳥が羽ばたく",
+      "type": "metaphor",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "सुकून का जज़ीरा मिल न पाए",
+      "normalized": "सुकून का जजीरा मिल न पाए",
+      "meaning_ja": "安らぎの島を見つけられない",
+      "type": "metaphor",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "तजल्ली तो दिखा दे",
+      "normalized": "तजल्ली तो दिखा दे",
+      "meaning_ja": "神秘的な光を見せてくれ",
+      "type": "sufi_expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "मुर्शिद मेरा",
+      "normalized": "मुर्शिद मेरा",
+      "meaning_ja": "私の導師よ",
+      "type": "sufi_expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "सरहद के पार",
+      "normalized": "सरहद के पार",
+      "meaning_ja": "境界の向こう側へ",
+      "type": "metaphor",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "तेरे कारवां में शामिल होना",
+      "normalized": "तेरे कारवां में शामिल होना",
+      "meaning_ja": "あなたの旅の一行に加わる",
+      "type": "metaphor",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "ख़ुद को तेरे हवाले करना",
+      "normalized": "खुद को तेरे हवाले करना",
+      "meaning_ja": "自分をあなたに委ねる",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    }
+  ],
+  "vocab_candidates": [
+    {
+      "word": "रूह",
+      "normalized": "रूह",
+      "pos": "名詞（女）",
+      "meaning_ja": "魂",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "परींदा",
+      "normalized": "परिंदा",
+      "pos": "名詞（男）",
+      "meaning_ja": "鳥、飛ぶもの",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "फड़फड़ाना",
+      "normalized": "फड़फड़ाना",
+      "pos": "自動詞",
+      "meaning_ja": "羽ばたく、ばたばた動く",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "सुकून",
+      "normalized": "सुकून",
+      "pos": "名詞（男）",
+      "meaning_ja": "安らぎ",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "जज़ीरा",
+      "normalized": "जजीरा",
+      "pos": "名詞（男）",
+      "meaning_ja": "島",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "तजल्ली",
+      "normalized": "तजल्ली",
+      "pos": "名詞（女）",
+      "meaning_ja": "神秘的な光、顕現",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "तसल्ली",
+      "normalized": "तसल्ली",
+      "pos": "名詞（女）",
+      "meaning_ja": "慰め、安心",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "बुल्लेया",
+      "normalized": "बुल्लेया",
+      "pos": "固有名詞・呼びかけ",
+      "meaning_ja": "ブッレーよ、呼びかけの名",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "मुर्शिद",
+      "normalized": "मुर्शिद",
+      "pos": "名詞（男）",
+      "meaning_ja": "導師、精神的師",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "मुकाम",
+      "normalized": "मुकाम",
+      "pos": "名詞（男）",
+      "meaning_ja": "場所、境地、到達点",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "सरहद",
+      "normalized": "सरहद",
+      "pos": "名詞（女）",
+      "meaning_ja": "境界、国境",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "परवरदिगार",
+      "normalized": "परवरदिगार",
+      "pos": "名詞（男）",
+      "meaning_ja": "神、養い主",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "हाफ़िज़",
+      "normalized": "हाफिज",
+      "pos": "名詞（男）",
+      "meaning_ja": "守護者、保護者",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "मुहाजिर",
+      "normalized": "मुहाजिर",
+      "pos": "名詞・形容詞",
+      "meaning_ja": "移住者、さすらう者",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "पगडंडी",
+      "normalized": "पगडंडी",
+      "pos": "名詞（女）",
+      "meaning_ja": "小道、細い道",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "जन्नत",
+      "normalized": "जन्नत",
+      "pos": "名詞（女）",
+      "meaning_ja": "天国",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "कारवां",
+      "normalized": "कारवां",
+      "pos": "名詞（男）",
+      "meaning_ja": "隊商、旅の一行",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "क़ाबिल",
+      "normalized": "काबिल",
+      "pos": "形容詞",
+      "meaning_ja": "ふさわしい、有能な",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "आशना",
+      "normalized": "आशना",
+      "pos": "名詞・形容詞",
+      "meaning_ja": "知り合い、親しい人",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "अजनबी",
+      "normalized": "अजनबी",
+      "pos": "名詞・形容詞",
+      "meaning_ja": "見知らぬ人、他人",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "तन्हाई",
+      "normalized": "तन्हाई",
+      "pos": "名詞（女）",
+      "meaning_ja": "孤独、寂しさ",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "मुल्तबी",
+      "normalized": "मुल्तबी",
+      "pos": "形容詞",
+      "meaning_ja": "延期された、保留された",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "पाबंदी",
+      "normalized": "पाबंदी",
+      "pos": "名詞（女）",
+      "meaning_ja": "制約、束縛、禁止",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "बगावत",
+      "normalized": "बगावत",
+      "pos": "名詞（女）",
+      "meaning_ja": "反逆、反抗",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "अगन",
+      "normalized": "अगन",
+      "pos": "名詞（女）",
+      "meaning_ja": "炎、内なる火",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "हवाले",
+      "normalized": "हवाले",
+      "pos": "名詞（複）・慣用表現",
+      "meaning_ja": "委託、引き渡し",
+      "importance": 3,
+      "status": "active"
+    }
+  ],
+  "meta": {
+    "copyright_safe": true,
+    "lyrics_included": false,
+    "source_type": "manual_curated",
+    "dedupe_ready": true
+  }
+}

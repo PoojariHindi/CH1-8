@@ -1,0 +1,277 @@
+{
+  "id": "bolly_022",
+  "schema_version": 2,
+  "title": "Luka Chuppi",
+  "film": "Rang De Basanti",
+  "year": 2006,
+  "singer": [
+    "A.R. Rahman",
+    "Lata Mangeshkar"
+  ],
+  "lyricist": [
+    "Prasoon Joshi",
+    "Nacim"
+  ],
+  "composer": [
+    "A.R. Rahman"
+  ],
+  "notes": [
+    "アーミル"
+  ],
+  "tags": [
+    "母子"
+  ],
+  "emotion": "mother_child_longing",
+  "register": "poetic",
+  "key_phrase": "लुका छुपी बहुत हुई, सामने आ जा ना",
+  "expressions": [
+    {
+      "text": "लुका छुपी बहुत हुई",
+      "normalized": "लुका छुपी बहुत हुई",
+      "meaning_ja": "かくれんぼはもう十分した",
+      "type": "metaphor",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "सामने आ जा ना",
+      "normalized": "सामने आ जा ना",
+      "meaning_ja": "目の前に出てきておくれ",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "तेरी राह ताके अंखियाँ",
+      "normalized": "तेरी राह ताके अंखियां",
+      "meaning_ja": "君の帰り道を瞳が待ち続ける",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "धुंधला गई मेरी नज़र",
+      "normalized": "धुंधला गई मेरी नजर",
+      "meaning_ja": "私の視界はかすんでしまった",
+      "type": "expression",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "ढलके सूरज करे इशारा",
+      "normalized": "ढलके सूरज करे इशारा",
+      "meaning_ja": "沈みゆく太陽が合図をする",
+      "type": "metaphor",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "बिन तेरे मुझको अकेला",
+      "normalized": "बिन तेरे मुझको अकेला",
+      "meaning_ja": "君なしでは私は孤独に感じる",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    }
+  ],
+  "vocab_candidates": [
+    {
+      "word": "लुका छुपी",
+      "normalized": "लुका छुपी",
+      "pos": "名詞（女）",
+      "meaning_ja": "かくれんぼ",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "साँझ",
+      "normalized": "सांझ",
+      "pos": "名詞（女）",
+      "meaning_ja": "夕暮れ、夕方",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "फिकर",
+      "normalized": "फिकर",
+      "pos": "名詞（女）",
+      "meaning_ja": "心配、気がかり",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "धुंधला",
+      "normalized": "धुंधला",
+      "pos": "形容詞",
+      "meaning_ja": "ぼんやりした、かすんだ",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "नज़र",
+      "normalized": "नजर",
+      "pos": "名詞（女）",
+      "meaning_ja": "視線、視界",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "आसमाँ",
+      "normalized": "आसमां",
+      "pos": "名詞（男）",
+      "meaning_ja": "空",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "भोला",
+      "normalized": "भोला",
+      "pos": "形容詞",
+      "meaning_ja": "無邪気な、素朴な",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "सलोना",
+      "normalized": "सलोना",
+      "pos": "形容詞",
+      "meaning_ja": "愛らしい、魅力的な",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "पतंग",
+      "normalized": "पतंग",
+      "pos": "名詞（女）",
+      "meaning_ja": "凧",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "बेफिकर",
+      "normalized": "बेफिकर",
+      "pos": "形容詞",
+      "meaning_ja": "心配のない、気ままな",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "डोर",
+      "normalized": "डोर",
+      "pos": "名詞（女）",
+      "meaning_ja": "糸、絆",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "अंखियाँ",
+      "normalized": "अंखियां",
+      "pos": "名詞（女・複）",
+      "meaning_ja": "目、瞳",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "जिया",
+      "normalized": "जिया",
+      "pos": "名詞（男）",
+      "meaning_ja": "心、胸の内",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "आँगन",
+      "normalized": "आंगन",
+      "pos": "名詞（男）",
+      "meaning_ja": "中庭、家の庭先",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "अँधेरा",
+      "normalized": "अंधेरा",
+      "pos": "名詞（男）",
+      "meaning_ja": "暗闇",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "दीप",
+      "normalized": "दीप",
+      "pos": "名詞（男）",
+      "meaning_ja": "灯火、ランプ",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "ढलना",
+      "normalized": "ढलना",
+      "pos": "自動詞",
+      "meaning_ja": "沈む、傾く",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "चंदा",
+      "normalized": "चंदा",
+      "pos": "名詞（男）",
+      "meaning_ja": "月、愛しい子への呼びかけ",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "झरना",
+      "normalized": "झरना",
+      "pos": "名詞（男）",
+      "meaning_ja": "滝、湧き水",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "गुच्छा",
+      "normalized": "गुच्छा",
+      "pos": "名詞（男）",
+      "meaning_ja": "房、束",
+      "importance": 2,
+      "status": "active"
+    },
+    {
+      "word": "ख़्वाब",
+      "normalized": "ख्वाब",
+      "pos": "名詞（男）",
+      "meaning_ja": "夢",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "साया",
+      "normalized": "साया",
+      "pos": "名詞（男）",
+      "meaning_ja": "影、気配",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "धूप",
+      "normalized": "धूप",
+      "pos": "名詞（女）",
+      "meaning_ja": "日差し、陽光",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "अकेला",
+      "normalized": "अकेला",
+      "pos": "形容詞",
+      "meaning_ja": "ひとりぼっちの、孤独な",
+      "importance": 3,
+      "status": "active"
+    }
+  ],
+  "meta": {
+    "copyright_safe": true,
+    "lyrics_included": false,
+    "source_type": "manual_curated",
+    "dedupe_ready": true
+  }
+}

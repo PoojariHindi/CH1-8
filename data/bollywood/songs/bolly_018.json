@@ -1,22 +1,30 @@
 {
   "id": "bolly_018",
   "schema_version": 2,
-
   "title": "Badtameez Dil",
   "film": "Yeh Jawaani Hai Deewani",
   "year": 2013,
-
-  "singer": ["Benny Dayal", "Shefali Alvares"],
-  "lyricist": ["Amitabh Bhattacharya"],
-  "composer": ["Pritam"],
-
-  "notes": ["ランビール"],
-  "tags": ["恋愛", "ダンス", "パーティー"],
+  "singer": [
+    "Benny Dayal",
+    "Shefali Alvares"
+  ],
+  "lyricist": [
+    "Amitabh Bhattacharya"
+  ],
+  "composer": [
+    "Pritam"
+  ],
+  "notes": [
+    "ランビール"
+  ],
+  "tags": [
+    "恋愛",
+    "ダンス",
+    "パーティー"
+  ],
   "emotion": "playful",
   "register": "colloquial",
-
   "key_phrase": "बदतमीज़ दिल, बदतमीज़ दिल, बदतमीज़ दिल माने ना, माने ना",
-
   "expressions": [
     {
       "text": "बदतमीज़ दिल",
@@ -51,7 +59,6 @@
       "status": "active"
     }
   ],
-
   "vocab_candidates": [
     {
       "word": "दिल",
@@ -148,33 +155,8 @@
       "meaning_ja": "回転、ぐるぐる回ること",
       "importance": 3,
       "status": "active"
-    },
-    {
-  "word": "दिल",
-  "normalized": "दिल",
-  "pos": "名詞（男）",
-  "meaning_ja": "心",
-  "importance": 4,
-  "status": "active"
-},
-{
-  "word": "हाल",
-  "normalized": "हाल",
-  "pos": "名詞（男）",
-  "meaning_ja": "状態",
-  "importance": 4,
-  "status": "active"
-},
-{
-  "word": "फिकर",
-  "normalized": "फिकर",
-  "pos": "名詞（女）",
-  "meaning_ja": "心配",
-  "importance": 4,
-  "status": "active"
-}
+    }
   ],
-
   "meta": {
     "copyright_safe": true,
     "lyrics_included": false,

@@ -1,0 +1,211 @@
+{
+  "id": "bolly_023",
+  "schema_version": 2,
+  "title": "Bhagwan Hai Kahan Re Tu",
+  "film": "PK",
+  "year": 2014,
+  "singer": [
+    "Sonu Nigam"
+  ],
+  "lyricist": [
+    "Swanand Kirkire"
+  ],
+  "composer": [
+    "Shantanu Moitra"
+  ],
+  "notes": [
+    "アーミル"
+  ],
+  "tags": [
+    "神"
+  ],
+  "emotion": "spiritual_questioning",
+  "register": "poetic",
+  "key_phrase": "भगवान है कहाँ रे तू",
+  "expressions": [
+    {
+      "text": "भगवान है कहाँ रे तू",
+      "normalized": "भगवान है कहां रे तू",
+      "meaning_ja": "神よ、あなたはどこにいるのか",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "ए खुदा है कहाँ रे तू",
+      "normalized": "ए खुदा है कहां रे तू",
+      "meaning_ja": "おお神よ、あなたはどこにいるのか",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "भटके मन को राह दिखाना",
+      "normalized": "भटके मन को राह दिखाना",
+      "meaning_ja": "迷った心に道を示す",
+      "type": "metaphor",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "सर झुकाना",
+      "normalized": "सर झुकाना",
+      "meaning_ja": "頭を下げる、ひれ伏す",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "सर आँखों पर रखना",
+      "normalized": "सर आंखों पर रखना",
+      "meaning_ja": "謹んで受け入れる、非常に大切に扱う",
+      "type": "idiom",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "तेरे नाम कई, तेरे चेहरे कई",
+      "normalized": "तेरे नाम कई तेरे चेहरे कई",
+      "meaning_ja": "あなたには多くの名があり、多くの顔がある",
+      "type": "expression",
+      "importance": 3,
+      "status": "active"
+    }
+  ],
+  "vocab_candidates": [
+    {
+      "word": "भगवान",
+      "normalized": "भगवान",
+      "pos": "名詞（男）",
+      "meaning_ja": "神",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "खुदा",
+      "normalized": "खुदा",
+      "pos": "名詞（男）",
+      "meaning_ja": "神、アッラー",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "धरती",
+      "normalized": "धरती",
+      "pos": "名詞（女）",
+      "meaning_ja": "大地、地上",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "अरज",
+      "normalized": "अरज",
+      "pos": "名詞（女）",
+      "meaning_ja": "願い、嘆願",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "भटकना",
+      "normalized": "भटकना",
+      "pos": "自動詞",
+      "meaning_ja": "さまよう、迷う",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "पूजा",
+      "normalized": "पूजा",
+      "pos": "名詞（女）",
+      "meaning_ja": "礼拝、 पूजा",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "नमाज़",
+      "normalized": "नमाज",
+      "pos": "名詞（女）",
+      "meaning_ja": "イスラム教の礼拝",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "अर्दास",
+      "normalized": "अरदास",
+      "pos": "名詞（女）",
+      "meaning_ja": "祈り、嘆願",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "रैन",
+      "normalized": "रैन",
+      "pos": "名詞（女）",
+      "meaning_ja": "夜",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "मंदिर",
+      "normalized": "मंदिर",
+      "pos": "名詞（男）",
+      "meaning_ja": "寺院、ヒンドゥー教寺院",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "गिरजा",
+      "normalized": "गिरजा",
+      "pos": "名詞（男）",
+      "meaning_ja": "教会",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "नैन",
+      "normalized": "नैन",
+      "pos": "名詞（男・複）",
+      "meaning_ja": "目、瞳",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "रस्म",
+      "normalized": "रस्म",
+      "pos": "名詞（女）",
+      "meaning_ja": "儀式、しきたり",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "राह",
+      "normalized": "राह",
+      "pos": "名詞（女）",
+      "meaning_ja": "道、方法",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "जतन",
+      "normalized": "जतन",
+      "pos": "名詞（男）",
+      "meaning_ja": "努力、手立て",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "ज़िद",
+      "normalized": "जिद",
+      "pos": "名詞（女）",
+      "meaning_ja": "意地、こだわり",
+      "importance": 3,
+      "status": "active"
+    }
+  ],
+  "meta": {
+    "copyright_safe": true,
+    "lyrics_included": false,
+    "source_type": "manual_curated",
+    "dedupe_ready": true
+  }
+}

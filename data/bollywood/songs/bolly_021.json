@@ -1,0 +1,150 @@
+{
+  "id": "bolly_021",
+  "schema_version": 2,
+  "title": "Aankhon Mein Teri Ajab Si",
+  "film": "Om Shanti Om",
+  "year": 2007,
+  "singer": [
+    "K.K."
+  ],
+  "lyricist": [
+    "Vishal Dadlani"
+  ],
+  "composer": [
+    "Vishal Dadlani",
+    "Shekhar Ravjiani"
+  ],
+  "notes": [
+    "シャールク"
+  ],
+  "tags": [
+    "恋愛",
+    "出会い",
+    "運命"
+  ],
+  "emotion": "romantic_wonder",
+  "register": "poetic",
+  "key_phrase": "आँखों में तेरी अजब सी अजब सी अदाएँ हैं",
+  "expressions": [
+    {
+      "text": "आँखों में तेरी",
+      "normalized": "आंखों में तेरी",
+      "meaning_ja": "君の瞳の中に",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "अजब सी अदाएँ",
+      "normalized": "अजब सी अदाएं",
+      "meaning_ja": "不思議な魅力、独特なしぐさ",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "दिल को बना दे पतंग",
+      "normalized": "दिल को बना दे पतंग",
+      "meaning_ja": "心を凧のように舞い上がらせる",
+      "type": "metaphor",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "दूर से दुनिया",
+      "normalized": "दूर से दुनिया",
+      "meaning_ja": "世界から遠く離れて",
+      "type": "expression",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "मेरे करीब",
+      "normalized": "मेरे करीब",
+      "meaning_ja": "私の近くに",
+      "type": "expression",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "नज़रों ने दिल का किया जो हश्र",
+      "normalized": "नजरों ने दिल का किया जो हश्र",
+      "meaning_ja": "その視線が心をこんな状態にした",
+      "type": "metaphor",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "डूब के हो जाऊँ पार",
+      "normalized": "डूब के हो जाऊं पार",
+      "meaning_ja": "沈みながら向こう岸へ渡る、没入して救われる",
+      "type": "metaphor",
+      "importance": 4,
+      "status": "active"
+    }
+  ],
+  "vocab_candidates": [
+    {
+      "word": "अजब",
+      "normalized": "अजब",
+      "pos": "形容詞",
+      "meaning_ja": "不思議な、奇妙な",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "खुशनसीब",
+      "normalized": "खुशनसीब",
+      "pos": "形容詞",
+      "meaning_ja": "幸運な、恵まれた",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "नूर",
+      "normalized": "नूर",
+      "pos": "名詞（男）",
+      "meaning_ja": "光輝、神々しい光",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "हश्र",
+      "normalized": "हश्र",
+      "pos": "名詞（男）",
+      "meaning_ja": "結末、ありさま、ひどい状態",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "हल्का सा",
+      "normalized": "हल्का सा",
+      "pos": "形容詞句・副詞句",
+      "meaning_ja": "ほのかな、わずかな",
+      "importance": 2,
+      "status": "active"
+    },
+    {
+      "word": "करीब",
+      "normalized": "करीब",
+      "pos": "形容詞・副詞",
+      "meaning_ja": "近い、近くに",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "दुआ",
+      "normalized": "दुआ",
+      "pos": "名詞（女）",
+      "meaning_ja": "祈り、願い",
+      "importance": 4,
+      "status": "active"
+    }
+  ],
+  "meta": {
+    "copyright_safe": true,
+    "lyrics_included": false,
+    "source_type": "manual_curated",
+    "dedupe_ready": true
+  }
+}

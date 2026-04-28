@@ -462,5 +462,104 @@
     ],
     "key_phrase": "तुझमें रब दिखता है, यारा मैं क्या करूँ",
     "status": "processed"
+  },
+  {
+    "id": "bolly_021",
+    "title": "Aankhon Mein Teri Ajab Si",
+    "film": "Om Shanti Om",
+    "year": 2007,
+    "singer": [
+      "K.K."
+    ],
+    "lyricist": [
+      "Vishal Dadlani"
+    ],
+    "composer": [
+      "Vishal Dadlani",
+      "Shekhar Ravjiani"
+    ],
+    "notes": [
+      "シャールク"
+    ],
+    "tags": [
+      "恋愛",
+      "出会い",
+      "運命"
+    ],
+    "key_phrase": "आँखों में तेरी अजब सी अजब सी अदाएँ हैं",
+    "status": "processed"
+  },
+  {
+    "id": "bolly_022",
+    "title": "Luka Chuppi",
+    "film": "Rang De Basanti",
+    "year": 2006,
+    "singer": [
+      "A.R. Rahman",
+      "Lata Mangeshkar"
+    ],
+    "lyricist": [
+      "Prasoon Joshi",
+      "Nacim"
+    ],
+    "composer": [
+      "A.R. Rahman"
+    ],
+    "notes": [
+      "アーミル"
+    ],
+    "tags": [
+      "母子"
+    ],
+    "key_phrase": "लुका छुपी बहुत हुई, सामने आ जा ना",
+    "status": "processed"
+  },
+  {
+    "id": "bolly_023",
+    "title": "Bhagwan Hai Kahan Re Tu",
+    "film": "PK",
+    "year": 2014,
+    "singer": [
+      "Sonu Nigam"
+    ],
+    "lyricist": [
+      "Swanand Kirkire"
+    ],
+    "composer": [
+      "Shantanu Moitra"
+    ],
+    "notes": [
+      "アーミル"
+    ],
+    "tags": [
+      "神"
+    ],
+    "key_phrase": "भगवान है कहाँ रे तू",
+    "status": "processed"
+  },
+  {
+    "id": "bolly_024",
+    "title": "Bulleya",
+    "film": "Ae Dil Hai Mushkil",
+    "year": 2016,
+    "singer": [
+      "Amit Mishra",
+      "Shilpa Rao"
+    ],
+    "lyricist": [
+      "Amitabh Bhattacharya"
+    ],
+    "composer": [
+      "Pritam"
+    ],
+    "notes": [
+      "ランビール"
+    ],
+    "tags": [
+      "恋愛",
+      "スーフィー的"
+    ],
+    "key_phrase": "रांझां दे यार बुल्लेया, सुन ले पुकार बुल्लेया",
+    "status": "processed"
   }
 ]
