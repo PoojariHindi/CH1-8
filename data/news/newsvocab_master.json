@@ -1,0 +1,2148 @@
+[
+  {
+    "word": "पुलिस",
+    "normalized": "पुलिस",
+    "pos": "名詞",
+    "meaning_ja": "警察",
+    "category": "事件・事故",
+    "difficulty": 1,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "गिरफ्तारी",
+    "normalized": "गिरफ्तारी",
+    "pos": "名詞",
+    "meaning_ja": "逮捕",
+    "category": "事件・事故",
+    "difficulty": 2,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "घटना",
+    "normalized": "घटना",
+    "pos": "名詞",
+    "meaning_ja": "出来事、事件",
+    "category": "事件・事故",
+    "difficulty": 2,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "जांच",
+    "normalized": "जांच",
+    "pos": "名詞",
+    "meaning_ja": "捜査、調査、検査",
+    "category": "事件・事故",
+    "difficulty": 2,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "थाना",
+    "normalized": "थाना",
+    "pos": "名詞",
+    "meaning_ja": "警察署",
+    "category": "事件・事故",
+    "difficulty": 2,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "मौत",
+    "normalized": "मौत",
+    "pos": "名詞",
+    "meaning_ja": "死",
+    "category": "事件・事故",
+    "difficulty": 2,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "हिंसा",
+    "normalized": "हिंसा",
+    "pos": "名詞",
+    "meaning_ja": "暴力",
+    "category": "事件・事故",
+    "difficulty": 2,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "पुष्टि",
+    "normalized": "पुष्टि",
+    "pos": "名詞",
+    "meaning_ja": "確認、裏づけ、確証",
+    "category": "事件・事故",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "पोस्टमॉर्टम",
+    "normalized": "पोस्टमॉर्टम",
+    "pos": "名詞",
+    "meaning_ja": "検死、死体解剖",
+    "category": "事件・事故",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "प्रदर्शन",
+    "normalized": "प्रदर्शन",
+    "pos": "名詞",
+    "meaning_ja": "デモ、抗議行動、示威行動",
+    "category": "事件・事故",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "मृत्यु",
+    "normalized": "मृत्यु",
+    "pos": "名詞",
+    "meaning_ja": "死亡、死去",
+    "category": "事件・事故",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "साज़िश",
+    "normalized": "साज़िश",
+    "pos": "名詞",
+    "meaning_ja": "陰謀、企み",
+    "category": "事件・事故",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "हिंसक",
+    "normalized": "हिंसक",
+    "pos": "形容詞",
+    "meaning_ja": "暴力的な",
+    "category": "事件・事故",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "अभियुक्त",
+    "normalized": "अभियुक्त",
+    "pos": "名詞",
+    "meaning_ja": "被告、被疑者、容疑者",
+    "category": "事件・事故",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "तोड़फोड़",
+    "normalized": "तोड़फोड़",
+    "pos": "名詞",
+    "meaning_ja": "破壊行為、器物損壊",
+    "category": "事件・事故",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "कमी",
+    "normalized": "कमी",
+    "pos": "名詞（女）",
+    "meaning_ja": "不足、欠乏",
+    "category": "労働・経済",
+    "difficulty": 1,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_01",
+      "news_vocab_02"
+    ],
+    "sourceCount": 2,
+    "frequency": 2,
+    "notes": ""
+  },
+  {
+    "word": "फंड",
+    "normalized": "फंड",
+    "pos": "名詞（男）",
+    "meaning_ja": "基金、資金",
+    "category": "労働・経済",
+    "difficulty": 1,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_01",
+      "news_vocab_02"
+    ],
+    "sourceCount": 2,
+    "frequency": 2,
+    "notes": ""
+  },
+  {
+    "word": "कर्मचारी",
+    "normalized": "कर्मचारी",
+    "pos": "名詞",
+    "meaning_ja": "職員、従業員",
+    "category": "労働・経済",
+    "difficulty": 2,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "कारखाना",
+    "normalized": "कारखाना",
+    "pos": "名詞",
+    "meaning_ja": "工場",
+    "category": "労働・経済",
+    "difficulty": 2,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "बढ़ोतरी",
+    "normalized": "बढ़ोतरी",
+    "pos": "名詞",
+    "meaning_ja": "増加、引き上げ",
+    "category": "労働・経済",
+    "difficulty": 2,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "भुगतान",
+    "normalized": "भुगतान",
+    "pos": "名詞",
+    "meaning_ja": "支払い",
+    "category": "労働・経済",
+    "difficulty": 2,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "मज़दूर",
+    "normalized": "मजदूर",
+    "pos": "名詞",
+    "meaning_ja": "労働者",
+    "category": "労働・経済",
+    "difficulty": 2,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "मांग",
+    "normalized": "मांग",
+    "pos": "名詞",
+    "meaning_ja": "要求、需要",
+    "category": "労働・経済",
+    "difficulty": 2,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "वेतन",
+    "normalized": "वेतन",
+    "pos": "名詞",
+    "meaning_ja": "給与、賃金",
+    "category": "労働・経済",
+    "difficulty": 2,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "औद्योगिक",
+    "normalized": "औद्योगिक",
+    "pos": "形容詞",
+    "meaning_ja": "工業の、産業の",
+    "category": "労働・経済",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "न्यूनतम",
+    "normalized": "न्यूनतम",
+    "pos": "形容詞",
+    "meaning_ja": "最低の、最小の",
+    "category": "労働・経済",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "बकाया",
+    "normalized": "बकाया",
+    "pos": "名詞",
+    "meaning_ja": "未払い分、残額",
+    "category": "労働・経済",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "मज़दूरी",
+    "normalized": "मजदूरी",
+    "pos": "名詞",
+    "meaning_ja": "労賃、賃金、日当",
+    "category": "労働・経済",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "वृद्धि",
+    "normalized": "वृद्धि",
+    "pos": "名詞",
+    "meaning_ja": "増加、上昇",
+    "category": "労働・経済",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "असंगठित",
+    "normalized": "असंगठित",
+    "pos": "形容詞",
+    "meaning_ja": "非組織的な、未組織の",
+    "category": "労働・経済",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "स्वास्थ्य",
+    "normalized": "स्वास्थ्य",
+    "pos": "名詞（男）",
+    "meaning_ja": "健康",
+    "category": "医療・健康",
+    "difficulty": 2,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_01"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "अंगदान",
+    "normalized": "अंगदान",
+    "pos": "名詞（男）",
+    "meaning_ja": "臓器提供",
+    "category": "医療・健康",
+    "difficulty": 4,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_01"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "हानिकारक",
+    "normalized": "हानिकारक",
+    "pos": "形容詞",
+    "meaning_ja": "有害な",
+    "category": "医療・健康",
+    "difficulty": 4,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_01"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "गंभीर",
+    "normalized": "गंभीर",
+    "pos": "形容詞",
+    "meaning_ja": "重大な、深刻な",
+    "category": "社会・公共",
+    "difficulty": 2,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "मुद्दा",
+    "normalized": "मुद्दा",
+    "pos": "名詞",
+    "meaning_ja": "問題点、争点",
+    "category": "社会・公共",
+    "difficulty": 2,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "सहमति",
+    "normalized": "सहमति",
+    "pos": "名詞",
+    "meaning_ja": "同意、合意",
+    "category": "社会・公共",
+    "difficulty": 2,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "सुधार",
+    "normalized": "सुधार",
+    "pos": "名詞",
+    "meaning_ja": "改善、改良",
+    "category": "社会・公共",
+    "difficulty": 2,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "उपभोक्ता",
+    "normalized": "उपभोक्ता",
+    "pos": "名詞",
+    "meaning_ja": "消費者",
+    "category": "社会・公共",
+    "difficulty": 3,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "कृषि",
+    "normalized": "कृषि",
+    "pos": "名詞",
+    "meaning_ja": "農業",
+    "category": "社会・公共",
+    "difficulty": 3,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "क्षमता",
+    "normalized": "क्षमता",
+    "pos": "名詞（女）",
+    "meaning_ja": "能力; 処理能力",
+    "category": "社会・公共",
+    "difficulty": 3,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_01"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "ग्रामीण",
+    "normalized": "ग्रामीण",
+    "pos": "名詞",
+    "meaning_ja": "農村住民",
+    "category": "社会・公共",
+    "difficulty": 3,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "निवासी",
+    "normalized": "निवासी",
+    "pos": "名詞",
+    "meaning_ja": "住民、居住者",
+    "category": "社会・公共",
+    "difficulty": 3,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "प्रभावित",
+    "normalized": "प्रभावित",
+    "pos": "形容詞",
+    "meaning_ja": "影響を受けた",
+    "category": "社会・公共",
+    "difficulty": 3,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_01"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "गुमराह",
+    "normalized": "गुमराह",
+    "pos": "形容詞",
+    "meaning_ja": "誤導された、惑わされた",
+    "category": "社会・公共",
+    "difficulty": 4,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "नुकसानदायक",
+    "normalized": "नुकसानदायक",
+    "pos": "形容詞",
+    "meaning_ja": "有害な、損害を与える",
+    "category": "社会・公共",
+    "difficulty": 4,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "रिपोर्ट",
+    "normalized": "रिपोर्ट",
+    "pos": "名詞",
+    "meaning_ja": "報告、レポート",
+    "category": "行政・制度",
+    "difficulty": 1,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "अधिकारी",
+    "normalized": "अधिकारी",
+    "pos": "名詞",
+    "meaning_ja": "役人、職員",
+    "category": "行政・制度",
+    "difficulty": 2,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "अनुमति",
+    "normalized": "अनुमति",
+    "pos": "名詞",
+    "meaning_ja": "許可",
+    "category": "行政・制度",
+    "difficulty": 2,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "नीति",
+    "normalized": "नीति",
+    "pos": "名詞",
+    "meaning_ja": "政策、方針",
+    "category": "行政・制度",
+    "difficulty": 2,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "प्रक्रिया",
+    "normalized": "प्रक्रिया",
+    "pos": "名詞（女）",
+    "meaning_ja": "手続き、過程、プロセス",
+    "category": "行政・制度",
+    "difficulty": 2,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_01",
+      "news_vocab_02"
+    ],
+    "sourceCount": 2,
+    "frequency": 2,
+    "notes": ""
+  },
+  {
+    "word": "प्रशासन",
+    "normalized": "प्रशासन",
+    "pos": "名詞（男）",
+    "meaning_ja": "行政",
+    "category": "行政・制度",
+    "difficulty": 2,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_01",
+      "news_vocab_02"
+    ],
+    "sourceCount": 2,
+    "frequency": 2,
+    "notes": ""
+  },
+  {
+    "word": "योजना",
+    "normalized": "योजना",
+    "pos": "名詞",
+    "meaning_ja": "計画",
+    "category": "行政・制度",
+    "difficulty": 2,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "विभाग",
+    "normalized": "विभाग",
+    "pos": "名詞",
+    "meaning_ja": "部門、部署",
+    "category": "行政・制度",
+    "difficulty": 2,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "सुविधा",
+    "normalized": "सुविधा",
+    "pos": "名詞",
+    "meaning_ja": "便宜、設備、機能",
+    "category": "行政・制度",
+    "difficulty": 2,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "आयोग",
+    "normalized": "आयोग",
+    "pos": "名詞",
+    "meaning_ja": "委員会",
+    "category": "行政・制度",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "गठन",
+    "normalized": "गठन",
+    "pos": "名詞",
+    "meaning_ja": "結成、編成、設立",
+    "category": "行政・制度",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "निगरानी",
+    "normalized": "निगरानी",
+    "pos": "名詞",
+    "meaning_ja": "監視、モニタリング",
+    "category": "行政・制度",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "निर्देश",
+    "normalized": "निर्देश",
+    "pos": "名詞",
+    "meaning_ja": "指示、指令",
+    "category": "行政・制度",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "परियोजना",
+    "normalized": "परियोजना",
+    "pos": "名詞（女）",
+    "meaning_ja": "計画; プロジェクト",
+    "category": "行政・制度",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_01"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "व्यवस्था",
+    "normalized": "व्यवस्था",
+    "pos": "名詞（女）",
+    "meaning_ja": "体制; 仕組み",
+    "category": "行政・制度",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_01",
+      "news_vocab_02"
+    ],
+    "sourceCount": 2,
+    "frequency": 2,
+    "notes": ""
+  },
+  {
+    "word": "सर्वेक्षण",
+    "normalized": "सर्वेक्षण",
+    "pos": "名詞（男）",
+    "meaning_ja": "調査; サーベイ",
+    "category": "行政・制度",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_01",
+      "news_vocab_02"
+    ],
+    "sourceCount": 2,
+    "frequency": 2,
+    "notes": ""
+  },
+  {
+    "word": "अधिनियम",
+    "normalized": "अधिनियम",
+    "pos": "名詞",
+    "meaning_ja": "法律、法令",
+    "category": "行政・制度",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "परिषद",
+    "normalized": "परिषद",
+    "pos": "名詞",
+    "meaning_ja": "評議会、審議会",
+    "category": "行政・制度",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "प्रावधान",
+    "normalized": "प्रावधान",
+    "pos": "名詞",
+    "meaning_ja": "規定、条項",
+    "category": "行政・制度",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "क्रियान्वयन",
+    "normalized": "क्रियान्वयन",
+    "pos": "名詞",
+    "meaning_ja": "実施、施行",
+    "category": "行政・制度",
+    "difficulty": 5,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "प्राधिकरण",
+    "normalized": "प्राधिकरण",
+    "pos": "名詞",
+    "meaning_ja": "当局、管轄機関",
+    "category": "行政・制度",
+    "difficulty": 5,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "अदालत",
+    "normalized": "अदालत",
+    "pos": "名詞",
+    "meaning_ja": "裁判所",
+    "category": "裁判・法・選挙",
+    "difficulty": 2,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "अधिकार",
+    "normalized": "अधिकार",
+    "pos": "名詞",
+    "meaning_ja": "権利、権限",
+    "category": "裁判・法・選挙",
+    "difficulty": 2,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "अपील",
+    "normalized": "अपील",
+    "pos": "名詞",
+    "meaning_ja": "上訴、訴え、アピール",
+    "category": "裁判・法・選挙",
+    "difficulty": 2,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "चुनाव",
+    "normalized": "चुनाव",
+    "pos": "名詞",
+    "meaning_ja": "選挙",
+    "category": "裁判・法・選挙",
+    "difficulty": 2,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "फैसला",
+    "normalized": "फैसला",
+    "pos": "名詞",
+    "meaning_ja": "判決、決定",
+    "category": "裁判・法・選挙",
+    "difficulty": 2,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "सुप्रीम कोर्ट",
+    "normalized": "सुप्रीम_कोर्ट",
+    "pos": "名詞",
+    "meaning_ja": "最高裁判所",
+    "category": "裁判・法・選挙",
+    "difficulty": 2,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "मंजूरी",
+    "normalized": "मंजूरी",
+    "pos": "名詞（女）",
+    "meaning_ja": "承認、認可",
+    "category": "裁判・法・選挙",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_01",
+      "news_vocab_02"
+    ],
+    "sourceCount": 2,
+    "frequency": 2,
+    "notes": ""
+  },
+  {
+    "word": "मतदाता",
+    "normalized": "मतदाता",
+    "pos": "名詞",
+    "meaning_ja": "有権者",
+    "category": "裁判・法・選挙",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "मतदान",
+    "normalized": "मतदान",
+    "pos": "名詞",
+    "meaning_ja": "投票",
+    "category": "裁判・法・選挙",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "संविधान",
+    "normalized": "संविधान",
+    "pos": "名詞",
+    "meaning_ja": "憲法",
+    "category": "裁判・法・選挙",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "सुनवाई",
+    "normalized": "सुनवाई",
+    "pos": "名詞",
+    "meaning_ja": "審理、聴聞",
+    "category": "裁判・法・選挙",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "अनुच्छेद",
+    "normalized": "अनुच्छेद",
+    "pos": "名詞",
+    "meaning_ja": "条文、条項、憲法の条",
+    "category": "裁判・法・選挙",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "चुनाव आयोग",
+    "normalized": "चुनाव_आयोग",
+    "pos": "名詞",
+    "meaning_ja": "選挙管理委員会",
+    "category": "裁判・法・選挙",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "ट्रिब्युनल",
+    "normalized": "ट्रिब्युनल",
+    "pos": "名詞",
+    "meaning_ja": "審判機関、法廷、トリビュナル",
+    "category": "裁判・法・選挙",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "न्यायालय",
+    "normalized": "न्यायालय",
+    "pos": "名詞",
+    "meaning_ja": "裁判所、法廷",
+    "category": "裁判・法・選挙",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "न्यायिक",
+    "normalized": "न्यायिक",
+    "pos": "形容詞",
+    "meaning_ja": "司法の、裁判上の",
+    "category": "裁判・法・選挙",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "पूरक",
+    "normalized": "पूरक",
+    "pos": "形容詞",
+    "meaning_ja": "補足の、追加の",
+    "category": "裁判・法・選挙",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "मतदाता सूची",
+    "normalized": "मतदाता_सूची",
+    "pos": "名詞",
+    "meaning_ja": "有権者名簿",
+    "category": "裁判・法・選挙",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "याचिका",
+    "normalized": "याचिका",
+    "pos": "名詞（女）",
+    "meaning_ja": "請願、訴状、申立て",
+    "category": "裁判・法・選挙",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_01",
+      "news_vocab_02"
+    ],
+    "sourceCount": 2,
+    "frequency": 2,
+    "notes": ""
+  },
+  {
+    "word": "अपीलीय",
+    "normalized": "अपीलीय",
+    "pos": "形容詞",
+    "meaning_ja": "上訴の、控訴審の",
+    "category": "裁判・法・選挙",
+    "difficulty": 5,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "इच्छामृत्यु",
+    "normalized": "इच्छामृत्यु",
+    "pos": "名詞（女）",
+    "meaning_ja": "安楽死",
+    "category": "裁判・法・選挙",
+    "difficulty": 5,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_01"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "डिजिटल",
+    "normalized": "डिजिटल",
+    "pos": "形容詞",
+    "meaning_ja": "デジタルの",
+    "category": "調査・データ",
+    "difficulty": 1,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "डेटा",
+    "normalized": "डेटा",
+    "pos": "名詞",
+    "meaning_ja": "データ",
+    "category": "調査・データ",
+    "difficulty": 1,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "परिवार",
+    "normalized": "परिवार",
+    "pos": "名詞",
+    "meaning_ja": "家族、世帯",
+    "category": "調査・データ",
+    "difficulty": 1,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "पोर्टल",
+    "normalized": "पोर्टल",
+    "pos": "名詞",
+    "meaning_ja": "ポータル、ウェブ窓口",
+    "category": "調査・データ",
+    "difficulty": 1,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "अभियान",
+    "normalized": "अभियान",
+    "pos": "名詞",
+    "meaning_ja": "キャンペーン、活動",
+    "category": "調査・データ",
+    "difficulty": 2,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "संख्या",
+    "normalized": "संख्या",
+    "pos": "名詞",
+    "meaning_ja": "数、数量",
+    "category": "調査・データ",
+    "difficulty": 2,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "स्तर",
+    "normalized": "स्तर",
+    "pos": "名詞（男）",
+    "meaning_ja": "水準; レベル",
+    "category": "調査・データ",
+    "difficulty": 2,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_01"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "स्थिति",
+    "normalized": "स्थिति",
+    "pos": "名詞",
+    "meaning_ja": "状況、状態",
+    "category": "調査・データ",
+    "difficulty": 2,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "गणना",
+    "normalized": "गणना",
+    "pos": "名詞",
+    "meaning_ja": "計数、集計、計算",
+    "category": "調査・データ",
+    "difficulty": 3,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "जनसंख्या",
+    "normalized": "जनसंख्या",
+    "pos": "名詞（女）",
+    "meaning_ja": "人口",
+    "category": "調査・データ",
+    "difficulty": 3,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_01"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "जनगणना",
+    "normalized": "जनगणना",
+    "pos": "名詞",
+    "meaning_ja": "国勢調査、人口調査",
+    "category": "調査・データ",
+    "difficulty": 4,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "सत्यापन",
+    "normalized": "सत्यापन",
+    "pos": "名詞",
+    "meaning_ja": "検証、照合、確認",
+    "category": "調査・データ",
+    "difficulty": 4,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "क्षेत्रीय कार्य",
+    "normalized": "क्षेत्रीय_कार्य",
+    "pos": "名詞",
+    "meaning_ja": "現地調査、地域での実地作業",
+    "category": "調査・データ",
+    "difficulty": 5,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "स्व-गणना",
+    "normalized": "स्वगणना",
+    "pos": "名詞",
+    "meaning_ja": "自己申告式調査、自主記入",
+    "category": "調査・データ",
+    "difficulty": 5,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "एजेंसी",
+    "normalized": "एजेंसी",
+    "pos": "名詞（女）",
+    "meaning_ja": "機関、エージェンシー",
+    "category": "都市・環境",
+    "difficulty": 1,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_01",
+      "news_vocab_02"
+    ],
+    "sourceCount": 2,
+    "frequency": 2,
+    "notes": ""
+  },
+  {
+    "word": "प्रोसेस",
+    "normalized": "प्रोसेस",
+    "pos": "名詞（男）",
+    "meaning_ja": "処理",
+    "category": "都市・環境",
+    "difficulty": 1,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_01"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "रैंकिंग",
+    "normalized": "रैंकिंग",
+    "pos": "名詞（女）",
+    "meaning_ja": "ランキング、順位付け",
+    "category": "都市・環境",
+    "difficulty": 1,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_01",
+      "news_vocab_02"
+    ],
+    "sourceCount": 2,
+    "frequency": 2,
+    "notes": ""
+  },
+  {
+    "word": "आबादी",
+    "normalized": "आबादी",
+    "pos": "名詞",
+    "meaning_ja": "人口",
+    "category": "都市・環境",
+    "difficulty": 2,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "कूड़ा",
+    "normalized": "कूड़ा",
+    "pos": "名詞（男）",
+    "meaning_ja": "ごみ、廃棄物",
+    "category": "都市・環境",
+    "difficulty": 2,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_01",
+      "news_vocab_02"
+    ],
+    "sourceCount": 2,
+    "frequency": 2,
+    "notes": ""
+  },
+  {
+    "word": "संकट",
+    "normalized": "संकट",
+    "pos": "名詞（男）",
+    "meaning_ja": "危機",
+    "category": "都市・環境",
+    "difficulty": 2,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_01",
+      "news_vocab_02"
+    ],
+    "sourceCount": 2,
+    "frequency": 2,
+    "notes": ""
+  },
+  {
+    "word": "खारा",
+    "normalized": "खारा",
+    "pos": "形容詞",
+    "meaning_ja": "塩分を含む、塩辛い",
+    "category": "都市・環境",
+    "difficulty": 3,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "गुणवत्ता",
+    "normalized": "गुणवत्ता",
+    "pos": "名詞（女）",
+    "meaning_ja": "品質、質",
+    "category": "都市・環境",
+    "difficulty": 3,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_01",
+      "news_vocab_02"
+    ],
+    "sourceCount": 2,
+    "frequency": 2,
+    "notes": ""
+  },
+  {
+    "word": "चालान",
+    "normalized": "चालान",
+    "pos": "名詞",
+    "meaning_ja": "罰金切符、違反切符、伝票",
+    "category": "都市・環境",
+    "difficulty": 3,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "जागरूकता",
+    "normalized": "जागरूकता",
+    "pos": "名詞（女）",
+    "meaning_ja": "意識向上、認識",
+    "category": "都市・環境",
+    "difficulty": 3,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_01",
+      "news_vocab_02"
+    ],
+    "sourceCount": 2,
+    "frequency": 2,
+    "notes": ""
+  },
+  {
+    "word": "भागीदारी",
+    "normalized": "भागीदारी",
+    "pos": "名詞（女）",
+    "meaning_ja": "参加、参画、関与",
+    "category": "都市・環境",
+    "difficulty": 3,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_01",
+      "news_vocab_02"
+    ],
+    "sourceCount": 2,
+    "frequency": 2,
+    "notes": ""
+  },
+  {
+    "word": "महानगर",
+    "normalized": "महानगर",
+    "pos": "名詞",
+    "meaning_ja": "大都市、メトロポリス",
+    "category": "都市・環境",
+    "difficulty": 3,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "लैंडफिल",
+    "normalized": "लैंडफिल",
+    "pos": "名詞（男）",
+    "meaning_ja": "埋立地、最終処分場",
+    "category": "都市・環境",
+    "difficulty": 3,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_01",
+      "news_vocab_02"
+    ],
+    "sourceCount": 2,
+    "frequency": 2,
+    "notes": ""
+  },
+  {
+    "word": "स्वच्छता",
+    "normalized": "स्वच्छता",
+    "pos": "名詞（女）",
+    "meaning_ja": "清潔さ、衛生、清掃状態",
+    "category": "都市・環境",
+    "difficulty": 3,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_01",
+      "news_vocab_02"
+    ],
+    "sourceCount": 2,
+    "frequency": 2,
+    "notes": ""
+  },
+  {
+    "word": "भू-जल",
+    "normalized": "भू-जल",
+    "pos": "名詞（男）",
+    "meaning_ja": "地下水",
+    "category": "都市・環境",
+    "difficulty": 4,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_01"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "भू-जल",
+    "normalized": "भूजल",
+    "pos": "名詞",
+    "meaning_ja": "地下水",
+    "category": "都市・環境",
+    "difficulty": 4,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "रिचार्ज",
+    "normalized": "रिचार्ज",
+    "pos": "名詞（男）",
+    "meaning_ja": "再涵養; 補充",
+    "category": "都市・環境",
+    "difficulty": 4,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_01"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "दोहन",
+    "normalized": "दोहन",
+    "pos": "名詞（男）",
+    "meaning_ja": "搾取、過度利用、採取",
+    "category": "都市・環境",
+    "difficulty": 5,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_01",
+      "news_vocab_02"
+    ],
+    "sourceCount": 2,
+    "frequency": 2,
+    "notes": ""
+  },
+  {
+    "word": "बढ़ना",
+    "normalized": "बढ़ना",
+    "pos": "動詞",
+    "meaning_ja": "増える、上がる",
+    "category": "重要動詞",
+    "difficulty": 1,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "बढ़ाना",
+    "normalized": "बढ़ाना",
+    "pos": "動詞",
+    "meaning_ja": "増やす、引き上げる",
+    "category": "重要動詞",
+    "difficulty": 1,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "एलान करना",
+    "normalized": "एलान_करना",
+    "pos": "動詞句",
+    "meaning_ja": "発表する",
+    "category": "重要動詞",
+    "difficulty": 2,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "घोषणा करना",
+    "normalized": "घोषणा_करना",
+    "pos": "動詞句",
+    "meaning_ja": "発表する",
+    "category": "重要動詞",
+    "difficulty": 2,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "जारी रखना",
+    "normalized": "जारी_रखना",
+    "pos": "動詞句",
+    "meaning_ja": "継続する、続ける",
+    "category": "重要動詞",
+    "difficulty": 2,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "मंजूर करना",
+    "normalized": "मंजूर_करना",
+    "pos": "動詞句",
+    "meaning_ja": "承認する、認可する",
+    "category": "重要動詞",
+    "difficulty": 2,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "मांग करना",
+    "normalized": "मांग_करना",
+    "pos": "動詞句",
+    "meaning_ja": "要求する",
+    "category": "重要動詞",
+    "difficulty": 2,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "सुधार करना",
+    "normalized": "सुधार_करना",
+    "pos": "動詞句",
+    "meaning_ja": "改善する",
+    "category": "重要動詞",
+    "difficulty": 2,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "पुष्टि करना",
+    "normalized": "पुष्टि_करना",
+    "pos": "動詞句",
+    "meaning_ja": "確認する、裏づける",
+    "category": "重要動詞",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "प्रभावित होना",
+    "normalized": "प्रभावित_होना",
+    "pos": "動詞句",
+    "meaning_ja": "影響を受ける",
+    "category": "重要動詞",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "लागू करना",
+    "normalized": "लागू_करना",
+    "pos": "動詞句",
+    "meaning_ja": "施行する、適用する",
+    "category": "重要動詞",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "लागू होना",
+    "normalized": "लागू_होना",
+    "pos": "動詞句",
+    "meaning_ja": "施行される、適用される",
+    "category": "重要動詞",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "निपटारा करना",
+    "normalized": "निपटारा_करना",
+    "pos": "動詞句",
+    "meaning_ja": "処理する、解決する、裁く",
+    "category": "重要動詞",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "सत्यापित करना",
+    "normalized": "सत्यापित_करना",
+    "pos": "動詞句",
+    "meaning_ja": "検証する、確認する",
+    "category": "重要動詞",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_vocab_02"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  }
+]
