@@ -13,7 +13,7 @@
   },
   "news": {
     "vocab": [
-      "data/news/vocab_master.json"
+        "data/news/quizzes/vocab.json"
     ]
   },
   "bollywood": {
