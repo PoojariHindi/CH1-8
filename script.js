@@ -93,13 +93,17 @@ async function loadAllNewsVocab(manifest) {
   const files = manifest.news?.vocab || [];
   const results = await Promise.all(files.map(loadJson));
 
-  return results.flatMap((fileData) =>
-    (fileData.vocab || []).map((entry) => ({
+  return results.flatMap((fileData) => {
+    const entries = Array.isArray(fileData)
+      ? fileData
+      : (fileData.vocab || []);
+
+    return entries.map((entry) => ({
       ...entry,
       source: "news",
       topic: fileData.topic || "mixed"
-    }))
-  );
+    }));
+  });
 }
 
 // Bollywood は統合ファイルを1つ読む
