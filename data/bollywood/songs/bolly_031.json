@@ -1,0 +1,188 @@
+{
+  "id": "bolly_031",
+  "schema_version": 2,
+  "title": "Tujhe Dekha To Ye Jaana Sanam",
+  "film": "Dilwale Dulhaniya Le Jayenge",
+  "year": 1995,
+  "singer": [
+    "Kumar Sanu",
+    "Lata Mangeshkar"
+  ],
+  "lyricist": [
+    "Anand Bakshi"
+  ],
+  "composer": [
+    "Jatin-Lalit"
+  ],
+  "notes": [
+    "シャールク"
+  ],
+  "tags": [
+    "恋愛"
+  ],
+  "emotion": "classic_romantic_love",
+  "register": "poetic_simple",
+  "key_phrase": "तुझे देखा तो ये जाना सनम, प्यार होता है दीवाना सनम",
+  "expressions": [
+    {
+      "text": "तुझे देखा तो ये जाना सनम",
+      "normalized": "तुझे देखा तो ये जाना सनम",
+      "meaning_ja": "君を見て、これを知ったんだ、愛しい人",
+      "type": "hook_phrase",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "प्यार होता है दीवाना",
+      "normalized": "प्यार होता है दीवाना",
+      "meaning_ja": "愛とは人を夢中にさせるものだ",
+      "type": "romantic_expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "तेरी बाँहों में मर जाएँ हम",
+      "normalized": "तेरी बाहों में मर जाएं हम",
+      "meaning_ja": "君の腕の中で死んでしまいたい",
+      "type": "romantic_hyperbole",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "आँखें मेरी, सपने तेरे",
+      "normalized": "आंखें मेरी सपने तेरे",
+      "meaning_ja": "目は私のもの、夢は君のもの",
+      "type": "poetic_expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "मुस्कुराने लगे सारे ग़म",
+      "normalized": "मुस्कुराने लगे सारे गम",
+      "meaning_ja": "すべての悲しみが微笑み始めた",
+      "type": "metaphor",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "प्यार से है बड़ी क्या क़सम",
+      "normalized": "प्यार से है बड़ी क्या कसम",
+      "meaning_ja": "愛より大きな誓いがあるだろうか",
+      "type": "romantic_expression",
+      "importance": 4,
+      "status": "active"
+    }
+  ],
+  "vocab_candidates": [
+    {
+      "word": "सनम",
+      "normalized": "सनम",
+      "pos": "名詞（男）・呼びかけ",
+      "meaning_ja": "愛しい人、恋人",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "दीवाना",
+      "normalized": "दीवाना",
+      "pos": "名詞・形容詞",
+      "meaning_ja": "恋に狂った人、夢中な",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "बाँहों",
+      "normalized": "बाहें",
+      "pos": "名詞（女・複）",
+      "meaning_ja": "腕の中、両腕",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "आँखें",
+      "normalized": "आंख",
+      "pos": "名詞（女・複）",
+      "meaning_ja": "目",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "सपने",
+      "normalized": "सपना",
+      "pos": "名詞（男・複）",
+      "meaning_ja": "夢",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "यादें",
+      "normalized": "याद",
+      "pos": "名詞（女・複）",
+      "meaning_ja": "思い出、記憶",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "जाँ",
+      "normalized": "जान",
+      "pos": "名詞（女）",
+      "meaning_ja": "命、愛しい人",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "साँसें",
+      "normalized": "सांस",
+      "pos": "名詞（女・複）",
+      "meaning_ja": "息、呼吸",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "आँसू",
+      "normalized": "आंसू",
+      "pos": "名詞（男）",
+      "meaning_ja": "涙",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "मुस्कुराना",
+      "normalized": "मुस्कुराना",
+      "pos": "自動詞",
+      "meaning_ja": "微笑む",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "ग़म",
+      "normalized": "गम",
+      "pos": "名詞（男）",
+      "meaning_ja": "悲しみ、憂い",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "आवाज़",
+      "normalized": "आवाज",
+      "pos": "名詞（女）",
+      "meaning_ja": "声、呼び声",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "क़सम",
+      "normalized": "कसम",
+      "pos": "名詞（女）",
+      "meaning_ja": "誓い",
+      "importance": 3,
+      "status": "active"
+    }
+  ],
+  "meta": {
+    "copyright_safe": true,
+    "lyrics_included": false,
+    "source_type": "manual_curated",
+    "dedupe_ready": true
+  }
+}

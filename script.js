@@ -542,6 +542,7 @@ async function initApp() {
 
     chVocab = await loadAllChVocab(manifest);
     newsVocab = await loadAllNewsVocab(manifest);
+    console.log("news loaded:", newsVocab.length, newsVocab.slice(0,5));
 
     const bolly = await loadBollywoodAll();
     bollywoodVocab = bolly.vocab;

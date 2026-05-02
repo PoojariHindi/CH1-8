@@ -1,0 +1,244 @@
+{
+  "id": "bolly_032",
+  "schema_version": 2,
+  "title": "Bhar Do Jholi Meri",
+  "film": "Bajrangi Bhaijaan",
+  "year": 2015,
+  "singer": [
+    "Adnan Sami"
+  ],
+  "lyricist": [
+    "Kausar Munir"
+  ],
+  "composer": [
+    "Pritam"
+  ],
+  "notes": [
+    "サルマン・カーン"
+  ],
+  "tags": [
+    "祈り",
+    "カッワーリー"
+  ],
+  "emotion": "devotional_pleading",
+  "register": "devotional_qawwali",
+  "key_phrase": "भर दो झोली मेरी या मुहम्मद लौट कर मैं ना जाऊँगा खाली",
+  "expressions": [
+    {
+      "text": "भर दो झोली मेरी",
+      "normalized": "भर दो झोली मेरी",
+      "meaning_ja": "私の袋を満たしてください、恵みをください",
+      "type": "devotional_expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "लौट कर मैं ना जाऊँगा खाली",
+      "normalized": "लौट कर मैं ना जाऊँगा खाली",
+      "meaning_ja": "空っぽのまま帰るつもりはありません",
+      "type": "devotional_expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "तेरे दर पर सर झुकाए",
+      "normalized": "तेरे दर पर सर झुकाए",
+      "meaning_ja": "あなたの門前で頭を垂れて",
+      "type": "devotional_expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "दर से तेरे ना जाए सवाली",
+      "normalized": "दर से तेरे ना जाए सवाली",
+      "meaning_ja": "あなたの門から願い人は去らない",
+      "type": "devotional_expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "कर दे करम नबी",
+      "normalized": "कर दे करम नबी",
+      "meaning_ja": "預言者よ、どうか慈悲をお与えください",
+      "type": "devotional_expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "दे दे दिल को दिलासा",
+      "normalized": "दे दे दिल को दिलासा",
+      "meaning_ja": "心に慰めをください",
+      "type": "expression",
+      "importance": 3,
+      "status": "active"
+    }
+  ],
+  "vocab_candidates": [
+    {
+      "word": "दरबार",
+      "normalized": "दरबार",
+      "pos": "名詞（男）",
+      "meaning_ja": "宮廷、聖者の御前",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "दर",
+      "normalized": "दर",
+      "pos": "名詞（男）",
+      "meaning_ja": "門、戸口、聖地の入口",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "नबी",
+      "normalized": "नबी",
+      "pos": "名詞（男）",
+      "meaning_ja": "預言者",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "झोली",
+      "normalized": "झोली",
+      "pos": "名詞（女）",
+      "meaning_ja": "布袋、施しを受ける袋",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "मुहम्मद",
+      "normalized": "मुहम्मद",
+      "pos": "固有名詞",
+      "meaning_ja": "ムハンマド",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "खाली",
+      "normalized": "खाली",
+      "pos": "形容詞・副詞",
+      "meaning_ja": "空の、空しく",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "दीदों",
+      "normalized": "दीद",
+      "pos": "名詞（女・複）",
+      "meaning_ja": "目、まなざし（詩語）",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "तलक",
+      "normalized": "तलक",
+      "pos": "後置詞的副詞",
+      "meaning_ja": "〜まで",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "सवाली",
+      "normalized": "सवाली",
+      "pos": "名詞・形容詞",
+      "meaning_ja": "願い人、請い求める人",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "आका",
+      "normalized": "आका",
+      "pos": "名詞（男）",
+      "meaning_ja": "主、主人、尊い方",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "सरकार-ए-मदीना",
+      "normalized": "सरकार-ए-मदीना",
+      "pos": "名詞句",
+      "meaning_ja": "マディーナの主、預言者への尊称",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "बेखबर",
+      "normalized": "बेखबर",
+      "pos": "形容詞",
+      "meaning_ja": "我を忘れた、気づかない",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "दर-ब-दर",
+      "normalized": "दर-ब-दर",
+      "pos": "副詞・形容詞",
+      "meaning_ja": "あちこちをさまよう、流浪して",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "दिलासा",
+      "normalized": "दिलासा",
+      "pos": "名詞（男）",
+      "meaning_ja": "慰め、安心",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "रुआँसा",
+      "normalized": "रुआँसा",
+      "pos": "形容詞",
+      "meaning_ja": "泣きそうな、涙ぐんだ",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "करम",
+      "normalized": "करम",
+      "pos": "名詞（男）",
+      "meaning_ja": "慈悲、恩寵",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "पनाह",
+      "normalized": "पनाह",
+      "pos": "名詞（女）",
+      "meaning_ja": "庇護、避難所",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "आह",
+      "normalized": "आह",
+      "pos": "名詞（女）",
+      "meaning_ja": "嘆息、ため息",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "तरस",
+      "normalized": "तरस",
+      "pos": "名詞（男）",
+      "meaning_ja": "哀れみ、同情",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "बिछड़ी",
+      "normalized": "बिछड़ना",
+      "pos": "自動詞・分詞",
+      "meaning_ja": "離れ離れになった、失われた",
+      "importance": 3,
+      "status": "active"
+    }
+  ],
+  "meta": {
+    "copyright_safe": true,
+    "lyrics_included": false,
+    "source_type": "manual_curated",
+    "dedupe_ready": true
+  }
+}

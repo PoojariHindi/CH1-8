@@ -1,11 +1,11 @@
 {
   "topic": "bollywood",
-  "generatedAt": "2026-04-28T21:29:47.123Z",
+  "generatedAt": "2026-05-02T23:48:48.866Z",
   "counts": {
-    "vocab": 373,
-    "expressions": 141,
-    "fillBlanks": 141,
-    "songs": 30
+    "vocab": 393,
+    "expressions": 153,
+    "fillBlanks": 153,
+    "songs": 32
   },
   "vocab": [
     {
@@ -202,17 +202,18 @@
       "key": "ख़्वाहिश",
       "category": "",
       "difficulty": 1,
-      "frequency": 1,
-      "sourceCount": 1,
+      "frequency": 2,
+      "sourceCount": 2,
       "importance": 3,
-      "quizWeight": 6,
+      "quizWeight": 4.8,
       "layer": "B",
       "tags": [
         "感情"
       ],
       "normalized": "ख़्वाहिश",
       "sourceSongIds": [
-        "bolly_003"
+        "bolly_003",
+        "bolly_026"
       ]
     },
     {
@@ -222,18 +223,20 @@
       "key": "ग़म",
       "category": "",
       "difficulty": 1,
-      "frequency": 2,
-      "sourceCount": 2,
-      "importance": 2,
-      "quizWeight": 3.2,
+      "frequency": 4,
+      "sourceCount": 4,
+      "importance": 4,
+      "quizWeight": 4,
       "layer": "B",
       "tags": [
         "感情"
       ],
-      "normalized": "ग़म",
+      "normalized": "गम",
       "sourceSongIds": [
         "bolly_006",
-        "bolly_008"
+        "bolly_008",
+        "bolly_030",
+        "bolly_031"
       ]
     },
     {
@@ -867,10 +870,10 @@
       "key": "पनाह",
       "category": "",
       "difficulty": 1,
-      "frequency": 2,
-      "sourceCount": 2,
+      "frequency": 3,
+      "sourceCount": 3,
       "importance": 4,
-      "quizWeight": 6.4,
+      "quizWeight": 5.2,
       "layer": "B",
       "tags": [
         "関係"
@@ -878,7 +881,8 @@
       "normalized": "पनाह",
       "sourceSongIds": [
         "bolly_001",
-        "bolly_007"
+        "bolly_007",
+        "bolly_032"
       ]
     },
     {
@@ -1244,10 +1248,10 @@
       "key": "मुस्कुराना",
       "category": "",
       "difficulty": 1,
-      "frequency": 2,
-      "sourceCount": 2,
-      "importance": 2,
-      "quizWeight": 3.2,
+      "frequency": 3,
+      "sourceCount": 3,
+      "importance": 3,
+      "quizWeight": 3.9,
       "layer": "B",
       "tags": [
         "行動"
@@ -1255,7 +1259,8 @@
       "normalized": "मुस्कुराना",
       "sourceSongIds": [
         "bolly_007",
-        "bolly_008"
+        "bolly_008",
+        "bolly_031"
       ]
     },
     {
@@ -2520,16 +2525,17 @@
       "key": "याद",
       "category": "",
       "difficulty": 1,
-      "frequency": 2,
-      "sourceCount": 2,
+      "frequency": 3,
+      "sourceCount": 3,
       "importance": 3,
-      "quizWeight": 4.8,
+      "quizWeight": 3.9,
       "layer": "B",
       "tags": [],
       "normalized": "याद",
       "sourceSongIds": [
         "bolly_006",
-        "bolly_010"
+        "bolly_010",
+        "bolly_031"
       ]
     },
     {
@@ -2575,17 +2581,18 @@
       "key": "साँस",
       "category": "",
       "difficulty": 1,
-      "frequency": 3,
-      "sourceCount": 3,
+      "frequency": 4,
+      "sourceCount": 4,
       "importance": 4,
-      "quizWeight": 5.2,
+      "quizWeight": 4,
       "layer": "B",
       "tags": [],
       "normalized": "सांस",
       "sourceSongIds": [
         "bolly_007",
         "bolly_021",
-        "bolly_027"
+        "bolly_027",
+        "bolly_031"
       ]
     },
     {
@@ -2651,17 +2658,18 @@
       "key": "सपना",
       "category": "",
       "difficulty": 1,
-      "frequency": 3,
-      "sourceCount": 3,
+      "frequency": 4,
+      "sourceCount": 4,
       "importance": 3,
-      "quizWeight": 3.9,
+      "quizWeight": 3,
       "layer": "B",
       "tags": [],
       "normalized": "सपना",
       "sourceSongIds": [
         "bolly_009",
         "bolly_017",
-        "bolly_021"
+        "bolly_021",
+        "bolly_031"
       ]
     },
     {
@@ -2746,15 +2754,16 @@
       "key": "जान",
       "category": "",
       "difficulty": 1,
-      "frequency": 1,
-      "sourceCount": 1,
-      "importance": 3,
-      "quizWeight": 6,
+      "frequency": 2,
+      "sourceCount": 2,
+      "importance": 4,
+      "quizWeight": 6.4,
       "layer": "B",
       "tags": [],
       "normalized": "जान",
       "sourceSongIds": [
-        "bolly_011"
+        "bolly_011",
+        "bolly_031"
       ]
     },
     {
@@ -2854,15 +2863,16 @@
       "key": "आँसू",
       "category": "",
       "difficulty": 1,
-      "frequency": 1,
-      "sourceCount": 1,
+      "frequency": 2,
+      "sourceCount": 2,
       "importance": 3,
-      "quizWeight": 6,
+      "quizWeight": 4.8,
       "layer": "B",
       "tags": [],
       "normalized": "आंसू",
       "sourceSongIds": [
-        "bolly_011"
+        "bolly_011",
+        "bolly_031"
       ]
     },
     {
@@ -3032,22 +3042,23 @@
       ]
     },
     {
-      "word": "सुकूँ",
+      "word": "सुकून",
       "meaning": "安らぎ",
       "pos": "名詞（男）",
-      "key": "सुकूँ",
+      "key": "सुकून",
       "category": "",
       "difficulty": 1,
-      "frequency": 2,
-      "sourceCount": 2,
+      "frequency": 3,
+      "sourceCount": 3,
       "importance": 4,
-      "quizWeight": 6.4,
+      "quizWeight": 5.2,
       "layer": "B",
       "tags": [],
-      "normalized": "सुकूं",
+      "normalized": "सुकून",
       "sourceSongIds": [
         "bolly_014",
-        "bolly_020"
+        "bolly_020",
+        "bolly_024"
       ]
     },
     {
@@ -3424,14 +3435,16 @@
       "key": "बदतमीज़",
       "category": "",
       "difficulty": 1,
-      "frequency": 0,
-      "sourceCount": 0,
+      "frequency": 1,
+      "sourceCount": 1,
       "importance": 4,
       "quizWeight": 8,
       "layer": "B",
       "tags": [],
       "normalized": "बदतमीज",
-      "sourceSongIds": []
+      "sourceSongIds": [
+        "bolly_018"
+      ]
     },
     {
       "word": "ज़िद",
@@ -3494,14 +3507,16 @@
       "key": "भूत",
       "category": "",
       "difficulty": 1,
-      "frequency": 0,
-      "sourceCount": 0,
+      "frequency": 1,
+      "sourceCount": 1,
       "importance": 3,
       "quizWeight": 6,
       "layer": "B",
       "tags": [],
       "normalized": "भूत",
-      "sourceSongIds": []
+      "sourceSongIds": [
+        "bolly_018"
+      ]
     },
     {
       "word": "फर्क",
@@ -3510,14 +3525,16 @@
       "key": "फर्क",
       "category": "",
       "difficulty": 1,
-      "frequency": 0,
-      "sourceCount": 0,
+      "frequency": 1,
+      "sourceCount": 1,
       "importance": 4,
       "quizWeight": 8,
       "layer": "B",
       "tags": [],
       "normalized": "फर्क",
-      "sourceSongIds": []
+      "sourceSongIds": [
+        "bolly_018"
+      ]
     },
     {
       "word": "शरम",
@@ -3526,14 +3543,16 @@
       "key": "शरम",
       "category": "",
       "difficulty": 1,
-      "frequency": 0,
-      "sourceCount": 0,
+      "frequency": 1,
+      "sourceCount": 1,
       "importance": 3,
       "quizWeight": 6,
       "layer": "B",
       "tags": [],
       "normalized": "शरम",
-      "sourceSongIds": []
+      "sourceSongIds": [
+        "bolly_018"
+      ]
     },
     {
       "word": "धक्का",
@@ -3542,14 +3561,16 @@
       "key": "धक्का",
       "category": "",
       "difficulty": 1,
-      "frequency": 0,
-      "sourceCount": 0,
+      "frequency": 1,
+      "sourceCount": 1,
       "importance": 3,
       "quizWeight": 6,
       "layer": "B",
       "tags": [],
       "normalized": "धक्का",
-      "sourceSongIds": []
+      "sourceSongIds": [
+        "bolly_018"
+      ]
     },
     {
       "word": "चक्कर",
@@ -3558,14 +3579,16 @@
       "key": "चक्कर",
       "category": "",
       "difficulty": 1,
-      "frequency": 0,
-      "sourceCount": 0,
+      "frequency": 1,
+      "sourceCount": 1,
       "importance": 3,
       "quizWeight": 6,
       "layer": "B",
       "tags": [],
       "normalized": "चक्कर",
-      "sourceSongIds": []
+      "sourceSongIds": [
+        "bolly_018"
+      ]
     },
     {
       "word": "ज़बाँ",
@@ -4915,36 +4938,16 @@
       ]
     },
     {
-      "word": "सुकून",
-      "meaning": "",
-      "pos": "",
-      "key": "सुकून",
-      "category": "",
-      "difficulty": 1,
-      "frequency": 3,
-      "sourceCount": 3,
-      "importance": 3,
-      "quizWeight": 3.9,
-      "layer": "B",
-      "tags": [],
-      "normalized": "सुकून",
-      "sourceSongIds": [
-        "bolly_014",
-        "bolly_020",
-        "bolly_024"
-      ]
-    },
-    {
       "word": "सरहद",
-      "meaning": "",
-      "pos": "",
+      "meaning": "国境、境界線",
+      "pos": "名詞（女）",
       "key": "सरहद",
       "category": "",
       "difficulty": 1,
       "frequency": 2,
       "sourceCount": 2,
-      "importance": 3,
-      "quizWeight": 4.8,
+      "importance": 4,
+      "quizWeight": 6.4,
       "layer": "B",
       "tags": [],
       "normalized": "सरहद",
@@ -4955,19 +4958,21 @@
     },
     {
       "word": "अजनबी",
-      "meaning": "",
-      "pos": "",
+      "meaning": "見知らぬ人、他人",
+      "pos": "名詞・形容詞",
       "key": "अजनबी",
       "category": "",
       "difficulty": 1,
-      "frequency": 0,
-      "sourceCount": 0,
+      "frequency": 1,
+      "sourceCount": 1,
       "importance": 3,
       "quizWeight": 6,
       "layer": "B",
       "tags": [],
       "normalized": "अजनबी",
-      "sourceSongIds": []
+      "sourceSongIds": [
+        "bolly_024"
+      ]
     },
     {
       "word": "गुज़ारा",
@@ -5193,15 +5198,16 @@
       "key": "बेखबर",
       "category": "",
       "difficulty": 1,
-      "frequency": 1,
-      "sourceCount": 1,
+      "frequency": 2,
+      "sourceCount": 2,
       "importance": 3,
-      "quizWeight": 6,
+      "quizWeight": 4.8,
       "layer": "B",
       "tags": [],
       "normalized": "बेखबर",
       "sourceSongIds": [
-        "bolly_025"
+        "bolly_025",
+        "bolly_032"
       ]
     },
     {
@@ -5373,15 +5379,16 @@
       "key": "दर",
       "category": "",
       "difficulty": 1,
-      "frequency": 1,
-      "sourceCount": 1,
+      "frequency": 2,
+      "sourceCount": 2,
       "importance": 4,
-      "quizWeight": 8,
+      "quizWeight": 6.4,
       "layer": "B",
       "tags": [],
       "normalized": "दर",
       "sourceSongIds": [
-        "bolly_026"
+        "bolly_026",
+        "bolly_032"
       ]
     },
     {
@@ -5752,15 +5759,16 @@
       "key": "बाहों",
       "category": "",
       "difficulty": 1,
-      "frequency": 1,
-      "sourceCount": 1,
+      "frequency": 2,
+      "sourceCount": 2,
       "importance": 3,
-      "quizWeight": 6,
+      "quizWeight": 4.8,
       "layer": "B",
       "tags": [],
       "normalized": "बाहें",
       "sourceSongIds": [
-        "bolly_027"
+        "bolly_027",
+        "bolly_031"
       ]
     },
     {
@@ -5824,16 +5832,17 @@
       "key": "कसम",
       "category": "",
       "difficulty": 1,
-      "frequency": 2,
-      "sourceCount": 2,
+      "frequency": 3,
+      "sourceCount": 3,
       "importance": 3,
-      "quizWeight": 4.8,
+      "quizWeight": 3.9,
       "layer": "B",
       "tags": [],
       "normalized": "कसम",
       "sourceSongIds": [
         "bolly_027",
-        "bolly_030"
+        "bolly_030",
+        "bolly_031"
       ]
     },
     {
@@ -6600,15 +6609,16 @@
       "key": "दीवाना",
       "category": "",
       "difficulty": 1,
-      "frequency": 1,
-      "sourceCount": 1,
+      "frequency": 2,
+      "sourceCount": 2,
       "importance": 4,
-      "quizWeight": 8,
+      "quizWeight": 6.4,
       "layer": "B",
       "tags": [],
       "normalized": "दीवाना",
       "sourceSongIds": [
-        "bolly_029"
+        "bolly_029",
+        "bolly_031"
       ]
     },
     {
@@ -6918,24 +6928,6 @@
       ]
     },
     {
-      "word": "गम",
-      "meaning": "悲しみ、憂い",
-      "pos": "名詞（男）",
-      "key": "गम",
-      "category": "",
-      "difficulty": 1,
-      "frequency": 1,
-      "sourceCount": 1,
-      "importance": 4,
-      "quizWeight": 8,
-      "layer": "B",
-      "tags": [],
-      "normalized": "गम",
-      "sourceSongIds": [
-        "bolly_030"
-      ]
-    },
-    {
       "word": "चुभना",
       "meaning": "刺さる、痛む",
       "pos": "自動詞",
@@ -7005,6 +6997,402 @@
       "normalized": "बला",
       "sourceSongIds": [
         "bolly_030"
+      ]
+    },
+    {
+      "word": "रचना",
+      "meaning": "染める、飾る、構成する",
+      "pos": "他動詞",
+      "key": "रचना",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 3,
+      "quizWeight": 6,
+      "layer": "B",
+      "tags": [],
+      "normalized": "रचना",
+      "sourceSongIds": [
+        "bolly_029"
+      ]
+    },
+    {
+      "word": "गोरे",
+      "meaning": "色白の、白い",
+      "pos": "形容詞",
+      "key": "गोरे",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 3,
+      "quizWeight": 6,
+      "layer": "B",
+      "tags": [],
+      "normalized": "गोरा",
+      "sourceSongIds": [
+        "bolly_029"
+      ]
+    },
+    {
+      "word": "डोरे",
+      "meaning": "筋、線、糸状のもの",
+      "pos": "名詞（男・複）",
+      "key": "डोरे",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 2,
+      "quizWeight": 4,
+      "layer": "B",
+      "tags": [],
+      "normalized": "डोरे",
+      "sourceSongIds": [
+        "bolly_029"
+      ]
+    },
+    {
+      "word": "सनम",
+      "meaning": "愛しい人、恋人",
+      "pos": "名詞（男）・呼びかけ",
+      "key": "सनम",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 4,
+      "quizWeight": 8,
+      "layer": "B",
+      "tags": [],
+      "normalized": "सनम",
+      "sourceSongIds": [
+        "bolly_031"
+      ]
+    },
+    {
+      "word": "आवाज़",
+      "meaning": "声、呼び声",
+      "pos": "名詞（女）",
+      "key": "आवाज़",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 3,
+      "quizWeight": 6,
+      "layer": "B",
+      "tags": [],
+      "normalized": "आवाज",
+      "sourceSongIds": [
+        "bolly_031"
+      ]
+    },
+    {
+      "word": "दरबार",
+      "meaning": "宮廷、聖者の御前",
+      "pos": "名詞（男）",
+      "key": "दरबार",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 4,
+      "quizWeight": 8,
+      "layer": "B",
+      "tags": [],
+      "normalized": "दरबार",
+      "sourceSongIds": [
+        "bolly_032"
+      ]
+    },
+    {
+      "word": "नबी",
+      "meaning": "預言者",
+      "pos": "名詞（男）",
+      "key": "नबी",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 4,
+      "quizWeight": 8,
+      "layer": "B",
+      "tags": [],
+      "normalized": "नबी",
+      "sourceSongIds": [
+        "bolly_032"
+      ]
+    },
+    {
+      "word": "झोली",
+      "meaning": "布袋、施しを受ける袋",
+      "pos": "名詞（女）",
+      "key": "झोली",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 4,
+      "quizWeight": 8,
+      "layer": "B",
+      "tags": [],
+      "normalized": "झोली",
+      "sourceSongIds": [
+        "bolly_032"
+      ]
+    },
+    {
+      "word": "मुहम्मद",
+      "meaning": "ムハンマド",
+      "pos": "固有名詞",
+      "key": "मुहम्मद",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 4,
+      "quizWeight": 8,
+      "layer": "B",
+      "tags": [],
+      "normalized": "मुहम्मद",
+      "sourceSongIds": [
+        "bolly_032"
+      ]
+    },
+    {
+      "word": "खाली",
+      "meaning": "空の、空しく",
+      "pos": "形容詞・副詞",
+      "key": "खाली",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 3,
+      "quizWeight": 6,
+      "layer": "B",
+      "tags": [],
+      "normalized": "खाली",
+      "sourceSongIds": [
+        "bolly_032"
+      ]
+    },
+    {
+      "word": "दीद",
+      "meaning": "目、まなざし（詩語）",
+      "pos": "名詞（女）",
+      "key": "दीद",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 4,
+      "quizWeight": 8,
+      "layer": "B",
+      "tags": [],
+      "normalized": "दीद",
+      "sourceSongIds": [
+        "bolly_032"
+      ]
+    },
+    {
+      "word": "तलक",
+      "meaning": "〜まで",
+      "pos": "副詞",
+      "key": "तलक",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 3,
+      "quizWeight": 6,
+      "layer": "B",
+      "tags": [],
+      "normalized": "तलक",
+      "sourceSongIds": [
+        "bolly_032"
+      ]
+    },
+    {
+      "word": "सवाली",
+      "meaning": "願い人、請い求める人",
+      "pos": "名詞・形容詞",
+      "key": "सवाली",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 4,
+      "quizWeight": 8,
+      "layer": "B",
+      "tags": [],
+      "normalized": "सवाली",
+      "sourceSongIds": [
+        "bolly_032"
+      ]
+    },
+    {
+      "word": "आका",
+      "meaning": "主、主人、尊い方",
+      "pos": "名詞（男）",
+      "key": "आका",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 4,
+      "quizWeight": 8,
+      "layer": "B",
+      "tags": [],
+      "normalized": "आका",
+      "sourceSongIds": [
+        "bolly_032"
+      ]
+    },
+    {
+      "word": "सरकार-ए-मदीना",
+      "meaning": "マディーナの主、預言者への尊称",
+      "pos": "名詞句",
+      "key": "सरकार-ए-मदीना",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 4,
+      "quizWeight": 8,
+      "layer": "B",
+      "tags": [],
+      "normalized": "सरकार-ए-मदीना",
+      "sourceSongIds": [
+        "bolly_032"
+      ]
+    },
+    {
+      "word": "दर-ब-दर",
+      "meaning": "あちこちをさまよう、流浪して",
+      "pos": "副詞・形容詞",
+      "key": "दर-ब-दर",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 4,
+      "quizWeight": 8,
+      "layer": "B",
+      "tags": [],
+      "normalized": "दर-ब-दर",
+      "sourceSongIds": [
+        "bolly_032"
+      ]
+    },
+    {
+      "word": "दिलासा",
+      "meaning": "慰め、安心",
+      "pos": "名詞（男）",
+      "key": "दिलासा",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 3,
+      "quizWeight": 6,
+      "layer": "B",
+      "tags": [],
+      "normalized": "दिलासा",
+      "sourceSongIds": [
+        "bolly_032"
+      ]
+    },
+    {
+      "word": "रुआँसा",
+      "meaning": "泣きそうな、涙ぐんだ",
+      "pos": "形容詞",
+      "key": "रुआँसा",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 4,
+      "quizWeight": 8,
+      "layer": "B",
+      "tags": [],
+      "normalized": "रुआँसा",
+      "sourceSongIds": [
+        "bolly_032"
+      ]
+    },
+    {
+      "word": "करम",
+      "meaning": "慈悲、恩寵",
+      "pos": "名詞（男）",
+      "key": "करम",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 4,
+      "quizWeight": 8,
+      "layer": "B",
+      "tags": [],
+      "normalized": "करम",
+      "sourceSongIds": [
+        "bolly_032"
+      ]
+    },
+    {
+      "word": "आह",
+      "meaning": "嘆息、ため息",
+      "pos": "名詞（女）",
+      "key": "आह",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 3,
+      "quizWeight": 6,
+      "layer": "B",
+      "tags": [],
+      "normalized": "आह",
+      "sourceSongIds": [
+        "bolly_032"
+      ]
+    },
+    {
+      "word": "तरस",
+      "meaning": "哀れみ、同情",
+      "pos": "名詞（男）",
+      "key": "तरस",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 3,
+      "quizWeight": 6,
+      "layer": "B",
+      "tags": [],
+      "normalized": "तरस",
+      "sourceSongIds": [
+        "bolly_032"
+      ]
+    },
+    {
+      "word": "बिछड़ना",
+      "meaning": "離れ離れになる、失われる",
+      "pos": "自動詞",
+      "key": "बिछड़ना",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 3,
+      "quizWeight": 6,
+      "layer": "B",
+      "tags": [],
+      "normalized": "बिछड़ना",
+      "sourceSongIds": [
+        "bolly_032"
       ]
     }
   ],
@@ -9123,6 +9511,186 @@
       "difficulty": 1,
       "tags": [],
       "status": "active"
+    },
+    {
+      "id": "bolly_031::expr::1",
+      "type": "expression",
+      "songId": "bolly_031",
+      "songTitle": "Tujhe Dekha To Ye Jaana Sanam",
+      "film": "Dilwale Dulhaniya Le Jayenge",
+      "year": 1995,
+      "text": "तुझे देखा तो ये जाना सनम",
+      "normalized": "तुझे देखा तो ये जाना सनम",
+      "meaning": "君を見て、これを知ったんだ、愛しい人",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": [],
+      "status": "active"
+    },
+    {
+      "id": "bolly_031::expr::2",
+      "type": "expression",
+      "songId": "bolly_031",
+      "songTitle": "Tujhe Dekha To Ye Jaana Sanam",
+      "film": "Dilwale Dulhaniya Le Jayenge",
+      "year": 1995,
+      "text": "प्यार होता है दीवाना",
+      "normalized": "प्यार होता है दीवाना",
+      "meaning": "愛とは人を夢中にさせるものだ",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": [],
+      "status": "active"
+    },
+    {
+      "id": "bolly_031::expr::3",
+      "type": "expression",
+      "songId": "bolly_031",
+      "songTitle": "Tujhe Dekha To Ye Jaana Sanam",
+      "film": "Dilwale Dulhaniya Le Jayenge",
+      "year": 1995,
+      "text": "तेरी बाँहों में मर जाएँ हम",
+      "normalized": "तेरी बाहों में मर जाएं हम",
+      "meaning": "君の腕の中で死んでしまいたい",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": [],
+      "status": "active"
+    },
+    {
+      "id": "bolly_031::expr::4",
+      "type": "expression",
+      "songId": "bolly_031",
+      "songTitle": "Tujhe Dekha To Ye Jaana Sanam",
+      "film": "Dilwale Dulhaniya Le Jayenge",
+      "year": 1995,
+      "text": "आँखें मेरी, सपने तेरे",
+      "normalized": "आंखें मेरी सपने तेरे",
+      "meaning": "目は私のもの、夢は君のもの",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": [],
+      "status": "active"
+    },
+    {
+      "id": "bolly_031::expr::5",
+      "type": "expression",
+      "songId": "bolly_031",
+      "songTitle": "Tujhe Dekha To Ye Jaana Sanam",
+      "film": "Dilwale Dulhaniya Le Jayenge",
+      "year": 1995,
+      "text": "मुस्कुराने लगे सारे ग़म",
+      "normalized": "मुस्कुराने लगे सारे गम",
+      "meaning": "すべての悲しみが微笑み始めた",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": [],
+      "status": "active"
+    },
+    {
+      "id": "bolly_031::expr::6",
+      "type": "expression",
+      "songId": "bolly_031",
+      "songTitle": "Tujhe Dekha To Ye Jaana Sanam",
+      "film": "Dilwale Dulhaniya Le Jayenge",
+      "year": 1995,
+      "text": "प्यार से है बड़ी क्या क़सम",
+      "normalized": "प्यार से है बड़ी क्या कसम",
+      "meaning": "愛より大きな誓いがあるだろうか",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": [],
+      "status": "active"
+    },
+    {
+      "id": "bolly_032::expr::1",
+      "type": "expression",
+      "songId": "bolly_032",
+      "songTitle": "Bhar Do Jholi Meri",
+      "film": "Bajrangi Bhaijaan",
+      "year": 2015,
+      "text": "भर दो झोली मेरी",
+      "normalized": "भर दो झोली मेरी",
+      "meaning": "私の袋を満たしてください、恵みをください",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": [],
+      "status": "active"
+    },
+    {
+      "id": "bolly_032::expr::2",
+      "type": "expression",
+      "songId": "bolly_032",
+      "songTitle": "Bhar Do Jholi Meri",
+      "film": "Bajrangi Bhaijaan",
+      "year": 2015,
+      "text": "लौट कर मैं ना जाऊँगा खाली",
+      "normalized": "लौट कर मैं ना जाऊँगा खाली",
+      "meaning": "空っぽのまま帰るつもりはありません",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": [],
+      "status": "active"
+    },
+    {
+      "id": "bolly_032::expr::3",
+      "type": "expression",
+      "songId": "bolly_032",
+      "songTitle": "Bhar Do Jholi Meri",
+      "film": "Bajrangi Bhaijaan",
+      "year": 2015,
+      "text": "तेरे दर पर सर झुकाए",
+      "normalized": "तेरे दर पर सर झुकाए",
+      "meaning": "あなたの門前で頭を垂れて",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": [],
+      "status": "active"
+    },
+    {
+      "id": "bolly_032::expr::4",
+      "type": "expression",
+      "songId": "bolly_032",
+      "songTitle": "Bhar Do Jholi Meri",
+      "film": "Bajrangi Bhaijaan",
+      "year": 2015,
+      "text": "दर से तेरे ना जाए सवाली",
+      "normalized": "दर से तेरे ना जाए सवाली",
+      "meaning": "あなたの門から願い人は去らない",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": [],
+      "status": "active"
+    },
+    {
+      "id": "bolly_032::expr::5",
+      "type": "expression",
+      "songId": "bolly_032",
+      "songTitle": "Bhar Do Jholi Meri",
+      "film": "Bajrangi Bhaijaan",
+      "year": 2015,
+      "text": "कर दे करम नबी",
+      "normalized": "कर दे करम नबी",
+      "meaning": "預言者よ、どうか慈悲をお与えください",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": [],
+      "status": "active"
+    },
+    {
+      "id": "bolly_032::expr::6",
+      "type": "expression",
+      "songId": "bolly_032",
+      "songTitle": "Bhar Do Jholi Meri",
+      "film": "Bajrangi Bhaijaan",
+      "year": 2015,
+      "text": "दे दे दिल को दिलासा",
+      "normalized": "दे दे दिल को दिलासा",
+      "meaning": "心に慰めをください",
+      "importance": 3,
+      "difficulty": 1,
+      "tags": [],
+      "status": "active"
     }
   ],
   "fillBlanks": [
@@ -11238,6 +11806,186 @@
       "answer": "मेरी",
       "meaning": "心は寂しく、唇には渇きがある",
       "importance": 4,
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "id": "bolly_031::expr::1::blank::1",
+      "type": "fill_blank",
+      "songId": "bolly_031",
+      "songTitle": "Tujhe Dekha To Ye Jaana Sanam",
+      "film": "Dilwale Dulhaniya Le Jayenge",
+      "year": 1995,
+      "sourceText": "तुझे देखा तो ये जाना सनम",
+      "prompt": "_____ देखा तो ये जाना सनम",
+      "answer": "तुझे",
+      "meaning": "君を見て、これを知ったんだ、愛しい人",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "id": "bolly_031::expr::2::blank::2",
+      "type": "fill_blank",
+      "songId": "bolly_031",
+      "songTitle": "Tujhe Dekha To Ye Jaana Sanam",
+      "film": "Dilwale Dulhaniya Le Jayenge",
+      "year": 1995,
+      "sourceText": "प्यार होता है दीवाना",
+      "prompt": "_____ होता है दीवाना",
+      "answer": "प्यार",
+      "meaning": "愛とは人を夢中にさせるものだ",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "id": "bolly_031::expr::3::blank::3",
+      "type": "fill_blank",
+      "songId": "bolly_031",
+      "songTitle": "Tujhe Dekha To Ye Jaana Sanam",
+      "film": "Dilwale Dulhaniya Le Jayenge",
+      "year": 1995,
+      "sourceText": "तेरी बाँहों में मर जाएँ हम",
+      "prompt": "_____ बाँहों में मर जाएँ हम",
+      "answer": "तेरी",
+      "meaning": "君の腕の中で死んでしまいたい",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "id": "bolly_031::expr::4::blank::4",
+      "type": "fill_blank",
+      "songId": "bolly_031",
+      "songTitle": "Tujhe Dekha To Ye Jaana Sanam",
+      "film": "Dilwale Dulhaniya Le Jayenge",
+      "year": 1995,
+      "sourceText": "आँखें मेरी, सपने तेरे",
+      "prompt": "_____ मेरी, सपने तेरे",
+      "answer": "आँखें",
+      "meaning": "目は私のもの、夢は君のもの",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "id": "bolly_031::expr::5::blank::5",
+      "type": "fill_blank",
+      "songId": "bolly_031",
+      "songTitle": "Tujhe Dekha To Ye Jaana Sanam",
+      "film": "Dilwale Dulhaniya Le Jayenge",
+      "year": 1995,
+      "sourceText": "मुस्कुराने लगे सारे ग़म",
+      "prompt": "_____ लगे सारे ग़म",
+      "answer": "मुस्कुराने",
+      "meaning": "すべての悲しみが微笑み始めた",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "id": "bolly_031::expr::6::blank::6",
+      "type": "fill_blank",
+      "songId": "bolly_031",
+      "songTitle": "Tujhe Dekha To Ye Jaana Sanam",
+      "film": "Dilwale Dulhaniya Le Jayenge",
+      "year": 1995,
+      "sourceText": "प्यार से है बड़ी क्या क़सम",
+      "prompt": "_____ से है बड़ी क्या क़सम",
+      "answer": "प्यार",
+      "meaning": "愛より大きな誓いがあるだろうか",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "id": "bolly_032::expr::1::blank::1",
+      "type": "fill_blank",
+      "songId": "bolly_032",
+      "songTitle": "Bhar Do Jholi Meri",
+      "film": "Bajrangi Bhaijaan",
+      "year": 2015,
+      "sourceText": "भर दो झोली मेरी",
+      "prompt": "_____ दो झोली मेरी",
+      "answer": "भर",
+      "meaning": "私の袋を満たしてください、恵みをください",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "id": "bolly_032::expr::2::blank::2",
+      "type": "fill_blank",
+      "songId": "bolly_032",
+      "songTitle": "Bhar Do Jholi Meri",
+      "film": "Bajrangi Bhaijaan",
+      "year": 2015,
+      "sourceText": "लौट कर मैं ना जाऊँगा खाली",
+      "prompt": "_____ कर मैं ना जाऊँगा खाली",
+      "answer": "लौट",
+      "meaning": "空っぽのまま帰るつもりはありません",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "id": "bolly_032::expr::3::blank::3",
+      "type": "fill_blank",
+      "songId": "bolly_032",
+      "songTitle": "Bhar Do Jholi Meri",
+      "film": "Bajrangi Bhaijaan",
+      "year": 2015,
+      "sourceText": "तेरे दर पर सर झुकाए",
+      "prompt": "_____ दर पर सर झुकाए",
+      "answer": "तेरे",
+      "meaning": "あなたの門前で頭を垂れて",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "id": "bolly_032::expr::4::blank::4",
+      "type": "fill_blank",
+      "songId": "bolly_032",
+      "songTitle": "Bhar Do Jholi Meri",
+      "film": "Bajrangi Bhaijaan",
+      "year": 2015,
+      "sourceText": "दर से तेरे ना जाए सवाली",
+      "prompt": "_____ से तेरे ना जाए सवाली",
+      "answer": "दर",
+      "meaning": "あなたの門から願い人は去らない",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "id": "bolly_032::expr::5::blank::5",
+      "type": "fill_blank",
+      "songId": "bolly_032",
+      "songTitle": "Bhar Do Jholi Meri",
+      "film": "Bajrangi Bhaijaan",
+      "year": 2015,
+      "sourceText": "कर दे करम नबी",
+      "prompt": "_____ दे करम नबी",
+      "answer": "कर",
+      "meaning": "預言者よ、どうか慈悲をお与えください",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "id": "bolly_032::expr::6::blank::6",
+      "type": "fill_blank",
+      "songId": "bolly_032",
+      "songTitle": "Bhar Do Jholi Meri",
+      "film": "Bajrangi Bhaijaan",
+      "year": 2015,
+      "sourceText": "दे दे दिल को दिलासा",
+      "prompt": "_____ दे दिल को दिलासा",
+      "answer": "दे",
+      "meaning": "心に慰めをください",
+      "importance": 3,
       "difficulty": 1,
       "tags": []
     }
