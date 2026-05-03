@@ -1,11 +1,11 @@
 {
   "topic": "bollywood",
-  "generatedAt": "2026-05-02T23:48:48.866Z",
+  "generatedAt": "2026-05-03T10:15:47.497Z",
   "counts": {
-    "vocab": 393,
-    "expressions": 153,
-    "fillBlanks": 153,
-    "songs": 32
+    "vocab": 441,
+    "expressions": 179,
+    "fillBlanks": 178,
+    "songs": 37
   },
   "vocab": [
     {
@@ -33,8 +33,8 @@
       "key": "इश्क",
       "category": "",
       "difficulty": 1,
-      "frequency": 4,
-      "sourceCount": 4,
+      "frequency": 5,
+      "sourceCount": 5,
       "importance": 4,
       "quizWeight": 4,
       "layer": "B",
@@ -46,7 +46,8 @@
         "bolly_001",
         "bolly_005",
         "bolly_016",
-        "bolly_025"
+        "bolly_025",
+        "bolly_033"
       ]
     },
     {
@@ -181,8 +182,8 @@
       "key": "ख्वाब",
       "category": "",
       "difficulty": 1,
-      "frequency": 4,
-      "sourceCount": 4,
+      "frequency": 5,
+      "sourceCount": 5,
       "importance": 4,
       "quizWeight": 4,
       "layer": "B",
@@ -192,7 +193,8 @@
         "bolly_013",
         "bolly_002",
         "bolly_022",
-        "bolly_026"
+        "bolly_026",
+        "bolly_037"
       ]
     },
     {
@@ -1148,17 +1150,18 @@
       "key": "मंज़िल",
       "category": "abstract",
       "difficulty": 2,
-      "frequency": 3,
-      "sourceCount": 3,
+      "frequency": 4,
+      "sourceCount": 4,
       "importance": 4,
-      "quizWeight": 5.2,
+      "quizWeight": 4,
       "layer": "A",
       "tags": [],
       "normalized": "मंजिल",
       "sourceSongIds": [
         "bolly_009",
         "bolly_015",
-        "bolly_025"
+        "bolly_025",
+        "bolly_037"
       ]
     },
     {
@@ -1757,10 +1760,10 @@
       "key": "अदा",
       "category": "appearance",
       "difficulty": 2,
-      "frequency": 2,
-      "sourceCount": 2,
+      "frequency": 4,
+      "sourceCount": 4,
       "importance": 4,
-      "quizWeight": 6.4,
+      "quizWeight": 4,
       "layer": "A",
       "tags": [
         "恋愛",
@@ -1769,7 +1772,9 @@
       "normalized": "अदा",
       "sourceSongIds": [
         "bolly_015",
-        "bolly_021"
+        "bolly_021",
+        "bolly_035",
+        "bolly_037"
       ]
     },
     {
@@ -1801,10 +1806,10 @@
       "key": "शरारत",
       "category": "personality",
       "difficulty": 2,
-      "frequency": 1,
-      "sourceCount": 1,
-      "importance": 3,
-      "quizWeight": 6,
+      "frequency": 2,
+      "sourceCount": 2,
+      "importance": 4,
+      "quizWeight": 6.4,
       "layer": "B",
       "tags": [
         "恋愛",
@@ -1812,7 +1817,8 @@
       ],
       "normalized": "शरारत",
       "sourceSongIds": [
-        "bolly_015"
+        "bolly_015",
+        "bolly_033"
       ]
     },
     {
@@ -1843,10 +1849,10 @@
       "key": "शरमाना",
       "category": "action",
       "difficulty": 2,
-      "frequency": 1,
-      "sourceCount": 1,
+      "frequency": 2,
+      "sourceCount": 2,
       "importance": 3,
-      "quizWeight": 6,
+      "quizWeight": 4.8,
       "layer": "B",
       "tags": [
         "恋愛",
@@ -1854,7 +1860,8 @@
       ],
       "normalized": "शरमाना",
       "sourceSongIds": [
-        "bolly_015"
+        "bolly_015",
+        "bolly_034"
       ]
     },
     {
@@ -2213,15 +2220,17 @@
       "key": "इशारा",
       "category": "",
       "difficulty": 1,
-      "frequency": 1,
-      "sourceCount": 1,
+      "frequency": 3,
+      "sourceCount": 3,
       "importance": 3,
-      "quizWeight": 6,
+      "quizWeight": 3.9,
       "layer": "B",
       "tags": [],
       "normalized": "इशारा",
       "sourceSongIds": [
-        "bolly_003"
+        "bolly_003",
+        "bolly_033",
+        "bolly_037"
       ]
     },
     {
@@ -3270,15 +3279,16 @@
       "key": "नाचना",
       "category": "",
       "difficulty": 1,
-      "frequency": 1,
-      "sourceCount": 1,
+      "frequency": 2,
+      "sourceCount": 2,
       "importance": 4,
-      "quizWeight": 8,
+      "quizWeight": 6.4,
       "layer": "B",
       "tags": [],
       "normalized": "नाचना",
       "sourceSongIds": [
-        "bolly_004"
+        "bolly_004",
+        "bolly_034"
       ]
     },
     {
@@ -3371,25 +3381,6 @@
       "normalized": "मिलना",
       "sourceSongIds": [
         "bolly_010"
-      ]
-    },
-    {
-      "word": "जाना",
-      "meaning": "行く",
-      "pos": "動詞",
-      "key": "जाना",
-      "category": "",
-      "difficulty": 1,
-      "frequency": 2,
-      "sourceCount": 2,
-      "importance": 3,
-      "quizWeight": 4.8,
-      "layer": "B",
-      "tags": [],
-      "normalized": "जाना",
-      "sourceSongIds": [
-        "bolly_010",
-        "bolly_011"
       ]
     },
     {
@@ -3507,15 +3498,16 @@
       "key": "भूत",
       "category": "",
       "difficulty": 1,
-      "frequency": 1,
-      "sourceCount": 1,
+      "frequency": 2,
+      "sourceCount": 2,
       "importance": 3,
-      "quizWeight": 6,
+      "quizWeight": 4.8,
       "layer": "B",
       "tags": [],
       "normalized": "भूत",
       "sourceSongIds": [
-        "bolly_018"
+        "bolly_018",
+        "bolly_033"
       ]
     },
     {
@@ -3943,16 +3935,17 @@
       "key": "इबादत",
       "category": "",
       "difficulty": 1,
-      "frequency": 2,
-      "sourceCount": 2,
+      "frequency": 3,
+      "sourceCount": 3,
       "importance": 4,
-      "quizWeight": 6.4,
+      "quizWeight": 5.2,
       "layer": "B",
       "tags": [],
       "normalized": "इबादत",
       "sourceSongIds": [
         "bolly_020",
-        "bolly_026"
+        "bolly_026",
+        "bolly_037"
       ]
     },
     {
@@ -4071,17 +4064,18 @@
       "key": "दुआ",
       "category": "",
       "difficulty": 1,
-      "frequency": 3,
-      "sourceCount": 3,
+      "frequency": 4,
+      "sourceCount": 4,
       "importance": 4,
-      "quizWeight": 5.2,
+      "quizWeight": 4,
       "layer": "B",
       "tags": [],
       "normalized": "दुआ",
       "sourceSongIds": [
         "bolly_021",
         "bolly_025",
-        "bolly_030"
+        "bolly_030",
+        "bolly_037"
       ]
     },
     {
@@ -5832,17 +5826,18 @@
       "key": "कसम",
       "category": "",
       "difficulty": 1,
-      "frequency": 3,
-      "sourceCount": 3,
+      "frequency": 4,
+      "sourceCount": 4,
       "importance": 3,
-      "quizWeight": 3.9,
+      "quizWeight": 3,
       "layer": "B",
       "tags": [],
       "normalized": "कसम",
       "sourceSongIds": [
         "bolly_027",
         "bolly_030",
-        "bolly_031"
+        "bolly_031",
+        "bolly_037"
       ]
     },
     {
@@ -5978,15 +5973,16 @@
       "key": "नखरा",
       "category": "",
       "difficulty": 1,
-      "frequency": 1,
-      "sourceCount": 1,
+      "frequency": 2,
+      "sourceCount": 2,
       "importance": 4,
-      "quizWeight": 8,
+      "quizWeight": 6.4,
       "layer": "B",
       "tags": [],
       "normalized": "नखरा",
       "sourceSongIds": [
-        "bolly_028"
+        "bolly_028",
+        "bolly_034"
       ]
     },
     {
@@ -6429,15 +6425,16 @@
       "key": "हार",
       "category": "",
       "difficulty": 1,
-      "frequency": 1,
-      "sourceCount": 1,
+      "frequency": 2,
+      "sourceCount": 2,
       "importance": 3,
-      "quizWeight": 6,
+      "quizWeight": 4.8,
       "layer": "B",
       "tags": [],
       "normalized": "हार",
       "sourceSongIds": [
-        "bolly_029"
+        "bolly_029",
+        "bolly_036"
       ]
     },
     {
@@ -6772,15 +6769,16 @@
       "key": "वादा",
       "category": "",
       "difficulty": 1,
-      "frequency": 1,
-      "sourceCount": 1,
+      "frequency": 2,
+      "sourceCount": 2,
       "importance": 3,
-      "quizWeight": 6,
+      "quizWeight": 4.8,
       "layer": "B",
       "tags": [],
       "normalized": "वादा",
       "sourceSongIds": [
-        "bolly_030"
+        "bolly_030",
+        "bolly_037"
       ]
     },
     {
@@ -6826,15 +6824,16 @@
       "key": "लब",
       "category": "",
       "difficulty": 1,
-      "frequency": 1,
-      "sourceCount": 1,
+      "frequency": 2,
+      "sourceCount": 2,
       "importance": 4,
-      "quizWeight": 8,
+      "quizWeight": 6.4,
       "layer": "B",
       "tags": [],
       "normalized": "लब",
       "sourceSongIds": [
-        "bolly_030"
+        "bolly_030",
+        "bolly_035"
       ]
     },
     {
@@ -6916,15 +6915,16 @@
       "key": "परदा",
       "category": "",
       "difficulty": 1,
-      "frequency": 1,
-      "sourceCount": 1,
+      "frequency": 2,
+      "sourceCount": 2,
       "importance": 3,
-      "quizWeight": 6,
+      "quizWeight": 4.8,
       "layer": "B",
       "tags": [],
       "normalized": "परदा",
       "sourceSongIds": [
-        "bolly_030"
+        "bolly_030",
+        "bolly_034"
       ]
     },
     {
@@ -7330,15 +7330,16 @@
       "key": "करम",
       "category": "",
       "difficulty": 1,
-      "frequency": 1,
-      "sourceCount": 1,
+      "frequency": 2,
+      "sourceCount": 2,
       "importance": 4,
-      "quizWeight": 8,
+      "quizWeight": 6.4,
       "layer": "B",
       "tags": [],
       "normalized": "करम",
       "sourceSongIds": [
-        "bolly_032"
+        "bolly_032",
+        "bolly_037"
       ]
     },
     {
@@ -7393,6 +7394,890 @@
       "normalized": "बिछड़ना",
       "sourceSongIds": [
         "bolly_032"
+      ]
+    },
+    {
+      "word": "दिमाग",
+      "meaning": "頭、理性",
+      "pos": "名詞（男）",
+      "key": "दिमाग",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 3,
+      "quizWeight": 6,
+      "layer": "B",
+      "tags": [],
+      "normalized": "दिमाग",
+      "sourceSongIds": [
+        "bolly_033"
+      ]
+    },
+    {
+      "word": "झगड़ा",
+      "meaning": "けんか、争い",
+      "pos": "名詞（男）",
+      "key": "झगड़ा",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 3,
+      "quizWeight": 6,
+      "layer": "B",
+      "tags": [],
+      "normalized": "झगड़ा",
+      "sourceSongIds": [
+        "bolly_033"
+      ]
+    },
+    {
+      "word": "दबे पाँव",
+      "meaning": "忍び足で、こっそり",
+      "pos": "副詞句",
+      "key": "दबे पाँव",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 4,
+      "quizWeight": 8,
+      "layer": "B",
+      "tags": [],
+      "normalized": "दबे पाँव",
+      "sourceSongIds": [
+        "bolly_033"
+      ]
+    },
+    {
+      "word": "कमीना",
+      "meaning": "ずるい、ろくでなし",
+      "pos": "形容詞・名詞",
+      "key": "कमीना",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 4,
+      "quizWeight": 8,
+      "layer": "B",
+      "tags": [],
+      "normalized": "कमीना",
+      "sourceSongIds": [
+        "bolly_033"
+      ]
+    },
+    {
+      "word": "बेचारा",
+      "meaning": "かわいそうな、哀れな人",
+      "pos": "形容詞・名詞",
+      "key": "बेचारा",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 3,
+      "quizWeight": 6,
+      "layer": "B",
+      "tags": [],
+      "normalized": "बेचारा",
+      "sourceSongIds": [
+        "bolly_033"
+      ]
+    },
+    {
+      "word": "ओफ्फो",
+      "meaning": "ああもう、やれやれ",
+      "pos": "間投詞",
+      "key": "ओफ्फो",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 4,
+      "quizWeight": 8,
+      "layer": "B",
+      "tags": [],
+      "normalized": "ओफ्फो",
+      "sourceSongIds": [
+        "bolly_033"
+      ]
+    },
+    {
+      "word": "डांटना",
+      "meaning": "叱る",
+      "pos": "他動詞",
+      "key": "डांटना",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 3,
+      "quizWeight": 6,
+      "layer": "B",
+      "tags": [],
+      "normalized": "डांटना",
+      "sourceSongIds": [
+        "bolly_033"
+      ]
+    },
+    {
+      "word": "थप्पड़",
+      "meaning": "平手打ち、ビンタ",
+      "pos": "名詞（男）",
+      "key": "थप्पड़",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 3,
+      "quizWeight": 6,
+      "layer": "B",
+      "tags": [],
+      "normalized": "थप्पड़",
+      "sourceSongIds": [
+        "bolly_033"
+      ]
+    },
+    {
+      "word": "आदत",
+      "meaning": "癖、習慣",
+      "pos": "名詞（女）",
+      "key": "आदत",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 3,
+      "quizWeight": 6,
+      "layer": "B",
+      "tags": [],
+      "normalized": "आदत",
+      "sourceSongIds": [
+        "bolly_033"
+      ]
+    },
+    {
+      "word": "शरीफ",
+      "meaning": "上品な、まじめな",
+      "pos": "形容詞",
+      "key": "शरीफ",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 3,
+      "quizWeight": 6,
+      "layer": "B",
+      "tags": [],
+      "normalized": "शरीफ",
+      "sourceSongIds": [
+        "bolly_033"
+      ]
+    },
+    {
+      "word": "बेशरम",
+      "meaning": "恥知らずな、厚かましい",
+      "pos": "形容詞・名詞",
+      "key": "बेशरम",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 4,
+      "quizWeight": 8,
+      "layer": "B",
+      "tags": [],
+      "normalized": "बेशरम",
+      "sourceSongIds": [
+        "bolly_033"
+      ]
+    },
+    {
+      "word": "हैरत",
+      "meaning": "驚き",
+      "pos": "名詞（女）",
+      "key": "हैरत",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 2,
+      "sourceCount": 2,
+      "importance": 3,
+      "quizWeight": 4.8,
+      "layer": "B",
+      "tags": [],
+      "normalized": "हैरत",
+      "sourceSongIds": [
+        "bolly_033",
+        "bolly_035"
+      ]
+    },
+    {
+      "word": "नादानी",
+      "meaning": "無邪気な愚かさ、未熟な行動",
+      "pos": "名詞（女）",
+      "key": "नादानी",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 4,
+      "quizWeight": 8,
+      "layer": "B",
+      "tags": [],
+      "normalized": "नादानी",
+      "sourceSongIds": [
+        "bolly_033"
+      ]
+    },
+    {
+      "word": "दिल्लगी",
+      "meaning": "戯れの恋、冗談交じりの恋",
+      "pos": "名詞（女）",
+      "key": "दिल्लगी",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 4,
+      "quizWeight": 8,
+      "layer": "B",
+      "tags": [],
+      "normalized": "दिल्लगी",
+      "sourceSongIds": [
+        "bolly_033"
+      ]
+    },
+    {
+      "word": "मनमानी",
+      "meaning": "わがまま、勝手な振る舞い",
+      "pos": "名詞（女）",
+      "key": "मनमानी",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 4,
+      "quizWeight": 8,
+      "layer": "B",
+      "tags": [],
+      "normalized": "मनमानी",
+      "sourceSongIds": [
+        "bolly_033"
+      ]
+    },
+    {
+      "word": "बहाना",
+      "meaning": "口実、言い訳",
+      "pos": "名詞（男）",
+      "key": "बहाना",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 2,
+      "sourceCount": 2,
+      "importance": 3,
+      "quizWeight": 4.8,
+      "layer": "B",
+      "tags": [],
+      "normalized": "बहाना",
+      "sourceSongIds": [
+        "bolly_033",
+        "bolly_037"
+      ]
+    },
+    {
+      "word": "सहलाना",
+      "meaning": "やさしくなでる",
+      "pos": "他動詞",
+      "key": "सहलाना",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 3,
+      "quizWeight": 6,
+      "layer": "B",
+      "tags": [],
+      "normalized": "सहलाना",
+      "sourceSongIds": [
+        "bolly_033"
+      ]
+    },
+    {
+      "word": "मौका",
+      "meaning": "機会、チャンス",
+      "pos": "名詞（男）",
+      "key": "मौका",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 3,
+      "quizWeight": 6,
+      "layer": "B",
+      "tags": [],
+      "normalized": "मौका",
+      "sourceSongIds": [
+        "bolly_033"
+      ]
+    },
+    {
+      "word": "पर",
+      "meaning": "羽、翼",
+      "pos": "名詞（男）",
+      "key": "पर",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 3,
+      "quizWeight": 6,
+      "layer": "B",
+      "tags": [],
+      "normalized": "पर",
+      "sourceSongIds": [
+        "bolly_033"
+      ]
+    },
+    {
+      "word": "छम्मक छल्लो",
+      "meaning": "魅力的で派手な女の子（俗語）",
+      "pos": "名詞",
+      "key": "छम्मक छल्लो",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 4,
+      "quizWeight": 8,
+      "layer": "B",
+      "tags": [],
+      "normalized": "छम्मक छल्लो",
+      "sourceSongIds": [
+        "bolly_034"
+      ]
+    },
+    {
+      "word": "अखियाँ",
+      "meaning": "目、瞳（方言・詩語）",
+      "pos": "名詞（女・複）",
+      "key": "अखियाँ",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 4,
+      "quizWeight": 8,
+      "layer": "B",
+      "tags": [],
+      "normalized": "अखियाँ",
+      "sourceSongIds": [
+        "bolly_034"
+      ]
+    },
+    {
+      "word": "बसाना",
+      "meaning": "住まわせる、心に宿す",
+      "pos": "他動詞",
+      "key": "बसाना",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 4,
+      "quizWeight": 8,
+      "layer": "B",
+      "tags": [],
+      "normalized": "बसाना",
+      "sourceSongIds": [
+        "bolly_034"
+      ]
+    },
+    {
+      "word": "शबाब",
+      "meaning": "若さ、美貌、盛り",
+      "pos": "名詞（男）",
+      "key": "शबाब",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 4,
+      "quizWeight": 8,
+      "layer": "B",
+      "tags": [],
+      "normalized": "शबाब",
+      "sourceSongIds": [
+        "bolly_035"
+      ]
+    },
+    {
+      "word": "खिदमत",
+      "meaning": "奉仕、仕えること",
+      "pos": "名詞（女）",
+      "key": "खिदमत",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 4,
+      "quizWeight": 8,
+      "layer": "B",
+      "tags": [],
+      "normalized": "खिदमत",
+      "sourceSongIds": [
+        "bolly_035"
+      ]
+    },
+    {
+      "word": "जनाब",
+      "meaning": "あなた様、閣下",
+      "pos": "名詞",
+      "key": "जनाब",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 4,
+      "quizWeight": 8,
+      "layer": "B",
+      "tags": [],
+      "normalized": "जनाब",
+      "sourceSongIds": [
+        "bolly_035"
+      ]
+    },
+    {
+      "word": "आतिशकदा",
+      "meaning": "火の館、燃えさかる場所",
+      "pos": "名詞（男）",
+      "key": "आतिशकदा",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 4,
+      "quizWeight": 8,
+      "layer": "B",
+      "tags": [],
+      "normalized": "आतिशकदा",
+      "sourceSongIds": [
+        "bolly_035"
+      ]
+    },
+    {
+      "word": "दीदा",
+      "meaning": "目、まなざし（詩語）",
+      "pos": "名詞（男）",
+      "key": "दीदा",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 4,
+      "quizWeight": 8,
+      "layer": "B",
+      "tags": [],
+      "normalized": "दीदा",
+      "sourceSongIds": [
+        "bolly_035"
+      ]
+    },
+    {
+      "word": "हिजाब",
+      "meaning": "ヴェール、覆い",
+      "pos": "名詞（男）",
+      "key": "हिजाब",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 4,
+      "quizWeight": 8,
+      "layer": "B",
+      "tags": [],
+      "normalized": "हिजाब",
+      "sourceSongIds": [
+        "bolly_035"
+      ]
+    },
+    {
+      "word": "महकश",
+      "meaning": "香り立つ、魅惑的な",
+      "pos": "形容詞",
+      "key": "महकश",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 4,
+      "quizWeight": 8,
+      "layer": "B",
+      "tags": [],
+      "normalized": "महकश",
+      "sourceSongIds": [
+        "bolly_035"
+      ]
+    },
+    {
+      "word": "कुर्बत",
+      "meaning": "親密さ、近さ",
+      "pos": "名詞（女）",
+      "key": "कुर्बत",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 4,
+      "quizWeight": 8,
+      "layer": "B",
+      "tags": [],
+      "normalized": "कुर्बत",
+      "sourceSongIds": [
+        "bolly_035"
+      ]
+    },
+    {
+      "word": "फुरकत",
+      "meaning": "別離、離別",
+      "pos": "名詞（女）",
+      "key": "फुरकत",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 4,
+      "quizWeight": 8,
+      "layer": "B",
+      "tags": [],
+      "normalized": "फुरकत",
+      "sourceSongIds": [
+        "bolly_035"
+      ]
+    },
+    {
+      "word": "आरिज",
+      "meaning": "頬（詩語）",
+      "pos": "名詞（男・複）",
+      "key": "आरिज",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 4,
+      "quizWeight": 8,
+      "layer": "B",
+      "tags": [],
+      "normalized": "आरिज",
+      "sourceSongIds": [
+        "bolly_035"
+      ]
+    },
+    {
+      "word": "रिफअत",
+      "meaning": "高み、高貴さ",
+      "pos": "名詞（女）",
+      "key": "रिफअत",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 4,
+      "quizWeight": 8,
+      "layer": "B",
+      "tags": [],
+      "normalized": "रिफअत",
+      "sourceSongIds": [
+        "bolly_035"
+      ]
+    },
+    {
+      "word": "सिला",
+      "meaning": "報い、返礼",
+      "pos": "名詞（男）",
+      "key": "सिला",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 4,
+      "quizWeight": 8,
+      "layer": "B",
+      "tags": [],
+      "normalized": "सिला",
+      "sourceSongIds": [
+        "bolly_035"
+      ]
+    },
+    {
+      "word": "झपकी",
+      "meaning": "うたた寝",
+      "pos": "名詞（女）",
+      "key": "झपकी",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 4,
+      "quizWeight": 8,
+      "layer": "B",
+      "tags": [],
+      "normalized": "झपकी",
+      "sourceSongIds": [
+        "bolly_036"
+      ]
+    },
+    {
+      "word": "सूत्र",
+      "meaning": "情報筋、出所",
+      "pos": "名詞（男）",
+      "key": "सूत्र",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 4,
+      "quizWeight": 8,
+      "layer": "B",
+      "tags": [],
+      "normalized": "सूत्र",
+      "sourceSongIds": [
+        "bolly_036"
+      ]
+    },
+    {
+      "word": "बकरा",
+      "meaning": "ヤギ、カモにされる人",
+      "pos": "名詞（男）",
+      "key": "बकरा",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 4,
+      "quizWeight": 8,
+      "layer": "B",
+      "tags": [],
+      "normalized": "बकरा",
+      "sourceSongIds": [
+        "bolly_036"
+      ]
+    },
+    {
+      "word": "कबर",
+      "meaning": "墓",
+      "pos": "名詞（女）",
+      "key": "कबर",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 3,
+      "quizWeight": 6,
+      "layer": "B",
+      "tags": [],
+      "normalized": "कबर",
+      "sourceSongIds": [
+        "bolly_036"
+      ]
+    },
+    {
+      "word": "चमत्कार",
+      "meaning": "奇跡、とんでもない出来事",
+      "pos": "名詞（男）",
+      "key": "चमत्कार",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 3,
+      "quizWeight": 6,
+      "layer": "B",
+      "tags": [],
+      "normalized": "चमत्कार",
+      "sourceSongIds": [
+        "bolly_036"
+      ]
+    },
+    {
+      "word": "सर्कस",
+      "meaning": "サーカス、大混乱",
+      "pos": "名詞（男）",
+      "key": "सर्कस",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 4,
+      "quizWeight": 8,
+      "layer": "B",
+      "tags": [],
+      "normalized": "सर्कस",
+      "sourceSongIds": [
+        "bolly_036"
+      ]
+    },
+    {
+      "word": "इरादा",
+      "meaning": "意志、決意",
+      "pos": "名詞（男）",
+      "key": "इरादा",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 3,
+      "quizWeight": 6,
+      "layer": "B",
+      "tags": [],
+      "normalized": "इरादा",
+      "sourceSongIds": [
+        "bolly_037"
+      ]
+    },
+    {
+      "word": "सहारा",
+      "meaning": "支え、頼り",
+      "pos": "名詞（男）",
+      "key": "सहारा",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 4,
+      "quizWeight": 8,
+      "layer": "B",
+      "tags": [],
+      "normalized": "सहारा",
+      "sourceSongIds": [
+        "bolly_037"
+      ]
+    },
+    {
+      "word": "ठिकाना",
+      "meaning": "居場所、行き先",
+      "pos": "名詞（男）",
+      "key": "ठिकाना",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 4,
+      "quizWeight": 8,
+      "layer": "B",
+      "tags": [],
+      "normalized": "ठिकाना",
+      "sourceSongIds": [
+        "bolly_037"
+      ]
+    },
+    {
+      "word": "मौसम",
+      "meaning": "季節、天気",
+      "pos": "名詞（男）",
+      "key": "मौसम",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 3,
+      "quizWeight": 6,
+      "layer": "B",
+      "tags": [],
+      "normalized": "मौसम",
+      "sourceSongIds": [
+        "bolly_037"
+      ]
+    },
+    {
+      "word": "पैमाना",
+      "meaning": "尺度、基準",
+      "pos": "名詞（男）",
+      "key": "पैमाना",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 4,
+      "quizWeight": 8,
+      "layer": "B",
+      "tags": [],
+      "normalized": "पैमाना",
+      "sourceSongIds": [
+        "bolly_037"
+      ]
+    },
+    {
+      "word": "रुसवा",
+      "meaning": "辱められた、評判を落とした",
+      "pos": "形容詞",
+      "key": "रुसवा",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 4,
+      "quizWeight": 8,
+      "layer": "B",
+      "tags": [],
+      "normalized": "रुसवा",
+      "sourceSongIds": [
+        "bolly_037"
+      ]
+    },
+    {
+      "word": "अमानत",
+      "meaning": "預かり物、大切な entrusted thing",
+      "pos": "名詞（女）",
+      "key": "अमानत",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 4,
+      "quizWeight": 8,
+      "layer": "B",
+      "tags": [],
+      "normalized": "अमानत",
+      "sourceSongIds": [
+        "bolly_037"
+      ]
+    },
+    {
+      "word": "वक्त",
+      "meaning": "時、時間",
+      "pos": "名詞（男）",
+      "key": "वक्त",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 3,
+      "quizWeight": 6,
+      "layer": "B",
+      "tags": [],
+      "normalized": "वक्त",
+      "sourceSongIds": [
+        "bolly_037"
+      ]
+    },
+    {
+      "word": "राहत",
+      "meaning": "安らぎ、救い",
+      "pos": "名詞（女）",
+      "key": "राहत",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 4,
+      "quizWeight": 8,
+      "layer": "B",
+      "tags": [],
+      "normalized": "राहत",
+      "sourceSongIds": [
+        "bolly_037"
       ]
     }
   ],
@@ -9691,6 +10576,396 @@
       "difficulty": 1,
       "tags": [],
       "status": "active"
+    },
+    {
+      "id": "bolly_033::expr::1",
+      "type": "expression",
+      "songId": "bolly_033",
+      "songTitle": "Offo",
+      "film": "2 States",
+      "year": 2014,
+      "text": "दिल का दिमाग से झगड़ा लगाया",
+      "normalized": "दिल का दिमाग से झगड़ा लगाया",
+      "meaning": "心と頭をけんかさせた",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": [],
+      "status": "active"
+    },
+    {
+      "id": "bolly_033::expr::2",
+      "type": "expression",
+      "songId": "bolly_033",
+      "songTitle": "Offo",
+      "film": "2 States",
+      "year": 2014,
+      "text": "दबे पाँव आया",
+      "normalized": "दबे पाँव आया",
+      "meaning": "忍び足でやって来た",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": [],
+      "status": "active"
+    },
+    {
+      "id": "bolly_033::expr::3",
+      "type": "expression",
+      "songId": "bolly_033",
+      "songTitle": "Offo",
+      "film": "2 States",
+      "year": 2014,
+      "text": "सीने से लगाऊँ",
+      "normalized": "सीने से लगाऊँ",
+      "meaning": "胸に抱きしめようか",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": [],
+      "status": "active"
+    },
+    {
+      "id": "bolly_033::expr::4",
+      "type": "expression",
+      "songId": "bolly_033",
+      "songTitle": "Offo",
+      "film": "2 States",
+      "year": 2014,
+      "text": "सर पे बिठाऊँ",
+      "normalized": "सर पे बिठाऊँ",
+      "meaning": "頭の上に乗せるほど大事にしようか",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": [],
+      "status": "active"
+    },
+    {
+      "id": "bolly_033::expr::5",
+      "type": "expression",
+      "songId": "bolly_033",
+      "songTitle": "Offo",
+      "film": "2 States",
+      "year": 2014,
+      "text": "मौका मिलते ही पर फैलाता है",
+      "normalized": "मौका मिलते ही पर फैलाता है",
+      "meaning": "機会を得るとすぐ羽を広げる",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": [],
+      "status": "active"
+    },
+    {
+      "id": "bolly_034::expr::1",
+      "type": "expression",
+      "songId": "bolly_034",
+      "songTitle": "Chammak Chhalo",
+      "film": "Ra.One",
+      "year": 2011,
+      "text": "तू मेरी छम्मक छल्लो",
+      "normalized": "तू मेरी छम्मक छल्लो",
+      "meaning": "君は僕のチャマック・チャッロ（魅力的な子）",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": [],
+      "status": "active"
+    },
+    {
+      "id": "bolly_034::expr::2",
+      "type": "expression",
+      "songId": "bolly_034",
+      "songTitle": "Chammak Chhalo",
+      "film": "Ra.One",
+      "year": 2011,
+      "text": "अखियों से अखियाँ मिला ले",
+      "normalized": "अखियों से अखियाँ मिला ले",
+      "meaning": "瞳と瞳を合わせて",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": [],
+      "status": "active"
+    },
+    {
+      "id": "bolly_034::expr::3",
+      "type": "expression",
+      "songId": "bolly_034",
+      "songTitle": "Chammak Chhalo",
+      "film": "Ra.One",
+      "year": 2011,
+      "text": "नखरे दिखा",
+      "normalized": "नखरे दिखा",
+      "meaning": "気取った仕草を見せて",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": [],
+      "status": "active"
+    },
+    {
+      "id": "bolly_034::expr::4",
+      "type": "expression",
+      "songId": "bolly_034",
+      "songTitle": "Chammak Chhalo",
+      "film": "Ra.One",
+      "year": 2011,
+      "text": "पर्दा गिरा दे",
+      "normalized": "पर्दा गिरा दे",
+      "meaning": "幕を下ろして、隠しを取って",
+      "importance": 3,
+      "difficulty": 1,
+      "tags": [],
+      "status": "active"
+    },
+    {
+      "id": "bolly_034::expr::5",
+      "type": "expression",
+      "songId": "bolly_034",
+      "songTitle": "Chammak Chhalo",
+      "film": "Ra.One",
+      "year": 2011,
+      "text": "अँखियों में अपने बसा लूँ",
+      "normalized": "अँखियों में अपने बसा लूँ",
+      "meaning": "瞳の中に住まわせたい",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": [],
+      "status": "active"
+    },
+    {
+      "id": "bolly_035::expr::1",
+      "type": "expression",
+      "songId": "bolly_035",
+      "songTitle": "Binte Dil",
+      "film": "Padmaavat",
+      "year": 2018,
+      "text": "ख़िदमत-ए-आली जनाब",
+      "normalized": "खिदमत-ए-आली जनाब",
+      "meaning": "高貴なるあなた様へのご奉仕",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": [],
+      "status": "active"
+    },
+    {
+      "id": "bolly_035::expr::2",
+      "type": "expression",
+      "songId": "bolly_035",
+      "songTitle": "Binte Dil",
+      "film": "Padmaavat",
+      "year": 2018,
+      "text": "दीदा-ए-तर",
+      "normalized": "दीदा-ए-तर",
+      "meaning": "涙に濡れた瞳",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": [],
+      "status": "active"
+    },
+    {
+      "id": "bolly_035::expr::3",
+      "type": "expression",
+      "songId": "bolly_035",
+      "songTitle": "Binte Dil",
+      "film": "Padmaavat",
+      "year": 2018,
+      "text": "लबों पे आने लगी",
+      "normalized": "लबों पे आने लगी",
+      "meaning": "唇に浮かび始めた",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": [],
+      "status": "active"
+    },
+    {
+      "id": "bolly_035::expr::4",
+      "type": "expression",
+      "songId": "bolly_035",
+      "songTitle": "Binte Dil",
+      "film": "Padmaavat",
+      "year": 2018,
+      "text": "आरिज़ों पे लिख ज़रा",
+      "normalized": "आरिजों पे लिख जरा",
+      "meaning": "頬に少し書いておくれ",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": [],
+      "status": "active"
+    },
+    {
+      "id": "bolly_035::expr::5",
+      "type": "expression",
+      "songId": "bolly_035",
+      "songTitle": "Binte Dil",
+      "film": "Padmaavat",
+      "year": 2018,
+      "text": "चाहतों का सिला",
+      "normalized": "चाहतों का सिला",
+      "meaning": "愛情への報い",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": [],
+      "status": "active"
+    },
+    {
+      "id": "bolly_036::expr::1",
+      "type": "expression",
+      "songId": "bolly_036",
+      "songTitle": "Baba Bolta Hain Bas Ho Gaya",
+      "film": "Sanju",
+      "year": 2018,
+      "text": "बस हो गया",
+      "normalized": "बस हो गया",
+      "meaning": "もううんざりだ、もう限界だ",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": [],
+      "status": "active"
+    },
+    {
+      "id": "bolly_036::expr::2",
+      "type": "expression",
+      "songId": "bolly_036",
+      "songTitle": "Baba Bolta Hain Bas Ho Gaya",
+      "film": "Sanju",
+      "year": 2018,
+      "text": "भेजे का तार हिलना",
+      "normalized": "भेजे का तार हिलना",
+      "meaning": "頭が揺れるほど驚く、混乱する",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": [],
+      "status": "active"
+    },
+    {
+      "id": "bolly_036::expr::3",
+      "type": "expression",
+      "songId": "bolly_036",
+      "songTitle": "Baba Bolta Hain Bas Ho Gaya",
+      "film": "Sanju",
+      "year": 2018,
+      "text": "राय का पहाड़ बनाना",
+      "normalized": "राय का पहाड़ बनाना",
+      "meaning": "小さな話を大げさにする",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": [],
+      "status": "active"
+    },
+    {
+      "id": "bolly_036::expr::4",
+      "type": "expression",
+      "songId": "bolly_036",
+      "songTitle": "Baba Bolta Hain Bas Ho Gaya",
+      "film": "Sanju",
+      "year": 2018,
+      "text": "झूठ बार बार दोहराना",
+      "normalized": "झूठ बार बार दोहराना",
+      "meaning": "嘘を何度も繰り返す",
+      "importance": 3,
+      "difficulty": 1,
+      "tags": [],
+      "status": "active"
+    },
+    {
+      "id": "bolly_036::expr::5",
+      "type": "expression",
+      "songId": "bolly_036",
+      "songTitle": "Baba Bolta Hain Bas Ho Gaya",
+      "film": "Sanju",
+      "year": 2018,
+      "text": "लाइफ का सर्कस हो गया",
+      "normalized": "लाइफ का सर्कस हो गया",
+      "meaning": "人生がめちゃくちゃになった",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": [],
+      "status": "active"
+    },
+    {
+      "id": "bolly_037::expr::1",
+      "type": "expression",
+      "songId": "bolly_037",
+      "songTitle": "Sunn Raha Hai Na Tu",
+      "film": "Aashiqui 2",
+      "year": 2013,
+      "text": "सुन रहा है ना तू",
+      "normalized": "सुन रहा है ना तू",
+      "meaning": "君は聞いているよね",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": [],
+      "status": "active"
+    },
+    {
+      "id": "bolly_037::expr::2",
+      "type": "expression",
+      "songId": "bolly_037",
+      "songTitle": "Sunn Raha Hai Na Tu",
+      "film": "Aashiqui 2",
+      "year": 2013,
+      "text": "रो रहा हूँ मैं",
+      "normalized": "रो रहा हूँ मैं",
+      "meaning": "僕は泣いている",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": [],
+      "status": "active"
+    },
+    {
+      "id": "bolly_037::expr::3",
+      "type": "expression",
+      "songId": "bolly_037",
+      "songTitle": "Sunn Raha Hai Na Tu",
+      "film": "Aashiqui 2",
+      "year": 2013,
+      "text": "दिल को ठिकाने दे",
+      "normalized": "दिल को ठिकाने दे",
+      "meaning": "心に居場所を与えてくれ",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": [],
+      "status": "active"
+    },
+    {
+      "id": "bolly_037::expr::4",
+      "type": "expression",
+      "songId": "bolly_037",
+      "songTitle": "Sunn Raha Hai Na Tu",
+      "film": "Aashiqui 2",
+      "year": 2013,
+      "text": "ख़्वाबों की बारिश",
+      "normalized": "ख्वाबों की बारिश",
+      "meaning": "夢の雨",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": [],
+      "status": "active"
+    },
+    {
+      "id": "bolly_037::expr::5",
+      "type": "expression",
+      "songId": "bolly_037",
+      "songTitle": "Sunn Raha Hai Na Tu",
+      "film": "Aashiqui 2",
+      "year": 2013,
+      "text": "रूह की राहत",
+      "normalized": "रूह की राहत",
+      "meaning": "魂の安らぎ",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": [],
+      "status": "active"
+    },
+    {
+      "id": "bolly_037::expr::6",
+      "type": "expression",
+      "songId": "bolly_037",
+      "songTitle": "Sunn Raha Hai Na Tu",
+      "film": "Aashiqui 2",
+      "year": 2013,
+      "text": "तू मेरी इबादत है",
+      "normalized": "तू मेरी इबादत है",
+      "meaning": "君は僕の信仰そのものだ",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": [],
+      "status": "active"
     }
   ],
   "fillBlanks": [
@@ -11986,6 +13261,381 @@
       "answer": "दे",
       "meaning": "心に慰めをください",
       "importance": 3,
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "id": "bolly_033::expr::1::blank::1",
+      "type": "fill_blank",
+      "songId": "bolly_033",
+      "songTitle": "Offo",
+      "film": "2 States",
+      "year": 2014,
+      "sourceText": "दिल का दिमाग से झगड़ा लगाया",
+      "prompt": "_____ का दिमाग से झगड़ा लगाया",
+      "answer": "दिल",
+      "meaning": "心と頭をけんかさせた",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "id": "bolly_033::expr::2::blank::2",
+      "type": "fill_blank",
+      "songId": "bolly_033",
+      "songTitle": "Offo",
+      "film": "2 States",
+      "year": 2014,
+      "sourceText": "दबे पाँव आया",
+      "prompt": "_____ पाँव आया",
+      "answer": "दबे",
+      "meaning": "忍び足でやって来た",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "id": "bolly_033::expr::3::blank::3",
+      "type": "fill_blank",
+      "songId": "bolly_033",
+      "songTitle": "Offo",
+      "film": "2 States",
+      "year": 2014,
+      "sourceText": "सीने से लगाऊँ",
+      "prompt": "_____ से लगाऊँ",
+      "answer": "सीने",
+      "meaning": "胸に抱きしめようか",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "id": "bolly_033::expr::4::blank::4",
+      "type": "fill_blank",
+      "songId": "bolly_033",
+      "songTitle": "Offo",
+      "film": "2 States",
+      "year": 2014,
+      "sourceText": "सर पे बिठाऊँ",
+      "prompt": "_____ पे बिठाऊँ",
+      "answer": "सर",
+      "meaning": "頭の上に乗せるほど大事にしようか",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "id": "bolly_033::expr::5::blank::5",
+      "type": "fill_blank",
+      "songId": "bolly_033",
+      "songTitle": "Offo",
+      "film": "2 States",
+      "year": 2014,
+      "sourceText": "मौका मिलते ही पर फैलाता है",
+      "prompt": "_____ मिलते ही पर फैलाता है",
+      "answer": "मौका",
+      "meaning": "機会を得るとすぐ羽を広げる",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "id": "bolly_034::expr::1::blank::1",
+      "type": "fill_blank",
+      "songId": "bolly_034",
+      "songTitle": "Chammak Chhalo",
+      "film": "Ra.One",
+      "year": 2011,
+      "sourceText": "तू मेरी छम्मक छल्लो",
+      "prompt": "_____ मेरी छम्मक छल्लो",
+      "answer": "तू",
+      "meaning": "君は僕のチャマック・チャッロ（魅力的な子）",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "id": "bolly_034::expr::2::blank::2",
+      "type": "fill_blank",
+      "songId": "bolly_034",
+      "songTitle": "Chammak Chhalo",
+      "film": "Ra.One",
+      "year": 2011,
+      "sourceText": "अखियों से अखियाँ मिला ले",
+      "prompt": "_____ से अखियाँ मिला ले",
+      "answer": "अखियों",
+      "meaning": "瞳と瞳を合わせて",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "id": "bolly_034::expr::3::blank::3",
+      "type": "fill_blank",
+      "songId": "bolly_034",
+      "songTitle": "Chammak Chhalo",
+      "film": "Ra.One",
+      "year": 2011,
+      "sourceText": "नखरे दिखा",
+      "prompt": "_____ दिखा",
+      "answer": "नखरे",
+      "meaning": "気取った仕草を見せて",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "id": "bolly_034::expr::4::blank::4",
+      "type": "fill_blank",
+      "songId": "bolly_034",
+      "songTitle": "Chammak Chhalo",
+      "film": "Ra.One",
+      "year": 2011,
+      "sourceText": "पर्दा गिरा दे",
+      "prompt": "_____ गिरा दे",
+      "answer": "पर्दा",
+      "meaning": "幕を下ろして、隠しを取って",
+      "importance": 3,
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "id": "bolly_034::expr::5::blank::5",
+      "type": "fill_blank",
+      "songId": "bolly_034",
+      "songTitle": "Chammak Chhalo",
+      "film": "Ra.One",
+      "year": 2011,
+      "sourceText": "अँखियों में अपने बसा लूँ",
+      "prompt": "_____ में अपने बसा लूँ",
+      "answer": "अँखियों",
+      "meaning": "瞳の中に住まわせたい",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "id": "bolly_035::expr::1::blank::1",
+      "type": "fill_blank",
+      "songId": "bolly_035",
+      "songTitle": "Binte Dil",
+      "film": "Padmaavat",
+      "year": 2018,
+      "sourceText": "ख़िदमत-ए-आली जनाब",
+      "prompt": "_____ जनाब",
+      "answer": "ख़िदमत-ए-आली",
+      "meaning": "高貴なるあなた様へのご奉仕",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "id": "bolly_035::expr::3::blank::3",
+      "type": "fill_blank",
+      "songId": "bolly_035",
+      "songTitle": "Binte Dil",
+      "film": "Padmaavat",
+      "year": 2018,
+      "sourceText": "लबों पे आने लगी",
+      "prompt": "_____ पे आने लगी",
+      "answer": "लबों",
+      "meaning": "唇に浮かび始めた",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "id": "bolly_035::expr::4::blank::4",
+      "type": "fill_blank",
+      "songId": "bolly_035",
+      "songTitle": "Binte Dil",
+      "film": "Padmaavat",
+      "year": 2018,
+      "sourceText": "आरिज़ों पे लिख ज़रा",
+      "prompt": "_____ पे लिख ज़रा",
+      "answer": "आरिज़ों",
+      "meaning": "頬に少し書いておくれ",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "id": "bolly_035::expr::5::blank::5",
+      "type": "fill_blank",
+      "songId": "bolly_035",
+      "songTitle": "Binte Dil",
+      "film": "Padmaavat",
+      "year": 2018,
+      "sourceText": "चाहतों का सिला",
+      "prompt": "_____ का सिला",
+      "answer": "चाहतों",
+      "meaning": "愛情への報い",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "id": "bolly_036::expr::1::blank::1",
+      "type": "fill_blank",
+      "songId": "bolly_036",
+      "songTitle": "Baba Bolta Hain Bas Ho Gaya",
+      "film": "Sanju",
+      "year": 2018,
+      "sourceText": "बस हो गया",
+      "prompt": "_____ हो गया",
+      "answer": "बस",
+      "meaning": "もううんざりだ、もう限界だ",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "id": "bolly_036::expr::2::blank::2",
+      "type": "fill_blank",
+      "songId": "bolly_036",
+      "songTitle": "Baba Bolta Hain Bas Ho Gaya",
+      "film": "Sanju",
+      "year": 2018,
+      "sourceText": "भेजे का तार हिलना",
+      "prompt": "_____ का तार हिलना",
+      "answer": "भेजे",
+      "meaning": "頭が揺れるほど驚く、混乱する",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "id": "bolly_036::expr::3::blank::3",
+      "type": "fill_blank",
+      "songId": "bolly_036",
+      "songTitle": "Baba Bolta Hain Bas Ho Gaya",
+      "film": "Sanju",
+      "year": 2018,
+      "sourceText": "राय का पहाड़ बनाना",
+      "prompt": "_____ का पहाड़ बनाना",
+      "answer": "राय",
+      "meaning": "小さな話を大げさにする",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "id": "bolly_036::expr::4::blank::4",
+      "type": "fill_blank",
+      "songId": "bolly_036",
+      "songTitle": "Baba Bolta Hain Bas Ho Gaya",
+      "film": "Sanju",
+      "year": 2018,
+      "sourceText": "झूठ बार बार दोहराना",
+      "prompt": "_____ बार बार दोहराना",
+      "answer": "झूठ",
+      "meaning": "嘘を何度も繰り返す",
+      "importance": 3,
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "id": "bolly_036::expr::5::blank::5",
+      "type": "fill_blank",
+      "songId": "bolly_036",
+      "songTitle": "Baba Bolta Hain Bas Ho Gaya",
+      "film": "Sanju",
+      "year": 2018,
+      "sourceText": "लाइफ का सर्कस हो गया",
+      "prompt": "_____ का सर्कस हो गया",
+      "answer": "लाइफ",
+      "meaning": "人生がめちゃくちゃになった",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "id": "bolly_037::expr::1::blank::1",
+      "type": "fill_blank",
+      "songId": "bolly_037",
+      "songTitle": "Sunn Raha Hai Na Tu",
+      "film": "Aashiqui 2",
+      "year": 2013,
+      "sourceText": "सुन रहा है ना तू",
+      "prompt": "_____ रहा है ना तू",
+      "answer": "सुन",
+      "meaning": "君は聞いているよね",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "id": "bolly_037::expr::2::blank::2",
+      "type": "fill_blank",
+      "songId": "bolly_037",
+      "songTitle": "Sunn Raha Hai Na Tu",
+      "film": "Aashiqui 2",
+      "year": 2013,
+      "sourceText": "रो रहा हूँ मैं",
+      "prompt": "_____ रहा हूँ मैं",
+      "answer": "रो",
+      "meaning": "僕は泣いている",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "id": "bolly_037::expr::3::blank::3",
+      "type": "fill_blank",
+      "songId": "bolly_037",
+      "songTitle": "Sunn Raha Hai Na Tu",
+      "film": "Aashiqui 2",
+      "year": 2013,
+      "sourceText": "दिल को ठिकाने दे",
+      "prompt": "_____ को ठिकाने दे",
+      "answer": "दिल",
+      "meaning": "心に居場所を与えてくれ",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "id": "bolly_037::expr::4::blank::4",
+      "type": "fill_blank",
+      "songId": "bolly_037",
+      "songTitle": "Sunn Raha Hai Na Tu",
+      "film": "Aashiqui 2",
+      "year": 2013,
+      "sourceText": "ख़्वाबों की बारिश",
+      "prompt": "_____ की बारिश",
+      "answer": "ख़्वाबों",
+      "meaning": "夢の雨",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "id": "bolly_037::expr::5::blank::5",
+      "type": "fill_blank",
+      "songId": "bolly_037",
+      "songTitle": "Sunn Raha Hai Na Tu",
+      "film": "Aashiqui 2",
+      "year": 2013,
+      "sourceText": "रूह की राहत",
+      "prompt": "_____ की राहत",
+      "answer": "रूह",
+      "meaning": "魂の安らぎ",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "id": "bolly_037::expr::6::blank::6",
+      "type": "fill_blank",
+      "songId": "bolly_037",
+      "songTitle": "Sunn Raha Hai Na Tu",
+      "film": "Aashiqui 2",
+      "year": 2013,
+      "sourceText": "तू मेरी इबादत है",
+      "prompt": "_____ मेरी इबादत है",
+      "answer": "तू",
+      "meaning": "君は僕の信仰そのものだ",
+      "importance": 4,
       "difficulty": 1,
       "tags": []
     }

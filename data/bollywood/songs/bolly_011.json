@@ -106,14 +106,6 @@
       "status": "active"
     },
     {
-      "word": "जाना",
-      "normalized": "जाना",
-      "pos": "自動詞",
-      "meaning_ja": "行く",
-      "importance": 2,
-      "status": "active"
-    },
-    {
       "word": "रोकना",
       "normalized": "रोकना",
       "pos": "他動詞",

@@ -1,0 +1,185 @@
+{
+  "id": "bolly_036",
+  "schema_version": 2,
+  "title": "Baba Bolta Hain Bas Ho Gaya",
+  "film": "Sanju",
+  "year": 2018,
+  "singer": [
+    "Papon",
+    "Ranbir Kapoor",
+    "Supriya Pathak"
+  ],
+  "lyricist": [
+    "Puneet Sharma",
+    "Abhijat Joshi",
+    "Rohan Gokhale"
+  ],
+  "composer": [
+    "Vikram Montrose"
+  ],
+  "notes": [
+    "ランビール・カプール"
+  ],
+  "tags": [
+    "風刺",
+    "メディア",
+    "コミカル"
+  ],
+  "emotion": "satirical_frustration",
+  "register": "colloquial_modern",
+  "key_phrase": "बाबा बोलता हैं अभी, बस हो गया",
+  "expressions": [
+    {
+      "text": "बस हो गया",
+      "normalized": "बस हो गया",
+      "meaning_ja": "もううんざりだ、もう限界だ",
+      "type": "hook",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "भेजे का तार हिलना",
+      "normalized": "भेजे का तार हिलना",
+      "meaning_ja": "頭が揺れるほど驚く、混乱する",
+      "type": "idiom",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "राय का पहाड़ बनाना",
+      "normalized": "राय का पहाड़ बनाना",
+      "meaning_ja": "小さな話を大げさにする",
+      "type": "idiom",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "झूठ बार बार दोहराना",
+      "normalized": "झूठ बार बार दोहराना",
+      "meaning_ja": "嘘を何度も繰り返す",
+      "type": "expression",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "लाइफ का सर्कस हो गया",
+      "normalized": "लाइफ का सर्कस हो गया",
+      "meaning_ja": "人生がめちゃくちゃになった",
+      "type": "metaphor",
+      "importance": 4,
+      "status": "active"
+    }
+  ],
+  "vocab_candidates": [
+    {
+      "word": "अखबार",
+      "normalized": "अखबार",
+      "pos": "名詞（男）",
+      "meaning_ja": "新聞",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "समाचार",
+      "normalized": "समाचार",
+      "pos": "名詞（男）",
+      "meaning_ja": "ニュース、報道",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "भाषण",
+      "normalized": "भाषण",
+      "pos": "名詞（男）",
+      "meaning_ja": "演説、スピーチ",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "झपकी",
+      "normalized": "झपकी",
+      "pos": "名詞（女）",
+      "meaning_ja": "うたた寝",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "सूत्र",
+      "normalized": "सूत्र",
+      "pos": "名詞（男）",
+      "meaning_ja": "情報筋、出所",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "हेडलाइन",
+      "normalized": "हेडलाइन",
+      "pos": "名詞（女）",
+      "meaning_ja": "見出し、ヘッドライン",
+      "importance": 2,
+      "status": "active"
+    },
+    {
+      "word": "लाइमलाइट",
+      "normalized": "लाइमलाइट",
+      "pos": "名詞（女）",
+      "meaning_ja": "注目の的",
+      "importance": 2,
+      "status": "active"
+    },
+    {
+      "word": "बकरा",
+      "normalized": "बकरा",
+      "pos": "名詞（男）",
+      "meaning_ja": "ヤギ、カモにされる人",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "कबर",
+      "normalized": "कबर",
+      "pos": "名詞（女）",
+      "meaning_ja": "墓",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "चमत्कार",
+      "normalized": "चमत्कार",
+      "pos": "名詞（男）",
+      "meaning_ja": "奇跡、とんでもない出来事",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "हद",
+      "normalized": "हद",
+      "pos": "名詞（女）",
+      "meaning_ja": "限度、限界",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "हार",
+      "normalized": "हार",
+      "pos": "名詞（男）",
+      "meaning_ja": "花輪、首飾り",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "सर्कस",
+      "normalized": "सर्कस",
+      "pos": "名詞（男）",
+      "meaning_ja": "サーカス、大混乱",
+      "importance": 4,
+      "status": "active"
+    }
+  ],
+  "meta": {
+    "copyright_safe": true,
+    "lyrics_included": false,
+    "source_type": "manual_curated",
+    "dedupe_ready": true
+  }
+}

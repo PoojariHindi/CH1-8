@@ -153,14 +153,6 @@
       "status": "active"
     },
     {
-      "word": "जाना",
-      "normalized": "जाना",
-      "pos": "自動詞",
-      "meaning_ja": "行く",
-      "importance": 2,
-      "status": "active"
-    },
-    {
       "word": "फिर",
       "normalized": "फिर",
       "pos": "副詞",

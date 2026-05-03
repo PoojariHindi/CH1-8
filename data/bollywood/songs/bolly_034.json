@@ -1,0 +1,165 @@
+{
+  "id": "bolly_034",
+  "schema_version": 2,
+  "title": "Chammak Chhalo",
+  "film": "Ra.One",
+  "year": 2011,
+  "singer": [
+    "Akon"
+  ],
+  "lyricist": [
+    "Vishal Dadlani"
+  ],
+  "composer": [
+    "Vishal-Shekhar"
+  ],
+  "notes": [
+    "シャー・ルク・カーン"
+  ],
+  "tags": [
+    "恋愛",
+    "ダンス",
+    "ポップ"
+  ],
+  "emotion": "flirtatious_dance",
+  "register": "playful_mixed",
+  "key_phrase": "तू मेरी छम्मक छल्लो",
+  "expressions": [
+    {
+      "text": "तू मेरी छम्मक छल्लो",
+      "normalized": "तू मेरी छम्मक छल्लो",
+      "meaning_ja": "君は僕のチャマック・チャッロ（魅力的な子）",
+      "type": "hook",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "अखियों से अखियाँ मिला ले",
+      "normalized": "अखियों से अखियाँ मिला ले",
+      "meaning_ja": "瞳と瞳を合わせて",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "नखरे दिखा",
+      "normalized": "नखरे दिखा",
+      "meaning_ja": "気取った仕草を見せて",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "पर्दा गिरा दे",
+      "normalized": "पर्दा गिरा दे",
+      "meaning_ja": "幕を下ろして、隠しを取って",
+      "type": "metaphor",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "अँखियों में अपने बसा लूँ",
+      "normalized": "अँखियों में अपने बसा लूँ",
+      "meaning_ja": "瞳の中に住まわせたい",
+      "type": "poetic",
+      "importance": 4,
+      "status": "active"
+    }
+  ],
+  "vocab_candidates": [
+    {
+      "word": "छम्मक छल्लो",
+      "normalized": "छम्मक छल्लो",
+      "pos": "名詞",
+      "meaning_ja": "魅力的で派手な女の子（俗語）",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "शर्माना",
+      "normalized": "शर्माना",
+      "pos": "自動詞",
+      "meaning_ja": "恥ずかしがる",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "नच",
+      "normalized": "नाचना",
+      "pos": "動詞語幹",
+      "meaning_ja": "踊る",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "दिखा दे",
+      "normalized": "दिखाना",
+      "pos": "複合動詞",
+      "meaning_ja": "見せてしまえ、見せて",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "पर्दा",
+      "normalized": "पर्दा",
+      "pos": "名詞（男）",
+      "meaning_ja": "幕、ヴェール",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "अखियाँ",
+      "normalized": "अखियाँ",
+      "pos": "名詞（女・複）",
+      "meaning_ja": "目、瞳（方言・詩語）",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "नखरे",
+      "normalized": "नखरा",
+      "pos": "名詞（男・複）",
+      "meaning_ja": "気取り、甘えた仕草",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "पिक्चर",
+      "normalized": "पिक्चर",
+      "pos": "名詞（女）",
+      "meaning_ja": "映画",
+      "importance": 2,
+      "status": "active"
+    },
+    {
+      "word": "हीरो",
+      "normalized": "हीरो",
+      "pos": "名詞（男）",
+      "meaning_ja": "主人公、ヒーロー",
+      "importance": 2,
+      "status": "active"
+    },
+    {
+      "word": "मिला ले",
+      "normalized": "मिलाना",
+      "pos": "複合動詞",
+      "meaning_ja": "合わせて、結びつけて",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "बसा लूँ",
+      "normalized": "बसाना",
+      "pos": "複合動詞",
+      "meaning_ja": "住まわせたい、心に宿したい",
+      "importance": 4,
+      "status": "active"
+    }
+  ],
+  "meta": {
+    "copyright_safe": true,
+    "lyrics_included": false,
+    "source_type": "manual_curated",
+    "dedupe_ready": true
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "id": "bolly_037",
+  "schema_version": 2,
+  "title": "Sunn Raha Hai Na Tu",
+  "film": "Aashiqui 2",
+  "year": 2013,
+  "singer": [
+    "Ankit Tiwari"
+  ],
+  "lyricist": [
+    "Sandeep Nath"
+  ],
+  "composer": [
+    "Ankit Tiwari"
+  ],
+  "notes": [
+    "Aditya Roy Kapur"
+  ],
+  "tags": [
+    "恋愛",
+    "祈り",
+    "切望",
+    "感情的バラード"
+  ],
+  "emotion": "yearning_devotion",
+  "register": "poetic_modern",
+  "key_phrase": "सुन रहा है ना तू, रो रहा हूँ मैं",
+  "expressions": [
+    {
+      "text": "सुन रहा है ना तू",
+      "normalized": "सुन रहा है ना तू",
+      "meaning_ja": "君は聞いているよね",
+      "type": "hook",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "रो रहा हूँ मैं",
+      "normalized": "रो रहा हूँ मैं",
+      "meaning_ja": "僕は泣いている",
+      "type": "hook",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "दिल को ठिकाने दे",
+      "normalized": "दिल को ठिकाने दे",
+      "meaning_ja": "心に居場所を与えてくれ",
+      "type": "poetic",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "ख़्वाबों की बारिश",
+      "normalized": "ख्वाबों की बारिश",
+      "meaning_ja": "夢の雨",
+      "type": "metaphor",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "रूह की राहत",
+      "normalized": "रूह की राहत",
+      "meaning_ja": "魂の安らぎ",
+      "type": "poetic",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "तू मेरी इबादत है",
+      "normalized": "तू मेरी इबादत है",
+      "meaning_ja": "君は僕の信仰そのものだ",
+      "type": "poetic",
+      "importance": 4,
+      "status": "active"
+    }
+  ],
+  "vocab_candidates": [
+    {
+      "word": "करम",
+      "normalized": "करम",
+      "pos": "名詞（男）",
+      "meaning_ja": "恩恵、慈悲（詩語）",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "अदा",
+      "normalized": "अदा",
+      "pos": "名詞（女）",
+      "meaning_ja": "しぐさ、優美さ",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "इरादा",
+      "normalized": "इरादा",
+      "pos": "名詞（男）",
+      "meaning_ja": "意志、決意",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "कसम",
+      "normalized": "कसम",
+      "pos": "名詞（女）",
+      "meaning_ja": "誓い",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "वादा",
+      "normalized": "वादा",
+      "pos": "名詞（男）",
+      "meaning_ja": "約束",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "दुआ",
+      "normalized": "दुआ",
+      "pos": "名詞（女）",
+      "meaning_ja": "祈り",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "इशारा",
+      "normalized": "इशारा",
+      "pos": "名詞（男）",
+      "meaning_ja": "合図、しるし",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "सहारा",
+      "normalized": "सहारा",
+      "pos": "名詞（男）",
+      "meaning_ja": "支え、頼り",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "ठिकाना",
+      "normalized": "ठिकाना",
+      "pos": "名詞（男）",
+      "meaning_ja": "居場所、行き先",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "बहाना",
+      "normalized": "बहाना",
+      "pos": "名詞（男）",
+      "meaning_ja": "口実、言い訳",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "ख़्वाब",
+      "normalized": "ख्वाब",
+      "pos": "名詞（男）",
+      "meaning_ja": "夢",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "मौसम",
+      "normalized": "मौसम",
+      "pos": "名詞（男）",
+      "meaning_ja": "季節、天気",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "पैमाना",
+      "normalized": "पैमाना",
+      "pos": "名詞（男）",
+      "meaning_ja": "尺度、基準",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "मंजिल",
+      "normalized": "मंजिल",
+      "pos": "名詞（女）",
+      "meaning_ja": "目的地、到達点",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "रुसवा",
+      "normalized": "रुसवा",
+      "pos": "形容詞",
+      "meaning_ja": "辱められた、評判を落とした",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "अमानत",
+      "normalized": "अमानत",
+      "pos": "名詞（女）",
+      "meaning_ja": "預かり物、大切な entrusted thing",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "वक़्त",
+      "normalized": "वक्त",
+      "pos": "名詞（男）",
+      "meaning_ja": "時、時間",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "राहत",
+      "normalized": "राहत",
+      "pos": "名詞（女）",
+      "meaning_ja": "安らぎ、救い",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "इबादत",
+      "normalized": "इबादत",
+      "pos": "名詞（女）",
+      "meaning_ja": "礼拝、信仰",
+      "importance": 4,
+      "status": "active"
+    }
+  ],
+  "meta": {
+    "copyright_safe": true,
+    "lyrics_included": false,
+    "source_type": "manual_curated",
+    "dedupe_ready": true
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "id": "bolly_033",
+  "schema_version": 2,
+  "title": "Offo",
+  "film": "2 States",
+  "year": 2014,
+  "singer": [
+    "Aditi Singh Sharma"
+  ],
+  "lyricist": [
+    "Amitabh Bhattacharya"
+  ],
+  "composer": [
+    "Shankar-Ehsaan-Loy"
+  ],
+  "notes": [
+    "アルジュン・カプール"
+  ],
+  "tags": [
+    "恋愛"
+  ],
+  "emotion": "playful_romance",
+  "register": "playful_colloquial",
+  "key_phrase": "दिल का दिमाग से झगड़ा लगाया किसे",
+  "expressions": [
+    {
+      "text": "दिल का दिमाग से झगड़ा लगाया",
+      "normalized": "दिल का दिमाग से झगड़ा लगाया",
+      "meaning_ja": "心と頭をけんかさせた",
+      "type": "metaphor",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "दबे पाँव आया",
+      "normalized": "दबे पाँव आया",
+      "meaning_ja": "忍び足でやって来た",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "सीने से लगाऊँ",
+      "normalized": "सीने से लगाऊँ",
+      "meaning_ja": "胸に抱きしめようか",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "सर पे बिठाऊँ",
+      "normalized": "सर पे बिठाऊँ",
+      "meaning_ja": "頭の上に乗せるほど大事にしようか",
+      "type": "idiom",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "मौका मिलते ही पर फैलाता है",
+      "normalized": "मौका मिलते ही पर फैलाता है",
+      "meaning_ja": "機会を得るとすぐ羽を広げる",
+      "type": "metaphor",
+      "importance": 4,
+      "status": "active"
+    }
+  ],
+  "vocab_candidates": [
+    {
+      "word": "दिमाग",
+      "normalized": "दिमाग",
+      "pos": "名詞（男）",
+      "meaning_ja": "頭、理性",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "झगड़ा",
+      "normalized": "झगड़ा",
+      "pos": "名詞（男）",
+      "meaning_ja": "けんか、争い",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "दबे पाँव",
+      "normalized": "दबे पाँव",
+      "pos": "副詞句",
+      "meaning_ja": "忍び足で、こっそり",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "कमीना",
+      "normalized": "कमीना",
+      "pos": "形容詞・名詞",
+      "meaning_ja": "ずるい、ろくでなし",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "बेचारा",
+      "normalized": "बेचारा",
+      "pos": "形容詞・名詞",
+      "meaning_ja": "かわいそうな、哀れな人",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "इश्क",
+      "normalized": "इश्क",
+      "pos": "名詞（男）",
+      "meaning_ja": "恋、恋愛",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "भूत",
+      "normalized": "भूत",
+      "pos": "名詞（男）",
+      "meaning_ja": "幽霊、取りついたもの",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "ओफ्फो",
+      "normalized": "ओफ्फो",
+      "pos": "間投詞",
+      "meaning_ja": "ああもう、やれやれ",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "डांटना",
+      "normalized": "डांटना",
+      "pos": "他動詞",
+      "meaning_ja": "叱る",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "थप्पड़",
+      "normalized": "थप्पड़",
+      "pos": "名詞（男）",
+      "meaning_ja": "平手打ち、ビンタ",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "शरारतें",
+      "normalized": "शरारत",
+      "pos": "名詞（女・複）",
+      "meaning_ja": "いたずら、茶目っ気",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "आदतें",
+      "normalized": "आदत",
+      "pos": "名詞（女・複）",
+      "meaning_ja": "癖、習慣",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "शरीफ",
+      "normalized": "शरीफ",
+      "pos": "形容詞",
+      "meaning_ja": "上品な、まじめな",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "बेशरम",
+      "normalized": "बेशरम",
+      "pos": "形容詞・名詞",
+      "meaning_ja": "恥知らずな、厚かましい",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "हैरत",
+      "normalized": "हैरत",
+      "pos": "名詞（女）",
+      "meaning_ja": "驚き",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "नादानियाँ",
+      "normalized": "नादानी",
+      "pos": "名詞（女・複）",
+      "meaning_ja": "無邪気な愚かさ、未熟な行動",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "दिल्लगी",
+      "normalized": "दिल्लगी",
+      "pos": "名詞（女）",
+      "meaning_ja": "戯れの恋、冗談交じりの恋",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "मनमानियाँ",
+      "normalized": "मनमानी",
+      "pos": "名詞（女・複）",
+      "meaning_ja": "わがまま、勝手な振る舞い",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "बहाने",
+      "normalized": "बहाना",
+      "pos": "名詞（男・複）",
+      "meaning_ja": "口実、言い訳",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "सहलाना",
+      "normalized": "सहलाना",
+      "pos": "他動詞",
+      "meaning_ja": "やさしくなでる",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "मौका",
+      "normalized": "मौका",
+      "pos": "名詞（男）",
+      "meaning_ja": "機会、チャンス",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "पर",
+      "normalized": "पर",
+      "pos": "名詞（男）",
+      "meaning_ja": "羽、翼",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "इशारा",
+      "normalized": "इशारा",
+      "pos": "名詞（男）",
+      "meaning_ja": "合図、しぐさ",
+      "importance": 3,
+      "status": "active"
+    }
+  ],
+  "meta": {
+    "copyright_safe": true,
+    "lyrics_included": false,
+    "source_type": "manual_curated",
+    "dedupe_ready": true
+  }
+}

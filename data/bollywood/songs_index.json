@@ -752,5 +752,134 @@
     ],
     "key_phrase": "भर दो झोली मेरी या मुहम्मद लौट कर मैं ना जाऊँगा खाली",
     "status": "processed"
+  },
+  {
+    "id": "bolly_033",
+    "title": "Offo",
+    "film": "2 States",
+    "year": 2014,
+    "singer": [
+      "Aditi Singh Sharma"
+    ],
+    "lyricist": [
+      "Amitabh Bhattacharya"
+    ],
+    "composer": [
+      "Shankar-Ehsaan-Loy"
+    ],
+    "notes": [
+      "アルジュン・カプール"
+    ],
+    "tags": [
+      "恋愛"
+    ],
+    "key_phrase": "दिल का दिमाग से झगड़ा लगाया किसे",
+    "status": "processed"
+  },
+  {
+    "id": "bolly_034",
+    "title": "Chammak Chhalo",
+    "film": "Ra.One",
+    "year": 2011,
+    "singer": [
+      "Akon"
+    ],
+    "lyricist": [
+      "Vishal Dadlani"
+    ],
+    "composer": [
+      "Vishal-Shekhar"
+    ],
+    "notes": [
+      "シャー・ルク・カーン"
+    ],
+    "tags": [
+      "恋愛",
+      "ダンス",
+      "ポップ"
+    ],
+    "key_phrase": "तू मेरी छम्मक छल्लो",
+    "status": "processed"
+  },
+  {
+    "id": "bolly_035",
+    "title": "Binte Dil",
+    "film": "Padmaavat",
+    "year": 2018,
+    "singer": [
+      "Arijit Singh"
+    ],
+    "lyricist": [
+      "A M Turaz"
+    ],
+    "composer": [
+      "Sanjay Leela Bhansali"
+    ],
+    "notes": [
+      "ランヴィール・シン"
+    ],
+    "tags": [
+      "恋愛",
+      "宮廷",
+      "ウルドゥー語彙",
+      "詩的表現"
+    ],
+    "key_phrase": "बीनते दिल मिस्रिया में",
+    "status": "processed"
+  },
+  {
+    "id": "bolly_036",
+    "title": "Baba Bolta Hain Bas Ho Gaya",
+    "film": "Sanju",
+    "year": 2018,
+    "singer": [
+      "Papon",
+      "Ranbir Kapoor",
+      "Supriya Pathak"
+    ],
+    "lyricist": [
+      "Puneet Sharma",
+      "Abhijat Joshi",
+      "Rohan Gokhale"
+    ],
+    "composer": [
+      "Vikram Montrose"
+    ],
+    "notes": [
+      "ランビール・カプール"
+    ],
+    "tags": [
+      "風刺",
+      "メディア",
+      "コミカル"
+    ],
+    "key_phrase": "बाबा बोलता हैं अभी, बस हो गया",
+    "status": "processed"
+  },
+  {
+    "id": "bolly_037",
+    "title": "Sunn Raha Hai Na Tu",
+    "film": "Aashiqui 2",
+    "year": 2013,
+    "singer": [
+      "Ankit Tiwari"
+    ],
+    "lyricist": [
+      "Sandeep Nath"
+    ],
+    "composer": [
+      "Ankit Tiwari"
+    ],
+    "notes": [
+      "Aditya Roy Kapur"
+    ],
+    "tags": [
+      "恋愛",
+      "祈り",
+      "切望",
+      "感情的バラード"
+    ],
+    "key_phrase": "सुन रहा है ना तू, रो रहा हूँ मैं",
+    "status": "processed"
   }
 ]

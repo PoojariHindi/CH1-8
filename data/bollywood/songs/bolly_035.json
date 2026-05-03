@@ -1,0 +1,198 @@
+{
+  "id": "bolly_035",
+  "schema_version": 2,
+  "title": "Binte Dil",
+  "film": "Padmaavat",
+  "year": 2018,
+  "singer": [
+    "Arijit Singh"
+  ],
+  "lyricist": [
+    "A M Turaz"
+  ],
+  "composer": [
+    "Sanjay Leela Bhansali"
+  ],
+  "notes": [
+    "ランヴィール・シン"
+  ],
+  "tags": [
+    "恋愛",
+    "宮廷",
+    "ウルドゥー語彙",
+    "詩的表現"
+  ],
+  "emotion": "intense_desire",
+  "register": "royal_poetic_urdu",
+  "key_phrase": "बीनते दिल मिस्रिया में",
+  "expressions": [
+    {
+      "text": "ख़िदमत-ए-आली जनाब",
+      "normalized": "खिदमत-ए-आली जनाब",
+      "meaning_ja": "高貴なるあなた様へのご奉仕",
+      "type": "courtly_expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "दीदा-ए-तर",
+      "normalized": "दीदा-ए-तर",
+      "meaning_ja": "涙に濡れた瞳",
+      "type": "poetic",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "लबों पे आने लगी",
+      "normalized": "लबों पे आने लगी",
+      "meaning_ja": "唇に浮かび始めた",
+      "type": "poetic",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "आरिज़ों पे लिख ज़रा",
+      "normalized": "आरिजों पे लिख जरा",
+      "meaning_ja": "頬に少し書いておくれ",
+      "type": "poetic",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "चाहतों का सिला",
+      "normalized": "चाहतों का सिला",
+      "meaning_ja": "愛情への報い",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    }
+  ],
+  "vocab_candidates": [
+    {
+      "word": "शबाब",
+      "normalized": "शबाब",
+      "pos": "名詞（男）",
+      "meaning_ja": "若さ、美貌、盛り",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "ख़िदमत",
+      "normalized": "खिदमत",
+      "pos": "名詞（女）",
+      "meaning_ja": "奉仕、仕えること",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "जनाब",
+      "normalized": "जनाब",
+      "pos": "名詞",
+      "meaning_ja": "あなた様、閣下",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "आतिशकदा",
+      "normalized": "आतिशकदा",
+      "pos": "名詞（男）",
+      "meaning_ja": "火の館、燃えさかる場所",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "अदा",
+      "normalized": "अदा",
+      "pos": "名詞（女）",
+      "meaning_ja": "しぐさ、優美さ",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "दीदा",
+      "normalized": "दीदा",
+      "pos": "名詞（男）",
+      "meaning_ja": "目、まなざし（詩語）",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "हिजाब",
+      "normalized": "हिजाब",
+      "pos": "名詞（男）",
+      "meaning_ja": "ヴェール、覆い",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "महकश",
+      "normalized": "महकश",
+      "pos": "形容詞",
+      "meaning_ja": "香り立つ、魅惑的な",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "लब",
+      "normalized": "लब",
+      "pos": "名詞（男・複）",
+      "meaning_ja": "唇（詩語）",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "कुर्बत",
+      "normalized": "कुर्बत",
+      "pos": "名詞（女）",
+      "meaning_ja": "親密さ、近さ",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "हैरत",
+      "normalized": "हैरत",
+      "pos": "名詞（女）",
+      "meaning_ja": "驚き",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "फुर्क़त",
+      "normalized": "फुरकत",
+      "pos": "名詞（女）",
+      "meaning_ja": "別離、離別",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "आरिज़",
+      "normalized": "आरिज",
+      "pos": "名詞（男・複）",
+      "meaning_ja": "頬（詩語）",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "रिफ़अत",
+      "normalized": "रिफअत",
+      "pos": "名詞（女）",
+      "meaning_ja": "高み、高貴さ",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "सिला",
+      "normalized": "सिला",
+      "pos": "名詞（男）",
+      "meaning_ja": "報い、返礼",
+      "importance": 4,
+      "status": "active"
+    }
+  ],
+  "meta": {
+    "copyright_safe": true,
+    "lyrics_included": false,
+    "source_type": "manual_curated",
+    "dedupe_ready": true
+  }
+}
