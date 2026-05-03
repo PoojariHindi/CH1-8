@@ -549,16 +549,22 @@ async function initApp() {
     bollywoodFill = bolly.fillBlanks;
     bollywoodExpressions = bolly.expressions;
 
-    document
-      .getElementById("startQuizBtn")
-      .addEventListener("click", () => {
-        reviewModeEnabled = false;
-        startQuiz();
-      });
+  document
+  .getElementById("startQuizBtn")
+  .addEventListener("click", () => {
+    reviewModeEnabled = false;
+
+    document.getElementById("footerLinks")?.style.setProperty("display", "none");
+
+    startQuiz();
+  }); 
 
     document
-      .getElementById("reviewBtn")
-      .addEventListener("click", startReviewMode);
+  .getElementById("reviewBtn")
+  .addEventListener("click", () => {
+    document.getElementById("footerLinks")?.style.setProperty("display", "none");
+    startReviewMode();
+  });
 
     document
       .getElementById("modeSelect")
