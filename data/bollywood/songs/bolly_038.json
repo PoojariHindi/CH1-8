@@ -1,0 +1,209 @@
+{
+  "id": "bolly_038",
+  "schema_version": 2,
+  "title": "Mehndi Laga Ke Rakhna",
+  "film": "Dilwale Dulhania Le Jayenge",
+  "year": 1995,
+  "singer": [
+    "Udit Narayan",
+    "Lata Mangeshkar"
+  ],
+  "lyricist": [
+    "Anand Bakshi"
+  ],
+  "composer": [
+    "Jatin-Lalit"
+  ],
+  "notes": [
+    "シャールク・カーン"
+  ],
+  "tags": [
+    "結婚式",
+    "恋愛",
+    "祝祭"
+  ],
+  "emotion": "joyful_wedding_romance",
+  "register": "folk_wedding_colloquial",
+  "key_phrase": "महंदी लगाके रखना, डोली सजाके रखना",
+
+  "expressions": [
+    {
+      "text": "महंदी लगाके रखना",
+      "normalized": "मेहंदी लगाके रखना",
+      "meaning_ja": "メヘンディを塗って待っていて",
+      "type": "hook",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "डोली सजाके रखना",
+      "normalized": "डोली सजाके रखना",
+      "meaning_ja": "花嫁の輿を飾って待っていて",
+      "type": "hook",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "दिल की बात दिल में दबाके रखना",
+      "normalized": "दिल की बात दिल में दबाके रखना",
+      "meaning_ja": "心の内を胸にしまっておく",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "नज़रें झुकाके रखना",
+      "normalized": "नज़रें झुकाके रखना",
+      "meaning_ja": "視線を伏せておく",
+      "type": "expression",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "दामन बचाके रखना",
+      "normalized": "दामन बचाके रखना",
+      "meaning_ja": "身を慎む、純潔を守る",
+      "type": "idiom",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "दिल थाम के खड़े हैं",
+      "normalized": "दिल थाम के खड़े हैं",
+      "meaning_ja": "胸を押さえて見守っている（ドキドキしている）",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    }
+  ],
+
+  "vocab_candidates": [
+    {
+      "word": "महंदी",
+      "normalized": "मेहंदी",
+      "pos": "名詞（女）",
+      "meaning_ja": "メヘンディ、ヘナ",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "डोली",
+      "normalized": "डोली",
+      "pos": "名詞（女）",
+      "meaning_ja": "花嫁の輿",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "सजना",
+      "normalized": "सजना",
+      "pos": "名詞（男）",
+      "meaning_ja": "恋人、愛しい人",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "सेहरा",
+      "normalized": "सेहरा",
+      "pos": "名詞（男）",
+      "meaning_ja": "花婿の額飾り",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "गोरी",
+      "normalized": "गोरी",
+      "pos": "名詞（女）",
+      "meaning_ja": "色白の娘（愛称）",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "इशारा",
+      "normalized": "इशारा",
+      "pos": "名詞（男）",
+      "meaning_ja": "合図、しるし",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "आशिक",
+      "normalized": "आशिक",
+      "pos": "名詞（男）",
+      "meaning_ja": "恋する男、恋人",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "कंवारा",
+      "normalized": "कंवारा",
+      "pos": "形容詞・名詞",
+      "meaning_ja": "未婚の男性",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "दामन",
+      "normalized": "दामन",
+      "pos": "名詞（男）",
+      "meaning_ja": "裾、身の潔白",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "जवान",
+      "normalized": "जवान",
+      "pos": "形容詞・名詞",
+      "meaning_ja": "若い、若者",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "हसीन",
+      "normalized": "हसीन",
+      "pos": "形容詞",
+      "meaning_ja": "美しい",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "मचलना",
+      "normalized": "मचलना",
+      "pos": "自動詞",
+      "meaning_ja": "心が高ぶる",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "कुसूर",
+      "normalized": "कुसूर",
+      "pos": "名詞（男）",
+      "meaning_ja": "過ち、責任",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "काबू",
+      "normalized": "काबू",
+      "pos": "名詞（男）",
+      "meaning_ja": "制御、抑制",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "हुस्न",
+      "normalized": "हुस्न",
+      "pos": "名詞（男）",
+      "meaning_ja": "美貌、美しさ",
+      "importance": 4,
+      "status": "active"
+    }
+  ],
+
+  "meta": {
+    "copyright_safe": true,
+    "lyrics_included": false,
+    "source_type": "manual_curated",
+    "dedupe_ready": true
+  }
+}

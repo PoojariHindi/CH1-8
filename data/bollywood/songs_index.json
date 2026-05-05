@@ -881,5 +881,31 @@
     ],
     "key_phrase": "सुन रहा है ना तू, रो रहा हूँ मैं",
     "status": "processed"
+  },
+  {
+    "id": "bolly_038",
+    "title": "Mehndi Laga Ke Rakhna",
+    "film": "Dilwale Dulhania Le Jayenge",
+    "year": 1995,
+    "singer": [
+      "Udit Narayan",
+      "Lata Mangeshkar"
+    ],
+    "lyricist": [
+      "Anand Bakshi"
+    ],
+    "composer": [
+      "Jatin-Lalit"
+    ],
+    "notes": [
+      "シャールク・カーン"
+    ],
+    "tags": [
+      "結婚式",
+      "恋愛",
+      "祝祭"
+    ],
+    "key_phrase": "महंदी लगाके रखना, डोली सजाके रखना",
+    "status": "processed"
   }
 ]

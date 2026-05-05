@@ -9,10 +9,11 @@
     "importance": 4,
     "status": "active",
     "sourceArticleIds": [
-      "news_vocab_02"
+      "news_vocab_02",
+      "news_006"
     ],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 2,
+    "frequency": 2,
     "notes": ""
   },
   {
@@ -25,10 +26,11 @@
     "importance": 4,
     "status": "active",
     "sourceArticleIds": [
-      "news_vocab_02"
+      "news_vocab_02",
+      "news_006"
     ],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 2,
+    "frequency": 2,
     "notes": ""
   },
   {
@@ -57,10 +59,11 @@
     "importance": 4,
     "status": "active",
     "sourceArticleIds": [
-      "news_vocab_02"
+      "news_vocab_02",
+      "news_006"
     ],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 2,
+    "frequency": 2,
     "notes": ""
   },
   {
@@ -154,10 +157,11 @@
     "importance": 4,
     "status": "active",
     "sourceArticleIds": [
-      "news_vocab_02"
+      "news_vocab_02",
+      "news_009"
     ],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 2,
+    "frequency": 2,
     "notes": ""
   },
   {
@@ -218,10 +222,11 @@
     "importance": 4,
     "status": "active",
     "sourceArticleIds": [
-      "news_vocab_02"
+      "news_vocab_02",
+      "news_006"
     ],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 2,
+    "frequency": 2,
     "notes": ""
   },
   {
@@ -348,10 +353,11 @@
     "importance": 4,
     "status": "active",
     "sourceArticleIds": [
-      "news_vocab_02"
+      "news_vocab_02",
+      "news_007"
     ],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 2,
+    "frequency": 2,
     "notes": ""
   },
   {
@@ -460,10 +466,11 @@
     "importance": 4,
     "status": "active",
     "sourceArticleIds": [
-      "news_vocab_02"
+      "news_vocab_02",
+      "news_007"
     ],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 2,
+    "frequency": 2,
     "notes": ""
   },
   {
@@ -540,10 +547,11 @@
     "importance": 3,
     "status": "active",
     "sourceArticleIds": [
-      "news_vocab_02"
+      "news_vocab_02",
+      "news_008"
     ],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 2,
+    "frequency": 2,
     "notes": ""
   },
   {
@@ -604,10 +612,11 @@
     "importance": 3,
     "status": "active",
     "sourceArticleIds": [
-      "news_vocab_02"
+      "news_vocab_02",
+      "news_008"
     ],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 2,
+    "frequency": 2,
     "notes": ""
   },
   {
@@ -684,10 +693,11 @@
     "importance": 3,
     "status": "active",
     "sourceArticleIds": [
-      "news_vocab_01"
+      "news_vocab_01",
+      "news_007"
     ],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 2,
+    "frequency": 2,
     "notes": ""
   },
   {
@@ -926,10 +936,11 @@
     "importance": 4,
     "status": "active",
     "sourceArticleIds": [
-      "news_vocab_02"
+      "news_vocab_02",
+      "news_007"
     ],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 2,
+    "frequency": 2,
     "notes": ""
   },
   {
@@ -1056,10 +1067,11 @@
     "importance": 4,
     "status": "active",
     "sourceArticleIds": [
-      "news_vocab_02"
+      "news_vocab_02",
+      "news_008"
     ],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 2,
+    "frequency": 2,
     "notes": ""
   },
   {
@@ -1120,10 +1132,11 @@
     "importance": 4,
     "status": "active",
     "sourceArticleIds": [
-      "news_vocab_02"
+      "news_vocab_02",
+      "news_009"
     ],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 2,
+    "frequency": 2,
     "notes": ""
   },
   {
@@ -1185,10 +1198,11 @@
     "importance": 4,
     "status": "active",
     "sourceArticleIds": [
-      "news_vocab_02"
+      "news_vocab_02",
+      "news_009"
     ],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 2,
+    "frequency": 2,
     "notes": ""
   },
   {
@@ -1202,10 +1216,11 @@
     "status": "active",
     "sourceArticleIds": [
       "news_vocab_02",
-      "news_20260429_bengal_chunaw"
+      "news_20260429_bengal_chunaw",
+      "news_009"
     ],
-    "sourceCount": 2,
-    "frequency": 2,
+    "sourceCount": 3,
+    "frequency": 3,
     "notes": ""
   },
   {
@@ -1523,10 +1538,11 @@
     "importance": 3,
     "status": "active",
     "sourceArticleIds": [
-      "news_vocab_02"
+      "news_vocab_02",
+      "news_009"
     ],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 2,
+    "frequency": 2,
     "notes": ""
   },
   {
@@ -1982,10 +1998,11 @@
     "importance": 4,
     "status": "active",
     "sourceArticleIds": [
-      "news_vocab_02"
+      "news_vocab_02",
+      "news_008"
     ],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 2,
+    "frequency": 2,
     "notes": ""
   },
   {
@@ -2141,9 +2158,12 @@
     "difficulty": 3,
     "importance": 4,
     "status": "active",
-    "sourceArticleIds": ["news_20260429_bengal_chunaw"],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceArticleIds": [
+      "news_20260429_bengal_chunaw",
+      "news_009"
+    ],
+    "sourceCount": 2,
+    "frequency": 2,
     "notes": ""
   },
   {
@@ -2155,9 +2175,12 @@
     "difficulty": 4,
     "importance": 4,
     "status": "active",
-    "sourceArticleIds": ["news_20260429_bengal_chunaw"],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceArticleIds": [
+      "news_20260429_bengal_chunaw",
+      "news_009"
+    ],
+    "sourceCount": 2,
+    "frequency": 2,
     "notes": ""
   },
   {
@@ -2169,7 +2192,9 @@
     "difficulty": 3,
     "importance": 4,
     "status": "active",
-    "sourceArticleIds": ["news_20260429_bengal_chunaw"],
+    "sourceArticleIds": [
+      "news_20260429_bengal_chunaw"
+    ],
     "sourceCount": 1,
     "frequency": 1,
     "notes": "गिरफ्तारी は名詞「逮捕」。これは分詞・形容詞として別登録。"
@@ -2183,7 +2208,9 @@
     "difficulty": 3,
     "importance": 4,
     "status": "active",
-    "sourceArticleIds": ["news_20260429_mumbai_death"],
+    "sourceArticleIds": [
+      "news_20260429_mumbai_death"
+    ],
     "sourceCount": 1,
     "frequency": 1,
     "notes": ""
@@ -2197,7 +2224,9 @@
     "difficulty": 4,
     "importance": 4,
     "status": "active",
-    "sourceArticleIds": ["news_20260429_ncert"],
+    "sourceArticleIds": [
+      "news_20260429_ncert"
+    ],
     "sourceCount": 1,
     "frequency": 1,
     "notes": ""
@@ -2211,9 +2240,971 @@
     "difficulty": 3,
     "importance": 4,
     "status": "active",
-    "sourceArticleIds": ["news_20260429_ncert"],
+    "sourceArticleIds": [
+      "news_20260429_ncert"
+    ],
     "sourceCount": 1,
     "frequency": 1,
     "notes": ""
+  },
+  {
+    "word": "विधानसभा",
+    "normalized": "विधानसभा",
+    "pos": "名詞（女）",
+    "meaning_ja": "州議会",
+    "category": "選挙・裁判",
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_009"
+    ],
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "बहुमत",
+    "normalized": "बहुमत",
+    "pos": "名詞（男）",
+    "meaning_ja": "過半数",
+    "category": "選挙・裁判",
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_009"
+    ],
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "सत्ता",
+    "normalized": "सत्ता",
+    "pos": "名詞（女）",
+    "meaning_ja": "政権、権力",
+    "category": "選挙・裁判",
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_009"
+    ],
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "मतगणना",
+    "normalized": "मतगणना",
+    "pos": "名詞（女）",
+    "meaning_ja": "開票",
+    "category": "選挙・裁判",
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_009"
+    ],
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "उपचुनाव",
+    "normalized": "उपचुनाव",
+    "pos": "名詞（男）",
+    "meaning_ja": "補欠選挙",
+    "category": "選挙・裁判",
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_009"
+    ],
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "वर्चस्व",
+    "normalized": "वर्चस्व",
+    "pos": "名詞（男）",
+    "meaning_ja": "支配、優勢",
+    "category": "選挙・裁判",
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_009"
+    ],
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "गठबंधन",
+    "normalized": "गठबंधन",
+    "pos": "名詞（男）",
+    "meaning_ja": "連合、同盟",
+    "category": "選挙・裁判",
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_009"
+    ],
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "तोहफ़ा",
+    "normalized": "तोहफा",
+    "pos": "名詞（男）",
+    "meaning_ja": "贈り物（比喩：恩恵）",
+    "category": "選挙・裁判",
+    "importance": 2,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_009"
+    ],
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "किला",
+    "normalized": "किला",
+    "pos": "名詞（男）",
+    "meaning_ja": "拠点、砦（比喩）",
+    "category": "選挙・裁判",
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_009"
+    ],
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "करारी हार",
+    "normalized": "करारी_हार",
+    "pos": "名詞句",
+    "meaning_ja": "大敗",
+    "category": "選挙・裁判",
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_009"
+    ],
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "दहाई",
+    "normalized": "दहाई",
+    "pos": "名詞（女）",
+    "meaning_ja": "10の位、二桁",
+    "category": "選挙・裁判",
+    "importance": 2,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_009"
+    ],
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "बरकरार",
+    "normalized": "बरकरार",
+    "pos": "形容詞",
+    "meaning_ja": "維持された",
+    "category": "選挙・裁判",
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_009"
+    ],
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "स्थापित करना",
+    "normalized": "स्थापित_करना",
+    "pos": "動詞句",
+    "meaning_ja": "樹立する",
+    "category": "重要動詞",
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_009"
+    ],
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "बरकरार रखना",
+    "normalized": "बरकरार_रखना",
+    "pos": "動詞句",
+    "meaning_ja": "維持する",
+    "category": "重要動詞",
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_009"
+    ],
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "वापसी करना",
+    "normalized": "वापसी_करना",
+    "pos": "動詞句",
+    "meaning_ja": "復帰する",
+    "category": "重要動詞",
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_009"
+    ],
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "समर्थन",
+    "normalized": "समर्थन",
+    "pos": "名詞（男）",
+    "meaning_ja": "支持、支援",
+    "category": "選挙・裁判",
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_009"
+    ],
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "कांस्टेबल",
+    "normalized": "कांस्टेबल",
+    "pos": "名詞",
+    "meaning_ja": "巡査、警察官",
+    "category": "事件・事故",
+    "difficulty": 2,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_006"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "लूट",
+    "normalized": "लूट",
+    "pos": "名詞（女）",
+    "meaning_ja": "強奪、略奪",
+    "category": "事件・事故",
+    "difficulty": 2,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_006"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "मास्टरमाइंड",
+    "normalized": "मास्टरमाइंड",
+    "pos": "名詞",
+    "meaning_ja": "首謀者、黒幕",
+    "category": "事件・事故",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_006"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "गिरोह",
+    "normalized": "गिरोह",
+    "pos": "名詞（男）",
+    "meaning_ja": "犯罪グループ、一味",
+    "category": "事件・事故",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_006"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "वारदात",
+    "normalized": "वारदात",
+    "pos": "名詞（女）",
+    "meaning_ja": "犯行、事件",
+    "category": "事件・事故",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_006"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "अंजाम देना",
+    "normalized": "अंजाम_देना",
+    "pos": "動詞句",
+    "meaning_ja": "実行する、遂行する",
+    "category": "重要動詞",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_006"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "अपराध / वारदात के संदर्भ में頻出。"
+  },
+  {
+    "word": "बरामद",
+    "normalized": "बरामद",
+    "pos": "形容詞・分詞",
+    "meaning_ja": "押収された、回収された",
+    "category": "事件・事故",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_006"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "फरार",
+    "normalized": "फरार",
+    "pos": "形容詞",
+    "meaning_ja": "逃亡中の",
+    "category": "事件・事故",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_006"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "शिकायत",
+    "normalized": "शिकायत",
+    "pos": "名詞（女）",
+    "meaning_ja": "苦情、通報、訴え",
+    "category": "事件・事故",
+    "difficulty": 2,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_006"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "सीसीटीवी फुटेज",
+    "normalized": "सीसीटीवी_फुटेज",
+    "pos": "名詞",
+    "meaning_ja": "防犯カメラ映像",
+    "category": "事件・事故",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_006"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "पहचान करना",
+    "normalized": "पहचान_करना",
+    "pos": "動詞句",
+    "meaning_ja": "特定する、識別する",
+    "category": "重要動詞",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_006"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "दबोचना",
+    "normalized": "दबोचना",
+    "pos": "他動詞",
+    "meaning_ja": "捕まえる、取り押さえる",
+    "category": "事件・事故",
+    "difficulty": 4,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_006"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "警察報道で使われるやや口語的表現。"
+  },
+  {
+    "word": "फेस रिकग्निशन",
+    "normalized": "फेस_रिकग्निशन",
+    "pos": "名詞",
+    "meaning_ja": "顔認証",
+    "category": "事件・事故",
+    "difficulty": 4,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_006"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "खाकी को दागदार करना",
+    "normalized": "खाकी_को_दागदार_करना",
+    "pos": "表現",
+    "meaning_ja": "警察の名誉を汚す",
+    "category": "事件・事故",
+    "difficulty": 5,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_006"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "manual_review由来。表現項目向きだがニュース読解に有用。"
+  },
+  {
+    "word": "नाम सामने आना",
+    "normalized": "नाम_सामने_आना",
+    "pos": "表現",
+    "meaning_ja": "名前が浮上する、関与が明らかになる",
+    "category": "事件・事故",
+    "difficulty": 4,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_006"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "manual_review由来。"
+  },
+  {
+    "word": "कमर्शियल",
+    "normalized": "कमर्शियल",
+    "pos": "形容詞",
+    "meaning_ja": "商業用の",
+    "category": "労働・経済",
+    "difficulty": 2,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_007"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "सिलिंडर",
+    "normalized": "सिलिंडर",
+    "pos": "名詞（男）",
+    "meaning_ja": "シリンダー、ガスボンベ",
+    "category": "都市・環境",
+    "difficulty": 2,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_007"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "इजाफा",
+    "normalized": "इजाफा",
+    "pos": "名詞（男）",
+    "meaning_ja": "増加、値上げ",
+    "category": "労働・経済",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_007"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "कच्चा तेल",
+    "normalized": "कच्चा_तेल",
+    "pos": "名詞",
+    "meaning_ja": "原油",
+    "category": "労働・経済",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_007"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "विनिमय दर",
+    "normalized": "विनिमय_दर",
+    "pos": "名詞",
+    "meaning_ja": "為替レート",
+    "category": "労働・経済",
+    "difficulty": 5,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_007"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "अंतरराष्ट्रीय",
+    "normalized": "अंतरराष्ट्रीय",
+    "pos": "形容詞",
+    "meaning_ja": "国際的な",
+    "category": "労働・経済",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_007"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "बेंचमार्क",
+    "normalized": "बेंचमार्क",
+    "pos": "名詞",
+    "meaning_ja": "基準、ベンチマーク",
+    "category": "労働・経済",
+    "difficulty": 4,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_007"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "बोझ",
+    "normalized": "बोझ",
+    "pos": "名詞（男）",
+    "meaning_ja": "負担",
+    "category": "労働・経済",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_007"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "आपूर्ति",
+    "normalized": "आपूर्ति",
+    "pos": "名詞（女）",
+    "meaning_ja": "供給",
+    "category": "労働・経済",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_007"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "आयात",
+    "normalized": "आयात",
+    "pos": "名詞（男）",
+    "meaning_ja": "輸入",
+    "category": "労働・経済",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_007"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "रोकथाम",
+    "normalized": "रोकथाम",
+    "pos": "名詞（女）",
+    "meaning_ja": "防止、抑止",
+    "category": "行政・制度",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_007"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "ब्लैक मार्केटिंग",
+    "normalized": "ब्लैक_मार्केटिंग",
+    "pos": "名詞",
+    "meaning_ja": "闇取引、ブラックマーケット化",
+    "category": "労働・経済",
+    "difficulty": 4,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_007"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "अस्थिरता",
+    "normalized": "अस्थिरता",
+    "pos": "名詞（女）",
+    "meaning_ja": "不安定さ",
+    "category": "労働・経済",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_007"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "कीमतों में इजाफा",
+    "normalized": "कीमतों_में_इजाफा",
+    "pos": "表現",
+    "meaning_ja": "価格の上昇、値上がり",
+    "category": "労働・経済",
+    "difficulty": 4,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_007"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "manual_review由来。"
+  },
+  {
+    "word": "सीधा बोझ पड़ना",
+    "normalized": "सीधा_बोझ_पड़ना",
+    "pos": "表現",
+    "meaning_ja": "直接的な負担がかかる",
+    "category": "労働・経済",
+    "difficulty": 4,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_007"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "manual_review由来。"
+  },
+  {
+    "word": "आपात स्थिति",
+    "normalized": "आपात_स्थिति",
+    "pos": "名詞",
+    "meaning_ja": "緊急事態",
+    "category": "行政・制度",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_008"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "अलर्ट",
+    "normalized": "अलर्ट",
+    "pos": "名詞",
+    "meaning_ja": "警報、アラート",
+    "category": "行政・制度",
+    "difficulty": 2,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_008"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "प्रणाली",
+    "normalized": "प्रणाली",
+    "pos": "名詞（女）",
+    "meaning_ja": "システム、仕組み",
+    "category": "行政・制度",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_008"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "पहल",
+    "normalized": "पहल",
+    "pos": "名詞（女）",
+    "meaning_ja": "取り組み、イニシアチブ",
+    "category": "行政・制度",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_008"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "शुभारंभ",
+    "normalized": "शुभारंभ",
+    "pos": "名詞（男）",
+    "meaning_ja": "開始、発足",
+    "category": "行政・制度",
+    "difficulty": 4,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_008"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "स्वदेशी",
+    "normalized": "स्वदेशी",
+    "pos": "形容詞",
+    "meaning_ja": "国産の、自国製の",
+    "category": "行政・制度",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_008"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "आपदा",
+    "normalized": "आपदा",
+    "pos": "名詞（女）",
+    "meaning_ja": "災害",
+    "category": "行政・制度",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_008"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "गृह मंत्रालय",
+    "normalized": "गृह_मंत्रालय",
+    "pos": "名詞",
+    "meaning_ja": "内務省",
+    "category": "行政・制度",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_008"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "आपदा प्रबंधन",
+    "normalized": "आपदा_प्रबंधन",
+    "pos": "名詞",
+    "meaning_ja": "災害管理",
+    "category": "行政・制度",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_008"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "संचार मंत्रालय",
+    "normalized": "संचार_मंत्रालय",
+    "pos": "名詞",
+    "meaning_ja": "通信省",
+    "category": "行政・制度",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_008"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "प्रोटोकाल",
+    "normalized": "प्रोटोकाल",
+    "pos": "名詞（男）",
+    "meaning_ja": "プロトコル",
+    "category": "行政・制度",
+    "difficulty": 4,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_008"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "इंटीग्रेटेड",
+    "normalized": "इंटीग्रेटेड",
+    "pos": "形容詞",
+    "meaning_ja": "統合された",
+    "category": "行政・制度",
+    "difficulty": 3,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_008"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "विकसित करना",
+    "normalized": "विकसित_करना",
+    "pos": "動詞句",
+    "meaning_ja": "開発する、発展させる",
+    "category": "重要動詞",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_008"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "पलक झपकते ही",
+    "normalized": "पलक_झपकते_ही",
+    "pos": "表現",
+    "meaning_ja": "瞬く間に",
+    "category": "行政・制度",
+    "difficulty": 4,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_008"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "manual_review由来。表現項目向き。"
+  },
+  {
+    "word": "राहत की सांस लेना",
+    "normalized": "राहत_की_सांस_लेना",
+    "pos": "表現",
+    "meaning_ja": "ほっとする",
+    "category": "社会・公共",
+    "difficulty": 4,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_008"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "manual_review由来。"
+  },
+  {
+    "word": "सकते में आना",
+    "normalized": "सकते_में_आना",
+    "pos": "表現",
+    "meaning_ja": "ぎょっとする、呆然とする",
+    "category": "社会・公共",
+    "difficulty": 5,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_008"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "manual_review由来。"
   }
 ]

@@ -9,11 +9,37 @@ const auditDir = path.join(rootDir, "data", "bollywood", "audit");
 const reportPath = path.join(auditDir, "candidate_audit_report.json");
 const autoMergePath = path.join(auditDir, "candidate_auto_merge.json");
 const manualReviewPath = path.join(auditDir, "candidate_manual_review.json");
-const previewPath = path.join(auditDir, "vocab_master_merged_preview.json");
 
-// --------------------
-// ユーティリティ
-// --------------------
+const STOPWORDS = new Set([
+  "कभी",
+  "फिर",
+  "अब",
+  "कुछ",
+  "कोई",
+  "वो",
+  "यह",
+  "ये",
+  "जो",
+  "जिसे",
+  "इन",
+  "ने",
+  "दे",
+  "आया",
+  "आई",
+  "हुआ",
+  "किया",
+  "कहा",
+  "कहना",
+  "कहूं",
+  "जाना",
+  "जाऊँ",
+  "ऐसा",
+  "ऐसी",
+  "सी",
+  "मेरे",
+  "यही",
+  "बहुत"
+]);
 
 function loadJson(filePath) {
   if (!fs.existsSync(filePath)) {
@@ -27,79 +53,164 @@ function saveJson(filePath, data) {
   fs.writeFileSync(filePath, JSON.stringify(data, null, 2), "utf8");
 }
 
-function normalize(text) {
-  return String(text || "")
+function safeString(value) {
+  return value == null ? "" : String(value).trim();
+}
+
+function normalizeForCompare(text) {
+  return safeString(text)
     .normalize("NFC")
-    .replace(/\u093C/g, "") // nukta除去
+    .replace(/\u093C/g, "")
+    .replace(/क़/g, "क")
+    .replace(/ख़/g, "ख")
+    .replace(/ग़/g, "ग")
+    .replace(/ज़/g, "ज")
+    .replace(/ड़/g, "ड")
+    .replace(/ढ़/g, "ढ")
+    .replace(/फ़/g, "फ")
+    .replace(/ऩ/g, "न")
+    .replace(/ऱ/g, "र")
+    .replace(/ऴ/g, "ळ")
+    .replace(/य़/g, "य")
+    .replace(/ँ/g, "ं")
     .replace(/\s+/g, " ")
     .trim();
 }
 
-// --------------------
-// メイン処理
-// --------------------
-
 function main() {
   const master = loadJson(masterPath);
-  const files = fs.readdirSync(candidatesDir)
-    .filter(f => f.endsWith("_candidates.json"));
+
+  if (!Array.isArray(master)) {
+    throw new Error("vocab_master.json must be an array.");
+  }
+
+  const masterMap = new Map();
+
+  master.forEach((entry, index) => {
+    const key = normalizeForCompare(entry.normalized || entry.word);
+    if (!key) return;
+
+    if (!masterMap.has(key)) {
+      masterMap.set(key, { entry, index });
+    }
+  });
+
+  const files = fs
+    .readdirSync(candidatesDir)
+    .filter((file) => file.endsWith("_candidates.json"))
+    .sort();
 
   const report = [];
-  const autoMerge = [];
+  const autoMergeItems = [];
   const manual = [];
+  const skippedStopwords = [];
 
   for (const file of files) {
     const fullPath = path.join(candidatesDir, file);
     const data = loadJson(fullPath);
 
-    const songId = data.songId;
-    const candidates = data.candidates || [];
+    const songId = safeString(data.songId);
+    const candidates = Array.isArray(data.candidates) ? data.candidates : [];
 
-    for (const c of candidates) {
-      const norm = normalize(c.normalized || c.word);
+    for (const candidate of candidates) {
+      const candidateWord = safeString(candidate.word);
+      const candidateNormalized = safeString(candidate.normalized || candidate.word);
+      const compareKey = normalizeForCompare(candidateNormalized);
 
-      // master 検索
-      const match = master.find(m =>
-        normalize(m.normalized || m.word) === norm
-      );
+      if (!compareKey) continue;
+
+      if (STOPWORDS.has(compareKey)) {
+        skippedStopwords.push({
+          songId,
+          word: candidateWord,
+          normalized: candidateNormalized,
+          compareKey,
+          status: "skipped_stopword"
+        });
+        continue;
+      }
+
+      const match = masterMap.get(compareKey);
 
       if (match) {
         report.push({
           songId,
-          word: c.word,
+          word: candidateWord,
+          normalized: candidateNormalized,
+          compareKey,
           status: "match",
-          matchedWord: match.word
+          matchedWord: match.entry.word,
+          matchedNormalized: match.entry.normalized || match.entry.word,
+          masterIndex: match.index
         });
 
-        autoMerge.push({
-          word: match.word,
-          addSongId: songId
+        autoMergeItems.push({
+          mergeInto: {
+            index: match.index,
+            word: match.entry.word,
+            normalized: match.entry.normalized || match.entry.word
+          },
+          candidate: {
+            songId,
+            word: candidateWord,
+            normalized: candidateNormalized,
+            meaning_ja: candidate.meaning_ja || "",
+            pos: candidate.pos || "",
+            importance: candidate.importance || null
+          }
         });
-
       } else {
         report.push({
           songId,
-          word: c.word,
-          status: "new"
+          word: candidateWord,
+          normalized: candidateNormalized,
+          compareKey,
+          status: "new",
+          matchedWord: null,
+          matchedNormalized: null,
+          masterIndex: null,
+          reason: "not found in vocab_master"
         });
 
         manual.push({
           songId,
-          word: c.word,
-          meaning_ja: c.meaning_ja
+          word: candidateWord,
+          normalized: candidateNormalized,
+          pos: candidate.pos || "",
+          meaning_ja: candidate.meaning_ja || "",
+          importance: candidate.importance || 3,
+          status: candidate.status || "active",
+          reason: "new candidate; not found in vocab_master"
         });
       }
     }
   }
 
   saveJson(reportPath, report);
-  saveJson(autoMergePath, autoMerge);
+  saveJson(autoMergePath, {
+    generatedAt: new Date().toISOString(),
+    items: autoMergeItems
+  });
   saveJson(manualReviewPath, manual);
 
+  const stopwordPath = path.join(auditDir, "candidate_stopword_skipped.json");
+  saveJson(stopwordPath, {
+    generatedAt: new Date().toISOString(),
+    count: skippedStopwords.length,
+    items: skippedStopwords
+  });
+
   console.log("✅ audit 完了");
+  console.log(`candidate files: ${files.length}`);
   console.log(`report: ${report.length}`);
-  console.log(`autoMerge: ${autoMerge.length}`);
-  console.log(`manual: ${manual.length}`);
+  console.log(`autoMerge: ${autoMergeItems.length}`);
+  console.log(`manual/new: ${manual.length}`);
+  console.log(`skipped stopwords: ${skippedStopwords.length}`);
 }
 
-main();
+try {
+  main();
+} catch (error) {
+  console.error("Error:", error.message);
+  process.exit(1);
+}

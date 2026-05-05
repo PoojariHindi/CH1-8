@@ -1,11 +1,11 @@
 {
   "topic": "bollywood",
-  "generatedAt": "2026-05-03T10:15:47.497Z",
+  "generatedAt": "2026-05-05T06:07:17.169Z",
   "counts": {
-    "vocab": 441,
-    "expressions": 179,
-    "fillBlanks": 178,
-    "songs": 37
+    "vocab": 453,
+    "expressions": 185,
+    "fillBlanks": 184,
+    "songs": 38
   },
   "vocab": [
     {
@@ -2220,17 +2220,18 @@
       "key": "इशारा",
       "category": "",
       "difficulty": 1,
-      "frequency": 3,
-      "sourceCount": 3,
+      "frequency": 4,
+      "sourceCount": 4,
       "importance": 3,
-      "quizWeight": 3.9,
+      "quizWeight": 3,
       "layer": "B",
       "tags": [],
       "normalized": "इशारा",
       "sourceSongIds": [
         "bolly_003",
         "bolly_033",
-        "bolly_037"
+        "bolly_037",
+        "bolly_038"
       ]
     },
     {
@@ -6245,15 +6246,16 @@
       "key": "डोली",
       "category": "",
       "difficulty": 1,
-      "frequency": 1,
-      "sourceCount": 1,
+      "frequency": 2,
+      "sourceCount": 2,
       "importance": 4,
-      "quizWeight": 8,
+      "quizWeight": 6.4,
       "layer": "B",
       "tags": [],
       "normalized": "डोली",
       "sourceSongIds": [
-        "bolly_029"
+        "bolly_029",
+        "bolly_038"
       ]
     },
     {
@@ -6335,15 +6337,16 @@
       "key": "मेहंदी",
       "category": "",
       "difficulty": 1,
-      "frequency": 1,
-      "sourceCount": 1,
+      "frequency": 2,
+      "sourceCount": 2,
       "importance": 4,
-      "quizWeight": 8,
+      "quizWeight": 6.4,
       "layer": "B",
       "tags": [],
       "normalized": "मेहंदी",
       "sourceSongIds": [
-        "bolly_029"
+        "bolly_029",
+        "bolly_038"
       ]
     },
     {
@@ -8278,6 +8281,222 @@
       "normalized": "राहत",
       "sourceSongIds": [
         "bolly_037"
+      ]
+    },
+    {
+      "word": "सजना",
+      "meaning": "恋人、愛しい人",
+      "pos": "名詞（男）",
+      "key": "सजना",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 4,
+      "quizWeight": 8,
+      "layer": "B",
+      "tags": [],
+      "normalized": "सजना",
+      "sourceSongIds": [
+        "bolly_038"
+      ]
+    },
+    {
+      "word": "सेहरा",
+      "meaning": "花婿の額飾り",
+      "pos": "名詞（男）",
+      "key": "सेहरा",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 4,
+      "quizWeight": 8,
+      "layer": "B",
+      "tags": [],
+      "normalized": "सेहरा",
+      "sourceSongIds": [
+        "bolly_038"
+      ]
+    },
+    {
+      "word": "गोरी",
+      "meaning": "色白の娘（愛称）",
+      "pos": "名詞（女）",
+      "key": "गोरी",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 3,
+      "quizWeight": 6,
+      "layer": "B",
+      "tags": [],
+      "normalized": "गोरी",
+      "sourceSongIds": [
+        "bolly_038"
+      ]
+    },
+    {
+      "word": "आशिक",
+      "meaning": "恋する男、恋人",
+      "pos": "名詞（男）",
+      "key": "आशिक",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 4,
+      "quizWeight": 8,
+      "layer": "B",
+      "tags": [],
+      "normalized": "आशिक",
+      "sourceSongIds": [
+        "bolly_038"
+      ]
+    },
+    {
+      "word": "कंवारा",
+      "meaning": "未婚の男性",
+      "pos": "形容詞・名詞",
+      "key": "कंवारा",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 3,
+      "quizWeight": 6,
+      "layer": "B",
+      "tags": [],
+      "normalized": "कंवारा",
+      "sourceSongIds": [
+        "bolly_038"
+      ]
+    },
+    {
+      "word": "दामन",
+      "meaning": "裾、身の潔白",
+      "pos": "名詞（男）",
+      "key": "दामन",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 4,
+      "quizWeight": 8,
+      "layer": "B",
+      "tags": [],
+      "normalized": "दामन",
+      "sourceSongIds": [
+        "bolly_038"
+      ]
+    },
+    {
+      "word": "जवान",
+      "meaning": "若い、若者",
+      "pos": "形容詞・名詞",
+      "key": "जवान",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 3,
+      "quizWeight": 6,
+      "layer": "B",
+      "tags": [],
+      "normalized": "जवान",
+      "sourceSongIds": [
+        "bolly_038"
+      ]
+    },
+    {
+      "word": "हसीन",
+      "meaning": "美しい",
+      "pos": "形容詞",
+      "key": "हसीन",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 3,
+      "quizWeight": 6,
+      "layer": "B",
+      "tags": [],
+      "normalized": "हसीन",
+      "sourceSongIds": [
+        "bolly_038"
+      ]
+    },
+    {
+      "word": "मचलना",
+      "meaning": "心が高ぶる",
+      "pos": "自動詞",
+      "key": "मचलना",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 4,
+      "quizWeight": 8,
+      "layer": "B",
+      "tags": [],
+      "normalized": "मचलना",
+      "sourceSongIds": [
+        "bolly_038"
+      ]
+    },
+    {
+      "word": "कुसूर",
+      "meaning": "過ち、責任",
+      "pos": "名詞（男）",
+      "key": "कुसूर",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 3,
+      "quizWeight": 6,
+      "layer": "B",
+      "tags": [],
+      "normalized": "कुसूर",
+      "sourceSongIds": [
+        "bolly_038"
+      ]
+    },
+    {
+      "word": "काबू",
+      "meaning": "制御、抑制",
+      "pos": "名詞（男）",
+      "key": "काबू",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 3,
+      "quizWeight": 6,
+      "layer": "B",
+      "tags": [],
+      "normalized": "काबू",
+      "sourceSongIds": [
+        "bolly_038"
+      ]
+    },
+    {
+      "word": "हुस्न",
+      "meaning": "美貌、美しさ",
+      "pos": "名詞（男）",
+      "key": "हुस्न",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 4,
+      "quizWeight": 8,
+      "layer": "B",
+      "tags": [],
+      "normalized": "हुस्न",
+      "sourceSongIds": [
+        "bolly_038"
       ]
     }
   ],
@@ -10966,6 +11185,96 @@
       "difficulty": 1,
       "tags": [],
       "status": "active"
+    },
+    {
+      "id": "bolly_038::expr::1",
+      "type": "expression",
+      "songId": "bolly_038",
+      "songTitle": "Mehndi Laga Ke Rakhna",
+      "film": "Dilwale Dulhania Le Jayenge",
+      "year": 1995,
+      "text": "महंदी लगाके रखना",
+      "normalized": "मेहंदी लगाके रखना",
+      "meaning": "メヘンディを塗って待っていて",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": [],
+      "status": "active"
+    },
+    {
+      "id": "bolly_038::expr::2",
+      "type": "expression",
+      "songId": "bolly_038",
+      "songTitle": "Mehndi Laga Ke Rakhna",
+      "film": "Dilwale Dulhania Le Jayenge",
+      "year": 1995,
+      "text": "डोली सजाके रखना",
+      "normalized": "डोली सजाके रखना",
+      "meaning": "花嫁の輿を飾って待っていて",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": [],
+      "status": "active"
+    },
+    {
+      "id": "bolly_038::expr::3",
+      "type": "expression",
+      "songId": "bolly_038",
+      "songTitle": "Mehndi Laga Ke Rakhna",
+      "film": "Dilwale Dulhania Le Jayenge",
+      "year": 1995,
+      "text": "दिल की बात दिल में दबाके रखना",
+      "normalized": "दिल की बात दिल में दबाके रखना",
+      "meaning": "心の内を胸にしまっておく",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": [],
+      "status": "active"
+    },
+    {
+      "id": "bolly_038::expr::4",
+      "type": "expression",
+      "songId": "bolly_038",
+      "songTitle": "Mehndi Laga Ke Rakhna",
+      "film": "Dilwale Dulhania Le Jayenge",
+      "year": 1995,
+      "text": "नज़रें झुकाके रखना",
+      "normalized": "नज़रें झुकाके रखना",
+      "meaning": "視線を伏せておく",
+      "importance": 3,
+      "difficulty": 1,
+      "tags": [],
+      "status": "active"
+    },
+    {
+      "id": "bolly_038::expr::5",
+      "type": "expression",
+      "songId": "bolly_038",
+      "songTitle": "Mehndi Laga Ke Rakhna",
+      "film": "Dilwale Dulhania Le Jayenge",
+      "year": 1995,
+      "text": "दामन बचाके रखना",
+      "normalized": "दामन बचाके रखना",
+      "meaning": "身を慎む、純潔を守る",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": [],
+      "status": "active"
+    },
+    {
+      "id": "bolly_038::expr::6",
+      "type": "expression",
+      "songId": "bolly_038",
+      "songTitle": "Mehndi Laga Ke Rakhna",
+      "film": "Dilwale Dulhania Le Jayenge",
+      "year": 1995,
+      "text": "दिल थाम के खड़े हैं",
+      "normalized": "दिल थाम के खड़े हैं",
+      "meaning": "胸を押さえて見守っている（ドキドキしている）",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": [],
+      "status": "active"
     }
   ],
   "fillBlanks": [
@@ -13635,6 +13944,96 @@
       "prompt": "_____ मेरी इबादत है",
       "answer": "तू",
       "meaning": "君は僕の信仰そのものだ",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "id": "bolly_038::expr::1::blank::1",
+      "type": "fill_blank",
+      "songId": "bolly_038",
+      "songTitle": "Mehndi Laga Ke Rakhna",
+      "film": "Dilwale Dulhania Le Jayenge",
+      "year": 1995,
+      "sourceText": "महंदी लगाके रखना",
+      "prompt": "_____ लगाके रखना",
+      "answer": "महंदी",
+      "meaning": "メヘンディを塗って待っていて",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "id": "bolly_038::expr::2::blank::2",
+      "type": "fill_blank",
+      "songId": "bolly_038",
+      "songTitle": "Mehndi Laga Ke Rakhna",
+      "film": "Dilwale Dulhania Le Jayenge",
+      "year": 1995,
+      "sourceText": "डोली सजाके रखना",
+      "prompt": "_____ सजाके रखना",
+      "answer": "डोली",
+      "meaning": "花嫁の輿を飾って待っていて",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "id": "bolly_038::expr::3::blank::3",
+      "type": "fill_blank",
+      "songId": "bolly_038",
+      "songTitle": "Mehndi Laga Ke Rakhna",
+      "film": "Dilwale Dulhania Le Jayenge",
+      "year": 1995,
+      "sourceText": "दिल की बात दिल में दबाके रखना",
+      "prompt": "_____ की बात दिल में दबाके रखना",
+      "answer": "दिल",
+      "meaning": "心の内を胸にしまっておく",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "id": "bolly_038::expr::4::blank::4",
+      "type": "fill_blank",
+      "songId": "bolly_038",
+      "songTitle": "Mehndi Laga Ke Rakhna",
+      "film": "Dilwale Dulhania Le Jayenge",
+      "year": 1995,
+      "sourceText": "नज़रें झुकाके रखना",
+      "prompt": "_____ झुकाके रखना",
+      "answer": "नज़रें",
+      "meaning": "視線を伏せておく",
+      "importance": 3,
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "id": "bolly_038::expr::5::blank::5",
+      "type": "fill_blank",
+      "songId": "bolly_038",
+      "songTitle": "Mehndi Laga Ke Rakhna",
+      "film": "Dilwale Dulhania Le Jayenge",
+      "year": 1995,
+      "sourceText": "दामन बचाके रखना",
+      "prompt": "_____ बचाके रखना",
+      "answer": "दामन",
+      "meaning": "身を慎む、純潔を守る",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "id": "bolly_038::expr::6::blank::6",
+      "type": "fill_blank",
+      "songId": "bolly_038",
+      "songTitle": "Mehndi Laga Ke Rakhna",
+      "film": "Dilwale Dulhania Le Jayenge",
+      "year": 1995,
+      "sourceText": "दिल थाम के खड़े हैं",
+      "prompt": "_____ थाम के खड़े हैं",
+      "answer": "दिल",
+      "meaning": "胸を押さえて見守っている（ドキドキしている）",
       "importance": 4,
       "difficulty": 1,
       "tags": []

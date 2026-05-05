@@ -1929,12 +1929,13 @@
     "sourceSongIds": [
       "bolly_003",
       "bolly_033",
-      "bolly_037"
+      "bolly_037",
+      "bolly_038"
     ],
     "tags": [],
     "notes": "",
-    "sourceCount": 3,
-    "frequency": 3
+    "sourceCount": 4,
+    "frequency": 4
   },
   {
     "word": "भीगना",
@@ -5050,10 +5051,11 @@
     "importance": 4,
     "status": "active",
     "sourceSongIds": [
-      "bolly_029"
+      "bolly_029",
+      "bolly_038"
     ],
-    "sourceCount": 1,
-    "frequency": 1
+    "sourceCount": 2,
+    "frequency": 2
   },
   {
     "word": "सखी",
@@ -5115,10 +5117,11 @@
     "importance": 4,
     "status": "active",
     "sourceSongIds": [
-      "bolly_029"
+      "bolly_029",
+      "bolly_038"
     ],
-    "sourceCount": 1,
-    "frequency": 1
+    "sourceCount": 2,
+    "frequency": 2
   },
   {
     "word": "झूमर",
@@ -6515,6 +6518,162 @@
     "status": "active",
     "sourceSongIds": [
       "bolly_037"
+    ],
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "सजना",
+    "normalized": "सजना",
+    "pos": "名詞（男）",
+    "meaning_ja": "恋人、愛しい人",
+    "importance": 4,
+    "status": "active",
+    "sourceSongIds": [
+      "bolly_038"
+    ],
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "सेहरा",
+    "normalized": "सेहरा",
+    "pos": "名詞（男）",
+    "meaning_ja": "花婿の額飾り",
+    "importance": 4,
+    "status": "active",
+    "sourceSongIds": [
+      "bolly_038"
+    ],
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "गोरी",
+    "normalized": "गोरी",
+    "pos": "名詞（女）",
+    "meaning_ja": "色白の娘（愛称）",
+    "importance": 3,
+    "status": "active",
+    "sourceSongIds": [
+      "bolly_038"
+    ],
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "आशिक",
+    "normalized": "आशिक",
+    "pos": "名詞（男）",
+    "meaning_ja": "恋する男、恋人",
+    "importance": 4,
+    "status": "active",
+    "sourceSongIds": [
+      "bolly_038"
+    ],
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "कंवारा",
+    "normalized": "कंवारा",
+    "pos": "形容詞・名詞",
+    "meaning_ja": "未婚の男性",
+    "importance": 3,
+    "status": "active",
+    "sourceSongIds": [
+      "bolly_038"
+    ],
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "दामन",
+    "normalized": "दामन",
+    "pos": "名詞（男）",
+    "meaning_ja": "裾、身の潔白",
+    "importance": 4,
+    "status": "active",
+    "sourceSongIds": [
+      "bolly_038"
+    ],
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "जवान",
+    "normalized": "जवान",
+    "pos": "形容詞・名詞",
+    "meaning_ja": "若い、若者",
+    "importance": 3,
+    "status": "active",
+    "sourceSongIds": [
+      "bolly_038"
+    ],
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "हसीन",
+    "normalized": "हसीन",
+    "pos": "形容詞",
+    "meaning_ja": "美しい",
+    "importance": 3,
+    "status": "active",
+    "sourceSongIds": [
+      "bolly_038"
+    ],
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "मचलना",
+    "normalized": "मचलना",
+    "pos": "自動詞",
+    "meaning_ja": "心が高ぶる",
+    "importance": 4,
+    "status": "active",
+    "sourceSongIds": [
+      "bolly_038"
+    ],
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "कुसूर",
+    "normalized": "कुसूर",
+    "pos": "名詞（男）",
+    "meaning_ja": "過ち、責任",
+    "importance": 3,
+    "status": "active",
+    "sourceSongIds": [
+      "bolly_038"
+    ],
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "काबू",
+    "normalized": "काबू",
+    "pos": "名詞（男）",
+    "meaning_ja": "制御、抑制",
+    "importance": 3,
+    "status": "active",
+    "sourceSongIds": [
+      "bolly_038"
+    ],
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "हुस्न",
+    "normalized": "हुस्न",
+    "pos": "名詞（男）",
+    "meaning_ja": "美貌、美しさ",
+    "importance": 4,
+    "status": "active",
+    "sourceSongIds": [
+      "bolly_038"
     ],
     "sourceCount": 1,
     "frequency": 1
