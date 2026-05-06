@@ -1,0 +1,269 @@
+{
+  "id": "bolly_039",
+  "schema_version": 2,
+  "title": "Bande Hain Hum Uske",
+  "film": "Dhoom:3",
+  "year": 2013,
+  "singer": [
+    "Anish Sharma",
+    "Shivam Mahadevan"
+  ],
+  "lyricist": [
+    "Anish Sharma",
+    "Shivam Mahadevan"
+  ],
+  "composer": [
+    "Pritam"
+  ],
+  "notes": [
+    "アーミル"
+  ],
+  "tags": [
+    "死生観"
+  ],
+  "emotion": "hopeful_determination",
+  "register": "inspirational_poetic",
+  "key_phrase": "बंदे हैं हम उसके, हमपे किसका ज़ोर",
+  "expressions": [
+    {
+      "text": "आसमान की छत पे है अपनी दुनिया",
+      "normalized": "आसमान की छत पर है अपनी दुनिया",
+      "meaning_ja": "空の屋根の上に自分たちの世界がある",
+      "type": "poetic_expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "चाँद की छलनी लिए तारे चुनते हैं हम",
+      "normalized": "चाँद की छलनी लिए तारे चुनते हैं हम",
+      "meaning_ja": "月のふるいを手に、私たちは星を選び取る",
+      "type": "metaphor",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "बंदे हैं हम उसके, हमपे किसका ज़ोर",
+      "normalized": "बंदे हैं हम उसके हमपे किसका जोर",
+      "meaning_ja": "私たちはあの方のしもべ、誰が私たちを押さえつけられるだろう",
+      "type": "key_phrase",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "इरादे हैं फौलादी, हिम्मती हर कदम",
+      "normalized": "इरादे हैं फौलादी हिम्मती हर कदम",
+      "meaning_ja": "意志は鋼のようで、一歩一歩が勇敢だ",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "अपने हाथों किस्मत लिखने आज चले हैं हम",
+      "normalized": "अपने हाथों किस्मत लिखने आज चले हैं हम",
+      "meaning_ja": "自分の手で運命を書くため、今日私たちは歩み出した",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "सूरज की पलकों तले, धूप बुनते हैं हम",
+      "normalized": "सूरज की पलकों तले धूप बुनते हैं हम",
+      "meaning_ja": "太陽のまぶたの下で、私たちは陽射しを織る",
+      "type": "metaphor",
+      "importance": 4,
+      "status": "active"
+    }
+  ],
+  "vocab_candidates": [
+    {
+      "word": "आसमान",
+      "normalized": "आसमान",
+      "pos": "名詞（男）",
+      "meaning_ja": "空、天空",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "छत",
+      "normalized": "छत",
+      "pos": "名詞（女）",
+      "meaning_ja": "屋根、天井",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "खिलखिलाती",
+      "normalized": "खिलखिलाना",
+      "pos": "自動詞",
+      "meaning_ja": "声を立てて笑う、明るく笑う",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "खुशियाँ",
+      "normalized": "खुशी",
+      "pos": "名詞（女・複）",
+      "meaning_ja": "喜び、幸せ",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "चाँद",
+      "normalized": "चाँद",
+      "pos": "名詞（男）",
+      "meaning_ja": "月",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "छलनी",
+      "normalized": "छलनी",
+      "pos": "名詞（女）",
+      "meaning_ja": "ふるい、ざる",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "तारे",
+      "normalized": "तारा",
+      "pos": "名詞（男・複）",
+      "meaning_ja": "星",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "चुनते",
+      "normalized": "चुनना",
+      "pos": "他動詞",
+      "meaning_ja": "選ぶ、摘み取る",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "जादुई",
+      "normalized": "जादुई",
+      "pos": "形容詞",
+      "meaning_ja": "魔法のような、不思議な",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "जहाँ",
+      "normalized": "जहाँ",
+      "pos": "名詞（男）",
+      "meaning_ja": "世界、この世",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "ग़म",
+      "normalized": "गम",
+      "pos": "名詞（男）",
+      "meaning_ja": "悲しみ、憂い",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "बंदे",
+      "normalized": "बंदा",
+      "pos": "名詞（男・複）",
+      "meaning_ja": "人間、しもべ、神の僕",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "ज़ोर",
+      "normalized": "जोर",
+      "pos": "名詞（男）",
+      "meaning_ja": "力、強制、勢い",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "उम्मीदों",
+      "normalized": "उम्मीद",
+      "pos": "名詞（女・複）",
+      "meaning_ja": "希望、期待",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "इरादे",
+      "normalized": "इरादा",
+      "pos": "名詞（男・複）",
+      "meaning_ja": "意志、決意、意図",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "फौलादी",
+      "normalized": "फौलादी",
+      "pos": "形容詞",
+      "meaning_ja": "鋼のような、非常に強い",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "हिम्मती",
+      "normalized": "हिम्मती",
+      "pos": "形容詞",
+      "meaning_ja": "勇気のある、度胸のある",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "कदम",
+      "normalized": "कदम",
+      "pos": "名詞（男）",
+      "meaning_ja": "一歩、歩み",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "किस्मत",
+      "normalized": "किस्मत",
+      "pos": "名詞（女）",
+      "meaning_ja": "運命、運",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "पलकों",
+      "normalized": "पलक",
+      "pos": "名詞（女・複）",
+      "meaning_ja": "まぶた、まつげ",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "तले",
+      "normalized": "तले",
+      "pos": "後置詞的副詞",
+      "meaning_ja": "下に、下で",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "धूप",
+      "normalized": "धूप",
+      "pos": "名詞（女）",
+      "meaning_ja": "日差し、日光",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "बुनते",
+      "normalized": "बुनना",
+      "pos": "他動詞",
+      "meaning_ja": "織る、編む、紡ぐ",
+      "importance": 4,
+      "status": "active"
+    }
+  ],
+  "meta": {
+    "copyright_safe": true,
+    "lyrics_included": false,
+    "source_type": "manual_curated",
+    "dedupe_ready": true
+  }
+}

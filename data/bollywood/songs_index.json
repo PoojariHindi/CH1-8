@@ -907,5 +907,30 @@
     ],
     "key_phrase": "महंदी लगाके रखना, डोली सजाके रखना",
     "status": "processed"
+  },
+  {
+    "id": "bolly_039",
+    "title": "Bande Hain Hum Uske",
+    "film": "Dhoom:3",
+    "year": 2013,
+    "singer": [
+      "Anish Sharma",
+      "Shivam Mahadevan"
+    ],
+    "lyricist": [
+      "Anish Sharma",
+      "Shivam Mahadevan"
+    ],
+    "composer": [
+      "Pritam"
+    ],
+    "notes": [
+      "アーミル"
+    ],
+    "tags": [
+      "死生観"
+    ],
+    "key_phrase": "बंदे हैं हम उसके, हमपे किसका ज़ोर",
+    "status": "processed"
   }
 ]

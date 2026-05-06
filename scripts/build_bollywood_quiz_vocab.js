@@ -111,17 +111,46 @@ function buildQuizVocab(masterEntries) {
     .filter((entry) => entry.status === "active")
     .map((entry) => {
       const sourceCount = getSourceCount(entry);
-      const importance = Math.max(2, Math.min(Number(entry.importance ?? 3), 4));
+
+      const importance = Math.max(
+        2,
+        Math.min(Number(entry.importance ?? 3), 4)
+      );
+
       const quizWeight = getQuizWeight(entry);
 
       return {
-        word: entry.word || "",
+        // Quiz表示用
+        word: entry.display || entry.word || "",
 
-        // v2対応
+        // corpus原形保持
+        surface: entry.word || "",
+
+        // UI表示用 canonical
+        display: entry.display || "",
+
+        // 比較・merge用
+        normalized: entry.normalized || "",
+
+        // 表記揺れ
+        variants: Array.isArray(entry.variants)
+          ? entry.variants
+          : [],
+
+        // 意味
         meaning: entry.meaning_ja || entry.meaning || "",
 
+        // 文法
         pos: entry.pos || "",
-        key: entry.key || entry.word || "",
+
+        // キー
+        key:
+          entry.key ||
+          entry.normalized ||
+          entry.display ||
+          entry.word ||
+          "",
+
         category: entry.category || "",
         difficulty: entry.difficulty ?? 1,
 
@@ -134,8 +163,7 @@ function buildQuizVocab(masterEntries) {
         layer: entry.layer || "B",
         tags: normalizeTags(entry.tags),
 
-        // 補助
-        normalized: entry.normalized || "",
+        // ソース
         sourceSongIds: Array.isArray(entry.sourceSongIds)
           ? entry.sourceSongIds
           : []
@@ -147,31 +175,44 @@ function buildExpressionEntry(song, expr, index) {
   return {
     id: `${song.id || song.title || "song"}::expr::${index + 1}`,
     type: "expression",
+
     songId: song.id || "",
     songTitle: song.title || "",
     film: song.film || "",
     year: song.year ?? null,
 
     text: safeString(expr.text),
-    normalized: safeString(expr.normalized) || safeString(expr.text),
-    meaning: safeString(expr.meaning_ja) || safeString(expr.meaning),
+
+    normalized:
+      safeString(expr.normalized) ||
+      safeString(expr.text),
+
+    meaning:
+      safeString(expr.meaning_ja) ||
+      safeString(expr.meaning),
 
     importance: expr.importance ?? 3,
     difficulty: expr.difficulty ?? 1,
+
     tags: normalizeTags(expr.tags),
+
     status: expr.status || "active"
   };
 }
 
 function chooseBlankIndex(words) {
-  if (!Array.isArray(words) || words.length === 0) return -1;
+  if (!Array.isArray(words) || words.length === 0) {
+    return -1;
+  }
 
   const preferred = words.findIndex((word) => {
     const trimmed = word.trim();
+
     if (!trimmed) return false;
     if (trimmed.length <= 1) return false;
     if (/^[,.;:!?।…-]+$/.test(trimmed)) return false;
     if (/^\d+$/.test(trimmed)) return false;
+
     return true;
   });
 
@@ -180,34 +221,44 @@ function chooseBlankIndex(words) {
 
 function generateFillBlankFromExpression(expression, index) {
   const text = safeString(expression.text).trim();
+
   if (!text) return null;
 
   const words = text.split(/\s+/).filter(Boolean);
+
   if (words.length < 2) return null;
 
   const blankIndex = chooseBlankIndex(words);
+
   if (blankIndex < 0) return null;
 
   const answer = words[blankIndex];
+
   const prompt = words
-    .map((word, i) => (i === blankIndex ? "_____" : word))
+    .map((word, i) =>
+      i === blankIndex ? "_____" : word
+    )
     .join(" ");
 
   return {
     id: `${expression.id}::blank::${index + 1}`,
     type: "fill_blank",
+
     songId: expression.songId,
     songTitle: expression.songTitle,
     film: expression.film,
     year: expression.year,
 
     sourceText: expression.text,
+
     prompt,
     answer,
+
     meaning: expression.meaning,
 
     importance: expression.importance ?? 3,
     difficulty: expression.difficulty ?? 1,
+
     tags: normalizeTags(expression.tags)
   };
 }
@@ -221,6 +272,7 @@ function loadSongDataAndBuildExtras() {
 
   files.forEach((file) => {
     const filePath = path.join(songsDir, file);
+
     const song = loadJson(filePath);
 
     songs.push({
@@ -232,13 +284,19 @@ function loadSongDataAndBuildExtras() {
 
     const songExpressions = normalizeArray(song.expressions)
       .filter(isActive)
-      .map((expr, index) => buildExpressionEntry(song, expr, index))
-      .filter((expr) => expr.text && expr.meaning);
+      .map((expr, index) =>
+        buildExpressionEntry(song, expr, index)
+      )
+      .filter(
+        (expr) => expr.text && expr.meaning
+      );
 
     expressions.push(...songExpressions);
 
     const songFillBlanks = songExpressions
-      .map((expr, index) => generateFillBlankFromExpression(expr, index))
+      .map((expr, index) =>
+        generateFillBlankFromExpression(expr, index)
+      )
       .filter(Boolean);
 
     fillBlanks.push(...songFillBlanks);
@@ -255,19 +313,25 @@ function main() {
   const masterEntries = loadJson(masterPath);
 
   const vocab = buildQuizVocab(masterEntries);
+
   const extras = loadSongDataAndBuildExtras();
 
   const quizData = {
     topic: "bollywood",
+
     generatedAt: new Date().toISOString(),
+
     counts: {
       vocab: vocab.length,
       expressions: extras.expressions.length,
       fillBlanks: extras.fillBlanks.length,
       songs: extras.songs.length
     },
+
     vocab,
+
     expressions: extras.expressions,
+
     fillBlanks: extras.fillBlanks
   };
 
@@ -276,9 +340,16 @@ function main() {
   console.log(`Built quiz data: ${outputPath}`);
   console.log(`Songs processed: ${extras.songs.length}`);
   console.log(`Vocab entries: ${quizData.counts.vocab}`);
-  console.log(`Expression entries: ${quizData.counts.expressions}`);
-  console.log(`Fill blank entries: ${quizData.counts.fillBlanks}`);
-  console.log("Rare-word weighted quizWeight added for Bollywood vocab.");
+  console.log(
+    `Expression entries: ${quizData.counts.expressions}`
+  );
+  console.log(
+    `Fill blank entries: ${quizData.counts.fillBlanks}`
+  );
+
+  console.log(
+    "display / variants / normalized support enabled."
+  );
 }
 
 try {

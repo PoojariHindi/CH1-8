@@ -61,10 +61,11 @@
     "importance": 3,
     "status": "active",
     "sourceSongIds": [
-      "bolly_011"
+      "bolly_011",
+      "bolly_039"
     ],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 2,
+    "frequency": 2,
     "tags": [],
     "notes": ""
   },
@@ -190,10 +191,11 @@
       "bolly_006",
       "bolly_008",
       "bolly_030",
-      "bolly_031"
+      "bolly_031",
+      "bolly_039"
     ],
-    "sourceCount": 4,
-    "frequency": 4,
+    "sourceCount": 5,
+    "frequency": 5,
     "tags": [
       "感情"
     ],
@@ -673,10 +675,11 @@
     "sourceSongIds": [
       "bolly_010",
       "bolly_006",
-      "bolly_022"
+      "bolly_022",
+      "bolly_039"
     ],
-    "sourceCount": 3,
-    "frequency": 3,
+    "sourceCount": 4,
+    "frequency": 4,
     "tags": [
       "自然"
     ],
@@ -1772,12 +1775,13 @@
     "sourceSongIds": [
       "bolly_002",
       "bolly_014",
-      "bolly_021"
+      "bolly_021",
+      "bolly_039"
     ],
     "tags": [],
     "notes": "",
-    "sourceCount": 3,
-    "frequency": 3
+    "sourceCount": 4,
+    "frequency": 4
   },
   {
     "word": "तमन्ना",
@@ -2584,12 +2588,13 @@
     "importance": 4,
     "status": "active",
     "sourceSongIds": [
-      "bolly_014"
+      "bolly_014",
+      "bolly_039"
     ],
     "tags": [],
     "notes": "",
-    "sourceCount": 1,
-    "frequency": 1
+    "sourceCount": 2,
+    "frequency": 2
   },
   {
     "word": "झील",
@@ -3520,6 +3525,12 @@
   {
     "word": "आसमाँ",
     "normalized": "आसमां",
+    "display": "आसमान",
+    "variants": [
+      "आसमां",
+      "आसमान",
+      "आसमाँ"
+    ],
     "pos": "名詞（男）",
     "meaning_ja": "空",
     "importance": 4,
@@ -5525,10 +5536,11 @@
     "importance": 3,
     "status": "active",
     "sourceSongIds": [
-      "bolly_030"
+      "bolly_030",
+      "bolly_039"
     ],
-    "sourceCount": 1,
-    "frequency": 1
+    "sourceCount": 2,
+    "frequency": 2
   },
   {
     "word": "परदा",
@@ -6410,13 +6422,14 @@
     "normalized": "इरादा",
     "pos": "名詞（男）",
     "meaning_ja": "意志、決意",
-    "importance": 3,
+    "importance": 4,
     "status": "active",
     "sourceSongIds": [
-      "bolly_037"
+      "bolly_037",
+      "bolly_039"
     ],
-    "sourceCount": 1,
-    "frequency": 1
+    "sourceCount": 2,
+    "frequency": 2
   },
   {
     "word": "सहारा",
@@ -6677,5 +6690,198 @@
     ],
     "sourceCount": 1,
     "frequency": 1
+  },
+  {
+    "word": "छलनी",
+    "normalized": "छलनी",
+    "pos": "名詞（女）",
+    "meaning_ja": "ふるい、ざる",
+    "importance": 4,
+    "sourceSongIds": [
+      "bolly_039"
+    ],
+    "frequency": 1,
+    "status": "active",
+    "sourceCount": 1
+  },
+  {
+    "word": "बंदे",
+    "normalized": "बंदा",
+    "pos": "名詞（男・複）",
+    "meaning_ja": "人間、しもべ、神の僕",
+    "importance": 4,
+    "sourceSongIds": [
+      "bolly_039"
+    ],
+    "frequency": 1,
+    "status": "active",
+    "sourceCount": 1
+  },
+  {
+    "word": "उम्मीदों",
+    "normalized": "उम्मीद",
+    "pos": "名詞（女・複）",
+    "meaning_ja": "希望、期待",
+    "importance": 4,
+    "sourceSongIds": [
+      "bolly_039"
+    ],
+    "frequency": 1,
+    "status": "active",
+    "sourceCount": 1
+  },
+  {
+    "word": "फौलादी",
+    "normalized": "फौलादी",
+    "pos": "形容詞",
+    "meaning_ja": "鋼のような、非常に強い",
+    "importance": 4,
+    "sourceSongIds": [
+      "bolly_039"
+    ],
+    "frequency": 1,
+    "status": "active",
+    "sourceCount": 1
+  },
+  {
+    "word": "बुनते",
+    "normalized": "बुनना",
+    "pos": "他動詞",
+    "meaning_ja": "織る、編む、紡ぐ",
+    "importance": 4,
+    "sourceSongIds": [
+      "bolly_039"
+    ],
+    "frequency": 1,
+    "status": "active",
+    "sourceCount": 1
+  },
+  {
+    "word": "इरादे",
+    "normalized": "इरादा",
+    "pos": "名詞（男・複）",
+    "meaning_ja": "決意、意志",
+    "importance": 4,
+    "sourceSongIds": [
+      "bolly_039"
+    ],
+    "frequency": 1,
+    "status": "active",
+    "sourceCount": 1
+  },
+  {
+    "word": "किस्मत",
+    "normalized": "किस्मत",
+    "pos": "名詞（女）",
+    "meaning_ja": "運命、宿命",
+    "importance": 4,
+    "sourceSongIds": [
+      "bolly_039"
+    ],
+    "frequency": 1,
+    "status": "active",
+    "sourceCount": 1
+  },
+  {
+    "word": "छत",
+    "normalized": "छत",
+    "display": "छत",
+    "pos": "名詞（女）",
+    "meaning_ja": "屋根、天井",
+    "importance": 3,
+    "sourceSongIds": [
+      "bolly_039"
+    ],
+    "frequency": 1,
+    "status": "active",
+    "sourceCount": 1
+  },
+  {
+    "word": "खिलखिलाती",
+    "normalized": "खिलखिलाना",
+    "display": "खिलखिलाना",
+    "pos": "自動詞",
+    "meaning_ja": "声を立てて笑う、明るく笑う",
+    "importance": 3,
+    "sourceSongIds": [
+      "bolly_039"
+    ],
+    "frequency": 1,
+    "status": "active",
+    "sourceCount": 1
+  },
+  {
+    "word": "तारे",
+    "normalized": "तारा",
+    "display": "तारा",
+    "pos": "名詞（男・複）",
+    "meaning_ja": "星",
+    "importance": 3,
+    "sourceSongIds": [
+      "bolly_039"
+    ],
+    "frequency": 1,
+    "status": "active",
+    "sourceCount": 1
+  },
+  {
+    "word": "चुनते",
+    "normalized": "चुनना",
+    "display": "चुनना",
+    "pos": "他動詞",
+    "meaning_ja": "選ぶ、摘み取る",
+    "importance": 3,
+    "sourceSongIds": [
+      "bolly_039"
+    ],
+    "frequency": 1,
+    "status": "active",
+    "sourceCount": 1
+  },
+  {
+    "word": "जादुई",
+    "normalized": "जादुई",
+    "display": "जादुई",
+    "pos": "形容詞",
+    "meaning_ja": "魔法のような、不思議な",
+    "importance": 3,
+    "sourceSongIds": [
+      "bolly_039"
+    ],
+    "frequency": 1,
+    "status": "active",
+    "sourceCount": 1
+  },
+  {
+    "word": "ज़ोर",
+    "normalized": "जोर",
+    "display": "ज़ोर",
+    "variants": [
+      "ज़ोर",
+      "जोर"
+    ],
+    "pos": "名詞（男）",
+    "meaning_ja": "力、強制、勢い",
+    "importance": 3,
+    "sourceSongIds": [
+      "bolly_039"
+    ],
+    "frequency": 1,
+    "status": "active",
+    "sourceCount": 1
+  },
+  {
+    "word": "हिम्मती",
+    "normalized": "हिम्मती",
+    "display": "हिम्मती",
+    "pos": "形容詞",
+    "meaning_ja": "勇気のある、度胸のある",
+    "importance": 3,
+    "sourceSongIds": [
+      "bolly_039"
+    ],
+    "frequency": 1,
+    "status": "active",
+    "sourceCount": 1
   }
 ]
