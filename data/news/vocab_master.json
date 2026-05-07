@@ -43,10 +43,11 @@
     "importance": 4,
     "status": "active",
     "sourceArticleIds": [
-      "news_vocab_02"
+      "news_vocab_02",
+      "news_010"
     ],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 2,
+    "frequency": 2,
     "notes": ""
   },
   {
@@ -60,10 +61,11 @@
     "status": "active",
     "sourceArticleIds": [
       "news_vocab_02",
-      "news_006"
+      "news_006",
+      "news_010"
     ],
-    "sourceCount": 2,
-    "frequency": 2,
+    "sourceCount": 3,
+    "frequency": 3,
     "notes": ""
   },
   {
@@ -108,10 +110,11 @@
     "importance": 4,
     "status": "active",
     "sourceArticleIds": [
-      "news_vocab_02"
+      "news_vocab_02",
+      "news_010"
     ],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 2,
+    "frequency": 2,
     "notes": ""
   },
   {
@@ -758,10 +761,11 @@
     "importance": 4,
     "status": "active",
     "sourceArticleIds": [
-      "news_vocab_02"
+      "news_vocab_02",
+      "news_010"
     ],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 2,
+    "frequency": 2,
     "notes": ""
   },
   {
@@ -920,10 +924,11 @@
     "importance": 4,
     "status": "active",
     "sourceArticleIds": [
-      "news_vocab_02"
+      "news_vocab_02",
+      "news_010"
     ],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 2,
+    "frequency": 2,
     "notes": ""
   },
   {
@@ -1133,10 +1138,11 @@
     "status": "active",
     "sourceArticleIds": [
       "news_vocab_02",
-      "news_009"
+      "news_009",
+      "news_010"
     ],
-    "sourceCount": 2,
-    "frequency": 2,
+    "sourceCount": 3,
+    "frequency": 3,
     "notes": ""
   },
   {
@@ -3206,5 +3212,202 @@
     "sourceCount": 1,
     "frequency": 1,
     "notes": "manual_review由来。"
+  },
+  {
+    "word": "हत्याकांड",
+    "normalized": "हत्याकांड",
+    "pos": "名詞",
+    "meaning_ja": "殺人事件、惨殺事件",
+    "category": "事件・事故",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_010"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "फायरिंग",
+    "normalized": "फायरिंग",
+    "pos": "名詞",
+    "meaning_ja": "発砲、銃撃",
+    "category": "事件・事故",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_010"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "गोली मारना",
+    "normalized": "गोली_मारना",
+    "pos": "動詞句",
+    "meaning_ja": "銃で撃つ",
+    "category": "事件・事故",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_010"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "अंधाधुंध",
+    "normalized": "अंधाधुंध",
+    "pos": "副詞・形容詞",
+    "meaning_ja": "無差別に、やみくもに",
+    "category": "事件・事故",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_010"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "घायल",
+    "normalized": "घायल",
+    "pos": "形容詞・分詞",
+    "meaning_ja": "負傷した",
+    "category": "事件・事故",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_010"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "पूर्व नियोजित",
+    "normalized": "पूर्व_नियोजित",
+    "pos": "形容詞",
+    "meaning_ja": "事前に計画された",
+    "category": "事件・事故",
+    "difficulty": 5,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_010"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "अपराधी",
+    "normalized": "अपराधी",
+    "pos": "名詞",
+    "meaning_ja": "犯罪者、犯人",
+    "category": "事件・事故",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_010"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "पहचान",
+    "normalized": "पहचान",
+    "pos": "名詞",
+    "meaning_ja": "身元確認、識別",
+    "category": "事件・事故",
+    "difficulty": 2,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_010"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "निंदा",
+    "normalized": "निंदा",
+    "pos": "名詞",
+    "meaning_ja": "非難、糾弾",
+    "category": "社会・公共",
+    "difficulty": 3,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_010"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "दोषी",
+    "normalized": "दोषी",
+    "pos": "名詞・形容詞",
+    "meaning_ja": "有罪の者、犯人",
+    "category": "裁判・法・選挙",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_010"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "न्याय के दायरे में लाना",
+    "normalized": "न्याय_के_दायरे_में_लाना",
+    "pos": "動詞句",
+    "meaning_ja": "法の裁きを受けさせる",
+    "category": "裁判・法・選挙",
+    "difficulty": 5,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_010"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "सीबीआइ",
+    "normalized": "सीबीआई",
+    "display": "सीबीआई",
+    "variants": [
+      "सीबीआई",
+      "CBI"
+    ],
+    "pos": "名詞",
+    "meaning_ja": "インド中央捜査局（CBI）",
+    "category": "裁判・法・選挙",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_010"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "Central Bureau of Investigation"
   }
 ]

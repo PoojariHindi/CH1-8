@@ -12,6 +12,30 @@
     "quizWeight": 13
   },
   {
+    "word": "चुनाव",
+    "normalized": "चुनाव",
+    "meaning_ja": "選挙",
+    "pos": "名詞",
+    "category": "裁判・法・選挙",
+    "difficulty": 2,
+    "importance": 4,
+    "sourceCount": 3,
+    "frequency": 3,
+    "quizWeight": 13
+  },
+  {
+    "word": "जांच",
+    "normalized": "जांच",
+    "meaning_ja": "捜査、調査、検査",
+    "pos": "名詞",
+    "category": "事件・事故",
+    "difficulty": 2,
+    "importance": 4,
+    "sourceCount": 3,
+    "frequency": 3,
+    "quizWeight": 13
+  },
+  {
     "word": "पुलिस",
     "normalized": "पुलिस",
     "meaning_ja": "警察",
@@ -36,6 +60,18 @@
     "quizWeight": 13
   },
   {
+    "word": "अधिकारी",
+    "normalized": "अधिकारी",
+    "meaning_ja": "役人、職員",
+    "pos": "名詞",
+    "category": "行政・制度",
+    "difficulty": 2,
+    "importance": 4,
+    "sourceCount": 2,
+    "frequency": 2,
+    "quizWeight": 12
+  },
+  {
     "word": "गिरफ्तारी",
     "normalized": "गिरफ्तारी",
     "meaning_ja": "逮捕",
@@ -48,21 +84,9 @@
     "quizWeight": 12
   },
   {
-    "word": "चुनाव",
-    "normalized": "चुनाव",
-    "meaning_ja": "選挙",
-    "pos": "名詞",
-    "category": "裁判・法・選挙",
-    "difficulty": 2,
-    "importance": 4,
-    "sourceCount": 2,
-    "frequency": 2,
-    "quizWeight": 12
-  },
-  {
-    "word": "जांच",
-    "normalized": "जांच",
-    "meaning_ja": "捜査、調査、検査",
+    "word": "घटना",
+    "normalized": "घटना",
+    "meaning_ja": "出来事、事件",
     "pos": "名詞",
     "category": "事件・事故",
     "difficulty": 2,
@@ -168,6 +192,18 @@
     "quizWeight": 12
   },
   {
+    "word": "हिंसा",
+    "normalized": "हिंसा",
+    "meaning_ja": "暴力",
+    "pos": "名詞",
+    "category": "事件・事故",
+    "difficulty": 2,
+    "importance": 4,
+    "sourceCount": 2,
+    "frequency": 2,
+    "quizWeight": 12
+  },
+  {
     "word": "अदालत",
     "normalized": "अदालत",
     "meaning_ja": "裁判所",
@@ -185,18 +221,6 @@
     "meaning_ja": "権利、権限",
     "pos": "名詞",
     "category": "裁判・法・選挙",
-    "difficulty": 2,
-    "importance": 4,
-    "sourceCount": 1,
-    "frequency": 1,
-    "quizWeight": 11
-  },
-  {
-    "word": "अधिकारी",
-    "normalized": "अधिकारी",
-    "meaning_ja": "役人、職員",
-    "pos": "名詞",
-    "category": "行政・制度",
     "difficulty": 2,
     "importance": 4,
     "sourceCount": 1,
@@ -312,18 +336,6 @@
     "quizWeight": 11
   },
   {
-    "word": "घटना",
-    "normalized": "घटना",
-    "meaning_ja": "出来事、事件",
-    "pos": "名詞",
-    "category": "事件・事故",
-    "difficulty": 2,
-    "importance": 4,
-    "sourceCount": 1,
-    "frequency": 1,
-    "quizWeight": 11
-  },
-  {
     "word": "घोषणा करना",
     "normalized": "घोषणा_करना",
     "meaning_ja": "発表する",
@@ -345,6 +357,18 @@
     "importance": 4,
     "sourceCount": 1,
     "frequency": 1,
+    "quizWeight": 11
+  },
+  {
+    "word": "निगरानी",
+    "normalized": "निगरानी",
+    "meaning_ja": "監視、モニタリング",
+    "pos": "名詞",
+    "category": "行政・制度",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 2,
+    "frequency": 2,
     "quizWeight": 11
   },
   {
@@ -648,23 +672,23 @@
     "quizWeight": 11
   },
   {
-    "word": "हिंसा",
-    "normalized": "हिंसा",
-    "meaning_ja": "暴力",
-    "pos": "名詞",
-    "category": "事件・事故",
-    "difficulty": 2,
-    "importance": 4,
-    "sourceCount": 1,
-    "frequency": 1,
-    "quizWeight": 11
-  },
-  {
     "word": "अंतरराष्ट्रीय",
     "normalized": "अंतरराष्ट्रीय",
     "meaning_ja": "国際的な",
     "pos": "形容詞",
     "category": "労働・経済",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 10
+  },
+  {
+    "word": "अपराधी",
+    "normalized": "अपराधी",
+    "meaning_ja": "犯罪者、犯人",
+    "pos": "名詞",
+    "category": "事件・事故",
     "difficulty": 3,
     "importance": 4,
     "sourceCount": 1,
@@ -852,6 +876,30 @@
     "quizWeight": 10
   },
   {
+    "word": "गोली मारना",
+    "normalized": "गोली_मारना",
+    "meaning_ja": "銃で撃つ",
+    "pos": "動詞句",
+    "category": "事件・事故",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 10
+  },
+  {
+    "word": "घायल",
+    "normalized": "घायल",
+    "meaning_ja": "負傷した",
+    "pos": "形容詞・分詞",
+    "category": "事件・事故",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 10
+  },
+  {
     "word": "डिजिटल",
     "normalized": "डिजिटल",
     "meaning_ja": "デジタルの",
@@ -876,11 +924,11 @@
     "quizWeight": 10
   },
   {
-    "word": "निगरानी",
-    "normalized": "निगरानी",
-    "meaning_ja": "監視、モニタリング",
-    "pos": "名詞",
-    "category": "行政・制度",
+    "word": "दोषी",
+    "normalized": "दोषी",
+    "meaning_ja": "有罪の者、犯人",
+    "pos": "名詞・形容詞",
+    "category": "裁判・法・選挙",
     "difficulty": 3,
     "importance": 4,
     "sourceCount": 1,
@@ -1024,6 +1072,18 @@
     "normalized": "फरार",
     "meaning_ja": "逃亡中の",
     "pos": "形容詞",
+    "category": "事件・事故",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 10
+  },
+  {
+    "word": "फायरिंग",
+    "normalized": "फायरिंग",
+    "meaning_ja": "発砲、銃撃",
+    "pos": "名詞",
     "category": "事件・事故",
     "difficulty": 3,
     "importance": 4,
@@ -1332,6 +1392,18 @@
     "quizWeight": 10
   },
   {
+    "word": "सीबीआइ",
+    "normalized": "सीबीआई",
+    "meaning_ja": "インド中央捜査局（CBI）",
+    "pos": "名詞",
+    "category": "裁判・法・選挙",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 10
+  },
+  {
     "word": "सीसीटीवी फुटेज",
     "normalized": "सीसीटीवी_फुटेज",
     "meaning_ja": "防犯カメラ映像",
@@ -1409,6 +1481,18 @@
     "meaning_ja": "実行する、遂行する",
     "pos": "動詞句",
     "category": "重要動詞",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "अंधाधुंध",
+    "normalized": "अंधाधुंध",
+    "meaning_ja": "無差別に、やみくもに",
+    "pos": "副詞・形容詞",
+    "category": "事件・事故",
     "difficulty": 4,
     "importance": 4,
     "sourceCount": 1,
@@ -1656,6 +1740,18 @@
     "quizWeight": 9
   },
   {
+    "word": "न्याय के दायरे में लाना",
+    "normalized": "न्याय_के_दायरे_में_लाना",
+    "meaning_ja": "法の裁きを受けさせる",
+    "pos": "動詞句",
+    "category": "裁判・法・選挙",
+    "difficulty": 5,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
     "word": "न्यायालय",
     "normalized": "न्यायालय",
     "meaning_ja": "裁判所、法廷",
@@ -1692,6 +1788,18 @@
     "quizWeight": 9
   },
   {
+    "word": "पहचान",
+    "normalized": "पहचान",
+    "meaning_ja": "身元確認、識別",
+    "pos": "名詞",
+    "category": "事件・事故",
+    "difficulty": 2,
+    "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
     "word": "पाठ्यक्रम",
     "normalized": "पाठ्यक्रम",
     "meaning_ja": "カリキュラム、課程",
@@ -1710,6 +1818,18 @@
     "pos": "形容詞",
     "category": "裁判・法・選挙",
     "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "पूर्व नियोजित",
+    "normalized": "पूर्व_नियोजित",
+    "meaning_ja": "事前に計画された",
+    "pos": "形容詞",
+    "category": "事件・事故",
+    "difficulty": 5,
     "importance": 4,
     "sourceCount": 1,
     "frequency": 1,
@@ -1920,6 +2040,18 @@
     "quizWeight": 9
   },
   {
+    "word": "हत्याकांड",
+    "normalized": "हत्याकांड",
+    "meaning_ja": "殺人事件、惨殺事件",
+    "pos": "名詞",
+    "category": "事件・事故",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
     "word": "इंटीग्रेटेड",
     "normalized": "इंटीग्रेटेड",
     "meaning_ja": "統合された",
@@ -2049,6 +2181,18 @@
     "importance": 3,
     "sourceCount": 2,
     "frequency": 2,
+    "quizWeight": 8
+  },
+  {
+    "word": "निंदा",
+    "normalized": "निंदा",
+    "meaning_ja": "非難、糾弾",
+    "pos": "名詞",
+    "category": "社会・公共",
+    "difficulty": 3,
+    "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
     "quizWeight": 8
   },
   {
