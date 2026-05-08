@@ -240,8 +240,6 @@
     "quizWeight": 12
   },
   {
-<<<<<<< HEAD
-=======
     "word": "स्थिति",
     "normalized": "स्थिति",
     "meaning_ja": "状況、状態",
@@ -254,7 +252,6 @@
     "quizWeight": 12
   },
   {
->>>>>>> 406c8a4 (Update news and bollywood vocab data)
     "word": "हिंसा",
     "normalized": "हिंसा",
     "meaning_ja": "暴力",
@@ -684,18 +681,6 @@
     "importance": 4,
     "sourceCount": 1,
     "frequency": 1,
-    "quizWeight": 11
-  },
-  {
-    "word": "स्थिति",
-    "normalized": "स्थिति",
-    "meaning_ja": "状況、状態",
-    "pos": "名詞",
-    "category": "調査・データ",
-    "difficulty": 2,
-    "importance": 3,
-    "sourceCount": 3,
-    "frequency": 3,
     "quizWeight": 11
   },
   {
@@ -1803,8 +1788,6 @@
     "quizWeight": 9
   },
   {
-<<<<<<< HEAD
-=======
     "word": "क्षमता",
     "normalized": "क्षमता",
     "meaning_ja": "能力; 処理能力",
@@ -1817,7 +1800,6 @@
     "quizWeight": 9
   },
   {
->>>>>>> 406c8a4 (Update news and bollywood vocab data)
     "word": "गर्भ समापन",
     "normalized": "गर्भ_समापन",
     "meaning_ja": "妊娠終了、中絶処置",
@@ -1878,8 +1860,6 @@
     "quizWeight": 9
   },
   {
-<<<<<<< HEAD
-=======
     "word": "ग्रेजुएशन",
     "normalized": "ग्रेजुएशन",
     "meaning_ja": "大学卒業、学位取得",
@@ -1892,7 +1872,6 @@
     "quizWeight": 9
   },
   {
->>>>>>> 406c8a4 (Update news and bollywood vocab data)
     "word": "चिकित्सकीय",
     "normalized": "चिकित्सकीय",
     "meaning_ja": "医学的な、医療上の",
@@ -1977,8 +1956,6 @@
     "quizWeight": 9
   },
   {
-<<<<<<< HEAD
-=======
     "word": "दिन-रात एक करना",
     "normalized": "दिनरात_एक_करना",
     "meaning_ja": "昼夜を問わず必死に働く",
@@ -1991,7 +1968,6 @@
     "quizWeight": 9
   },
   {
->>>>>>> 406c8a4 (Update news and bollywood vocab data)
     "word": "दुष्कर्म",
     "normalized": "दुष्कर्म",
     "meaning_ja": "性的暴行、レイプ",
@@ -2464,21 +2440,6 @@
     "normalized": "किशोरी",
     "meaning_ja": "少女、ティーンの女の子",
     "pos": "名詞（女）",
-<<<<<<< HEAD
-    "category": "社会・公共",
-    "difficulty": 3,
-    "importance": 3,
-    "sourceCount": 1,
-    "frequency": 1,
-    "quizWeight": 8
-  },
-  {
-    "word": "कृषि",
-    "normalized": "कृषि",
-    "meaning_ja": "農業",
-    "pos": "名詞",
-=======
->>>>>>> 406c8a4 (Update news and bollywood vocab data)
     "category": "社会・公共",
     "difficulty": 3,
     "importance": 3,
@@ -2667,8 +2628,6 @@
     "quizWeight": 8
   },
   {
-<<<<<<< HEAD
-=======
     "word": "सहयोगी",
     "normalized": "सहयोगी",
     "meaning_ja": "協力的な、協力者",
@@ -2681,7 +2640,6 @@
     "quizWeight": 8
   },
   {
->>>>>>> 406c8a4 (Update news and bollywood vocab data)
     "word": "अंगदान",
     "normalized": "अंगदान",
     "meaning_ja": "臓器提供",

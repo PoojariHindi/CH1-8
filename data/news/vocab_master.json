@@ -1553,18 +1553,11 @@
     "sourceArticleIds": [
       "news_vocab_02",
       "news_009",
-<<<<<<< HEAD
-      "news_011"
-    ],
-    "sourceCount": 3,
-    "frequency": 3,
-=======
       "news_011",
       "news_012"
     ],
     "sourceCount": 4,
     "frequency": 4,
->>>>>>> 406c8a4 (Update news and bollywood vocab data)
     "notes": ""
   },
   {
@@ -3649,8 +3642,6 @@
     "sourceCount": 1,
     "frequency": 1,
     "notes": ""
-<<<<<<< HEAD
-=======
   },
   {
     "word": "सफाईकर्मी",
@@ -4019,6 +4010,5 @@
     "sourceCount": 1,
     "frequency": 1,
     "notes": ""
->>>>>>> 406c8a4 (Update news and bollywood vocab data)
   }
 ]

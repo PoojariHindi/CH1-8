@@ -1,20 +1,11 @@
 {
   "topic": "bollywood",
-<<<<<<< HEAD
-  "generatedAt": "2026-05-07T23:31:07.780Z",
-  "counts": {
-    "vocab": 489,
-    "expressions": 197,
-    "fillBlanks": 196,
-    "songs": 40
-=======
   "generatedAt": "2026-05-08T21:44:08.197Z",
   "counts": {
     "vocab": 499,
     "expressions": 204,
     "fillBlanks": 203,
     "songs": 41
->>>>>>> 406c8a4 (Update news and bollywood vocab data)
   },
   "vocab": [
     {
@@ -10666,8 +10657,6 @@
       "sourceSongIds": [
         "bolly_040"
       ]
-<<<<<<< HEAD
-=======
     },
     {
       "word": "सावन",
@@ -10882,7 +10871,6 @@
       "sourceSongIds": [
         "bolly_041"
       ]
->>>>>>> 406c8a4 (Update news and bollywood vocab data)
     }
   ],
   "expressions": [
@@ -13840,8 +13828,6 @@
       "difficulty": 1,
       "tags": [],
       "status": "active"
-<<<<<<< HEAD
-=======
     },
     {
       "id": "bolly_041::expr::1",
@@ -13947,7 +13933,6 @@
       "difficulty": 1,
       "tags": [],
       "status": "active"
->>>>>>> 406c8a4 (Update news and bollywood vocab data)
     }
   ],
   "fillBlanks": [
@@ -16890,8 +16875,6 @@
       "importance": 4,
       "difficulty": 1,
       "tags": []
-<<<<<<< HEAD
-=======
     },
     {
       "id": "bolly_041::expr::1::blank::1",
@@ -16997,7 +16980,6 @@
       "importance": 4,
       "difficulty": 1,
       "tags": []
->>>>>>> 406c8a4 (Update news and bollywood vocab data)
     }
   ]
 }
