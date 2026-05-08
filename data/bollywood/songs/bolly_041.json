@@ -1,0 +1,328 @@
+{
+  "id": "bolly_041",
+  "schema_version": 2,
+  "title": "Do Pal",
+  "film": "Veer-Zaara",
+  "year": 2004,
+  "singer": [
+    "Lata Mangeshkar",
+    "Sonu Nigam"
+  ],
+  "lyricist": [
+    "Javed Akhtar"
+  ],
+  "composer": [
+    "Late Madan Mohan"
+  ],
+  "notes": [
+    "シャールク"
+  ],
+  "tags": [
+    "恋愛",
+    "別れ"
+  ],
+  "emotion": "love_separation",
+  "register": "romantic_poetic",
+  "key_phrase": "दो पल रुका, ख्वाबों का कारवाँ",
+  "expressions": [
+    {
+      "text": "दो पल रुका, ख्वाबों का कारवाँ",
+      "normalized": "दो पल रुका ख्वाबों का कारवां",
+      "meaning_ja": "夢の隊商が、二瞬だけ立ち止まった",
+      "type": "key_phrase",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "दो पल की थी, ये दिलों की दास्ताँ",
+      "normalized": "दो पल की थी ये दिलों की दास्तां",
+      "meaning_ja": "これは二瞬だけの、心と心の物語だった",
+      "type": "poetic_expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "तुम थे या कोई उजली किरण",
+      "normalized": "तुम थे या कोई उजली किरण",
+      "meaning_ja": "あなたは、明るい一筋の光だったのか",
+      "type": "metaphor",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "तुम थे या सपनों का था सावन",
+      "normalized": "तुम थे या सपनों का था सावन",
+      "meaning_ja": "あなたは、夢の雨季だったのか",
+      "type": "metaphor",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "खुशियों की घटा छाई थी",
+      "normalized": "खुशियों की घटा छाई थी",
+      "meaning_ja": "幸せの雨雲が空を覆っていた",
+      "type": "metaphor",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "गीत गूँजे फ़िज़ाओं में थे",
+      "normalized": "गीत गूंजे फिजाओं में थे",
+      "meaning_ja": "歌が空気／雰囲気の中に響いていた",
+      "type": "poetic_expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "था जादू भरा कोई समां",
+      "normalized": "था जादू भरा कोई समां",
+      "meaning_ja": "魔法に満ちたような雰囲気だった",
+      "type": "poetic_expression",
+      "importance": 4,
+      "status": "active"
+    }
+  ],
+  "vocab_candidates": [
+    {
+      "word": "दो पल",
+      "normalized": "दो_पल",
+      "pos": "名詞句",
+      "meaning_ja": "ほんの一瞬、短い時間",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "ख्वाबों",
+      "normalized": "ख्वाब",
+      "display": "ख्वाब",
+      "pos": "名詞（男・複）",
+      "meaning_ja": "夢",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "कारवाँ",
+      "normalized": "कारवां",
+      "display": "कारवां",
+      "variants": [
+        "कारवाँ"
+      ],
+      "pos": "名詞（男）",
+      "meaning_ja": "隊商、旅の列",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "दिलों",
+      "normalized": "दिल",
+      "display": "दिल",
+      "pos": "名詞（男・複）",
+      "meaning_ja": "心",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "दास्ताँ",
+      "normalized": "दास्तां",
+      "display": "दास्तां",
+      "variants": [
+        "दास्ताँ"
+      ],
+      "pos": "名詞（女）",
+      "meaning_ja": "物語、語り",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "उजली",
+      "normalized": "उजला",
+      "display": "उजला",
+      "pos": "形容詞",
+      "meaning_ja": "明るい、白く輝く",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "किरण",
+      "normalized": "किरण",
+      "pos": "名詞（女）",
+      "meaning_ja": "光線、一筋の光",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "कली",
+      "normalized": "कली",
+      "pos": "名詞（女）",
+      "meaning_ja": "つぼみ",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "मुस्काई",
+      "normalized": "मुस्काना",
+      "display": "मुस्काना",
+      "pos": "自動詞",
+      "meaning_ja": "微笑む",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "सपनों",
+      "normalized": "सपना",
+      "display": "सपना",
+      "pos": "名詞（男・複）",
+      "meaning_ja": "夢",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "सावन",
+      "normalized": "सावन",
+      "pos": "名詞（男）",
+      "meaning_ja": "サーワン月、雨季",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "खुशियों",
+      "normalized": "खुशी",
+      "display": "खुशी",
+      "pos": "名詞（女・複）",
+      "meaning_ja": "喜び、幸せ",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "घटा",
+      "normalized": "घटा",
+      "pos": "名詞（女）",
+      "meaning_ja": "黒雲、雨雲",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "छाई",
+      "normalized": "छाना",
+      "display": "छाना",
+      "pos": "自動詞",
+      "meaning_ja": "覆う、広がる",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "खुशबू",
+      "normalized": "खुशबू",
+      "pos": "名詞（女）",
+      "meaning_ja": "香り",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "हवाओं",
+      "normalized": "हवा",
+      "display": "हवा",
+      "pos": "名詞（女・複）",
+      "meaning_ja": "風、空気",
+      "importance": 2,
+      "status": "active"
+    },
+    {
+      "word": "रंग",
+      "normalized": "रंग",
+      "pos": "名詞（男）",
+      "meaning_ja": "色、彩り",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "दिशाओं",
+      "normalized": "दिशा",
+      "display": "दिशा",
+      "pos": "名詞（女・複）",
+      "meaning_ja": "方向、方角",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "रोशनी",
+      "normalized": "रोशनी",
+      "pos": "名詞（女）",
+      "meaning_ja": "光、明かり",
+      "importance": 2,
+      "status": "active"
+    },
+    {
+      "word": "राहों",
+      "normalized": "राह",
+      "display": "राह",
+      "pos": "名詞（女・複）",
+      "meaning_ja": "道、行く手",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "गूँजे",
+      "normalized": "गूंजना",
+      "display": "गूंजना",
+      "variants": [
+        "गूँजना"
+      ],
+      "pos": "自動詞",
+      "meaning_ja": "響く、こだまする",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "फ़िज़ाओं",
+      "normalized": "फिजा",
+      "display": "फिजा",
+      "variants": [
+        "फ़िज़ा",
+        "फिज़ा"
+      ],
+      "pos": "名詞（女・複）",
+      "meaning_ja": "空気、雰囲気、空",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "मंज़िलें",
+      "normalized": "मंजिल",
+      "display": "मंजिल",
+      "variants": [
+        "मंज़िल"
+      ],
+      "pos": "名詞（女・複）",
+      "meaning_ja": "目的地、到達点",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "जादू",
+      "normalized": "जादू",
+      "pos": "名詞（男）",
+      "meaning_ja": "魔法",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "समां",
+      "normalized": "समां",
+      "display": "समां",
+      "variants": [
+        "समाँ"
+      ],
+      "pos": "名詞（男）",
+      "meaning_ja": "雰囲気、情景、状況",
+      "importance": 4,
+      "status": "active"
+    }
+  ],
+  "meta": {
+    "copyright_safe": true,
+    "lyrics_included": false,
+    "source_type": "manual_curated",
+    "dedupe_ready": true
+  }
+}

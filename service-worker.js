@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 const CACHE_VERSION = "v36";
+=======
+const CACHE_VERSION = "v37";
+>>>>>>> 406c8a4 (Update news and bollywood vocab data)
 const CACHE_NAME = `hindi-quiz-${CACHE_VERSION}`;
 
 const APP_SHELL = [

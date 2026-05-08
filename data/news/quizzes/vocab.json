@@ -240,6 +240,21 @@
     "quizWeight": 12
   },
   {
+<<<<<<< HEAD
+=======
+    "word": "स्थिति",
+    "normalized": "स्थिति",
+    "meaning_ja": "状況、状態",
+    "pos": "名詞",
+    "category": "調査・データ",
+    "difficulty": 2,
+    "importance": 3,
+    "sourceCount": 4,
+    "frequency": 4,
+    "quizWeight": 12
+  },
+  {
+>>>>>>> 406c8a4 (Update news and bollywood vocab data)
     "word": "हिंसा",
     "normalized": "हिंसा",
     "meaning_ja": "暴力",
@@ -888,6 +903,18 @@
     "quizWeight": 10
   },
   {
+    "word": "गुजारा",
+    "normalized": "गुजारा",
+    "meaning_ja": "生計、暮らし",
+    "pos": "名詞",
+    "category": "労働・経済",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 10
+  },
+  {
     "word": "गोली मारना",
     "normalized": "गोली_मारना",
     "meaning_ja": "銃で撃つ",
@@ -905,6 +932,18 @@
     "meaning_ja": "負傷した",
     "pos": "形容詞・分詞",
     "category": "事件・事故",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 10
+  },
+  {
+    "word": "जान लगाना",
+    "normalized": "जान_लगाना",
+    "meaning_ja": "全力を尽くす",
+    "pos": "動詞句",
+    "category": "重要動詞",
     "difficulty": 3,
     "importance": 4,
     "sourceCount": 1,
@@ -936,6 +975,30 @@
     "quizWeight": 10
   },
   {
+    "word": "तरक्की",
+    "normalized": "तरक्की",
+    "meaning_ja": "昇進、発展",
+    "pos": "名詞（女）",
+    "category": "労働・経済",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 10
+  },
+  {
+    "word": "दाखिला",
+    "normalized": "दाखिला",
+    "meaning_ja": "入学、登録",
+    "pos": "名詞",
+    "category": "教育",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 10
+  },
+  {
     "word": "दोषी",
     "normalized": "दोषी",
     "meaning_ja": "有罪の者、犯人",
@@ -952,6 +1015,18 @@
     "normalized": "न्यूनतम",
     "meaning_ja": "最低の、最小の",
     "pos": "形容詞",
+    "category": "労働・経済",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 10
+  },
+  {
+    "word": "पगार",
+    "normalized": "पगार",
+    "meaning_ja": "給料、賃金",
+    "pos": "名詞（女）",
     "category": "労働・経済",
     "difficulty": 3,
     "importance": 4,
@@ -1041,6 +1116,18 @@
     "importance": 3,
     "sourceCount": 1,
     "frequency": 1,
+    "quizWeight": 10
+  },
+  {
+    "word": "प्रभावित",
+    "normalized": "प्रभावित",
+    "meaning_ja": "影響を受けた",
+    "pos": "形容詞",
+    "category": "社会・公共",
+    "difficulty": 3,
+    "importance": 3,
+    "sourceCount": 3,
+    "frequency": 3,
     "quizWeight": 10
   },
   {
@@ -1344,6 +1431,18 @@
     "quizWeight": 10
   },
   {
+    "word": "संघर्ष",
+    "normalized": "संघर्ष",
+    "meaning_ja": "闘い、努力、苦闘",
+    "pos": "名詞（男）",
+    "category": "社会・公共",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 10
+  },
+  {
     "word": "संविधान",
     "normalized": "संविधान",
     "meaning_ja": "憲法",
@@ -1373,6 +1472,18 @@
     "meaning_ja": "学期、会期、セッション",
     "pos": "名詞（男）",
     "category": "教育",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 10
+  },
+  {
+    "word": "सफाईकर्मी",
+    "normalized": "सफाईकर्मी",
+    "meaning_ja": "清掃員",
+    "pos": "名詞",
+    "category": "労働・経済",
     "difficulty": 3,
     "importance": 4,
     "sourceCount": 1,
@@ -1457,6 +1568,18 @@
     "meaning_ja": "国産の、自国製の",
     "pos": "形容詞",
     "category": "行政・制度",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 10
+  },
+  {
+    "word": "हल निकालना",
+    "normalized": "हल_निकालना",
+    "meaning_ja": "解決策を見つける",
+    "pos": "動詞句",
+    "category": "重要動詞",
     "difficulty": 3,
     "importance": 4,
     "sourceCount": 1,
@@ -1608,6 +1731,18 @@
     "quizWeight": 9
   },
   {
+    "word": "आर्थिक तंगी",
+    "normalized": "आर्थिक_तंगी",
+    "meaning_ja": "経済的困窮",
+    "pos": "名詞",
+    "category": "労働・経済",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
     "word": "इच्छामृत्यु",
     "normalized": "इच्छामृत्यु",
     "meaning_ja": "安楽死",
@@ -1644,6 +1779,18 @@
     "quizWeight": 9
   },
   {
+    "word": "कैशियर",
+    "normalized": "कैशियर",
+    "meaning_ja": "出納係、キャッシャー",
+    "pos": "名詞",
+    "category": "労働・経済",
+    "difficulty": 2,
+    "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
     "word": "क्रियान्वयन",
     "normalized": "क्रियान्वयन",
     "meaning_ja": "実施、施行",
@@ -1656,6 +1803,21 @@
     "quizWeight": 9
   },
   {
+<<<<<<< HEAD
+=======
+    "word": "क्षमता",
+    "normalized": "क्षमता",
+    "meaning_ja": "能力; 処理能力",
+    "pos": "名詞（女）",
+    "category": "社会・公共",
+    "difficulty": 3,
+    "importance": 3,
+    "sourceCount": 2,
+    "frequency": 2,
+    "quizWeight": 9
+  },
+  {
+>>>>>>> 406c8a4 (Update news and bollywood vocab data)
     "word": "गर्भ समापन",
     "normalized": "गर्भ_समापन",
     "meaning_ja": "妊娠終了、中絶処置",
@@ -1716,6 +1878,21 @@
     "quizWeight": 9
   },
   {
+<<<<<<< HEAD
+=======
+    "word": "ग्रेजुएशन",
+    "normalized": "ग्रेजुएशन",
+    "meaning_ja": "大学卒業、学位取得",
+    "pos": "名詞",
+    "category": "教育",
+    "difficulty": 2,
+    "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+>>>>>>> 406c8a4 (Update news and bollywood vocab data)
     "word": "चिकित्सकीय",
     "normalized": "चिकित्सकीय",
     "meaning_ja": "医学的な、医療上の",
@@ -1735,6 +1912,18 @@
     "category": "裁判・法・選挙",
     "difficulty": 4,
     "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "जबरदस्त",
+    "normalized": "जबरदस्त",
+    "meaning_ja": "すごい、強力な",
+    "pos": "形容詞",
+    "category": "社会・公共",
+    "difficulty": 2,
+    "importance": 3,
     "sourceCount": 1,
     "frequency": 1,
     "quizWeight": 9
@@ -1788,6 +1977,21 @@
     "quizWeight": 9
   },
   {
+<<<<<<< HEAD
+=======
+    "word": "दिन-रात एक करना",
+    "normalized": "दिनरात_एक_करना",
+    "meaning_ja": "昼夜を問わず必死に働く",
+    "pos": "動詞句",
+    "category": "重要動詞",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+>>>>>>> 406c8a4 (Update news and bollywood vocab data)
     "word": "दुष्कर्म",
     "normalized": "दुष्कर्म",
     "meaning_ja": "性的暴行、レイプ",
@@ -1956,15 +2160,15 @@
     "quizWeight": 9
   },
   {
-    "word": "प्रभावित",
-    "normalized": "प्रभावित",
-    "meaning_ja": "影響を受けた",
-    "pos": "形容詞",
-    "category": "社会・公共",
-    "difficulty": 3,
+    "word": "प्रमोट",
+    "normalized": "प्रमोट",
+    "meaning_ja": "昇進させる",
+    "pos": "動詞",
+    "category": "労働・経済",
+    "difficulty": 2,
     "importance": 3,
-    "sourceCount": 2,
-    "frequency": 2,
+    "sourceCount": 1,
+    "frequency": 1,
     "quizWeight": 9
   },
   {
@@ -1973,6 +2177,18 @@
     "meaning_ja": "規定、条項",
     "pos": "名詞",
     "category": "行政・制度",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "बुकबाइंडर",
+    "normalized": "बुकबाइंडर",
+    "meaning_ja": "製本工",
+    "pos": "名詞",
+    "category": "労働・経済",
     "difficulty": 4,
     "importance": 4,
     "sourceCount": 1,
@@ -2004,11 +2220,35 @@
     "quizWeight": 9
   },
   {
+    "word": "मुकाम",
+    "normalized": "मुकाम",
+    "meaning_ja": "到達点、地位",
+    "pos": "名詞（男）",
+    "category": "社会・公共",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
     "word": "मुद्दा",
     "normalized": "मुद्दा",
     "meaning_ja": "問題点、争点",
     "pos": "名詞",
     "category": "社会・公共",
+    "difficulty": 2,
+    "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "मैसेंजर",
+    "normalized": "मैसेंजर",
+    "meaning_ja": "メッセンジャー係",
+    "pos": "名詞",
+    "category": "労働・経済",
     "difficulty": 2,
     "importance": 3,
     "sourceCount": 1,
@@ -2095,6 +2335,18 @@
     "category": "社会・公共",
     "difficulty": 2,
     "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "साया उठ जाना",
+    "normalized": "साया_उठ_जाना",
+    "meaning_ja": "後ろ盾を失う、保護者を失う",
+    "pos": "慣用句",
+    "category": "社会・公共",
+    "difficulty": 5,
+    "importance": 4,
     "sourceCount": 1,
     "frequency": 1,
     "quizWeight": 9
@@ -2212,6 +2464,7 @@
     "normalized": "किशोरी",
     "meaning_ja": "少女、ティーンの女の子",
     "pos": "名詞（女）",
+<<<<<<< HEAD
     "category": "社会・公共",
     "difficulty": 3,
     "importance": 3,
@@ -2224,6 +2477,8 @@
     "normalized": "कृषि",
     "meaning_ja": "農業",
     "pos": "名詞",
+=======
+>>>>>>> 406c8a4 (Update news and bollywood vocab data)
     "category": "社会・公共",
     "difficulty": 3,
     "importance": 3,
@@ -2232,10 +2487,10 @@
     "quizWeight": 8
   },
   {
-    "word": "क्षमता",
-    "normalized": "क्षमता",
-    "meaning_ja": "能力; 処理能力",
-    "pos": "名詞（女）",
+    "word": "कृषि",
+    "normalized": "कृषि",
+    "meaning_ja": "農業",
+    "pos": "名詞",
     "category": "社会・公共",
     "difficulty": 3,
     "importance": 3,
@@ -2376,6 +2631,18 @@
     "quizWeight": 8
   },
   {
+    "word": "लगन",
+    "normalized": "लगन",
+    "meaning_ja": "熱意、打ち込み",
+    "pos": "名詞（女）",
+    "category": "社会・公共",
+    "difficulty": 3,
+    "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 8
+  },
+  {
     "word": "वर्चस्व",
     "normalized": "वर्चस्व",
     "meaning_ja": "支配、優勢",
@@ -2400,11 +2667,38 @@
     "quizWeight": 8
   },
   {
+<<<<<<< HEAD
+=======
+    "word": "सहयोगी",
+    "normalized": "सहयोगी",
+    "meaning_ja": "協力的な、協力者",
+    "pos": "形容詞・名詞",
+    "category": "社会・公共",
+    "difficulty": 3,
+    "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 8
+  },
+  {
+>>>>>>> 406c8a4 (Update news and bollywood vocab data)
     "word": "अंगदान",
     "normalized": "अंगदान",
     "meaning_ja": "臓器提供",
     "pos": "名詞（男）",
     "category": "医療・健康",
+    "difficulty": 4,
+    "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 7
+  },
+  {
+    "word": "ऊंची छलांग",
+    "normalized": "ऊंची_छलांग",
+    "meaning_ja": "大きな飛躍",
+    "pos": "名詞",
+    "category": "社会・公共",
     "difficulty": 4,
     "importance": 3,
     "sourceCount": 1,
@@ -2532,6 +2826,18 @@
     "quizWeight": 7
   },
   {
+    "word": "प्रोत्साहित",
+    "normalized": "प्रोत्साहित",
+    "meaning_ja": "励まされた、奨励された",
+    "pos": "形容詞・動詞",
+    "category": "教育",
+    "difficulty": 4,
+    "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 7
+  },
+  {
     "word": "फेस रिकग्निशन",
     "normalized": "फेस_रिकग्निशन",
     "meaning_ja": "顔認証",
@@ -2585,6 +2891,18 @@
     "meaning_ja": "再涵養; 補充",
     "pos": "名詞（男）",
     "category": "都市・環境",
+    "difficulty": 4,
+    "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 7
+  },
+  {
+    "word": "रोना-धोना",
+    "normalized": "रोनाधोना",
+    "meaning_ja": "泣き言、不平不満",
+    "pos": "名詞",
+    "category": "社会・公共",
     "difficulty": 4,
     "importance": 3,
     "sourceCount": 1,

@@ -648,10 +648,11 @@
     "importance": 3,
     "status": "active",
     "sourceArticleIds": [
-      "news_vocab_01"
+      "news_vocab_01",
+      "news_012"
     ],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 2,
+    "frequency": 2,
     "notes": ""
   },
   {
@@ -697,10 +698,11 @@
     "status": "active",
     "sourceArticleIds": [
       "news_vocab_01",
-      "news_007"
+      "news_007",
+      "news_012"
     ],
-    "sourceCount": 2,
-    "frequency": 2,
+    "sourceCount": 3,
+    "frequency": 3,
     "notes": ""
   },
   {
@@ -1551,10 +1553,18 @@
     "sourceArticleIds": [
       "news_vocab_02",
       "news_009",
+<<<<<<< HEAD
       "news_011"
     ],
     "sourceCount": 3,
     "frequency": 3,
+=======
+      "news_011",
+      "news_012"
+    ],
+    "sourceCount": 4,
+    "frequency": 4,
+>>>>>>> 406c8a4 (Update news and bollywood vocab data)
     "notes": ""
   },
   {
@@ -3639,5 +3649,376 @@
     "sourceCount": 1,
     "frequency": 1,
     "notes": ""
+<<<<<<< HEAD
+=======
+  },
+  {
+    "word": "सफाईकर्मी",
+    "normalized": "सफाईकर्मी",
+    "pos": "名詞",
+    "meaning_ja": "清掃員",
+    "category": "労働・経済",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_012"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "पगार",
+    "normalized": "पगार",
+    "pos": "名詞（女）",
+    "meaning_ja": "給料、賃金",
+    "category": "労働・経済",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_012"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "口語寄り"
+  },
+  {
+    "word": "लगन",
+    "normalized": "लगन",
+    "pos": "名詞（女）",
+    "meaning_ja": "熱意、打ち込み",
+    "category": "社会・公共",
+    "difficulty": 3,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_012"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "आर्थिक तंगी",
+    "normalized": "आर्थिक_तंगी",
+    "pos": "名詞",
+    "meaning_ja": "経済的困窮",
+    "category": "労働・経済",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_012"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "गुजारा",
+    "normalized": "गुजारा",
+    "pos": "名詞",
+    "meaning_ja": "生計、暮らし",
+    "category": "労働・経済",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_012"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "संघर्ष",
+    "normalized": "संघर्ष",
+    "pos": "名詞（男）",
+    "meaning_ja": "闘い、努力、苦闘",
+    "category": "社会・公共",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_012"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "ग्रेजुएशन",
+    "normalized": "ग्रेजुएशन",
+    "pos": "名詞",
+    "meaning_ja": "大学卒業、学位取得",
+    "category": "教育",
+    "difficulty": 2,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_012"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "दाखिला",
+    "normalized": "दाखिला",
+    "pos": "名詞",
+    "meaning_ja": "入学、登録",
+    "category": "教育",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_012"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "प्रमोट",
+    "normalized": "प्रमोट",
+    "pos": "動詞",
+    "meaning_ja": "昇進させる",
+    "category": "労働・経済",
+    "difficulty": 2,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_012"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "英語 promote"
+  },
+  {
+    "word": "मैसेंजर",
+    "normalized": "मैसेंजर",
+    "pos": "名詞",
+    "meaning_ja": "メッセンジャー係",
+    "category": "労働・経済",
+    "difficulty": 2,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_012"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "銀行職種"
+  },
+  {
+    "word": "कैशियर",
+    "normalized": "कैशियर",
+    "pos": "名詞",
+    "meaning_ja": "出納係、キャッシャー",
+    "category": "労働・経済",
+    "difficulty": 2,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_012"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "तरक्की",
+    "normalized": "तरक्की",
+    "pos": "名詞（女）",
+    "meaning_ja": "昇進、発展",
+    "category": "労働・経済",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_012"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "प्रोत्साहित",
+    "normalized": "प्रोत्साहित",
+    "pos": "形容詞・動詞",
+    "meaning_ja": "励まされた、奨励された",
+    "category": "教育",
+    "difficulty": 4,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_012"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "जबरदस्त",
+    "normalized": "जबरदस्त",
+    "pos": "形容詞",
+    "meaning_ja": "すごい、強力な",
+    "category": "社会・公共",
+    "difficulty": 2,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_012"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "口語高頻度"
+  },
+  {
+    "word": "सहयोगी",
+    "normalized": "सहयोगी",
+    "pos": "形容詞・名詞",
+    "meaning_ja": "協力的な、協力者",
+    "category": "社会・公共",
+    "difficulty": 3,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_012"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "बुकबाइंडर",
+    "normalized": "बुकबाइंडर",
+    "pos": "名詞",
+    "meaning_ja": "製本工",
+    "category": "労働・経済",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_012"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "मुकाम",
+    "normalized": "मुकाम",
+    "pos": "名詞（男）",
+    "meaning_ja": "到達点、地位",
+    "category": "社会・公共",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_012"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "साया उठ जाना",
+    "normalized": "साया_उठ_जाना",
+    "pos": "慣用句",
+    "meaning_ja": "後ろ盾を失う、保護者を失う",
+    "category": "社会・公共",
+    "difficulty": 5,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_012"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "比喩的表現"
+  },
+  {
+    "word": "दिन-रात एक करना",
+    "normalized": "दिनरात_एक_करना",
+    "pos": "動詞句",
+    "meaning_ja": "昼夜を問わず必死に働く",
+    "category": "重要動詞",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_012"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "重要慣用句"
+  },
+  {
+    "word": "रोना-धोना",
+    "normalized": "रोनाधोना",
+    "pos": "名詞",
+    "meaning_ja": "泣き言、不平不満",
+    "category": "社会・公共",
+    "difficulty": 4,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_012"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "口語表現"
+  },
+  {
+    "word": "हल निकालना",
+    "normalized": "हल_निकालना",
+    "pos": "動詞句",
+    "meaning_ja": "解決策を見つける",
+    "category": "重要動詞",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_012"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "ऊंची छलांग",
+    "normalized": "ऊंची_छलांग",
+    "pos": "名詞",
+    "meaning_ja": "大きな飛躍",
+    "category": "社会・公共",
+    "difficulty": 4,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_012"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "比喩表現"
+  },
+  {
+    "word": "जान लगाना",
+    "normalized": "जान_लगाना",
+    "pos": "動詞句",
+    "meaning_ja": "全力を尽くす",
+    "category": "重要動詞",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_012"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+>>>>>>> 406c8a4 (Update news and bollywood vocab data)
   }
 ]

@@ -1,11 +1,20 @@
 {
   "topic": "bollywood",
+<<<<<<< HEAD
   "generatedAt": "2026-05-07T23:31:07.780Z",
   "counts": {
     "vocab": 489,
     "expressions": 197,
     "fillBlanks": 196,
     "songs": 40
+=======
+  "generatedAt": "2026-05-08T21:44:08.197Z",
+  "counts": {
+    "vocab": 499,
+    "expressions": 204,
+    "fillBlanks": 203,
+    "songs": 41
+>>>>>>> 406c8a4 (Update news and bollywood vocab data)
   },
   "vocab": [
     {
@@ -211,8 +220,8 @@
       "key": "ख्वाब",
       "category": "",
       "difficulty": 1,
-      "frequency": 5,
-      "sourceCount": 5,
+      "frequency": 6,
+      "sourceCount": 6,
       "importance": 4,
       "quizWeight": 4,
       "layer": "B",
@@ -222,7 +231,8 @@
         "bolly_002",
         "bolly_022",
         "bolly_026",
-        "bolly_037"
+        "bolly_037",
+        "bolly_041"
       ]
     },
     {
@@ -801,8 +811,8 @@
       "key": "दास्तां",
       "category": "",
       "difficulty": 1,
-      "frequency": 4,
-      "sourceCount": 4,
+      "frequency": 5,
+      "sourceCount": 5,
       "importance": 4,
       "quizWeight": 4,
       "layer": "B",
@@ -811,7 +821,8 @@
         "bolly_006",
         "bolly_012",
         "bolly_013",
-        "bolly_019"
+        "bolly_019",
+        "bolly_041"
       ]
     },
     {
@@ -825,8 +836,8 @@
       "key": "दिल",
       "category": "",
       "difficulty": 1,
-      "frequency": 8,
-      "sourceCount": 8,
+      "frequency": 9,
+      "sourceCount": 9,
       "importance": 4,
       "quizWeight": 4,
       "layer": "B",
@@ -841,7 +852,8 @@
         "bolly_013",
         "bolly_011",
         "bolly_018",
-        "bolly_021"
+        "bolly_021",
+        "bolly_041"
       ]
     },
     {
@@ -1322,8 +1334,8 @@
       "key": "मंजिल",
       "category": "abstract",
       "difficulty": 2,
-      "frequency": 4,
-      "sourceCount": 4,
+      "frequency": 5,
+      "sourceCount": 5,
       "importance": 4,
       "quizWeight": 4,
       "layer": "A",
@@ -1332,7 +1344,8 @@
         "bolly_009",
         "bolly_015",
         "bolly_025",
-        "bolly_037"
+        "bolly_037",
+        "bolly_041"
       ]
     },
     {
@@ -1486,10 +1499,10 @@
       "key": "रंग",
       "category": "",
       "difficulty": 1,
-      "frequency": 3,
-      "sourceCount": 3,
+      "frequency": 4,
+      "sourceCount": 4,
       "importance": 3,
-      "quizWeight": 3.9,
+      "quizWeight": 3,
       "layer": "B",
       "tags": [
         "文化"
@@ -1497,7 +1510,8 @@
       "sourceSongIds": [
         "bolly_005",
         "bolly_009",
-        "bolly_004"
+        "bolly_004",
+        "bolly_041"
       ]
     },
     {
@@ -1792,18 +1806,18 @@
     {
       "word": "समाँ",
       "surface": "समाँ",
-      "display": "",
-      "normalized": "समाँ",
+      "display": "समाँ",
+      "normalized": "समां",
       "variants": [],
       "meaning": "雰囲気・情景",
       "pos": "名詞（男）",
-      "key": "समाँ",
+      "key": "समां",
       "category": "",
       "difficulty": 1,
-      "frequency": 3,
-      "sourceCount": 3,
+      "frequency": 4,
+      "sourceCount": 4,
       "importance": 4,
-      "quizWeight": 5.2,
+      "quizWeight": 4,
       "layer": "B",
       "tags": [
         "哲学"
@@ -1811,7 +1825,8 @@
       "sourceSongIds": [
         "bolly_008",
         "bolly_006",
-        "bolly_012"
+        "bolly_012",
+        "bolly_041"
       ]
     },
     {
@@ -1874,8 +1889,8 @@
       "key": "हवा",
       "category": "",
       "difficulty": 1,
-      "frequency": 5,
-      "sourceCount": 5,
+      "frequency": 6,
+      "sourceCount": 6,
       "importance": 3,
       "quizWeight": 3,
       "layer": "B",
@@ -1887,7 +1902,8 @@
         "bolly_009",
         "bolly_010",
         "bolly_015",
-        "bolly_021"
+        "bolly_021",
+        "bolly_041"
       ]
     },
     {
@@ -2289,8 +2305,8 @@
       "key": "पल",
       "category": "",
       "difficulty": 1,
-      "frequency": 4,
-      "sourceCount": 4,
+      "frequency": 5,
+      "sourceCount": 5,
       "importance": 3,
       "quizWeight": 3,
       "layer": "B",
@@ -2299,7 +2315,8 @@
         "bolly_001",
         "bolly_006",
         "bolly_010",
-        "bolly_012"
+        "bolly_012",
+        "bolly_041"
       ]
     },
     {
@@ -2421,16 +2438,17 @@
       "key": "रोशनी",
       "category": "",
       "difficulty": 1,
-      "frequency": 3,
-      "sourceCount": 3,
+      "frequency": 4,
+      "sourceCount": 4,
       "importance": 3,
-      "quizWeight": 3.9,
+      "quizWeight": 3,
       "layer": "B",
       "tags": [],
       "sourceSongIds": [
         "bolly_002",
         "bolly_004",
-        "bolly_021"
+        "bolly_021",
+        "bolly_041"
       ]
     },
     {
@@ -2919,16 +2937,17 @@
       "key": "याद",
       "category": "",
       "difficulty": 1,
-      "frequency": 3,
-      "sourceCount": 3,
+      "frequency": 4,
+      "sourceCount": 4,
       "importance": 3,
-      "quizWeight": 3.9,
+      "quizWeight": 3,
       "layer": "B",
       "tags": [],
       "sourceSongIds": [
         "bolly_006",
         "bolly_010",
-        "bolly_031"
+        "bolly_031",
+        "bolly_041"
       ]
     },
     {
@@ -2942,14 +2961,15 @@
       "key": "कहानी",
       "category": "",
       "difficulty": 1,
-      "frequency": 1,
-      "sourceCount": 1,
+      "frequency": 2,
+      "sourceCount": 2,
       "importance": 3,
-      "quizWeight": 6,
+      "quizWeight": 4.8,
       "layer": "B",
       "tags": [],
       "sourceSongIds": [
-        "bolly_006"
+        "bolly_006",
+        "bolly_041"
       ]
     },
     {
@@ -3073,8 +3093,8 @@
       "key": "सपना",
       "category": "",
       "difficulty": 1,
-      "frequency": 4,
-      "sourceCount": 4,
+      "frequency": 5,
+      "sourceCount": 5,
       "importance": 3,
       "quizWeight": 3,
       "layer": "B",
@@ -3083,7 +3103,8 @@
         "bolly_009",
         "bolly_017",
         "bolly_021",
-        "bolly_031"
+        "bolly_031",
+        "bolly_041"
       ]
     },
     {
@@ -4336,15 +4357,16 @@
       "key": "कारवां",
       "category": "",
       "difficulty": 1,
-      "frequency": 2,
-      "sourceCount": 2,
-      "importance": 3,
-      "quizWeight": 4.8,
+      "frequency": 3,
+      "sourceCount": 3,
+      "importance": 4,
+      "quizWeight": 5.2,
       "layer": "B",
       "tags": [],
       "sourceSongIds": [
         "bolly_019",
-        "bolly_024"
+        "bolly_024",
+        "bolly_041"
       ]
     },
     {
@@ -5045,8 +5067,8 @@
       "difficulty": 1,
       "frequency": 2,
       "sourceCount": 2,
-      "importance": 4,
-      "quizWeight": 6.4,
+      "importance": 2,
+      "quizWeight": 3.2,
       "layer": "B",
       "tags": [],
       "sourceSongIds": [
@@ -5278,15 +5300,16 @@
       "key": "राह",
       "category": "",
       "difficulty": 1,
-      "frequency": 2,
-      "sourceCount": 2,
+      "frequency": 3,
+      "sourceCount": 3,
       "importance": 3,
-      "quizWeight": 4.8,
+      "quizWeight": 3.9,
       "layer": "B",
       "tags": [],
       "sourceSongIds": [
         "bolly_023",
-        "bolly_027"
+        "bolly_027",
+        "bolly_041"
       ]
     },
     {
@@ -10643,6 +10666,223 @@
       "sourceSongIds": [
         "bolly_040"
       ]
+<<<<<<< HEAD
+=======
+    },
+    {
+      "word": "सावन",
+      "surface": "सावन",
+      "display": "सावन",
+      "normalized": "सावन",
+      "variants": [],
+      "meaning": "サーワン月、雨季",
+      "pos": "名詞（男）",
+      "key": "सावन",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 4,
+      "quizWeight": 8,
+      "layer": "B",
+      "tags": [],
+      "sourceSongIds": [
+        "bolly_041"
+      ]
+    },
+    {
+      "word": "घटा",
+      "surface": "घटा",
+      "display": "घटा",
+      "normalized": "घटा",
+      "variants": [],
+      "meaning": "雨雲、黒雲",
+      "pos": "名詞（女）",
+      "key": "घटा",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 4,
+      "quizWeight": 8,
+      "layer": "B",
+      "tags": [],
+      "sourceSongIds": [
+        "bolly_041"
+      ]
+    },
+    {
+      "word": "फ़िज़ा",
+      "surface": "फ़िज़ाओं",
+      "display": "फ़िज़ा",
+      "normalized": "फिजा",
+      "variants": [
+        "फ़िज़ाओं"
+      ],
+      "meaning": "大気、空気、雰囲気",
+      "pos": "名詞（女・複）",
+      "key": "फिजा",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 4,
+      "quizWeight": 8,
+      "layer": "B",
+      "tags": [],
+      "sourceSongIds": [
+        "bolly_041"
+      ]
+    },
+    {
+      "word": "कली",
+      "surface": "कली",
+      "display": "कली",
+      "normalized": "कली",
+      "variants": [],
+      "meaning": "つぼみ",
+      "pos": "名詞（女）",
+      "key": "कली",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 3,
+      "quizWeight": 6,
+      "layer": "B",
+      "tags": [],
+      "sourceSongIds": [
+        "bolly_041"
+      ]
+    },
+    {
+      "word": "खुशबू",
+      "surface": "खुशबू",
+      "display": "खुशबू",
+      "normalized": "खुशबू",
+      "variants": [],
+      "meaning": "香り",
+      "pos": "名詞（女）",
+      "key": "खुशबू",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 3,
+      "quizWeight": 6,
+      "layer": "B",
+      "tags": [],
+      "sourceSongIds": [
+        "bolly_041"
+      ]
+    },
+    {
+      "word": "किरण",
+      "surface": "किरण",
+      "display": "किरण",
+      "normalized": "किरण",
+      "variants": [],
+      "meaning": "光線、光",
+      "pos": "名詞（女）",
+      "key": "किरण",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 3,
+      "quizWeight": 6,
+      "layer": "B",
+      "tags": [],
+      "sourceSongIds": [
+        "bolly_041"
+      ]
+    },
+    {
+      "word": "उजली",
+      "surface": "उजली",
+      "display": "उजली",
+      "normalized": "उजला",
+      "variants": [],
+      "meaning": "明るい、白く輝く",
+      "pos": "形容詞",
+      "key": "उजला",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 3,
+      "quizWeight": 6,
+      "layer": "B",
+      "tags": [],
+      "sourceSongIds": [
+        "bolly_041"
+      ]
+    },
+    {
+      "word": "गूँजना",
+      "surface": "गूँजे",
+      "display": "गूँजना",
+      "normalized": "गूंजना",
+      "variants": [
+        "गूंजे"
+      ],
+      "meaning": "響く、こだまする",
+      "pos": "動詞",
+      "key": "गूंजना",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 3,
+      "quizWeight": 6,
+      "layer": "B",
+      "tags": [],
+      "sourceSongIds": [
+        "bolly_041"
+      ]
+    },
+    {
+      "word": "दो पल",
+      "surface": "दो पल",
+      "display": "दो पल",
+      "normalized": "दो_पल",
+      "variants": [],
+      "meaning": "ほんのひととき",
+      "pos": "名詞句",
+      "key": "दो_पल",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 2,
+      "quizWeight": 4,
+      "layer": "B",
+      "tags": [],
+      "sourceSongIds": [
+        "bolly_041"
+      ]
+    },
+    {
+      "word": "ख्वाबों का कारवाँ",
+      "surface": "ख्वाबों का कारवाँ",
+      "display": "ख्वाबों का कारवाँ",
+      "normalized": "ख्वाबों_का_कारवां",
+      "variants": [],
+      "meaning": "夢の隊列、夢の流れ",
+      "pos": "表現",
+      "key": "ख्वाबों_का_कारवां",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 4,
+      "quizWeight": 8,
+      "layer": "B",
+      "tags": [],
+      "sourceSongIds": [
+        "bolly_041"
+      ]
+>>>>>>> 406c8a4 (Update news and bollywood vocab data)
     }
   ],
   "expressions": [
@@ -13600,6 +13840,114 @@
       "difficulty": 1,
       "tags": [],
       "status": "active"
+<<<<<<< HEAD
+=======
+    },
+    {
+      "id": "bolly_041::expr::1",
+      "type": "expression",
+      "songId": "bolly_041",
+      "songTitle": "Do Pal",
+      "film": "Veer-Zaara",
+      "year": 2004,
+      "text": "दो पल रुका, ख्वाबों का कारवाँ",
+      "normalized": "दो पल रुका ख्वाबों का कारवां",
+      "meaning": "夢の隊商が、二瞬だけ立ち止まった",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": [],
+      "status": "active"
+    },
+    {
+      "id": "bolly_041::expr::2",
+      "type": "expression",
+      "songId": "bolly_041",
+      "songTitle": "Do Pal",
+      "film": "Veer-Zaara",
+      "year": 2004,
+      "text": "दो पल की थी, ये दिलों की दास्ताँ",
+      "normalized": "दो पल की थी ये दिलों की दास्तां",
+      "meaning": "これは二瞬だけの、心と心の物語だった",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": [],
+      "status": "active"
+    },
+    {
+      "id": "bolly_041::expr::3",
+      "type": "expression",
+      "songId": "bolly_041",
+      "songTitle": "Do Pal",
+      "film": "Veer-Zaara",
+      "year": 2004,
+      "text": "तुम थे या कोई उजली किरण",
+      "normalized": "तुम थे या कोई उजली किरण",
+      "meaning": "あなたは、明るい一筋の光だったのか",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": [],
+      "status": "active"
+    },
+    {
+      "id": "bolly_041::expr::4",
+      "type": "expression",
+      "songId": "bolly_041",
+      "songTitle": "Do Pal",
+      "film": "Veer-Zaara",
+      "year": 2004,
+      "text": "तुम थे या सपनों का था सावन",
+      "normalized": "तुम थे या सपनों का था सावन",
+      "meaning": "あなたは、夢の雨季だったのか",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": [],
+      "status": "active"
+    },
+    {
+      "id": "bolly_041::expr::5",
+      "type": "expression",
+      "songId": "bolly_041",
+      "songTitle": "Do Pal",
+      "film": "Veer-Zaara",
+      "year": 2004,
+      "text": "खुशियों की घटा छाई थी",
+      "normalized": "खुशियों की घटा छाई थी",
+      "meaning": "幸せの雨雲が空を覆っていた",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": [],
+      "status": "active"
+    },
+    {
+      "id": "bolly_041::expr::6",
+      "type": "expression",
+      "songId": "bolly_041",
+      "songTitle": "Do Pal",
+      "film": "Veer-Zaara",
+      "year": 2004,
+      "text": "गीत गूँजे फ़िज़ाओं में थे",
+      "normalized": "गीत गूंजे फिजाओं में थे",
+      "meaning": "歌が空気／雰囲気の中に響いていた",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": [],
+      "status": "active"
+    },
+    {
+      "id": "bolly_041::expr::7",
+      "type": "expression",
+      "songId": "bolly_041",
+      "songTitle": "Do Pal",
+      "film": "Veer-Zaara",
+      "year": 2004,
+      "text": "था जादू भरा कोई समां",
+      "normalized": "था जादू भरा कोई समां",
+      "meaning": "魔法に満ちたような雰囲気だった",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": [],
+      "status": "active"
+>>>>>>> 406c8a4 (Update news and bollywood vocab data)
     }
   ],
   "fillBlanks": [
@@ -16542,6 +16890,114 @@
       "importance": 4,
       "difficulty": 1,
       "tags": []
+<<<<<<< HEAD
+=======
+    },
+    {
+      "id": "bolly_041::expr::1::blank::1",
+      "type": "fill_blank",
+      "songId": "bolly_041",
+      "songTitle": "Do Pal",
+      "film": "Veer-Zaara",
+      "year": 2004,
+      "sourceText": "दो पल रुका, ख्वाबों का कारवाँ",
+      "prompt": "_____ पल रुका, ख्वाबों का कारवाँ",
+      "answer": "दो",
+      "meaning": "夢の隊商が、二瞬だけ立ち止まった",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "id": "bolly_041::expr::2::blank::2",
+      "type": "fill_blank",
+      "songId": "bolly_041",
+      "songTitle": "Do Pal",
+      "film": "Veer-Zaara",
+      "year": 2004,
+      "sourceText": "दो पल की थी, ये दिलों की दास्ताँ",
+      "prompt": "_____ पल की थी, ये दिलों की दास्ताँ",
+      "answer": "दो",
+      "meaning": "これは二瞬だけの、心と心の物語だった",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "id": "bolly_041::expr::3::blank::3",
+      "type": "fill_blank",
+      "songId": "bolly_041",
+      "songTitle": "Do Pal",
+      "film": "Veer-Zaara",
+      "year": 2004,
+      "sourceText": "तुम थे या कोई उजली किरण",
+      "prompt": "_____ थे या कोई उजली किरण",
+      "answer": "तुम",
+      "meaning": "あなたは、明るい一筋の光だったのか",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "id": "bolly_041::expr::4::blank::4",
+      "type": "fill_blank",
+      "songId": "bolly_041",
+      "songTitle": "Do Pal",
+      "film": "Veer-Zaara",
+      "year": 2004,
+      "sourceText": "तुम थे या सपनों का था सावन",
+      "prompt": "_____ थे या सपनों का था सावन",
+      "answer": "तुम",
+      "meaning": "あなたは、夢の雨季だったのか",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "id": "bolly_041::expr::5::blank::5",
+      "type": "fill_blank",
+      "songId": "bolly_041",
+      "songTitle": "Do Pal",
+      "film": "Veer-Zaara",
+      "year": 2004,
+      "sourceText": "खुशियों की घटा छाई थी",
+      "prompt": "_____ की घटा छाई थी",
+      "answer": "खुशियों",
+      "meaning": "幸せの雨雲が空を覆っていた",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "id": "bolly_041::expr::6::blank::6",
+      "type": "fill_blank",
+      "songId": "bolly_041",
+      "songTitle": "Do Pal",
+      "film": "Veer-Zaara",
+      "year": 2004,
+      "sourceText": "गीत गूँजे फ़िज़ाओं में थे",
+      "prompt": "_____ गूँजे फ़िज़ाओं में थे",
+      "answer": "गीत",
+      "meaning": "歌が空気／雰囲気の中に響いていた",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "id": "bolly_041::expr::7::blank::7",
+      "type": "fill_blank",
+      "songId": "bolly_041",
+      "songTitle": "Do Pal",
+      "film": "Veer-Zaara",
+      "year": 2004,
+      "sourceText": "था जादू भरा कोई समां",
+      "prompt": "_____ जादू भरा कोई समां",
+      "answer": "था",
+      "meaning": "魔法に満ちたような雰囲気だった",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": []
+>>>>>>> 406c8a4 (Update news and bollywood vocab data)
     }
   ]
 }

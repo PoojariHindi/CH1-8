@@ -155,10 +155,11 @@
       "bolly_002",
       "bolly_022",
       "bolly_026",
-      "bolly_037"
+      "bolly_037",
+      "bolly_041"
     ],
-    "sourceCount": 5,
-    "frequency": 5,
+    "sourceCount": 6,
+    "frequency": 6,
     "tags": [],
     "notes": ""
   },
@@ -594,10 +595,11 @@
       "bolly_006",
       "bolly_012",
       "bolly_013",
-      "bolly_019"
+      "bolly_019",
+      "bolly_041"
     ],
-    "sourceCount": 4,
-    "frequency": 4,
+    "sourceCount": 5,
+    "frequency": 5,
     "tags": [],
     "notes": ""
   },
@@ -616,10 +618,11 @@
       "bolly_013",
       "bolly_011",
       "bolly_018",
-      "bolly_021"
+      "bolly_021",
+      "bolly_041"
     ],
-    "sourceCount": 8,
-    "frequency": 8,
+    "sourceCount": 9,
+    "frequency": 9,
     "tags": [
       "感情"
     ],
@@ -986,15 +989,16 @@
       "bolly_009",
       "bolly_015",
       "bolly_025",
-      "bolly_037"
+      "bolly_037",
+      "bolly_041"
     ],
     "tags": [],
     "notes": "",
     "layer": "A",
     "difficulty": 2,
     "category": "abstract",
-    "sourceCount": 4,
-    "frequency": 4
+    "sourceCount": 5,
+    "frequency": 5
   },
   {
     "word": "मन",
@@ -1110,10 +1114,11 @@
     "sourceSongIds": [
       "bolly_005",
       "bolly_009",
-      "bolly_004"
+      "bolly_004",
+      "bolly_041"
     ],
-    "sourceCount": 3,
-    "frequency": 3,
+    "sourceCount": 4,
+    "frequency": 4,
     "tags": [
       "文化"
     ],
@@ -1332,18 +1337,20 @@
   },
   {
     "word": "समाँ",
-    "normalized": "समाँ",
+    "normalized": "समां",
     "pos": "名詞（男）",
+    "display": "समाँ",
     "meaning_ja": "雰囲気・情景",
     "importance": 4,
     "status": "active",
     "sourceSongIds": [
       "bolly_008",
       "bolly_006",
-      "bolly_012"
+      "bolly_012",
+      "bolly_041"
     ],
-    "sourceCount": 3,
-    "frequency": 3,
+    "sourceCount": 4,
+    "frequency": 4,
     "tags": [
       "哲学"
     ],
@@ -1398,10 +1405,11 @@
       "bolly_009",
       "bolly_010",
       "bolly_015",
-      "bolly_021"
+      "bolly_021",
+      "bolly_041"
     ],
-    "sourceCount": 5,
-    "frequency": 5,
+    "sourceCount": 6,
+    "frequency": 6,
     "tags": [
       "自然"
     ],
@@ -1743,12 +1751,13 @@
       "bolly_001",
       "bolly_006",
       "bolly_010",
-      "bolly_012"
+      "bolly_012",
+      "bolly_041"
     ],
     "tags": [],
     "notes": "",
-    "sourceCount": 4,
-    "frequency": 4
+    "sourceCount": 5,
+    "frequency": 5
   },
   {
     "word": "सिफ़ारिश",
@@ -1838,12 +1847,13 @@
     "sourceSongIds": [
       "bolly_002",
       "bolly_004",
-      "bolly_021"
+      "bolly_021",
+      "bolly_041"
     ],
     "tags": [],
     "notes": "",
-    "sourceCount": 3,
-    "frequency": 3
+    "sourceCount": 4,
+    "frequency": 4
   },
   {
     "word": "साया",
@@ -2198,12 +2208,13 @@
     "sourceSongIds": [
       "bolly_006",
       "bolly_010",
-      "bolly_031"
+      "bolly_031",
+      "bolly_041"
     ],
     "tags": [],
     "notes": "",
-    "sourceCount": 3,
-    "frequency": 3
+    "sourceCount": 4,
+    "frequency": 4
   },
   {
     "word": "कहानी",
@@ -2213,12 +2224,13 @@
     "importance": 3,
     "status": "active",
     "sourceSongIds": [
-      "bolly_006"
+      "bolly_006",
+      "bolly_041"
     ],
     "tags": [],
     "notes": "",
-    "sourceCount": 1,
-    "frequency": 1
+    "sourceCount": 2,
+    "frequency": 2
   },
   {
     "word": "आस",
@@ -2311,12 +2323,13 @@
       "bolly_009",
       "bolly_017",
       "bolly_021",
-      "bolly_031"
+      "bolly_031",
+      "bolly_041"
     ],
     "tags": [],
     "notes": "",
-    "sourceCount": 4,
-    "frequency": 4
+    "sourceCount": 5,
+    "frequency": 5
   },
   {
     "word": "भूलना",
@@ -3224,14 +3237,15 @@
     "normalized": "कारवां",
     "pos": "名詞（男）",
     "meaning_ja": "隊商、旅の一行",
-    "importance": 3,
+    "importance": 4,
     "status": "active",
     "sourceSongIds": [
       "bolly_019",
-      "bolly_024"
+      "bolly_024",
+      "bolly_041"
     ],
-    "sourceCount": 2,
-    "frequency": 2,
+    "sourceCount": 3,
+    "frequency": 3,
     "tags": [],
     "notes": ""
   },
@@ -3691,7 +3705,7 @@
     "normalized": "खुदा",
     "pos": "名詞（男）",
     "meaning_ja": "神、アッラー",
-    "importance": 4,
+    "importance": 2,
     "status": "active",
     "sourceSongIds": [
       "bolly_023",
@@ -3842,10 +3856,11 @@
     "status": "active",
     "sourceSongIds": [
       "bolly_023",
-      "bolly_027"
+      "bolly_027",
+      "bolly_041"
     ],
-    "sourceCount": 2,
-    "frequency": 2
+    "sourceCount": 3,
+    "frequency": 3
   },
   {
     "word": "जतन",
@@ -7212,5 +7227,154 @@
     "frequency": 1,
     "status": "active",
     "sourceCount": 1
+<<<<<<< HEAD
+=======
+  },
+  {
+    "word": "सावन",
+    "normalized": "सावन",
+    "display": "सावन",
+    "pos": "名詞（男）",
+    "meaning_ja": "サーワン月、雨季",
+    "importance": 4,
+    "sourceSongIds": [
+      "bolly_041"
+    ],
+    "frequency": 1,
+    "status": "active",
+    "sourceCount": 1
+  },
+  {
+    "word": "घटा",
+    "normalized": "घटा",
+    "display": "घटा",
+    "pos": "名詞（女）",
+    "meaning_ja": "雨雲、黒雲",
+    "importance": 4,
+    "sourceSongIds": [
+      "bolly_041"
+    ],
+    "frequency": 1,
+    "status": "active",
+    "sourceCount": 1
+  },
+  {
+    "word": "फ़िज़ाओं",
+    "normalized": "फिजा",
+    "display": "फ़िज़ा",
+    "variants": [
+      "फ़िज़ाओं"
+    ],
+    "pos": "名詞（女・複）",
+    "meaning_ja": "大気、空気、雰囲気",
+    "importance": 4,
+    "sourceSongIds": [
+      "bolly_041"
+    ],
+    "frequency": 1,
+    "status": "active",
+    "sourceCount": 1
+  },
+  {
+    "word": "कली",
+    "normalized": "कली",
+    "display": "कली",
+    "pos": "名詞（女）",
+    "meaning_ja": "つぼみ",
+    "importance": 3,
+    "sourceSongIds": [
+      "bolly_041"
+    ],
+    "frequency": 1,
+    "status": "active",
+    "sourceCount": 1
+  },
+  {
+    "word": "खुशबू",
+    "normalized": "खुशबू",
+    "display": "खुशबू",
+    "pos": "名詞（女）",
+    "meaning_ja": "香り",
+    "importance": 3,
+    "sourceSongIds": [
+      "bolly_041"
+    ],
+    "frequency": 1,
+    "status": "active",
+    "sourceCount": 1
+  },
+  {
+    "word": "किरण",
+    "normalized": "किरण",
+    "display": "किरण",
+    "pos": "名詞（女）",
+    "meaning_ja": "光線、光",
+    "importance": 3,
+    "sourceSongIds": [
+      "bolly_041"
+    ],
+    "frequency": 1,
+    "status": "active",
+    "sourceCount": 1
+  },
+  {
+    "word": "उजली",
+    "normalized": "उजला",
+    "display": "उजली",
+    "pos": "形容詞",
+    "meaning_ja": "明るい、白く輝く",
+    "importance": 3,
+    "sourceSongIds": [
+      "bolly_041"
+    ],
+    "frequency": 1,
+    "status": "active",
+    "sourceCount": 1
+  },
+  {
+    "word": "गूँजे",
+    "normalized": "गूंजना",
+    "display": "गूँजना",
+    "variants": [
+      "गूंजे"
+    ],
+    "pos": "動詞",
+    "meaning_ja": "響く、こだまする",
+    "importance": 3,
+    "sourceSongIds": [
+      "bolly_041"
+    ],
+    "frequency": 1,
+    "status": "active",
+    "sourceCount": 1
+  },
+  {
+    "word": "दो पल",
+    "normalized": "दो_पल",
+    "display": "दो पल",
+    "pos": "名詞句",
+    "meaning_ja": "ほんのひととき",
+    "importance": 2,
+    "sourceSongIds": [
+      "bolly_041"
+    ],
+    "frequency": 1,
+    "status": "active",
+    "sourceCount": 1
+  },
+  {
+    "word": "ख्वाबों का कारवाँ",
+    "normalized": "ख्वाबों_का_कारवां",
+    "display": "ख्वाबों का कारवाँ",
+    "pos": "表現",
+    "meaning_ja": "夢の隊列、夢の流れ",
+    "importance": 4,
+    "sourceSongIds": [
+      "bolly_041"
+    ],
+    "frequency": 1,
+    "status": "active",
+    "sourceCount": 1
+>>>>>>> 406c8a4 (Update news and bollywood vocab data)
   }
 ]

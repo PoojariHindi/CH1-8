@@ -957,5 +957,33 @@
     ],
     "key_phrase": "दीदी तेरा देवर दिवाना",
     "status": "processed"
+<<<<<<< HEAD
+=======
+  },
+  {
+    "id": "bolly_041",
+    "title": "Do Pal",
+    "film": "Veer-Zaara",
+    "year": 2004,
+    "singer": [
+      "Lata Mangeshkar",
+      "Sonu Nigam"
+    ],
+    "lyricist": [
+      "Javed Akhtar"
+    ],
+    "composer": [
+      "Late Madan Mohan"
+    ],
+    "notes": [
+      "シャールク"
+    ],
+    "tags": [
+      "恋愛",
+      "別れ"
+    ],
+    "key_phrase": "दो पल रुका, ख्वाबों का कारवाँ",
+    "status": "processed"
+>>>>>>> 406c8a4 (Update news and bollywood vocab data)
   }
 ]
