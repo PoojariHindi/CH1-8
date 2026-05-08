@@ -932,5 +932,30 @@
     ],
     "key_phrase": "बंदे हैं हम उसके, हमपे किसका ज़ोर",
     "status": "processed"
+  },
+  {
+    "id": "bolly_040",
+    "title": "Didi Tera Devar Deewana",
+    "film": "Hum Aapke Hain Koun",
+    "year": 1994,
+    "singer": [
+      "Lata Mangeshkar",
+      "S. P. Balasubramaniam"
+    ],
+    "lyricist": [
+      "Dev Kohli"
+    ],
+    "composer": [
+      "Raamlaxman"
+    ],
+    "notes": [
+      "サルマン"
+    ],
+    "tags": [
+      "結婚式",
+      "家族"
+    ],
+    "key_phrase": "दीदी तेरा देवर दिवाना",
+    "status": "processed"
   }
 ]

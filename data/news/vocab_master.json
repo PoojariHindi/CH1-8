@@ -778,10 +778,11 @@
     "importance": 4,
     "status": "active",
     "sourceArticleIds": [
-      "news_vocab_02"
+      "news_vocab_02",
+      "news_011"
     ],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 2,
+    "frequency": 2,
     "notes": ""
   },
   {
@@ -811,10 +812,11 @@
     "status": "active",
     "sourceArticleIds": [
       "news_vocab_01",
-      "news_vocab_02"
+      "news_vocab_02",
+      "news_011"
     ],
-    "sourceCount": 2,
-    "frequency": 2,
+    "sourceCount": 3,
+    "frequency": 3,
     "notes": ""
   },
   {
@@ -925,10 +927,11 @@
     "status": "active",
     "sourceArticleIds": [
       "news_vocab_02",
-      "news_010"
+      "news_010",
+      "news_011"
     ],
-    "sourceCount": 2,
-    "frequency": 2,
+    "sourceCount": 3,
+    "frequency": 3,
     "notes": ""
   },
   {
@@ -942,10 +945,11 @@
     "status": "active",
     "sourceArticleIds": [
       "news_vocab_02",
-      "news_007"
+      "news_007",
+      "news_011"
     ],
-    "sourceCount": 2,
-    "frequency": 2,
+    "sourceCount": 3,
+    "frequency": 3,
     "notes": ""
   },
   {
@@ -1171,10 +1175,11 @@
     "importance": 4,
     "status": "active",
     "sourceArticleIds": [
-      "news_vocab_02"
+      "news_vocab_02",
+      "news_011"
     ],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 2,
+    "frequency": 2,
     "notes": ""
   },
   {
@@ -1545,10 +1550,11 @@
     "status": "active",
     "sourceArticleIds": [
       "news_vocab_02",
-      "news_009"
+      "news_009",
+      "news_011"
     ],
-    "sourceCount": 2,
-    "frequency": 2,
+    "sourceCount": 3,
+    "frequency": 3,
     "notes": ""
   },
   {
@@ -3409,5 +3415,229 @@
     "sourceCount": 1,
     "frequency": 1,
     "notes": "Central Bureau of Investigation"
+  },
+  {
+    "word": "गर्भपात",
+    "normalized": "गर्भपात",
+    "pos": "名詞（男）",
+    "meaning_ja": "中絶、妊娠中絶",
+    "category": "医療・健康",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_011"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "गर्भ समापन",
+    "normalized": "गर्भ_समापन",
+    "pos": "名詞",
+    "meaning_ja": "妊娠終了、中絶処置",
+    "category": "医療・健康",
+    "difficulty": 5,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_011"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "医療・法的文脈で頻出"
+  },
+  {
+    "word": "दुष्कर्म",
+    "normalized": "दुष्कर्म",
+    "pos": "名詞（男）",
+    "meaning_ja": "性的暴行、レイプ",
+    "category": "事件・事故",
+    "difficulty": 5,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_011"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "ニュース報道用語"
+  },
+  {
+    "word": "किशोरी",
+    "normalized": "किशोरी",
+    "pos": "名詞（女）",
+    "meaning_ja": "少女、ティーンの女の子",
+    "category": "社会・公共",
+    "difficulty": 3,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_011"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "चिकित्सकीय",
+    "normalized": "चिकित्सकीय",
+    "pos": "形容詞",
+    "meaning_ja": "医学的な、医療上の",
+    "category": "医療・健康",
+    "difficulty": 5,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_011"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "समयपूर्व",
+    "normalized": "समयपूर्व",
+    "pos": "形容詞",
+    "meaning_ja": "予定より早い、早産の",
+    "category": "医療・健康",
+    "difficulty": 4,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_011"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "नवजात",
+    "normalized": "नवजात",
+    "pos": "名詞",
+    "meaning_ja": "新生児",
+    "category": "医療・健康",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_011"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "पीड़िता",
+    "normalized": "पीड़िता",
+    "pos": "名詞（女）",
+    "meaning_ja": "被害女性、被害者",
+    "category": "事件・事故",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_011"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "नाबालिग",
+    "normalized": "नाबालिग",
+    "pos": "形容詞・名詞",
+    "meaning_ja": "未成年の、未成年者",
+    "category": "裁判・法・選挙",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_011"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "गर्भावस्था",
+    "normalized": "गर्भावस्था",
+    "pos": "名詞（女）",
+    "meaning_ja": "妊娠、妊娠状態",
+    "category": "医療・健康",
+    "difficulty": 5,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_011"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "विशेषज्ञ",
+    "normalized": "विशेषज्ञ",
+    "pos": "名詞",
+    "meaning_ja": "専門家",
+    "category": "医療・健康",
+    "difficulty": 3,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_011"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "संरक्षण",
+    "normalized": "संरक्षण",
+    "pos": "名詞（男）",
+    "meaning_ja": "保護、保全",
+    "category": "社会・公共",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_011"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "दत्तक ग्रहण",
+    "normalized": "दत्तक_ग्रहण",
+    "pos": "名詞",
+    "meaning_ja": "養子縁組",
+    "category": "社会・公共",
+    "difficulty": 5,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_011"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "संवेदनशील",
+    "normalized": "संवेदनशील",
+    "pos": "形容詞",
+    "meaning_ja": "敏感な、繊細な",
+    "category": "社会・公共",
+    "difficulty": 4,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_011"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
   }
 ]

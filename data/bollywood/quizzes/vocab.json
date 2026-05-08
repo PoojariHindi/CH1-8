@@ -1,11 +1,11 @@
 {
   "topic": "bollywood",
-  "generatedAt": "2026-05-06T01:03:56.518Z",
+  "generatedAt": "2026-05-07T23:31:07.780Z",
   "counts": {
-    "vocab": 467,
-    "expressions": 191,
-    "fillBlanks": 190,
-    "songs": 39
+    "vocab": 489,
+    "expressions": 197,
+    "fillBlanks": 196,
+    "songs": 40
   },
   "vocab": [
     {
@@ -2747,14 +2747,15 @@
       "key": "मिट्टी",
       "category": "",
       "difficulty": 1,
-      "frequency": 1,
-      "sourceCount": 1,
+      "frequency": 2,
+      "sourceCount": 2,
       "importance": 3,
-      "quizWeight": 6,
+      "quizWeight": 4.8,
       "layer": "B",
       "tags": [],
       "sourceSongIds": [
-        "bolly_005"
+        "bolly_005",
+        "bolly_040"
       ]
     },
     {
@@ -7032,14 +7033,15 @@
       "key": "अनाड़ी",
       "category": "",
       "difficulty": 1,
-      "frequency": 1,
-      "sourceCount": 1,
+      "frequency": 2,
+      "sourceCount": 2,
       "importance": 3,
-      "quizWeight": 6,
+      "quizWeight": 4.8,
       "layer": "B",
       "tags": [],
       "sourceSongIds": [
-        "bolly_028"
+        "bolly_028",
+        "bolly_040"
       ]
     },
     {
@@ -7666,15 +7668,16 @@
       "key": "दीवाना",
       "category": "",
       "difficulty": 1,
-      "frequency": 2,
-      "sourceCount": 2,
+      "frequency": 3,
+      "sourceCount": 3,
       "importance": 4,
-      "quizWeight": 6.4,
+      "quizWeight": 5.2,
       "layer": "B",
       "tags": [],
       "sourceSongIds": [
         "bolly_029",
-        "bolly_031"
+        "bolly_031",
+        "bolly_040"
       ]
     },
     {
@@ -9796,14 +9799,15 @@
       "key": "मचलना",
       "category": "",
       "difficulty": 1,
-      "frequency": 1,
-      "sourceCount": 1,
+      "frequency": 2,
+      "sourceCount": 2,
       "importance": 4,
-      "quizWeight": 8,
+      "quizWeight": 6.4,
       "layer": "B",
       "tags": [],
       "sourceSongIds": [
-        "bolly_038"
+        "bolly_038",
+        "bolly_040"
       ]
     },
     {
@@ -9901,14 +9905,15 @@
       "key": "बंदा",
       "category": "",
       "difficulty": 1,
-      "frequency": 1,
-      "sourceCount": 1,
+      "frequency": 2,
+      "sourceCount": 2,
       "importance": 4,
-      "quizWeight": 8,
+      "quizWeight": 6.4,
       "layer": "B",
       "tags": [],
       "sourceSongIds": [
-        "bolly_039"
+        "bolly_039",
+        "bolly_040"
       ]
     },
     {
@@ -10164,6 +10169,479 @@
       "tags": [],
       "sourceSongIds": [
         "bolly_039"
+      ]
+    },
+    {
+      "word": "देवर",
+      "surface": "देवर",
+      "display": "देवर",
+      "normalized": "देवर",
+      "variants": [],
+      "meaning": "夫の弟、義弟",
+      "pos": "名詞（男）",
+      "key": "देवर",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 4,
+      "quizWeight": 8,
+      "layer": "B",
+      "tags": [],
+      "sourceSongIds": [
+        "bolly_040"
+      ]
+    },
+    {
+      "word": "कुड़ी",
+      "surface": "कुड़ियों",
+      "display": "कुड़ी",
+      "normalized": "कुड़ी",
+      "variants": [],
+      "meaning": "女の子たち（パンジャーブ語系）",
+      "pos": "名詞（女・複）",
+      "key": "कुड़ी",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 4,
+      "quizWeight": 8,
+      "layer": "B",
+      "tags": [],
+      "sourceSongIds": [
+        "bolly_040"
+      ]
+    },
+    {
+      "word": "दाना",
+      "surface": "दाना",
+      "display": "दाना",
+      "normalized": "दाना",
+      "variants": [],
+      "meaning": "粒、餌",
+      "pos": "名詞（男）",
+      "key": "दाना",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 3,
+      "quizWeight": 6,
+      "layer": "B",
+      "tags": [],
+      "sourceSongIds": [
+        "bolly_040"
+      ]
+    },
+    {
+      "word": "धंधा",
+      "surface": "धंधा",
+      "display": "धंधा",
+      "normalized": "धंधा",
+      "variants": [],
+      "meaning": "商売、やり口",
+      "pos": "名詞（男）",
+      "key": "धंधा",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 3,
+      "quizWeight": 6,
+      "layer": "B",
+      "tags": [],
+      "sourceSongIds": [
+        "bolly_040"
+      ]
+    },
+    {
+      "word": "इमली",
+      "surface": "इमली",
+      "display": "इमली",
+      "normalized": "इमली",
+      "variants": [],
+      "meaning": "タマリンド",
+      "pos": "名詞（女）",
+      "key": "इमली",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 3,
+      "quizWeight": 6,
+      "layer": "B",
+      "tags": [],
+      "sourceSongIds": [
+        "bolly_040"
+      ]
+    },
+    {
+      "word": "छुहारा",
+      "surface": "छुहारे",
+      "display": "छुहारा",
+      "normalized": "छुहारा",
+      "variants": [],
+      "meaning": "干しデーツ",
+      "pos": "名詞（男・複）",
+      "key": "छुहारा",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 4,
+      "quizWeight": 8,
+      "layer": "B",
+      "tags": [],
+      "sourceSongIds": [
+        "bolly_040"
+      ]
+    },
+    {
+      "word": "खरबूजा",
+      "surface": "खरबुजा",
+      "display": "खरबूजा",
+      "normalized": "खरबूजा",
+      "variants": [
+        "खरबुजा"
+      ],
+      "meaning": "メロン",
+      "pos": "名詞（男）",
+      "key": "खरबूजा",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 3,
+      "quizWeight": 6,
+      "layer": "B",
+      "tags": [],
+      "sourceSongIds": [
+        "bolly_040"
+      ]
+    },
+    {
+      "word": "नींबू",
+      "surface": "नींबू",
+      "display": "नींबू",
+      "normalized": "नींबू",
+      "variants": [],
+      "meaning": "レモン",
+      "pos": "名詞（男）",
+      "key": "नींबू",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 3,
+      "quizWeight": 6,
+      "layer": "B",
+      "tags": [],
+      "sourceSongIds": [
+        "bolly_040"
+      ]
+    },
+    {
+      "word": "पगला",
+      "surface": "पगला",
+      "display": "पगला",
+      "normalized": "पगला",
+      "variants": [],
+      "meaning": "おかしな、気の変な人",
+      "pos": "形容詞・名詞",
+      "key": "पगला",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 3,
+      "quizWeight": 6,
+      "layer": "B",
+      "tags": [],
+      "sourceSongIds": [
+        "bolly_040"
+      ]
+    },
+    {
+      "word": "बताशा",
+      "surface": "बताशे",
+      "display": "बताशा",
+      "normalized": "बताशा",
+      "variants": [],
+      "meaning": "砂糖菓子",
+      "pos": "名詞（男・複）",
+      "key": "बताशा",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 4,
+      "quizWeight": 8,
+      "layer": "B",
+      "tags": [],
+      "sourceSongIds": [
+        "bolly_040"
+      ]
+    },
+    {
+      "word": "खटाई",
+      "surface": "खटाई",
+      "display": "खटाई",
+      "normalized": "खटाई",
+      "variants": [],
+      "meaning": "酸味のあるもの、酸っぱい食べ物",
+      "pos": "名詞（女）",
+      "key": "खटाई",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 3,
+      "quizWeight": 6,
+      "layer": "B",
+      "tags": [],
+      "sourceSongIds": [
+        "bolly_040"
+      ]
+    },
+    {
+      "word": "मिठाई",
+      "surface": "मिठाई",
+      "display": "मिठाई",
+      "normalized": "मिठाई",
+      "variants": [],
+      "meaning": "甘い菓子、インド菓子",
+      "pos": "名詞（女）",
+      "key": "मिठाई",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 3,
+      "quizWeight": 6,
+      "layer": "B",
+      "tags": [],
+      "sourceSongIds": [
+        "bolly_040"
+      ]
+    },
+    {
+      "word": "फँसाना",
+      "surface": "फँसाना",
+      "display": "फँसाना",
+      "normalized": "फँसाना",
+      "variants": [],
+      "meaning": "引っかける、罠にはめる",
+      "pos": "他動詞",
+      "key": "फँसाना",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 3,
+      "quizWeight": 6,
+      "layer": "B",
+      "tags": [],
+      "sourceSongIds": [
+        "bolly_040"
+      ]
+    },
+    {
+      "word": "भाभी",
+      "surface": "भाभी",
+      "display": "भाभी",
+      "normalized": "भाभी",
+      "variants": [],
+      "meaning": "兄嫁、義姉",
+      "pos": "名詞（女）",
+      "key": "भाभी",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 4,
+      "quizWeight": 8,
+      "layer": "B",
+      "tags": [],
+      "sourceSongIds": [
+        "bolly_040"
+      ]
+    },
+    {
+      "word": "ज़माना",
+      "surface": "ज़माना",
+      "display": "ज़माना",
+      "normalized": "जमाना",
+      "variants": [
+        "जमाना"
+      ],
+      "meaning": "時代、世の中",
+      "pos": "名詞（男）",
+      "key": "जमाना",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 3,
+      "quizWeight": 6,
+      "layer": "B",
+      "tags": [],
+      "sourceSongIds": [
+        "bolly_040"
+      ]
+    },
+    {
+      "word": "रब्बा",
+      "surface": "रब्बा",
+      "display": "रब्बा",
+      "normalized": "रब्बा",
+      "variants": [],
+      "meaning": "神よ（パンジャーブ語風）",
+      "pos": "感嘆詞・名詞",
+      "key": "रब्बा",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 4,
+      "quizWeight": 8,
+      "layer": "B",
+      "tags": [],
+      "sourceSongIds": [
+        "bolly_040"
+      ]
+    },
+    {
+      "word": "हुक्म",
+      "surface": "हुकूम",
+      "display": "हुक्म",
+      "normalized": "हुक्म",
+      "variants": [
+        "हुकूम"
+      ],
+      "meaning": "命令、指図",
+      "pos": "名詞（男）",
+      "key": "हुक्म",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 4,
+      "quizWeight": 8,
+      "layer": "B",
+      "tags": [],
+      "sourceSongIds": [
+        "bolly_040"
+      ]
+    },
+    {
+      "word": "खतावार",
+      "surface": "खतावार",
+      "display": "खतावार",
+      "normalized": "खतावार",
+      "variants": [],
+      "meaning": "罪のある、過失のある",
+      "pos": "形容詞",
+      "key": "खतावार",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 4,
+      "quizWeight": 8,
+      "layer": "B",
+      "tags": [],
+      "sourceSongIds": [
+        "bolly_040"
+      ]
+    },
+    {
+      "word": "निभाना",
+      "surface": "निभाना",
+      "display": "निभाना",
+      "normalized": "निभाना",
+      "variants": [],
+      "meaning": "果たす、守り通す、やり遂げる",
+      "pos": "他動詞",
+      "key": "निभाना",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 4,
+      "quizWeight": 8,
+      "layer": "B",
+      "tags": [],
+      "sourceSongIds": [
+        "bolly_040"
+      ]
+    },
+    {
+      "word": "सज़ा",
+      "surface": "सज़ा",
+      "display": "सज़ा",
+      "normalized": "सजा",
+      "variants": [
+        "सजा"
+      ],
+      "meaning": "罰、処罰",
+      "pos": "名詞（女）",
+      "key": "सजा",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 3,
+      "quizWeight": 6,
+      "layer": "B",
+      "tags": [],
+      "sourceSongIds": [
+        "bolly_040"
+      ]
+    },
+    {
+      "word": "मंजूर",
+      "surface": "मँज़ूर",
+      "display": "मंजूर",
+      "normalized": "मंजूर",
+      "variants": [
+        "मँज़ूर",
+        "मंज़ूर"
+      ],
+      "meaning": "承諾された、受け入れられた",
+      "pos": "形容詞",
+      "key": "मंजूर",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 3,
+      "quizWeight": 6,
+      "layer": "B",
+      "tags": [],
+      "sourceSongIds": [
+        "bolly_040"
+      ]
+    },
+    {
+      "word": "बेगाना",
+      "surface": "बेगाना",
+      "display": "बेगाना",
+      "normalized": "बेगाना",
+      "variants": [],
+      "meaning": "よそよそしい、他人のような",
+      "pos": "形容詞・名詞",
+      "key": "बेगाना",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 4,
+      "quizWeight": 8,
+      "layer": "B",
+      "tags": [],
+      "sourceSongIds": [
+        "bolly_040"
       ]
     }
   ],
@@ -13032,6 +13510,96 @@
       "difficulty": 1,
       "tags": [],
       "status": "active"
+    },
+    {
+      "id": "bolly_040::expr::1",
+      "type": "expression",
+      "songId": "bolly_040",
+      "songTitle": "Didi Tera Devar Deewana",
+      "film": "Hum Aapke Hain Koun",
+      "year": 1994,
+      "text": "दीदी तेरा देवर दिवाना",
+      "normalized": "दीदी तेरा देवर दीवाना",
+      "meaning": "お姉さん、あなたの義弟は恋に夢中です",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": [],
+      "status": "active"
+    },
+    {
+      "id": "bolly_040::expr::2",
+      "type": "expression",
+      "songId": "bolly_040",
+      "songTitle": "Didi Tera Devar Deewana",
+      "film": "Hum Aapke Hain Koun",
+      "year": 1994,
+      "text": "कुड़ियों को डाले दाना",
+      "normalized": "कुड़ियों को दाना डालना",
+      "meaning": "女の子たちを口説く、気を引く",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": [],
+      "status": "active"
+    },
+    {
+      "id": "bolly_040::expr::3",
+      "type": "expression",
+      "songId": "bolly_040",
+      "songTitle": "Didi Tera Devar Deewana",
+      "film": "Hum Aapke Hain Koun",
+      "year": 1994,
+      "text": "धंधा है ये उसका पुराना",
+      "normalized": "धंधा है यह उसका पुराना",
+      "meaning": "これは彼の昔からのやり口だ",
+      "importance": 3,
+      "difficulty": 1,
+      "tags": [],
+      "status": "active"
+    },
+    {
+      "id": "bolly_040::expr::4",
+      "type": "expression",
+      "songId": "bolly_040",
+      "songTitle": "Didi Tera Devar Deewana",
+      "film": "Hum Aapke Hain Koun",
+      "year": 1994,
+      "text": "मुश्किल है यूँ मुझको फँसाना",
+      "normalized": "मुश्किल है यूँ मुझको फँसाना",
+      "meaning": "こんなふうに私を引っかけるのは難しい",
+      "importance": 3,
+      "difficulty": 1,
+      "tags": [],
+      "status": "active"
+    },
+    {
+      "id": "bolly_040::expr::5",
+      "type": "expression",
+      "songId": "bolly_040",
+      "songTitle": "Didi Tera Devar Deewana",
+      "film": "Hum Aapke Hain Koun",
+      "year": 1994,
+      "text": "कुड़ियों का है ज़माना",
+      "normalized": "कुड़ियों का है जमाना",
+      "meaning": "今は女の子たちの時代だ",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": [],
+      "status": "active"
+    },
+    {
+      "id": "bolly_040::expr::6",
+      "type": "expression",
+      "songId": "bolly_040",
+      "songTitle": "Didi Tera Devar Deewana",
+      "film": "Hum Aapke Hain Koun",
+      "year": 1994,
+      "text": "बन्दा है ये खुद से बेगाना",
+      "normalized": "बंदा है यह खुद से बेगाना",
+      "meaning": "この男は自分自身を見失っている",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": [],
+      "status": "active"
     }
   ],
   "fillBlanks": [
@@ -15881,6 +16449,96 @@
       "prompt": "_____ की पलकों तले, धूप बुनते हैं हम",
       "answer": "सूरज",
       "meaning": "太陽のまぶたの下で、私たちは陽射しを織る",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "id": "bolly_040::expr::1::blank::1",
+      "type": "fill_blank",
+      "songId": "bolly_040",
+      "songTitle": "Didi Tera Devar Deewana",
+      "film": "Hum Aapke Hain Koun",
+      "year": 1994,
+      "sourceText": "दीदी तेरा देवर दिवाना",
+      "prompt": "_____ तेरा देवर दिवाना",
+      "answer": "दीदी",
+      "meaning": "お姉さん、あなたの義弟は恋に夢中です",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "id": "bolly_040::expr::2::blank::2",
+      "type": "fill_blank",
+      "songId": "bolly_040",
+      "songTitle": "Didi Tera Devar Deewana",
+      "film": "Hum Aapke Hain Koun",
+      "year": 1994,
+      "sourceText": "कुड़ियों को डाले दाना",
+      "prompt": "_____ को डाले दाना",
+      "answer": "कुड़ियों",
+      "meaning": "女の子たちを口説く、気を引く",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "id": "bolly_040::expr::3::blank::3",
+      "type": "fill_blank",
+      "songId": "bolly_040",
+      "songTitle": "Didi Tera Devar Deewana",
+      "film": "Hum Aapke Hain Koun",
+      "year": 1994,
+      "sourceText": "धंधा है ये उसका पुराना",
+      "prompt": "_____ है ये उसका पुराना",
+      "answer": "धंधा",
+      "meaning": "これは彼の昔からのやり口だ",
+      "importance": 3,
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "id": "bolly_040::expr::4::blank::4",
+      "type": "fill_blank",
+      "songId": "bolly_040",
+      "songTitle": "Didi Tera Devar Deewana",
+      "film": "Hum Aapke Hain Koun",
+      "year": 1994,
+      "sourceText": "मुश्किल है यूँ मुझको फँसाना",
+      "prompt": "_____ है यूँ मुझको फँसाना",
+      "answer": "मुश्किल",
+      "meaning": "こんなふうに私を引っかけるのは難しい",
+      "importance": 3,
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "id": "bolly_040::expr::5::blank::5",
+      "type": "fill_blank",
+      "songId": "bolly_040",
+      "songTitle": "Didi Tera Devar Deewana",
+      "film": "Hum Aapke Hain Koun",
+      "year": 1994,
+      "sourceText": "कुड़ियों का है ज़माना",
+      "prompt": "_____ का है ज़माना",
+      "answer": "कुड़ियों",
+      "meaning": "今は女の子たちの時代だ",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "id": "bolly_040::expr::6::blank::6",
+      "type": "fill_blank",
+      "songId": "bolly_040",
+      "songTitle": "Didi Tera Devar Deewana",
+      "film": "Hum Aapke Hain Koun",
+      "year": 1994,
+      "sourceText": "बन्दा है ये खुद से बेगाना",
+      "prompt": "_____ है ये खुद से बेगाना",
+      "answer": "बन्दा",
+      "meaning": "この男は自分自身を見失っている",
       "importance": 4,
       "difficulty": 1,
       "tags": []

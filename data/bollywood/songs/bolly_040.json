@@ -1,0 +1,347 @@
+{
+  "id": "bolly_040",
+  "schema_version": 2,
+  "title": "Didi Tera Devar Deewana",
+  "film": "Hum Aapke Hain Koun",
+  "year": 1994,
+  "singer": [
+    "Lata Mangeshkar",
+    "S. P. Balasubramaniam"
+  ],
+  "lyricist": [
+    "Dev Kohli"
+  ],
+  "composer": [
+    "Raamlaxman"
+  ],
+  "notes": [
+    "サルマン"
+  ],
+  "tags": [
+    "結婚式",
+    "家族"
+  ],
+  "emotion": "playful_wedding_teasing",
+  "register": "playful_family_folk",
+  "key_phrase": "दीदी तेरा देवर दिवाना",
+  "expressions": [
+    {
+      "text": "दीदी तेरा देवर दिवाना",
+      "normalized": "दीदी तेरा देवर दीवाना",
+      "meaning_ja": "お姉さん、あなたの義弟は恋に夢中です",
+      "type": "key_phrase",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "कुड़ियों को डाले दाना",
+      "normalized": "कुड़ियों को दाना डालना",
+      "meaning_ja": "女の子たちを口説く、気を引く",
+      "type": "idiom",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "धंधा है ये उसका पुराना",
+      "normalized": "धंधा है यह उसका पुराना",
+      "meaning_ja": "これは彼の昔からのやり口だ",
+      "type": "expression",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "मुश्किल है यूँ मुझको फँसाना",
+      "normalized": "मुश्किल है यूँ मुझको फँसाना",
+      "meaning_ja": "こんなふうに私を引っかけるのは難しい",
+      "type": "expression",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "कुड़ियों का है ज़माना",
+      "normalized": "कुड़ियों का है जमाना",
+      "meaning_ja": "今は女の子たちの時代だ",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "बन्दा है ये खुद से बेगाना",
+      "normalized": "बंदा है यह खुद से बेगाना",
+      "meaning_ja": "この男は自分自身を見失っている",
+      "type": "poetic_expression",
+      "importance": 4,
+      "status": "active"
+    }
+  ],
+  "vocab_candidates": [
+    {
+      "word": "देवर",
+      "normalized": "देवर",
+      "pos": "名詞（男）",
+      "meaning_ja": "夫の弟、義弟",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "दिवाना",
+      "normalized": "दीवाना",
+      "display": "दीवाना",
+      "variants": [
+        "दिवाना"
+      ],
+      "pos": "形容詞・名詞",
+      "meaning_ja": "夢中の、狂った人",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "कुड़ियों",
+      "normalized": "कुड़ी",
+      "display": "कुड़ी",
+      "pos": "名詞（女・複）",
+      "meaning_ja": "女の子たち（パンジャーブ語系）",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "दाना",
+      "normalized": "दाना",
+      "pos": "名詞（男）",
+      "meaning_ja": "粒、餌",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "धंधा",
+      "normalized": "धंधा",
+      "pos": "名詞（男）",
+      "meaning_ja": "商売、やり口",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "पुराना",
+      "normalized": "पुराना",
+      "pos": "形容詞",
+      "meaning_ja": "古い、昔からの",
+      "importance": 2,
+      "status": "active"
+    },
+    {
+      "word": "इमली",
+      "normalized": "इमली",
+      "pos": "名詞（女）",
+      "meaning_ja": "タマリンド",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "छुहारे",
+      "normalized": "छुहारा",
+      "pos": "名詞（男・複）",
+      "meaning_ja": "干しデーツ",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "मचले",
+      "normalized": "मचलना",
+      "pos": "自動詞",
+      "meaning_ja": "そわそわする、心が騒ぐ",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "खरबुजा",
+      "normalized": "खरबूजा",
+      "display": "खरबूजा",
+      "variants": [
+        "खरबुजा"
+      ],
+      "pos": "名詞（男）",
+      "meaning_ja": "メロン",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "नींबू",
+      "normalized": "नींबू",
+      "pos": "名詞（男）",
+      "meaning_ja": "レモン",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "पगला",
+      "normalized": "पगला",
+      "pos": "形容詞・名詞",
+      "meaning_ja": "おかしな、気の変な人",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "मिट्टी",
+      "normalized": "मिट्टी",
+      "pos": "名詞（女）",
+      "meaning_ja": "土、粘土",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "बताशे",
+      "normalized": "बताशा",
+      "pos": "名詞（男・複）",
+      "meaning_ja": "砂糖菓子",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "अनाड़ी",
+      "normalized": "अनाड़ी",
+      "pos": "形容詞・名詞",
+      "meaning_ja": "不器用な、未熟な人",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "खटाई",
+      "normalized": "खटाई",
+      "pos": "名詞（女）",
+      "meaning_ja": "酸味のあるもの、酸っぱい食べ物",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "मिठाई",
+      "normalized": "मिठाई",
+      "pos": "名詞（女）",
+      "meaning_ja": "甘い菓子、インド菓子",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "फँसाना",
+      "normalized": "फँसाना",
+      "pos": "他動詞",
+      "meaning_ja": "引っかける、罠にはめる",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "भाभी",
+      "normalized": "भाभी",
+      "pos": "名詞（女）",
+      "meaning_ja": "兄嫁、義姉",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "बहना",
+      "normalized": "बहन",
+      "pos": "名詞（女）",
+      "meaning_ja": "妹・姉、姉妹（親しみを込めた形）",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "ज़माना",
+      "normalized": "जमाना",
+      "display": "ज़माना",
+      "variants": [
+        "जमाना"
+      ],
+      "pos": "名詞（男）",
+      "meaning_ja": "時代、世の中",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "रब्बा",
+      "normalized": "रब्बा",
+      "pos": "感嘆詞・名詞",
+      "meaning_ja": "神よ（パンジャーブ語風）",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "हुकूम",
+      "normalized": "हुक्म",
+      "display": "हुक्म",
+      "variants": [
+        "हुकूम"
+      ],
+      "pos": "名詞（男）",
+      "meaning_ja": "命令、指図",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "खतावार",
+      "normalized": "खतावार",
+      "pos": "形容詞",
+      "meaning_ja": "罪のある、過失のある",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "निभाना",
+      "normalized": "निभाना",
+      "pos": "他動詞",
+      "meaning_ja": "果たす、守り通す、やり遂げる",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "सज़ा",
+      "normalized": "सजा",
+      "display": "सज़ा",
+      "variants": [
+        "सजा"
+      ],
+      "pos": "名詞（女）",
+      "meaning_ja": "罰、処罰",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "मँज़ूर",
+      "normalized": "मंजूर",
+      "display": "मंजूर",
+      "variants": [
+        "मँज़ूर",
+        "मंज़ूर"
+      ],
+      "pos": "形容詞",
+      "meaning_ja": "承諾された、受け入れられた",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "बन्दा",
+      "normalized": "बंदा",
+      "display": "बंदा",
+      "variants": [
+        "बन्दा"
+      ],
+      "pos": "名詞（男）",
+      "meaning_ja": "人、男、しもべ",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "बेगाना",
+      "normalized": "बेगाना",
+      "pos": "形容詞・名詞",
+      "meaning_ja": "よそよそしい、他人のような",
+      "importance": 4,
+      "status": "active"
+    }
+  ],
+  "meta": {
+    "copyright_safe": true,
+    "lyrics_included": false,
+    "source_type": "manual_curated",
+    "dedupe_ready": true
+  }
+}

@@ -2072,12 +2072,13 @@
     "importance": 3,
     "status": "active",
     "sourceSongIds": [
-      "bolly_005"
+      "bolly_005",
+      "bolly_040"
     ],
     "tags": [],
     "notes": "",
-    "sourceCount": 1,
-    "frequency": 1
+    "sourceCount": 2,
+    "frequency": 2
   },
   {
     "word": "धरती",
@@ -4931,10 +4932,11 @@
     "importance": 3,
     "status": "active",
     "sourceSongIds": [
-      "bolly_028"
+      "bolly_028",
+      "bolly_040"
     ],
-    "sourceCount": 1,
-    "frequency": 1
+    "sourceCount": 2,
+    "frequency": 2
   },
   {
     "word": "पाला",
@@ -5326,10 +5328,11 @@
     "status": "active",
     "sourceSongIds": [
       "bolly_029",
-      "bolly_031"
+      "bolly_031",
+      "bolly_040"
     ],
-    "sourceCount": 2,
-    "frequency": 2
+    "sourceCount": 3,
+    "frequency": 3
   },
   {
     "word": "कजरा",
@@ -6647,10 +6650,11 @@
     "importance": 4,
     "status": "active",
     "sourceSongIds": [
-      "bolly_038"
+      "bolly_038",
+      "bolly_040"
     ],
-    "sourceCount": 1,
-    "frequency": 1
+    "sourceCount": 2,
+    "frequency": 2
   },
   {
     "word": "कुसूर",
@@ -6711,11 +6715,12 @@
     "meaning_ja": "人間、しもべ、神の僕",
     "importance": 4,
     "sourceSongIds": [
-      "bolly_039"
+      "bolly_039",
+      "bolly_040"
     ],
-    "frequency": 1,
+    "frequency": 2,
     "status": "active",
-    "sourceCount": 1
+    "sourceCount": 2
   },
   {
     "word": "उम्मीदों",
@@ -6879,6 +6884,330 @@
     "importance": 3,
     "sourceSongIds": [
       "bolly_039"
+    ],
+    "frequency": 1,
+    "status": "active",
+    "sourceCount": 1
+  },
+  {
+    "word": "देवर",
+    "normalized": "देवर",
+    "display": "देवर",
+    "pos": "名詞（男）",
+    "meaning_ja": "夫の弟、義弟",
+    "importance": 4,
+    "sourceSongIds": [
+      "bolly_040"
+    ],
+    "frequency": 1,
+    "status": "active",
+    "sourceCount": 1
+  },
+  {
+    "word": "कुड़ियों",
+    "normalized": "कुड़ी",
+    "display": "कुड़ी",
+    "pos": "名詞（女・複）",
+    "meaning_ja": "女の子たち（パンジャーブ語系）",
+    "importance": 4,
+    "sourceSongIds": [
+      "bolly_040"
+    ],
+    "frequency": 1,
+    "status": "active",
+    "sourceCount": 1
+  },
+  {
+    "word": "दाना",
+    "normalized": "दाना",
+    "display": "दाना",
+    "pos": "名詞（男）",
+    "meaning_ja": "粒、餌",
+    "importance": 3,
+    "sourceSongIds": [
+      "bolly_040"
+    ],
+    "frequency": 1,
+    "status": "active",
+    "sourceCount": 1
+  },
+  {
+    "word": "धंधा",
+    "normalized": "धंधा",
+    "display": "धंधा",
+    "pos": "名詞（男）",
+    "meaning_ja": "商売、やり口",
+    "importance": 3,
+    "sourceSongIds": [
+      "bolly_040"
+    ],
+    "frequency": 1,
+    "status": "active",
+    "sourceCount": 1
+  },
+  {
+    "word": "इमली",
+    "normalized": "इमली",
+    "display": "इमली",
+    "pos": "名詞（女）",
+    "meaning_ja": "タマリンド",
+    "importance": 3,
+    "sourceSongIds": [
+      "bolly_040"
+    ],
+    "frequency": 1,
+    "status": "active",
+    "sourceCount": 1
+  },
+  {
+    "word": "छुहारे",
+    "normalized": "छुहारा",
+    "display": "छुहारा",
+    "pos": "名詞（男・複）",
+    "meaning_ja": "干しデーツ",
+    "importance": 4,
+    "sourceSongIds": [
+      "bolly_040"
+    ],
+    "frequency": 1,
+    "status": "active",
+    "sourceCount": 1
+  },
+  {
+    "word": "खरबुजा",
+    "normalized": "खरबूजा",
+    "display": "खरबूजा",
+    "variants": [
+      "खरबुजा"
+    ],
+    "pos": "名詞（男）",
+    "meaning_ja": "メロン",
+    "importance": 3,
+    "sourceSongIds": [
+      "bolly_040"
+    ],
+    "frequency": 1,
+    "status": "active",
+    "sourceCount": 1
+  },
+  {
+    "word": "नींबू",
+    "normalized": "नींबू",
+    "display": "नींबू",
+    "pos": "名詞（男）",
+    "meaning_ja": "レモン",
+    "importance": 3,
+    "sourceSongIds": [
+      "bolly_040"
+    ],
+    "frequency": 1,
+    "status": "active",
+    "sourceCount": 1
+  },
+  {
+    "word": "पगला",
+    "normalized": "पगला",
+    "display": "पगला",
+    "pos": "形容詞・名詞",
+    "meaning_ja": "おかしな、気の変な人",
+    "importance": 3,
+    "sourceSongIds": [
+      "bolly_040"
+    ],
+    "frequency": 1,
+    "status": "active",
+    "sourceCount": 1
+  },
+  {
+    "word": "बताशे",
+    "normalized": "बताशा",
+    "display": "बताशा",
+    "pos": "名詞（男・複）",
+    "meaning_ja": "砂糖菓子",
+    "importance": 4,
+    "sourceSongIds": [
+      "bolly_040"
+    ],
+    "frequency": 1,
+    "status": "active",
+    "sourceCount": 1
+  },
+  {
+    "word": "खटाई",
+    "normalized": "खटाई",
+    "display": "खटाई",
+    "pos": "名詞（女）",
+    "meaning_ja": "酸味のあるもの、酸っぱい食べ物",
+    "importance": 3,
+    "sourceSongIds": [
+      "bolly_040"
+    ],
+    "frequency": 1,
+    "status": "active",
+    "sourceCount": 1
+  },
+  {
+    "word": "मिठाई",
+    "normalized": "मिठाई",
+    "display": "मिठाई",
+    "pos": "名詞（女）",
+    "meaning_ja": "甘い菓子、インド菓子",
+    "importance": 3,
+    "sourceSongIds": [
+      "bolly_040"
+    ],
+    "frequency": 1,
+    "status": "active",
+    "sourceCount": 1
+  },
+  {
+    "word": "फँसाना",
+    "normalized": "फँसाना",
+    "display": "फँसाना",
+    "pos": "他動詞",
+    "meaning_ja": "引っかける、罠にはめる",
+    "importance": 3,
+    "sourceSongIds": [
+      "bolly_040"
+    ],
+    "frequency": 1,
+    "status": "active",
+    "sourceCount": 1
+  },
+  {
+    "word": "भाभी",
+    "normalized": "भाभी",
+    "display": "भाभी",
+    "pos": "名詞（女）",
+    "meaning_ja": "兄嫁、義姉",
+    "importance": 4,
+    "sourceSongIds": [
+      "bolly_040"
+    ],
+    "frequency": 1,
+    "status": "active",
+    "sourceCount": 1
+  },
+  {
+    "word": "ज़माना",
+    "normalized": "जमाना",
+    "display": "ज़माना",
+    "variants": [
+      "जमाना"
+    ],
+    "pos": "名詞（男）",
+    "meaning_ja": "時代、世の中",
+    "importance": 3,
+    "sourceSongIds": [
+      "bolly_040"
+    ],
+    "frequency": 1,
+    "status": "active",
+    "sourceCount": 1
+  },
+  {
+    "word": "रब्बा",
+    "normalized": "रब्बा",
+    "display": "रब्बा",
+    "pos": "感嘆詞・名詞",
+    "meaning_ja": "神よ（パンジャーブ語風）",
+    "importance": 4,
+    "sourceSongIds": [
+      "bolly_040"
+    ],
+    "frequency": 1,
+    "status": "active",
+    "sourceCount": 1
+  },
+  {
+    "word": "हुकूम",
+    "normalized": "हुक्म",
+    "display": "हुक्म",
+    "variants": [
+      "हुकूम"
+    ],
+    "pos": "名詞（男）",
+    "meaning_ja": "命令、指図",
+    "importance": 4,
+    "sourceSongIds": [
+      "bolly_040"
+    ],
+    "frequency": 1,
+    "status": "active",
+    "sourceCount": 1
+  },
+  {
+    "word": "खतावार",
+    "normalized": "खतावार",
+    "display": "खतावार",
+    "pos": "形容詞",
+    "meaning_ja": "罪のある、過失のある",
+    "importance": 4,
+    "sourceSongIds": [
+      "bolly_040"
+    ],
+    "frequency": 1,
+    "status": "active",
+    "sourceCount": 1
+  },
+  {
+    "word": "निभाना",
+    "normalized": "निभाना",
+    "display": "निभाना",
+    "pos": "他動詞",
+    "meaning_ja": "果たす、守り通す、やり遂げる",
+    "importance": 4,
+    "sourceSongIds": [
+      "bolly_040"
+    ],
+    "frequency": 1,
+    "status": "active",
+    "sourceCount": 1
+  },
+  {
+    "word": "सज़ा",
+    "normalized": "सजा",
+    "display": "सज़ा",
+    "variants": [
+      "सजा"
+    ],
+    "pos": "名詞（女）",
+    "meaning_ja": "罰、処罰",
+    "importance": 3,
+    "sourceSongIds": [
+      "bolly_040"
+    ],
+    "frequency": 1,
+    "status": "active",
+    "sourceCount": 1
+  },
+  {
+    "word": "मँज़ूर",
+    "normalized": "मंजूर",
+    "display": "मंजूर",
+    "variants": [
+      "मँज़ूर",
+      "मंज़ूर"
+    ],
+    "pos": "形容詞",
+    "meaning_ja": "承諾された、受け入れられた",
+    "importance": 3,
+    "sourceSongIds": [
+      "bolly_040"
+    ],
+    "frequency": 1,
+    "status": "active",
+    "sourceCount": 1
+  },
+  {
+    "word": "बेगाना",
+    "normalized": "बेगाना",
+    "display": "बेगाना",
+    "pos": "形容詞・名詞",
+    "meaning_ja": "よそよそしい、他人のような",
+    "importance": 4,
+    "sourceSongIds": [
+      "bolly_040"
     ],
     "frequency": 1,
     "status": "active",

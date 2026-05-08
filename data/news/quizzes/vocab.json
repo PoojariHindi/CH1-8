@@ -48,6 +48,18 @@
     "quizWeight": 13
   },
   {
+    "word": "प्रक्रिया",
+    "normalized": "प्रक्रिया",
+    "meaning_ja": "手続き、過程、プロセス",
+    "pos": "名詞（女）",
+    "category": "行政・制度",
+    "difficulty": 2,
+    "importance": 4,
+    "sourceCount": 3,
+    "frequency": 3,
+    "quizWeight": 13
+  },
+  {
     "word": "फंड",
     "normalized": "फंड",
     "meaning_ja": "基金、資金",
@@ -63,6 +75,18 @@
     "word": "अधिकारी",
     "normalized": "अधिकारी",
     "meaning_ja": "役人、職員",
+    "pos": "名詞",
+    "category": "行政・制度",
+    "difficulty": 2,
+    "importance": 4,
+    "sourceCount": 2,
+    "frequency": 2,
+    "quizWeight": 12
+  },
+  {
+    "word": "अनुमति",
+    "normalized": "अनुमति",
+    "meaning_ja": "許可",
     "pos": "名詞",
     "category": "行政・制度",
     "difficulty": 2,
@@ -108,15 +132,27 @@
     "quizWeight": 12
   },
   {
-    "word": "प्रक्रिया",
-    "normalized": "प्रक्रिया",
-    "meaning_ja": "手続き、過程、プロセス",
-    "pos": "名詞（女）",
+    "word": "निगरानी",
+    "normalized": "निगरानी",
+    "meaning_ja": "監視、モニタリング",
+    "pos": "名詞",
     "category": "行政・制度",
-    "difficulty": 2,
+    "difficulty": 3,
     "importance": 4,
-    "sourceCount": 2,
-    "frequency": 2,
+    "sourceCount": 3,
+    "frequency": 3,
+    "quizWeight": 12
+  },
+  {
+    "word": "निर्देश",
+    "normalized": "निर्देश",
+    "meaning_ja": "指示、指令",
+    "pos": "名詞",
+    "category": "行政・制度",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 3,
+    "frequency": 3,
     "quizWeight": 12
   },
   {
@@ -192,6 +228,18 @@
     "quizWeight": 12
   },
   {
+    "word": "सुप्रीम कोर्ट",
+    "normalized": "सुप्रीम_कोर्ट",
+    "meaning_ja": "最高裁判所",
+    "pos": "名詞",
+    "category": "裁判・法・選挙",
+    "difficulty": 2,
+    "importance": 4,
+    "sourceCount": 2,
+    "frequency": 2,
+    "quizWeight": 12
+  },
+  {
     "word": "हिंसा",
     "normalized": "हिंसा",
     "meaning_ja": "暴力",
@@ -221,18 +269,6 @@
     "meaning_ja": "権利、権限",
     "pos": "名詞",
     "category": "裁判・法・選挙",
-    "difficulty": 2,
-    "importance": 4,
-    "sourceCount": 1,
-    "frequency": 1,
-    "quizWeight": 11
-  },
-  {
-    "word": "अनुमति",
-    "normalized": "अनुमति",
-    "meaning_ja": "許可",
-    "pos": "名詞",
-    "category": "行政・制度",
     "difficulty": 2,
     "importance": 4,
     "sourceCount": 1,
@@ -357,30 +393,6 @@
     "importance": 4,
     "sourceCount": 1,
     "frequency": 1,
-    "quizWeight": 11
-  },
-  {
-    "word": "निगरानी",
-    "normalized": "निगरानी",
-    "meaning_ja": "監視、モニタリング",
-    "pos": "名詞",
-    "category": "行政・制度",
-    "difficulty": 3,
-    "importance": 4,
-    "sourceCount": 2,
-    "frequency": 2,
-    "quizWeight": 11
-  },
-  {
-    "word": "निर्देश",
-    "normalized": "निर्देश",
-    "meaning_ja": "指示、指令",
-    "pos": "名詞",
-    "category": "行政・制度",
-    "difficulty": 3,
-    "importance": 4,
-    "sourceCount": 2,
-    "frequency": 2,
     "quizWeight": 11
   },
   {
@@ -648,18 +660,6 @@
     "quizWeight": 11
   },
   {
-    "word": "सुप्रीम कोर्ट",
-    "normalized": "सुप्रीम_कोर्ट",
-    "meaning_ja": "最高裁判所",
-    "pos": "名詞",
-    "category": "裁判・法・選挙",
-    "difficulty": 2,
-    "importance": 4,
-    "sourceCount": 1,
-    "frequency": 1,
-    "quizWeight": 11
-  },
-  {
     "word": "सुविधा",
     "normalized": "सुविधा",
     "meaning_ja": "便宜、設備、機能",
@@ -669,6 +669,18 @@
     "importance": 4,
     "sourceCount": 1,
     "frequency": 1,
+    "quizWeight": 11
+  },
+  {
+    "word": "स्थिति",
+    "normalized": "स्थिति",
+    "meaning_ja": "状況、状態",
+    "pos": "名詞",
+    "category": "調査・データ",
+    "difficulty": 2,
+    "importance": 3,
+    "sourceCount": 3,
+    "frequency": 3,
     "quizWeight": 11
   },
   {
@@ -1440,18 +1452,6 @@
     "quizWeight": 10
   },
   {
-    "word": "स्थिति",
-    "normalized": "स्थिति",
-    "meaning_ja": "状況、状態",
-    "pos": "名詞",
-    "category": "調査・データ",
-    "difficulty": 2,
-    "importance": 3,
-    "sourceCount": 2,
-    "frequency": 2,
-    "quizWeight": 10
-  },
-  {
     "word": "स्वदेशी",
     "normalized": "स्वदेशी",
     "meaning_ja": "国産の、自国製の",
@@ -1656,6 +1656,42 @@
     "quizWeight": 9
   },
   {
+    "word": "गर्भ समापन",
+    "normalized": "गर्भ_समापन",
+    "meaning_ja": "妊娠終了、中絶処置",
+    "pos": "名詞",
+    "category": "医療・健康",
+    "difficulty": 5,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "गर्भपात",
+    "normalized": "गर्भपात",
+    "meaning_ja": "中絶、妊娠中絶",
+    "pos": "名詞（男）",
+    "category": "医療・健康",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "गर्भावस्था",
+    "normalized": "गर्भावस्था",
+    "meaning_ja": "妊娠、妊娠状態",
+    "pos": "名詞（女）",
+    "category": "医療・健康",
+    "difficulty": 5,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
     "word": "गुणवत्ता",
     "normalized": "गुणवत्ता",
     "meaning_ja": "品質、質",
@@ -1674,6 +1710,18 @@
     "pos": "名詞",
     "category": "行政・制度",
     "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "चिकित्सकीय",
+    "normalized": "चिकित्सकीय",
+    "meaning_ja": "医学的な、医療上の",
+    "pos": "形容詞",
+    "category": "医療・健康",
+    "difficulty": 5,
     "importance": 4,
     "sourceCount": 1,
     "frequency": 1,
@@ -1721,6 +1769,54 @@
     "meaning_ja": "破壊行為、器物損壊",
     "pos": "名詞",
     "category": "事件・事故",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "दत्तक ग्रहण",
+    "normalized": "दत्तक_ग्रहण",
+    "meaning_ja": "養子縁組",
+    "pos": "名詞",
+    "category": "社会・公共",
+    "difficulty": 5,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "दुष्कर्म",
+    "normalized": "दुष्कर्म",
+    "meaning_ja": "性的暴行、レイプ",
+    "pos": "名詞（男）",
+    "category": "事件・事故",
+    "difficulty": 5,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "नवजात",
+    "normalized": "नवजात",
+    "meaning_ja": "新生児",
+    "pos": "名詞",
+    "category": "医療・健康",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "नाबालिग",
+    "normalized": "नाबालिग",
+    "meaning_ja": "未成年の、未成年者",
+    "pos": "形容詞・名詞",
+    "category": "裁判・法・選挙",
     "difficulty": 4,
     "importance": 4,
     "sourceCount": 1,
@@ -1805,6 +1901,18 @@
     "meaning_ja": "カリキュラム、課程",
     "pos": "名詞（男）",
     "category": "教育",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "पीड़िता",
+    "normalized": "पीड़िता",
+    "meaning_ja": "被害女性、被害者",
+    "pos": "名詞（女）",
+    "category": "事件・事故",
     "difficulty": 4,
     "importance": 4,
     "sourceCount": 1,
@@ -1956,6 +2064,18 @@
     "quizWeight": 9
   },
   {
+    "word": "संरक्षण",
+    "normalized": "संरक्षण",
+    "meaning_ja": "保護、保全",
+    "pos": "名詞（男）",
+    "category": "社会・公共",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
     "word": "सत्यापित करना",
     "normalized": "सत्यापित_करना",
     "meaning_ja": "検証する、確認する",
@@ -2081,6 +2201,18 @@
     "meaning_ja": "拠点、砦（比喩）",
     "pos": "名詞（男）",
     "category": "選挙・裁判",
+    "difficulty": 3,
+    "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 8
+  },
+  {
+    "word": "किशोरी",
+    "normalized": "किशोरी",
+    "meaning_ja": "少女、ティーンの女の子",
+    "pos": "名詞（女）",
+    "category": "社会・公共",
     "difficulty": 3,
     "importance": 3,
     "sourceCount": 1,
@@ -2249,6 +2381,18 @@
     "meaning_ja": "支配、優勢",
     "pos": "名詞（男）",
     "category": "選挙・裁判",
+    "difficulty": 3,
+    "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 8
+  },
+  {
+    "word": "विशेषज्ञ",
+    "normalized": "विशेषज्ञ",
+    "meaning_ja": "専門家",
+    "pos": "名詞",
+    "category": "医療・健康",
     "difficulty": 3,
     "importance": 3,
     "sourceCount": 1,
@@ -2460,6 +2604,18 @@
     "quizWeight": 7
   },
   {
+    "word": "संवेदनशील",
+    "normalized": "संवेदनशील",
+    "meaning_ja": "敏感な、繊細な",
+    "pos": "形容詞",
+    "category": "社会・公共",
+    "difficulty": 4,
+    "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 7
+  },
+  {
     "word": "सकते में आना",
     "normalized": "सकते_में_आना",
     "meaning_ja": "ぎょっとする、呆然とする",
@@ -2477,6 +2633,18 @@
     "meaning_ja": "検証、照合、確認",
     "pos": "名詞",
     "category": "調査・データ",
+    "difficulty": 4,
+    "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 7
+  },
+  {
+    "word": "समयपूर्व",
+    "normalized": "समयपूर्व",
+    "meaning_ja": "予定より早い、早産の",
+    "pos": "形容詞",
+    "category": "医療・健康",
     "difficulty": 4,
     "importance": 3,
     "sourceCount": 1,
