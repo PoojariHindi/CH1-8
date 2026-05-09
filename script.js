@@ -567,7 +567,7 @@ async function initApp() {
     chVocab = await loadAllChVocab(manifest);
     newsVocab = await loadAllNewsVocab(manifest);
     console.log("news loaded:", newsVocab.length, newsVocab.slice(0,5));
-<option value="academic_vocab">読解</option>
+
     const bolly = await loadBollywoodAll();
     bollywoodVocab = bolly.vocab;
     bollywoodFill = bolly.fillBlanks;
