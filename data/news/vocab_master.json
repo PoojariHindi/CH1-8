@@ -599,10 +599,11 @@
     "importance": 3,
     "status": "active",
     "sourceArticleIds": [
-      "news_vocab_02"
+      "news_vocab_02",
+      "news_013"
     ],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 2,
+    "frequency": 2,
     "notes": ""
   },
   {
@@ -649,10 +650,11 @@
     "status": "active",
     "sourceArticleIds": [
       "news_vocab_01",
-      "news_012"
+      "news_012",
+      "news_013"
     ],
-    "sourceCount": 2,
-    "frequency": 2,
+    "sourceCount": 3,
+    "frequency": 3,
     "notes": ""
   },
   {
@@ -699,10 +701,11 @@
     "sourceArticleIds": [
       "news_vocab_01",
       "news_007",
-      "news_012"
+      "news_012",
+      "news_013"
     ],
-    "sourceCount": 3,
-    "frequency": 3,
+    "sourceCount": 4,
+    "frequency": 4,
     "notes": ""
   },
   {
@@ -1535,10 +1538,11 @@
     "importance": 3,
     "status": "active",
     "sourceArticleIds": [
-      "news_vocab_01"
+      "news_vocab_01",
+      "news_013"
     ],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 2,
+    "frequency": 2,
     "notes": ""
   },
   {
@@ -1554,10 +1558,11 @@
       "news_vocab_02",
       "news_009",
       "news_011",
-      "news_012"
+      "news_012",
+      "news_013"
     ],
-    "sourceCount": 4,
-    "frequency": 4,
+    "sourceCount": 5,
+    "frequency": 5,
     "notes": ""
   },
   {
@@ -4010,5 +4015,241 @@
     "sourceCount": 1,
     "frequency": 1,
     "notes": ""
+  },
+  {
+    "word": "यमुना",
+    "normalized": "यमुना",
+    "pos": "固有名詞",
+    "meaning_ja": "ヤムナー川",
+    "category": "都市・環境",
+    "difficulty": 2,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_013"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "河川名。環境ニュースで頻出。"
+  },
+  {
+    "word": "मल मूत्र",
+    "normalized": "मल_मूत्र",
+    "pos": "名詞",
+    "meaning_ja": "糞尿、排泄物",
+    "category": "都市・環境",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_013"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "衛生・水質汚染文脈。"
+  },
+  {
+    "word": "प्रदूषण",
+    "normalized": "प्रदूषण",
+    "pos": "名詞（男）",
+    "meaning_ja": "汚染、公害",
+    "category": "都市・環境",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_013"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "फीकल कोलीफार्म",
+    "normalized": "फीकल_कोलीफार्म",
+    "pos": "名詞",
+    "meaning_ja": "糞便性大腸菌群、糞便性コリフォーム",
+    "category": "都市・環境",
+    "difficulty": 5,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_013"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "水質検査・衛生指標。"
+  },
+  {
+    "word": "शोधित",
+    "normalized": "शोधित",
+    "pos": "形容詞・分詞",
+    "meaning_ja": "処理された、浄化された",
+    "category": "都市・環境",
+    "difficulty": 5,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_013"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "बिना शोधित किए सीवर का पानी = 未処理の下水。"
+  },
+  {
+    "word": "सीवर",
+    "normalized": "सीवर",
+    "pos": "名詞（男）",
+    "meaning_ja": "下水、下水道",
+    "category": "都市・環境",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_013"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "都市インフラ語彙。"
+  },
+  {
+    "word": "जैविक आक्सीजन मांग",
+    "normalized": "जैविक_आक्सीजन_मांग",
+    "display": "जैविक ऑक्सीजन मांग",
+    "variants": [
+      "जैविक आक्सीजन मांग"
+    ],
+    "pos": "名詞",
+    "meaning_ja": "生物化学的酸素要求量（BOD）",
+    "category": "都市・環境",
+    "difficulty": 5,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_013"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "BOD。水質汚染指標。"
+  },
+  {
+    "word": "घुलित आक्सीजन",
+    "normalized": "घुलित_आक्सीजन",
+    "display": "घुलित ऑक्सीजन",
+    "variants": [
+      "घुलित आक्सीजन"
+    ],
+    "pos": "名詞",
+    "meaning_ja": "溶存酸素（DO）",
+    "category": "都市・環境",
+    "difficulty": 5,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_013"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "DO。水質指標。"
+  },
+  {
+    "word": "रासायनिक आक्सीजन मांग",
+    "normalized": "रासायनिक_आक्सीजन_मांग",
+    "display": "रासायनिक ऑक्सीजन मांग",
+    "variants": [
+      "रासायनिक आक्सीजन मांग"
+    ],
+    "pos": "名詞",
+    "meaning_ja": "化学的酸素要求量（COD）",
+    "category": "都市・環境",
+    "difficulty": 5,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_013"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "COD。水質汚染指標。"
+  },
+  {
+    "word": "आकलन",
+    "normalized": "आकलन",
+    "pos": "名詞（男）",
+    "meaning_ja": "評価、査定、見積もり",
+    "category": "調査・統計",
+    "difficulty": 4,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_013"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "調査・分析記事で頻出。"
+  },
+  {
+    "word": "निर्धारित सीमा",
+    "normalized": "निर्धारित_सीमा",
+    "pos": "名詞句",
+    "meaning_ja": "定められた上限、規定値",
+    "category": "行政・制度",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_013"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "基準値・規制文脈。"
+  },
+  {
+    "word": "उपयोग योग्य",
+    "normalized": "उपयोग_योग्य",
+    "pos": "形容詞句",
+    "meaning_ja": "使用可能な、利用に適した",
+    "category": "行政・制度",
+    "difficulty": 3,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_013"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "नमूना",
+    "normalized": "नमूना",
+    "pos": "名詞（男）",
+    "meaning_ja": "サンプル、標本、試料",
+    "category": "調査・統計",
+    "difficulty": 3,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_013"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "検査・調査語彙。"
+  },
+  {
+    "word": "मानक",
+    "normalized": "मानक",
+    "pos": "名詞・形容詞",
+    "meaning_ja": "基準、標準、標準的な",
+    "category": "行政・制度",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_013"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "基準・規格。"
   }
 ]

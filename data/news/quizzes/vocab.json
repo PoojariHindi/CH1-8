@@ -72,6 +72,18 @@
     "quizWeight": 13
   },
   {
+    "word": "स्थिति",
+    "normalized": "स्थिति",
+    "meaning_ja": "状況、状態",
+    "pos": "名詞",
+    "category": "調査・データ",
+    "difficulty": 2,
+    "importance": 3,
+    "sourceCount": 5,
+    "frequency": 5,
+    "quizWeight": 13
+  },
+  {
     "word": "अधिकारी",
     "normalized": "अधिकारी",
     "meaning_ja": "役人、職員",
@@ -237,18 +249,6 @@
     "importance": 4,
     "sourceCount": 2,
     "frequency": 2,
-    "quizWeight": 12
-  },
-  {
-    "word": "स्थिति",
-    "normalized": "स्थिति",
-    "meaning_ja": "状況、状態",
-    "pos": "名詞",
-    "category": "調査・データ",
-    "difficulty": 2,
-    "importance": 3,
-    "sourceCount": 4,
-    "frequency": 4,
     "quizWeight": 12
   },
   {
@@ -444,6 +444,18 @@
     "quizWeight": 11
   },
   {
+    "word": "प्रभावित",
+    "normalized": "प्रभावित",
+    "meaning_ja": "影響を受けた",
+    "pos": "形容詞",
+    "category": "社会・公共",
+    "difficulty": 3,
+    "importance": 3,
+    "sourceCount": 4,
+    "frequency": 4,
+    "quizWeight": 11
+  },
+  {
     "word": "फैसला",
     "normalized": "फैसला",
     "meaning_ja": "判決、決定",
@@ -545,6 +557,18 @@
     "meaning_ja": "死",
     "pos": "名詞",
     "category": "事件・事故",
+    "difficulty": 2,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 11
+  },
+  {
+    "word": "यमुना",
+    "normalized": "यमुना",
+    "meaning_ja": "ヤムナー川",
+    "pos": "固有名詞",
+    "category": "都市・環境",
     "difficulty": 2,
     "importance": 4,
     "sourceCount": 1,
@@ -828,6 +852,18 @@
     "quizWeight": 10
   },
   {
+    "word": "क्षमता",
+    "normalized": "क्षमता",
+    "meaning_ja": "能力; 処理能力",
+    "pos": "名詞（女）",
+    "category": "社会・公共",
+    "difficulty": 3,
+    "importance": 3,
+    "sourceCount": 3,
+    "frequency": 3,
+    "quizWeight": 10
+  },
+  {
     "word": "गंभीर",
     "normalized": "गंभीर",
     "meaning_ja": "重大な、深刻な",
@@ -1104,15 +1140,15 @@
     "quizWeight": 10
   },
   {
-    "word": "प्रभावित",
-    "normalized": "प्रभावित",
-    "meaning_ja": "影響を受けた",
-    "pos": "形容詞",
-    "category": "社会・公共",
+    "word": "प्रदूषण",
+    "normalized": "प्रदूषण",
+    "meaning_ja": "汚染、公害",
+    "pos": "名詞（男）",
+    "category": "都市・環境",
     "difficulty": 3,
-    "importance": 3,
-    "sourceCount": 3,
-    "frequency": 3,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
     "quizWeight": 10
   },
   {
@@ -1265,6 +1301,18 @@
     "meaning_ja": "開票",
     "pos": "名詞（女）",
     "category": "選挙・裁判",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 10
+  },
+  {
+    "word": "मानक",
+    "normalized": "मानक",
+    "meaning_ja": "基準、標準、標準的な",
+    "pos": "名詞・形容詞",
+    "category": "行政・制度",
     "difficulty": 3,
     "importance": 4,
     "sourceCount": 1,
@@ -1512,6 +1560,18 @@
     "quizWeight": 10
   },
   {
+    "word": "सीवर",
+    "normalized": "सीवर",
+    "meaning_ja": "下水、下水道",
+    "pos": "名詞（男）",
+    "category": "都市・環境",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 10
+  },
+  {
     "word": "सीसीटीवी फुटेज",
     "normalized": "सीसीटीवी_फुटेज",
     "meaning_ja": "防犯カメラ映像",
@@ -1524,6 +1584,18 @@
     "quizWeight": 10
   },
   {
+    "word": "सुधार",
+    "normalized": "सुधार",
+    "meaning_ja": "改善、改良",
+    "pos": "名詞",
+    "category": "社会・公共",
+    "difficulty": 2,
+    "importance": 3,
+    "sourceCount": 2,
+    "frequency": 2,
+    "quizWeight": 10
+  },
+  {
     "word": "सुनवाई",
     "normalized": "सुनवाई",
     "meaning_ja": "審理、聴聞",
@@ -1533,6 +1605,18 @@
     "importance": 4,
     "sourceCount": 1,
     "frequency": 1,
+    "quizWeight": 10
+  },
+  {
+    "word": "स्तर",
+    "normalized": "स्तर",
+    "meaning_ja": "水準; レベル",
+    "pos": "名詞（男）",
+    "category": "調査・データ",
+    "difficulty": 2,
+    "importance": 3,
+    "sourceCount": 2,
+    "frequency": 2,
     "quizWeight": 10
   },
   {
@@ -1788,18 +1872,6 @@
     "quizWeight": 9
   },
   {
-    "word": "क्षमता",
-    "normalized": "क्षमता",
-    "meaning_ja": "能力; 処理能力",
-    "pos": "名詞（女）",
-    "category": "社会・公共",
-    "difficulty": 3,
-    "importance": 3,
-    "sourceCount": 2,
-    "frequency": 2,
-    "quizWeight": 9
-  },
-  {
     "word": "गर्भ समापन",
     "normalized": "गर्भ_समापन",
     "meaning_ja": "妊娠終了、中絶処置",
@@ -1872,6 +1944,18 @@
     "quizWeight": 9
   },
   {
+    "word": "घुलित आक्सीजन",
+    "normalized": "घुलित_आक्सीजन",
+    "meaning_ja": "溶存酸素（DO）",
+    "pos": "名詞",
+    "category": "都市・環境",
+    "difficulty": 5,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
     "word": "चिकित्सकीय",
     "normalized": "चिकित्सकीय",
     "meaning_ja": "医学的な、医療上の",
@@ -1917,6 +2001,18 @@
     "importance": 3,
     "sourceCount": 2,
     "frequency": 2,
+    "quizWeight": 9
+  },
+  {
+    "word": "जैविक आक्सीजन मांग",
+    "normalized": "जैविक_आक्सीजन_मांग",
+    "meaning_ja": "生物化学的酸素要求量（BOD）",
+    "pos": "名詞",
+    "category": "都市・環境",
+    "difficulty": 5,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
     "quizWeight": 9
   },
   {
@@ -2009,6 +2105,18 @@
     "meaning_ja": "処理する、解決する、裁く",
     "pos": "動詞句",
     "category": "重要動詞",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "निर्धारित सीमा",
+    "normalized": "निर्धारित_सीमा",
+    "meaning_ja": "定められた上限、規定値",
+    "pos": "名詞句",
+    "category": "行政・制度",
     "difficulty": 4,
     "importance": 4,
     "sourceCount": 1,
@@ -2160,6 +2268,18 @@
     "quizWeight": 9
   },
   {
+    "word": "फीकल कोलीफार्म",
+    "normalized": "फीकल_कोलीफार्म",
+    "meaning_ja": "糞便性大腸菌群、糞便性コリフォーム",
+    "pos": "名詞",
+    "category": "都市・環境",
+    "difficulty": 5,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
     "word": "बुकबाइंडर",
     "normalized": "बुकबाइंडर",
     "meaning_ja": "製本工",
@@ -2189,6 +2309,18 @@
     "meaning_ja": "有権者名簿",
     "pos": "名詞",
     "category": "裁判・法・選挙",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "मल मूत्र",
+    "normalized": "मल_मूत्र",
+    "meaning_ja": "糞尿、排泄物",
+    "pos": "名詞",
+    "category": "都市・環境",
     "difficulty": 4,
     "importance": 4,
     "sourceCount": 1,
@@ -2232,6 +2364,18 @@
     "quizWeight": 9
   },
   {
+    "word": "रासायनिक आक्सीजन मांग",
+    "normalized": "रासायनिक_आक्सीजन_मांग",
+    "meaning_ja": "化学的酸素要求量（COD）",
+    "pos": "名詞",
+    "category": "都市・環境",
+    "difficulty": 5,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
     "word": "लैंडफिल",
     "normalized": "लैंडफिल",
     "meaning_ja": "埋立地、最終処分場",
@@ -2249,6 +2393,18 @@
     "meaning_ja": "為替レート",
     "pos": "名詞",
     "category": "労働・経済",
+    "difficulty": 5,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "शोधित",
+    "normalized": "शोधित",
+    "meaning_ja": "処理された、浄化された",
+    "pos": "形容詞・分詞",
+    "category": "都市・環境",
     "difficulty": 5,
     "importance": 4,
     "sourceCount": 1,
@@ -2340,30 +2496,6 @@
     "quizWeight": 9
   },
   {
-    "word": "सुधार",
-    "normalized": "सुधार",
-    "meaning_ja": "改善、改良",
-    "pos": "名詞",
-    "category": "社会・公共",
-    "difficulty": 2,
-    "importance": 3,
-    "sourceCount": 1,
-    "frequency": 1,
-    "quizWeight": 9
-  },
-  {
-    "word": "स्तर",
-    "normalized": "स्तर",
-    "meaning_ja": "水準; レベル",
-    "pos": "名詞（男）",
-    "category": "調査・データ",
-    "difficulty": 2,
-    "importance": 3,
-    "sourceCount": 1,
-    "frequency": 1,
-    "quizWeight": 9
-  },
-  {
     "word": "स्वच्छता",
     "normalized": "स्वच्छता",
     "meaning_ja": "清潔さ、衛生、清掃状態",
@@ -2404,6 +2536,18 @@
     "normalized": "इंटीग्रेटेड",
     "meaning_ja": "統合された",
     "pos": "形容詞",
+    "category": "行政・制度",
+    "difficulty": 3,
+    "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 8
+  },
+  {
+    "word": "उपयोग योग्य",
+    "normalized": "उपयोग_योग्य",
+    "meaning_ja": "使用可能な、利用に適した",
+    "pos": "形容詞句",
     "category": "行政・制度",
     "difficulty": 3,
     "importance": 3,
@@ -2532,6 +2676,18 @@
     "quizWeight": 8
   },
   {
+    "word": "नमूना",
+    "normalized": "नमूना",
+    "meaning_ja": "サンプル、標本、試料",
+    "pos": "名詞（男）",
+    "category": "調査・統計",
+    "difficulty": 3,
+    "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 8
+  },
+  {
     "word": "निंदा",
     "normalized": "निंदा",
     "meaning_ja": "非難、糾弾",
@@ -2645,6 +2801,18 @@
     "meaning_ja": "臓器提供",
     "pos": "名詞（男）",
     "category": "医療・健康",
+    "difficulty": 4,
+    "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 7
+  },
+  {
+    "word": "आकलन",
+    "normalized": "आकलन",
+    "meaning_ja": "評価、査定、見積もり",
+    "pos": "名詞（男）",
+    "category": "調査・統計",
     "difficulty": 4,
     "importance": 3,
     "sourceCount": 1,
