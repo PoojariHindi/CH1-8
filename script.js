@@ -13,6 +13,8 @@ let bollywoodVocab = [];
 let bollywoodFill = [];
 let bollywoodExpressions = [];
 
+let academicVocab = [];
+
 let currentQuiz = null;
 let wrongAnswers = [];
 let reviewModeEnabled = false;
@@ -133,6 +135,19 @@ async function loadBollywoodAll() {
   };
 }
 
+// Academic / 読解 は vocab.json を1つ読む
+async function loadAcademicAll() {
+  const data = await loadJson("data/academic/quizzes/vocab.json");
+
+  return Array.isArray(data)
+    ? data.map((entry) => ({
+        ...entry,
+        source: "academic",
+        topic: "academic"
+      }))
+    : [];
+}
+
 function filterChByLesson(vocabList, maxLesson) {
   return vocabList.filter((item) => Number(item.lesson) <= maxLesson);
 }
@@ -146,7 +161,12 @@ function getMode() {
 }
 
 function isVocabularyMode(mode) {
-  return mode === "ch" || mode === "news" || mode === "bollywood_vocab";
+  return (
+    mode === "ch" || 
+    mode === "news" || 
+    mode === "bollywood_vocab"||
+    mode === "academic_vocab"
+);
 }
 
 function getMeaning(entry) {
@@ -465,6 +485,10 @@ function getCurrentPool() {
   if (mode === "bollywood_vocab") {
     return [...bollywoodVocab];
   }
+  
+  if (mode === "academic_vocab") {
+  return [...academicVocab];
+}
 
   if (mode === "bollywood_fill") {
     return [...bollywoodFill];
@@ -543,11 +567,14 @@ async function initApp() {
     chVocab = await loadAllChVocab(manifest);
     newsVocab = await loadAllNewsVocab(manifest);
     console.log("news loaded:", newsVocab.length, newsVocab.slice(0,5));
-
+<option value="academic_vocab">読解</option>
     const bolly = await loadBollywoodAll();
     bollywoodVocab = bolly.vocab;
     bollywoodFill = bolly.fillBlanks;
     bollywoodExpressions = bolly.expressions;
+
+    academicVocab = await loadAcademicAll();
+    console.log("academic loaded:", academicVocab.length);
 
   document
   .getElementById("startQuizBtn")

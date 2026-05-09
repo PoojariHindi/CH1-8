@@ -1,0 +1,149 @@
+{
+  "id": "academic_001",
+  "schema_version": 1,
+
+  "title": "सत्संगति",
+  "author": "NA",
+  "source": "Adhunik Hindi Nibandh, Anuched tatha Patra Lekhan",
+  "year": 2025,
+
+  "genre": "essay",
+  "register": "academic_prose",
+
+  "category": "読解",
+
+  "tags": [
+    "教科書",
+    "道徳",
+    "抽象語"
+  ],
+
+  "key_phrase": "साथ में रहना ही 'संगति' कहलाती है",
+
+  "text": "सत्संगति से अभिप्राय है - अच्छी संगति अर्थात् अच्छे लोगों के साथ उठना-बैठना। ऐसा कहा गया है कि कोई भी मनुष्य जन्म से अच्छा व बुरा नहीं होता। अपितु इस संसार में आने के बाद जिस प्रकार के लोगों से मिलता है, जिन लोगों की संगति में उठता-बैठता है, जिन लोगों से मिलता-जुलता है, वह वैसा ही बन जाता है। साथ में रहना ही 'संगति' कहलाती है और यह स्वाभाविक है कि व्यक्ति जिस प्रकार के वातावरण व लोगों में रहेगा, वह वैसा ही बन जाएगा अर्थात् यदि अच्छे लोगों में रहता है तो उसमें अच्छे गुणों का विकास होता है और यदि वह बुरे लोगों में रहता है तो उसमें बुरे गुणों का विकास होता है। मनुष्य का जन्म और जीवन बार-बार नहीं मिलता। इसलिए अपने मनुष्य-जन्म को सफल बनाने के लिए हमें अच्छे कर्मों की ओर ध्यान देना चाहिए। उसके लिए सत्संगति आवश्यक है। कुसंगति में रहकर अच्छे कर्म कर पाना संभव नहीं है। वास्तव में देखा जाए, तो मनुष्य को मनुष्य बने रहने की कोशिश हमेशा करनी चाहिए। मनुष्यता को हमेशा बनाए रखना चाहिए। यही सत्संगति का लाभ है। हमें कुसंगति को त्याग कर सत्संगति को अपना लेना चाहिए।",
+
+  "expressions": [
+    {
+      "text": "साथ में रहना ही 'संगति' कहलाती है",
+      "normalized": "साथ में रहना ही संगति कहलाती है",
+      "meaning_ja": "共にいることが『交わり』と呼ばれる",
+      "type": "definition",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "अच्छे गुणों का विकास होता है",
+      "normalized": "अच्छे गुणों का विकास होता है",
+      "meaning_ja": "良い性質が育まれる",
+      "type": "academic_expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "मनुष्य को मनुष्य बने रहने की कोशिश हमेशा करनी चाहिए",
+      "normalized": "मनुष्य को मनुष्य बने रहने की कोशिश हमेशा करनी चाहिए",
+      "meaning_ja": "人は人間らしくあり続ける努力を常にすべきである",
+      "type": "moral_statement",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "कुसंगति को त्याग कर सत्संगति को अपना लेना चाहिए",
+      "normalized": "कुसंगति को त्याग कर सत्संगति को अपना लेना चाहिए",
+      "meaning_ja": "悪い交際を捨て、善い交わりを受け入れるべきである",
+      "type": "moral_statement",
+      "importance": 4,
+      "status": "active"
+    }
+  ],
+
+  "vocab_candidates": [
+    {
+      "word": "सत्संगति",
+      "normalized": "सत्संगति",
+      "pos": "名詞（女）",
+      "meaning_ja": "善い交わり、善良な人々との付き合い",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "अभिप्राय",
+      "normalized": "अभिप्राय",
+      "pos": "名詞（男）",
+      "meaning_ja": "意味、趣旨",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "संगति",
+      "normalized": "संगति",
+      "pos": "名詞（女）",
+      "meaning_ja": "交際、付き合い",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "अपितु",
+      "normalized": "अपितु",
+      "pos": "接続詞",
+      "meaning_ja": "しかしながら、むしろ",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "स्वाभाविक",
+      "normalized": "स्वाभाविक",
+      "pos": "形容詞",
+      "meaning_ja": "自然な、当然の",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "वातावरण",
+      "normalized": "वातावरण",
+      "pos": "名詞（男）",
+      "meaning_ja": "環境、雰囲気",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "विकास",
+      "normalized": "विकास",
+      "pos": "名詞（男）",
+      "meaning_ja": "発達、発展",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "कुसंगति",
+      "normalized": "कुसंगति",
+      "pos": "名詞（女）",
+      "meaning_ja": "悪い交際、悪い仲間付き合い",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "त्याग",
+      "normalized": "त्याग",
+      "pos": "名詞（男）",
+      "meaning_ja": "放棄、放り捨てること",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "मनुष्यता",
+      "normalized": "मनुष्यता",
+      "pos": "名詞（女）",
+      "meaning_ja": "人間性",
+      "importance": 4,
+      "status": "active"
+    }
+  ],
+
+  "meta": {
+    "source_type": "manual_curated",
+    "reading_genre": "academic",
+    "dedupe_ready": true
+  }
+}
+

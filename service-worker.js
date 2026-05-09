@@ -1,4 +1,4 @@
-const CACHE_VERSION = "v39";
+const CACHE_VERSION = "v40";
 const CACHE_NAME = `hindi-quiz-${CACHE_VERSION}`;
 
 const APP_SHELL = [
@@ -8,6 +8,8 @@ const APP_SHELL = [
   "./manifest.json",
   "./data/manifest.json",
   "./data/news/quizzes/vocab.json",
+  "./data/academic/quizzes/vocab.json",
+  "./data/academic/sources_index.json",
   "./data/ch/texts/lesson01.json",
   "./data/ch/texts/lesson02.json",
   "./data/ch/texts/lesson03.json",
