@@ -14,6 +14,7 @@ let bollywoodFill = [];
 let bollywoodExpressions = [];
 
 let academicVocab = [];
+let academicExpressions = [];
 
 let currentQuiz = null;
 let wrongAnswers = [];
@@ -148,6 +149,17 @@ async function loadAcademicAll() {
     : [];
 }
 
+async function loadAcademicExpressions() {
+  const data = await loadJson("data/academic/quizzes/expressions.json");
+
+  return Array.isArray(data)
+    ? data.map((entry) => ({
+        ...entry,
+        source: "academic_expressions"
+      }))
+    : [];
+}
+
 function filterChByLesson(vocabList, maxLesson) {
   return vocabList.filter((item) => Number(item.lesson) <= maxLesson);
 }
@@ -165,6 +177,7 @@ function isVocabularyMode(mode) {
     mode === "ch" || 
     mode === "news" || 
     mode === "bollywood_vocab"||
+    mode === "academic_vocab" ||
     mode === "academic_vocab"
 );
 }
@@ -485,6 +498,10 @@ function getCurrentPool() {
   if (mode === "bollywood_vocab") {
     return [...bollywoodVocab];
   }
+
+  if (mode === "academic_expressions") {
+    return [...academicExpressions];
+  }
   
   if (mode === "academic_vocab") {
   return [...academicVocab];
@@ -514,7 +531,10 @@ function startQuiz() {
 
   if (mode === "bollywood_fill") {
     currentQuiz = createFillQuestion(pool);
-  } else if (mode === "bollywood_expressions") {
+  } else if (
+    mode === "bollywood_expressions" ||
+    mode === "academic_expressions"
+  ) {
     currentQuiz = createExpressionQuestion(pool, direction);
   } else {
     currentQuiz = createQuizQuestion(pool, direction);
@@ -575,6 +595,9 @@ async function initApp() {
 
     academicVocab = await loadAcademicAll();
     console.log("academic loaded:", academicVocab.length);
+
+    academicExpressions = await loadAcademicExpressions();
+console.log("academic expressions loaded:", academicExpressions.length);
 
   document
   .getElementById("startQuizBtn")

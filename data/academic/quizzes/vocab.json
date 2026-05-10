@@ -34,6 +34,24 @@
     ]
   },
   {
+    "word": "उन्नत",
+    "display": "उन्नत",
+    "normalized": "उन्नत",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "向上した、高められた",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "健康",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_002"
+    ]
+  },
+  {
     "word": "कुसंगति",
     "display": "कुसंगति",
     "normalized": "कुसंगति",
@@ -68,6 +86,116 @@
     ]
   },
   {
+    "word": "दुर्बल",
+    "display": "दुर्बल",
+    "normalized": "दुर्बल",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "弱い、虚弱な",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "健康",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_002"
+    ]
+  },
+  {
+    "word": "नियमपूर्वक",
+    "display": "नियमपूर्वक",
+    "normalized": "नियमपूर्वक",
+    "variants": [],
+    "pos": "副詞",
+    "meaning_ja": "規則正しく",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "健康",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_002"
+    ]
+  },
+  {
+    "word": "निरन्तर",
+    "display": "निरंतर",
+    "normalized": "निरंतर",
+    "variants": [
+      "निरन्तर"
+    ],
+    "pos": "副詞",
+    "meaning_ja": "絶えず、継続的に",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "健康",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_002"
+    ]
+  },
+  {
+    "word": "निरोगी",
+    "display": "निरोगी",
+    "normalized": "निरोगी",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "健康な、病気のない",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "健康",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_002"
+    ]
+  },
+  {
+    "word": "परिणामस्वरूप",
+    "display": "परिणामस्वरूप",
+    "normalized": "परिणामस्वरूप",
+    "variants": [],
+    "pos": "副詞",
+    "meaning_ja": "結果として",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "健康",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_002"
+    ]
+  },
+  {
+    "word": "परिश्रम",
+    "display": "परिश्रम",
+    "normalized": "परिश्रम",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "努力、労働",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "健康",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_002"
+    ]
+  },
+  {
     "word": "मनुष्यता",
     "display": "मनुष्यता",
     "normalized": "मनुष्यता",
@@ -82,6 +210,62 @@
     ],
     "sourceIds": [
       "academic_001"
+    ]
+  },
+  {
+    "word": "महत्त्व",
+    "display": "महत्व",
+    "normalized": "महत्व",
+    "variants": [
+      "महत्त्व"
+    ],
+    "pos": "名詞（男）",
+    "meaning_ja": "重要性",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "健康",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_002"
+    ]
+  },
+  {
+    "word": "वास",
+    "display": "वास",
+    "normalized": "वास",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "宿ること、居住",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "健康",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_002"
+    ]
+  },
+  {
+    "word": "व्यायाम",
+    "display": "व्यायाम",
+    "normalized": "व्यायाम",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "運動、エクササイズ",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "健康",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_002"
     ]
   },
   {
@@ -100,6 +284,132 @@
     ],
     "sourceIds": [
       "academic_001"
+    ]
+  },
+  {
+    "word": "स्वस्थ",
+    "display": "स्वस्थ",
+    "normalized": "स्वस्थ",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "健康な",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "健康",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_002"
+    ]
+  },
+  {
+    "word": "अनदेखा",
+    "display": "अनदेखा",
+    "normalized": "अनदेखा",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "無視された",
+    "importance": 3,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "健康",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_002"
+    ]
+  },
+  {
+    "word": "नवयुवक",
+    "display": "नवयुवक",
+    "normalized": "नवयुवक",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "若者、青年",
+    "importance": 3,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "健康",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_002"
+    ]
+  },
+  {
+    "word": "बलवान",
+    "display": "बलवान",
+    "normalized": "बलवान",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "強い、力強い",
+    "importance": 3,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "健康",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_002"
+    ]
+  },
+  {
+    "word": "बीमारियाँ",
+    "display": "बीमारी",
+    "normalized": "बीमारी",
+    "variants": [],
+    "pos": "名詞（女・複）",
+    "meaning_ja": "病気",
+    "importance": 3,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "健康",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_002"
+    ]
+  },
+  {
+    "word": "भ्रमण",
+    "display": "भ्रमण",
+    "normalized": "भ्रमण",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "散歩、巡行",
+    "importance": 3,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "健康",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_002"
+    ]
+  },
+  {
+    "word": "ललित",
+    "display": "ललित",
+    "normalized": "ललित",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "美しい、芸術的な",
+    "importance": 3,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "健康",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_002"
     ]
   },
   {
@@ -132,6 +442,24 @@
     ],
     "sourceIds": [
       "academic_001"
+    ]
+  },
+  {
+    "word": "शिकार",
+    "display": "शिकार",
+    "normalized": "शिकार",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "犠牲、獲物",
+    "importance": 3,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "健康",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_002"
     ]
   },
   {

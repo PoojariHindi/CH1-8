@@ -1,0 +1,666 @@
+{
+  "summary": {
+    "candidateFiles": 2,
+    "totalCandidates": 28,
+    "newCandidates": 18,
+    "existingCandidates": 10,
+    "duplicateCandidates": 0,
+    "hardStopwords": 0,
+    "softStopwordReviews": 0
+  },
+  "newCandidates": [
+    {
+      "word": "उन्नत",
+      "display": "उन्नत",
+      "normalized": "उन्नत",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "向上した、高められた",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "健康",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_002"
+      ],
+      "sourceTitle": "व्यायाम के लाभ",
+      "sourceGenre": "essay",
+      "sourceRegister": "academic_prose",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "दुर्बल",
+      "display": "दुर्बल",
+      "normalized": "दुर्बल",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "弱い、虚弱な",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "健康",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_002"
+      ],
+      "sourceTitle": "व्यायाम के लाभ",
+      "sourceGenre": "essay",
+      "sourceRegister": "academic_prose",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "नियमपूर्वक",
+      "display": "नियमपूर्वक",
+      "normalized": "नियमपूर्वक",
+      "variants": [],
+      "pos": "副詞",
+      "meaning_ja": "規則正しく",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "健康",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_002"
+      ],
+      "sourceTitle": "व्यायाम के लाभ",
+      "sourceGenre": "essay",
+      "sourceRegister": "academic_prose",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "निरन्तर",
+      "display": "निरंतर",
+      "normalized": "निरंतर",
+      "variants": [
+        "निरन्तर"
+      ],
+      "pos": "副詞",
+      "meaning_ja": "絶えず、継続的に",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "健康",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_002"
+      ],
+      "sourceTitle": "व्यायाम के लाभ",
+      "sourceGenre": "essay",
+      "sourceRegister": "academic_prose",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "निरोगी",
+      "display": "निरोगी",
+      "normalized": "निरोगी",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "健康な、病気のない",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "健康",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_002"
+      ],
+      "sourceTitle": "व्यायाम के लाभ",
+      "sourceGenre": "essay",
+      "sourceRegister": "academic_prose",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "परिणामस्वरूप",
+      "display": "परिणामस्वरूप",
+      "normalized": "परिणामस्वरूप",
+      "variants": [],
+      "pos": "副詞",
+      "meaning_ja": "結果として",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "健康",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_002"
+      ],
+      "sourceTitle": "व्यायाम के लाभ",
+      "sourceGenre": "essay",
+      "sourceRegister": "academic_prose",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "परिश्रम",
+      "display": "परिश्रम",
+      "normalized": "परिश्रम",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "努力、労働",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "健康",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_002"
+      ],
+      "sourceTitle": "व्यायाम के लाभ",
+      "sourceGenre": "essay",
+      "sourceRegister": "academic_prose",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "महत्त्व",
+      "display": "महत्व",
+      "normalized": "महत्व",
+      "variants": [
+        "महत्त्व"
+      ],
+      "pos": "名詞（男）",
+      "meaning_ja": "重要性",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "健康",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_002"
+      ],
+      "sourceTitle": "व्यायाम के लाभ",
+      "sourceGenre": "essay",
+      "sourceRegister": "academic_prose",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "वास",
+      "display": "वास",
+      "normalized": "वास",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "宿ること、居住",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "健康",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_002"
+      ],
+      "sourceTitle": "व्यायाम के लाभ",
+      "sourceGenre": "essay",
+      "sourceRegister": "academic_prose",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "व्यायाम",
+      "display": "व्यायाम",
+      "normalized": "व्यायाम",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "運動、エクササイズ",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "健康",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_002"
+      ],
+      "sourceTitle": "व्यायाम के लाभ",
+      "sourceGenre": "essay",
+      "sourceRegister": "academic_prose",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "स्वस्थ",
+      "display": "स्वस्थ",
+      "normalized": "स्वस्थ",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "健康な",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "健康",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_002"
+      ],
+      "sourceTitle": "व्यायाम के लाभ",
+      "sourceGenre": "essay",
+      "sourceRegister": "academic_prose",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "अनदेखा",
+      "display": "अनदेखा",
+      "normalized": "अनदेखा",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "無視された",
+      "importance": 3,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "健康",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_002"
+      ],
+      "sourceTitle": "व्यायाम के लाभ",
+      "sourceGenre": "essay",
+      "sourceRegister": "academic_prose",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "नवयुवक",
+      "display": "नवयुवक",
+      "normalized": "नवयुवक",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "若者、青年",
+      "importance": 3,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "健康",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_002"
+      ],
+      "sourceTitle": "व्यायाम के लाभ",
+      "sourceGenre": "essay",
+      "sourceRegister": "academic_prose",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "बलवान",
+      "display": "बलवान",
+      "normalized": "बलवान",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "強い、力強い",
+      "importance": 3,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "健康",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_002"
+      ],
+      "sourceTitle": "व्यायाम के लाभ",
+      "sourceGenre": "essay",
+      "sourceRegister": "academic_prose",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "बीमारियाँ",
+      "display": "बीमारी",
+      "normalized": "बीमारी",
+      "variants": [],
+      "pos": "名詞（女・複）",
+      "meaning_ja": "病気",
+      "importance": 3,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "健康",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_002"
+      ],
+      "sourceTitle": "व्यायाम के लाभ",
+      "sourceGenre": "essay",
+      "sourceRegister": "academic_prose",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "भ्रमण",
+      "display": "भ्रमण",
+      "normalized": "भ्रमण",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "散歩、巡行",
+      "importance": 3,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "健康",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_002"
+      ],
+      "sourceTitle": "व्यायाम के लाभ",
+      "sourceGenre": "essay",
+      "sourceRegister": "academic_prose",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "ललित",
+      "display": "ललित",
+      "normalized": "ललित",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "美しい、芸術的な",
+      "importance": 3,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "健康",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_002"
+      ],
+      "sourceTitle": "व्यायाम के लाभ",
+      "sourceGenre": "essay",
+      "sourceRegister": "academic_prose",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "शिकार",
+      "display": "शिकार",
+      "normalized": "शिकार",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "犠牲、獲物",
+      "importance": 3,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "健康",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_002"
+      ],
+      "sourceTitle": "व्यायाम के लाभ",
+      "sourceGenre": "essay",
+      "sourceRegister": "academic_prose",
+      "audit": "new_candidate"
+    }
+  ],
+  "existingCandidates": [
+    {
+      "word": "सत्संगति",
+      "display": "सत्संगति",
+      "normalized": "सत्संगति",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "善い交わり、善良な人々との付き合い",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "道徳",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_001"
+      ],
+      "sourceTitle": "सत्संगति",
+      "sourceGenre": "essay",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "अभिप्राय",
+      "display": "अभिप्राय",
+      "normalized": "अभिप्राय",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "意味、趣旨",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "道徳",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_001"
+      ],
+      "sourceTitle": "सत्संगति",
+      "sourceGenre": "essay",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "संगति",
+      "display": "संगति",
+      "normalized": "संगति",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "交際、付き合い",
+      "importance": 3,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "道徳",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_001"
+      ],
+      "sourceTitle": "सत्संगति",
+      "sourceGenre": "essay",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "अपितु",
+      "display": "अपितु",
+      "normalized": "अपितु",
+      "variants": [],
+      "pos": "接続詞",
+      "meaning_ja": "しかしながら、むしろ",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "道徳",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_001"
+      ],
+      "sourceTitle": "सत्संगति",
+      "sourceGenre": "essay",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "स्वाभाविक",
+      "display": "स्वाभाविक",
+      "normalized": "स्वाभाविक",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "自然な、当然の",
+      "importance": 3,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "道徳",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_001"
+      ],
+      "sourceTitle": "सत्संगति",
+      "sourceGenre": "essay",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "वातावरण",
+      "display": "वातावरण",
+      "normalized": "वातावरण",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "環境、雰囲気",
+      "importance": 3,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "道徳",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_001"
+      ],
+      "sourceTitle": "सत्संगति",
+      "sourceGenre": "essay",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "विकास",
+      "display": "विकास",
+      "normalized": "विकास",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "発達、発展",
+      "importance": 3,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "道徳",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_001"
+      ],
+      "sourceTitle": "सत्संगति",
+      "sourceGenre": "essay",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "कुसंगति",
+      "display": "कुसंगति",
+      "normalized": "कुसंगति",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "悪い交際、悪い仲間付き合い",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "道徳",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_001"
+      ],
+      "sourceTitle": "सत्संगति",
+      "sourceGenre": "essay",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "त्याग",
+      "display": "त्याग",
+      "normalized": "त्याग",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "放棄、放り捨てること",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "道徳",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_001"
+      ],
+      "sourceTitle": "सत्संगति",
+      "sourceGenre": "essay",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "मनुष्यता",
+      "display": "मनुष्यता",
+      "normalized": "मनुष्यता",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "人間性",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "道徳",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_001"
+      ],
+      "sourceTitle": "सत्संगति",
+      "sourceGenre": "essay",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    }
+  ],
+  "duplicateCandidates": [],
+  "hardStopwords": [],
+  "softStopwordReviews": []
+}

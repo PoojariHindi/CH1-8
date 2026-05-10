@@ -1,0 +1,222 @@
+{
+  "id": "academic_002",
+  "schema_version": 1,
+
+  "title": "व्यायाम के लाभ",
+  "author": "NA",
+  "source": "Adhunik Hindi Nibandh, Anuched tatha Patra Lekhan",
+  "year": 2025,
+
+  "genre": "essay",
+  "register": "academic_prose",
+
+  "category": "読解",
+
+  "tags": [
+    "教科書",
+    "健康",
+    "抽象語"
+  ],
+
+  "key_phrase": "स्वस्थ शरीर में ही स्वस्थ मन का वास होता है",
+
+  "text": "स्वस्थ शरीर में ही स्वस्थ मन का वास होता है - यह बात आज सभी जानते हैं। किंतु फिर भी दुःख के साथ कहना पड़ रहा है कि यह जानते हुए भी कि व्यायाम के हमारे लिए कितने लाभ हैं, लोग इसे अनदेखा करते हैं और यही कारण है कि आज लोग न जाने कितनी ही बीमारियों का शिकार हो रहे हैं। आज के युग में अपनी छोटी-बड़ी आवश्यकताओं को पूरी करने के लिए मनुष्य को निरन्तर परिश्रम करना पड़ता है। यह परिश्रम वही कर सकता है, जो स्वस्थ व निरोगी हो। स्वस्थ मन-मस्तिष्क वाला व्यक्ति ही जीवन के सभी कार्य आसानी से कर सकता है और स्वस्थ मन-मस्तिष्क के लिए उसे जरूरत है व्यायाम की। व्यायाम के कई प्रकार हैं। प्रातःकाल खुली हवा में भ्रमण करना, खेलना, ललित कलाओं की रूचि वाले नृत्य आदि द्वारा भी व्यायाम कर सकते हैं। इसके साथ ही व्यायाम के ऐसे कई तरीके हैं, जिससे तन, मन और आत्मा को उन्नत व बलवान बनाया जा सकता है। पहले सभी आयु वर्ग के लोग व्यायाम करते थे। किंतु आज जीवन कुछ इस प्रकार का गया है कि नवयुवकों की व्यायाम की आदत छूटती जा रही है या कुछ हद तक तो छूट भी चुकी है। आज व्यक्ति जीवन में आगे निकल जाना चाहता है, जिस के लिए वह स्वयं अपने शरीर तक पर ध्यान नहीं देता। जिसके परिणामस्वरूप जरा-जरा सी बात पर डाक्टरों की सलाह लेना, दवाइयाँ लेना ही आज मनुष्य का जीवन रह गया है। यदि नियमपूर्वक व्यायाम किया जाए तो इन सबसे बचा जा सकता है। यदि व्यायाम और व्यायाम से होने वाले लाभ पर ध्यान नहीं दिया गया, तो निश्चय ही एक दिन हम दुर्बल हो जाएँगे और हमारा जीवन खतरे में पड़ जाएगा। अतः जरूरत है हमें व्यायाम के महत्त्व को समझने की व उसे जीवन में अपनाने की।",
+
+  "expressions": [
+    {
+      "text": "स्वस्थ शरीर में ही स्वस्थ मन का वास होता है",
+      "normalized": "स्वस्थ शरीर में ही स्वस्थ मन का वास होता है",
+      "meaning_ja": "健康な身体にこそ健康な精神が宿る",
+      "type": "proverb_like",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "बीमारियों का शिकार हो रहे हैं",
+      "normalized": "बीमारियों का शिकार हो रहे हैं",
+      "meaning_ja": "病気の犠牲になっている",
+      "type": "academic_expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "नियमपूर्वक व्यायam किया जाए",
+      "normalized": "नियमपूर्वक व्यायाम किया जाए",
+      "meaning_ja": "規則正しく運動を行う",
+      "type": "academic_expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "व्यायाम के महत्त्व को समझने की",
+      "normalized": "व्यायाम के महत्व को समझने की",
+      "meaning_ja": "運動の重要性を理解する",
+      "type": "academic_expression",
+      "importance": 4,
+      "status": "active"
+    }
+  ],
+
+  "vocab_candidates": [
+    {
+      "word": "स्वस्थ",
+      "normalized": "स्वस्थ",
+      "pos": "形容詞",
+      "meaning_ja": "健康な",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "वास",
+      "normalized": "वास",
+      "pos": "名詞（男）",
+      "meaning_ja": "宿ること、居住",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "व्यायाम",
+      "normalized": "व्यायाम",
+      "pos": "名詞（男）",
+      "meaning_ja": "運動、エクササイズ",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "अनदेखा",
+      "normalized": "अनदेखा",
+      "pos": "形容詞",
+      "meaning_ja": "無視された",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "बीमारियाँ",
+      "normalized": "बीमारी",
+      "display": "बीमारी",
+      "pos": "名詞（女・複）",
+      "meaning_ja": "病気",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "शिकार",
+      "normalized": "शिकार",
+      "pos": "名詞（男）",
+      "meaning_ja": "犠牲、獲物",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "निरन्तर",
+      "normalized": "निरंतर",
+      "display": "निरंतर",
+      "variants": [
+        "निरन्तर"
+      ],
+      "pos": "副詞",
+      "meaning_ja": "絶えず、継続的に",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "परिश्रम",
+      "normalized": "परिश्रम",
+      "pos": "名詞（男）",
+      "meaning_ja": "努力、労働",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "निरोगी",
+      "normalized": "निरोगी",
+      "pos": "形容詞",
+      "meaning_ja": "健康な、病気のない",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "भ्रमण",
+      "normalized": "भ्रमण",
+      "pos": "名詞（男）",
+      "meaning_ja": "散歩、巡行",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "ललित",
+      "normalized": "ललित",
+      "pos": "形容詞",
+      "meaning_ja": "美しい、芸術的な",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "उन्नत",
+      "normalized": "उन्नत",
+      "pos": "形容詞",
+      "meaning_ja": "向上した、高められた",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "बलवान",
+      "normalized": "बलवान",
+      "pos": "形容詞",
+      "meaning_ja": "強い、力強い",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "नवयुवक",
+      "normalized": "नवयुवक",
+      "pos": "名詞（男）",
+      "meaning_ja": "若者、青年",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "परिणामस्वरूप",
+      "normalized": "परिणामस्वरूप",
+      "pos": "副詞",
+      "meaning_ja": "結果として",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "नियमपूर्वक",
+      "normalized": "नियमपूर्वक",
+      "pos": "副詞",
+      "meaning_ja": "規則正しく",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "दुर्बल",
+      "normalized": "दुर्बल",
+      "pos": "形容詞",
+      "meaning_ja": "弱い、虚弱な",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "महत्त्व",
+      "normalized": "महत्व",
+      "display": "महत्व",
+      "variants": [
+        "महत्त्व"
+      ],
+      "pos": "名詞（男）",
+      "meaning_ja": "重要性",
+      "importance": 4,
+      "status": "active"
+    }
+  ],
+
+  "meta": {
+    "source_type": "manual_curated",
+    "reading_genre": "academic",
+    "dedupe_ready": true
+  }
+}
+

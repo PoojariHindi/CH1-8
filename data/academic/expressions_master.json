@@ -1,1 +1,162 @@
-[]
+[
+  {
+    "text": "अच्छे गुणों का विकास होता है",
+    "normalized": "अच्छे गुणों का विकास होता है",
+    "meaning_ja": "良い性質が育まれる",
+    "type": "academic_expression",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "道徳",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_001"
+    ],
+    "sourceTitle": "सत्संगति",
+    "sourceGenre": "essay",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "text": "कुसंगति को त्याग कर सत्संगति को अपना लेना चाहिए",
+    "normalized": "कुसंगति को त्याग कर सत्संगति को अपना लेना चाहिए",
+    "meaning_ja": "悪い交際を捨て、善い交わりを受け入れるべきである",
+    "type": "moral_statement",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "道徳",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_001"
+    ],
+    "sourceTitle": "सत्संगति",
+    "sourceGenre": "essay",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "text": "नियमपूर्वक व्यायam किया जाए",
+    "normalized": "नियमपूर्वक व्यायाम किया जाए",
+    "meaning_ja": "規則正しく運動を行う",
+    "type": "academic_expression",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "健康",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_002"
+    ],
+    "sourceTitle": "व्यायाम के लाभ",
+    "sourceGenre": "essay",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "text": "बीमारियों का शिकार हो रहे हैं",
+    "normalized": "बीमारियों का शिकार हो रहे हैं",
+    "meaning_ja": "病気の犠牲になっている",
+    "type": "academic_expression",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "健康",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_002"
+    ],
+    "sourceTitle": "व्यायाम के लाभ",
+    "sourceGenre": "essay",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "text": "मनुष्य को मनुष्य बने रहने की कोशिश हमेशा करनी चाहिए",
+    "normalized": "मनुष्य को मनुष्य बने रहने की कोशिश हमेशा करनी चाहिए",
+    "meaning_ja": "人は人間らしくあり続ける努力を常にすべきである",
+    "type": "moral_statement",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "道徳",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_001"
+    ],
+    "sourceTitle": "सत्संगति",
+    "sourceGenre": "essay",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "text": "व्यायाम के महत्त्व को समझने की",
+    "normalized": "व्यायाम के महत्व को समझने की",
+    "meaning_ja": "運動の重要性を理解する",
+    "type": "academic_expression",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "健康",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_002"
+    ],
+    "sourceTitle": "व्यायाम के लाभ",
+    "sourceGenre": "essay",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "text": "साथ में रहना ही 'संगति' कहलाती है",
+    "normalized": "साथ में रहना ही संगति कहलाती है",
+    "meaning_ja": "共にいることが『交わり』と呼ばれる",
+    "type": "definition",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "道徳",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_001"
+    ],
+    "sourceTitle": "सत्संगति",
+    "sourceGenre": "essay",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "text": "स्वस्थ शरीर में ही स्वस्थ मन का वास होता है",
+    "normalized": "स्वस्थ शरीर में ही स्वस्थ मन का वास होता है",
+    "meaning_ja": "健康な身体にこそ健康な精神が宿る",
+    "type": "proverb_like",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "健康",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_002"
+    ],
+    "sourceTitle": "व्यायाम के लाभ",
+    "sourceGenre": "essay",
+    "sourceRegister": "academic_prose"
+  }
+]
