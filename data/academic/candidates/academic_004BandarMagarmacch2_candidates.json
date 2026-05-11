@@ -1,0 +1,516 @@
+[
+  {
+    "word": "मांस",
+    "display": "मांस",
+    "normalized": "मांस",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "肉",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "道徳",
+      "物語",
+      "動物寓話"
+    ],
+    "sourceIds": [
+      "academic_004BandarMagarmacch2"
+    ],
+    "sourceTitle": "बंदर और मगरमच्छ",
+    "sourceGenre": "story",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "word": "लालसा",
+    "display": "लालसा",
+    "normalized": "लालसा",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "強い欲望、切望",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "道徳",
+      "物語",
+      "動物寓話"
+    ],
+    "sourceIds": [
+      "academic_004BandarMagarmacch2"
+    ],
+    "sourceTitle": "बंदर और मगरमच्छ",
+    "sourceGenre": "story",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "word": "धूर्त",
+    "display": "धूर्त",
+    "normalized": "धूर्त",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "ずる賢い、狡猾な",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "道徳",
+      "物語",
+      "動物寓話"
+    ],
+    "sourceIds": [
+      "academic_004BandarMagarmacch2"
+    ],
+    "sourceTitle": "बंदर और मगरमच्छ",
+    "sourceGenre": "story",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "word": "योजना",
+    "display": "योजना",
+    "normalized": "योजना",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "計画",
+    "importance": 3,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "道徳",
+      "物語",
+      "動物寓話"
+    ],
+    "sourceIds": [
+      "academic_004BandarMagarmacch2"
+    ],
+    "sourceTitle": "बंदर और मगरमच्छ",
+    "sourceGenre": "story",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "word": "बहाना",
+    "display": "बहाना",
+    "normalized": "बहाना",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "口実、言い訳",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "道徳",
+      "物語",
+      "動物寓話"
+    ],
+    "sourceIds": [
+      "academic_004BandarMagarmacch2"
+    ],
+    "sourceTitle": "बंदर और मगरमच्छ",
+    "sourceGenre": "story",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "word": "आँसू",
+    "display": "आँसू",
+    "normalized": "आँसू",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "涙",
+    "importance": 3,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "道徳",
+      "物語",
+      "動物寓話"
+    ],
+    "sourceIds": [
+      "academic_004BandarMagarmacch2"
+    ],
+    "sourceTitle": "बंदर और मगरमच्छ",
+    "sourceGenre": "story",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "word": "मानो",
+    "display": "मानो",
+    "normalized": "मानो",
+    "variants": [],
+    "pos": "接続詞",
+    "meaning_ja": "まるで〜のように",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "道徳",
+      "物語",
+      "動物寓話"
+    ],
+    "sourceIds": [
+      "academic_004BandarMagarmacch2"
+    ],
+    "sourceTitle": "बंदर और मगरमच्छ",
+    "sourceGenre": "story",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "word": "उदास",
+    "display": "उदास",
+    "normalized": "उदास",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "悲しい、落ち込んだ",
+    "importance": 3,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "道徳",
+      "物語",
+      "動物寓話"
+    ],
+    "sourceIds": [
+      "academic_004BandarMagarmacch2"
+    ],
+    "sourceTitle": "बंदर और मगरमच्छ",
+    "sourceGenre": "story",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "word": "दिल",
+    "display": "दिल",
+    "normalized": "दिल",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "心、心臓",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "道徳",
+      "物語",
+      "動物寓話"
+    ],
+    "sourceIds": [
+      "academic_004BandarMagarmacch2"
+    ],
+    "sourceTitle": "बंदर और मगरमच्छ",
+    "sourceGenre": "story",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "word": "प्रिये",
+    "display": "प्रिय",
+    "normalized": "प्रिय",
+    "variants": [
+      "प्रिये"
+    ],
+    "pos": "呼格",
+    "meaning_ja": "愛しい人よ",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "道徳",
+      "物語",
+      "動物寓話"
+    ],
+    "sourceIds": [
+      "academic_004BandarMagarmacch2"
+    ],
+    "sourceTitle": "बंदर और मगरमच्छ",
+    "sourceGenre": "story",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "word": "एकमात्र",
+    "display": "एकमात्र",
+    "normalized": "एकमात्र",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "唯一の",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "道徳",
+      "物語",
+      "動物寓話"
+    ],
+    "sourceIds": [
+      "academic_004BandarMagarmacch2"
+    ],
+    "sourceTitle": "बंदर और मगरमच्छ",
+    "sourceGenre": "story",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "word": "नुकसान",
+    "display": "नुकसान",
+    "normalized": "नुकसान",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "損害、危害",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "道徳",
+      "物語",
+      "動物寓話"
+    ],
+    "sourceIds": [
+      "academic_004BandarMagarmacch2"
+    ],
+    "sourceTitle": "बंदर और मगरमच्छ",
+    "sourceGenre": "story",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "word": "भ्रमित",
+    "display": "भ्रमित",
+    "normalized": "भ्रमित",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "混乱した、惑わされた",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "道徳",
+      "物語",
+      "動物寓話"
+    ],
+    "sourceIds": [
+      "academic_004BandarMagarmacch2"
+    ],
+    "sourceTitle": "बंदर और मगरमच्छ",
+    "sourceGenre": "story",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "word": "धमकी",
+    "display": "धमकी",
+    "normalized": "धमकी",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "脅し、脅迫",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "道徳",
+      "物語",
+      "動物寓話"
+    ],
+    "sourceIds": [
+      "academic_004BandarMagarmacch2"
+    ],
+    "sourceTitle": "बंदर और मगरमच्छ",
+    "sourceGenre": "story",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "word": "फैसला",
+    "display": "फैसला",
+    "normalized": "फैसला",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "決定、判断",
+    "importance": 3,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "道徳",
+      "物語",
+      "動物寓話"
+    ],
+    "sourceIds": [
+      "academic_004BandarMagarmacch2"
+    ],
+    "sourceTitle": "बंदर और मगरमच्छ",
+    "sourceGenre": "story",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "word": "ज़िन्दगी",
+    "display": "ज़िन्दगी",
+    "normalized": "जिंदगी",
+    "variants": [
+      "ज़िन्दगी",
+      "जिन्दगी"
+    ],
+    "pos": "名詞（女）",
+    "meaning_ja": "人生、命",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "道徳",
+      "物語",
+      "動物寓話"
+    ],
+    "sourceIds": [
+      "academic_004BandarMagarmacch2"
+    ],
+    "sourceTitle": "बंदर और मगरमच्छ",
+    "sourceGenre": "story",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "word": "पति",
+    "display": "पति",
+    "normalized": "पति",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "夫",
+    "importance": 3,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "道徳",
+      "物語",
+      "動物寓話"
+    ],
+    "sourceIds": [
+      "academic_004BandarMagarmacch2"
+    ],
+    "sourceTitle": "बंदर और मगरमच्छ",
+    "sourceGenre": "story",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "word": "देखभाल",
+    "display": "देखभाल",
+    "normalized": "देखभाल",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "世話、看護",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "道徳",
+      "物語",
+      "動物寓話"
+    ],
+    "sourceIds": [
+      "academic_004BandarMagarmacch2"
+    ],
+    "sourceTitle": "बंदर और मगरमच्छ",
+    "sourceGenre": "story",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "word": "ज़िम्मेदारी",
+    "display": "ज़िम्मेदारी",
+    "normalized": "जिम्मेदारी",
+    "variants": [
+      "ज़िम्मेदारी",
+      "जिम्मेदारी"
+    ],
+    "pos": "名詞（女）",
+    "meaning_ja": "責任",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "道徳",
+      "物語",
+      "動物寓話"
+    ],
+    "sourceIds": [
+      "academic_004BandarMagarmacch2"
+    ],
+    "sourceTitle": "बंदर और मगरमच्छ",
+    "sourceGenre": "story",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "word": "निश्चय",
+    "display": "निश्चय",
+    "normalized": "निश्चय",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "決意、決定",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "道徳",
+      "物語",
+      "動物寓話"
+    ],
+    "sourceIds": [
+      "academic_004BandarMagarmacch2"
+    ],
+    "sourceTitle": "बंदर और मगरमच्छ",
+    "sourceGenre": "story",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "word": "लड़ाई",
+    "display": "लड़ाई",
+    "normalized": "लड़ाई",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "喧嘩、争い",
+    "importance": 3,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "道徳",
+      "物語",
+      "動物寓話"
+    ],
+    "sourceIds": [
+      "academic_004BandarMagarmacch2"
+    ],
+    "sourceTitle": "बंदर और मगरमच्छ",
+    "sourceGenre": "story",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "word": "इच्छा",
+    "display": "इच्छा",
+    "normalized": "इच्छा",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "願い、希望、欲求",
+    "importance": 3,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "道徳",
+      "物語",
+      "動物寓話"
+    ],
+    "sourceIds": [
+      "academic_004BandarMagarmacch2"
+    ],
+    "sourceTitle": "बंदर और मगरमच्छ",
+    "sourceGenre": "story",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "word": "डूबना",
+    "display": "डूबना",
+    "normalized": "डूबना",
+    "variants": [],
+    "pos": "自動詞",
+    "meaning_ja": "沈む、溺れる",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "道徳",
+      "物語",
+      "動物寓話"
+    ],
+    "sourceIds": [
+      "academic_004BandarMagarmacch2"
+    ],
+    "sourceTitle": "बंदर और मगरमच्छ",
+    "sourceGenre": "story",
+    "sourceRegister": "simple_narrative"
+  }
+]

@@ -1,0 +1,204 @@
+{
+  "id": "academic_003BandarMagarmacch1",
+  "schema_version": 1,
+
+  "title": "बंदर और मगरमच्छ",
+  "author": "Vishnu Sharma",
+  "source": "Panchatantra",
+  "year": "NA",
+
+  "genre": "story",
+  "register": "simple_narrative",
+
+  "category": "読解",
+
+  "tags": [
+    "道徳",
+    "物語",
+    "動物寓話"
+  ],
+
+  "key_phrase": "तुम्हारा स्वागत है",
+
+  "text": "एक बंदर नदी किनारे जामुन के पेड़ पर रहता था। जामुन के पेड़ पर पूरे साल भरपूर फल लगे रहते हैं। एक बंदर के लिए जामुन से ज़्यादा प्रिय और कुछ नहीं होता। एक दिन एक मगरमच्छ नदी से बाहर आया और जामुन के पेड़ के पास चला गया। “तुम कौन हो?” बंदर पेड़ पर से चिल्लाया। मगरमच्छ ने ऊपर बंदर को देखा और बोला, “मैं मगरमच्छ हूँ। मैं भोजन की तलाश में घूम रहा हूँ।” “भोजन! मेरे पास यहाँ बहुत सारे जामुन हैं। एक खा के देखो। अगर तुम्हें अच्छा लगे तो मैं तुम्हें जितने चाहे उतने दे दूँगा।” यह कह कर बंदर ने पेड़ पर से कुछ जामुन तोड़े और उन्हें नीचे फेंक दिया। मगरमच्छ ने वे सारे जामुन खा गया और बोला, मुझे ये बहुत अच्छे लगे। मैंने अपने जीवन में इससे अच्छे फल नहीं खाए हैं। बंदर ने कुछ और जामुन नीचे फेंके और मगरमच्छ वे सब खा गया। मगरमच्छ ने पूछा, “क्या मैं फिर आ सकता हूँ? क्या तुम मुझे कुछ और फल दोगे?” “तुम्हारा स्वागत है,” बंदर बोला। “तुम मेरे मेहमान हो, तुम जितने चाहे उतने जामुन खा सकते हो।” मगरमच्छ ने कहा कि वह फिर आयेगा और यह कहकर बंदर से विदा ली। अगले दिन मगरमच्छ फिर आया। बंदर उसे देखकर बहुत खुश हुआ और उसे कुछ जामुन खाने को दिए। बंदर और मगरमच्छ की दोस्ती हो गई। मगरमच्छ बंदर से रोज़ मिलने आने लगा। एक दिन मगरमच्छ ने बंदर को अपनी पत्नी के बारे में बताया। “तुम्हारी पत्नी भी है?” बंदर बोला। “तुम उस के लिए भी कुछ जामुन ले जाओ।” उसने बहुत सारे जामुन तोड़े और मगरमच्छ को दिए, मगरमच्छ ने घर जाकर अपनी पत्नी को वह जामुन खिलाए। उसकी पत्नी को जामुन बहुत अच्छे लगे। और मगरमच्छ रोज़ाना जामुन लाने लगा। बंदर और मगरमच्छ गहरे दोस्त बन गए और एक-दूसरे के साथ ज़्यादा से ज़्यादा समय बिताने लगे。",
+
+  "expressions": [
+    {
+      "text": "मैं भोजन की तलाश में घूम रहा हूँ",
+      "normalized": "मैं भोजन की तलाश में घूम रहा हूँ",
+      "meaning_ja": "私は食べ物を探して歩き回っています",
+      "type": "narrative_expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "तुम्हारा स्वागत है",
+      "normalized": "तुम्हारा स्वागत है",
+      "meaning_ja": "歓迎します",
+      "type": "conversation_expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "बंदर और मगरमच्छ की दोस्ती हो गई",
+      "normalized": "बंदर और मगरमच्छ की दोस्ती हो गई",
+      "meaning_ja": "猿とワニは友達になった",
+      "type": "narrative_expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "एक-दूसरे के साथ ज़्यादा से ज़्यादा समय बिताने लगे",
+      "normalized": "एक दूसरे के साथ ज्यादा से ज्यादा समय बिताने लगे",
+      "meaning_ja": "互いにますます多くの時間を共に過ごすようになった",
+      "type": "narrative_expression",
+      "importance": 4,
+      "status": "active"
+    }
+  ],
+
+  "vocab_candidates": [
+    {
+      "word": "किनारा",
+      "normalized": "किनारा",
+      "pos": "名詞（男）",
+      "meaning_ja": "岸、端",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "जामुन",
+      "normalized": "जामुन",
+      "pos": "名詞（男）",
+      "meaning_ja": "ジャームン（インドの果実）",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "भरपूर",
+      "normalized": "भरपूर",
+      "pos": "形容詞",
+      "meaning_ja": "豊富な、たっぷりの",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "प्रिय",
+      "normalized": "प्रिय",
+      "pos": "形容詞",
+      "meaning_ja": "愛しい、好きな、大切な",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "मगरमच्छ",
+      "normalized": "मगरमच्छ",
+      "pos": "名詞（男）",
+      "meaning_ja": "ワニ",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "तलाश",
+      "normalized": "तलाश",
+      "pos": "名詞（女）",
+      "meaning_ja": "探索、探し求めること",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "घूमना",
+      "normalized": "घूमना",
+      "pos": "自動詞",
+      "meaning_ja": "歩き回る",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "तोड़ना",
+      "normalized": "तोड़ना",
+      "pos": "他動詞",
+      "meaning_ja": "もぎ取る、壊す",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "फेंकना",
+      "normalized": "फेंकना",
+      "pos": "他動詞",
+      "meaning_ja": "投げる",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "स्वागत",
+      "normalized": "स्वागत",
+      "pos": "名詞（男）",
+      "meaning_ja": "歓迎",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "मेहमान",
+      "normalized": "मेहमान",
+      "pos": "名詞（男）",
+      "meaning_ja": "客、来客",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "विदा",
+      "normalized": "विदा",
+      "pos": "名詞（女）",
+      "meaning_ja": "別れ、別れの挨拶",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "दोस्ती",
+      "normalized": "दोस्ती",
+      "pos": "名詞（女）",
+      "meaning_ja": "友情",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "पत्नी",
+      "normalized": "पत्नी",
+      "pos": "名詞（女）",
+      "meaning_ja": "妻",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "खिलाना",
+      "normalized": "खिलाना",
+      "pos": "使役動詞",
+      "meaning_ja": "食べさせる",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "गहरा",
+      "normalized": "गहरा",
+      "pos": "形容詞",
+      "meaning_ja": "深い",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "समय बिताना",
+      "normalized": "समय_बिताना",
+      "pos": "動詞句",
+      "meaning_ja": "時間を過ごす",
+      "importance": 4,
+      "status": "active"
+    }
+  ],
+
+  "meta": {
+    "source_type": "manual_curated",
+    "reading_genre": "story",
+    "dedupe_ready": true
+  }
+}

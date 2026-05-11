@@ -1,429 +1,793 @@
 {
   "summary": {
-    "candidateFiles": 2,
-    "totalCandidates": 28,
-    "newCandidates": 18,
-    "existingCandidates": 10,
+    "candidateFiles": 7,
+    "totalCandidates": 120,
+    "newCandidates": 34,
+    "existingCandidates": 86,
     "duplicateCandidates": 0,
     "hardStopwords": 0,
     "softStopwordReviews": 0
   },
   "newCandidates": [
     {
-      "word": "उन्नत",
-      "display": "उन्नत",
-      "normalized": "उन्नत",
+      "word": "अतिशयोक्ति",
+      "display": "अतिशयोक्ति",
+      "normalized": "अतिशयोक्ति",
       "variants": [],
-      "pos": "形容詞",
-      "meaning_ja": "向上した、高められた",
+      "pos": "名詞（女）",
+      "meaning_ja": "誇張、言い過ぎ",
       "importance": 4,
       "status": "active",
       "category": "academic",
       "tags": [
         "教科書",
-        "健康",
+        "作文",
         "抽象語"
       ],
       "sourceIds": [
-        "academic_002"
+        "academic_006"
       ],
-      "sourceTitle": "व्यायाम के लाभ",
-      "sourceGenre": "essay",
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
       "sourceRegister": "academic_prose",
       "audit": "new_candidate"
     },
     {
-      "word": "दुर्बल",
-      "display": "दुर्बल",
-      "normalized": "दुर्बल",
+      "word": "अनर्गल",
+      "display": "अनर्गल",
+      "normalized": "अनर्गल",
       "variants": [],
       "pos": "形容詞",
-      "meaning_ja": "弱い、虚弱な",
+      "meaning_ja": "無駄な、とりとめのない、不必要な",
       "importance": 4,
       "status": "active",
       "category": "academic",
       "tags": [
         "教科書",
-        "健康",
+        "作文",
         "抽象語"
       ],
       "sourceIds": [
-        "academic_002"
+        "academic_006"
       ],
-      "sourceTitle": "व्यायाम के लाभ",
-      "sourceGenre": "essay",
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
       "sourceRegister": "academic_prose",
       "audit": "new_candidate"
     },
     {
-      "word": "नियमपूर्वक",
-      "display": "नियमपूर्वक",
-      "normalized": "नियमपूर्वक",
+      "word": "अनुकूल",
+      "display": "अनुकूल",
+      "normalized": "अनुकूल",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "適した、都合のよい、ふさわしい",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_006"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "अभिव्यक्ति",
+      "display": "अभिव्यक्ति",
+      "normalized": "अभिव्यक्ति",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "表現、表明",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_006"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "उद्धरण",
+      "display": "उद्धरण",
+      "normalized": "उद्धरण",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "引用",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_006"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "क्रमबद्ध",
+      "display": "क्रमबद्ध",
+      "normalized": "क्रमबद्ध",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "順序立った、体系的な",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_006"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "क्रमबद्धता",
+      "display": "क्रमबद्धता",
+      "normalized": "क्रमबद्धता",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "順序立っていること、体系性",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_006"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "दृष्टिकोण",
+      "display": "दृष्टिकोण",
+      "normalized": "दृष्टिकोण",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "視点、考え方、見方",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_006"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "निबंध",
+      "display": "निबंध",
+      "normalized": "निबंध",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "作文、エッセイ、論説文",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_006"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "परस्पर",
+      "display": "परस्पर",
+      "normalized": "परस्पर",
       "variants": [],
       "pos": "副詞",
-      "meaning_ja": "規則正しく",
+      "meaning_ja": "相互に、互いに",
       "importance": 4,
       "status": "active",
       "category": "academic",
       "tags": [
         "教科書",
-        "健康",
+        "作文",
         "抽象語"
       ],
       "sourceIds": [
-        "academic_002"
+        "academic_006"
       ],
-      "sourceTitle": "व्यायाम के लाभ",
-      "sourceGenre": "essay",
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
       "sourceRegister": "academic_prose",
       "audit": "new_candidate"
     },
     {
-      "word": "निरन्तर",
-      "display": "निरंतर",
-      "normalized": "निरंतर",
-      "variants": [
-        "निरन्तर"
+      "word": "पर्यायवाची",
+      "display": "पर्यायवाची",
+      "normalized": "पर्यायवाची",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "同義の、同義語の",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
       ],
+      "sourceIds": [
+        "academic_006"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "प्रभावशाली",
+      "display": "प्रभावशाली",
+      "normalized": "प्रभावशाली",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "効果的な、印象的な、影響力のある",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_006"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "प्रस्तुत",
+      "display": "प्रस्तुत",
+      "normalized": "प्रस्तुत",
+      "variants": [],
+      "pos": "形容詞・分詞",
+      "meaning_ja": "提示された、発表された",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_006"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "प्राक्कथन",
+      "display": "प्राक्कथन",
+      "normalized": "प्राक्कथन",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "序文、まえがき",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_006"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "प्रायः",
+      "display": "प्रायः",
+      "normalized": "प्रायः",
+      "variants": [],
       "pos": "副詞",
-      "meaning_ja": "絶えず、継続的に",
+      "meaning_ja": "たいてい、しばしば、概して",
       "importance": 4,
       "status": "active",
       "category": "academic",
       "tags": [
         "教科書",
-        "健康",
+        "作文",
         "抽象語"
       ],
       "sourceIds": [
-        "academic_002"
+        "academic_006"
       ],
-      "sourceTitle": "व्यायाम के लाभ",
-      "sourceGenre": "essay",
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
       "sourceRegister": "academic_prose",
       "audit": "new_candidate"
     },
     {
-      "word": "निरोगी",
-      "display": "निरोगी",
-      "normalized": "निरोगी",
+      "word": "बहुमुखी",
+      "display": "बहुमुखी",
+      "normalized": "बहुमुखी",
       "variants": [],
       "pos": "形容詞",
-      "meaning_ja": "健康な、病気のない",
+      "meaning_ja": "多面的な、多方面の",
       "importance": 4,
       "status": "active",
       "category": "academic",
       "tags": [
         "教科書",
-        "健康",
+        "作文",
         "抽象語"
       ],
       "sourceIds": [
-        "academic_002"
+        "academic_006"
       ],
-      "sourceTitle": "व्यायाम के लाभ",
-      "sourceGenre": "essay",
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
       "sourceRegister": "academic_prose",
       "audit": "new_candidate"
     },
     {
-      "word": "परिणामस्वरूप",
-      "display": "परिणामस्वरूप",
-      "normalized": "परिणामस्वरूप",
-      "variants": [],
-      "pos": "副詞",
-      "meaning_ja": "結果として",
-      "importance": 4,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "健康",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_002"
-      ],
-      "sourceTitle": "व्यायाम के लाभ",
-      "sourceGenre": "essay",
-      "sourceRegister": "academic_prose",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "परिश्रम",
-      "display": "परिश्रम",
-      "normalized": "परिश्रम",
-      "variants": [],
-      "pos": "名詞（男）",
-      "meaning_ja": "努力、労働",
-      "importance": 4,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "健康",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_002"
-      ],
-      "sourceTitle": "व्यायाम के लाभ",
-      "sourceGenre": "essay",
-      "sourceRegister": "academic_prose",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "महत्त्व",
-      "display": "महत्व",
-      "normalized": "महत्व",
-      "variants": [
-        "महत्त्व"
-      ],
-      "pos": "名詞（男）",
-      "meaning_ja": "重要性",
-      "importance": 4,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "健康",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_002"
-      ],
-      "sourceTitle": "व्यायाम के लाभ",
-      "sourceGenre": "essay",
-      "sourceRegister": "academic_prose",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "वास",
-      "display": "वास",
-      "normalized": "वास",
-      "variants": [],
-      "pos": "名詞（男）",
-      "meaning_ja": "宿ること、居住",
-      "importance": 4,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "健康",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_002"
-      ],
-      "sourceTitle": "व्यायाम के लाभ",
-      "sourceGenre": "essay",
-      "sourceRegister": "academic_prose",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "व्यायाम",
-      "display": "व्यायाम",
-      "normalized": "व्यायाम",
-      "variants": [],
-      "pos": "名詞（男）",
-      "meaning_ja": "運動、エクササイズ",
-      "importance": 4,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "健康",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_002"
-      ],
-      "sourceTitle": "व्यायाम के लाभ",
-      "sourceGenre": "essay",
-      "sourceRegister": "academic_prose",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "स्वस्थ",
-      "display": "स्वस्थ",
-      "normalized": "स्वस्थ",
+      "word": "बौद्धिक",
+      "display": "बौद्धिक",
+      "normalized": "बौद्धिक",
       "variants": [],
       "pos": "形容詞",
-      "meaning_ja": "健康な",
+      "meaning_ja": "知的な、知性に関する",
       "importance": 4,
       "status": "active",
       "category": "academic",
       "tags": [
         "教科書",
-        "健康",
+        "作文",
         "抽象語"
       ],
       "sourceIds": [
-        "academic_002"
+        "academic_006"
       ],
-      "sourceTitle": "व्यायाम के लाभ",
-      "sourceGenre": "essay",
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
       "sourceRegister": "academic_prose",
       "audit": "new_candidate"
     },
     {
-      "word": "अनदेखा",
-      "display": "अनदेखा",
-      "normalized": "अनदेखा",
-      "variants": [],
-      "pos": "形容詞",
-      "meaning_ja": "無視された",
-      "importance": 3,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "健康",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_002"
-      ],
-      "sourceTitle": "व्यायाम के लाभ",
-      "sourceGenre": "essay",
-      "sourceRegister": "academic_prose",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "नवयुवक",
-      "display": "नवयुवक",
-      "normalized": "नवयुवक",
+      "word": "माध्यम",
+      "display": "माध्यम",
+      "normalized": "माध्यम",
       "variants": [],
       "pos": "名詞（男）",
-      "meaning_ja": "若者、青年",
-      "importance": 3,
+      "meaning_ja": "手段、媒体、媒介",
+      "importance": 4,
       "status": "active",
       "category": "academic",
       "tags": [
         "教科書",
-        "健康",
+        "作文",
         "抽象語"
       ],
       "sourceIds": [
-        "academic_002"
+        "academic_006"
       ],
-      "sourceTitle": "व्यायाम के लाभ",
-      "sourceGenre": "essay",
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
       "sourceRegister": "academic_prose",
       "audit": "new_candidate"
     },
     {
-      "word": "बलवान",
-      "display": "बलवान",
-      "normalized": "बलवान",
+      "word": "मौखिक",
+      "display": "मौखिक",
+      "normalized": "मौखिक",
       "variants": [],
       "pos": "形容詞",
-      "meaning_ja": "強い、力強い",
-      "importance": 3,
+      "meaning_ja": "口頭の、口述の",
+      "importance": 4,
       "status": "active",
       "category": "academic",
       "tags": [
         "教科書",
-        "健康",
+        "作文",
         "抽象語"
       ],
       "sourceIds": [
-        "academic_002"
+        "academic_006"
       ],
-      "sourceTitle": "व्यायाम के लाभ",
-      "sourceGenre": "essay",
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
       "sourceRegister": "academic_prose",
       "audit": "new_candidate"
     },
     {
-      "word": "बीमारियाँ",
-      "display": "बीमारी",
-      "normalized": "बीमारी",
-      "variants": [],
-      "pos": "名詞（女・複）",
-      "meaning_ja": "病気",
-      "importance": 3,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "健康",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_002"
-      ],
-      "sourceTitle": "व्यायाम के लाभ",
-      "sourceGenre": "essay",
-      "sourceRegister": "academic_prose",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "भ्रमण",
-      "display": "भ्रमण",
-      "normalized": "भ्रमण",
+      "word": "यथार्थ",
+      "display": "यथार्थ",
+      "normalized": "यथार्थ",
       "variants": [],
       "pos": "名詞（男）",
-      "meaning_ja": "散歩、巡行",
-      "importance": 3,
+      "meaning_ja": "実情、真実、現実",
+      "importance": 4,
       "status": "active",
       "category": "academic",
       "tags": [
         "教科書",
-        "健康",
+        "作文",
         "抽象語"
       ],
       "sourceIds": [
-        "academic_002"
+        "academic_006"
       ],
-      "sourceTitle": "व्यायाम के लाभ",
-      "sourceGenre": "essay",
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
       "sourceRegister": "academic_prose",
       "audit": "new_candidate"
     },
     {
-      "word": "ललित",
-      "display": "ललित",
-      "normalized": "ललित",
+      "word": "युक्तिसंगत",
+      "display": "युक्तिसंगत",
+      "normalized": "युक्तिसंगत",
       "variants": [],
       "pos": "形容詞",
-      "meaning_ja": "美しい、芸術的な",
-      "importance": 3,
+      "meaning_ja": "理にかなった、適切な",
+      "importance": 4,
       "status": "active",
       "category": "academic",
       "tags": [
         "教科書",
-        "健康",
+        "作文",
         "抽象語"
       ],
       "sourceIds": [
-        "academic_002"
+        "academic_006"
       ],
-      "sourceTitle": "व्यायाम के लाभ",
-      "sourceGenre": "essay",
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
       "sourceRegister": "academic_prose",
       "audit": "new_candidate"
     },
     {
-      "word": "शिकार",
-      "display": "शिकार",
-      "normalized": "शिकार",
+      "word": "रचना",
+      "display": "रचना",
+      "normalized": "रचना",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "作品、作文、構成",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_006"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "विद्वान",
+      "display": "विद्वान",
+      "normalized": "विद्वान",
       "variants": [],
       "pos": "名詞（男）",
-      "meaning_ja": "犠牲、獲物",
+      "meaning_ja": "学者、知識人",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_006"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "विधा",
+      "display": "विधा",
+      "normalized": "विधा",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "ジャンル、形式、分野",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_006"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "विश्लेषण",
+      "display": "विश्लेषण",
+      "normalized": "विश्लेषण",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "分析",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_006"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "विषयवस्तु",
+      "display": "विषयवस्तु",
+      "normalized": "विषयवस्तु",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "内容、主題内容",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_006"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "संकुचित",
+      "display": "संकुचित",
+      "normalized": "संकुचित",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "狭められた、限定された",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_006"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "संधि",
+      "display": "संधि",
+      "normalized": "संधि",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "結合、連結、サンディ",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_006"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "संबद्धता",
+      "display": "संबद्धता",
+      "normalized": "संबद्धता",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "関連性、つながり",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_006"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "सशक्त",
+      "display": "सशक्त",
+      "normalized": "सशक्त",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "力強い、有力な",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_006"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "सहज",
+      "display": "सहज",
+      "normalized": "सहज",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "自然な、無理のない",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_006"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "सूक्ति",
+      "display": "सूक्ति",
+      "normalized": "सूक्ति",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "格言、警句",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_006"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "पालना",
+      "display": "पालना",
+      "normalized": "पालना",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "遵守、守ること",
       "importance": 3,
       "status": "active",
       "category": "academic",
       "tags": [
         "教科書",
-        "健康",
+        "作文",
         "抽象語"
       ],
       "sourceIds": [
-        "academic_002"
+        "academic_006"
       ],
-      "sourceTitle": "व्यायाम के लाभ",
-      "sourceGenre": "essay",
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "विस्तार",
+      "display": "विस्तार",
+      "normalized": "विस्तार",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "विस्तार、詳述、広がり",
+      "importance": 3,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_006"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
       "sourceRegister": "academic_prose",
       "audit": "new_candidate"
     }
@@ -657,6 +1021,1772 @@
       "sourceTitle": "सत्संगति",
       "sourceGenre": "essay",
       "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "स्वस्थ",
+      "display": "स्वस्थ",
+      "normalized": "स्वस्थ",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "健康な",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "健康",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_002"
+      ],
+      "sourceTitle": "व्यायाम के लाभ",
+      "sourceGenre": "essay",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "वास",
+      "display": "वास",
+      "normalized": "वास",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "宿ること、居住",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "健康",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_002"
+      ],
+      "sourceTitle": "व्यायाम के लाभ",
+      "sourceGenre": "essay",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "व्यायाम",
+      "display": "व्यायाम",
+      "normalized": "व्यायाम",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "運動、エクササイズ",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "健康",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_002"
+      ],
+      "sourceTitle": "व्यायाम के लाभ",
+      "sourceGenre": "essay",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "अनदेखा",
+      "display": "अनदेखा",
+      "normalized": "अनदेखा",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "無視された",
+      "importance": 3,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "健康",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_002"
+      ],
+      "sourceTitle": "व्यायाम के लाभ",
+      "sourceGenre": "essay",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "बीमारियाँ",
+      "display": "बीमारी",
+      "normalized": "बीमारी",
+      "variants": [],
+      "pos": "名詞（女・複）",
+      "meaning_ja": "病気",
+      "importance": 3,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "健康",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_002"
+      ],
+      "sourceTitle": "व्यायाम के लाभ",
+      "sourceGenre": "essay",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "शिकार",
+      "display": "शिकार",
+      "normalized": "शिकार",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "犠牲、獲物",
+      "importance": 3,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "健康",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_002"
+      ],
+      "sourceTitle": "व्यायाम के लाभ",
+      "sourceGenre": "essay",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "निरन्तर",
+      "display": "निरंतर",
+      "normalized": "निरंतर",
+      "variants": [
+        "निरन्तर"
+      ],
+      "pos": "副詞",
+      "meaning_ja": "絶えず、継続的に",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "健康",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_002"
+      ],
+      "sourceTitle": "व्यायाम के लाभ",
+      "sourceGenre": "essay",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "परिश्रम",
+      "display": "परिश्रम",
+      "normalized": "परिश्रम",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "努力、労働",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "健康",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_002"
+      ],
+      "sourceTitle": "व्यायाम के लाभ",
+      "sourceGenre": "essay",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "निरोगी",
+      "display": "निरोगी",
+      "normalized": "निरोगी",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "健康な、病気のない",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "健康",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_002"
+      ],
+      "sourceTitle": "व्यायाम के लाभ",
+      "sourceGenre": "essay",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "भ्रमण",
+      "display": "भ्रमण",
+      "normalized": "भ्रमण",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "散歩、巡行",
+      "importance": 3,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "健康",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_002"
+      ],
+      "sourceTitle": "व्यायाम के लाभ",
+      "sourceGenre": "essay",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "ललित",
+      "display": "ललित",
+      "normalized": "ललित",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "美しい、芸術的な",
+      "importance": 3,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "健康",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_002"
+      ],
+      "sourceTitle": "व्यायाम के लाभ",
+      "sourceGenre": "essay",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "उन्नत",
+      "display": "उन्नत",
+      "normalized": "उन्नत",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "向上した、高められた",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "健康",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_002"
+      ],
+      "sourceTitle": "व्यायाम के लाभ",
+      "sourceGenre": "essay",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "बलवान",
+      "display": "बलवान",
+      "normalized": "बलवान",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "強い、力強い",
+      "importance": 3,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "健康",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_002"
+      ],
+      "sourceTitle": "व्यायाम के लाभ",
+      "sourceGenre": "essay",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "नवयुवक",
+      "display": "नवयुवक",
+      "normalized": "नवयुवक",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "若者、青年",
+      "importance": 3,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "健康",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_002"
+      ],
+      "sourceTitle": "व्यायाम के लाभ",
+      "sourceGenre": "essay",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "परिणामस्वरूप",
+      "display": "परिणामस्वरूप",
+      "normalized": "परिणामस्वरूप",
+      "variants": [],
+      "pos": "副詞",
+      "meaning_ja": "結果として",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "健康",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_002"
+      ],
+      "sourceTitle": "व्यायाम के लाभ",
+      "sourceGenre": "essay",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "नियमपूर्वक",
+      "display": "नियमपूर्वक",
+      "normalized": "नियमपूर्वक",
+      "variants": [],
+      "pos": "副詞",
+      "meaning_ja": "規則正しく",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "健康",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_002"
+      ],
+      "sourceTitle": "व्यायाम के लाभ",
+      "sourceGenre": "essay",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "दुर्बल",
+      "display": "दुर्बल",
+      "normalized": "दुर्बल",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "弱い、虚弱な",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "健康",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_002"
+      ],
+      "sourceTitle": "व्यायाम के लाभ",
+      "sourceGenre": "essay",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "महत्त्व",
+      "display": "महत्व",
+      "normalized": "महत्व",
+      "variants": [
+        "महत्त्व"
+      ],
+      "pos": "名詞（男）",
+      "meaning_ja": "重要性",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "健康",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_002"
+      ],
+      "sourceTitle": "व्यायाम के लाभ",
+      "sourceGenre": "essay",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "किनारा",
+      "display": "किनारा",
+      "normalized": "किनारा",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "岸、端",
+      "importance": 3,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "道徳",
+        "物語",
+        "動物寓話"
+      ],
+      "sourceIds": [
+        "academic_003BandarMagarmacch1"
+      ],
+      "sourceTitle": "बंदर और मगरमच्छ",
+      "sourceGenre": "story",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "जामुन",
+      "display": "जामुन",
+      "normalized": "जामुन",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "ジャームン（インドの果実）",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "道徳",
+        "物語",
+        "動物寓話"
+      ],
+      "sourceIds": [
+        "academic_003BandarMagarmacch1"
+      ],
+      "sourceTitle": "बंदर और मगरमच्छ",
+      "sourceGenre": "story",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "भरपूर",
+      "display": "भरपूर",
+      "normalized": "भरपूर",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "豊富な、たっぷりの",
+      "importance": 3,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "道徳",
+        "物語",
+        "動物寓話"
+      ],
+      "sourceIds": [
+        "academic_003BandarMagarmacch1"
+      ],
+      "sourceTitle": "बंदर और मगरमच्छ",
+      "sourceGenre": "story",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "प्रिय",
+      "display": "प्रिय",
+      "normalized": "प्रिय",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "愛しい、好きな、大切な",
+      "importance": 3,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "道徳",
+        "物語",
+        "動物寓話"
+      ],
+      "sourceIds": [
+        "academic_003BandarMagarmacch1"
+      ],
+      "sourceTitle": "बंदर और मगरमच्छ",
+      "sourceGenre": "story",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "मगरमच्छ",
+      "display": "मगरमच्छ",
+      "normalized": "मगरमच्छ",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "ワニ",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "道徳",
+        "物語",
+        "動物寓話"
+      ],
+      "sourceIds": [
+        "academic_003BandarMagarmacch1"
+      ],
+      "sourceTitle": "बंदर और मगरमच्छ",
+      "sourceGenre": "story",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "तलाश",
+      "display": "तलाश",
+      "normalized": "तलाश",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "探索、探し求めること",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "道徳",
+        "物語",
+        "動物寓話"
+      ],
+      "sourceIds": [
+        "academic_003BandarMagarmacch1"
+      ],
+      "sourceTitle": "बंदर और मगरमच्छ",
+      "sourceGenre": "story",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "घूमना",
+      "display": "घूमना",
+      "normalized": "घूमना",
+      "variants": [],
+      "pos": "自動詞",
+      "meaning_ja": "歩き回る",
+      "importance": 3,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "道徳",
+        "物語",
+        "動物寓話"
+      ],
+      "sourceIds": [
+        "academic_003BandarMagarmacch1"
+      ],
+      "sourceTitle": "बंदर और मगरमच्छ",
+      "sourceGenre": "story",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "तोड़ना",
+      "display": "तोड़ना",
+      "normalized": "तोड़ना",
+      "variants": [],
+      "pos": "他動詞",
+      "meaning_ja": "もぎ取る、壊す",
+      "importance": 3,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "道徳",
+        "物語",
+        "動物寓話"
+      ],
+      "sourceIds": [
+        "academic_003BandarMagarmacch1"
+      ],
+      "sourceTitle": "बंदर और मगरमच्छ",
+      "sourceGenre": "story",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "फेंकना",
+      "display": "फेंकना",
+      "normalized": "फेंकना",
+      "variants": [],
+      "pos": "他動詞",
+      "meaning_ja": "投げる",
+      "importance": 3,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "道徳",
+        "物語",
+        "動物寓話"
+      ],
+      "sourceIds": [
+        "academic_003BandarMagarmacch1"
+      ],
+      "sourceTitle": "बंदर और मगरमच्छ",
+      "sourceGenre": "story",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "स्वागत",
+      "display": "स्वागत",
+      "normalized": "स्वागत",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "歓迎",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "道徳",
+        "物語",
+        "動物寓話"
+      ],
+      "sourceIds": [
+        "academic_003BandarMagarmacch1"
+      ],
+      "sourceTitle": "बंदर और मगरमच्छ",
+      "sourceGenre": "story",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "मेहमान",
+      "display": "मेहमान",
+      "normalized": "मेहमान",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "客、来客",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "道徳",
+        "物語",
+        "動物寓話"
+      ],
+      "sourceIds": [
+        "academic_003BandarMagarmacch1"
+      ],
+      "sourceTitle": "बंदर और मगरमच्छ",
+      "sourceGenre": "story",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "विदा",
+      "display": "विदा",
+      "normalized": "विदा",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "別れ、別れの挨拶",
+      "importance": 3,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "道徳",
+        "物語",
+        "動物寓話"
+      ],
+      "sourceIds": [
+        "academic_003BandarMagarmacch1"
+      ],
+      "sourceTitle": "बंदर और मगरमच्छ",
+      "sourceGenre": "story",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "दोस्ती",
+      "display": "दोस्ती",
+      "normalized": "दोस्ती",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "友情",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "道徳",
+        "物語",
+        "動物寓話"
+      ],
+      "sourceIds": [
+        "academic_003BandarMagarmacch1"
+      ],
+      "sourceTitle": "बंदर और मगरमच्छ",
+      "sourceGenre": "story",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "पत्नी",
+      "display": "पत्नी",
+      "normalized": "पत्नी",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "妻",
+      "importance": 3,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "道徳",
+        "物語",
+        "動物寓話"
+      ],
+      "sourceIds": [
+        "academic_003BandarMagarmacch1"
+      ],
+      "sourceTitle": "बंदर और मगरमच्छ",
+      "sourceGenre": "story",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "खिलाना",
+      "display": "खिलाना",
+      "normalized": "खिलाना",
+      "variants": [],
+      "pos": "使役動詞",
+      "meaning_ja": "食べさせる",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "道徳",
+        "物語",
+        "動物寓話"
+      ],
+      "sourceIds": [
+        "academic_003BandarMagarmacch1"
+      ],
+      "sourceTitle": "बंदर और मगरमच्छ",
+      "sourceGenre": "story",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "गहरा",
+      "display": "गहरा",
+      "normalized": "गहरा",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "深い",
+      "importance": 3,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "道徳",
+        "物語",
+        "動物寓話"
+      ],
+      "sourceIds": [
+        "academic_003BandarMagarmacch1"
+      ],
+      "sourceTitle": "बंदर और मगरमच्छ",
+      "sourceGenre": "story",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "समय बिताना",
+      "display": "समय बिताना",
+      "normalized": "समय_बिताना",
+      "variants": [],
+      "pos": "動詞句",
+      "meaning_ja": "時間を過ごす",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "道徳",
+        "物語",
+        "動物寓話"
+      ],
+      "sourceIds": [
+        "academic_003BandarMagarmacch1"
+      ],
+      "sourceTitle": "बंदर और मगरमच्छ",
+      "sourceGenre": "story",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "मांस",
+      "display": "मांस",
+      "normalized": "मांस",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "肉",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "道徳",
+        "物語",
+        "動物寓話"
+      ],
+      "sourceIds": [
+        "academic_004BandarMagarmacch2"
+      ],
+      "sourceTitle": "बंदर और मगरमच्छ",
+      "sourceGenre": "story",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "लालसा",
+      "display": "लालसा",
+      "normalized": "लालसा",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "強い欲望、切望",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "道徳",
+        "物語",
+        "動物寓話"
+      ],
+      "sourceIds": [
+        "academic_004BandarMagarmacch2"
+      ],
+      "sourceTitle": "बंदर और मगरमच्छ",
+      "sourceGenre": "story",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "धूर्त",
+      "display": "धूर्त",
+      "normalized": "धूर्त",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "ずる賢い、狡猾な",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "道徳",
+        "物語",
+        "動物寓話"
+      ],
+      "sourceIds": [
+        "academic_004BandarMagarmacch2"
+      ],
+      "sourceTitle": "बंदर और मगरमच्छ",
+      "sourceGenre": "story",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "योजना",
+      "display": "योजना",
+      "normalized": "योजना",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "計画",
+      "importance": 3,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "道徳",
+        "物語",
+        "動物寓話"
+      ],
+      "sourceIds": [
+        "academic_004BandarMagarmacch2"
+      ],
+      "sourceTitle": "बंदर और मगरमच्छ",
+      "sourceGenre": "story",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "बहाना",
+      "display": "बहाना",
+      "normalized": "बहाना",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "口実、言い訳",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "道徳",
+        "物語",
+        "動物寓話"
+      ],
+      "sourceIds": [
+        "academic_004BandarMagarmacch2"
+      ],
+      "sourceTitle": "बंदर और मगरमच्छ",
+      "sourceGenre": "story",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "आँसू",
+      "display": "आँसू",
+      "normalized": "आँसू",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "涙",
+      "importance": 3,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "道徳",
+        "物語",
+        "動物寓話"
+      ],
+      "sourceIds": [
+        "academic_004BandarMagarmacch2"
+      ],
+      "sourceTitle": "बंदर और मगरमच्छ",
+      "sourceGenre": "story",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "मानो",
+      "display": "मानो",
+      "normalized": "मानो",
+      "variants": [],
+      "pos": "接続詞",
+      "meaning_ja": "まるで〜のように",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "道徳",
+        "物語",
+        "動物寓話"
+      ],
+      "sourceIds": [
+        "academic_004BandarMagarmacch2"
+      ],
+      "sourceTitle": "बंदर और मगरमच्छ",
+      "sourceGenre": "story",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "उदास",
+      "display": "उदास",
+      "normalized": "उदास",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "悲しい、落ち込んだ",
+      "importance": 3,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "道徳",
+        "物語",
+        "動物寓話"
+      ],
+      "sourceIds": [
+        "academic_004BandarMagarmacch2"
+      ],
+      "sourceTitle": "बंदर और मगरमच्छ",
+      "sourceGenre": "story",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "दिल",
+      "display": "दिल",
+      "normalized": "दिल",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "心、心臓",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "道徳",
+        "物語",
+        "動物寓話"
+      ],
+      "sourceIds": [
+        "academic_004BandarMagarmacch2"
+      ],
+      "sourceTitle": "बंदर और मगरमच्छ",
+      "sourceGenre": "story",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "प्रिये",
+      "display": "प्रिय",
+      "normalized": "प्रिय",
+      "variants": [
+        "प्रिये"
+      ],
+      "pos": "呼格",
+      "meaning_ja": "愛しい人よ",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "道徳",
+        "物語",
+        "動物寓話"
+      ],
+      "sourceIds": [
+        "academic_004BandarMagarmacch2"
+      ],
+      "sourceTitle": "बंदर और मगरमच्छ",
+      "sourceGenre": "story",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "एकमात्र",
+      "display": "एकमात्र",
+      "normalized": "एकमात्र",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "唯一の",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "道徳",
+        "物語",
+        "動物寓話"
+      ],
+      "sourceIds": [
+        "academic_004BandarMagarmacch2"
+      ],
+      "sourceTitle": "बंदर और मगरमच्छ",
+      "sourceGenre": "story",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "नुकसान",
+      "display": "नुकसान",
+      "normalized": "नुकसान",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "損害、危害",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "道徳",
+        "物語",
+        "動物寓話"
+      ],
+      "sourceIds": [
+        "academic_004BandarMagarmacch2"
+      ],
+      "sourceTitle": "बंदर और मगरमच्छ",
+      "sourceGenre": "story",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "भ्रमित",
+      "display": "भ्रमित",
+      "normalized": "भ्रमित",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "混乱した、惑わされた",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "道徳",
+        "物語",
+        "動物寓話"
+      ],
+      "sourceIds": [
+        "academic_004BandarMagarmacch2"
+      ],
+      "sourceTitle": "बंदर और मगरमच्छ",
+      "sourceGenre": "story",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "धमकी",
+      "display": "धमकी",
+      "normalized": "धमकी",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "脅し、脅迫",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "道徳",
+        "物語",
+        "動物寓話"
+      ],
+      "sourceIds": [
+        "academic_004BandarMagarmacch2"
+      ],
+      "sourceTitle": "बंदर और मगरमच्छ",
+      "sourceGenre": "story",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "फैसला",
+      "display": "फैसला",
+      "normalized": "फैसला",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "決定、判断",
+      "importance": 3,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "道徳",
+        "物語",
+        "動物寓話"
+      ],
+      "sourceIds": [
+        "academic_004BandarMagarmacch2"
+      ],
+      "sourceTitle": "बंदर और मगरमच्छ",
+      "sourceGenre": "story",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "ज़िन्दगी",
+      "display": "ज़िन्दगी",
+      "normalized": "जिंदगी",
+      "variants": [
+        "ज़िन्दगी",
+        "जिन्दगी"
+      ],
+      "pos": "名詞（女）",
+      "meaning_ja": "人生、命",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "道徳",
+        "物語",
+        "動物寓話"
+      ],
+      "sourceIds": [
+        "academic_004BandarMagarmacch2"
+      ],
+      "sourceTitle": "बंदर और मगरमच्छ",
+      "sourceGenre": "story",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "पति",
+      "display": "पति",
+      "normalized": "पति",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "夫",
+      "importance": 3,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "道徳",
+        "物語",
+        "動物寓話"
+      ],
+      "sourceIds": [
+        "academic_004BandarMagarmacch2"
+      ],
+      "sourceTitle": "बंदर और मगरमच्छ",
+      "sourceGenre": "story",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "देखभाल",
+      "display": "देखभाल",
+      "normalized": "देखभाल",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "世話、看護",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "道徳",
+        "物語",
+        "動物寓話"
+      ],
+      "sourceIds": [
+        "academic_004BandarMagarmacch2"
+      ],
+      "sourceTitle": "बंदर और मगरमच्छ",
+      "sourceGenre": "story",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "ज़िम्मेदारी",
+      "display": "ज़िम्मेदारी",
+      "normalized": "जिम्मेदारी",
+      "variants": [
+        "ज़िम्मेदारी",
+        "जिम्मेदारी"
+      ],
+      "pos": "名詞（女）",
+      "meaning_ja": "責任",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "道徳",
+        "物語",
+        "動物寓話"
+      ],
+      "sourceIds": [
+        "academic_004BandarMagarmacch2"
+      ],
+      "sourceTitle": "बंदर और मगरमच्छ",
+      "sourceGenre": "story",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "निश्चय",
+      "display": "निश्चय",
+      "normalized": "निश्चय",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "決意、決定",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "道徳",
+        "物語",
+        "動物寓話"
+      ],
+      "sourceIds": [
+        "academic_004BandarMagarmacch2"
+      ],
+      "sourceTitle": "बंदर और मगरमच्छ",
+      "sourceGenre": "story",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "लड़ाई",
+      "display": "लड़ाई",
+      "normalized": "लड़ाई",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "喧嘩、争い",
+      "importance": 3,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "道徳",
+        "物語",
+        "動物寓話"
+      ],
+      "sourceIds": [
+        "academic_004BandarMagarmacch2"
+      ],
+      "sourceTitle": "बंदर और मगरमच्छ",
+      "sourceGenre": "story",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "इच्छा",
+      "display": "इच्छा",
+      "normalized": "इच्छा",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "願い、希望、欲求",
+      "importance": 3,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "道徳",
+        "物語",
+        "動物寓話"
+      ],
+      "sourceIds": [
+        "academic_004BandarMagarmacch2"
+      ],
+      "sourceTitle": "बंदर और मगरमच्छ",
+      "sourceGenre": "story",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "डूबना",
+      "display": "डूबना",
+      "normalized": "डूबना",
+      "variants": [],
+      "pos": "自動詞",
+      "meaning_ja": "沈む、溺れる",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "道徳",
+        "物語",
+        "動物寓話"
+      ],
+      "sourceIds": [
+        "academic_004BandarMagarmacch2"
+      ],
+      "sourceTitle": "बंदर और मगरमच्छ",
+      "sourceGenre": "story",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "सुझाव",
+      "display": "सुझाव",
+      "normalized": "सुझाव",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "提案、助言",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "道徳",
+        "物語",
+        "動物寓話"
+      ],
+      "sourceIds": [
+        "academic_005BandarMagarmacch3"
+      ],
+      "sourceTitle": "बंदर और मगरमच्छ",
+      "sourceGenre": "story",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "तैरना",
+      "display": "तैरना",
+      "normalized": "तैरना",
+      "variants": [],
+      "pos": "自動詞",
+      "meaning_ja": "泳ぐ",
+      "importance": 3,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "道徳",
+        "物語",
+        "動物寓話"
+      ],
+      "sourceIds": [
+        "academic_005BandarMagarmacch3"
+      ],
+      "sourceTitle": "बंदर और मगरमच्छ",
+      "sourceGenre": "story",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "बीच",
+      "display": "बीच",
+      "normalized": "बीच",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "中央、中ほど",
+      "importance": 3,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "道徳",
+        "物語",
+        "動物寓話"
+      ],
+      "sourceIds": [
+        "academic_005BandarMagarmacch3"
+      ],
+      "sourceTitle": "बंदर और मगरमच्छ",
+      "sourceGenre": "story",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "डूबना",
+      "display": "डूबना",
+      "normalized": "डूबना",
+      "variants": [],
+      "pos": "自動詞",
+      "meaning_ja": "沈む、溺れる",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "道徳",
+        "物語",
+        "動物寓話"
+      ],
+      "sourceIds": [
+        "academic_005BandarMagarmacch3"
+      ],
+      "sourceTitle": "बंदर और मगरमच्छ",
+      "sourceGenre": "story",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "आश्चर्य",
+      "display": "आश्चर्य",
+      "normalized": "आश्चर्य",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "驚き",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "道徳",
+        "物語",
+        "動物寓話"
+      ],
+      "sourceIds": [
+        "academic_005BandarMagarmacch3"
+      ],
+      "sourceTitle": "बंदर और मगरमच्छ",
+      "sourceGenre": "story",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "धक्का",
+      "display": "धक्का",
+      "normalized": "धक्का",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "衝撃、ショック",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "道徳",
+        "物語",
+        "動物寓話"
+      ],
+      "sourceIds": [
+        "academic_005BandarMagarmacch3"
+      ],
+      "sourceTitle": "बंदर और मगरमच्छ",
+      "sourceGenre": "story",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "खतरा",
+      "display": "खतरा",
+      "normalized": "खतरा",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "危険",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "道徳",
+        "物語",
+        "動物寓話"
+      ],
+      "sourceIds": [
+        "academic_005BandarMagarmacch3"
+      ],
+      "sourceTitle": "बंदर और मगरमच्छ",
+      "sourceGenre": "story",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "सम्भाल",
+      "display": "संभालना",
+      "normalized": "सम्भालना",
+      "variants": [
+        "सम्भाल",
+        "संभाल"
+      ],
+      "pos": "他動詞",
+      "meaning_ja": "保管する、大切に扱う",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "道徳",
+        "物語",
+        "動物寓話"
+      ],
+      "sourceIds": [
+        "academic_005BandarMagarmacch3"
+      ],
+      "sourceTitle": "बंदर और मगरमच्छ",
+      "sourceGenre": "story",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "छेद",
+      "display": "छेद",
+      "normalized": "छेद",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "穴",
+      "importance": 3,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "道徳",
+        "物語",
+        "動物寓話"
+      ],
+      "sourceIds": [
+        "academic_005BandarMagarmacch3"
+      ],
+      "sourceTitle": "बंदर और मगरमच्छ",
+      "sourceGenre": "story",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "तुरंत",
+      "display": "तुरंत",
+      "normalized": "तुरंत",
+      "variants": [],
+      "pos": "副詞",
+      "meaning_ja": "すぐに、即座に",
+      "importance": 3,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "道徳",
+        "物語",
+        "動物寓話"
+      ],
+      "sourceIds": [
+        "academic_005BandarMagarmacch3"
+      ],
+      "sourceTitle": "बंदर और मगरमच्छ",
+      "sourceGenre": "story",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "तबीयत",
+      "display": "तबीयत",
+      "normalized": "तबीयत",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "体調、気分",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "道徳",
+        "物語",
+        "動物寓話"
+      ],
+      "sourceIds": [
+        "academic_005BandarMagarmacch3"
+      ],
+      "sourceTitle": "बंदर और मगरमच्छ",
+      "sourceGenre": "story",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "ख़राब",
+      "display": "ख़राब",
+      "normalized": "खराब",
+      "variants": [
+        "ख़राब",
+        "खराब"
+      ],
+      "pos": "形容詞",
+      "meaning_ja": "悪い、 具合の悪い、壊れた",
+      "importance": 3,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "道徳",
+        "物語",
+        "動物寓話"
+      ],
+      "sourceIds": [
+        "academic_005BandarMagarmacch3"
+      ],
+      "sourceTitle": "बंदर और मगरमच्छ",
+      "sourceGenre": "story",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "मुड़ना",
+      "display": "मुड़ना",
+      "normalized": "मुड़ना",
+      "variants": [],
+      "pos": "自動詞",
+      "meaning_ja": "向きを変える、引き返す",
+      "importance": 3,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "道徳",
+        "物語",
+        "動物寓話"
+      ],
+      "sourceIds": [
+        "academic_005BandarMagarmacch3"
+      ],
+      "sourceTitle": "बंदर और मगरमच्छ",
+      "sourceGenre": "story",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "कूदना",
+      "display": "कूदना",
+      "normalized": "कूदना",
+      "variants": [],
+      "pos": "自動詞",
+      "meaning_ja": "跳ぶ、飛び降りる",
+      "importance": 3,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "道徳",
+        "物語",
+        "動物寓話"
+      ],
+      "sourceIds": [
+        "academic_005BandarMagarmacch3"
+      ],
+      "sourceTitle": "बंदर और मगरमच्छ",
+      "sourceGenre": "story",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "डाल",
+      "display": "डाल",
+      "normalized": "डाल",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "枝",
+      "importance": 3,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "道徳",
+        "物語",
+        "動物寓話"
+      ],
+      "sourceIds": [
+        "academic_005BandarMagarmacch3"
+      ],
+      "sourceTitle": "बंदर और मगरमच्छ",
+      "sourceGenre": "story",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "आराम",
+      "display": "आराम",
+      "normalized": "आराम",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "休息、 くつろぎ",
+      "importance": 3,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "道徳",
+        "物語",
+        "動物寓話"
+      ],
+      "sourceIds": [
+        "academic_005BandarMagarmacch3"
+      ],
+      "sourceTitle": "बंदर और मगरमच्छ",
+      "sourceGenre": "story",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "दुष्ट",
+      "display": "दुष्ट",
+      "normalized": "दुष्ट",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "邪悪な、意地悪な",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "道徳",
+        "物語",
+        "動物寓話"
+      ],
+      "sourceIds": [
+        "academic_005BandarMagarmacch3"
+      ],
+      "sourceTitle": "बंदर और मगरमच्छ",
+      "sourceGenre": "story",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "मूर्ख",
+      "display": "मूर्ख",
+      "normalized": "मूर्ख",
+      "variants": [],
+      "pos": "名詞・形容詞",
+      "meaning_ja": "愚か者、愚かな",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "道徳",
+        "物語",
+        "動物寓話"
+      ],
+      "sourceIds": [
+        "academic_005BandarMagarmacch3"
+      ],
+      "sourceTitle": "बंदर और मगरमच्छ",
+      "sourceGenre": "story",
+      "sourceRegister": "simple_narrative",
       "audit": "existing_in_master"
     }
   ],

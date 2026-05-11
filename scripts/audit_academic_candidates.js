@@ -169,7 +169,11 @@ function auditCandidates() {
 
   for (const file of candidateFiles) {
     const filePath = path.join(CANDIDATES_DIR, file);
-    const candidates = readJson(filePath, []);
+    const candidatesRaw = readJson(filePath, []);
+
+    const candidates = Array.isArray(candidatesRaw)
+      ? candidatesRaw
+      : (candidatesRaw.items || []);
 
     for (const raw of candidates) {
       const entry = normalizeEntry(raw);

@@ -1,5 +1,25 @@
 [
   {
+    "text": "अगर तुम और नीचे गए तो मैं डूब जाऊँगा",
+    "normalized": "अगर तुम और नीचे गए तो मैं डूब जाऊँगा",
+    "meaning_ja": "これ以上下へ行ったら、私は溺れてしまう",
+    "type": "conversation_expression",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "道徳",
+      "物語",
+      "動物寓話"
+    ],
+    "sourceIds": [
+      "academic_005BandarMagarmacch3"
+    ],
+    "sourceTitle": "बंदर और मगरमच्छ",
+    "sourceGenre": "story",
+    "sourceRegister": "simple_narrative"
+  },
+  {
     "text": "अच्छे गुणों का विकास होता है",
     "normalized": "अच्छे गुणों का विकास होता है",
     "meaning_ja": "良い性質が育まれる",
@@ -18,6 +38,86 @@
     "sourceTitle": "सत्संगति",
     "sourceGenre": "essay",
     "sourceRegister": "academic_prose"
+  },
+  {
+    "text": "अनर्गल विस्तार से बचना चाहिए",
+    "normalized": "अनर्गल विस्तार से बचना चाहिए",
+    "meaning_ja": "無駄な विस्तारを避けるべきである",
+    "type": "instruction",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "作文",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_006"
+    ],
+    "sourceTitle": "प्राक्कथन",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "text": "उसका पति दुनिया का सबसे बड़ा मूर्ख है",
+    "normalized": "उसका पति दुनिया का सबसे बड़ा मूर्ख है",
+    "meaning_ja": "彼女の夫は世界一の愚か者だ",
+    "type": "moral_statement",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "道徳",
+      "物語",
+      "動物寓話"
+    ],
+    "sourceIds": [
+      "academic_005BandarMagarmacch3"
+    ],
+    "sourceTitle": "बंदर और मगरमच्छ",
+    "sourceGenre": "story",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "text": "एक-दूसरे के साथ ज़्यादा से ज़्यादा समय बिताने लगे",
+    "normalized": "एक दूसरे के साथ ज्यादा से ज्यादा समय बिताने लगे",
+    "meaning_ja": "互いにますます多くの時間を共に過ごすようになった",
+    "type": "narrative_expression",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "道徳",
+      "物語",
+      "動物寓話"
+    ],
+    "sourceIds": [
+      "academic_003BandarMagarmacch1"
+    ],
+    "sourceTitle": "बंदर और मगरमच्छ",
+    "sourceGenre": "story",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "text": "कितनी अच्छी बात है कि उन्होंने मुझे अपने घर बुलाया है",
+    "normalized": "कितनी अच्छी बात है कि उन्होंने मुझे अपने घर बुलाया है",
+    "meaning_ja": "家に招いてくれたなんて、なんて嬉しいことだ",
+    "type": "conversation_expression",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "道徳",
+      "物語",
+      "動物寓話"
+    ],
+    "sourceIds": [
+      "academic_004BandarMagarmacch2"
+    ],
+    "sourceTitle": "बंदर और मगरमच्छ",
+    "sourceGenre": "story",
+    "sourceRegister": "simple_narrative"
   },
   {
     "text": "कुसंगति को त्याग कर सत्संगति को अपना लेना चाहिए",
@@ -40,7 +140,67 @@
     "sourceRegister": "academic_prose"
   },
   {
-    "text": "नियमपूर्वक व्यायam किया जाए",
+    "text": "तुम्हारा स्वागत है",
+    "normalized": "तुम्हारा स्वागत है",
+    "meaning_ja": "歓迎します",
+    "type": "conversation_expression",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "道徳",
+      "物語",
+      "動物寓話"
+    ],
+    "sourceIds": [
+      "academic_003BandarMagarmacch1"
+    ],
+    "sourceTitle": "बंदर और मगरमच्छ",
+    "sourceGenre": "story",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "text": "तुम्हारी पत्नी की जान बचाने के लिए",
+    "normalized": "तुम्हारी पत्नी की जान बचाने के लिए",
+    "meaning_ja": "君の妻の命を救うために",
+    "type": "purpose_expression",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "道徳",
+      "物語",
+      "動物寓話"
+    ],
+    "sourceIds": [
+      "academic_005BandarMagarmacch3"
+    ],
+    "sourceTitle": "बंदर और मगरमच्छ",
+    "sourceGenre": "story",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "text": "'निबंध' अर्थात् नि+बंध दो शब्दों की संधि से बना है",
+    "normalized": "निबंध अर्थात नि बंध दो शब्दों की संधि से बना है",
+    "meaning_ja": "『निबंध』は、नि＋बंध という二語の結合からできている",
+    "type": "definition",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "作文",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_006"
+    ],
+    "sourceTitle": "प्राक्कथन",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "text": "नियमपूर्वक व्यायाम किया जाए",
     "normalized": "नियमपूर्वक व्यायाम किया जाए",
     "meaning_ja": "規則正しく運動を行う",
     "type": "academic_expression",
@@ -58,6 +218,26 @@
     "sourceTitle": "व्यायाम के लाभ",
     "sourceGenre": "essay",
     "sourceRegister": "academic_prose"
+  },
+  {
+    "text": "बंदर और मगरमच्छ की दोस्ती हो गई",
+    "normalized": "बंदर और मगरमच्छ की दोस्ती हो गई",
+    "meaning_ja": "猿とワニは友達になった",
+    "type": "narrative_expression",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "道徳",
+      "物語",
+      "動物寓話"
+    ],
+    "sourceIds": [
+      "academic_003BandarMagarmacch1"
+    ],
+    "sourceTitle": "बंदर और मगरमच्छ",
+    "sourceGenre": "story",
+    "sourceRegister": "simple_narrative"
   },
   {
     "text": "बीमारियों का शिकार हो रहे हैं",
@@ -97,6 +277,126 @@
     ],
     "sourceTitle": "सत्संगति",
     "sourceGenre": "essay",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "text": "मैं अपने एकमात्र दोस्त को कैसे नुकसान पहुँचा सकता हूँ",
+    "normalized": "मैं अपने एकमात्र दोस्त को कैसे नुकसान पहुँचा सकता हूँ",
+    "meaning_ja": "私は唯一の友人にどうして危害を加えられるだろうか",
+    "type": "moral_statement",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "道徳",
+      "物語",
+      "動物寓話"
+    ],
+    "sourceIds": [
+      "academic_004BandarMagarmacch2"
+    ],
+    "sourceTitle": "बंदर और मगरमच्छ",
+    "sourceGenre": "story",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "text": "मैं तुम्हारे लिए क्या कर सकता हूँ",
+    "normalized": "मैं तुम्हारे लिए क्या कर सकता हूँ",
+    "meaning_ja": "私はあなたのために何ができますか",
+    "type": "conversation_expression",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "道徳",
+      "物語",
+      "動物寓話"
+    ],
+    "sourceIds": [
+      "academic_004BandarMagarmacch2"
+    ],
+    "sourceTitle": "बंदर और मगरमच्छ",
+    "sourceGenre": "story",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "text": "मैं भोजन की तलाश में घूम रहा हूँ",
+    "normalized": "मैं भोजन की तलाश में घूम रहा हूँ",
+    "meaning_ja": "私は食べ物を探して歩き回っています",
+    "type": "narrative_expression",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "道徳",
+      "物語",
+      "動物寓話"
+    ],
+    "sourceIds": [
+      "academic_003BandarMagarmacch1"
+    ],
+    "sourceTitle": "बंदर और मगरमच्छ",
+    "sourceGenre": "story",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "text": "वह समझ गया उसका जीवन खतरे में है",
+    "normalized": "वह समझ गया उसका जीवन खतरे में है",
+    "meaning_ja": "彼は自分の命が危険にあることを悟った",
+    "type": "narrative_expression",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "道徳",
+      "物語",
+      "動物寓話"
+    ],
+    "sourceIds": [
+      "academic_005BandarMagarmacch3"
+    ],
+    "sourceTitle": "बंदर और मगरमच्छ",
+    "sourceGenre": "story",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "text": "विचार व भाव की अभिव्यक्ति सहज व स्वाभाविक रूप में होनी चाहिए",
+    "normalized": "विचार व भाव की अभिव्यक्ति सहज व स्वाभाविक रूप में होनी चाहिए",
+    "meaning_ja": "考えと感情の表現は、自然で無理のない形でなされるべきである",
+    "type": "academic_expression",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "作文",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_006"
+    ],
+    "sourceTitle": "प्राक्कथन",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "text": "विद्यार्थियों के बौद्धिक विकास में विशेष रूप से सहायक होता है",
+    "normalized": "विद्यार्थियों के बौद्धिक विकास में विशेष रूप से सहायक होता है",
+    "meaning_ja": "学生の知的発達に特に役立つ",
+    "type": "academic_expression",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "作文",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_006"
+    ],
+    "sourceTitle": "प्राक्कथन",
+    "sourceGenre": "textbook",
     "sourceRegister": "academic_prose"
   },
   {
@@ -158,5 +458,25 @@
     "sourceTitle": "व्यायाम के लाभ",
     "sourceGenre": "essay",
     "sourceRegister": "academic_prose"
+  },
+  {
+    "text": "मैं बहुत बीमार हूँ",
+    "normalized": "मैं बहुत बीमार हूँ",
+    "meaning_ja": "私はとても具合が悪い",
+    "type": "conversation_expression",
+    "importance": 3,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "道徳",
+      "物語",
+      "動物寓話"
+    ],
+    "sourceIds": [
+      "academic_004BandarMagarmacch2"
+    ],
+    "sourceTitle": "बंदर और मगरमच्छ",
+    "sourceGenre": "story",
+    "sourceRegister": "simple_narrative"
   }
 ]

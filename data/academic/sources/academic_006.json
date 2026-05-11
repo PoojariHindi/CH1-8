@@ -1,0 +1,340 @@
+{
+  "id": "academic_006",
+  "schema_version": 1,
+
+  "title": "प्राक्कथन",
+  "author": "Chentan Prakash Sharma",
+  "source": "201 सर्वश्रेष्ठ निबंध",
+  "year": 2024,
+
+  "genre": "textbook",
+  "register": "academic_prose",
+
+  "category": "読解",
+
+  "tags": [
+    "教科書",
+    "作文",
+    "抽象語"
+  ],
+
+  "key_phrase": "'निबंध' अर्थात् नि+बंध दो शब्दों की संधि से बना है",
+
+  "text": "'निबंध' अर्थात् नि+बंध दो शब्दों की संधि से बना है, जिसका अर्थ है, 'नियमों में बंधी हुई रचना, जिसे मौखिक रूप से प्रस्तुत किया जा सकता है।' निबंध फ्रांसीसी भाषा के शब्द 'एस्से' के द्वारा अंग्रेजी पर्यायवाची शब्द के रूप में सामने आया है। विदेशी विद्वान सभी प्रकार के बंधनों से मुक्त रचना को निबंध कहते हैं। निबंध की विधा में सीमित शब्दों का प्रयोग क्रमबद्ध व प्रभावशाली ढंग से किया जाता है। प्रायः देखा गया है कि विद्यार्थी जीवन में निबंध रट लिए जाते हैं। लेकिन ऐसा करना उचित नहीं है। निबंध लेखन में विचार व भाव की अभिव्यक्ति सहज व स्वाभाविक रूप में होनी चाहिए। इस कारण निबंध लेखन विद्यार्थियों के बौद्धिक विकास में विशेष रूप से सहायक होता है। अतः उन्हें अपना दृष्टिकोण परीक्षा तक ही संकुचित नहीं करना चाहिए। जो विद्यार्थी आरंभ से ही निबंध लिखने में अपने विचारों को अभिव्यक्त करने का प्रयास करता है, वह विषय के यथार्थ को समझने में प्रायः सफल होता है। यह कहना अतिशयोक्ति नहीं होगी कि निबंध की विधा विद्यार्थियों के बहुमुखी बौद्धिक विकास का सशक्त माध्यम बन जाती है। सफल निबंध लेखन के लिए यह आवश्यक है कि विद्यार्थी विचारशील लेखक के रूप में अपनी भावनाओं का विश्लेषण करें और साथ ही निबंध लेखन के नियमों व विषयवस्तु की भी पालना करें। निबंध लेखन के समय निम्नलिखित विशेषताओं का ध्यान रखें- निबंध के वाक्यों में क्रमबद्धता के साथ ही परस्पर संबद्धता होनी चाहिए। विषय का विस्तार अनावश्यक नहीं होना चाहिए। निबंध की भाषा प्रभावशाली व विषय के अनुकूल होनी चाहिए। जहां निबंध के लिए समय अथवा शब्द सीमा तय हो, वहां अनर्गल विस्तार से बचना चाहिए। निबंध में उद्धरणों, काव्य पंक्तियों तथा सूक्तियों का युक्तिसंगत प्रयोग करें।",
+
+  "expressions": [
+    {
+      "text": "'निबंध' अर्थात् नि+बंध दो शब्दों की संधि से बना है",
+      "normalized": "निबंध अर्थात नि बंध दो शब्दों की संधि से बना है",
+      "meaning_ja": "『निबंध』は、नि＋बंध という二語の結合からできている",
+      "type": "definition",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "विचार व भाव की अभिव्यक्ति सहज व स्वाभाविक रूप में होनी चाहिए",
+      "normalized": "विचार व भाव की अभिव्यक्ति सहज व स्वाभाविक रूप में होनी चाहिए",
+      "meaning_ja": "考えと感情の表現は、自然で無理のない形でなされるべきである",
+      "type": "academic_expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "विद्यार्थियों के बौद्धिक विकास में विशेष रूप से सहायक होता है",
+      "normalized": "विद्यार्थियों के बौद्धिक विकास में विशेष रूप से सहायक होता है",
+      "meaning_ja": "学生の知的発達に特に役立つ",
+      "type": "academic_expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "अनर्गल विस्तार से बचना चाहिए",
+      "normalized": "अनर्गल विस्तार से बचना चाहिए",
+      "meaning_ja": "無駄な विस्तारを避けるべきである",
+      "type": "instruction",
+      "importance": 4,
+      "status": "active"
+    }
+  ],
+
+  "vocab_candidates": [
+    {
+      "word": "प्राक्कथन",
+      "normalized": "प्राक्कथन",
+      "pos": "名詞（男）",
+      "meaning_ja": "序文、まえがき",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "निबंध",
+      "normalized": "निबंध",
+      "pos": "名詞（男）",
+      "meaning_ja": "作文、エッセイ、論説文",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "संधि",
+      "normalized": "संधि",
+      "pos": "名詞（女）",
+      "meaning_ja": "結合、連結、サンディ",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "रचना",
+      "normalized": "रचना",
+      "pos": "名詞（女）",
+      "meaning_ja": "作品、作文、構成",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "मौखिक",
+      "normalized": "मौखिक",
+      "pos": "形容詞",
+      "meaning_ja": "口頭の、口述の",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "प्रस्तुत",
+      "normalized": "प्रस्तुत",
+      "pos": "形容詞・分詞",
+      "meaning_ja": "提示された、発表された",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "पर्यायवाची",
+      "normalized": "पर्यायवाची",
+      "pos": "形容詞",
+      "meaning_ja": "同義の、同義語の",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "विद्वान",
+      "normalized": "विद्वान",
+      "pos": "名詞（男）",
+      "meaning_ja": "学者、知識人",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "विधा",
+      "normalized": "विधा",
+      "pos": "名詞（女）",
+      "meaning_ja": "ジャンル、形式、分野",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "क्रमबद्ध",
+      "normalized": "क्रमबद्ध",
+      "pos": "形容詞",
+      "meaning_ja": "順序立った、体系的な",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "प्रभावशाली",
+      "normalized": "प्रभावशाली",
+      "pos": "形容詞",
+      "meaning_ja": "効果的な、印象的な、影響力のある",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "प्रायः",
+      "normalized": "प्रायः",
+      "pos": "副詞",
+      "meaning_ja": "たいてい、しばしば、概して",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "अभिव्यक्ति",
+      "normalized": "अभिव्यक्ति",
+      "pos": "名詞（女）",
+      "meaning_ja": "表現、表明",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "सहज",
+      "normalized": "सहज",
+      "pos": "形容詞",
+      "meaning_ja": "自然な、無理のない",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "बौद्धिक",
+      "normalized": "बौद्धिक",
+      "pos": "形容詞",
+      "meaning_ja": "知的な、知性に関する",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "दृष्टिकोण",
+      "normalized": "दृष्टिकोण",
+      "pos": "名詞（男）",
+      "meaning_ja": "視点、考え方、見方",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "संकुचित",
+      "normalized": "संकुचित",
+      "pos": "形容詞",
+      "meaning_ja": "狭められた、限定された",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "यथार्थ",
+      "normalized": "यथार्थ",
+      "pos": "名詞（男）",
+      "meaning_ja": "実情、真実、現実",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "अतिशयोक्ति",
+      "normalized": "अतिशयोक्ति",
+      "pos": "名詞（女）",
+      "meaning_ja": "誇張、言い過ぎ",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "बहुमुखी",
+      "normalized": "बहुमुखी",
+      "pos": "形容詞",
+      "meaning_ja": "多面的な、多方面の",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "सशक्त",
+      "normalized": "सशक्त",
+      "pos": "形容詞",
+      "meaning_ja": "力強い、有力な",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "माध्यम",
+      "normalized": "माध्यम",
+      "pos": "名詞（男）",
+      "meaning_ja": "手段、媒体、媒介",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "विश्लेषण",
+      "normalized": "विश्लेषण",
+      "pos": "名詞（男）",
+      "meaning_ja": "分析",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "विषयवस्तु",
+      "normalized": "विषयवस्तु",
+      "pos": "名詞（女）",
+      "meaning_ja": "内容、主題内容",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "पालना",
+      "normalized": "पालना",
+      "pos": "名詞（女）",
+      "meaning_ja": "遵守、守ること",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "क्रमबद्धता",
+      "normalized": "क्रमबद्धता",
+      "pos": "名詞（女）",
+      "meaning_ja": "順序立っていること、体系性",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "परस्पर",
+      "normalized": "परस्पर",
+      "pos": "副詞",
+      "meaning_ja": "相互に、互いに",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "संबद्धता",
+      "normalized": "संबद्धता",
+      "pos": "名詞（女）",
+      "meaning_ja": "関連性、つながり",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "विस्तार",
+      "normalized": "विस्तार",
+      "pos": "名詞（男）",
+      "meaning_ja": " विस्तार、詳述、広がり",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "अनुकूल",
+      "normalized": "अनुकूल",
+      "pos": "形容詞",
+      "meaning_ja": "適した、都合のよい、ふさわしい",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "अनर्गल",
+      "normalized": "अनर्गल",
+      "pos": "形容詞",
+      "meaning_ja": "無駄な、とりとめのない、不必要な",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "उद्धरण",
+      "normalized": "उद्धरण",
+      "pos": "名詞（男）",
+      "meaning_ja": "引用",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "सूक्ति",
+      "normalized": "सूक्ति",
+      "pos": "名詞（女）",
+      "meaning_ja": "格言、警句",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "युक्तिसंगत",
+      "normalized": "युक्तिसंगत",
+      "pos": "形容詞",
+      "meaning_ja": "理にかなった、適切な",
+      "importance": 4,
+      "status": "active"
+    }
+  ],
+
+  "meta": {
+    "source_type": "manual_curated",
+    "reading_genre": "academic",
+    "dedupe_ready": true
+  }
+}

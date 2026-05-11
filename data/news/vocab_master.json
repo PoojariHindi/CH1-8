@@ -2,7 +2,7 @@
   {
     "word": "पुलिस",
     "normalized": "पुलिस",
-    "pos": "名詞",
+    "pos": "名詞（女）",
     "meaning_ja": "警察",
     "category": "事件・事故",
     "difficulty": 1,
@@ -19,7 +19,7 @@
   {
     "word": "गिरफ्तारी",
     "normalized": "गिरफ्तारी",
-    "pos": "名詞",
+    "pos": "名詞（女）",
     "meaning_ja": "逮捕",
     "category": "事件・事故",
     "difficulty": 2,
@@ -36,7 +36,7 @@
   {
     "word": "घटना",
     "normalized": "घटना",
-    "pos": "名詞",
+    "pos": "名詞（女）",
     "meaning_ja": "出来事、事件",
     "category": "事件・事故",
     "difficulty": 2,
@@ -53,7 +53,7 @@
   {
     "word": "जांच",
     "normalized": "जांच",
-    "pos": "名詞",
+    "pos": "名詞（女）",
     "meaning_ja": "捜査、調査、検査",
     "category": "事件・事故",
     "difficulty": 2,
@@ -71,7 +71,7 @@
   {
     "word": "थाना",
     "normalized": "थाना",
-    "pos": "名詞",
+    "pos": "名詞（男）",
     "meaning_ja": "警察署",
     "category": "事件・事故",
     "difficulty": 2,
@@ -87,7 +87,7 @@
   {
     "word": "मौत",
     "normalized": "मौत",
-    "pos": "名詞",
+    "pos": "名詞（女）",
     "meaning_ja": "死",
     "category": "事件・事故",
     "difficulty": 2,
@@ -103,7 +103,7 @@
   {
     "word": "हिंसा",
     "normalized": "हिंसा",
-    "pos": "名詞",
+    "pos": "名詞（女）",
     "meaning_ja": "暴力",
     "category": "事件・事故",
     "difficulty": 2,
@@ -120,7 +120,7 @@
   {
     "word": "पुष्टि",
     "normalized": "पुष्टि",
-    "pos": "名詞",
+    "pos": "名詞（女）",
     "meaning_ja": "確認、裏づけ、確証",
     "category": "事件・事故",
     "difficulty": 3,
@@ -136,7 +136,7 @@
   {
     "word": "पोस्टमॉर्टम",
     "normalized": "पोस्टमॉर्टम",
-    "pos": "名詞",
+    "pos": "名詞（男）",
     "meaning_ja": "検死、死体解剖",
     "category": "事件・事故",
     "difficulty": 3,
@@ -153,7 +153,7 @@
   {
     "word": "प्रदर्शन",
     "normalized": "प्रदर्शन",
-    "pos": "名詞",
+    "pos": "名詞（男）",
     "meaning_ja": "デモ、抗議行動、示威行動",
     "category": "事件・事故",
     "difficulty": 3,
@@ -170,7 +170,7 @@
   {
     "word": "मृत्यु",
     "normalized": "मृत्यु",
-    "pos": "名詞",
+    "pos": "名詞（女）",
     "meaning_ja": "死亡、死去",
     "category": "事件・事故",
     "difficulty": 3,
@@ -186,7 +186,7 @@
   {
     "word": "साज़िश",
     "normalized": "साज़िश",
-    "pos": "名詞",
+    "pos": "名詞（女）",
     "meaning_ja": "陰謀、企み",
     "category": "事件・事故",
     "difficulty": 3,
@@ -218,7 +218,7 @@
   {
     "word": "अभियुक्त",
     "normalized": "अभियुक्त",
-    "pos": "名詞",
+    "pos": "名詞（男）",
     "meaning_ja": "被告、被疑者、容疑者",
     "category": "事件・事故",
     "difficulty": 4,
@@ -235,7 +235,7 @@
   {
     "word": "तोड़फोड़",
     "normalized": "तोड़फोड़",
-    "pos": "名詞",
+    "pos": "名詞（女）",
     "meaning_ja": "破壊行為、器物損壊",
     "category": "事件・事故",
     "difficulty": 4,
@@ -285,7 +285,7 @@
   {
     "word": "कर्मचारी",
     "normalized": "कर्मचारी",
-    "pos": "名詞",
+    "pos": "名詞（男）",
     "meaning_ja": "職員、従業員",
     "category": "労働・経済",
     "difficulty": 2,
@@ -301,7 +301,7 @@
   {
     "word": "कारखाना",
     "normalized": "कारखाना",
-    "pos": "名詞",
+    "pos": "名詞（男）",
     "meaning_ja": "工場",
     "category": "労働・経済",
     "difficulty": 2,
@@ -317,7 +317,7 @@
   {
     "word": "बढ़ोतरी",
     "normalized": "बढ़ोतरी",
-    "pos": "名詞",
+    "pos": "名詞（女）",
     "meaning_ja": "増加、引き上げ",
     "category": "労働・経済",
     "difficulty": 2,
@@ -333,7 +333,7 @@
   {
     "word": "भुगतान",
     "normalized": "भुगतान",
-    "pos": "名詞",
+    "pos": "名詞（男）",
     "meaning_ja": "支払い",
     "category": "労働・経済",
     "difficulty": 2,
@@ -349,7 +349,7 @@
   {
     "word": "मज़दूर",
     "normalized": "मजदूर",
-    "pos": "名詞",
+    "pos": "名詞（男）",
     "meaning_ja": "労働者",
     "category": "労働・経済",
     "difficulty": 2,
@@ -366,7 +366,7 @@
   {
     "word": "मांग",
     "normalized": "मांग",
-    "pos": "名詞",
+    "pos": "名詞（女）",
     "meaning_ja": "要求、需要",
     "category": "労働・経済",
     "difficulty": 2,
@@ -382,7 +382,7 @@
   {
     "word": "वेतन",
     "normalized": "वेतन",
-    "pos": "名詞",
+    "pos": "名詞（男）",
     "meaning_ja": "給与、賃金",
     "category": "労働・経済",
     "difficulty": 2,
@@ -430,7 +430,7 @@
   {
     "word": "बकाया",
     "normalized": "बकाया",
-    "pos": "名詞",
+    "pos": "名詞（男）",
     "meaning_ja": "未払い分、残額",
     "category": "労働・経済",
     "difficulty": 3,
@@ -446,7 +446,7 @@
   {
     "word": "मज़दूरी",
     "normalized": "मजदूरी",
-    "pos": "名詞",
+    "pos": "名詞（女）",
     "meaning_ja": "労賃、賃金、日当",
     "category": "労働・経済",
     "difficulty": 3,
@@ -462,7 +462,7 @@
   {
     "word": "वृद्धि",
     "normalized": "वृद्धि",
-    "pos": "名詞",
+    "pos": "名詞（女）",
     "meaning_ja": "増加、上昇",
     "category": "労働・経済",
     "difficulty": 3,
@@ -502,10 +502,11 @@
     "importance": 3,
     "status": "active",
     "sourceArticleIds": [
-      "news_vocab_01"
+      "news_vocab_01",
+      "news_014"
     ],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 2,
+    "frequency": 2,
     "notes": ""
   },
   {
@@ -560,7 +561,7 @@
   {
     "word": "मुद्दा",
     "normalized": "मुद्दा",
-    "pos": "名詞",
+    "pos": "名詞（男）",
     "meaning_ja": "問題点、争点",
     "category": "社会・公共",
     "difficulty": 2,
@@ -576,7 +577,7 @@
   {
     "word": "सहमति",
     "normalized": "सहमति",
-    "pos": "名詞",
+    "pos": "名詞（女）",
     "meaning_ja": "同意、合意",
     "category": "社会・公共",
     "difficulty": 2,
@@ -592,7 +593,7 @@
   {
     "word": "सुधार",
     "normalized": "सुधार",
-    "pos": "名詞",
+    "pos": "名詞（男）",
     "meaning_ja": "改善、改良",
     "category": "社会・公共",
     "difficulty": 2,
@@ -609,7 +610,7 @@
   {
     "word": "उपभोक्ता",
     "normalized": "उपभोक्ता",
-    "pos": "名詞",
+    "pos": "名詞（男）",
     "meaning_ja": "消費者",
     "category": "社会・公共",
     "difficulty": 3,
@@ -626,7 +627,7 @@
   {
     "word": "कृषि",
     "normalized": "कृषि",
-    "pos": "名詞",
+    "pos": "名詞（女）",
     "meaning_ja": "農業",
     "category": "社会・公共",
     "difficulty": 3,
@@ -660,7 +661,7 @@
   {
     "word": "ग्रामीण",
     "normalized": "ग्रामीण",
-    "pos": "名詞",
+    "pos": "名詞（男）",
     "meaning_ja": "農村住民",
     "category": "社会・公共",
     "difficulty": 3,
@@ -676,7 +677,7 @@
   {
     "word": "निवासी",
     "normalized": "निवासी",
-    "pos": "名詞",
+    "pos": "名詞（男）",
     "meaning_ja": "住民、居住者",
     "category": "社会・公共",
     "difficulty": 3,
@@ -743,7 +744,7 @@
   {
     "word": "रिपोर्ट",
     "normalized": "रिपोर्ट",
-    "pos": "名詞",
+    "pos": "名詞（女）",
     "meaning_ja": "報告、レポート",
     "category": "行政・制度",
     "difficulty": 1,
@@ -759,7 +760,7 @@
   {
     "word": "अधिकारी",
     "normalized": "अधिकारी",
-    "pos": "名詞",
+    "pos": "名詞（男）",
     "meaning_ja": "役人、職員",
     "category": "行政・制度",
     "difficulty": 2,
@@ -767,16 +768,17 @@
     "status": "active",
     "sourceArticleIds": [
       "news_vocab_02",
-      "news_010"
+      "news_010",
+      "news_014"
     ],
-    "sourceCount": 2,
-    "frequency": 2,
+    "sourceCount": 3,
+    "frequency": 3,
     "notes": ""
   },
   {
     "word": "अनुमति",
     "normalized": "अनुमति",
-    "pos": "名詞",
+    "pos": "名詞（女）",
     "meaning_ja": "許可",
     "category": "行政・制度",
     "difficulty": 2,
@@ -793,7 +795,7 @@
   {
     "word": "नीति",
     "normalized": "नीति",
-    "pos": "名詞",
+    "pos": "名詞（女）",
     "meaning_ja": "政策、方針",
     "category": "行政・制度",
     "difficulty": 2,
@@ -844,7 +846,7 @@
   {
     "word": "योजना",
     "normalized": "योजना",
-    "pos": "名詞",
+    "pos": "名詞（女）",
     "meaning_ja": "計画",
     "category": "行政・制度",
     "difficulty": 2,
@@ -860,23 +862,24 @@
   {
     "word": "विभाग",
     "normalized": "विभाग",
-    "pos": "名詞",
+    "pos": "名詞（男）",
     "meaning_ja": "部門、部署",
     "category": "行政・制度",
     "difficulty": 2,
     "importance": 4,
     "status": "active",
     "sourceArticleIds": [
-      "news_vocab_02"
+      "news_vocab_02",
+      "news_014"
     ],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 2,
+    "frequency": 2,
     "notes": ""
   },
   {
     "word": "सुविधा",
     "normalized": "सुविधा",
-    "pos": "名詞",
+    "pos": "名詞（女）",
     "meaning_ja": "便宜、設備、機能",
     "category": "行政・制度",
     "difficulty": 2,
@@ -892,23 +895,24 @@
   {
     "word": "आयोग",
     "normalized": "आयोग",
-    "pos": "名詞",
+    "pos": "名詞（男）",
     "meaning_ja": "委員会",
     "category": "行政・制度",
     "difficulty": 3,
     "importance": 4,
     "status": "active",
     "sourceArticleIds": [
-      "news_vocab_02"
+      "news_vocab_02",
+      "news_014"
     ],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 2,
+    "frequency": 2,
     "notes": ""
   },
   {
     "word": "गठन",
     "normalized": "गठन",
-    "pos": "名詞",
+    "pos": "名詞（男）",
     "meaning_ja": "結成、編成、設立",
     "category": "行政・制度",
     "difficulty": 3,
@@ -924,7 +928,7 @@
   {
     "word": "निगरानी",
     "normalized": "निगरानी",
-    "pos": "名詞",
+    "pos": "名詞（女）",
     "meaning_ja": "監視、モニタリング",
     "category": "行政・制度",
     "difficulty": 3,
@@ -933,16 +937,17 @@
     "sourceArticleIds": [
       "news_vocab_02",
       "news_010",
-      "news_011"
+      "news_011",
+      "news_014"
     ],
-    "sourceCount": 3,
-    "frequency": 3,
+    "sourceCount": 4,
+    "frequency": 4,
     "notes": ""
   },
   {
     "word": "निर्देश",
     "normalized": "निर्देश",
-    "pos": "名詞",
+    "pos": "名詞（男）",
     "meaning_ja": "指示、指令",
     "category": "行政・制度",
     "difficulty": 3,
@@ -1010,7 +1015,7 @@
   {
     "word": "अधिनियम",
     "normalized": "अधिनियम",
-    "pos": "名詞",
+    "pos": "名詞（男）",
     "meaning_ja": "法律、法令",
     "category": "行政・制度",
     "difficulty": 4,
@@ -1026,7 +1031,7 @@
   {
     "word": "परिषद",
     "normalized": "परिषद",
-    "pos": "名詞",
+    "pos": "名詞（女）",
     "meaning_ja": "評議会、審議会",
     "category": "行政・制度",
     "difficulty": 4,
@@ -1042,7 +1047,7 @@
   {
     "word": "प्रावधान",
     "normalized": "प्रावधान",
-    "pos": "名詞",
+    "pos": "名詞（男）",
     "meaning_ja": "規定、条項",
     "category": "行政・制度",
     "difficulty": 4,
@@ -1058,7 +1063,7 @@
   {
     "word": "क्रियान्वयन",
     "normalized": "क्रियान्वयन",
-    "pos": "名詞",
+    "pos": "名詞（男）",
     "meaning_ja": "実施、施行",
     "category": "行政・制度",
     "difficulty": 5,
@@ -1074,7 +1079,7 @@
   {
     "word": "प्राधिकरण",
     "normalized": "प्राधिकरण",
-    "pos": "名詞",
+    "pos": "名詞（男）",
     "meaning_ja": "当局、管轄機関",
     "category": "行政・制度",
     "difficulty": 5,
@@ -1091,7 +1096,7 @@
   {
     "word": "अदालत",
     "normalized": "अदालत",
-    "pos": "名詞",
+    "pos": "名詞（女）",
     "meaning_ja": "裁判所",
     "category": "裁判・法・選挙",
     "difficulty": 2,
@@ -1107,7 +1112,7 @@
   {
     "word": "अधिकार",
     "normalized": "अधिकार",
-    "pos": "名詞",
+    "pos": "名詞（男）",
     "meaning_ja": "権利、権限",
     "category": "裁判・法・選挙",
     "difficulty": 2,
@@ -1123,7 +1128,7 @@
   {
     "word": "अपील",
     "normalized": "अपील",
-    "pos": "名詞",
+    "pos": "名詞（女）",
     "meaning_ja": "上訴、訴え、アピール",
     "category": "裁判・法・選挙",
     "difficulty": 2,
@@ -1139,7 +1144,7 @@
   {
     "word": "चुनाव",
     "normalized": "चुनाव",
-    "pos": "名詞",
+    "pos": "名詞（男）",
     "meaning_ja": "選挙",
     "category": "裁判・法・選挙",
     "difficulty": 2,
@@ -1157,7 +1162,7 @@
   {
     "word": "फैसला",
     "normalized": "फैसला",
-    "pos": "名詞",
+    "pos": "名詞（男）",
     "meaning_ja": "判決、決定",
     "category": "裁判・法・選挙",
     "difficulty": 2,
@@ -1173,7 +1178,7 @@
   {
     "word": "सुप्रीम कोर्ट",
     "normalized": "सुप्रीम_कोर्ट",
-    "pos": "名詞",
+    "pos": "名詞（男）",
     "meaning_ja": "最高裁判所",
     "category": "裁判・法・選挙",
     "difficulty": 2,
@@ -1207,7 +1212,7 @@
   {
     "word": "मतदाता",
     "normalized": "मतदाता",
-    "pos": "名詞",
+    "pos": "名詞（男）",
     "meaning_ja": "有権者",
     "category": "裁判・法・選挙",
     "difficulty": 3,
@@ -1224,7 +1229,7 @@
   {
     "word": "मतदान",
     "normalized": "मतदान",
-    "pos": "名詞",
+    "pos": "名詞（男）",
     "meaning_ja": "投票",
     "category": "裁判・法・選挙",
     "difficulty": 3,
@@ -1242,7 +1247,7 @@
   {
     "word": "संविधान",
     "normalized": "संविधान",
-    "pos": "名詞",
+    "pos": "名詞（男）",
     "meaning_ja": "憲法",
     "category": "裁判・法・選挙",
     "difficulty": 3,
@@ -1258,7 +1263,7 @@
   {
     "word": "सुनवाई",
     "normalized": "सुनवाई",
-    "pos": "名詞",
+    "pos": "名詞（女）",
     "meaning_ja": "審理、聴聞",
     "category": "裁判・法・選挙",
     "difficulty": 3,
@@ -1274,7 +1279,7 @@
   {
     "word": "अनुच्छेद",
     "normalized": "अनुच्छेद",
-    "pos": "名詞",
+    "pos": "名詞（男）",
     "meaning_ja": "条文、条項、憲法の条",
     "category": "裁判・法・選挙",
     "difficulty": 4,
@@ -1290,7 +1295,7 @@
   {
     "word": "चुनाव आयोग",
     "normalized": "चुनाव_आयोग",
-    "pos": "名詞",
+    "pos": "名詞（男）",
     "meaning_ja": "選挙管理委員会",
     "category": "裁判・法・選挙",
     "difficulty": 4,
@@ -1306,7 +1311,7 @@
   {
     "word": "ट्रिब्युनल",
     "normalized": "ट्रिब्युनल",
-    "pos": "名詞",
+    "pos": "名詞（男）",
     "meaning_ja": "審判機関、法廷、トリビュナル",
     "category": "裁判・法・選挙",
     "difficulty": 4,
@@ -1322,7 +1327,7 @@
   {
     "word": "न्यायालय",
     "normalized": "न्यायालय",
-    "pos": "名詞",
+    "pos": "名詞（男）",
     "meaning_ja": "裁判所、法廷",
     "category": "裁判・法・選挙",
     "difficulty": 4,
@@ -1370,7 +1375,7 @@
   {
     "word": "मतदाता सूची",
     "normalized": "मतदाता_सूची",
-    "pos": "名詞",
+    "pos": "名詞（女）",
     "meaning_ja": "有権者名簿",
     "category": "裁判・法・選挙",
     "difficulty": 4,
@@ -1442,16 +1447,17 @@
     "importance": 3,
     "status": "active",
     "sourceArticleIds": [
-      "news_vocab_02"
+      "news_vocab_02",
+      "news_014"
     ],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 2,
+    "frequency": 2,
     "notes": ""
   },
   {
     "word": "डेटा",
     "normalized": "डेटा",
-    "pos": "名詞",
+    "pos": "名詞（男）",
     "meaning_ja": "データ",
     "category": "調査・データ",
     "difficulty": 1,
@@ -1467,7 +1473,7 @@
   {
     "word": "परिवार",
     "normalized": "परिवार",
-    "pos": "名詞",
+    "pos": "名詞（男）",
     "meaning_ja": "家族、世帯",
     "category": "調査・データ",
     "difficulty": 1,
@@ -1483,7 +1489,7 @@
   {
     "word": "पोर्टल",
     "normalized": "पोर्टल",
-    "pos": "名詞",
+    "pos": "名詞（男）",
     "meaning_ja": "ポータル、ウェブ窓口",
     "category": "調査・データ",
     "difficulty": 1,
@@ -1499,7 +1505,7 @@
   {
     "word": "अभियान",
     "normalized": "अभियान",
-    "pos": "名詞",
+    "pos": "名詞（男）",
     "meaning_ja": "キャンペーン、活動",
     "category": "調査・データ",
     "difficulty": 2,
@@ -1515,7 +1521,7 @@
   {
     "word": "संख्या",
     "normalized": "संख्या",
-    "pos": "名詞",
+    "pos": "名詞（女）",
     "meaning_ja": "数、数量",
     "category": "調査・データ",
     "difficulty": 2,
@@ -1548,7 +1554,7 @@
   {
     "word": "स्थिति",
     "normalized": "स्थिति",
-    "pos": "名詞",
+    "pos": "名詞（女）",
     "meaning_ja": "状況、状態",
     "category": "調査・データ",
     "difficulty": 2,
@@ -1568,7 +1574,7 @@
   {
     "word": "गणना",
     "normalized": "गणना",
-    "pos": "名詞",
+    "pos": "名詞（女）",
     "meaning_ja": "計数、集計、計算",
     "category": "調査・データ",
     "difficulty": 3,
@@ -1600,7 +1606,7 @@
   {
     "word": "जनगणना",
     "normalized": "जनगणना",
-    "pos": "名詞",
+    "pos": "名詞（女）",
     "meaning_ja": "国勢調査、人口調査",
     "category": "調査・データ",
     "difficulty": 4,
@@ -1616,7 +1622,7 @@
   {
     "word": "सत्यापन",
     "normalized": "सत्यापन",
-    "pos": "名詞",
+    "pos": "名詞（男）",
     "meaning_ja": "検証、照合、確認",
     "category": "調査・データ",
     "difficulty": 4,
@@ -1632,7 +1638,7 @@
   {
     "word": "क्षेत्रीय कार्य",
     "normalized": "क्षेत्रीय_कार्य",
-    "pos": "名詞",
+    "pos": "名詞（男）",
     "meaning_ja": "現地調査、地域での実地作業",
     "category": "調査・データ",
     "difficulty": 5,
@@ -1648,7 +1654,7 @@
   {
     "word": "स्व-गणना",
     "normalized": "स्वगणना",
-    "pos": "名詞",
+    "pos": "名詞（女）",
     "meaning_ja": "自己申告式調査、自主記入",
     "category": "調査・データ",
     "difficulty": 5,
@@ -1714,7 +1720,7 @@
   {
     "word": "आबादी",
     "normalized": "आबादी",
-    "pos": "名詞",
+    "pos": "名詞（女）",
     "meaning_ja": "人口",
     "category": "都市・環境",
     "difficulty": 2,
@@ -1797,7 +1803,7 @@
   {
     "word": "चालान",
     "normalized": "चालान",
-    "pos": "名詞",
+    "pos": "名詞（男）",
     "meaning_ja": "罰金切符、違反切符、伝票",
     "category": "都市・環境",
     "difficulty": 3,
@@ -1847,7 +1853,7 @@
   {
     "word": "महानगर",
     "normalized": "महानगर",
-    "pos": "名詞",
+    "pos": "名詞（男）",
     "meaning_ja": "大都市、メトロポリス",
     "category": "都市・環境",
     "difficulty": 3,
@@ -1954,10 +1960,11 @@
     "importance": 4,
     "status": "active",
     "sourceArticleIds": [
-      "news_vocab_02"
+      "news_vocab_02",
+      "news_014"
     ],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 2,
+    "frequency": 2,
     "notes": ""
   },
   {
@@ -2494,7 +2501,7 @@
   {
     "word": "कांस्टेबल",
     "normalized": "कांस्टेबल",
-    "pos": "名詞",
+    "pos": "名詞（男）",
     "meaning_ja": "巡査、警察官",
     "category": "事件・事故",
     "difficulty": 2,
@@ -2526,7 +2533,7 @@
   {
     "word": "मास्टरमाइंड",
     "normalized": "मास्टरमाइंड",
-    "pos": "名詞",
+    "pos": "名詞（男）",
     "meaning_ja": "首謀者、黒幕",
     "category": "事件・事故",
     "difficulty": 3,
@@ -2638,7 +2645,7 @@
   {
     "word": "सीसीटीवी फुटेज",
     "normalized": "सीसीटीवी_फुटेज",
-    "pos": "名詞",
+    "pos": "名詞（女）",
     "meaning_ja": "防犯カメラ映像",
     "category": "事件・事故",
     "difficulty": 3,
@@ -2661,10 +2668,11 @@
     "importance": 4,
     "status": "active",
     "sourceArticleIds": [
-      "news_006"
+      "news_006",
+      "news_014"
     ],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 2,
+    "frequency": 2,
     "notes": ""
   },
   {
@@ -2686,7 +2694,7 @@
   {
     "word": "फेस रिकग्निशन",
     "normalized": "फेस_रिकग्निशन",
-    "pos": "名詞",
+    "pos": "名詞（女）",
     "meaning_ja": "顔認証",
     "category": "事件・事故",
     "difficulty": 4,
@@ -2782,7 +2790,7 @@
   {
     "word": "कच्चा तेल",
     "normalized": "कच्चा_तेल",
-    "pos": "名詞",
+    "pos": "名詞（男）",
     "meaning_ja": "原油",
     "category": "労働・経済",
     "difficulty": 3,
@@ -2798,7 +2806,7 @@
   {
     "word": "विनिमय दर",
     "normalized": "विनिमय_दर",
-    "pos": "名詞",
+    "pos": "名詞（女）",
     "meaning_ja": "為替レート",
     "category": "労働・経済",
     "difficulty": 5,
@@ -2830,7 +2838,7 @@
   {
     "word": "बेंचमार्क",
     "normalized": "बेंचमार्क",
-    "pos": "名詞",
+    "pos": "名詞（男）",
     "meaning_ja": "基準、ベンチマーク",
     "category": "労働・経済",
     "difficulty": 4,
@@ -2910,7 +2918,7 @@
   {
     "word": "ब्लैक मार्केटिंग",
     "normalized": "ब्लैक_मार्केटिंग",
-    "pos": "名詞",
+    "pos": "名詞（女）",
     "meaning_ja": "闇取引、ブラックマーケット化",
     "category": "労働・経済",
     "difficulty": 4,
@@ -2974,7 +2982,7 @@
   {
     "word": "आपात स्थिति",
     "normalized": "आपात_स्थिति",
-    "pos": "名詞",
+    "pos": "名詞（女）",
     "meaning_ja": "緊急事態",
     "category": "行政・制度",
     "difficulty": 4,
@@ -2990,7 +2998,7 @@
   {
     "word": "अलर्ट",
     "normalized": "अलर्ट",
-    "pos": "名詞",
+    "pos": "名詞（男）",
     "meaning_ja": "警報、アラート",
     "category": "行政・制度",
     "difficulty": 2,
@@ -3029,10 +3037,11 @@
     "importance": 4,
     "status": "active",
     "sourceArticleIds": [
-      "news_008"
+      "news_008",
+      "news_014"
     ],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 2,
+    "frequency": 2,
     "notes": ""
   },
   {
@@ -3086,7 +3095,7 @@
   {
     "word": "गृह मंत्रालय",
     "normalized": "गृह_मंत्रालय",
-    "pos": "名詞",
+    "pos": "名詞（男）",
     "meaning_ja": "内務省",
     "category": "行政・制度",
     "difficulty": 4,
@@ -3102,7 +3111,7 @@
   {
     "word": "आपदा प्रबंधन",
     "normalized": "आपदा_प्रबंधन",
-    "pos": "名詞",
+    "pos": "名詞（男）",
     "meaning_ja": "災害管理",
     "category": "行政・制度",
     "difficulty": 4,
@@ -3118,7 +3127,7 @@
   {
     "word": "संचार मंत्रालय",
     "normalized": "संचार_मंत्रालय",
-    "pos": "名詞",
+    "pos": "名詞（男）",
     "meaning_ja": "通信省",
     "category": "行政・制度",
     "difficulty": 4,
@@ -3230,7 +3239,7 @@
   {
     "word": "हत्याकांड",
     "normalized": "हत्याकांड",
-    "pos": "名詞",
+    "pos": "名詞（男）",
     "meaning_ja": "殺人事件、惨殺事件",
     "category": "事件・事故",
     "difficulty": 4,
@@ -3246,7 +3255,7 @@
   {
     "word": "फायरिंग",
     "normalized": "फायरिंग",
-    "pos": "名詞",
+    "pos": "名詞（女）",
     "meaning_ja": "発砲、銃撃",
     "category": "事件・事故",
     "difficulty": 3,
@@ -3326,7 +3335,7 @@
   {
     "word": "अपराधी",
     "normalized": "अपराधी",
-    "pos": "名詞",
+    "pos": "名詞（男）",
     "meaning_ja": "犯罪者、犯人",
     "category": "事件・事故",
     "difficulty": 3,
@@ -3342,23 +3351,24 @@
   {
     "word": "पहचान",
     "normalized": "पहचान",
-    "pos": "名詞",
+    "pos": "名詞（女）",
     "meaning_ja": "身元確認、識別",
     "category": "事件・事故",
     "difficulty": 2,
     "importance": 3,
     "status": "active",
     "sourceArticleIds": [
-      "news_010"
+      "news_010",
+      "news_014"
     ],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 2,
+    "frequency": 2,
     "notes": ""
   },
   {
     "word": "निंदा",
     "normalized": "निंदा",
-    "pos": "名詞",
+    "pos": "名詞（女）",
     "meaning_ja": "非難、糾弾",
     "category": "社会・公共",
     "difficulty": 3,
@@ -3411,7 +3421,7 @@
       "सीबीआई",
       "CBI"
     ],
-    "pos": "名詞",
+    "pos": "名詞（女）",
     "meaning_ja": "インド中央捜査局（CBI）",
     "category": "裁判・法・選挙",
     "difficulty": 3,
@@ -3443,7 +3453,7 @@
   {
     "word": "गर्भ समापन",
     "normalized": "गर्भ_समापन",
-    "pos": "名詞",
+    "pos": "名詞（男）",
     "meaning_ja": "妊娠終了、中絶処置",
     "category": "医療・健康",
     "difficulty": 5,
@@ -3523,7 +3533,7 @@
   {
     "word": "नवजात",
     "normalized": "नवजात",
-    "pos": "名詞",
+    "pos": "名詞（男）",
     "meaning_ja": "新生児",
     "category": "医療・健康",
     "difficulty": 4,
@@ -3587,17 +3597,18 @@
   {
     "word": "विशेषज्ञ",
     "normalized": "विशेषज्ञ",
-    "pos": "名詞",
+    "pos": "名詞（男）",
     "meaning_ja": "専門家",
     "category": "医療・健康",
     "difficulty": 3,
     "importance": 3,
     "status": "active",
     "sourceArticleIds": [
-      "news_011"
+      "news_011",
+      "news_014"
     ],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 2,
+    "frequency": 2,
     "notes": ""
   },
   {
@@ -3619,7 +3630,7 @@
   {
     "word": "दत्तक ग्रहण",
     "normalized": "दत्तक_ग्रहण",
-    "pos": "名詞",
+    "pos": "名詞（男）",
     "meaning_ja": "養子縁組",
     "category": "社会・公共",
     "difficulty": 5,
@@ -3651,7 +3662,7 @@
   {
     "word": "सफाईकर्मी",
     "normalized": "सफाईकर्मी",
-    "pos": "名詞",
+    "pos": "名詞（男）",
     "meaning_ja": "清掃員",
     "category": "労働・経済",
     "difficulty": 3,
@@ -3699,7 +3710,7 @@
   {
     "word": "आर्थिक तंगी",
     "normalized": "आर्थिक_तंगी",
-    "pos": "名詞",
+    "pos": "名詞（女）",
     "meaning_ja": "経済的困窮",
     "category": "労働・経済",
     "difficulty": 4,
@@ -3715,7 +3726,7 @@
   {
     "word": "गुजारा",
     "normalized": "गुजारा",
-    "pos": "名詞",
+    "pos": "名詞（男）",
     "meaning_ja": "生計、暮らし",
     "category": "労働・経済",
     "difficulty": 3,
@@ -3747,7 +3758,7 @@
   {
     "word": "ग्रेजुएशन",
     "normalized": "ग्रेजुएशन",
-    "pos": "名詞",
+    "pos": "名詞（男）",
     "meaning_ja": "大学卒業、学位取得",
     "category": "教育",
     "difficulty": 2,
@@ -3763,7 +3774,7 @@
   {
     "word": "दाखिला",
     "normalized": "दाखिला",
-    "pos": "名詞",
+    "pos": "名詞（男）",
     "meaning_ja": "入学、登録",
     "category": "教育",
     "difficulty": 3,
@@ -3795,7 +3806,7 @@
   {
     "word": "मैसेंजर",
     "normalized": "मैसेंजर",
-    "pos": "名詞",
+    "pos": "名詞（男）",
     "meaning_ja": "メッセンジャー係",
     "category": "労働・経済",
     "difficulty": 2,
@@ -3811,7 +3822,7 @@
   {
     "word": "कैशियर",
     "normalized": "कैशियर",
-    "pos": "名詞",
+    "pos": "名詞（男）",
     "meaning_ja": "出納係、キャッシャー",
     "category": "労働・経済",
     "difficulty": 2,
@@ -3891,7 +3902,7 @@
   {
     "word": "बुकबाइंडर",
     "normalized": "बुकबाइंडर",
-    "pos": "名詞",
+    "pos": "名詞（男）",
     "meaning_ja": "製本工",
     "category": "労働・経済",
     "difficulty": 4,
@@ -3955,7 +3966,7 @@
   {
     "word": "रोना-धोना",
     "normalized": "रोनाधोना",
-    "pos": "名詞",
+    "pos": "名詞（男）",
     "meaning_ja": "泣き言、不平不満",
     "category": "社会・公共",
     "difficulty": 4,
@@ -3987,7 +3998,7 @@
   {
     "word": "ऊंची छलांग",
     "normalized": "ऊंची_छलांग",
-    "pos": "名詞",
+    "pos": "名詞（女）",
     "meaning_ja": "大きな飛躍",
     "category": "社会・公共",
     "difficulty": 4,
@@ -4035,7 +4046,7 @@
   {
     "word": "मल मूत्र",
     "normalized": "मल_मूत्र",
-    "pos": "名詞",
+    "pos": "名詞（男）",
     "meaning_ja": "糞尿、排泄物",
     "category": "都市・環境",
     "difficulty": 4,
@@ -4067,7 +4078,7 @@
   {
     "word": "फीकल कोलीफार्म",
     "normalized": "फीकल_कोलीफार्म",
-    "pos": "名詞",
+    "pos": "名詞（男）",
     "meaning_ja": "糞便性大腸菌群、糞便性コリフォーム",
     "category": "都市・環境",
     "difficulty": 5,
@@ -4119,7 +4130,7 @@
     "variants": [
       "जैविक आक्सीजन मांग"
     ],
-    "pos": "名詞",
+    "pos": "名詞（女）",
     "meaning_ja": "生物化学的酸素要求量（BOD）",
     "category": "都市・環境",
     "difficulty": 5,
@@ -4139,7 +4150,7 @@
     "variants": [
       "घुलित आक्सीजन"
     ],
-    "pos": "名詞",
+    "pos": "名詞（女）",
     "meaning_ja": "溶存酸素（DO）",
     "category": "都市・環境",
     "difficulty": 5,
@@ -4159,7 +4170,7 @@
     "variants": [
       "रासायनिक आक्सीजन मांग"
     ],
-    "pos": "名詞",
+    "pos": "名詞（女）",
     "meaning_ja": "化学的酸素要求量（COD）",
     "category": "都市・環境",
     "difficulty": 5,
@@ -4251,5 +4262,469 @@
     "sourceCount": 1,
     "frequency": 1,
     "notes": "基準・規格。"
+  },
+  {
+    "word": "तनाव",
+    "normalized": "तनाव",
+    "pos": "名詞（男）",
+    "meaning_ja": "ストレス、緊張",
+    "category": "医療・健康",
+    "difficulty": 2,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_014"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "मानसिक स्वास्थ्य",
+    "normalized": "मानसिक_स्वास्थ्य",
+    "pos": "名詞（男）",
+    "meaning_ja": "メンタルヘルス、精神的健康",
+    "category": "医療・健康",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_014"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "गाइडलाइन",
+    "normalized": "गाइडलाइन",
+    "pos": "名詞（女）",
+    "meaning_ja": "ガイドライン、指針",
+    "category": "教育",
+    "difficulty": 2,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_014"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "प्रशिक्षण",
+    "normalized": "प्रशिक्षण",
+    "pos": "名詞（男）",
+    "meaning_ja": "研修、訓練、トレーニング",
+    "category": "教育",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_014"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "शिक्षक",
+    "normalized": "शिक्षक",
+    "pos": "名詞（男）",
+    "meaning_ja": "教師、教員",
+    "category": "教育",
+    "difficulty": 1,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_014"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "काउंसलिंग",
+    "normalized": "काउंसलिंग",
+    "pos": "名詞（女）",
+    "meaning_ja": "カウンセリング",
+    "category": "医療・健康",
+    "difficulty": 2,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_014"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "मेडिटेशन",
+    "normalized": "मेडिटेशन",
+    "pos": "名詞（男）",
+    "meaning_ja": "瞑想、メディテーション",
+    "category": "医療・健康",
+    "difficulty": 2,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_014"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "परीक्षा परिणाम",
+    "normalized": "परीक्षा_परिणाम",
+    "pos": "名詞句",
+    "meaning_ja": "試験結果、試験成績",
+    "category": "教育",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_014"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "साइबर बुलिंग",
+    "normalized": "साइबर_बुलिंग",
+    "pos": "名詞（女）",
+    "meaning_ja": "ネットいじめ、サイバーいじめ",
+    "category": "教育",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_014"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "मैसेजिंग एप्स",
+    "normalized": "मैसेजिंग_एप्स",
+    "pos": "名詞句",
+    "meaning_ja": "メッセージアプリ",
+    "category": "調査・データ",
+    "difficulty": 2,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_014"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "तनाव ग्रस्त",
+    "normalized": "तनाव_ग्रस्त",
+    "pos": "形容詞句",
+    "meaning_ja": "ストレスを抱えた、ストレス状態の",
+    "category": "医療・健康",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_014"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "फोकस",
+    "normalized": "फोकस",
+    "pos": "名詞（男）",
+    "meaning_ja": "重点、焦点、フォーカス",
+    "category": "社会・公共",
+    "difficulty": 2,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_014"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "कोविड",
+    "normalized": "कोविड",
+    "pos": "名詞（男）",
+    "meaning_ja": "新型コロナ、COVID",
+    "category": "医療・健康",
+    "difficulty": 2,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_014"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "गेमिंग",
+    "normalized": "गेमिंग",
+    "pos": "名詞（男）",
+    "meaning_ja": "ゲーム利用、ゲーミング",
+    "category": "調査・データ",
+    "difficulty": 2,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_014"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "इंटरनेट मीडिया",
+    "normalized": "इंटरनेट_मीडिया",
+    "pos": "名詞（女）",
+    "meaning_ja": "インターネットメディア、ネット媒体",
+    "category": "調査・データ",
+    "difficulty": 3,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_014"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "काउंसलर",
+    "normalized": "काउंसलर",
+    "pos": "名詞（男）",
+    "meaning_ja": "カウンセラー",
+    "category": "教育",
+    "difficulty": 2,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_014"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "शैक्षणिक संस्थान",
+    "normalized": "शैक्षणिक_संस्थान",
+    "pos": "名詞句",
+    "meaning_ja": "教育機関",
+    "category": "教育",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_014"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "बढ़ावा देना",
+    "normalized": "बढ़ावा_देना",
+    "pos": "動詞句",
+    "meaning_ja": "促進する、後押しする",
+    "category": "重要動詞",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_014"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "नियुक्त करना",
+    "normalized": "नियुक्त_करना",
+    "pos": "動詞句",
+    "meaning_ja": "任命する、配置する",
+    "category": "重要動詞",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_014"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "सवाल उठाना",
+    "normalized": "सवाल_उठाना",
+    "pos": "動詞句",
+    "meaning_ja": "疑問を提起する、問題視する",
+    "category": "重要動詞",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_014"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "जोर देना",
+    "normalized": "जोर_देना",
+    "pos": "動詞句",
+    "meaning_ja": "強調する、重視する",
+    "category": "重要動詞",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_014"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "शिक्षा मंत्रालय",
+    "normalized": "शिक्षा_मंत्रालय",
+    "pos": "名詞（男）",
+    "meaning_ja": "教育省",
+    "category": "行政・制度",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_014"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "नीति आयोग",
+    "normalized": "नीति_आयोग",
+    "pos": "名詞（男）",
+    "meaning_ja": "NITI Aayog（インド国家政策委員会）",
+    "category": "行政・制度",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_014"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "स्कूली शिक्षा विभाग",
+    "normalized": "स्कूली_शिक्षा_विभाग",
+    "pos": "名詞句",
+    "meaning_ja": "学校教育部門",
+    "category": "教育",
+    "difficulty": 4,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_014"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "तनाव मुक्त",
+    "normalized": "तनाव_मुक्त",
+    "pos": "形容詞句",
+    "meaning_ja": "ストレスのない、ストレスから解放された",
+    "category": "医療・健康",
+    "difficulty": 3,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_014"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "सुरक्षित प्रयोग",
+    "normalized": "सुरक्षित_प्रयोग",
+    "pos": "名詞句",
+    "meaning_ja": "安全な利用、安全な使用",
+    "category": "教育",
+    "difficulty": 4,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_014"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "अंतिम दौर",
+    "normalized": "अंतिम_दौर",
+    "pos": "名詞（男）",
+    "meaning_ja": "最終段階、最後の局面",
+    "category": "社会・公共",
+    "difficulty": 3,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_014"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "प्रमुख कारण",
+    "normalized": "प्रमुख_कारण",
+    "pos": "名詞（男）",
+    "meaning_ja": "主な原因",
+    "category": "社会・公共",
+    "difficulty": 3,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_014"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "फंसना",
+    "normalized": "फंसना",
+    "pos": "動詞",
+    "meaning_ja": "はまり込む、巻き込まれる、抜け出せなくなる",
+    "category": "重要動詞",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news_014"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
   }
 ]

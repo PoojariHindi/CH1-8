@@ -1,0 +1,258 @@
+{
+  "id": "academic_004BandarMagarmacch2",
+  "schema_version": 1,
+
+  "title": "बंदर और मगरमच्छ",
+  "author": "Vishnu Sharma",
+  "source": "Panchatantra",
+  "year": "NA",
+
+  "genre": "story",
+  "register": "simple_narrative",
+
+  "category": "読解",
+
+  "tags": [
+    "道徳",
+    "物語",
+    "動物寓話"
+  ],
+
+  "key_phrase": "कितनी अच्छी बात है कि उन्होंने मुझे अपने घर बुलाया है",
+
+  "text": "मगरमच्छ की पत्नी को जामुन अच्छे लगे और उसने सोचा की जो बंदर ऐसे मीठे जामुन खाता होगा उसका मांस कितना मीठा होगा। दिनों-दिन मगरमच्छ की पत्नी की बंदर का मांस खाने की लालसा बढ़ती गई। बंदर को पास लाने के लिये उसने एक धूर्त योजना बनाई। एक दिन उसने बीमार होने का बहाना बनाया। उसने खूब आँसू बहाये मानो उसे बहुत दर्द हो रहा हो। मगरमच्छ उदास हो गया कि उसकी पत्नी बीमार है। वह उसके पास बैठ गया और बोला, “मैं तुम्हारे लिए क्या कर सकता हूँ?” उसकी पत्नी बोली, “मैं बहुत बीमार हूँ। मैंने डॉक्टर से पूछा तो वह बोला कि मैं तभी ठीक हो सकती हूँ जब मैं बंदर का दिल खाऊँ।” “बंदर का दिल? मैं तो एक ही बंदर को जानता हूँ, जो कि मेरा दोस्त है।” “हाँ प्रिये, बंदर का दिल! अगर तुम चाहते हो कि मैं ठीक हो जाऊँ तो तुम्हें अपने दोस्त का दिल ला कर देना पड़ेगा।” “मैं अपने एकमात्र दोस्त को कैसे नुकसान पहुँचा सकता हूँ?” वह बोला। “तुम अपनी पत्नी को कैसे मरने दे सकते हो?” पत्नी ने जवाब दिया। मगरमच्छ दुखी और भ्रमित हो गया कि पत्नी और दोस्त में से अब किसे चुने। वह अपने मन को समझा नहीं पाया और उसकी पत्नी ने धमकी दी, “तुम मुझे प्यार नहीं करते इसलिए मैंने यह फैसला किया है कि मैं अपनी ज़िन्दगी खत्म कर लूंगी। तुम्हारे लौटने पर मैं तुम्हें मरी मिलूंगी।” मगरमच्छ सोचने लगा कि एक पति होने के नाते पत्नी की देखभाल करना उसकी ज़िम्मेदारी है। उसने बंदर को अपनी पत्नी के पास लाने का निश्चय किया। जब वह जामुन के पेड़ के पास गया, बंदर ने उसे देखा और पूछा, “दोस्त, आज देर क्यों हो गई? सब ठीक तो है ना?” “नहीं, मेरी पत्नी से मेरी लड़ाई हो गई। वह बोली कि मैं तुम्हारा दोस्त नहीं हूँ। तुमने हम लोगों के लिए इतना कुछ किया और मैंने तुम्हें अपने घर बुलाया तक नहीं।” “कितनी अच्छी बात है कि उन्होंने मुझे अपने घर बुलाया है। मुझे भी उनसे मिलने की बहुत इच्छा है। पर मैं वहाँ कैसे जा सकता हूँ? तुम पानी में रहते हो और यदि मैं तुम्हारे घर गया तो डूब जाऊँगा,” बंदर बोला।",
+
+  "expressions": [
+    {
+      "text": "मैं तुम्हारे लिए क्या कर सकता हूँ",
+      "normalized": "मैं तुम्हारे लिए क्या कर सकता हूँ",
+      "meaning_ja": "私はあなたのために何ができますか",
+      "type": "conversation_expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "मैं बहुत बीमार हूँ",
+      "normalized": "मैं बहुत बीमार हूँ",
+      "meaning_ja": "私はとても具合が悪い",
+      "type": "conversation_expression",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "मैं अपने एकमात्र दोस्त को कैसे नुकसान पहुँचा सकता हूँ",
+      "normalized": "मैं अपने एकमात्र दोस्त को कैसे नुकसान पहुँचा सकता हूँ",
+      "meaning_ja": "私は唯一の友人にどうして危害を加えられるだろうか",
+      "type": "moral_statement",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "कितनी अच्छी बात है कि उन्होंने मुझे अपने घर बुलाया है",
+      "normalized": "कितनी अच्छी बात है कि उन्होंने मुझे अपने घर बुलाया है",
+      "meaning_ja": "家に招いてくれたなんて、なんて嬉しいことだ",
+      "type": "conversation_expression",
+      "importance": 4,
+      "status": "active"
+    }
+  ],
+
+  "vocab_candidates": [
+    {
+      "word": "मांस",
+      "normalized": "मांस",
+      "pos": "名詞（男）",
+      "meaning_ja": "肉",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "लालसा",
+      "normalized": "लालसा",
+      "pos": "名詞（女）",
+      "meaning_ja": "強い欲望、切望",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "धूर्त",
+      "normalized": "धूर्त",
+      "pos": "形容詞",
+      "meaning_ja": "ずる賢い、狡猾な",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "योजना",
+      "normalized": "योजना",
+      "pos": "名詞（女）",
+      "meaning_ja": "計画",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "बहाना",
+      "normalized": "बहाना",
+      "pos": "名詞（男）",
+      "meaning_ja": "口実、言い訳",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "आँसू",
+      "normalized": "आँसू",
+      "pos": "名詞（男）",
+      "meaning_ja": "涙",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "मानो",
+      "normalized": "मानो",
+      "pos": "接続詞",
+      "meaning_ja": "まるで〜のように",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "उदास",
+      "normalized": "उदास",
+      "pos": "形容詞",
+      "meaning_ja": "悲しい、落ち込んだ",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "दिल",
+      "normalized": "दिल",
+      "pos": "名詞（男）",
+      "meaning_ja": "心、心臓",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "प्रिये",
+      "normalized": "प्रिय",
+      "display": "प्रिय",
+      "variants": ["प्रिये"],
+      "pos": "呼格",
+      "meaning_ja": "愛しい人よ",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "एकमात्र",
+      "normalized": "एकमात्र",
+      "pos": "形容詞",
+      "meaning_ja": "唯一の",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "नुकसान",
+      "normalized": "नुकसान",
+      "pos": "名詞（男）",
+      "meaning_ja": "損害、危害",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "भ्रमित",
+      "normalized": "भ्रमित",
+      "pos": "形容詞",
+      "meaning_ja": "混乱した、惑わされた",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "धमकी",
+      "normalized": "धमकी",
+      "pos": "名詞（女）",
+      "meaning_ja": "脅し、脅迫",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "फैसला",
+      "normalized": "फैसला",
+      "pos": "名詞（男）",
+      "meaning_ja": "決定、判断",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "ज़िन्दगी",
+      "normalized": "जिंदगी",
+      "display": "ज़िन्दगी",
+      "variants": ["ज़िन्दगी", "जिन्दगी"],
+      "pos": "名詞（女）",
+      "meaning_ja": "人生、命",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "पति",
+      "normalized": "पति",
+      "pos": "名詞（男）",
+      "meaning_ja": "夫",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "देखभाल",
+      "normalized": "देखभाल",
+      "pos": "名詞（女）",
+      "meaning_ja": "世話、看護",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "ज़िम्मेदारी",
+      "normalized": "जिम्मेदारी",
+      "display": "ज़िम्मेदारी",
+      "variants": ["ज़िम्मेदारी", "जिम्मेदारी"],
+      "pos": "名詞（女）",
+      "meaning_ja": "責任",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "निश्चय",
+      "normalized": "निश्चय",
+      "pos": "名詞（男）",
+      "meaning_ja": "決意、決定",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "लड़ाई",
+      "normalized": "लड़ाई",
+      "pos": "名詞（女）",
+      "meaning_ja": "喧嘩、争い",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "इच्छा",
+      "normalized": "इच्छा",
+      "pos": "名詞（女）",
+      "meaning_ja": "願い、希望、欲求",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "डूबना",
+      "normalized": "डूबना",
+      "pos": "自動詞",
+      "meaning_ja": "沈む、溺れる",
+      "importance": 4,
+      "status": "active"
+    }
+  ],
+
+  "meta": {
+    "source_type": "manual_curated",
+    "reading_genre": "story",
+    "dedupe_ready": true
+  }
+}

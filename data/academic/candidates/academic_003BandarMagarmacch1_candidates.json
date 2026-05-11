@@ -1,0 +1,376 @@
+[
+  {
+    "word": "किनारा",
+    "display": "किनारा",
+    "normalized": "किनारा",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "岸、端",
+    "importance": 3,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "道徳",
+      "物語",
+      "動物寓話"
+    ],
+    "sourceIds": [
+      "academic_003BandarMagarmacch1"
+    ],
+    "sourceTitle": "बंदर और मगरमच्छ",
+    "sourceGenre": "story",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "word": "जामुन",
+    "display": "जामुन",
+    "normalized": "जामुन",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "ジャームン（インドの果実）",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "道徳",
+      "物語",
+      "動物寓話"
+    ],
+    "sourceIds": [
+      "academic_003BandarMagarmacch1"
+    ],
+    "sourceTitle": "बंदर और मगरमच्छ",
+    "sourceGenre": "story",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "word": "भरपूर",
+    "display": "भरपूर",
+    "normalized": "भरपूर",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "豊富な、たっぷりの",
+    "importance": 3,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "道徳",
+      "物語",
+      "動物寓話"
+    ],
+    "sourceIds": [
+      "academic_003BandarMagarmacch1"
+    ],
+    "sourceTitle": "बंदर और मगरमच्छ",
+    "sourceGenre": "story",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "word": "प्रिय",
+    "display": "प्रिय",
+    "normalized": "प्रिय",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "愛しい、好きな、大切な",
+    "importance": 3,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "道徳",
+      "物語",
+      "動物寓話"
+    ],
+    "sourceIds": [
+      "academic_003BandarMagarmacch1"
+    ],
+    "sourceTitle": "बंदर और मगरमच्छ",
+    "sourceGenre": "story",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "word": "मगरमच्छ",
+    "display": "मगरमच्छ",
+    "normalized": "मगरमच्छ",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "ワニ",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "道徳",
+      "物語",
+      "動物寓話"
+    ],
+    "sourceIds": [
+      "academic_003BandarMagarmacch1"
+    ],
+    "sourceTitle": "बंदर और मगरमच्छ",
+    "sourceGenre": "story",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "word": "तलाश",
+    "display": "तलाश",
+    "normalized": "तलाश",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "探索、探し求めること",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "道徳",
+      "物語",
+      "動物寓話"
+    ],
+    "sourceIds": [
+      "academic_003BandarMagarmacch1"
+    ],
+    "sourceTitle": "बंदर और मगरमच्छ",
+    "sourceGenre": "story",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "word": "घूमना",
+    "display": "घूमना",
+    "normalized": "घूमना",
+    "variants": [],
+    "pos": "自動詞",
+    "meaning_ja": "歩き回る",
+    "importance": 3,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "道徳",
+      "物語",
+      "動物寓話"
+    ],
+    "sourceIds": [
+      "academic_003BandarMagarmacch1"
+    ],
+    "sourceTitle": "बंदर और मगरमच्छ",
+    "sourceGenre": "story",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "word": "तोड़ना",
+    "display": "तोड़ना",
+    "normalized": "तोड़ना",
+    "variants": [],
+    "pos": "他動詞",
+    "meaning_ja": "もぎ取る、壊す",
+    "importance": 3,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "道徳",
+      "物語",
+      "動物寓話"
+    ],
+    "sourceIds": [
+      "academic_003BandarMagarmacch1"
+    ],
+    "sourceTitle": "बंदर और मगरमच्छ",
+    "sourceGenre": "story",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "word": "फेंकना",
+    "display": "फेंकना",
+    "normalized": "फेंकना",
+    "variants": [],
+    "pos": "他動詞",
+    "meaning_ja": "投げる",
+    "importance": 3,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "道徳",
+      "物語",
+      "動物寓話"
+    ],
+    "sourceIds": [
+      "academic_003BandarMagarmacch1"
+    ],
+    "sourceTitle": "बंदर और मगरमच्छ",
+    "sourceGenre": "story",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "word": "स्वागत",
+    "display": "स्वागत",
+    "normalized": "स्वागत",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "歓迎",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "道徳",
+      "物語",
+      "動物寓話"
+    ],
+    "sourceIds": [
+      "academic_003BandarMagarmacch1"
+    ],
+    "sourceTitle": "बंदर और मगरमच्छ",
+    "sourceGenre": "story",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "word": "मेहमान",
+    "display": "मेहमान",
+    "normalized": "मेहमान",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "客、来客",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "道徳",
+      "物語",
+      "動物寓話"
+    ],
+    "sourceIds": [
+      "academic_003BandarMagarmacch1"
+    ],
+    "sourceTitle": "बंदर और मगरमच्छ",
+    "sourceGenre": "story",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "word": "विदा",
+    "display": "विदा",
+    "normalized": "विदा",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "別れ、別れの挨拶",
+    "importance": 3,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "道徳",
+      "物語",
+      "動物寓話"
+    ],
+    "sourceIds": [
+      "academic_003BandarMagarmacch1"
+    ],
+    "sourceTitle": "बंदर और मगरमच्छ",
+    "sourceGenre": "story",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "word": "दोस्ती",
+    "display": "दोस्ती",
+    "normalized": "दोस्ती",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "友情",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "道徳",
+      "物語",
+      "動物寓話"
+    ],
+    "sourceIds": [
+      "academic_003BandarMagarmacch1"
+    ],
+    "sourceTitle": "बंदर और मगरमच्छ",
+    "sourceGenre": "story",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "word": "पत्नी",
+    "display": "पत्नी",
+    "normalized": "पत्नी",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "妻",
+    "importance": 3,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "道徳",
+      "物語",
+      "動物寓話"
+    ],
+    "sourceIds": [
+      "academic_003BandarMagarmacch1"
+    ],
+    "sourceTitle": "बंदर और मगरमच्छ",
+    "sourceGenre": "story",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "word": "खिलाना",
+    "display": "खिलाना",
+    "normalized": "खिलाना",
+    "variants": [],
+    "pos": "使役動詞",
+    "meaning_ja": "食べさせる",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "道徳",
+      "物語",
+      "動物寓話"
+    ],
+    "sourceIds": [
+      "academic_003BandarMagarmacch1"
+    ],
+    "sourceTitle": "बंदर और मगरमच्छ",
+    "sourceGenre": "story",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "word": "गहरा",
+    "display": "गहरा",
+    "normalized": "गहरा",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "深い",
+    "importance": 3,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "道徳",
+      "物語",
+      "動物寓話"
+    ],
+    "sourceIds": [
+      "academic_003BandarMagarmacch1"
+    ],
+    "sourceTitle": "बंदर और मगरमच्छ",
+    "sourceGenre": "story",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "word": "समय बिताना",
+    "display": "समय बिताना",
+    "normalized": "समय_बिताना",
+    "variants": [],
+    "pos": "動詞句",
+    "meaning_ja": "時間を過ごす",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "道徳",
+      "物語",
+      "動物寓話"
+    ],
+    "sourceIds": [
+      "academic_003BandarMagarmacch1"
+    ],
+    "sourceTitle": "बंदर और मगरमच्छ",
+    "sourceGenre": "story",
+    "sourceRegister": "simple_narrative"
+  }
+]

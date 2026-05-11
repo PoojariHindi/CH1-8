@@ -1,0 +1,216 @@
+{
+  "id": "academic_005BandarMagarmacch3",
+  "schema_version": 1,
+
+  "title": "बंदर और मगरमच्छ",
+  "author": "Vishnu Sharma",
+  "source": "Panchatantra",
+  "year": "NA",
+
+  "genre": "story",
+  "register": "simple_narrative",
+
+  "category": "読解",
+
+  "tags": [
+    "道徳",
+    "物語",
+    "動物寓話"
+  ],
+
+  "key_phrase": "उसका पति दुनिया का सबसे बड़ा मूर्ख है",
+
+  "text": "मगरमच्छ बोला, “हम नदी के किनारे पर रहते हैं। मैं बड़ी आसानी से तुम्हें वहाँ ले जाऊँगा। तुम मेरी पीठ पर बैठ जाना और मैं तैरकर तुम्हें ले जाऊँगा।” बंदर को यह सुझाव अच्छा लगा। वह पेड़ से नीचे उतरा और मगरमच्छ की पीठ पर बैठ गया। बंदर को पीठ पर बैठा कर मगरमच्छ नदी में तैरने लगा। जब वे नदी के बीच में पहुँचे तो मगरमच्छ ने डूबना शुरू किया। “अरे, तुम क्या कर रहे हो? अगर तुम और नीचे गए तो मैं डूब जाऊँगा,” बंदर डर कर बोला। मगरमच्छ बोला, “मैं और नीचे जाऊँगा। मैं तुम्हें मारना चाहता हूँ।” “मुझे मारना चाहते हो? क्यों, मेरे दोस्त, तुम मुझे क्यों मारना चाहते हो?” बंदर आश्चर्य से बोला। “मेरी पत्नी बीमार है और डॉक्टर ने उससे कहा है कि ठीक होने के लिए उसे बंदर का दिल खाना पड़ेगा। तुम वो बंदर हो जिसे मैं जानता हूँ। मुझे तुमको मारना पड़ेगा और तुम्हारा दिल अपनी पत्नी को देना होगा।” बंदर को बड़ा धक्का लगा। वह समझ गया उसका जीवन खतरे में है। वह क्या करे? उसने कुछ पल सोचा और बोला, “मेरे अच्छे दोस्त, तुमने मुझे पहले क्यों नहीं बताया। तुम्हारी पत्नी की जान बचाने के लिए अपना दिल देने में मुझे बड़ी खुशी होती। पर अब मैं यह कैसे कर सकता हूँ? मैं तो अपना दिल जामुन के पेड़ पर एक छेद में सम्भाल कर रखता हूँ। मैं उसे अपने साथ नहीं लाया हूँ। अगर चलने के पहले तुमने बता दिया होता कि तुम क्या चाहते हो तो मैंने अपना दिल तुम्हें वहीं दे दिया होता।” अब बंदर बोला, “हाँ चलो हम लोग तुरंत वापस चलें और इसके पहले कि तुम्हारी पत्नी की तबीयत और ख़राब हो हम दिल ले आयें।” मगरमच्छ मुड़ा और जितनी जल्दी हो सकता था जामुन के पेड़ की ओर तैरने लगा। जब वे वहाँ पहुँचे, तो बंदर कूदा और जल्दी से पेड़ पर चढ़ गया। ऊँची डाल पर आराम से बैठ गया और नीचे मगरमच्छ की ओर देख कर बोला, “अब तुम अपनी दुष्ट पत्नी के पास अकेले जा सकते हो और उसे बताना कि उसका पति दुनिया का सबसे बड़ा मूर्ख है।”",
+
+  "expressions": [
+    {
+      "text": "अगर तुम और नीचे गए तो मैं डूब जाऊँगा",
+      "normalized": "अगर तुम और नीचे गए तो मैं डूब जाऊँगा",
+      "meaning_ja": "これ以上下へ行ったら、私は溺れてしまう",
+      "type": "conversation_expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "वह समझ गया उसका जीवन खतरे में है",
+      "normalized": "वह समझ गया उसका जीवन खतरे में है",
+      "meaning_ja": "彼は自分の命が危険にあることを悟った",
+      "type": "narrative_expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "तुम्हारी पत्नी की जान बचाने के लिए",
+      "normalized": "तुम्हारी पत्नी की जान बचाने के लिए",
+      "meaning_ja": "君の妻の命を救うために",
+      "type": "purpose_expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "उसका पति दुनिया का सबसे बड़ा मूर्ख है",
+      "normalized": "उसका पति दुनिया का सबसे बड़ा मूर्ख है",
+      "meaning_ja": "彼女の夫は世界一の愚か者だ",
+      "type": "moral_statement",
+      "importance": 4,
+      "status": "active"
+    }
+  ],
+
+  "vocab_candidates": [
+    {
+      "word": "सुझाव",
+      "normalized": "सुझाव",
+      "pos": "名詞（男）",
+      "meaning_ja": "提案、助言",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "तैरना",
+      "normalized": "तैरना",
+      "pos": "自動詞",
+      "meaning_ja": "泳ぐ",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "बीच",
+      "normalized": "बीच",
+      "pos": "名詞（男）",
+      "meaning_ja": "中央、中ほど",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "डूबना",
+      "normalized": "डूबना",
+      "pos": "自動詞",
+      "meaning_ja": "沈む、溺れる",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "आश्चर्य",
+      "normalized": "आश्चर्य",
+      "pos": "名詞（男）",
+      "meaning_ja": "驚き",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "धक्का",
+      "normalized": "धक्का",
+      "pos": "名詞（男）",
+      "meaning_ja": "衝撃、ショック",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "खतरा",
+      "normalized": "खतरा",
+      "pos": "名詞（男）",
+      "meaning_ja": "危険",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "सम्भाल",
+      "normalized": "सम्भालना",
+      "display": "संभालना",
+      "variants": ["सम्भाल", "संभाल"],
+      "pos": "他動詞",
+      "meaning_ja": "保管する、大切に扱う",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "छेद",
+      "normalized": "छेद",
+      "pos": "名詞（男）",
+      "meaning_ja": "穴",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "तुरंत",
+      "normalized": "तुरंत",
+      "pos": "副詞",
+      "meaning_ja": "すぐに、即座に",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "तबीयत",
+      "normalized": "तबीयत",
+      "pos": "名詞（女）",
+      "meaning_ja": "体調、気分",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "ख़राब",
+      "normalized": "खराब",
+      "display": "ख़राब",
+      "variants": ["ख़राब", "खराब"],
+      "pos": "形容詞",
+      "meaning_ja": "悪い、 具合の悪い、壊れた",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "मुड़ना",
+      "normalized": "मुड़ना",
+      "pos": "自動詞",
+      "meaning_ja": "向きを変える、引き返す",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "कूदना",
+      "normalized": "कूदना",
+      "pos": "自動詞",
+      "meaning_ja": "跳ぶ、飛び降りる",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "डाल",
+      "normalized": "डाल",
+      "pos": "名詞（女）",
+      "meaning_ja": "枝",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "आराम",
+      "normalized": "आराम",
+      "pos": "名詞（男）",
+      "meaning_ja": "休息、 くつろぎ",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "दुष्ट",
+      "normalized": "दुष्ट",
+      "pos": "形容詞",
+      "meaning_ja": "邪悪な、意地悪な",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "मूर्ख",
+      "normalized": "मूर्ख",
+      "pos": "名詞・形容詞",
+      "meaning_ja": "愚か者、愚かな",
+      "importance": 4,
+      "status": "active"
+    }
+  ],
+
+  "meta": {
+    "source_type": "manual_curated",
+    "reading_genre": "story",
+    "dedupe_ready": true
+  }
+}
