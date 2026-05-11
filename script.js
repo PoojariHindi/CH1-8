@@ -15,6 +15,7 @@ let bollywoodExpressions = [];
 
 let academicVocab = [];
 let academicExpressions = [];
+let academicFill = [];
 
 let currentQuiz = null;
 let wrongAnswers = [];
@@ -160,6 +161,19 @@ async function loadAcademicExpressions() {
     : [];
 }
 
+async function loadAcademicFill() {
+  const data = await loadJson("data/academic/quizzes/fill_blanks.json");
+
+  const items = Array.isArray(data)
+    ? data
+    : (data.fillBlanks || []);
+
+  return items.map((entry) => ({
+    ...entry,
+    source: "academic_fill"
+  }));
+}
+
 function filterChByLesson(vocabList, maxLesson) {
   return vocabList.filter((item) => Number(item.lesson) <= maxLesson);
 }
@@ -301,9 +315,12 @@ function createFillQuestion(pool) {
       film: correct.film || ""
     },
     extra: {
-      translation: normalizeString(correct.meaning),
-      sourceText: normalizeString(correct.sourceText)
-    }
+  translation:
+    normalizeString(correct.expressionMeaning) ||
+    normalizeString(correct.meaning) ||
+    normalizeString(correct.translation),
+  sourceText: normalizeString(correct.sourceText)
+}
   };
 }
 
@@ -502,9 +519,13 @@ function getCurrentPool() {
   if (mode === "academic_expressions") {
     return [...academicExpressions];
   }
-  
+
   if (mode === "academic_vocab") {
   return [...academicVocab];
+}
+ 
+  if (mode === "academic_fill") {
+  return [...academicFill];
 }
 
   if (mode === "bollywood_fill") {
@@ -529,12 +550,16 @@ function startQuiz() {
     return;
   }
 
-  if (mode === "bollywood_fill") {
-    currentQuiz = createFillQuestion(pool);
-  } else if (
-    mode === "bollywood_expressions" ||
-    mode === "academic_expressions"
-  ) {
+if (
+  mode === "bollywood_fill" ||
+  mode === "academic_fill"
+) {
+  currentQuiz = createFillQuestion(pool);
+} else if (
+  mode === "bollywood_expressions" ||
+  mode === "academic_expressions"
+) {
+
     currentQuiz = createExpressionQuestion(pool, direction);
   } else {
     currentQuiz = createQuizQuestion(pool, direction);
@@ -571,13 +596,16 @@ function updateUiByMode() {
     if (lessonLabel) lessonLabel.style.display = "none";
   }
 
-  if (mode === "bollywood_fill") {
-    directionSelect.style.display = "none";
-    if (directionLabel) directionLabel.style.display = "none";
-  } else {
-    directionSelect.style.display = "";
-    if (directionLabel) directionLabel.style.display = "";
-  }
+  if (
+  mode === "bollywood_fill" ||
+  mode === "academic_fill"
+) {
+  directionSelect.style.display = "none";
+  if (directionLabel) directionLabel.style.display = "none";
+} else {
+  directionSelect.style.display = "";
+  if (directionLabel) directionLabel.style.display = "";
+}
 }
 
 async function initApp() {
@@ -597,7 +625,10 @@ async function initApp() {
     console.log("academic loaded:", academicVocab.length);
 
     academicExpressions = await loadAcademicExpressions();
-console.log("academic expressions loaded:", academicExpressions.length);
+    console.log("academic expressions loaded:", academicExpressions.length);
+
+    academicFill = await loadAcademicFill();
+    console.log("academic fill loaded:", academicFill.length);
 
   document
   .getElementById("startQuizBtn")
