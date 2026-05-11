@@ -982,5 +982,29 @@
     ],
     "key_phrase": "दो पल रुका, ख्वाबों का कारवाँ",
     "status": "processed"
+  },
+  {
+    "id": "bolly_042",
+    "title": "Gerua",
+    "film": "Dilwale",
+    "year": 2015,
+    "singer": [
+      "Arijit Singh",
+      "Antara Mitra"
+    ],
+    "lyricist": [
+      "Amitabh Bhattacharya"
+    ],
+    "composer": [
+      "Pritam"
+    ],
+    "notes": [
+      "シャールク"
+    ],
+    "tags": [
+      "恋愛"
+    ],
+    "key_phrase": "रंग दे तू मोहे गेरुआ",
+    "status": "processed"
   }
 ]

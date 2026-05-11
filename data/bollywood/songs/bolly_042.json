@@ -1,0 +1,480 @@
+{
+  "id": "bolly_042",
+  "schema_version": 2,
+  "title": "Gerua",
+  "film": "Dilwale",
+  "year": 2015,
+  "singer": [
+    "Arijit Singh",
+    "Antara Mitra"
+  ],
+  "lyricist": [
+    "Amitabh Bhattacharya"
+  ],
+  "composer": [
+    "Pritam"
+  ],
+  "notes": [
+    "シャールク"
+  ],
+  "tags": [
+    "恋愛"
+  ],
+  "emotion": "love_devotion",
+  "register": "romantic_poetic",
+  "key_phrase": "रंग दे तू मोहे गेरुआ",
+  "expressions": [
+    {
+      "text": "रंग दे तू मोहे गेरुआ",
+      "normalized": "रंग दे तू मोहे गेरुआ",
+      "meaning_ja": "私をサフラン色に染めてください",
+      "type": "key_phrase",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "हम मिले जहाँ पर, लम्हा थम गया",
+      "normalized": "हम मिले जहां पर लम्हा थम गया",
+      "meaning_ja": "私たちが出会ったその場所で、時が止まった",
+      "type": "poetic_expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "आसमां पिघल के, शीशे में ढल के",
+      "normalized": "आसमान पिघल के शीशे में ढल के",
+      "meaning_ja": "空が溶けて、ガラスのような形になって",
+      "type": "metaphor",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "जम गया तो तेरा, चेहरा बन गया",
+      "normalized": "जम गया तो तेरा चेहरा बन गया",
+      "meaning_ja": "固まると、それはあなたの顔になった",
+      "type": "metaphor",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "दुनिया भुला के, तुमसे मिला हूँ",
+      "normalized": "दुनिया भुला के तुमसे मिला हूं",
+      "meaning_ja": "世界を忘れて、私はあなたに出会った",
+      "type": "romantic_expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "निकली है दिल से ये दुआ",
+      "normalized": "निकली है दिल से ये दुआ",
+      "meaning_ja": "この祈りは心から出てきたものだ",
+      "type": "poetic_expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "तुमसे शुरू तुमपे फ़ना",
+      "normalized": "तुमसे शुरू तुमपे फना",
+      "meaning_ja": "あなたから始まり、あなたのもとで消えていく",
+      "type": "romantic_expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "है सुफियाना ये दास्ताँ",
+      "normalized": "है सूफियाना ये दास्तां",
+      "meaning_ja": "これはスーフィー的な物語である",
+      "type": "sufi_like_expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "मैं कारवाँ, मंज़िल हो तुम",
+      "normalized": "मैं कारवां मंजिल हो तुम",
+      "meaning_ja": "私は旅の隊商で、あなたは目的地だ",
+      "type": "metaphor",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "दर्द का वो सारा, कोहरा छन गया",
+      "normalized": "दर्द का वो सारा कोहरा छन गया",
+      "meaning_ja": "痛みの霧がすべて晴れていった",
+      "type": "metaphor",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "वीरान था, दिल का जहां",
+      "normalized": "वीरान था दिल का जहां",
+      "meaning_ja": "心の世界は荒れ果てていた",
+      "type": "metaphor",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "इक जिस्म से, इक जान का दर्ज़ा मुझे हासिल हुआ",
+      "normalized": "एक जिस्म से एक जान का दर्जा मुझे हासिल हुआ",
+      "meaning_ja": "一つの身体から一つの魂のような地位を私は得た",
+      "type": "poetic_expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "तेरे साथ रिश्ता गहरा बन गया",
+      "normalized": "तेरे साथ रिश्ता गहरा बन गया",
+      "meaning_ja": "あなたとの関係は深いものになった",
+      "type": "romantic_expression",
+      "importance": 4,
+      "status": "active"
+    }
+  ],
+  "vocab_candidates": [
+    {
+      "word": "धूप",
+      "normalized": "धूप",
+      "pos": "名詞（女）",
+      "meaning_ja": "日差し、陽光",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "छाँव",
+      "normalized": "छांव",
+      "display": "छांव",
+      "variants": [
+        "छाँव"
+      ],
+      "pos": "名詞（女）",
+      "meaning_ja": "日陰、陰",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "फिसल",
+      "normalized": "फिसलना",
+      "display": "फिसलना",
+      "pos": "自動詞",
+      "meaning_ja": "滑る、すべり落ちる",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "लम्हा",
+      "normalized": "लम्हा",
+      "pos": "名詞（男）",
+      "meaning_ja": "瞬間、ひととき",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "थम",
+      "normalized": "थमना",
+      "display": "थमना",
+      "pos": "自動詞",
+      "meaning_ja": "止まる、静まる",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "आसमां",
+      "normalized": "आसमान",
+      "display": "आसमान",
+      "variants": [
+        "आसमां",
+        "आसमाँ"
+      ],
+      "pos": "名詞（男）",
+      "meaning_ja": "空、天空",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "पिघल",
+      "normalized": "पिघलना",
+      "display": "पिघलना",
+      "pos": "自動詞",
+      "meaning_ja": "溶ける、溶解する",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "शीशे",
+      "normalized": "शीशा",
+      "display": "शीशा",
+      "pos": "名詞（男）",
+      "meaning_ja": "ガラス、鏡",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "ढल",
+      "normalized": "ढलना",
+      "display": "ढलना",
+      "pos": "自動詞",
+      "meaning_ja": "形づくられる、傾く、移り変わる",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "चेहरा",
+      "normalized": "चेहरा",
+      "pos": "名詞（男）",
+      "meaning_ja": "顔、表情",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "दुआ",
+      "normalized": "दुआ",
+      "pos": "名詞（女）",
+      "meaning_ja": "祈り、願い",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "गेरुआ",
+      "normalized": "गेरुआ",
+      "pos": "名詞・形容詞",
+      "meaning_ja": "サフラン色、黄褐色；サフラン色の",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "राँझे",
+      "normalized": "रांझा",
+      "display": "रांझा",
+      "variants": [
+        "राँझा",
+        "राँझे"
+      ],
+      "pos": "固有名詞（男）",
+      "meaning_ja": "ラーンジャー、パンジャーブ恋愛伝承の男性主人公",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "फ़ना",
+      "normalized": "फना",
+      "display": "फना",
+      "variants": [
+        "फ़ना",
+        "फ़ना"
+      ],
+      "pos": "名詞・形容詞",
+      "meaning_ja": "消滅、自己消滅；消え去った",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "सुफियाना",
+      "normalized": "सूफियाना",
+      "display": "सूफियाना",
+      "variants": [
+        "सुफियाना"
+      ],
+      "pos": "形容詞",
+      "meaning_ja": "スーフィー的な、神秘主義的な",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "दास्ताँ",
+      "normalized": "दास्तां",
+      "display": "दास्तां",
+      "variants": [
+        "दास्ताँ"
+      ],
+      "pos": "名詞（女）",
+      "meaning_ja": "物語、語り",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "कारवाँ",
+      "normalized": "कारवां",
+      "display": "कारवां",
+      "variants": [
+        "कारवाँ"
+      ],
+      "pos": "名詞（男）",
+      "meaning_ja": "隊商、旅の列",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "मंज़िल",
+      "normalized": "मंजिल",
+      "display": "मंजिल",
+      "variants": [
+        "मंज़िल",
+        "मंज़िल"
+      ],
+      "pos": "名詞（女）",
+      "meaning_ja": "目的地、到達点",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "रास्ता",
+      "normalized": "रास्ता",
+      "pos": "名詞（男）",
+      "meaning_ja": "道、道筋",
+      "importance": 2,
+      "status": "active"
+    },
+    {
+      "word": "जुड़ा",
+      "normalized": "जुड़ना",
+      "display": "जुड़ना",
+      "variants": [
+        "जुड़ा",
+        "जुड़ा"
+      ],
+      "pos": "自動詞",
+      "meaning_ja": "結びつく、つながる",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "संभल",
+      "normalized": "संभलना",
+      "display": "संभलना",
+      "pos": "自動詞",
+      "meaning_ja": "気をつける、持ち直す、落ち着く",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "दर्द",
+      "normalized": "दर्द",
+      "pos": "名詞（男）",
+      "meaning_ja": "痛み、苦しみ",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "कोहरा",
+      "normalized": "कोहरा",
+      "pos": "名詞（男）",
+      "meaning_ja": "霧、もや",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "छन",
+      "normalized": "छनना",
+      "display": "छनना",
+      "pos": "自動詞",
+      "meaning_ja": "濾される、抜けていく、晴れていく",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "वीरान",
+      "normalized": "वीरान",
+      "pos": "形容詞",
+      "meaning_ja": "荒れ果てた、人気のない、寂しい",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "जहां",
+      "normalized": "जहान",
+      "display": "जहान",
+      "variants": [
+        "जहां",
+        "जहाँ"
+      ],
+      "pos": "名詞（男）",
+      "meaning_ja": "世界、世の中",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "दाखिल",
+      "normalized": "दाखिल",
+      "pos": "形容詞・分詞",
+      "meaning_ja": "入った、加入した、入り込んだ",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "जिस्म",
+      "normalized": "जिस्म",
+      "pos": "名詞（男）",
+      "meaning_ja": "身体、肉体",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "जान",
+      "normalized": "जान",
+      "pos": "名詞（女）",
+      "meaning_ja": "命、魂、愛しい人",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "दर्ज़ा",
+      "normalized": "दर्जा",
+      "display": "दर्जा",
+      "variants": [
+        "दर्ज़ा",
+        "दर्ज़ा"
+      ],
+      "pos": "名詞（男）",
+      "meaning_ja": "地位、等級、資格",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "हासिल",
+      "normalized": "हासिल",
+      "pos": "形容詞・分詞",
+      "meaning_ja": "得られた、獲得された",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "फीके",
+      "normalized": "फीका",
+      "display": "फीका",
+      "pos": "形容詞",
+      "meaning_ja": "色あせた、薄い、味気ない",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "नाते",
+      "normalized": "नाता",
+      "display": "नाता",
+      "pos": "名詞（男・複）",
+      "meaning_ja": "縁、つながり、関係",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "रिश्ता",
+      "normalized": "रिश्ता",
+      "pos": "名詞（男）",
+      "meaning_ja": "関係、縁、絆",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "गहरा",
+      "normalized": "गहरा",
+      "pos": "形容詞",
+      "meaning_ja": "深い、濃い",
+      "importance": 3,
+      "status": "active"
+    }
+  ],
+  "meta": {
+    "copyright_safe": true,
+    "lyrics_included": false,
+    "source_type": "manual_curated",
+    "dedupe_ready": true
+  }
+}

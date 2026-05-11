@@ -1,11 +1,11 @@
 {
   "topic": "bollywood",
-  "generatedAt": "2026-05-08T21:44:08.197Z",
+  "generatedAt": "2026-05-11T07:54:29.781Z",
   "counts": {
-    "vocab": 499,
-    "expressions": 204,
-    "fillBlanks": 203,
-    "songs": 41
+    "vocab": 520,
+    "expressions": 217,
+    "fillBlanks": 216,
+    "songs": 42
   },
   "vocab": [
     {
@@ -409,17 +409,18 @@
       "key": "छाँव",
       "category": "",
       "difficulty": 1,
-      "frequency": 2,
-      "sourceCount": 2,
-      "importance": 2,
-      "quizWeight": 3.2,
+      "frequency": 3,
+      "sourceCount": 3,
+      "importance": 3,
+      "quizWeight": 3.9,
       "layer": "B",
       "tags": [
         "自然"
       ],
       "sourceSongIds": [
         "bolly_010",
-        "bolly_006"
+        "bolly_006",
+        "bolly_042"
       ]
     },
     {
@@ -802,8 +803,8 @@
       "key": "दास्तां",
       "category": "",
       "difficulty": 1,
-      "frequency": 5,
-      "sourceCount": 5,
+      "frequency": 6,
+      "sourceCount": 6,
       "importance": 4,
       "quizWeight": 4,
       "layer": "B",
@@ -813,7 +814,8 @@
         "bolly_012",
         "bolly_013",
         "bolly_019",
-        "bolly_041"
+        "bolly_041",
+        "bolly_042"
       ]
     },
     {
@@ -907,8 +909,8 @@
       "key": "धूप",
       "category": "",
       "difficulty": 1,
-      "frequency": 4,
-      "sourceCount": 4,
+      "frequency": 5,
+      "sourceCount": 5,
       "importance": 3,
       "quizWeight": 3,
       "layer": "B",
@@ -919,7 +921,8 @@
         "bolly_010",
         "bolly_006",
         "bolly_022",
-        "bolly_039"
+        "bolly_039",
+        "bolly_042"
       ]
     },
     {
@@ -1136,26 +1139,30 @@
     },
     {
       "word": "फ़ना",
-      "surface": "फ़ना",
-      "display": "",
-      "normalized": "फ़ना",
-      "variants": [],
+      "surface": "फना",
+      "display": "फ़ना",
+      "normalized": "फना",
+      "variants": [
+        "फ़ना",
+        "फना"
+      ],
       "meaning": "消滅・愛に溶けること",
       "pos": "名詞（女）",
-      "key": "फ़ना",
+      "key": "फना",
       "category": "",
       "difficulty": 1,
-      "frequency": 2,
-      "sourceCount": 2,
+      "frequency": 3,
+      "sourceCount": 3,
       "importance": 4,
-      "quizWeight": 6.4,
+      "quizWeight": 5.2,
       "layer": "B",
       "tags": [
         "神秘"
       ],
       "sourceSongIds": [
         "bolly_001",
-        "bolly_002"
+        "bolly_002",
+        "bolly_042"
       ]
     },
     {
@@ -1325,8 +1332,8 @@
       "key": "मंजिल",
       "category": "abstract",
       "difficulty": 2,
-      "frequency": 5,
-      "sourceCount": 5,
+      "frequency": 6,
+      "sourceCount": 6,
       "importance": 4,
       "quizWeight": 4,
       "layer": "A",
@@ -1336,7 +1343,8 @@
         "bolly_015",
         "bolly_025",
         "bolly_037",
-        "bolly_041"
+        "bolly_041",
+        "bolly_042"
       ]
     },
     {
@@ -1670,17 +1678,18 @@
       "key": "लम्हा",
       "category": "",
       "difficulty": 1,
-      "frequency": 2,
-      "sourceCount": 2,
+      "frequency": 3,
+      "sourceCount": 3,
       "importance": 4,
-      "quizWeight": 6.4,
+      "quizWeight": 5.2,
       "layer": "B",
       "tags": [
         "哲学"
       ],
       "sourceSongIds": [
         "bolly_010",
-        "bolly_006"
+        "bolly_006",
+        "bolly_042"
       ]
     },
     {
@@ -2273,16 +2282,17 @@
       "key": "रास्ता",
       "category": "",
       "difficulty": 1,
-      "frequency": 3,
-      "sourceCount": 3,
+      "frequency": 4,
+      "sourceCount": 4,
       "importance": 3,
-      "quizWeight": 3.9,
+      "quizWeight": 3,
       "layer": "B",
       "tags": [],
       "sourceSongIds": [
         "bolly_001",
         "bolly_008",
-        "bolly_009"
+        "bolly_009",
+        "bolly_042"
       ]
     },
     {
@@ -3196,15 +3206,16 @@
       "key": "जान",
       "category": "",
       "difficulty": 1,
-      "frequency": 2,
-      "sourceCount": 2,
+      "frequency": 3,
+      "sourceCount": 3,
       "importance": 4,
-      "quizWeight": 6.4,
+      "quizWeight": 5.2,
       "layer": "B",
       "tags": [],
       "sourceSongIds": [
         "bolly_011",
-        "bolly_031"
+        "bolly_031",
+        "bolly_042"
       ]
     },
     {
@@ -3345,15 +3356,16 @@
       "key": "दर्द",
       "category": "",
       "difficulty": 1,
-      "frequency": 2,
-      "sourceCount": 2,
+      "frequency": 3,
+      "sourceCount": 3,
       "importance": 4,
-      "quizWeight": 6.4,
+      "quizWeight": 5.2,
       "layer": "B",
       "tags": [],
       "sourceSongIds": [
         "bolly_011",
-        "bolly_025"
+        "bolly_025",
+        "bolly_042"
       ]
     },
     {
@@ -4348,16 +4360,17 @@
       "key": "कारवां",
       "category": "",
       "difficulty": 1,
-      "frequency": 3,
-      "sourceCount": 3,
+      "frequency": 4,
+      "sourceCount": 4,
       "importance": 4,
-      "quizWeight": 5.2,
+      "quizWeight": 4,
       "layer": "B",
       "tags": [],
       "sourceSongIds": [
         "bolly_019",
         "bolly_024",
-        "bolly_041"
+        "bolly_041",
+        "bolly_042"
       ]
     },
     {
@@ -4712,8 +4725,8 @@
       "key": "दुआ",
       "category": "",
       "difficulty": 1,
-      "frequency": 4,
-      "sourceCount": 4,
+      "frequency": 5,
+      "sourceCount": 5,
       "importance": 4,
       "quizWeight": 4,
       "layer": "B",
@@ -4722,7 +4735,8 @@
         "bolly_021",
         "bolly_025",
         "bolly_030",
-        "bolly_037"
+        "bolly_037",
+        "bolly_042"
       ]
     },
     {
@@ -4951,14 +4965,15 @@
       "key": "ढलना",
       "category": "",
       "difficulty": 1,
-      "frequency": 1,
-      "sourceCount": 1,
+      "frequency": 2,
+      "sourceCount": 2,
       "importance": 3,
-      "quizWeight": 6,
+      "quizWeight": 4.8,
       "layer": "B",
       "tags": [],
       "sourceSongIds": [
-        "bolly_022"
+        "bolly_022",
+        "bolly_042"
       ]
     },
     {
@@ -5841,15 +5856,16 @@
       "key": "जिस्म",
       "category": "",
       "difficulty": 1,
-      "frequency": 2,
-      "sourceCount": 2,
+      "frequency": 3,
+      "sourceCount": 3,
       "importance": 4,
-      "quizWeight": 6.4,
+      "quizWeight": 5.2,
       "layer": "B",
       "tags": [],
       "sourceSongIds": [
         "bolly_025",
-        "bolly_027"
+        "bolly_027",
+        "bolly_042"
       ]
     },
     {
@@ -10871,6 +10887,463 @@
       "sourceSongIds": [
         "bolly_041"
       ]
+    },
+    {
+      "word": "फिसलना",
+      "surface": "फिसल",
+      "display": "फिसलना",
+      "normalized": "फिसलना",
+      "variants": [],
+      "meaning": "滑る、すべり落ちる",
+      "pos": "自動詞",
+      "key": "फिसलना",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 3,
+      "quizWeight": 6,
+      "layer": "B",
+      "tags": [],
+      "sourceSongIds": [
+        "bolly_042"
+      ]
+    },
+    {
+      "word": "थमना",
+      "surface": "थम",
+      "display": "थमना",
+      "normalized": "थमना",
+      "variants": [],
+      "meaning": "止まる、静まる",
+      "pos": "自動詞",
+      "key": "थमना",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 4,
+      "quizWeight": 8,
+      "layer": "B",
+      "tags": [],
+      "sourceSongIds": [
+        "bolly_042"
+      ]
+    },
+    {
+      "word": "आसमान",
+      "surface": "आसमां",
+      "display": "आसमान",
+      "normalized": "आसमान",
+      "variants": [
+        "आसमां",
+        "आसमाँ"
+      ],
+      "meaning": "空、天空",
+      "pos": "名詞（男）",
+      "key": "आसमान",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 3,
+      "quizWeight": 6,
+      "layer": "B",
+      "tags": [],
+      "sourceSongIds": [
+        "bolly_042"
+      ]
+    },
+    {
+      "word": "पिघलना",
+      "surface": "पिघल",
+      "display": "पिघलना",
+      "normalized": "पिघलना",
+      "variants": [],
+      "meaning": "溶ける、溶解する",
+      "pos": "自動詞",
+      "key": "पिघलना",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 4,
+      "quizWeight": 8,
+      "layer": "B",
+      "tags": [],
+      "sourceSongIds": [
+        "bolly_042"
+      ]
+    },
+    {
+      "word": "शीशा",
+      "surface": "शीशे",
+      "display": "शीशा",
+      "normalized": "शीशा",
+      "variants": [],
+      "meaning": "ガラス、鏡",
+      "pos": "名詞（男）",
+      "key": "शीशा",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 3,
+      "quizWeight": 6,
+      "layer": "B",
+      "tags": [],
+      "sourceSongIds": [
+        "bolly_042"
+      ]
+    },
+    {
+      "word": "चेहरा",
+      "surface": "चेहरा",
+      "display": "",
+      "normalized": "चेहरा",
+      "variants": [],
+      "meaning": "顔、表情",
+      "pos": "名詞（男）",
+      "key": "चेहरा",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 3,
+      "quizWeight": 6,
+      "layer": "B",
+      "tags": [],
+      "sourceSongIds": [
+        "bolly_042"
+      ]
+    },
+    {
+      "word": "गेरुआ",
+      "surface": "गेरुआ",
+      "display": "",
+      "normalized": "गेरुआ",
+      "variants": [],
+      "meaning": "サフラン色、黄褐色；サフラン色の",
+      "pos": "名詞・形容詞",
+      "key": "गेरुआ",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 4,
+      "quizWeight": 8,
+      "layer": "B",
+      "tags": [],
+      "sourceSongIds": [
+        "bolly_042"
+      ]
+    },
+    {
+      "word": "राँझा",
+      "surface": "राँझे",
+      "display": "राँझा",
+      "normalized": "रांझा",
+      "variants": [
+        "राँझे",
+        "रांझा",
+        "राँझा"
+      ],
+      "meaning": "ラーンジャー、パンジャーブ恋愛伝承の男性主人公",
+      "pos": "固有名詞（男）",
+      "key": "रांझा",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 4,
+      "quizWeight": 8,
+      "layer": "B",
+      "tags": [],
+      "sourceSongIds": [
+        "bolly_042"
+      ]
+    },
+    {
+      "word": "सूफ़ियाना",
+      "surface": "सुफियाना",
+      "display": "सूफ़ियाना",
+      "normalized": "सुफियाना",
+      "variants": [
+        "सुफियाना",
+        "सूफ़ियाना"
+      ],
+      "meaning": "スーフィー的な、神秘主義的な",
+      "pos": "形容詞",
+      "key": "सुफियाना",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 4,
+      "quizWeight": 8,
+      "layer": "B",
+      "tags": [],
+      "sourceSongIds": [
+        "bolly_042"
+      ]
+    },
+    {
+      "word": "जुड़ना",
+      "surface": "जुड़ा",
+      "display": "जुड़ना",
+      "normalized": "जुड़ना",
+      "variants": [
+        "जुड़ा",
+        "जुड़ा"
+      ],
+      "meaning": "結びつく、つながる",
+      "pos": "自動詞",
+      "key": "जुड़ना",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 3,
+      "quizWeight": 6,
+      "layer": "B",
+      "tags": [],
+      "sourceSongIds": [
+        "bolly_042"
+      ]
+    },
+    {
+      "word": "संभलना",
+      "surface": "संभल",
+      "display": "संभलना",
+      "normalized": "संभलना",
+      "variants": [],
+      "meaning": "気をつける、持ち直す、落ち着く",
+      "pos": "自動詞",
+      "key": "संभलना",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 4,
+      "quizWeight": 8,
+      "layer": "B",
+      "tags": [],
+      "sourceSongIds": [
+        "bolly_042"
+      ]
+    },
+    {
+      "word": "कोहरा",
+      "surface": "कोहरा",
+      "display": "",
+      "normalized": "कोहरा",
+      "variants": [],
+      "meaning": "霧、もや",
+      "pos": "名詞（男）",
+      "key": "कोहरा",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 4,
+      "quizWeight": 8,
+      "layer": "B",
+      "tags": [],
+      "sourceSongIds": [
+        "bolly_042"
+      ]
+    },
+    {
+      "word": "छनना",
+      "surface": "छन",
+      "display": "छनना",
+      "normalized": "छनना",
+      "variants": [],
+      "meaning": "濾される、抜けていく、晴れていく",
+      "pos": "自動詞",
+      "key": "छनना",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 3,
+      "quizWeight": 6,
+      "layer": "B",
+      "tags": [],
+      "sourceSongIds": [
+        "bolly_042"
+      ]
+    },
+    {
+      "word": "वीरान",
+      "surface": "वीरान",
+      "display": "",
+      "normalized": "वीरान",
+      "variants": [],
+      "meaning": "荒れ果てた、人気のない、寂しい",
+      "pos": "形容詞",
+      "key": "वीरान",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 4,
+      "quizWeight": 8,
+      "layer": "B",
+      "tags": [],
+      "sourceSongIds": [
+        "bolly_042"
+      ]
+    },
+    {
+      "word": "दाखिल",
+      "surface": "दाखिल",
+      "display": "",
+      "normalized": "दाखिल",
+      "variants": [],
+      "meaning": "入った、加入した、入り込んだ",
+      "pos": "形容詞・分詞",
+      "key": "दाखिल",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 4,
+      "quizWeight": 8,
+      "layer": "B",
+      "tags": [],
+      "sourceSongIds": [
+        "bolly_042"
+      ]
+    },
+    {
+      "word": "दर्जा",
+      "surface": "दर्ज़ा",
+      "display": "दर्जा",
+      "normalized": "दर्जा",
+      "variants": [
+        "दर्ज़ा",
+        "दर्ज़ा"
+      ],
+      "meaning": "地位、等級、資格",
+      "pos": "名詞（男）",
+      "key": "दर्जा",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 4,
+      "quizWeight": 8,
+      "layer": "B",
+      "tags": [],
+      "sourceSongIds": [
+        "bolly_042"
+      ]
+    },
+    {
+      "word": "हासिल",
+      "surface": "हासिल",
+      "display": "",
+      "normalized": "हासिल",
+      "variants": [],
+      "meaning": "得られた、獲得された",
+      "pos": "形容詞・分詞",
+      "key": "हासिल",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 3,
+      "quizWeight": 6,
+      "layer": "B",
+      "tags": [],
+      "sourceSongIds": [
+        "bolly_042"
+      ]
+    },
+    {
+      "word": "फीका",
+      "surface": "फीके",
+      "display": "फीका",
+      "normalized": "फीका",
+      "variants": [],
+      "meaning": "色あせた、薄い、味気ない",
+      "pos": "形容詞",
+      "key": "फीका",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 3,
+      "quizWeight": 6,
+      "layer": "B",
+      "tags": [],
+      "sourceSongIds": [
+        "bolly_042"
+      ]
+    },
+    {
+      "word": "नाता",
+      "surface": "नाते",
+      "display": "नाता",
+      "normalized": "नाता",
+      "variants": [],
+      "meaning": "縁、つながり、関係",
+      "pos": "名詞（男・複）",
+      "key": "नाता",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 4,
+      "quizWeight": 8,
+      "layer": "B",
+      "tags": [],
+      "sourceSongIds": [
+        "bolly_042"
+      ]
+    },
+    {
+      "word": "रिश्ता",
+      "surface": "रिश्ता",
+      "display": "",
+      "normalized": "रिश्ता",
+      "variants": [],
+      "meaning": "関係、縁、絆",
+      "pos": "名詞（男）",
+      "key": "रिश्ता",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 4,
+      "quizWeight": 8,
+      "layer": "B",
+      "tags": [],
+      "sourceSongIds": [
+        "bolly_042"
+      ]
+    },
+    {
+      "word": "गहरा",
+      "surface": "गहरा",
+      "display": "",
+      "normalized": "गहरा",
+      "variants": [],
+      "meaning": "深い、濃い",
+      "pos": "形容詞",
+      "key": "गहरा",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 4,
+      "quizWeight": 8,
+      "layer": "B",
+      "tags": [],
+      "sourceSongIds": [
+        "bolly_042"
+      ]
     }
   ],
   "expressions": [
@@ -13933,6 +14406,201 @@
       "difficulty": 1,
       "tags": [],
       "status": "active"
+    },
+    {
+      "id": "bolly_042::expr::1",
+      "type": "expression",
+      "songId": "bolly_042",
+      "songTitle": "Gerua",
+      "film": "Dilwale",
+      "year": 2015,
+      "text": "रंग दे तू मोहे गेरुआ",
+      "normalized": "रंग दे तू मोहे गेरुआ",
+      "meaning": "私をサフラン色に染めてください",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": [],
+      "status": "active"
+    },
+    {
+      "id": "bolly_042::expr::2",
+      "type": "expression",
+      "songId": "bolly_042",
+      "songTitle": "Gerua",
+      "film": "Dilwale",
+      "year": 2015,
+      "text": "हम मिले जहाँ पर, लम्हा थम गया",
+      "normalized": "हम मिले जहां पर लम्हा थम गया",
+      "meaning": "私たちが出会ったその場所で、時が止まった",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": [],
+      "status": "active"
+    },
+    {
+      "id": "bolly_042::expr::3",
+      "type": "expression",
+      "songId": "bolly_042",
+      "songTitle": "Gerua",
+      "film": "Dilwale",
+      "year": 2015,
+      "text": "आसमां पिघल के, शीशे में ढल के",
+      "normalized": "आसमान पिघल के शीशे में ढल के",
+      "meaning": "空が溶けて、ガラスのような形になって",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": [],
+      "status": "active"
+    },
+    {
+      "id": "bolly_042::expr::4",
+      "type": "expression",
+      "songId": "bolly_042",
+      "songTitle": "Gerua",
+      "film": "Dilwale",
+      "year": 2015,
+      "text": "जम गया तो तेरा, चेहरा बन गया",
+      "normalized": "जम गया तो तेरा चेहरा बन गया",
+      "meaning": "固まると、それはあなたの顔になった",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": [],
+      "status": "active"
+    },
+    {
+      "id": "bolly_042::expr::5",
+      "type": "expression",
+      "songId": "bolly_042",
+      "songTitle": "Gerua",
+      "film": "Dilwale",
+      "year": 2015,
+      "text": "दुनिया भुला के, तुमसे मिला हूँ",
+      "normalized": "दुनिया भुला के तुमसे मिला हूं",
+      "meaning": "世界を忘れて、私はあなたに出会った",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": [],
+      "status": "active"
+    },
+    {
+      "id": "bolly_042::expr::6",
+      "type": "expression",
+      "songId": "bolly_042",
+      "songTitle": "Gerua",
+      "film": "Dilwale",
+      "year": 2015,
+      "text": "निकली है दिल से ये दुआ",
+      "normalized": "निकली है दिल से ये दुआ",
+      "meaning": "この祈りは心から出てきたものだ",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": [],
+      "status": "active"
+    },
+    {
+      "id": "bolly_042::expr::7",
+      "type": "expression",
+      "songId": "bolly_042",
+      "songTitle": "Gerua",
+      "film": "Dilwale",
+      "year": 2015,
+      "text": "तुमसे शुरू तुमपे फ़ना",
+      "normalized": "तुमसे शुरू तुमपे फना",
+      "meaning": "あなたから始まり、あなたのもとで消えていく",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": [],
+      "status": "active"
+    },
+    {
+      "id": "bolly_042::expr::8",
+      "type": "expression",
+      "songId": "bolly_042",
+      "songTitle": "Gerua",
+      "film": "Dilwale",
+      "year": 2015,
+      "text": "है सुफियाना ये दास्ताँ",
+      "normalized": "है सूफियाना ये दास्तां",
+      "meaning": "これはスーフィー的な物語である",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": [],
+      "status": "active"
+    },
+    {
+      "id": "bolly_042::expr::9",
+      "type": "expression",
+      "songId": "bolly_042",
+      "songTitle": "Gerua",
+      "film": "Dilwale",
+      "year": 2015,
+      "text": "मैं कारवाँ, मंज़िल हो तुम",
+      "normalized": "मैं कारवां मंजिल हो तुम",
+      "meaning": "私は旅の隊商で、あなたは目的地だ",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": [],
+      "status": "active"
+    },
+    {
+      "id": "bolly_042::expr::10",
+      "type": "expression",
+      "songId": "bolly_042",
+      "songTitle": "Gerua",
+      "film": "Dilwale",
+      "year": 2015,
+      "text": "दर्द का वो सारा, कोहरा छन गया",
+      "normalized": "दर्द का वो सारा कोहरा छन गया",
+      "meaning": "痛みの霧がすべて晴れていった",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": [],
+      "status": "active"
+    },
+    {
+      "id": "bolly_042::expr::11",
+      "type": "expression",
+      "songId": "bolly_042",
+      "songTitle": "Gerua",
+      "film": "Dilwale",
+      "year": 2015,
+      "text": "वीरान था, दिल का जहां",
+      "normalized": "वीरान था दिल का जहां",
+      "meaning": "心の世界は荒れ果てていた",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": [],
+      "status": "active"
+    },
+    {
+      "id": "bolly_042::expr::12",
+      "type": "expression",
+      "songId": "bolly_042",
+      "songTitle": "Gerua",
+      "film": "Dilwale",
+      "year": 2015,
+      "text": "इक जिस्म से, इक जान का दर्ज़ा मुझे हासिल हुआ",
+      "normalized": "एक जिस्म से एक जान का दर्जा मुझे हासिल हुआ",
+      "meaning": "一つの身体から一つの魂のような地位を私は得た",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": [],
+      "status": "active"
+    },
+    {
+      "id": "bolly_042::expr::13",
+      "type": "expression",
+      "songId": "bolly_042",
+      "songTitle": "Gerua",
+      "film": "Dilwale",
+      "year": 2015,
+      "text": "तेरे साथ रिश्ता गहरा बन गया",
+      "normalized": "तेरे साथ रिश्ता गहरा बन गया",
+      "meaning": "あなたとの関係は深いものになった",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": [],
+      "status": "active"
     }
   ],
   "fillBlanks": [
@@ -16977,6 +17645,201 @@
       "prompt": "_____ जादू भरा कोई समां",
       "answer": "था",
       "meaning": "魔法に満ちたような雰囲気だった",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "id": "bolly_042::expr::1::blank::1",
+      "type": "fill_blank",
+      "songId": "bolly_042",
+      "songTitle": "Gerua",
+      "film": "Dilwale",
+      "year": 2015,
+      "sourceText": "रंग दे तू मोहे गेरुआ",
+      "prompt": "_____ दे तू मोहे गेरुआ",
+      "answer": "रंग",
+      "meaning": "私をサフラン色に染めてください",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "id": "bolly_042::expr::2::blank::2",
+      "type": "fill_blank",
+      "songId": "bolly_042",
+      "songTitle": "Gerua",
+      "film": "Dilwale",
+      "year": 2015,
+      "sourceText": "हम मिले जहाँ पर, लम्हा थम गया",
+      "prompt": "_____ मिले जहाँ पर, लम्हा थम गया",
+      "answer": "हम",
+      "meaning": "私たちが出会ったその場所で、時が止まった",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "id": "bolly_042::expr::3::blank::3",
+      "type": "fill_blank",
+      "songId": "bolly_042",
+      "songTitle": "Gerua",
+      "film": "Dilwale",
+      "year": 2015,
+      "sourceText": "आसमां पिघल के, शीशे में ढल के",
+      "prompt": "_____ पिघल के, शीशे में ढल के",
+      "answer": "आसमां",
+      "meaning": "空が溶けて、ガラスのような形になって",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "id": "bolly_042::expr::4::blank::4",
+      "type": "fill_blank",
+      "songId": "bolly_042",
+      "songTitle": "Gerua",
+      "film": "Dilwale",
+      "year": 2015,
+      "sourceText": "जम गया तो तेरा, चेहरा बन गया",
+      "prompt": "_____ गया तो तेरा, चेहरा बन गया",
+      "answer": "जम",
+      "meaning": "固まると、それはあなたの顔になった",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "id": "bolly_042::expr::5::blank::5",
+      "type": "fill_blank",
+      "songId": "bolly_042",
+      "songTitle": "Gerua",
+      "film": "Dilwale",
+      "year": 2015,
+      "sourceText": "दुनिया भुला के, तुमसे मिला हूँ",
+      "prompt": "_____ भुला के, तुमसे मिला हूँ",
+      "answer": "दुनिया",
+      "meaning": "世界を忘れて、私はあなたに出会った",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "id": "bolly_042::expr::6::blank::6",
+      "type": "fill_blank",
+      "songId": "bolly_042",
+      "songTitle": "Gerua",
+      "film": "Dilwale",
+      "year": 2015,
+      "sourceText": "निकली है दिल से ये दुआ",
+      "prompt": "_____ है दिल से ये दुआ",
+      "answer": "निकली",
+      "meaning": "この祈りは心から出てきたものだ",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "id": "bolly_042::expr::7::blank::7",
+      "type": "fill_blank",
+      "songId": "bolly_042",
+      "songTitle": "Gerua",
+      "film": "Dilwale",
+      "year": 2015,
+      "sourceText": "तुमसे शुरू तुमपे फ़ना",
+      "prompt": "_____ शुरू तुमपे फ़ना",
+      "answer": "तुमसे",
+      "meaning": "あなたから始まり、あなたのもとで消えていく",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "id": "bolly_042::expr::8::blank::8",
+      "type": "fill_blank",
+      "songId": "bolly_042",
+      "songTitle": "Gerua",
+      "film": "Dilwale",
+      "year": 2015,
+      "sourceText": "है सुफियाना ये दास्ताँ",
+      "prompt": "_____ सुफियाना ये दास्ताँ",
+      "answer": "है",
+      "meaning": "これはスーフィー的な物語である",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "id": "bolly_042::expr::9::blank::9",
+      "type": "fill_blank",
+      "songId": "bolly_042",
+      "songTitle": "Gerua",
+      "film": "Dilwale",
+      "year": 2015,
+      "sourceText": "मैं कारवाँ, मंज़िल हो तुम",
+      "prompt": "_____ कारवाँ, मंज़िल हो तुम",
+      "answer": "मैं",
+      "meaning": "私は旅の隊商で、あなたは目的地だ",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "id": "bolly_042::expr::10::blank::10",
+      "type": "fill_blank",
+      "songId": "bolly_042",
+      "songTitle": "Gerua",
+      "film": "Dilwale",
+      "year": 2015,
+      "sourceText": "दर्द का वो सारा, कोहरा छन गया",
+      "prompt": "_____ का वो सारा, कोहरा छन गया",
+      "answer": "दर्द",
+      "meaning": "痛みの霧がすべて晴れていった",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "id": "bolly_042::expr::11::blank::11",
+      "type": "fill_blank",
+      "songId": "bolly_042",
+      "songTitle": "Gerua",
+      "film": "Dilwale",
+      "year": 2015,
+      "sourceText": "वीरान था, दिल का जहां",
+      "prompt": "_____ था, दिल का जहां",
+      "answer": "वीरान",
+      "meaning": "心の世界は荒れ果てていた",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "id": "bolly_042::expr::12::blank::12",
+      "type": "fill_blank",
+      "songId": "bolly_042",
+      "songTitle": "Gerua",
+      "film": "Dilwale",
+      "year": 2015,
+      "sourceText": "इक जिस्म से, इक जान का दर्ज़ा मुझे हासिल हुआ",
+      "prompt": "_____ जिस्म से, इक जान का दर्ज़ा मुझे हासिल हुआ",
+      "answer": "इक",
+      "meaning": "一つの身体から一つの魂のような地位を私は得た",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "id": "bolly_042::expr::13::blank::13",
+      "type": "fill_blank",
+      "songId": "bolly_042",
+      "songTitle": "Gerua",
+      "film": "Dilwale",
+      "year": 2015,
+      "sourceText": "तेरे साथ रिश्ता गहरा बन गया",
+      "prompt": "_____ साथ रिश्ता गहरा बन गया",
+      "answer": "तेरे",
+      "meaning": "あなたとの関係は深いものになった",
       "importance": 4,
       "difficulty": 1,
       "tags": []

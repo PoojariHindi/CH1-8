@@ -298,14 +298,15 @@
     "normalized": "छाँव",
     "pos": "名詞（女）",
     "meaning_ja": "日陰",
-    "importance": 2,
+    "importance": 3,
     "status": "active",
     "sourceSongIds": [
       "bolly_010",
-      "bolly_006"
+      "bolly_006",
+      "bolly_042"
     ],
-    "sourceCount": 2,
-    "frequency": 2,
+    "sourceCount": 3,
+    "frequency": 3,
     "tags": [
       "自然"
     ],
@@ -596,10 +597,11 @@
       "bolly_012",
       "bolly_013",
       "bolly_019",
-      "bolly_041"
+      "bolly_041",
+      "bolly_042"
     ],
-    "sourceCount": 5,
-    "frequency": 5,
+    "sourceCount": 6,
+    "frequency": 6,
     "tags": [],
     "notes": ""
   },
@@ -679,10 +681,11 @@
       "bolly_010",
       "bolly_006",
       "bolly_022",
-      "bolly_039"
+      "bolly_039",
+      "bolly_042"
     ],
-    "sourceCount": 4,
-    "frequency": 4,
+    "sourceCount": 5,
+    "frequency": 5,
     "tags": [
       "自然"
     ],
@@ -847,18 +850,24 @@
     "notes": ""
   },
   {
-    "word": "फ़ना",
-    "normalized": "फ़ना",
+    "word": "फना",
+    "display": "फ़ना",
+    "normalized": "फना",
+    "variants": [
+      "फ़ना",
+      "फना"
+    ],
     "pos": "名詞（女）",
     "meaning_ja": "消滅・愛に溶けること",
     "importance": 4,
     "status": "active",
     "sourceSongIds": [
       "bolly_001",
-      "bolly_002"
+      "bolly_002",
+      "bolly_042"
     ],
-    "sourceCount": 2,
-    "frequency": 2,
+    "sourceCount": 3,
+    "frequency": 3,
     "tags": [
       "神秘"
     ],
@@ -990,15 +999,16 @@
       "bolly_015",
       "bolly_025",
       "bolly_037",
-      "bolly_041"
+      "bolly_041",
+      "bolly_042"
     ],
     "tags": [],
     "notes": "",
     "layer": "A",
     "difficulty": 2,
     "category": "abstract",
-    "sourceCount": 5,
-    "frequency": 5
+    "sourceCount": 6,
+    "frequency": 6
   },
   {
     "word": "मन",
@@ -1245,10 +1255,11 @@
     "status": "active",
     "sourceSongIds": [
       "bolly_010",
-      "bolly_006"
+      "bolly_006",
+      "bolly_042"
     ],
-    "sourceCount": 2,
-    "frequency": 2,
+    "sourceCount": 3,
+    "frequency": 3,
     "tags": [
       "哲学"
     ],
@@ -1733,12 +1744,13 @@
     "sourceSongIds": [
       "bolly_001",
       "bolly_008",
-      "bolly_009"
+      "bolly_009",
+      "bolly_042"
     ],
     "tags": [],
     "notes": "",
-    "sourceCount": 3,
-    "frequency": 3
+    "sourceCount": 4,
+    "frequency": 4
   },
   {
     "word": "पल",
@@ -2403,12 +2415,13 @@
     "status": "active",
     "sourceSongIds": [
       "bolly_011",
-      "bolly_031"
+      "bolly_031",
+      "bolly_042"
     ],
     "tags": [],
     "notes": "",
-    "sourceCount": 2,
-    "frequency": 2
+    "sourceCount": 3,
+    "frequency": 3
   },
   {
     "word": "प्यारा",
@@ -2510,12 +2523,13 @@
     "status": "active",
     "sourceSongIds": [
       "bolly_011",
-      "bolly_025"
+      "bolly_025",
+      "bolly_042"
     ],
     "tags": [],
     "notes": "",
-    "sourceCount": 2,
-    "frequency": 2
+    "sourceCount": 3,
+    "frequency": 3
   },
   {
     "word": "संकट",
@@ -3242,10 +3256,11 @@
     "sourceSongIds": [
       "bolly_019",
       "bolly_024",
-      "bolly_041"
+      "bolly_041",
+      "bolly_042"
     ],
-    "sourceCount": 3,
-    "frequency": 3,
+    "sourceCount": 4,
+    "frequency": 4,
     "tags": [],
     "notes": ""
   },
@@ -3493,10 +3508,11 @@
       "bolly_021",
       "bolly_025",
       "bolly_030",
-      "bolly_037"
+      "bolly_037",
+      "bolly_042"
     ],
-    "sourceCount": 4,
-    "frequency": 4
+    "sourceCount": 5,
+    "frequency": 5
   },
   {
     "word": "लुका छुपी",
@@ -3643,10 +3659,11 @@
     "importance": 3,
     "status": "active",
     "sourceSongIds": [
-      "bolly_022"
+      "bolly_022",
+      "bolly_042"
     ],
-    "sourceCount": 1,
-    "frequency": 1
+    "sourceCount": 2,
+    "frequency": 2
   },
   {
     "word": "झरना",
@@ -4198,10 +4215,11 @@
     "status": "active",
     "sourceSongIds": [
       "bolly_025",
-      "bolly_027"
+      "bolly_027",
+      "bolly_042"
     ],
-    "sourceCount": 2,
-    "frequency": 2
+    "sourceCount": 3,
+    "frequency": 3
   },
   {
     "word": "इनाम",
@@ -7373,5 +7391,333 @@
     "frequency": 1,
     "status": "active",
     "sourceCount": 1
+  },
+  {
+    "word": "फिसल",
+    "normalized": "फिसलना",
+    "display": "फिसलना",
+    "pos": "自動詞",
+    "meaning_ja": "滑る、すべり落ちる",
+    "importance": 3,
+    "status": "active",
+    "sourceSongIds": [
+      "bolly_042"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "थम",
+    "normalized": "थमना",
+    "display": "थमना",
+    "pos": "自動詞",
+    "meaning_ja": "止まる、静まる",
+    "importance": 4,
+    "status": "active",
+    "sourceSongIds": [
+      "bolly_042"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "आसमां",
+    "normalized": "आसमान",
+    "display": "आसमान",
+    "variants": [
+      "आसमां",
+      "आसमाँ"
+    ],
+    "pos": "名詞（男）",
+    "meaning_ja": "空、天空",
+    "importance": 3,
+    "status": "active",
+    "sourceSongIds": [
+      "bolly_042"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "पिघल",
+    "normalized": "पिघलना",
+    "display": "पिघलना",
+    "pos": "自動詞",
+    "meaning_ja": "溶ける、溶解する",
+    "importance": 4,
+    "status": "active",
+    "sourceSongIds": [
+      "bolly_042"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "शीशे",
+    "normalized": "शीशा",
+    "display": "शीशा",
+    "pos": "名詞（男）",
+    "meaning_ja": "ガラス、鏡",
+    "importance": 3,
+    "status": "active",
+    "sourceSongIds": [
+      "bolly_042"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "चेहरा",
+    "normalized": "चेहरा",
+    "pos": "名詞（男）",
+    "meaning_ja": "顔、表情",
+    "importance": 3,
+    "status": "active",
+    "sourceSongIds": [
+      "bolly_042"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "गेरुआ",
+    "normalized": "गेरुआ",
+    "pos": "名詞・形容詞",
+    "meaning_ja": "サフラン色、黄褐色；サフラン色の",
+    "importance": 4,
+    "status": "active",
+    "sourceSongIds": [
+      "bolly_042"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "曲 Gerua のキーフレーズ語。"
+  },
+  {
+    "word": "राँझे",
+    "normalized": "रांझा",
+    "display": "राँझा",
+    "variants": [
+      "राँझे",
+      "रांझा",
+      "राँझा"
+    ],
+    "pos": "固有名詞（男）",
+    "meaning_ja": "ラーンジャー、パンジャーブ恋愛伝承の男性主人公",
+    "importance": 4,
+    "status": "active",
+    "sourceSongIds": [
+      "bolly_042"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "सुफियाना",
+    "normalized": "सुफियाना",
+    "display": "सूफ़ियाना",
+    "variants": [
+      "सुफियाना",
+      "सूफ़ियाना"
+    ],
+    "pos": "形容詞",
+    "meaning_ja": "スーフィー的な、神秘主義的な",
+    "importance": 4,
+    "status": "active",
+    "sourceSongIds": [
+      "bolly_042"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "word は歌詞出現形、display は学習用 canonical 表記。"
+  },
+  {
+    "word": "जुड़ा",
+    "normalized": "जुड़ना",
+    "display": "जुड़ना",
+    "variants": [
+      "जुड़ा",
+      "जुड़ा"
+    ],
+    "pos": "自動詞",
+    "meaning_ja": "結びつく、つながる",
+    "importance": 3,
+    "status": "active",
+    "sourceSongIds": [
+      "bolly_042"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "संभल",
+    "normalized": "संभलना",
+    "display": "संभलना",
+    "pos": "自動詞",
+    "meaning_ja": "気をつける、持ち直す、落ち着く",
+    "importance": 4,
+    "status": "active",
+    "sourceSongIds": [
+      "bolly_042"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "कोहरा",
+    "normalized": "कोहरा",
+    "pos": "名詞（男）",
+    "meaning_ja": "霧、もや",
+    "importance": 4,
+    "status": "active",
+    "sourceSongIds": [
+      "bolly_042"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "छन",
+    "normalized": "छनना",
+    "display": "छनना",
+    "pos": "自動詞",
+    "meaning_ja": "濾される、抜けていく、晴れていく",
+    "importance": 3,
+    "status": "active",
+    "sourceSongIds": [
+      "bolly_042"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "वीरान",
+    "normalized": "वीरान",
+    "pos": "形容詞",
+    "meaning_ja": "荒れ果てた、人気のない、寂しい",
+    "importance": 4,
+    "status": "active",
+    "sourceSongIds": [
+      "bolly_042"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "दाखिल",
+    "normalized": "दाखिल",
+    "pos": "形容詞・分詞",
+    "meaning_ja": "入った、加入した、入り込んだ",
+    "importance": 4,
+    "status": "active",
+    "sourceSongIds": [
+      "bolly_042"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "दर्ज़ा",
+    "normalized": "दर्जा",
+    "display": "दर्जा",
+    "variants": [
+      "दर्ज़ा",
+      "दर्ज़ा"
+    ],
+    "pos": "名詞（男）",
+    "meaning_ja": "地位、等級、資格",
+    "importance": 4,
+    "status": "active",
+    "sourceSongIds": [
+      "bolly_042"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "हासिल",
+    "normalized": "हासिल",
+    "pos": "形容詞・分詞",
+    "meaning_ja": "得られた、獲得された",
+    "importance": 3,
+    "status": "active",
+    "sourceSongIds": [
+      "bolly_042"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "फीके",
+    "normalized": "फीका",
+    "display": "फीका",
+    "pos": "形容詞",
+    "meaning_ja": "色あせた、薄い、味気ない",
+    "importance": 3,
+    "status": "active",
+    "sourceSongIds": [
+      "bolly_042"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "नाते",
+    "normalized": "नाता",
+    "display": "नाता",
+    "pos": "名詞（男・複）",
+    "meaning_ja": "縁、つながり、関係",
+    "importance": 4,
+    "status": "active",
+    "sourceSongIds": [
+      "bolly_042"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "रिश्ता",
+    "normalized": "रिश्ता",
+    "pos": "名詞（男）",
+    "meaning_ja": "関係、縁、絆",
+    "importance": 4,
+    "status": "active",
+    "sourceSongIds": [
+      "bolly_042"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "गहरा",
+    "normalized": "गहरा",
+    "pos": "形容詞",
+    "meaning_ja": "深い、濃い",
+    "importance": 4,
+    "status": "active",
+    "sourceSongIds": [
+      "bolly_042"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
   }
 ]

@@ -38,7 +38,10 @@ const STOPWORDS = new Set([
   "सी",
   "मेरे",
   "यही",
-  "बहुत"
+  "बहुत",
+  "जहां",
+  "जहाँ",
+  "जहान"
 ]);
 
 function loadJson(filePath) {
