@@ -1176,6 +1176,18 @@
     "quizWeight": 10
   },
   {
+    "word": "परंपरा",
+    "normalized": "परंपरा",
+    "meaning_ja": "伝統、慣習",
+    "pos": "名詞（女）",
+    "category": "文化・宗教",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 10
+  },
+  {
     "word": "परियोजना",
     "normalized": "परियोजना",
     "meaning_ja": "計画; プロジェクト",
@@ -1488,6 +1500,18 @@
     "quizWeight": 10
   },
   {
+    "word": "मान्यता",
+    "normalized": "मान्यता",
+    "meaning_ja": "信仰上の通念、一般的信念",
+    "pos": "名詞（女）",
+    "category": "文化・宗教",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 10
+  },
+  {
     "word": "मास्टरमाइंड",
     "normalized": "मास्टरमाइंड",
     "meaning_ja": "首謀者、黒幕",
@@ -1617,6 +1641,18 @@
     "importance": 4,
     "sourceCount": 2,
     "frequency": 2,
+    "quizWeight": 10
+  },
+  {
+    "word": "व्रत",
+    "normalized": "व्रत",
+    "meaning_ja": "断食戒、宗教的な斎戒",
+    "pos": "名詞（男）",
+    "category": "文化・宗教",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
     "quizWeight": 10
   },
   {
@@ -1920,6 +1956,18 @@
     "quizWeight": 9
   },
   {
+    "word": "अनुष्ठान",
+    "normalized": "अनुष्ठान",
+    "meaning_ja": "宗教儀礼、祭式",
+    "pos": "名詞（男）",
+    "category": "文化・宗教",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
     "word": "अपीलीय",
     "normalized": "अपीलीय",
     "meaning_ja": "上訴の、控訴審の",
@@ -1999,6 +2047,18 @@
     "category": "都市・環境",
     "difficulty": 2,
     "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "आयुवृद्धि",
+    "normalized": "आयुवृद्धि",
+    "meaning_ja": "寿命延長、長寿",
+    "pos": "名詞（女）",
+    "category": "文化・宗教",
+    "difficulty": 5,
+    "importance": 4,
     "sourceCount": 1,
     "frequency": 1,
     "quizWeight": 9
@@ -2460,12 +2520,48 @@
     "quizWeight": 9
   },
   {
+    "word": "पौराणिक",
+    "normalized": "पौराणिक",
+    "meaning_ja": "神話・プラーナに関する",
+    "pos": "形容詞",
+    "category": "文化・宗教",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
     "word": "प्रणाली",
     "normalized": "प्रणाली",
     "meaning_ja": "システム、仕組み",
     "pos": "名詞（女）",
     "category": "行政・制度",
     "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "प्रतिष्ठा",
+    "normalized": "प्रतिष्ठा",
+    "meaning_ja": "安置、建立、権威",
+    "pos": "名詞（女）",
+    "category": "文化・宗教",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "प्रदक्षिणा",
+    "normalized": "प्रदक्षिणा",
+    "meaning_ja": "右回り巡礼、周回礼拝",
+    "pos": "名詞（女）",
+    "category": "文化・宗教",
+    "difficulty": 5,
     "importance": 4,
     "sourceCount": 1,
     "frequency": 1,
@@ -2479,6 +2575,18 @@
     "category": "労働・経済",
     "difficulty": 2,
     "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "प्राण प्रतिष्ठा",
+    "normalized": "प्राण_प्रतिष्ठा",
+    "meaning_ja": "開眼供養、神像への魂入れ儀礼",
+    "pos": "名詞（女）",
+    "category": "文化・宗教",
+    "difficulty": 5,
+    "importance": 4,
     "sourceCount": 1,
     "frequency": 1,
     "quizWeight": 9
@@ -2526,6 +2634,18 @@
     "pos": "名詞（男）",
     "category": "労働・経済",
     "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "ब्रह्मचर्य",
+    "normalized": "ब्रह्मचर्य",
+    "meaning_ja": "禁欲、清浄な生活規律",
+    "pos": "名詞（男）",
+    "category": "文化・宗教",
+    "difficulty": 5,
     "importance": 4,
     "sourceCount": 1,
     "frequency": 1,
@@ -2652,6 +2772,18 @@
     "quizWeight": 9
   },
   {
+    "word": "विधान",
+    "normalized": "विधान",
+    "meaning_ja": "儀礼規定、定め、方式",
+    "pos": "名詞（男）",
+    "category": "文化・宗教",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
     "word": "विनिमय दर",
     "normalized": "विनिमय_दर",
     "meaning_ja": "為替レート",
@@ -2676,6 +2808,30 @@
     "quizWeight": 9
   },
   {
+    "word": "विसर्जन",
+    "normalized": "विसर्जन",
+    "meaning_ja": "儀礼終了・送還、（神像の）流し送り",
+    "pos": "名詞（男）",
+    "category": "文化・宗教",
+    "difficulty": 5,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "विहित",
+    "normalized": "विहित",
+    "meaning_ja": "規定された、定められた",
+    "pos": "形容詞・分詞",
+    "category": "文化・宗教",
+    "difficulty": 5,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
     "word": "शैक्षणिक संस्थान",
     "normalized": "शैक्षणिक_संस्थान",
     "meaning_ja": "教育機関",
@@ -2694,6 +2850,18 @@
     "pos": "形容詞・分詞",
     "category": "都市・環境",
     "difficulty": 5,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "संकल्प",
+    "normalized": "संकल्प",
+    "meaning_ja": "誓願、宗教的決意",
+    "pos": "名詞（男）",
+    "category": "文化・宗教",
+    "difficulty": 4,
     "importance": 4,
     "sourceCount": 1,
     "frequency": 1,
@@ -2772,6 +2940,18 @@
     "quizWeight": 9
   },
   {
+    "word": "सामर्थ्य",
+    "normalized": "सामर्थ्य",
+    "meaning_ja": "力、能力",
+    "pos": "名詞（男）",
+    "category": "文化・宗教",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
     "word": "साया उठ जाना",
     "normalized": "साया_उठ_जाना",
     "meaning_ja": "後ろ盾を失う、保護者を失う",
@@ -2825,6 +3005,18 @@
     "meaning_ja": "最終段階、最後の局面",
     "pos": "名詞（男）",
     "category": "社会・公共",
+    "difficulty": 3,
+    "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 8
+  },
+  {
+    "word": "अध्याय",
+    "normalized": "अध्याय",
+    "meaning_ja": "章、節",
+    "pos": "名詞（男）",
+    "category": "文化・宗教",
     "difficulty": 3,
     "importance": 3,
     "sourceCount": 1,
@@ -3036,6 +3228,18 @@
     "quizWeight": 8
   },
   {
+    "word": "पालन",
+    "normalized": "पालन",
+    "meaning_ja": "遵守、実行",
+    "pos": "名詞（男）",
+    "category": "文化・宗教",
+    "difficulty": 3,
+    "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 8
+  },
+  {
     "word": "प्रमुख कारण",
     "normalized": "प्रमुख_कारण",
     "meaning_ja": "主な原因",
@@ -3125,6 +3329,18 @@
     "meaning_ja": "臓器提供",
     "pos": "名詞（男）",
     "category": "医療・健康",
+    "difficulty": 4,
+    "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 7
+  },
+  {
+    "word": "अमावस्या",
+    "normalized": "अमावस्या",
+    "meaning_ja": "新月",
+    "pos": "名詞（女）",
+    "category": "文化・宗教",
     "difficulty": 4,
     "importance": 3,
     "sourceCount": 1,
@@ -3252,11 +3468,35 @@
     "quizWeight": 7
   },
   {
+    "word": "पंचांग",
+    "normalized": "पंचांग",
+    "meaning_ja": "インド暦、暦書",
+    "pos": "名詞（男）",
+    "category": "文化・宗教",
+    "difficulty": 4,
+    "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 7
+  },
+  {
     "word": "पलक झपकते ही",
     "normalized": "पलक_झपकते_ही",
     "meaning_ja": "瞬く間に",
     "pos": "表現",
     "category": "行政・制度",
+    "difficulty": 4,
+    "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 7
+  },
+  {
+    "word": "पूर्णिमा",
+    "normalized": "पूर्णिमा",
+    "meaning_ja": "満月",
+    "pos": "名詞（女）",
+    "category": "文化・宗教",
     "difficulty": 4,
     "importance": 3,
     "sourceCount": 1,
@@ -3365,6 +3605,18 @@
     "meaning_ja": "開始、発足",
     "pos": "名詞（男）",
     "category": "行政・制度",
+    "difficulty": 4,
+    "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 7
+  },
+  {
+    "word": "श्रृंखला",
+    "normalized": "श्रृंखला",
+    "meaning_ja": "連なり、系列、シリーズ",
+    "pos": "名詞（女）",
+    "category": "文化・宗教",
     "difficulty": 4,
     "importance": 3,
     "sourceCount": 1,

@@ -1,0 +1,649 @@
+[
+  {
+    "word": "मानकीकरण",
+    "display": "मानकीकरण",
+    "normalized": "मानकीकरण",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "標準化",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "言語政策",
+      "政府文書"
+    ],
+    "sourceIds": [
+      "academic_009"
+    ],
+    "sourceTitle": "हिंदी वर्तनी का मानकीकरण",
+    "sourceGenre": "government_document",
+    "sourceRegister": "government_formal"
+  },
+  {
+    "word": "प्रतिष्ठित",
+    "display": "प्रतिष्ठित",
+    "normalized": "प्रतिष्ठित",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "著名な、高名な",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "言語政策",
+      "政府文書"
+    ],
+    "sourceIds": [
+      "academic_009"
+    ],
+    "sourceTitle": "हिंदी वर्तनी का मानकीकरण",
+    "sourceGenre": "government_document",
+    "sourceRegister": "government_formal"
+  },
+  {
+    "word": "विद्वान",
+    "display": "विद्वान",
+    "normalized": "विद्वान",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "学者",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "言語政策",
+      "政府文書"
+    ],
+    "sourceIds": [
+      "academic_009"
+    ],
+    "sourceTitle": "हिंदी वर्तनी का मानकीकरण",
+    "sourceGenre": "government_document",
+    "sourceRegister": "government_formal"
+  },
+  {
+    "word": "भाषाविद",
+    "display": "भाषाविद",
+    "normalized": "भाषाविद",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "言語学者",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "言語政策",
+      "政府文書"
+    ],
+    "sourceIds": [
+      "academic_009"
+    ],
+    "sourceTitle": "हिंदी वर्तनी का मानकीकरण",
+    "sourceGenre": "government_document",
+    "sourceRegister": "government_formal"
+  },
+  {
+    "word": "विचार-विमर्श",
+    "display": "विचार-विमर्श",
+    "normalized": "विचार_विमर्श",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "協議、討議",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "言語政策",
+      "政府文書"
+    ],
+    "sourceIds": [
+      "academic_009"
+    ],
+    "sourceTitle": "हिंदी वर्तनी का मानकीकरण",
+    "sourceGenre": "government_document",
+    "sourceRegister": "government_formal"
+  },
+  {
+    "word": "प्रथमत:",
+    "display": "प्रथमत:",
+    "normalized": "प्रथमत",
+    "variants": [
+      "प्रथमत:",
+      "प्रथमतः"
+    ],
+    "pos": "副詞",
+    "meaning_ja": "まず最初に",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "言語政策",
+      "政府文書"
+    ],
+    "sourceIds": [
+      "academic_009"
+    ],
+    "sourceTitle": "हिंदी वर्तनी का मानकीकरण",
+    "sourceGenre": "government_document",
+    "sourceRegister": "government_formal"
+  },
+  {
+    "word": "लघु",
+    "display": "लघु",
+    "normalized": "लघु",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "小型の、簡潔な",
+    "importance": 3,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "言語政策",
+      "政府文書"
+    ],
+    "sourceIds": [
+      "academic_009"
+    ],
+    "sourceTitle": "हिंदी वर्तनी का मानकीकरण",
+    "sourceGenre": "government_document",
+    "sourceRegister": "government_formal"
+  },
+  {
+    "word": "संशोधित",
+    "display": "संशोधित",
+    "normalized": "संशोधित",
+    "variants": [],
+    "pos": "形容詞・分詞",
+    "meaning_ja": "改訂された",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "言語政策",
+      "政府文書"
+    ],
+    "sourceIds": [
+      "academic_009"
+    ],
+    "sourceTitle": "हिंदी वर्तनी का मानकीकरण",
+    "sourceGenre": "government_document",
+    "sourceRegister": "government_formal"
+  },
+  {
+    "word": "परिवर्धित",
+    "display": "परिवर्धित",
+    "normalized": "परिवर्धित",
+    "variants": [],
+    "pos": "形容詞・分詞",
+    "meaning_ja": "増補された、拡張された",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "言語政策",
+      "政府文書"
+    ],
+    "sourceIds": [
+      "academic_009"
+    ],
+    "sourceTitle": "हिंदी वर्तनी का मानकीकरण",
+    "sourceGenre": "government_document",
+    "sourceRegister": "government_formal"
+  },
+  {
+    "word": "पुनर्मुद्रण",
+    "display": "पुनर्मुद्रण",
+    "normalized": "पुनर्मुद्रण",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "再版、再印刷",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "言語政策",
+      "政府文書"
+    ],
+    "sourceIds": [
+      "academic_009"
+    ],
+    "sourceTitle": "हिंदी वर्तनी का मानकीकरण",
+    "sourceGenre": "government_document",
+    "sourceRegister": "government_formal"
+  },
+  {
+    "word": "नि:शुल्क",
+    "display": "नि:शुल्क",
+    "normalized": "निशुल्क",
+    "variants": [
+      "नि:शुल्क",
+      "निशुल्क"
+    ],
+    "pos": "形容詞・副詞",
+    "meaning_ja": "無料の、無料で",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "言語政策",
+      "政府文書"
+    ],
+    "sourceIds": [
+      "academic_009"
+    ],
+    "sourceTitle": "हिंदी वर्तनी का मानकीकरण",
+    "sourceGenre": "government_document",
+    "sourceRegister": "government_formal"
+  },
+  {
+    "word": "एकरूपता",
+    "display": "एकरूपता",
+    "normalized": "एकरूपता",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "統一性、一貫性",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "言語政策",
+      "政府文書"
+    ],
+    "sourceIds": [
+      "academic_009"
+    ],
+    "sourceTitle": "हिंदी वर्तनी का मानकीकरण",
+    "sourceGenre": "government_document",
+    "sourceRegister": "government_formal"
+  },
+  {
+    "word": "आधिकारिक",
+    "display": "आधिकारिक",
+    "normalized": "आधिकारिक",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "公式の",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "言語政策",
+      "政府文書"
+    ],
+    "sourceIds": [
+      "academic_009"
+    ],
+    "sourceTitle": "हिंदी वर्तनी का मानकीकरण",
+    "sourceGenre": "government_document",
+    "sourceRegister": "government_formal"
+  },
+  {
+    "word": "प्रयोक्‍ता",
+    "display": "प्रयोक्‍ता",
+    "normalized": "प्रयोक्ता",
+    "variants": [
+      "प्रयोक्‍ता",
+      "प्रयोक्ता"
+    ],
+    "pos": "名詞（男）",
+    "meaning_ja": "利用者、ユーザー",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "言語政策",
+      "政府文書"
+    ],
+    "sourceIds": [
+      "academic_009"
+    ],
+    "sourceTitle": "हिंदी वर्तनी का मानकीकरण",
+    "sourceGenre": "government_document",
+    "sourceRegister": "government_formal"
+  },
+  {
+    "word": "टंकण",
+    "display": "टंकण",
+    "normalized": "टंकण",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "タイピング、タイプ印字",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "言語政策",
+      "政府文書"
+    ],
+    "sourceIds": [
+      "academic_009"
+    ],
+    "sourceTitle": "हिंदी वर्तनी का मानकीकरण",
+    "sourceGenre": "government_document",
+    "sourceRegister": "government_formal"
+  },
+  {
+    "word": "प्रौद्योगिकी",
+    "display": "प्रौद्योगिकी",
+    "normalized": "प्रौद्योगिकी",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "テクノロジー、技術",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "言語政策",
+      "政府文書"
+    ],
+    "sourceIds": [
+      "academic_009"
+    ],
+    "sourceTitle": "हिंदी वर्तनी का मानकीकरण",
+    "sourceGenre": "government_document",
+    "sourceRegister": "government_formal"
+  },
+  {
+    "word": "आवश्यकता",
+    "display": "आवश्यकता",
+    "normalized": "आवश्यकता",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "必要性",
+    "importance": 3,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "言語政策",
+      "政府文書"
+    ],
+    "sourceIds": [
+      "academic_009"
+    ],
+    "sourceTitle": "हिंदी वर्तनी का मानकीकरण",
+    "sourceGenre": "government_document",
+    "sourceRegister": "government_formal"
+  },
+  {
+    "word": "समाधान",
+    "display": "समाधान",
+    "normalized": "समाधान",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "解決",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "言語政策",
+      "政府文書"
+    ],
+    "sourceIds": [
+      "academic_009"
+    ],
+    "sourceTitle": "हिंदी वर्तनी का मानकीकरण",
+    "sourceGenre": "government_document",
+    "sourceRegister": "government_formal"
+  },
+  {
+    "word": "यूनीकोड",
+    "display": "यूनीकोड",
+    "normalized": "यूनीकोड",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "Unicode",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "言語政策",
+      "政府文書"
+    ],
+    "sourceIds": [
+      "academic_009"
+    ],
+    "sourceTitle": "हिंदी वर्तनी का मानकीकरण",
+    "sourceGenre": "government_document",
+    "sourceRegister": "government_formal"
+  },
+  {
+    "word": "अनुसूची",
+    "display": "अनुसूची",
+    "normalized": "अनुसूची",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "付表、スケジュール",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "言語政策",
+      "政府文書"
+    ],
+    "sourceIds": [
+      "academic_009"
+    ],
+    "sourceTitle": "हिंदी वर्तनी का मानकीकरण",
+    "sourceGenre": "government_document",
+    "sourceRegister": "government_formal"
+  },
+  {
+    "word": "स्वीकृत",
+    "display": "स्वीकृत",
+    "normalized": "स्वीकृत",
+    "variants": [],
+    "pos": "形容詞・分詞",
+    "meaning_ja": "承認された",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "言語政策",
+      "政府文書"
+    ],
+    "sourceIds": [
+      "academic_009"
+    ],
+    "sourceTitle": "हिंदी वर्तनी का मानकीकरण",
+    "sourceGenre": "government_document",
+    "sourceRegister": "government_formal"
+  },
+  {
+    "word": "विशेषक",
+    "display": "विशेषक",
+    "normalized": "विशेषक",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "特殊記号、識別記号",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "言語政策",
+      "政府文書"
+    ],
+    "sourceIds": [
+      "academic_009"
+    ],
+    "sourceTitle": "हिंदी वर्तनी का मानकीकरण",
+    "sourceGenre": "government_document",
+    "sourceRegister": "government_formal"
+  },
+  {
+    "word": "चिह्न",
+    "display": "चिह्न",
+    "normalized": "चिह्न",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "記号、標識",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "言語政策",
+      "政府文書"
+    ],
+    "sourceIds": [
+      "academic_009"
+    ],
+    "sourceTitle": "हिंदी वर्तनी का मानकीकरण",
+    "sourceGenre": "government_document",
+    "sourceRegister": "government_formal"
+  },
+  {
+    "word": "अद्यतन",
+    "display": "अद्यतन",
+    "normalized": "अद्यतन",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "最新の、アップデートされた",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "言語政策",
+      "政府文書"
+    ],
+    "sourceIds": [
+      "academic_009"
+    ],
+    "sourceTitle": "हिंदी वर्तनी का मानकीकरण",
+    "sourceGenre": "government_document",
+    "sourceRegister": "government_formal"
+  },
+  {
+    "word": "तदनुसार",
+    "display": "तदनुसार",
+    "normalized": "तदनुसार",
+    "variants": [],
+    "pos": "副詞",
+    "meaning_ja": "それに応じて、それに従って",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "言語政策",
+      "政府文書"
+    ],
+    "sourceIds": [
+      "academic_009"
+    ],
+    "sourceTitle": "हिंदी वर्तनी का मानकीकरण",
+    "sourceGenre": "government_document",
+    "sourceRegister": "government_formal"
+  },
+  {
+    "word": "सम्मिलित",
+    "display": "सम्मिलित",
+    "normalized": "सम्मिलित",
+    "variants": [],
+    "pos": "形容詞・分詞",
+    "meaning_ja": "含まれた、組み込まれた",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "言語政策",
+      "政府文書"
+    ],
+    "sourceIds": [
+      "academic_009"
+    ],
+    "sourceTitle": "हिंदी वर्तनी का मानकीकरण",
+    "sourceGenre": "government_document",
+    "sourceRegister": "government_formal"
+  },
+  {
+    "word": "आधुनिकीकरण",
+    "display": "आधुनिकीकरण",
+    "normalized": "आधुनिकीकरण",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "近代化、モダナイゼーション",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "言語政策",
+      "政府文書"
+    ],
+    "sourceIds": [
+      "academic_009"
+    ],
+    "sourceTitle": "हिंदी वर्तनी का मानकीकरण",
+    "sourceGenre": "government_document",
+    "sourceRegister": "government_formal"
+  },
+  {
+    "word": "कंप्यूटरीकरण",
+    "display": "कंप्यूटरीकरण",
+    "normalized": "कंप्यूटरीकरण",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "コンピュータ化",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "言語政策",
+      "政府文書"
+    ],
+    "sourceIds": [
+      "academic_009"
+    ],
+    "sourceTitle": "हिंदी वर्तनी का मानकीकरण",
+    "sourceGenre": "government_document",
+    "sourceRegister": "government_formal"
+  },
+  {
+    "word": "प्रशस्त",
+    "display": "प्रशस्त",
+    "normalized": "प्रशस्त",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "開かれた、広げられた",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "言語政策",
+      "政府文書"
+    ],
+    "sourceIds": [
+      "academic_009"
+    ],
+    "sourceTitle": "हिंदी वर्तनी का मानकीकरण",
+    "sourceGenre": "government_document",
+    "sourceRegister": "government_formal"
+  }
+]

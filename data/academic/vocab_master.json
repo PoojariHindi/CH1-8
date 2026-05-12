@@ -18,6 +18,60 @@
     ]
   },
   {
+    "word": "अद्यतन",
+    "normalized": "अद्यतन",
+    "display": "अद्यतन",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "最新の、アップデートされた",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "言語政策",
+      "政府文書"
+    ],
+    "sourceIds": [
+      "academic_009"
+    ]
+  },
+  {
+    "word": "अधोलिखित",
+    "normalized": "अधोलिखित",
+    "display": "अधोलिखित",
+    "variants": [],
+    "pos": "形容詞・分詞",
+    "meaning_ja": "下記の、以下に記された",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "作文",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_008"
+    ]
+  },
+  {
+    "word": "अध्ययनरत",
+    "normalized": "अध्ययनरत",
+    "display": "अध्ययनरत",
+    "variants": [],
+    "pos": "形容詞・分詞",
+    "meaning_ja": "在学中の、学習中の",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "作文",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_008"
+    ]
+  },
+  {
     "word": "अनर्गल",
     "normalized": "अनर्गल",
     "display": "अनर्गल",
@@ -33,6 +87,24 @@
     ],
     "sourceIds": [
       "academic_006"
+    ]
+  },
+  {
+    "word": "अनिवार्य",
+    "normalized": "अनिवार्य",
+    "display": "अनिवार्य",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "不可欠な、必須の",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "作文",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_007"
     ]
   },
   {
@@ -54,6 +126,60 @@
     ]
   },
   {
+    "word": "अनुक्रम",
+    "normalized": "अनुक्रम",
+    "display": "अनुक्रम",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "順序、配列、目次順",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "作文",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_008"
+    ]
+  },
+  {
+    "word": "अनुच्छेद",
+    "normalized": "अनुच्छेद",
+    "display": "अनुच्छेद",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "段落、パラグラフ",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "作文",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_007"
+    ]
+  },
+  {
+    "word": "अनुसूची",
+    "normalized": "अनुसूची",
+    "display": "अनुसूची",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "付表、スケジュール",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "言語政策",
+      "政府文書"
+    ],
+    "sourceIds": [
+      "academic_009"
+    ]
+  },
+  {
     "word": "अपितु",
     "normalized": "अपितु",
     "display": "अपितु",
@@ -68,6 +194,24 @@
     ],
     "sourceIds": [
       "academic_001"
+    ]
+  },
+  {
+    "word": "अपेक्षित",
+    "normalized": "अपेक्षित",
+    "display": "अपेक्षित",
+    "variants": [],
+    "pos": "形容詞・分詞",
+    "meaning_ja": "期待された、必要とされる",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "作文",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_008"
     ]
   },
   {
@@ -106,6 +250,96 @@
     ]
   },
   {
+    "word": "असंदिग्ध",
+    "normalized": "असंदिग्ध",
+    "display": "असंदिग्ध",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "疑いのない、明白な",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "作文",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_008"
+    ]
+  },
+  {
+    "word": "आकर्षक",
+    "normalized": "आकर्षक",
+    "display": "आकर्षक",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "魅力的な",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "作文",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_007"
+    ]
+  },
+  {
+    "word": "आधिकारिक",
+    "normalized": "आधिकारिक",
+    "display": "आधिकारिक",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "公式の",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "言語政策",
+      "政府文書"
+    ],
+    "sourceIds": [
+      "academic_009"
+    ]
+  },
+  {
+    "word": "आधुनिकीकरण",
+    "normalized": "आधुनिकीकरण",
+    "display": "आधुनिकीकरण",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "近代化、モダナイゼーション",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "言語政策",
+      "政府文書"
+    ],
+    "sourceIds": [
+      "academic_009"
+    ]
+  },
+  {
+    "word": "आभास",
+    "normalized": "आभास",
+    "display": "आभास",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "感じ、印象",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "作文",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_007"
+    ]
+  },
+  {
     "word": "आश्चर्य",
     "normalized": "आश्चर्य",
     "display": "आश्चर्य",
@@ -121,6 +355,24 @@
     ],
     "sourceIds": [
       "academic_005BandarMagarmacch3"
+    ]
+  },
+  {
+    "word": "उत्सुकता",
+    "normalized": "उत्सुकता",
+    "display": "उत्सुकता",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "好奇心、熱意",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "作文",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_007"
     ]
   },
   {
@@ -160,6 +412,78 @@
     ]
   },
   {
+    "word": "उपलब्ध",
+    "normalized": "उपलब्ध",
+    "display": "उपलब्ध",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "利用可能な、入手可能な",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "作文",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_008"
+    ]
+  },
+  {
+    "word": "उपसंहार",
+    "normalized": "उपसंहार",
+    "display": "उपसंहार",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "結び、締めくくり",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "作文",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_007"
+    ]
+  },
+  {
+    "word": "उपाय",
+    "normalized": "उपाय",
+    "display": "उपाय",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "方法、対策、手段",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "作文",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_008"
+    ]
+  },
+  {
+    "word": "उल्लेख",
+    "normalized": "उल्लेख",
+    "display": "उल्लेख",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "言及、記載",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "作文",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_007"
+    ]
+  },
+  {
     "word": "एकमात्र",
     "normalized": "एकमात्र",
     "display": "एकमात्र",
@@ -175,6 +499,96 @@
     ],
     "sourceIds": [
       "academic_004BandarMagarmacch2"
+    ]
+  },
+  {
+    "word": "एकरूपता",
+    "normalized": "एकरूपता",
+    "display": "एकरूपता",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "統一性、一貫性",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "言語政策",
+      "政府文書"
+    ],
+    "sourceIds": [
+      "academic_009"
+    ]
+  },
+  {
+    "word": "ऐतिहासिक",
+    "normalized": "ऐतिहासिक",
+    "display": "ऐतिहासिक",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "歴史的な",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "作文",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_007"
+    ]
+  },
+  {
+    "word": "कंप्यूटरीकरण",
+    "normalized": "कंप्यूटरीकरण",
+    "display": "कंप्यूटरीकरण",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "コンピュータ化",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "言語政策",
+      "政府文書"
+    ],
+    "sourceIds": [
+      "academic_009"
+    ]
+  },
+  {
+    "word": "कथन",
+    "normalized": "कथन",
+    "display": "कथन",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "発言、言明",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "作文",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_008"
+    ]
+  },
+  {
+    "word": "कदापि",
+    "normalized": "कदापि",
+    "display": "कदापि",
+    "variants": [],
+    "pos": "副詞",
+    "meaning_ja": "決して、絶対に",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "作文",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_007"
     ]
   },
   {
@@ -267,6 +681,78 @@
     ]
   },
   {
+    "word": "चयन",
+    "normalized": "चयन",
+    "display": "चयन",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "選択、選定",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "作文",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_008"
+    ]
+  },
+  {
+    "word": "चिह्न",
+    "normalized": "चिह्न",
+    "display": "चिह्न",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "記号、標識",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "言語政策",
+      "政府文書"
+    ],
+    "sourceIds": [
+      "academic_009"
+    ]
+  },
+  {
+    "word": "छाप",
+    "normalized": "छाप",
+    "display": "छाप",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "印象、跡、刻印",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "作文",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_008"
+    ]
+  },
+  {
+    "word": "जाग्रत",
+    "normalized": "जाग्रत",
+    "display": "जाग्रत",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "喚起された、目覚めた",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "作文",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_007"
+    ]
+  },
+  {
     "word": "जामुन",
     "normalized": "जामुन",
     "display": "जामुन",
@@ -327,6 +813,24 @@
     ]
   },
   {
+    "word": "टंकण",
+    "normalized": "टंकण",
+    "display": "टंकण",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "タイピング、タイプ印字",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "言語政策",
+      "政府文書"
+    ],
+    "sourceIds": [
+      "academic_009"
+    ]
+  },
+  {
     "word": "डूबना",
     "normalized": "डूबना",
     "display": "डूबना",
@@ -342,6 +846,24 @@
     ],
     "sourceIds": [
       "academic_004BandarMagarmacch2"
+    ]
+  },
+  {
+    "word": "तदनुसार",
+    "normalized": "तदनुसार",
+    "display": "तदनुसार",
+    "variants": [],
+    "pos": "副詞",
+    "meaning_ja": "それに応じて、それに従って",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "言語政策",
+      "政府文書"
+    ],
+    "sourceIds": [
+      "academic_009"
     ]
   },
   {
@@ -381,6 +903,24 @@
     ]
   },
   {
+    "word": "तारतम्य",
+    "normalized": "तारतम्य",
+    "display": "तारतम्य",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "整合性、連続性",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "作文",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_007"
+    ]
+  },
+  {
     "word": "त्याग",
     "normalized": "त्याग",
     "display": "त्याग",
@@ -395,6 +935,24 @@
     ],
     "sourceIds": [
       "academic_001"
+    ]
+  },
+  {
+    "word": "दिग्दर्शित",
+    "normalized": "दिग्दर्शित",
+    "display": "दिग्दर्शित",
+    "variants": [],
+    "pos": "形容詞・分詞",
+    "meaning_ja": "示された、指し示された",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "作文",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_007"
     ]
   },
   {
@@ -506,6 +1064,24 @@
     ]
   },
   {
+    "word": "दोहराव",
+    "normalized": "दोहराव",
+    "display": "दोहराव",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "繰り返し、反復",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "作文",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_007"
+    ]
+  },
+  {
     "word": "धक्का",
     "normalized": "धक्का",
     "display": "धक्का",
@@ -557,6 +1133,81 @@
     ],
     "sourceIds": [
       "academic_004BandarMagarmacch2"
+    ]
+  },
+  {
+    "word": "नकारात्मक",
+    "normalized": "नकारात्मक",
+    "display": "नकारात्मक",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "否定的な、マイナスの",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "作文",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_007"
+    ]
+  },
+  {
+    "word": "नि:शुल्क",
+    "normalized": "निशुल्क",
+    "display": "नि:शुल्क",
+    "variants": [
+      "नि:शुल्क",
+      "निशुल्क"
+    ],
+    "pos": "形容詞・副詞",
+    "meaning_ja": "無料の、無料で",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "言語政策",
+      "政府文書"
+    ],
+    "sourceIds": [
+      "academic_009"
+    ]
+  },
+  {
+    "word": "निखार",
+    "normalized": "निखार",
+    "display": "निखार",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "磨き、洗練、向上",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "作文",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_008"
+    ]
+  },
+  {
+    "word": "निदान",
+    "normalized": "निदान",
+    "display": "निदान",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "解決、診断、対処法",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "作文",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_008"
     ]
   },
   {
@@ -652,6 +1303,60 @@
     ]
   },
   {
+    "word": "निष्कर्ष",
+    "normalized": "निष्कर्ष",
+    "display": "निष्कर्ष",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "結論",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "作文",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_007"
+    ]
+  },
+  {
+    "word": "निस्संकोच",
+    "normalized": "निस्संकोच",
+    "display": "निस्संकोच",
+    "variants": [],
+    "pos": "副詞",
+    "meaning_ja": "遠慮なく、ためらわずに",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "作文",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_008"
+    ]
+  },
+  {
+    "word": "निस्संदेह",
+    "normalized": "निस्संदेह",
+    "display": "निस्संदेह",
+    "variants": [],
+    "pos": "副詞",
+    "meaning_ja": "疑いなく、間違いなく",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "作文",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_008"
+    ]
+  },
+  {
     "word": "नुकसान",
     "normalized": "नुकसान",
     "display": "नुकसान",
@@ -667,6 +1372,42 @@
     ],
     "sourceIds": [
       "academic_004BandarMagarmacch2"
+    ]
+  },
+  {
+    "word": "पकड़",
+    "normalized": "पकड़",
+    "display": "पकड़",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "把握、理解、掌握",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "作文",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_008"
+    ]
+  },
+  {
+    "word": "पक्ष-विपक्ष",
+    "normalized": "पक्ष_विपक्ष",
+    "display": "पक्ष-विपक्ष",
+    "variants": [],
+    "pos": "名詞句",
+    "meaning_ja": "賛否、両論",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "作文",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_007"
     ]
   },
   {
@@ -706,6 +1447,24 @@
     ]
   },
   {
+    "word": "परिवर्धित",
+    "normalized": "परिवर्धित",
+    "display": "परिवर्धित",
+    "variants": [],
+    "pos": "形容詞・分詞",
+    "meaning_ja": "増補された、拡張された",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "言語政策",
+      "政府文書"
+    ],
+    "sourceIds": [
+      "academic_009"
+    ]
+  },
+  {
     "word": "परिश्रम",
     "normalized": "परिश्रम",
     "display": "परिश्रम",
@@ -742,6 +1501,84 @@
     ]
   },
   {
+    "word": "पश्चात्",
+    "normalized": "पश्चात",
+    "display": "पश्चात्",
+    "variants": [
+      "पश्चात्",
+      "पश्चात"
+    ],
+    "pos": "後置詞",
+    "meaning_ja": "〜の後で",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "作文",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_007"
+    ]
+  },
+  {
+    "word": "पुनर्मुद्रण",
+    "normalized": "पुनर्मुद्रण",
+    "display": "पुनर्मुद्रण",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "再版、再印刷",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "言語政策",
+      "政府文書"
+    ],
+    "sourceIds": [
+      "academic_009"
+    ]
+  },
+  {
+    "word": "प्रतिष्ठित",
+    "normalized": "प्रतिष्ठित",
+    "display": "प्रतिष्ठित",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "著名な、高名な",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "言語政策",
+      "政府文書"
+    ],
+    "sourceIds": [
+      "academic_009"
+    ]
+  },
+  {
+    "word": "प्रथमत:",
+    "normalized": "प्रथमत",
+    "display": "प्रथमत:",
+    "variants": [
+      "प्रथमत:",
+      "प्रथमतः"
+    ],
+    "pos": "副詞",
+    "meaning_ja": "まず最初に",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "言語政策",
+      "政府文書"
+    ],
+    "sourceIds": [
+      "academic_009"
+    ]
+  },
+  {
     "word": "प्रभावशाली",
     "normalized": "प्रभावशाली",
     "display": "प्रभावशाली",
@@ -757,6 +1594,63 @@
     ],
     "sourceIds": [
       "academic_006"
+    ]
+  },
+  {
+    "word": "प्रयोक्‍ता",
+    "normalized": "प्रयोक्ता",
+    "display": "प्रयोक्‍ता",
+    "variants": [
+      "प्रयोक्‍ता",
+      "प्रयोक्ता"
+    ],
+    "pos": "名詞（男）",
+    "meaning_ja": "利用者、ユーザー",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "言語政策",
+      "政府文書"
+    ],
+    "sourceIds": [
+      "academic_009"
+    ]
+  },
+  {
+    "word": "प्रवाह",
+    "normalized": "प्रवाह",
+    "display": "प्रवाह",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "流れ、流暢さ",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "作文",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_008"
+    ]
+  },
+  {
+    "word": "प्रशस्त",
+    "normalized": "प्रशस्त",
+    "display": "प्रशस्त",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "開かれた、広げられた",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "言語政策",
+      "政府文書"
+    ],
+    "sourceIds": [
+      "academic_009"
     ]
   },
   {
@@ -796,6 +1690,42 @@
     ]
   },
   {
+    "word": "प्राथमिकता",
+    "normalized": "प्राथमिकता",
+    "display": "प्राथमिकता",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "優先事項、優先性",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "作文",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_007"
+    ]
+  },
+  {
+    "word": "प्रामाणिकता",
+    "normalized": "प्रामाणिकता",
+    "display": "प्रामाणिकता",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "信頼性、真正性、正確性",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "作文",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_008"
+    ]
+  },
+  {
     "word": "प्रायः",
     "normalized": "प्रायः",
     "display": "प्रायः",
@@ -811,6 +1741,60 @@
     ],
     "sourceIds": [
       "academic_006"
+    ]
+  },
+  {
+    "word": "प्रारंभ",
+    "normalized": "प्रारंभ",
+    "display": "प्रारंभ",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "始まり、開始",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "作文",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_007"
+    ]
+  },
+  {
+    "word": "प्रासंगिकता",
+    "normalized": "प्रासंगिकता",
+    "display": "प्रासंगिकता",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "関連性、妥当性",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "作文",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_008"
+    ]
+  },
+  {
+    "word": "प्रौद्योगिकी",
+    "normalized": "प्रौद्योगिकी",
+    "display": "प्रौद्योगिकी",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "テクノロジー、技術",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "言語政策",
+      "政府文書"
+    ],
+    "sourceIds": [
+      "academic_009"
     ]
   },
   {
@@ -868,6 +1852,60 @@
     ]
   },
   {
+    "word": "भरसक",
+    "normalized": "भरसक",
+    "display": "भरसक",
+    "variants": [],
+    "pos": "副詞",
+    "meaning_ja": "できる限り、精一杯",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "作文",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_008"
+    ]
+  },
+  {
+    "word": "भावनात्मक",
+    "normalized": "भावनात्मक",
+    "display": "भावनात्मक",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "感情的な、情緒的な",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "作文",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_007"
+    ]
+  },
+  {
+    "word": "भाषाविद",
+    "normalized": "भाषाविद",
+    "display": "भाषाविद",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "言語学者",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "言語政策",
+      "政府文書"
+    ],
+    "sourceIds": [
+      "academic_009"
+    ]
+  },
+  {
     "word": "भ्रमित",
     "normalized": "भ्रमित",
     "display": "भ्रमित",
@@ -901,6 +1939,42 @@
     ],
     "sourceIds": [
       "academic_003BandarMagarmacch1"
+    ]
+  },
+  {
+    "word": "मन-मस्तिष्क",
+    "normalized": "मन_मस्तिष्क",
+    "display": "मन-मस्तिष्क",
+    "variants": [],
+    "pos": "名詞句",
+    "meaning_ja": "心と頭、心身の思考",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "作文",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_008"
+    ]
+  },
+  {
+    "word": "मनन",
+    "normalized": "मनन",
+    "display": "मनन",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "熟考、思索",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "作文",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_008"
     ]
   },
   {
@@ -941,6 +2015,24 @@
     ]
   },
   {
+    "word": "महापुरुष",
+    "normalized": "महापुरुष",
+    "display": "महापुरुष",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "偉人、偉大な人物",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "作文",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_008"
+    ]
+  },
+  {
     "word": "मांस",
     "normalized": "मांस",
     "display": "मांस",
@@ -974,6 +2066,24 @@
     ],
     "sourceIds": [
       "academic_006"
+    ]
+  },
+  {
+    "word": "मानकीकरण",
+    "normalized": "मानकीकरण",
+    "display": "मानकीकरण",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "標準化",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "言語政策",
+      "政府文書"
+    ],
+    "sourceIds": [
+      "academic_009"
     ]
   },
   {
@@ -1049,6 +2159,24 @@
     ]
   },
   {
+    "word": "मौलिक",
+    "normalized": "मौलिक",
+    "display": "मौलिक",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "独創的な、オリジナルの",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "作文",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_007"
+    ]
+  },
+  {
     "word": "यथार्थ",
     "normalized": "यथार्थ",
     "display": "यथार्थ",
@@ -1085,6 +2213,24 @@
     ]
   },
   {
+    "word": "यूनीकोड",
+    "normalized": "यूनीकोड",
+    "display": "यूनीकोड",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "Unicode",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "言語政策",
+      "政府文書"
+    ],
+    "sourceIds": [
+      "academic_009"
+    ]
+  },
+  {
     "word": "रचना",
     "normalized": "रचना",
     "display": "रचना",
@@ -1100,6 +2246,42 @@
     ],
     "sourceIds": [
       "academic_006"
+    ]
+  },
+  {
+    "word": "रूपरेखा",
+    "normalized": "रूपरेखा",
+    "display": "रूपरेखा",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "アウトライン、概要",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "作文",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_007"
+    ]
+  },
+  {
+    "word": "लाभान्वित",
+    "normalized": "लाभान्वित",
+    "display": "लाभान्वित",
+    "variants": [],
+    "pos": "形容詞・分詞",
+    "meaning_ja": "恩恵を受けた、有益となった",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "作文",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_008"
     ]
   },
   {
@@ -1121,6 +2303,42 @@
     ]
   },
   {
+    "word": "वर्णनात्मक",
+    "normalized": "वर्णनात्मक",
+    "display": "वर्णनात्मक",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "描写的な、記述的な",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "作文",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_007"
+    ]
+  },
+  {
+    "word": "वर्तनी",
+    "normalized": "वर्तनी",
+    "display": "वर्तनी",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "綴り、正書法",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "作文",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_008"
+    ]
+  },
+  {
     "word": "वास",
     "normalized": "वास",
     "display": "वास",
@@ -1136,6 +2354,60 @@
     ],
     "sourceIds": [
       "academic_002"
+    ]
+  },
+  {
+    "word": "विकल्प",
+    "normalized": "विकल्प",
+    "display": "विकल्प",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "選択肢、代替案",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "作文",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_008"
+    ]
+  },
+  {
+    "word": "विचार-विमर्श",
+    "normalized": "विचार_विमर्श",
+    "display": "विचार-विमर्श",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "協議、討議",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "言語政策",
+      "政府文書"
+    ],
+    "sourceIds": [
+      "academic_009"
+    ]
+  },
+  {
+    "word": "विचारात्मक",
+    "normalized": "विचारात्मक",
+    "display": "विचारात्मक",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "論考的な、思索的な",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "作文",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_007"
     ]
   },
   {
@@ -1175,6 +2447,60 @@
     ]
   },
   {
+    "word": "विराम चिन्ह",
+    "normalized": "विराम_चिन्ह",
+    "display": "विराम चिन्ह",
+    "variants": [],
+    "pos": "名詞句",
+    "meaning_ja": "句読点、約物",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "作文",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_008"
+    ]
+  },
+  {
+    "word": "विवरणात्मक",
+    "normalized": "विवरणात्मक",
+    "display": "विवरणात्मक",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "説明的な、叙述的な",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "作文",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_007"
+    ]
+  },
+  {
+    "word": "विशेषक",
+    "normalized": "विशेषक",
+    "display": "विशेषक",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "特殊記号、識別記号",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "言語政策",
+      "政府文書"
+    ],
+    "sourceIds": [
+      "academic_009"
+    ]
+  },
+  {
     "word": "विश्लेषण",
     "normalized": "विश्लेषण",
     "display": "विश्लेषण",
@@ -1211,6 +2537,24 @@
     ]
   },
   {
+    "word": "व्यक्तिगत",
+    "normalized": "व्यक्तिगत",
+    "display": "व्यक्तिगत",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "個人的な",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "作文",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_008"
+    ]
+  },
+  {
     "word": "व्यायाम",
     "normalized": "व्यायाम",
     "display": "व्यायाम",
@@ -1226,6 +2570,42 @@
     ],
     "sourceIds": [
       "academic_002"
+    ]
+  },
+  {
+    "word": "शीर्षांकित",
+    "normalized": "शीर्षांकित",
+    "display": "शीर्षांकित",
+    "variants": [],
+    "pos": "形容詞・分詞",
+    "meaning_ja": "題名を付けられた、表題化された",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "作文",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_008"
+    ]
+  },
+  {
+    "word": "श्रेणी",
+    "normalized": "श्रेणी",
+    "display": "श्रेणी",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "分類、カテゴリー",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "作文",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_007"
     ]
   },
   {
@@ -1304,6 +2684,78 @@
     ]
   },
   {
+    "word": "संयोजन",
+    "normalized": "संयोजन",
+    "display": "संयोजन",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "構成、組み合わせ、配列",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "作文",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_008"
+    ]
+  },
+  {
+    "word": "संशोधित",
+    "normalized": "संशोधित",
+    "display": "संशोधित",
+    "variants": [],
+    "pos": "形容詞・分詞",
+    "meaning_ja": "改訂された",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "言語政策",
+      "政府文書"
+    ],
+    "sourceIds": [
+      "academic_009"
+    ]
+  },
+  {
+    "word": "संस्मरण",
+    "normalized": "संस्मरण",
+    "display": "संस्मरण",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "回想録、思い出の記録",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "作文",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_007"
+    ]
+  },
+  {
+    "word": "सकारात्मक",
+    "normalized": "सकारात्मक",
+    "display": "सकारात्मक",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "肯定的な、前向きな",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "作文",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_007"
+    ]
+  },
+  {
     "word": "सत्संगति",
     "normalized": "सत्संगति",
     "display": "सत्संगति",
@@ -1337,6 +2789,78 @@
     ],
     "sourceIds": [
       "academic_003BandarMagarmacch1"
+    ]
+  },
+  {
+    "word": "समर्थन",
+    "normalized": "समर्थन",
+    "display": "समर्थन",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "支持、裏づけ",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "作文",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_008"
+    ]
+  },
+  {
+    "word": "समाधान",
+    "normalized": "समाधान",
+    "display": "समाधान",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "解決",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "言語政策",
+      "政府文書"
+    ],
+    "sourceIds": [
+      "academic_009"
+    ]
+  },
+  {
+    "word": "सम्मति",
+    "normalized": "सम्मति",
+    "display": "सम्मति",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "意見、同意、見解",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "作文",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_008"
+    ]
+  },
+  {
+    "word": "सम्मिलित",
+    "normalized": "सम्मिलित",
+    "display": "सम्मिलित",
+    "variants": [],
+    "pos": "形容詞・分詞",
+    "meaning_ja": "含まれた、組み込まれた",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "作文",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_007"
     ]
   },
   {
@@ -1376,6 +2900,96 @@
     ]
   },
   {
+    "word": "सांख्यिकी",
+    "normalized": "सांख्यिकी",
+    "display": "सांख्यिकी",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "統計、統計学",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "作文",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_008"
+    ]
+  },
+  {
+    "word": "सामंजस्य",
+    "normalized": "सामंजस्य",
+    "display": "सामंजस्य",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "調和、一致",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "作文",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_007"
+    ]
+  },
+  {
+    "word": "सारांश",
+    "normalized": "सारांश",
+    "display": "सारांश",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "要約、概要",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "作文",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_008"
+    ]
+  },
+  {
+    "word": "सिद्ध",
+    "normalized": "सिद्ध",
+    "display": "सिद्ध",
+    "variants": [],
+    "pos": "形容詞・分詞",
+    "meaning_ja": "証明された、確立された",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "作文",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_008"
+    ]
+  },
+  {
+    "word": "सुगठित",
+    "normalized": "सुगठित",
+    "display": "सुगठित",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "よく整った、構成のしっかりした",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "作文",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_008"
+    ]
+  },
+  {
     "word": "सुझाव",
     "normalized": "सुझाव",
     "display": "सुझाव",
@@ -1394,6 +3008,24 @@
     ]
   },
   {
+    "word": "सुनिश्चित",
+    "normalized": "सुनिश्चित",
+    "display": "सुनिश्चित",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "確実な、保証された",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "作文",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_007"
+    ]
+  },
+  {
     "word": "सूक्ति",
     "normalized": "सूक्ति",
     "display": "सूक्ति",
@@ -1409,6 +3041,24 @@
     ],
     "sourceIds": [
       "academic_006"
+    ]
+  },
+  {
+    "word": "सोने पर सुहागा",
+    "normalized": "सोने_पर_सुहागा",
+    "display": "सोने पर सुहागा",
+    "variants": [],
+    "pos": "慣用句",
+    "meaning_ja": "さらに素晴らしいこと、鬼に金棒",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "作文",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_008"
     ]
   },
   {
@@ -1445,6 +3095,42 @@
     ],
     "sourceIds": [
       "academic_003BandarMagarmacch1"
+    ]
+  },
+  {
+    "word": "स्वीकृत",
+    "normalized": "स्वीकृत",
+    "display": "स्वीकृत",
+    "variants": [],
+    "pos": "形容詞・分詞",
+    "meaning_ja": "承認された",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "言語政策",
+      "政府文書"
+    ],
+    "sourceIds": [
+      "academic_009"
+    ]
+  },
+  {
+    "word": "हस्तलिपि",
+    "normalized": "हस्तलिपि",
+    "display": "हस्तलिपि",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "手書き文字、筆跡",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "作文",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_008"
     ]
   },
   {
@@ -1499,6 +3185,24 @@
     ],
     "sourceIds": [
       "academic_005BandarMagarmacch3"
+    ]
+  },
+  {
+    "word": "आवश्यकता",
+    "normalized": "आवश्यकता",
+    "display": "आवश्यकता",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "必要性",
+    "importance": 3,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "言語政策",
+      "政府文書"
+    ],
+    "sourceIds": [
+      "academic_009"
     ]
   },
   {
@@ -1775,6 +3479,24 @@
     ]
   },
   {
+    "word": "पालन",
+    "normalized": "पालन",
+    "display": "पालन",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "遵守、守ること",
+    "importance": 3,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "作文",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_008"
+    ]
+  },
+  {
     "word": "पालना",
     "normalized": "पालना",
     "display": "पालना",
@@ -1790,6 +3512,42 @@
     ],
     "sourceIds": [
       "academic_006"
+    ]
+  },
+  {
+    "word": "प्रकाशक",
+    "normalized": "प्रकाशक",
+    "display": "प्रकाशक",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "出版社、発行者",
+    "importance": 3,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "作文",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_008"
+    ]
+  },
+  {
+    "word": "प्रविष्टि",
+    "normalized": "प्रविष्टि",
+    "display": "प्रविष्टि",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "参加、受験、入場",
+    "importance": 3,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "作文",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_008"
     ]
   },
   {
@@ -1973,6 +3731,42 @@
     ]
   },
   {
+    "word": "रुचि",
+    "normalized": "रुचि",
+    "display": "रुचि",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "興味、関心",
+    "importance": 3,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "作文",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_007"
+    ]
+  },
+  {
+    "word": "लघु",
+    "normalized": "लघु",
+    "display": "लघु",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "小型の、簡潔な",
+    "importance": 3,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "言語政策",
+      "政府文書"
+    ],
+    "sourceIds": [
+      "academic_009"
+    ]
+  },
+  {
     "word": "लड़ाई",
     "normalized": "लड़ाई",
     "display": "लड़ाई",
@@ -2095,6 +3889,24 @@
     ]
   },
   {
+    "word": "संकेत",
+    "normalized": "संकेत",
+    "display": "संकेत",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "手がかり、ヒント、ポイント",
+    "importance": 3,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "作文",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_008"
+    ]
+  },
+  {
     "word": "संगति",
     "normalized": "संगति",
     "display": "संगति",
@@ -2108,6 +3920,24 @@
     ],
     "sourceIds": [
       "academic_001"
+    ]
+  },
+  {
+    "word": "स्पष्ट",
+    "normalized": "स्पष्ट",
+    "display": "स्पष्ट",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "明確な、はっきりした",
+    "importance": 3,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "作文",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_007"
     ]
   },
   {

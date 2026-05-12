@@ -9,6 +9,7 @@ const auditDir = path.join(rootDir, "data", "bollywood", "audit");
 const reportPath = path.join(auditDir, "candidate_audit_report.json");
 const autoMergePath = path.join(auditDir, "candidate_auto_merge.json");
 const manualReviewPath = path.join(auditDir, "candidate_manual_review.json");
+const stopwordPath = path.join(auditDir, "candidate_stopword_skipped.json");
 
 const STOPWORDS = new Set([
   "कभी",
@@ -128,7 +129,8 @@ function main() {
           word: candidateWord,
           normalized: candidateNormalized,
           compareKey,
-          status: "skipped_stopword"
+          status: "skipped_stopword",
+          existsInMaster: null
         });
         continue;
       }
@@ -136,22 +138,29 @@ function main() {
       const match = masterMap.get(compareKey);
 
       if (match) {
+        const matchedSourceSongIds = Array.isArray(match.entry.sourceSongIds)
+          ? match.entry.sourceSongIds
+          : [];
+
         report.push({
           songId,
           word: candidateWord,
           normalized: candidateNormalized,
           compareKey,
           status: "match",
+          existsInMaster: true,
           matchedWord: match.entry.word,
           matchedNormalized: match.entry.normalized || match.entry.word,
-          masterIndex: match.index
+          masterIndex: match.index,
+          matchedSourceSongIds
         });
 
         autoMergeItems.push({
           mergeInto: {
             index: match.index,
             word: match.entry.word,
-            normalized: match.entry.normalized || match.entry.word
+            normalized: match.entry.normalized || match.entry.word,
+            sourceSongIds: matchedSourceSongIds
           },
           candidate: {
             songId,
@@ -160,7 +169,8 @@ function main() {
             meaning_ja: candidate.meaning_ja || "",
             pos: candidate.pos || "",
             importance: candidate.importance || null
-          }
+          },
+          existsInMaster: true
         });
       } else {
         report.push({
@@ -169,9 +179,11 @@ function main() {
           normalized: candidateNormalized,
           compareKey,
           status: "new",
+          existsInMaster: false,
           matchedWord: null,
           matchedNormalized: null,
           masterIndex: null,
+          matchedSourceSongIds: [],
           reason: "not found in vocab_master"
         });
 
@@ -183,6 +195,7 @@ function main() {
           meaning_ja: candidate.meaning_ja || "",
           importance: candidate.importance || 3,
           status: candidate.status || "active",
+          existsInMaster: false,
           reason: "new candidate; not found in vocab_master"
         });
       }
@@ -190,13 +203,19 @@ function main() {
   }
 
   saveJson(reportPath, report);
+
   saveJson(autoMergePath, {
     generatedAt: new Date().toISOString(),
+    count: autoMergeItems.length,
     items: autoMergeItems
   });
-  saveJson(manualReviewPath, manual);
 
-  const stopwordPath = path.join(auditDir, "candidate_stopword_skipped.json");
+  saveJson(manualReviewPath, {
+    generatedAt: new Date().toISOString(),
+    count: manual.length,
+    items: manual
+  });
+
   saveJson(stopwordPath, {
     generatedAt: new Date().toISOString(),
     count: skippedStopwords.length,

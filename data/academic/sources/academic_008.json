@@ -1,0 +1,396 @@
+{
+  "id": "academic_008",
+  "schema_version": 1,
+
+  "title": "प्राक्कथन",
+  "author": "Chentan Prakash Sharma",
+  "source": "201 सर्वश्रेष्ठ निबंध",
+  "year": 2024,
+
+  "genre": "textbook",
+  "register": "academic_prose",
+
+  "category": "読解",
+
+  "tags": [
+    "教科書",
+    "作文",
+    "抽象語"
+  ],
+
+  "key_phrase": "आप निस्संकोच अपनी राय लेखक व प्रकाशक को अधोलिखित पते पर भेज सकते हैं",
+
+  "text": "निबंध का अंत : निष्कर्ष अथवा उपसंहार : यदि निबंध का अंत आकर्षक व प्रभावशाली होगा, तो वह निस्संदेह पाठक पर अपनी गहरी छाप छोड़ेगा। बेहतर निष्कर्ष अथवा उपसंहार लिखते समय निम्नलिखित बातों का अवश्य ही ध्यान रखना चाहिए: निबंध का सारांश अथवा निष्कर्ष उसमें दिया जाए। प्रस्तावना में उठाई गई बात को उपसंहार में सिद्ध कर दिया जाए। यदि व्यक्तिगत राय या सम्मति से संबंध रखने वाला निबंध है तो अपनी मौलिक राय या सम्मति को प्रकट करें। अपने निष्कर्ष के समर्थन में कवि, लेखक अथवा महापुरुष के कथन अथवा लेखन का उदाहरण दिया जाना विषय पर आपकी पकड़ को साबित कर सकेगा। जहां निबंध के मूल में किसी समस्या को शीर्षांकित किया गया हो, वहां समस्या के निदान हेतु सुझाव व उपायों को व्यक्त करें। अन्य उपयोगी सुझाव निबंधों में यदि विकल्प उपलब्ध हों तो उनमें से अपनी रुचि व अतिरिक्त ज्ञान वाले निबंध का चुनाव कीजिए। निबंध का चयन करने के पश्चात् जो भी संबंधित बातें मन-मस्तिष्क में उभरें, उन्हें अनुच्छेद के संकेतों के रूप में लिख लीजिए। अनुच्छेदों को क्रमबद्धता के नियम में लिखें। प्रारंभ तथा अंत हेतु सूक्ति, कवि की उक्ति उद्धरण के रूप में प्रयोग अवश्य करें। निबंध लिखते समय हस्तलिपि, वर्तनी, विराम चिन्हों तथा व्याकरण के सामान्य नियमों का भरसक पालन करें। भाषा तथा शैली निबंध की आत्मा है इसलिए भाषा सुगठित हो व शैली में विषय के अनुकूल प्रवाह- इस बात का विशेष ध्यान रखें। एक ही निबंध को विभिन्न शैलियों में लिखा जा सकता है। निबंध रचना का अभ्यास करते रहना चाहिए। अभ्यास से प्रत्येक कला या विधा में निखार आता है। निबंध की तैयारी के लिए यदि संबंधित पुस्तकों का अध्ययन व विषयवस्तु पर मनन किया जा सके, तो सोने पर सुहागा। इस कार्य में ऐसी साइट्स की मदद ली जा सकती है, जो कंप्यूटर के माध्यम से प्रत्येक समय और प्रत्येक स्थान पर उपलब्ध है। जहां सांख्यिकी द्वारा विश्लेषण अपेक्षित होता है, वहां इसका महत्त्व और बढ़ जाता है, क्योंकि सरकारी विभागों की साइट्स पर यह जानकारी प्रामाणिकता में उपलब्ध होती है। हमें विश्वास है कि विभिन्न परीक्षाओं में प्रविष्टि होने वाले वे छात्र, जो कक्षा पांच से कक्षा नौ में अध्ययनरत हैं, प्रस्तुत पुस्तक की सरल भाषा व निबंध लेखन के क्रमबद्ध संयोजन को आसानी से समझ पाएंगे व हर दृष्टि से लाभान्वित होंगे। इस पुस्तक में व्यक्ति विशेष, घटना विशेष व ज्ञान-विज्ञान विशेष पर आधारित नवीनतम निबंधों को अनुक्रम में स्थान दिया गया है, जिनकी प्रासंगिकता असंदिग्ध है, फिर भी हम अपने प्रयास में कहां तक सफल हो पाएं हैं, इसका निर्णय आप ही कर सकते हैं। आपके सुझावों का स्वागत है। आप निस्संकोच अपनी राय लेखक व प्रकाशक को अधोलिखित पते पर भेज सकते हैं।",
+
+  "expressions": [
+    {
+      "text": "निबंध का अंत आकर्षक व प्रभावशाली होगा",
+      "normalized": "निबंध का अंत आकर्षक व प्रभावशाली होगा",
+      "meaning_ja": "作文の結びが魅力的で印象的である",
+      "type": "academic_expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "पाठक पर अपनी गहरी छाप छोड़ेगा",
+      "normalized": "पाठक पर अपनी गहरी छाप छोड़ेगा",
+      "meaning_ja": "読者に深い印象を残すだろう",
+      "type": "academic_expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "विषय पर आपकी पकड़ को साबित कर सकेगा",
+      "normalized": "विषय पर आपकी पकड़ को साबित कर सकेगा",
+      "meaning_ja": "テーマに対する理解の深さを証明できるだろう",
+      "type": "academic_expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "आप निस्संकोच अपनी राय लेखक व प्रकाशक को अधोलिखित पते पर भेज सकते हैं",
+      "normalized": "आप निस्संकोच अपनी राय लेखक व प्रकाशक को अधोलिखित पते पर भेज सकते हैं",
+      "meaning_ja": "遠慮なくご意見を著者および出版社へ下記住所に送ることができます",
+      "type": "formal_instruction",
+      "importance": 4,
+      "status": "active"
+    }
+  ],
+
+  "vocab_candidates": [
+    {
+      "word": "निस्संदेह",
+      "normalized": "निस्संदेह",
+      "pos": "副詞",
+      "meaning_ja": "疑いなく、間違いなく",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "छाप",
+      "normalized": "छाप",
+      "pos": "名詞（女）",
+      "meaning_ja": "印象、跡、刻印",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "सारांश",
+      "normalized": "सारांश",
+      "pos": "名詞（男）",
+      "meaning_ja": "要約、概要",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "सिद्ध",
+      "normalized": "सिद्ध",
+      "pos": "形容詞・分詞",
+      "meaning_ja": "証明された、確立された",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "व्यक्तिगत",
+      "normalized": "व्यक्तिगत",
+      "pos": "形容詞",
+      "meaning_ja": "個人的な",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "सम्मति",
+      "normalized": "सम्मति",
+      "pos": "名詞（女）",
+      "meaning_ja": "意見、同意、見解",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "समर्थन",
+      "normalized": "समर्थन",
+      "pos": "名詞（男）",
+      "meaning_ja": "支持、裏づけ",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "महापुरुष",
+      "normalized": "महापुरुष",
+      "pos": "名詞（男）",
+      "meaning_ja": "偉人、偉大な人物",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "कथन",
+      "normalized": "कथन",
+      "pos": "名詞（男）",
+      "meaning_ja": "発言、言明",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "पकड़",
+      "normalized": "पकड़",
+      "pos": "名詞（女）",
+      "meaning_ja": "把握、理解、掌握",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "शीर्षांकित",
+      "normalized": "शीर्षांकित",
+      "pos": "形容詞・分詞",
+      "meaning_ja": "題名を付けられた、表題化された",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "निदान",
+      "normalized": "निदान",
+      "pos": "名詞（男）",
+      "meaning_ja": "解決、診断、対処法",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "उपाय",
+      "normalized": "उपाय",
+      "pos": "名詞（男）",
+      "meaning_ja": "方法、対策、手段",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "विकल्प",
+      "normalized": "विकल्प",
+      "pos": "名詞（男）",
+      "meaning_ja": "選択肢、代替案",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "उपलब्ध",
+      "normalized": "उपलब्ध",
+      "pos": "形容詞",
+      "meaning_ja": "利用可能な、入手可能な",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "चयन",
+      "normalized": "चयन",
+      "pos": "名詞（男）",
+      "meaning_ja": "選択、選定",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "मन-मस्तिष्क",
+      "normalized": "मन_मस्तिष्क",
+      "pos": "名詞句",
+      "meaning_ja": "心と頭、心身の思考",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "संकेत",
+      "normalized": "संकेत",
+      "pos": "名詞（男）",
+      "meaning_ja": "手がかり、ヒント、ポイント",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "हस्तलिपि",
+      "normalized": "हस्तलिपि",
+      "pos": "名詞（女）",
+      "meaning_ja": "手書き文字、筆跡",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "वर्तनी",
+      "normalized": "वर्तनी",
+      "pos": "名詞（女）",
+      "meaning_ja": "綴り、正書法",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "विराम चिन्ह",
+      "normalized": "विराम_चिन्ह",
+      "pos": "名詞句",
+      "meaning_ja": "句読点、約物",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "भरसक",
+      "normalized": "भरसक",
+      "pos": "副詞",
+      "meaning_ja": "できる限り、精一杯",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "पालन",
+      "normalized": "पालन",
+      "pos": "名詞（男）",
+      "meaning_ja": "遵守、守ること",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "सुगठित",
+      "normalized": "सुगठित",
+      "pos": "形容詞",
+      "meaning_ja": "よく整った、構成のしっかりした",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "प्रवाह",
+      "normalized": "प्रवाह",
+      "pos": "名詞（男）",
+      "meaning_ja": "流れ、流暢さ",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "निखार",
+      "normalized": "निखार",
+      "pos": "名詞（男）",
+      "meaning_ja": "磨き、洗練、向上",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "मनन",
+      "normalized": "मनन",
+      "pos": "名詞（男）",
+      "meaning_ja": "熟考、思索",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "सोने पर सुहागा",
+      "normalized": "सोने_पर_सुहागा",
+      "pos": "慣用句",
+      "meaning_ja": "さらに素晴らしいこと、鬼に金棒",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "सांख्यिकी",
+      "normalized": "सांख्यिकी",
+      "pos": "名詞（女）",
+      "meaning_ja": "統計、統計学",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "अपेक्षित",
+      "normalized": "अपेक्षित",
+      "pos": "形容詞・分詞",
+      "meaning_ja": "期待された、必要とされる",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "प्रामाणिकता",
+      "normalized": "प्रामाणिकता",
+      "pos": "名詞（女）",
+      "meaning_ja": "信頼性、真正性、正確性",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "प्रविष्टि",
+      "normalized": "प्रविष्टि",
+      "pos": "名詞（女）",
+      "meaning_ja": "参加、受験、入場",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "अध्ययनरत",
+      "normalized": "अध्ययनरत",
+      "pos": "形容詞・分詞",
+      "meaning_ja": "在学中の、学習中の",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "संयोजन",
+      "normalized": "संयोजन",
+      "pos": "名詞（男）",
+      "meaning_ja": "構成、組み合わせ、配列",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "लाभान्वित",
+      "normalized": "लाभान्वित",
+      "pos": "形容詞・分詞",
+      "meaning_ja": "恩恵を受けた、有益となった",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "अनुक्रम",
+      "normalized": "अनुक्रम",
+      "pos": "名詞（男）",
+      "meaning_ja": "順序、配列、目次順",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "प्रासंगिकता",
+      "normalized": "प्रासंगिकता",
+      "pos": "名詞（女）",
+      "meaning_ja": "関連性、妥当性",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "असंदिग्ध",
+      "normalized": "असंदिग्ध",
+      "pos": "形容詞",
+      "meaning_ja": "疑いのない、明白な",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "निस्संकोच",
+      "normalized": "निस्संकोच",
+      "pos": "副詞",
+      "meaning_ja": "遠慮なく、ためらわずに",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "प्रकाशक",
+      "normalized": "प्रकाशक",
+      "pos": "名詞（男）",
+      "meaning_ja": "出版社、発行者",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "अधोलिखित",
+      "normalized": "अधोलिखित",
+      "pos": "形容詞・分詞",
+      "meaning_ja": "下記の、以下に記された",
+      "importance": 4,
+      "status": "active"
+    }
+  ],
+
+  "meta": {
+    "source_type": "manual_curated",
+    "reading_genre": "academic",
+    "dedupe_ready": true
+  }
+}

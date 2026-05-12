@@ -1,0 +1,342 @@
+{
+  "id": "academic_007",
+  "schema_version": 1,
+
+  "title": "प्राक्कथन",
+  "author": "Chentan Prakash Sharma",
+  "source": "201 सर्वश्रेष्ठ निबंध",
+  "year": 2024,
+
+  "genre": "textbook",
+  "register": "academic_prose",
+
+  "category": "読解",
+
+  "tags": [
+    "教科書",
+    "作文",
+    "抽象語"
+  ],
+
+  "key_phrase": "इसके लिए आवश्यक होगा कि विषयवस्तु की रूपरेखा बनाकर उसे अलग-अलग अनुच्छेदों द्वारा लिखा जाए।",
+
+  "text": "निबंध के मुख्य प्रकार विवरणात्मक : ये वे निबंध होते हैं, जो घटनाओं, यात्राओं व व्यक्ति विशेष के संदर्भ में संस्मरणों का विवरण प्रस्तुत करते हैं। वर्णनात्मक : नगर विशेष, ऋतु विशेष व वस्तुविशेष इत्यादि का विवरण इस श्रेणी में आता है। विचारात्मक : जब निबंध की विषयवस्तु उसके पक्ष-विपक्ष, नकारात्मक-सकारात्मक अथवा लाभ-हानि दोनों के विषय में विवरण प्रस्तुत करे। भावनात्मक : इस प्रकार के निबंधों में सूक्तियों पर, उनका विस्तार करते हुए अपनी भावनाएं व्यक्त की जाती हैं। जैसे: 'आप भला to जग भला', 'सुखार्थिनः कुतो विद्या, नास्ति विद्यार्थिनः सुखम्' इत्यादि। श्रेष्ठ निबंध लेखन की पद्धति □ निबंध के विषय की भूमिका या प्रस्तावना □ निबंध की विषयवस्तु (मध्य भाग) □ निबंध के अंत में निष्कर्ष अथवा उपसंहार निबंध की उपरोक्त पद्धति को लेखन के समय किस प्रकार व किस रीति से सम्मिलित किया जाए, उसे यहां विशेष रूप से स्पष्ट किया गया है: आरंभ व प्रस्तावना : इसमें संदेह नहीं कि निबंध का प्रारंभ जितना प्रभावशाली व आकर्षक होगा, वह उतना ही श्रेष्ठ माना जाएगा। निबंध का आरंभ पाठक के हृदय मस्तिष्क में रुचि व उत्सुकता जाग्रत करे, यह अनिवार्य प्राथमिकता होनी चाहिए। अतः निबंध का प्रारंभ किसी सूक्ति विशेष या उद्धरण या काव्य पंक्ति से किया जाता है, जिसके तुरंत पश्चात् ही निबंध के विषय का अर्थ स्पष्ट करते हुए उसके ऐतिहासिक महत्व को दिग्दर्शित करना चाहिए। निबंध का बीस प्रतिशत भाग प्रस्तावना के लिए सुनिश्चित करना चाहिए। निबंध की विषयवस्तु (मध्य भाग ): निबंध की विषयवस्तु को उसके मध्य भाग में क्रमबद्धता का ध्यान रखते हुए अपने मौलिक विचारों के साथ सामंजस्य स्थापित करते हुए व्यक्त करना चाहिए। इसके लिए आवश्यक होगा कि विषयवस्तु की रूपरेखा बनाकर उसे अलग-अलग अनुच्छेदों द्वारा लिखा जाए। लेकिन अनुच्छेदों का तारतम्य अथवा जुड़ाव होना चाहिए, जो विषयवस्तु की क्रमबद्धता का आभास दें। विशेष यह कि किसी भी बात के दोहराव से बचना चाहिए एवं सूचना का उल्लेख हो तो वह कदापि भी गलत नहीं होना चाहिए।",
+
+  "expressions": [
+    {
+      "text": "निबंध के मुख्य प्रकार",
+      "normalized": "निबंध के मुख्य प्रकार",
+      "meaning_ja": "作文の主要な種類",
+      "type": "academic_expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "निबंध की विषयवस्तु को उसके मध्य भाग में क्रमबद्धता का ध्यान रखते हुए व्यक्त करना चाहिए",
+      "normalized": "निबंध की विषयवस्तु को उसके मध्य भाग में क्रमबद्धता का ध्यान रखते हुए व्यक्त करना चाहिए",
+      "meaning_ja": "作文の内容は、中盤部分で秩序立てて表現すべきである",
+      "type": "instruction",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "इसके लिए आवश्यक होगा कि विषयवस्तु की रूपरेखा बनाकर उसे अलग-अलग अनुच्छेदों द्वारा लिखा जाए",
+      "normalized": "इसके लिए आवश्यक होगा कि विषयवस्तु की रूपरेखा बनाकर उसे अलग अलग अनुच्छेदों द्वारा लिखा जाए",
+      "meaning_ja": "そのためには、内容のアウトラインを作り、別々の段落によって書く必要がある",
+      "type": "academic_expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "किसी भी बात के दोहराव से बचना चाहिए",
+      "normalized": "किसी भी बात के दोहराव से बचना चाहिए",
+      "meaning_ja": "どのような内容でも繰り返しを避けるべきである",
+      "type": "instruction",
+      "importance": 4,
+      "status": "active"
+    }
+  ],
+
+  "vocab_candidates": [
+    {
+      "word": "विवरणात्मक",
+      "normalized": "विवरणात्मक",
+      "pos": "形容詞",
+      "meaning_ja": "説明的な、叙述的な",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "वर्णनात्मक",
+      "normalized": "वर्णनात्मक",
+      "pos": "形容詞",
+      "meaning_ja": "描写的な、記述的な",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "विचारात्मक",
+      "normalized": "विचारात्मक",
+      "pos": "形容詞",
+      "meaning_ja": "論考的な、思索的な",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "भावनात्मक",
+      "normalized": "भावनात्मक",
+      "pos": "形容詞",
+      "meaning_ja": "感情的な、情緒的な",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "संस्मरण",
+      "normalized": "संस्मरण",
+      "pos": "名詞（男）",
+      "meaning_ja": "回想録、思い出の記録",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "श्रेणी",
+      "normalized": "श्रेणी",
+      "pos": "名詞（女）",
+      "meaning_ja": "分類、カテゴリー",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "पक्ष-विपक्ष",
+      "normalized": "पक्ष_विपक्ष",
+      "pos": "名詞句",
+      "meaning_ja": "賛否、両論",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "नकारात्मक",
+      "normalized": "नकारात्मक",
+      "pos": "形容詞",
+      "meaning_ja": "否定的な、マイナスの",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "सकारात्मक",
+      "normalized": "सकारात्मक",
+      "pos": "形容詞",
+      "meaning_ja": "肯定的な、前向きな",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "सूक्ति",
+      "normalized": "सूक्ति",
+      "pos": "名詞（女）",
+      "meaning_ja": "格言、警句",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "निष्कर्ष",
+      "normalized": "निष्कर्ष",
+      "pos": "名詞（男）",
+      "meaning_ja": "結論",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "उपसंहार",
+      "normalized": "उपसंहार",
+      "pos": "名詞（男）",
+      "meaning_ja": "結び、締めくくり",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "सम्मिलित",
+      "normalized": "सम्मिलित",
+      "pos": "形容詞・分詞",
+      "meaning_ja": "含まれた、組み込まれた",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "स्पष्ट",
+      "normalized": "स्पष्ट",
+      "pos": "形容詞",
+      "meaning_ja": "明確な、はっきりした",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "प्रारंभ",
+      "normalized": "प्रारंभ",
+      "pos": "名詞（男）",
+      "meaning_ja": "始まり、開始",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "आकर्षक",
+      "normalized": "आकर्षक",
+      "pos": "形容詞",
+      "meaning_ja": "魅力的な",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "रुचि",
+      "normalized": "रुचि",
+      "pos": "名詞（女）",
+      "meaning_ja": "興味、関心",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "उत्सुकता",
+      "normalized": "उत्सुकता",
+      "pos": "名詞（女）",
+      "meaning_ja": "好奇心、熱意",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "जाग्रत",
+      "normalized": "जाग्रत",
+      "pos": "形容詞",
+      "meaning_ja": "喚起された、目覚めた",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "अनिवार्य",
+      "normalized": "अनिवार्य",
+      "pos": "形容詞",
+      "meaning_ja": "不可欠な、必須の",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "प्राथमिकता",
+      "normalized": "प्राथमिकता",
+      "pos": "名詞（女）",
+      "meaning_ja": "優先事項、優先性",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "पश्चात्",
+      "normalized": "पश्चात",
+      "display": "पश्चात्",
+      "variants": ["पश्चात्", "पश्चात"],
+      "pos": "後置詞",
+      "meaning_ja": "〜の後で",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "ऐतिहासिक",
+      "normalized": "ऐतिहासिक",
+      "pos": "形容詞",
+      "meaning_ja": "歴史的な",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "दिग्दर्शित",
+      "normalized": "दिग्दर्शित",
+      "pos": "形容詞・分詞",
+      "meaning_ja": "示された、指し示された",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "सुनिश्चित",
+      "normalized": "सुनिश्चित",
+      "pos": "形容詞",
+      "meaning_ja": "確実な、保証された",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "मौलिक",
+      "normalized": "मौलिक",
+      "pos": "形容詞",
+      "meaning_ja": "独創的な、オリジナルの",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "सामंजस्य",
+      "normalized": "सामंजस्य",
+      "pos": "名詞（男）",
+      "meaning_ja": "調和、一致",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "रूपरेखा",
+      "normalized": "रूपरेखा",
+      "pos": "名詞（女）",
+      "meaning_ja": "アウトライン、概要",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "अनुच्छेद",
+      "normalized": "अनुच्छेद",
+      "pos": "名詞（男）",
+      "meaning_ja": "段落、パラグラフ",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "तारतम्य",
+      "normalized": "तारतम्य",
+      "pos": "名詞（男）",
+      "meaning_ja": "整合性、連続性",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "आभास",
+      "normalized": "आभास",
+      "pos": "名詞（男）",
+      "meaning_ja": "感じ、印象",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "दोहराव",
+      "normalized": "दोहराव",
+      "pos": "名詞（男）",
+      "meaning_ja": "繰り返し、反復",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "उल्लेख",
+      "normalized": "उल्लेख",
+      "pos": "名詞（男）",
+      "meaning_ja": "言及、記載",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "कदापि",
+      "normalized": "कदापि",
+      "pos": "副詞",
+      "meaning_ja": "決して、絶対に",
+      "importance": 4,
+      "status": "active"
+    }
+  ],
+
+  "meta": {
+    "source_type": "manual_curated",
+    "reading_genre": "academic",
+    "dedupe_ready": true
+  }
+}

@@ -60,6 +60,66 @@
     "sourceRegister": "academic_prose"
   },
   {
+    "text": "आप निस्संकोच अपनी राय लेखक व प्रकाशक को अधोलिखित पते पर भेज सकते हैं",
+    "normalized": "आप निस्संकोच अपनी राय लेखक व प्रकाशक को अधोलिखित पते पर भेज सकते हैं",
+    "meaning_ja": "遠慮なくご意見を著者および出版社へ下記住所に送ることができます",
+    "type": "formal_instruction",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "作文",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_008"
+    ],
+    "sourceTitle": "प्राक्कथन",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "text": "इन समस्याओं के समाधान के लिए यूनीकोड तैयार किया गया",
+    "normalized": "इन समस्याओं के समाधान के लिए यूनीकोड तैयार किया गया",
+    "meaning_ja": "これらの問題の解決のため Unicode が整備された",
+    "type": "technical_expression",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "言語政策",
+      "政府文書"
+    ],
+    "sourceIds": [
+      "academic_009"
+    ],
+    "sourceTitle": "हिंदी वर्तनी का मानकीकरण",
+    "sourceGenre": "government_document",
+    "sourceRegister": "government_formal"
+  },
+  {
+    "text": "इसके लिए आवश्यक होगा कि विषयवस्तु की रूपरेखा बनाकर उसे अलग-अलग अनुच्छेदों द्वारा लिखा जाए",
+    "normalized": "इसके लिए आवश्यक होगा कि विषयवस्तु की रूपरेखा बनाकर उसे अलग अलग अनुच्छेदों द्वारा लिखा जाए",
+    "meaning_ja": "そのためには、内容のアウトラインを作り、別々の段落によって書く必要がある",
+    "type": "academic_expression",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "作文",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_007"
+    ],
+    "sourceTitle": "प्राक्कथन",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
     "text": "उसका पति दुनिया का सबसे बड़ा मूर्ख है",
     "normalized": "उसका पति दुनिया का सबसे बड़ा मूर्ख है",
     "meaning_ja": "彼女の夫は世界一の愚か者だ",
@@ -118,6 +178,26 @@
     "sourceTitle": "बंदर और मगरमच्छ",
     "sourceGenre": "story",
     "sourceRegister": "simple_narrative"
+  },
+  {
+    "text": "किसी भी बात के दोहराव से बचना चाहिए",
+    "normalized": "किसी भी बात के दोहराव से बचना चाहिए",
+    "meaning_ja": "どのような内容でも繰り返しを避けるべきである",
+    "type": "instruction",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "作文",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_007"
+    ],
+    "sourceTitle": "प्राक्कथन",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
   },
   {
     "text": "कुसंगति को त्याग कर सत्संगति को अपना लेना चाहिए",
@@ -180,6 +260,26 @@
     "sourceRegister": "simple_narrative"
   },
   {
+    "text": "नई दिशा प्रशस्त करेगा",
+    "normalized": "नई दिशा प्रशस्त करेगा",
+    "meaning_ja": "新たな方向を切り開くだろう",
+    "type": "formal_expression",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "言語政策",
+      "政府文書"
+    ],
+    "sourceIds": [
+      "academic_009"
+    ],
+    "sourceTitle": "हिंदी वर्तनी का मानकीकरण",
+    "sourceGenre": "government_document",
+    "sourceRegister": "government_formal"
+  },
+  {
     "text": "'निबंध' अर्थात् नि+बंध दो शब्दों की संधि से बना है",
     "normalized": "निबंध अर्थात नि बंध दो शब्दों की संधि से बना है",
     "meaning_ja": "『निबंध』は、नि＋बंध という二語の結合からできている",
@@ -194,6 +294,66 @@
     ],
     "sourceIds": [
       "academic_006"
+    ],
+    "sourceTitle": "प्राक्कथन",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "text": "निबंध का अंत आकर्षक व प्रभावशाली होगा",
+    "normalized": "निबंध का अंत आकर्षक व प्रभावशाली होगा",
+    "meaning_ja": "作文の結びが魅力的で印象的である",
+    "type": "academic_expression",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "作文",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_008"
+    ],
+    "sourceTitle": "प्राक्कथन",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "text": "निबंध की विषयवस्तु को उसके मध्य भाग में क्रमबद्धता का ध्यान रखते हुए व्यक्त करना चाहिए",
+    "normalized": "निबंध की विषयवस्तु को उसके मध्य भाग में क्रमबद्धता का ध्यान रखते हुए व्यक्त करना चाहिए",
+    "meaning_ja": "作文の内容は、中盤部分で秩序立てて表現すべきである",
+    "type": "instruction",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "作文",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_007"
+    ],
+    "sourceTitle": "प्राक्कथन",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "text": "निबंध के मुख्य प्रकार",
+    "normalized": "निबंध के मुख्य प्रकार",
+    "meaning_ja": "作文の主要な種類",
+    "type": "academic_expression",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "作文",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_007"
     ],
     "sourceTitle": "प्राक्कथन",
     "sourceGenre": "textbook",
@@ -217,6 +377,26 @@
     ],
     "sourceTitle": "व्यायाम के लाभ",
     "sourceGenre": "essay",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "text": "पाठक पर अपनी गहरी छाप छोड़ेगा",
+    "normalized": "पाठक पर अपनी गहरी छाप छोड़ेगा",
+    "meaning_ja": "読者に深い印象を残すだろう",
+    "type": "academic_expression",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "作文",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_008"
+    ],
+    "sourceTitle": "प्राक्कथन",
+    "sourceGenre": "textbook",
     "sourceRegister": "academic_prose"
   },
   {
@@ -258,6 +438,26 @@
     "sourceTitle": "व्यायाम के लाभ",
     "sourceGenre": "essay",
     "sourceRegister": "academic_prose"
+  },
+  {
+    "text": "भाषा में एकरूपता लाने के लिए इस मानकीकरण को आधिकारिक रूप से अपनाया",
+    "normalized": "भाषा में एकरूपता लाने के लिए इस मानकीकरण को आधिकारिक रूप से अपनाया",
+    "meaning_ja": "言語に統一性をもたらすため、この標準化が公式に採用された",
+    "type": "government_expression",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "言語政策",
+      "政府文書"
+    ],
+    "sourceIds": [
+      "academic_009"
+    ],
+    "sourceTitle": "हिंदी वर्तनी का मानकीकरण",
+    "sourceGenre": "government_document",
+    "sourceRegister": "government_formal"
   },
   {
     "text": "मनुष्य को मनुष्य बने रहने की कोशिश हमेशा करनी चाहिए",
@@ -380,6 +580,26 @@
     "sourceRegister": "academic_prose"
   },
   {
+    "text": "विचार-विमर्श करके प्रारंभ किया गया",
+    "normalized": "विचार विमर्श करके प्रारंभ किया गया",
+    "meaning_ja": "協議を経て開始された",
+    "type": "formal_expression",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "言語政策",
+      "政府文書"
+    ],
+    "sourceIds": [
+      "academic_009"
+    ],
+    "sourceTitle": "हिंदी वर्तनी का मानकीकरण",
+    "sourceGenre": "government_document",
+    "sourceRegister": "government_formal"
+  },
+  {
     "text": "विद्यार्थियों के बौद्धिक विकास में विशेष रूप से सहायक होता है",
     "normalized": "विद्यार्थियों के बौद्धिक विकास में विशेष रूप से सहायक होता है",
     "meaning_ja": "学生の知的発達に特に役立つ",
@@ -394,6 +614,26 @@
     ],
     "sourceIds": [
       "academic_006"
+    ],
+    "sourceTitle": "प्राक्कथन",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "text": "विषय पर आपकी पकड़ को साबित कर सकेगा",
+    "normalized": "विषय पर आपकी पकड़ को साबित कर सकेगा",
+    "meaning_ja": "テーマに対する理解の深さを証明できるだろう",
+    "type": "academic_expression",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "作文",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_008"
     ],
     "sourceTitle": "प्राक्कथन",
     "sourceGenre": "textbook",

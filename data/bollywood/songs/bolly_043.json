@@ -1,0 +1,310 @@
+{
+  "id": "bolly_043",
+  "schema_version": 2,
+  "title": "Ruaan",
+  "film": "Tiger 3",
+  "year": 2023,
+  "singer": [
+    "Arijit Singh"
+  ],
+  "lyricist": [
+    "Irshad Kamil"
+  ],
+  "composer": [
+    "Pritam"
+  ],
+  "notes": [
+    "サルマン"
+  ],
+  "tags": [
+    "恋愛"
+  ],
+  "emotion": "love_pain",
+  "register": "romantic_poetic",
+  "key_phrase": "मेरा रुआँ रुआँ अब तेरे ना लिखना",
+
+  "expressions": [
+    {
+      "text": "मेरा रुआँ रुआँ अब तेरे ना लिखना",
+      "normalized": "मेरा रुआं रुआं अब तेरे ना लिखना",
+      "meaning_ja": "私の存在の一片一片に、もう君を書き込まないで",
+      "type": "key_phrase",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "बातों के धागे मीठे से लागे",
+      "normalized": "बातों के धागे मीठे से लागे",
+      "meaning_ja": "言葉の糸が甘く絡みつく",
+      "type": "poetic_expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "मिस्री सी टूटे यार तू",
+      "normalized": "मिस्री सी टूटे यार तू",
+      "meaning_ja": "君は氷砂糖のように砕ける",
+      "type": "metaphor",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "इश्क गहरा मेरा तुझपे पेहरा मेरा",
+      "normalized": "इश्क गहरा मेरा तुझपे पहरा मेरा",
+      "meaning_ja": "私の愛は深く、君の上には私の見張りがある",
+      "type": "romantic_expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "राहों में है माना धुआँ ही धुआँ",
+      "normalized": "राहों में है माना धुआं ही धुआं",
+      "meaning_ja": "道には確かに煙ばかりが立ち込めている",
+      "type": "metaphor",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "हक भी तुझपे शक भी तुझपे",
+      "normalized": "हक भी तुझपे शक भी तुझपे",
+      "meaning_ja": "君への権利も、君への疑いもある",
+      "type": "emotional_conflict",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "मुझको तो सुध-बुध रही ना",
+      "normalized": "मुझको तो सुध बुध रही ना",
+      "meaning_ja": "私はもう正気も分別も失ってしまった",
+      "type": "poetic_expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "तू बदल देती है मौसम",
+      "normalized": "तू बदल देती है मौसम",
+      "meaning_ja": "君は季節さえ変えてしまう",
+      "type": "metaphor",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "जख्म तू है तू है मरहम",
+      "normalized": "जख्म तू है तू है मरहम",
+      "meaning_ja": "君は傷でもあり、癒やしでもある",
+      "type": "contrast_expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "आग सुलगे चाहतों की",
+      "normalized": "आग सुलगे चाहतों की",
+      "meaning_ja": "欲望の炎が燃え上がる",
+      "type": "metaphor",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "यारा है तेरे निशान ही निशान",
+      "normalized": "यारा है तेरे निशान ही निशान",
+      "meaning_ja": "友よ、どこもかしこも君の痕跡ばかりだ",
+      "type": "poetic_expression",
+      "importance": 4,
+      "status": "active"
+    }
+  ],
+
+  "vocab_candidates": [
+    {
+      "word": "हरजाई",
+      "normalized": "हरजाई",
+      "pos": "形容詞・名詞",
+      "meaning_ja": "浮気な、不実な人",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "अखियाँ",
+      "normalized": "अंखियां",
+      "display": "अंखियां",
+      "variants": ["अखियाँ"],
+      "pos": "名詞（女・複）",
+      "meaning_ja": "目、まなざし",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "अलसाई",
+      "normalized": "अलसाना",
+      "display": "अलसाना",
+      "pos": "形容詞・分詞",
+      "meaning_ja": "けだるい、眠たげな",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "लुटे",
+      "normalized": "लूटना",
+      "display": "लूटना",
+      "pos": "他動詞",
+      "meaning_ja": "奪う、略奪する、心を奪う",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "धागे",
+      "normalized": "धागा",
+      "display": "धागा",
+      "pos": "名詞（男・複）",
+      "meaning_ja": "糸、つながり",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "मिस्री",
+      "normalized": "मिस्री",
+      "pos": "名詞（女）",
+      "meaning_ja": "氷砂糖",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "पेहरा",
+      "normalized": "पहरा",
+      "display": "पहरा",
+      "variants": ["पेहरा"],
+      "pos": "名詞（男）",
+      "meaning_ja": "見張り、監視",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "धुआँ",
+      "normalized": "धुआं",
+      "display": "धुआं",
+      "variants": ["धुआँ"],
+      "pos": "名詞（男）",
+      "meaning_ja": "煙",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "रुआँ",
+      "normalized": "रुआं",
+      "display": "रुआं",
+      "variants": ["रुआँ"],
+      "pos": "名詞（男）",
+      "meaning_ja": "身体の一片一片、毛穴の一本一本、存在の細部",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "हक",
+      "normalized": "हक",
+      "pos": "名詞（男）",
+      "meaning_ja": "権利、資格",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "शक",
+      "normalized": "शक",
+      "pos": "名詞（男）",
+      "meaning_ja": "疑い、不信",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "सुध-बुध",
+      "normalized": "सुध_बुध",
+      "pos": "名詞句",
+      "meaning_ja": "正気、分別、意識",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "उलझन",
+      "normalized": "उलझन",
+      "pos": "名詞（女）",
+      "meaning_ja": "混乱、もつれ、葛藤",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "जख्म",
+      "normalized": "जख्म",
+      "pos": "名詞（男）",
+      "meaning_ja": "傷、心の傷",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "मरहम",
+      "normalized": "मरहम",
+      "pos": "名詞（男）",
+      "meaning_ja": "軟膏、癒やし",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "सुलगे",
+      "normalized": "सुलगना",
+      "display": "सुलगना",
+      "pos": "自動詞",
+      "meaning_ja": "くすぶる、燃え上がる",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "चाहतों",
+      "normalized": "चाहत",
+      "display": "चाहत",
+      "pos": "名詞（女・複）",
+      "meaning_ja": "願い、愛情、欲望",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "राहतों",
+      "normalized": "राहत",
+      "display": "राहत",
+      "pos": "名詞（女・複）",
+      "meaning_ja": "安らぎ、安心、救い",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "निशान",
+      "normalized": "निशान",
+      "pos": "名詞（男）",
+      "meaning_ja": "痕跡、印",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "हंजू",
+      "normalized": "हंजू",
+      "pos": "名詞（男）",
+      "meaning_ja": "涙（パンジャービー系）",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "छड",
+      "normalized": "छोड़ना",
+      "display": "छोड़ना",
+      "variants": ["छड","छड्ड"],
+      "pos": "他動詞",
+      "meaning_ja": "離す、手放す",
+      "importance": 3,
+      "status": "active"
+    }
+  ],
+
+  "meta": {
+    "copyright_safe": true,
+    "lyrics_included": false,
+    "source_type": "manual_curated",
+    "dedupe_ready": true
+  }
+}

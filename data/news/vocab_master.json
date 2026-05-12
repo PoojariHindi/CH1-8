@@ -4726,5 +4726,341 @@
     "sourceCount": 1,
     "frequency": 1,
     "notes": ""
+  },
+  {
+    "word": "व्रत",
+    "normalized": "व्रत",
+    "pos": "名詞（男）",
+    "meaning_ja": "断食戒、宗教的な斎戒",
+    "category": "文化・宗教",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news015DJ20260512_Vrat"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "पौराणिक",
+    "normalized": "पौराणिक",
+    "pos": "形容詞",
+    "meaning_ja": "神話・プラーナに関する",
+    "category": "文化・宗教",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news015DJ20260512_Vrat"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "अनुष्ठान",
+    "normalized": "अनुष्ठान",
+    "pos": "名詞（男）",
+    "meaning_ja": "宗教儀礼、祭式",
+    "category": "文化・宗教",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news015DJ20260512_Vrat"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "प्रदक्षिणा",
+    "normalized": "प्रदक्षिणा",
+    "pos": "名詞（女）",
+    "meaning_ja": "右回り巡礼、周回礼拝",
+    "category": "文化・宗教",
+    "difficulty": 5,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news015DJ20260512_Vrat"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "संकल्प",
+    "normalized": "संकल्प",
+    "pos": "名詞（男）",
+    "meaning_ja": "誓願、宗教的決意",
+    "category": "文化・宗教",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news015DJ20260512_Vrat"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "विसर्जन",
+    "normalized": "विसर्जन",
+    "pos": "名詞（男）",
+    "meaning_ja": "儀礼終了・送還、（神像の）流し送り",
+    "category": "文化・宗教",
+    "difficulty": 5,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news015DJ20260512_Vrat"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "प्रतिष्ठा",
+    "normalized": "प्रतिष्ठा",
+    "pos": "名詞（女）",
+    "meaning_ja": "安置、建立、権威",
+    "category": "文化・宗教",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news015DJ20260512_Vrat"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "प्राण प्रतिष्ठा",
+    "normalized": "प्राण_प्रतिष्ठा",
+    "pos": "名詞（女）",
+    "meaning_ja": "開眼供養、神像への魂入れ儀礼",
+    "category": "文化・宗教",
+    "difficulty": 5,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news015DJ20260512_Vrat"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "आयुवृद्धि",
+    "normalized": "आयुवृद्धि",
+    "pos": "名詞（女）",
+    "meaning_ja": "寿命延長、長寿",
+    "category": "文化・宗教",
+    "difficulty": 5,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news015DJ20260512_Vrat"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "ब्रह्मचर्य",
+    "normalized": "ब्रह्मचर्य",
+    "pos": "名詞（男）",
+    "meaning_ja": "禁欲、清浄な生活規律",
+    "category": "文化・宗教",
+    "difficulty": 5,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news015DJ20260512_Vrat"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "अमावस्या",
+    "normalized": "अमावस्या",
+    "pos": "名詞（女）",
+    "meaning_ja": "新月",
+    "category": "文化・宗教",
+    "difficulty": 4,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news015DJ20260512_Vrat"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "पूर्णिमा",
+    "normalized": "पूर्णिमा",
+    "pos": "名詞（女）",
+    "meaning_ja": "満月",
+    "category": "文化・宗教",
+    "difficulty": 4,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news015DJ20260512_Vrat"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "पंचांग",
+    "normalized": "पंचांग",
+    "pos": "名詞（男）",
+    "meaning_ja": "インド暦、暦書",
+    "category": "文化・宗教",
+    "difficulty": 4,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news015DJ20260512_Vrat"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "विहित",
+    "normalized": "विहित",
+    "pos": "形容詞・分詞",
+    "meaning_ja": "規定された、定められた",
+    "category": "文化・宗教",
+    "difficulty": 5,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news015DJ20260512_Vrat"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "मान्यता",
+    "normalized": "मान्यता",
+    "pos": "名詞（女）",
+    "meaning_ja": "信仰上の通念、一般的信念",
+    "category": "文化・宗教",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news015DJ20260512_Vrat"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "विधान",
+    "normalized": "विधान",
+    "pos": "名詞（男）",
+    "meaning_ja": "儀礼規定、定め、方式",
+    "category": "文化・宗教",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news015DJ20260512_Vrat"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "पालन",
+    "normalized": "पालन",
+    "pos": "名詞（男）",
+    "meaning_ja": "遵守、実行",
+    "category": "文化・宗教",
+    "difficulty": 3,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news015DJ20260512_Vrat"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "परंपरा",
+    "normalized": "परंपरा",
+    "pos": "名詞（女）",
+    "meaning_ja": "伝統、慣習",
+    "category": "文化・宗教",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news015DJ20260512_Vrat"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "सामर्थ्य",
+    "normalized": "सामर्थ्य",
+    "pos": "名詞（男）",
+    "meaning_ja": "力、能力",
+    "category": "文化・宗教",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news015DJ20260512_Vrat"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "श्रृंखला",
+    "normalized": "श्रृंखला",
+    "pos": "名詞（女）",
+    "meaning_ja": "連なり、系列、シリーズ",
+    "category": "文化・宗教",
+    "difficulty": 4,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news015DJ20260512_Vrat"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
+  },
+  {
+    "word": "अध्याय",
+    "normalized": "अध्याय",
+    "pos": "名詞（男）",
+    "meaning_ja": "章、節",
+    "category": "文化・宗教",
+    "difficulty": 3,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news015DJ20260512_Vrat"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": ""
   }
 ]

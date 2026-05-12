@@ -1,794 +1,642 @@
 {
   "summary": {
-    "candidateFiles": 7,
-    "totalCandidates": 120,
-    "newCandidates": 34,
-    "existingCandidates": 86,
+    "candidateFiles": 10,
+    "totalCandidates": 224,
+    "newCandidates": 27,
+    "existingCandidates": 197,
     "duplicateCandidates": 0,
     "hardStopwords": 0,
     "softStopwordReviews": 0
   },
   "newCandidates": [
     {
-      "word": "अतिशयोक्ति",
-      "display": "अतिशयोक्ति",
-      "normalized": "अतिशयोक्ति",
-      "variants": [],
-      "pos": "名詞（女）",
-      "meaning_ja": "誇張、言い過ぎ",
-      "importance": 4,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "作文",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_006"
-      ],
-      "sourceTitle": "प्राक्कथन",
-      "sourceGenre": "textbook",
-      "sourceRegister": "academic_prose",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "अनर्गल",
-      "display": "अनर्गल",
-      "normalized": "अनर्गल",
+      "word": "अद्यतन",
+      "display": "अद्यतन",
+      "normalized": "अद्यतन",
       "variants": [],
       "pos": "形容詞",
-      "meaning_ja": "無駄な、とりとめのない、不必要な",
+      "meaning_ja": "最新の、アップデートされた",
       "importance": 4,
       "status": "active",
       "category": "academic",
       "tags": [
         "教科書",
-        "作文",
-        "抽象語"
+        "言語政策",
+        "政府文書"
       ],
       "sourceIds": [
-        "academic_006"
+        "academic_009"
       ],
-      "sourceTitle": "प्राक्कथन",
-      "sourceGenre": "textbook",
-      "sourceRegister": "academic_prose",
+      "sourceTitle": "हिंदी वर्तनी का मानकीकरण",
+      "sourceGenre": "government_document",
+      "sourceRegister": "government_formal",
       "audit": "new_candidate"
     },
     {
-      "word": "अनुकूल",
-      "display": "अनुकूल",
-      "normalized": "अनुकूल",
-      "variants": [],
-      "pos": "形容詞",
-      "meaning_ja": "適した、都合のよい、ふさわしい",
-      "importance": 4,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "作文",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_006"
-      ],
-      "sourceTitle": "प्राक्कथन",
-      "sourceGenre": "textbook",
-      "sourceRegister": "academic_prose",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "अभिव्यक्ति",
-      "display": "अभिव्यक्ति",
-      "normalized": "अभिव्यक्ति",
+      "word": "अनुसूची",
+      "display": "अनुसूची",
+      "normalized": "अनुसूची",
       "variants": [],
       "pos": "名詞（女）",
-      "meaning_ja": "表現、表明",
+      "meaning_ja": "付表、スケジュール",
       "importance": 4,
       "status": "active",
       "category": "academic",
       "tags": [
         "教科書",
-        "作文",
-        "抽象語"
+        "言語政策",
+        "政府文書"
       ],
       "sourceIds": [
-        "academic_006"
+        "academic_009"
       ],
-      "sourceTitle": "प्राक्कथन",
-      "sourceGenre": "textbook",
-      "sourceRegister": "academic_prose",
+      "sourceTitle": "हिंदी वर्तनी का मानकीकरण",
+      "sourceGenre": "government_document",
+      "sourceRegister": "government_formal",
       "audit": "new_candidate"
     },
     {
-      "word": "उद्धरण",
-      "display": "उद्धरण",
-      "normalized": "उद्धरण",
-      "variants": [],
-      "pos": "名詞（男）",
-      "meaning_ja": "引用",
-      "importance": 4,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "作文",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_006"
-      ],
-      "sourceTitle": "प्राक्कथन",
-      "sourceGenre": "textbook",
-      "sourceRegister": "academic_prose",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "क्रमबद्ध",
-      "display": "क्रमबद्ध",
-      "normalized": "क्रमबद्ध",
+      "word": "आधिकारिक",
+      "display": "आधिकारिक",
+      "normalized": "आधिकारिक",
       "variants": [],
       "pos": "形容詞",
-      "meaning_ja": "順序立った、体系的な",
+      "meaning_ja": "公式の",
       "importance": 4,
       "status": "active",
       "category": "academic",
       "tags": [
         "教科書",
-        "作文",
-        "抽象語"
+        "言語政策",
+        "政府文書"
       ],
       "sourceIds": [
-        "academic_006"
+        "academic_009"
       ],
-      "sourceTitle": "प्राक्कथन",
-      "sourceGenre": "textbook",
-      "sourceRegister": "academic_prose",
+      "sourceTitle": "हिंदी वर्तनी का मानकीकरण",
+      "sourceGenre": "government_document",
+      "sourceRegister": "government_formal",
       "audit": "new_candidate"
     },
     {
-      "word": "क्रमबद्धता",
-      "display": "क्रमबद्धता",
-      "normalized": "क्रमबद्धता",
+      "word": "आधुनिकीकरण",
+      "display": "आधुनिकीकरण",
+      "normalized": "आधुनिकीकरण",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "近代化、モダナイゼーション",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "言語政策",
+        "政府文書"
+      ],
+      "sourceIds": [
+        "academic_009"
+      ],
+      "sourceTitle": "हिंदी वर्तनी का मानकीकरण",
+      "sourceGenre": "government_document",
+      "sourceRegister": "government_formal",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "एकरूपता",
+      "display": "एकरूपता",
+      "normalized": "एकरूपता",
       "variants": [],
       "pos": "名詞（女）",
-      "meaning_ja": "順序立っていること、体系性",
+      "meaning_ja": "統一性、一貫性",
       "importance": 4,
       "status": "active",
       "category": "academic",
       "tags": [
         "教科書",
-        "作文",
-        "抽象語"
+        "言語政策",
+        "政府文書"
       ],
       "sourceIds": [
-        "academic_006"
+        "academic_009"
       ],
-      "sourceTitle": "प्राक्कथन",
-      "sourceGenre": "textbook",
-      "sourceRegister": "academic_prose",
+      "sourceTitle": "हिंदी वर्तनी का मानकीकरण",
+      "sourceGenre": "government_document",
+      "sourceRegister": "government_formal",
       "audit": "new_candidate"
     },
     {
-      "word": "दृष्टिकोण",
-      "display": "दृष्टिकोण",
-      "normalized": "दृष्टिकोण",
+      "word": "कंप्यूटरीकरण",
+      "display": "कंप्यूटरीकरण",
+      "normalized": "कंप्यूटरीकरण",
       "variants": [],
       "pos": "名詞（男）",
-      "meaning_ja": "視点、考え方、見方",
+      "meaning_ja": "コンピュータ化",
       "importance": 4,
       "status": "active",
       "category": "academic",
       "tags": [
         "教科書",
-        "作文",
-        "抽象語"
+        "言語政策",
+        "政府文書"
       ],
       "sourceIds": [
-        "academic_006"
+        "academic_009"
       ],
-      "sourceTitle": "प्राक्कथन",
-      "sourceGenre": "textbook",
-      "sourceRegister": "academic_prose",
+      "sourceTitle": "हिंदी वर्तनी का मानकीकरण",
+      "sourceGenre": "government_document",
+      "sourceRegister": "government_formal",
       "audit": "new_candidate"
     },
     {
-      "word": "निबंध",
-      "display": "निबंध",
-      "normalized": "निबंध",
+      "word": "चिह्न",
+      "display": "चिह्न",
+      "normalized": "चिह्न",
       "variants": [],
       "pos": "名詞（男）",
-      "meaning_ja": "作文、エッセイ、論説文",
+      "meaning_ja": "記号、標識",
       "importance": 4,
       "status": "active",
       "category": "academic",
       "tags": [
         "教科書",
-        "作文",
-        "抽象語"
+        "言語政策",
+        "政府文書"
       ],
       "sourceIds": [
-        "academic_006"
+        "academic_009"
       ],
-      "sourceTitle": "प्राक्कथन",
-      "sourceGenre": "textbook",
-      "sourceRegister": "academic_prose",
+      "sourceTitle": "हिंदी वर्तनी का मानकीकरण",
+      "sourceGenre": "government_document",
+      "sourceRegister": "government_formal",
       "audit": "new_candidate"
     },
     {
-      "word": "परस्पर",
-      "display": "परस्पर",
-      "normalized": "परस्पर",
+      "word": "टंकण",
+      "display": "टंकण",
+      "normalized": "टंकण",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "タイピング、タイプ印字",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "言語政策",
+        "政府文書"
+      ],
+      "sourceIds": [
+        "academic_009"
+      ],
+      "sourceTitle": "हिंदी वर्तनी का मानकीकरण",
+      "sourceGenre": "government_document",
+      "sourceRegister": "government_formal",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "तदनुसार",
+      "display": "तदनुसार",
+      "normalized": "तदनुसार",
       "variants": [],
       "pos": "副詞",
-      "meaning_ja": "相互に、互いに",
+      "meaning_ja": "それに応じて、それに従って",
       "importance": 4,
       "status": "active",
       "category": "academic",
       "tags": [
         "教科書",
-        "作文",
-        "抽象語"
+        "言語政策",
+        "政府文書"
       ],
       "sourceIds": [
-        "academic_006"
+        "academic_009"
       ],
-      "sourceTitle": "प्राक्कथन",
-      "sourceGenre": "textbook",
-      "sourceRegister": "academic_prose",
+      "sourceTitle": "हिंदी वर्तनी का मानकीकरण",
+      "sourceGenre": "government_document",
+      "sourceRegister": "government_formal",
       "audit": "new_candidate"
     },
     {
-      "word": "पर्यायवाची",
-      "display": "पर्यायवाची",
-      "normalized": "पर्यायवाची",
-      "variants": [],
-      "pos": "形容詞",
-      "meaning_ja": "同義の、同義語の",
+      "word": "नि:शुल्क",
+      "display": "नि:शुल्क",
+      "normalized": "निशुल्क",
+      "variants": [
+        "नि:शुल्क",
+        "निशुल्क"
+      ],
+      "pos": "形容詞・副詞",
+      "meaning_ja": "無料の、無料で",
       "importance": 4,
       "status": "active",
       "category": "academic",
       "tags": [
         "教科書",
-        "作文",
-        "抽象語"
+        "言語政策",
+        "政府文書"
       ],
       "sourceIds": [
-        "academic_006"
+        "academic_009"
       ],
-      "sourceTitle": "प्राक्कथन",
-      "sourceGenre": "textbook",
-      "sourceRegister": "academic_prose",
+      "sourceTitle": "हिंदी वर्तनी का मानकीकरण",
+      "sourceGenre": "government_document",
+      "sourceRegister": "government_formal",
       "audit": "new_candidate"
     },
     {
-      "word": "प्रभावशाली",
-      "display": "प्रभावशाली",
-      "normalized": "प्रभावशाली",
-      "variants": [],
-      "pos": "形容詞",
-      "meaning_ja": "効果的な、印象的な、影響力のある",
-      "importance": 4,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "作文",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_006"
-      ],
-      "sourceTitle": "प्राक्कथन",
-      "sourceGenre": "textbook",
-      "sourceRegister": "academic_prose",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "प्रस्तुत",
-      "display": "प्रस्तुत",
-      "normalized": "प्रस्तुत",
+      "word": "परिवर्धित",
+      "display": "परिवर्धित",
+      "normalized": "परिवर्धित",
       "variants": [],
       "pos": "形容詞・分詞",
-      "meaning_ja": "提示された、発表された",
+      "meaning_ja": "増補された、拡張された",
       "importance": 4,
       "status": "active",
       "category": "academic",
       "tags": [
         "教科書",
-        "作文",
-        "抽象語"
+        "言語政策",
+        "政府文書"
       ],
       "sourceIds": [
-        "academic_006"
+        "academic_009"
       ],
-      "sourceTitle": "प्राक्कथन",
-      "sourceGenre": "textbook",
-      "sourceRegister": "academic_prose",
+      "sourceTitle": "हिंदी वर्तनी का मानकीकरण",
+      "sourceGenre": "government_document",
+      "sourceRegister": "government_formal",
       "audit": "new_candidate"
     },
     {
-      "word": "प्राक्कथन",
-      "display": "प्राक्कथन",
-      "normalized": "प्राक्कथन",
+      "word": "पुनर्मुद्रण",
+      "display": "पुनर्मुद्रण",
+      "normalized": "पुनर्मुद्रण",
       "variants": [],
       "pos": "名詞（男）",
-      "meaning_ja": "序文、まえがき",
+      "meaning_ja": "再版、再印刷",
       "importance": 4,
       "status": "active",
       "category": "academic",
       "tags": [
         "教科書",
-        "作文",
-        "抽象語"
+        "言語政策",
+        "政府文書"
       ],
       "sourceIds": [
-        "academic_006"
+        "academic_009"
       ],
-      "sourceTitle": "प्राक्कथन",
-      "sourceGenre": "textbook",
-      "sourceRegister": "academic_prose",
+      "sourceTitle": "हिंदी वर्तनी का मानकीकरण",
+      "sourceGenre": "government_document",
+      "sourceRegister": "government_formal",
       "audit": "new_candidate"
     },
     {
-      "word": "प्रायः",
-      "display": "प्रायः",
-      "normalized": "प्रायः",
+      "word": "प्रतिष्ठित",
+      "display": "प्रतिष्ठित",
+      "normalized": "प्रतिष्ठित",
       "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "著名な、高名な",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "言語政策",
+        "政府文書"
+      ],
+      "sourceIds": [
+        "academic_009"
+      ],
+      "sourceTitle": "हिंदी वर्तनी का मानकीकरण",
+      "sourceGenre": "government_document",
+      "sourceRegister": "government_formal",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "प्रथमत:",
+      "display": "प्रथमत:",
+      "normalized": "प्रथमत",
+      "variants": [
+        "प्रथमत:",
+        "प्रथमतः"
+      ],
       "pos": "副詞",
-      "meaning_ja": "たいてい、しばしば、概して",
+      "meaning_ja": "まず最初に",
       "importance": 4,
       "status": "active",
       "category": "academic",
       "tags": [
         "教科書",
-        "作文",
-        "抽象語"
+        "言語政策",
+        "政府文書"
       ],
       "sourceIds": [
-        "academic_006"
+        "academic_009"
       ],
-      "sourceTitle": "प्राक्कथन",
-      "sourceGenre": "textbook",
-      "sourceRegister": "academic_prose",
+      "sourceTitle": "हिंदी वर्तनी का मानकीकरण",
+      "sourceGenre": "government_document",
+      "sourceRegister": "government_formal",
       "audit": "new_candidate"
     },
     {
-      "word": "बहुमुखी",
-      "display": "बहुमुखी",
-      "normalized": "बहुमुखी",
+      "word": "प्रयोक्‍ता",
+      "display": "प्रयोक्‍ता",
+      "normalized": "प्रयोक्ता",
+      "variants": [
+        "प्रयोक्‍ता",
+        "प्रयोक्ता"
+      ],
+      "pos": "名詞（男）",
+      "meaning_ja": "利用者、ユーザー",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "言語政策",
+        "政府文書"
+      ],
+      "sourceIds": [
+        "academic_009"
+      ],
+      "sourceTitle": "हिंदी वर्तनी का मानकीकरण",
+      "sourceGenre": "government_document",
+      "sourceRegister": "government_formal",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "प्रशस्त",
+      "display": "प्रशस्त",
+      "normalized": "प्रशस्त",
       "variants": [],
       "pos": "形容詞",
-      "meaning_ja": "多面的な、多方面の",
+      "meaning_ja": "開かれた、広げられた",
       "importance": 4,
       "status": "active",
       "category": "academic",
       "tags": [
         "教科書",
-        "作文",
-        "抽象語"
+        "言語政策",
+        "政府文書"
       ],
       "sourceIds": [
-        "academic_006"
+        "academic_009"
       ],
-      "sourceTitle": "प्राक्कथन",
-      "sourceGenre": "textbook",
-      "sourceRegister": "academic_prose",
+      "sourceTitle": "हिंदी वर्तनी का मानकीकरण",
+      "sourceGenre": "government_document",
+      "sourceRegister": "government_formal",
       "audit": "new_candidate"
     },
     {
-      "word": "बौद्धिक",
-      "display": "बौद्धिक",
-      "normalized": "बौद्धिक",
+      "word": "प्रौद्योगिकी",
+      "display": "प्रौद्योगिकी",
+      "normalized": "प्रौद्योगिकी",
       "variants": [],
-      "pos": "形容詞",
-      "meaning_ja": "知的な、知性に関する",
+      "pos": "名詞（女）",
+      "meaning_ja": "テクノロジー、技術",
       "importance": 4,
       "status": "active",
       "category": "academic",
       "tags": [
         "教科書",
-        "作文",
-        "抽象語"
+        "言語政策",
+        "政府文書"
       ],
       "sourceIds": [
-        "academic_006"
+        "academic_009"
       ],
-      "sourceTitle": "प्राक्कथन",
-      "sourceGenre": "textbook",
-      "sourceRegister": "academic_prose",
+      "sourceTitle": "हिंदी वर्तनी का मानकीकरण",
+      "sourceGenre": "government_document",
+      "sourceRegister": "government_formal",
       "audit": "new_candidate"
     },
     {
-      "word": "माध्यम",
-      "display": "माध्यम",
-      "normalized": "माध्यम",
+      "word": "भाषाविद",
+      "display": "भाषाविद",
+      "normalized": "भाषाविद",
       "variants": [],
       "pos": "名詞（男）",
-      "meaning_ja": "手段、媒体、媒介",
+      "meaning_ja": "言語学者",
       "importance": 4,
       "status": "active",
       "category": "academic",
       "tags": [
         "教科書",
-        "作文",
-        "抽象語"
+        "言語政策",
+        "政府文書"
       ],
       "sourceIds": [
-        "academic_006"
+        "academic_009"
       ],
-      "sourceTitle": "प्राक्कथन",
-      "sourceGenre": "textbook",
-      "sourceRegister": "academic_prose",
+      "sourceTitle": "हिंदी वर्तनी का मानकीकरण",
+      "sourceGenre": "government_document",
+      "sourceRegister": "government_formal",
       "audit": "new_candidate"
     },
     {
-      "word": "मौखिक",
-      "display": "मौखिक",
-      "normalized": "मौखिक",
-      "variants": [],
-      "pos": "形容詞",
-      "meaning_ja": "口頭の、口述の",
-      "importance": 4,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "作文",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_006"
-      ],
-      "sourceTitle": "प्राक्कथन",
-      "sourceGenre": "textbook",
-      "sourceRegister": "academic_prose",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "यथार्थ",
-      "display": "यथार्थ",
-      "normalized": "यथार्थ",
+      "word": "मानकीकरण",
+      "display": "मानकीकरण",
+      "normalized": "मानकीकरण",
       "variants": [],
       "pos": "名詞（男）",
-      "meaning_ja": "実情、真実、現実",
+      "meaning_ja": "標準化",
       "importance": 4,
       "status": "active",
       "category": "academic",
       "tags": [
         "教科書",
-        "作文",
-        "抽象語"
+        "言語政策",
+        "政府文書"
       ],
       "sourceIds": [
-        "academic_006"
+        "academic_009"
       ],
-      "sourceTitle": "प्राक्कथन",
-      "sourceGenre": "textbook",
-      "sourceRegister": "academic_prose",
+      "sourceTitle": "हिंदी वर्तनी का मानकीकरण",
+      "sourceGenre": "government_document",
+      "sourceRegister": "government_formal",
       "audit": "new_candidate"
     },
     {
-      "word": "युक्तिसंगत",
-      "display": "युक्तिसंगत",
-      "normalized": "युक्तिसंगत",
-      "variants": [],
-      "pos": "形容詞",
-      "meaning_ja": "理にかなった、適切な",
-      "importance": 4,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "作文",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_006"
-      ],
-      "sourceTitle": "प्राक्कथन",
-      "sourceGenre": "textbook",
-      "sourceRegister": "academic_prose",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "रचना",
-      "display": "रचना",
-      "normalized": "रचना",
-      "variants": [],
-      "pos": "名詞（女）",
-      "meaning_ja": "作品、作文、構成",
-      "importance": 4,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "作文",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_006"
-      ],
-      "sourceTitle": "प्राक्कथन",
-      "sourceGenre": "textbook",
-      "sourceRegister": "academic_prose",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "विद्वान",
-      "display": "विद्वान",
-      "normalized": "विद्वान",
+      "word": "यूनीकोड",
+      "display": "यूनीकोड",
+      "normalized": "यूनीकोड",
       "variants": [],
       "pos": "名詞（男）",
-      "meaning_ja": "学者、知識人",
+      "meaning_ja": "Unicode",
       "importance": 4,
       "status": "active",
       "category": "academic",
       "tags": [
         "教科書",
-        "作文",
-        "抽象語"
+        "言語政策",
+        "政府文書"
       ],
       "sourceIds": [
-        "academic_006"
+        "academic_009"
       ],
-      "sourceTitle": "प्राक्कथन",
-      "sourceGenre": "textbook",
-      "sourceRegister": "academic_prose",
+      "sourceTitle": "हिंदी वर्तनी का मानकीकरण",
+      "sourceGenre": "government_document",
+      "sourceRegister": "government_formal",
       "audit": "new_candidate"
     },
     {
-      "word": "विधा",
-      "display": "विधा",
-      "normalized": "विधा",
-      "variants": [],
-      "pos": "名詞（女）",
-      "meaning_ja": "ジャンル、形式、分野",
-      "importance": 4,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "作文",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_006"
-      ],
-      "sourceTitle": "प्राक्कथन",
-      "sourceGenre": "textbook",
-      "sourceRegister": "academic_prose",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "विश्लेषण",
-      "display": "विश्लेषण",
-      "normalized": "विश्लेषण",
+      "word": "विचार-विमर्श",
+      "display": "विचार-विमर्श",
+      "normalized": "विचार_विमर्श",
       "variants": [],
       "pos": "名詞（男）",
-      "meaning_ja": "分析",
+      "meaning_ja": "協議、討議",
       "importance": 4,
       "status": "active",
       "category": "academic",
       "tags": [
         "教科書",
-        "作文",
-        "抽象語"
+        "言語政策",
+        "政府文書"
       ],
       "sourceIds": [
-        "academic_006"
+        "academic_009"
       ],
-      "sourceTitle": "प्राक्कथन",
-      "sourceGenre": "textbook",
-      "sourceRegister": "academic_prose",
+      "sourceTitle": "हिंदी वर्तनी का मानकीकरण",
+      "sourceGenre": "government_document",
+      "sourceRegister": "government_formal",
       "audit": "new_candidate"
     },
     {
-      "word": "विषयवस्तु",
-      "display": "विषयवस्तु",
-      "normalized": "विषयवस्तु",
+      "word": "विशेषक",
+      "display": "विशेषक",
+      "normalized": "विशेषक",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "特殊記号、識別記号",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "言語政策",
+        "政府文書"
+      ],
+      "sourceIds": [
+        "academic_009"
+      ],
+      "sourceTitle": "हिंदी वर्तनी का मानकीकरण",
+      "sourceGenre": "government_document",
+      "sourceRegister": "government_formal",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "संशोधित",
+      "display": "संशोधित",
+      "normalized": "संशोधित",
+      "variants": [],
+      "pos": "形容詞・分詞",
+      "meaning_ja": "改訂された",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "言語政策",
+        "政府文書"
+      ],
+      "sourceIds": [
+        "academic_009"
+      ],
+      "sourceTitle": "हिंदी वर्तनी का मानकीकरण",
+      "sourceGenre": "government_document",
+      "sourceRegister": "government_formal",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "समाधान",
+      "display": "समाधान",
+      "normalized": "समाधान",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "解決",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "言語政策",
+        "政府文書"
+      ],
+      "sourceIds": [
+        "academic_009"
+      ],
+      "sourceTitle": "हिंदी वर्तनी का मानकीकरण",
+      "sourceGenre": "government_document",
+      "sourceRegister": "government_formal",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "स्वीकृत",
+      "display": "स्वीकृत",
+      "normalized": "स्वीकृत",
+      "variants": [],
+      "pos": "形容詞・分詞",
+      "meaning_ja": "承認された",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "言語政策",
+        "政府文書"
+      ],
+      "sourceIds": [
+        "academic_009"
+      ],
+      "sourceTitle": "हिंदी वर्तनी का मानकीकरण",
+      "sourceGenre": "government_document",
+      "sourceRegister": "government_formal",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "आवश्यकता",
+      "display": "आवश्यकता",
+      "normalized": "आवश्यकता",
       "variants": [],
       "pos": "名詞（女）",
-      "meaning_ja": "内容、主題内容",
-      "importance": 4,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "作文",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_006"
-      ],
-      "sourceTitle": "प्राक्कथन",
-      "sourceGenre": "textbook",
-      "sourceRegister": "academic_prose",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "संकुचित",
-      "display": "संकुचित",
-      "normalized": "संकुचित",
-      "variants": [],
-      "pos": "形容詞",
-      "meaning_ja": "狭められた、限定された",
-      "importance": 4,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "作文",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_006"
-      ],
-      "sourceTitle": "प्राक्कथन",
-      "sourceGenre": "textbook",
-      "sourceRegister": "academic_prose",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "संधि",
-      "display": "संधि",
-      "normalized": "संधि",
-      "variants": [],
-      "pos": "名詞（女）",
-      "meaning_ja": "結合、連結、サンディ",
-      "importance": 4,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "作文",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_006"
-      ],
-      "sourceTitle": "प्राक्कथन",
-      "sourceGenre": "textbook",
-      "sourceRegister": "academic_prose",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "संबद्धता",
-      "display": "संबद्धता",
-      "normalized": "संबद्धता",
-      "variants": [],
-      "pos": "名詞（女）",
-      "meaning_ja": "関連性、つながり",
-      "importance": 4,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "作文",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_006"
-      ],
-      "sourceTitle": "प्राक्कथन",
-      "sourceGenre": "textbook",
-      "sourceRegister": "academic_prose",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "सशक्त",
-      "display": "सशक्त",
-      "normalized": "सशक्त",
-      "variants": [],
-      "pos": "形容詞",
-      "meaning_ja": "力強い、有力な",
-      "importance": 4,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "作文",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_006"
-      ],
-      "sourceTitle": "प्राक्कथन",
-      "sourceGenre": "textbook",
-      "sourceRegister": "academic_prose",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "सहज",
-      "display": "सहज",
-      "normalized": "सहज",
-      "variants": [],
-      "pos": "形容詞",
-      "meaning_ja": "自然な、無理のない",
-      "importance": 4,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "作文",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_006"
-      ],
-      "sourceTitle": "प्राक्कथन",
-      "sourceGenre": "textbook",
-      "sourceRegister": "academic_prose",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "सूक्ति",
-      "display": "सूक्ति",
-      "normalized": "सूक्ति",
-      "variants": [],
-      "pos": "名詞（女）",
-      "meaning_ja": "格言、警句",
-      "importance": 4,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "作文",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_006"
-      ],
-      "sourceTitle": "प्राक्कथन",
-      "sourceGenre": "textbook",
-      "sourceRegister": "academic_prose",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "पालना",
-      "display": "पालना",
-      "normalized": "पालना",
-      "variants": [],
-      "pos": "名詞（女）",
-      "meaning_ja": "遵守、守ること",
+      "meaning_ja": "必要性",
       "importance": 3,
       "status": "active",
       "category": "academic",
       "tags": [
         "教科書",
-        "作文",
-        "抽象語"
+        "言語政策",
+        "政府文書"
       ],
       "sourceIds": [
-        "academic_006"
+        "academic_009"
       ],
-      "sourceTitle": "प्राक्कथन",
-      "sourceGenre": "textbook",
-      "sourceRegister": "academic_prose",
+      "sourceTitle": "हिंदी वर्तनी का मानकीकरण",
+      "sourceGenre": "government_document",
+      "sourceRegister": "government_formal",
       "audit": "new_candidate"
     },
     {
-      "word": "विस्तार",
-      "display": "विस्तार",
-      "normalized": "विस्तार",
+      "word": "लघु",
+      "display": "लघु",
+      "normalized": "लघु",
       "variants": [],
-      "pos": "名詞（男）",
-      "meaning_ja": "विस्तार、詳述、広がり",
+      "pos": "形容詞",
+      "meaning_ja": "小型の、簡潔な",
       "importance": 3,
       "status": "active",
       "category": "academic",
       "tags": [
         "教科書",
-        "作文",
-        "抽象語"
+        "言語政策",
+        "政府文書"
       ],
       "sourceIds": [
-        "academic_006"
+        "academic_009"
       ],
-      "sourceTitle": "प्राक्कथन",
-      "sourceGenre": "textbook",
-      "sourceRegister": "academic_prose",
+      "sourceTitle": "हिंदी वर्तनी का मानकीकरण",
+      "sourceGenre": "government_document",
+      "sourceRegister": "government_formal",
       "audit": "new_candidate"
     }
   ],
@@ -2787,6 +2635,2562 @@
       "sourceTitle": "बंदर और मगरमच्छ",
       "sourceGenre": "story",
       "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "प्राक्कथन",
+      "display": "प्राक्कथन",
+      "normalized": "प्राक्कथन",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "序文、まえがき",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_006"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "निबंध",
+      "display": "निबंध",
+      "normalized": "निबंध",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "作文、エッセイ、論説文",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_006"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "संधि",
+      "display": "संधि",
+      "normalized": "संधि",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "結合、連結、サンディ",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_006"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "रचना",
+      "display": "रचना",
+      "normalized": "रचना",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "作品、作文、構成",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_006"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "मौखिक",
+      "display": "मौखिक",
+      "normalized": "मौखिक",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "口頭の、口述の",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_006"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "प्रस्तुत",
+      "display": "प्रस्तुत",
+      "normalized": "प्रस्तुत",
+      "variants": [],
+      "pos": "形容詞・分詞",
+      "meaning_ja": "提示された、発表された",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_006"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "पर्यायवाची",
+      "display": "पर्यायवाची",
+      "normalized": "पर्यायवाची",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "同義の、同義語の",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_006"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "विद्वान",
+      "display": "विद्वान",
+      "normalized": "विद्वान",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "学者、知識人",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_006"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "विधा",
+      "display": "विधा",
+      "normalized": "विधा",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "ジャンル、形式、分野",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_006"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "क्रमबद्ध",
+      "display": "क्रमबद्ध",
+      "normalized": "क्रमबद्ध",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "順序立った、体系的な",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_006"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "प्रभावशाली",
+      "display": "प्रभावशाली",
+      "normalized": "प्रभावशाली",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "効果的な、印象的な、影響力のある",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_006"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "प्रायः",
+      "display": "प्रायः",
+      "normalized": "प्रायः",
+      "variants": [],
+      "pos": "副詞",
+      "meaning_ja": "たいてい、しばしば、概して",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_006"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "अभिव्यक्ति",
+      "display": "अभिव्यक्ति",
+      "normalized": "अभिव्यक्ति",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "表現、表明",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_006"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "सहज",
+      "display": "सहज",
+      "normalized": "सहज",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "自然な、無理のない",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_006"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "बौद्धिक",
+      "display": "बौद्धिक",
+      "normalized": "बौद्धिक",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "知的な、知性に関する",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_006"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "दृष्टिकोण",
+      "display": "दृष्टिकोण",
+      "normalized": "दृष्टिकोण",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "視点、考え方、見方",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_006"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "संकुचित",
+      "display": "संकुचित",
+      "normalized": "संकुचित",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "狭められた、限定された",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_006"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "यथार्थ",
+      "display": "यथार्थ",
+      "normalized": "यथार्थ",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "実情、真実、現実",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_006"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "अतिशयोक्ति",
+      "display": "अतिशयोक्ति",
+      "normalized": "अतिशयोक्ति",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "誇張、言い過ぎ",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_006"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "बहुमुखी",
+      "display": "बहुमुखी",
+      "normalized": "बहुमुखी",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "多面的な、多方面の",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_006"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "सशक्त",
+      "display": "सशक्त",
+      "normalized": "सशक्त",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "力強い、有力な",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_006"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "माध्यम",
+      "display": "माध्यम",
+      "normalized": "माध्यम",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "手段、媒体、媒介",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_006"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "विश्लेषण",
+      "display": "विश्लेषण",
+      "normalized": "विश्लेषण",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "分析",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_006"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "विषयवस्तु",
+      "display": "विषयवस्तु",
+      "normalized": "विषयवस्तु",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "内容、主題内容",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_006"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "पालना",
+      "display": "पालना",
+      "normalized": "पालना",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "遵守、守ること",
+      "importance": 3,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_006"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "क्रमबद्धता",
+      "display": "क्रमबद्धता",
+      "normalized": "क्रमबद्धता",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "順序立っていること、体系性",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_006"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "परस्पर",
+      "display": "परस्पर",
+      "normalized": "परस्पर",
+      "variants": [],
+      "pos": "副詞",
+      "meaning_ja": "相互に、互いに",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_006"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "संबद्धता",
+      "display": "संबद्धता",
+      "normalized": "संबद्धता",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "関連性、つながり",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_006"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "विस्तार",
+      "display": "विस्तार",
+      "normalized": "विस्तार",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "विस्तार、詳述、広がり",
+      "importance": 3,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_006"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "अनुकूल",
+      "display": "अनुकूल",
+      "normalized": "अनुकूल",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "適した、都合のよい、ふさわしい",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_006"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "अनर्गल",
+      "display": "अनर्गल",
+      "normalized": "अनर्गल",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "無駄な、とりとめのない、不必要な",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_006"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "उद्धरण",
+      "display": "उद्धरण",
+      "normalized": "उद्धरण",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "引用",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_006"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "सूक्ति",
+      "display": "सूक्ति",
+      "normalized": "सूक्ति",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "格言、警句",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_006"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "युक्तिसंगत",
+      "display": "युक्तिसंगत",
+      "normalized": "युक्तिसंगत",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "理にかなった、適切な",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_006"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "विवरणात्मक",
+      "display": "विवरणात्मक",
+      "normalized": "विवरणात्मक",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "説明的な、叙述的な",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_007"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "वर्णनात्मक",
+      "display": "वर्णनात्मक",
+      "normalized": "वर्णनात्मक",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "描写的な、記述的な",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_007"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "विचारात्मक",
+      "display": "विचारात्मक",
+      "normalized": "विचारात्मक",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "論考的な、思索的な",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_007"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "भावनात्मक",
+      "display": "भावनात्मक",
+      "normalized": "भावनात्मक",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "感情的な、情緒的な",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_007"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "संस्मरण",
+      "display": "संस्मरण",
+      "normalized": "संस्मरण",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "回想録、思い出の記録",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_007"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "श्रेणी",
+      "display": "श्रेणी",
+      "normalized": "श्रेणी",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "分類、カテゴリー",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_007"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "पक्ष-विपक्ष",
+      "display": "पक्ष-विपक्ष",
+      "normalized": "पक्ष_विपक्ष",
+      "variants": [],
+      "pos": "名詞句",
+      "meaning_ja": "賛否、両論",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_007"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "नकारात्मक",
+      "display": "नकारात्मक",
+      "normalized": "नकारात्मक",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "否定的な、マイナスの",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_007"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "सकारात्मक",
+      "display": "सकारात्मक",
+      "normalized": "सकारात्मक",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "肯定的な、前向きな",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_007"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "सूक्ति",
+      "display": "सूक्ति",
+      "normalized": "सूक्ति",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "格言、警句",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_007"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "निष्कर्ष",
+      "display": "निष्कर्ष",
+      "normalized": "निष्कर्ष",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "結論",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_007"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "उपसंहार",
+      "display": "उपसंहार",
+      "normalized": "उपसंहार",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "結び、締めくくり",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_007"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "सम्मिलित",
+      "display": "सम्मिलित",
+      "normalized": "सम्मिलित",
+      "variants": [],
+      "pos": "形容詞・分詞",
+      "meaning_ja": "含まれた、組み込まれた",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_007"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "स्पष्ट",
+      "display": "स्पष्ट",
+      "normalized": "स्पष्ट",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "明確な、はっきりした",
+      "importance": 3,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_007"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "प्रारंभ",
+      "display": "प्रारंभ",
+      "normalized": "प्रारंभ",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "始まり、開始",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_007"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "आकर्षक",
+      "display": "आकर्षक",
+      "normalized": "आकर्षक",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "魅力的な",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_007"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "रुचि",
+      "display": "रुचि",
+      "normalized": "रुचि",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "興味、関心",
+      "importance": 3,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_007"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "उत्सुकता",
+      "display": "उत्सुकता",
+      "normalized": "उत्सुकता",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "好奇心、熱意",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_007"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "जाग्रत",
+      "display": "जाग्रत",
+      "normalized": "जाग्रत",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "喚起された、目覚めた",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_007"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "अनिवार्य",
+      "display": "अनिवार्य",
+      "normalized": "अनिवार्य",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "不可欠な、必須の",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_007"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "प्राथमिकता",
+      "display": "प्राथमिकता",
+      "normalized": "प्राथमिकता",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "優先事項、優先性",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_007"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "पश्चात्",
+      "display": "पश्चात्",
+      "normalized": "पश्चात",
+      "variants": [
+        "पश्चात्",
+        "पश्चात"
+      ],
+      "pos": "後置詞",
+      "meaning_ja": "〜の後で",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_007"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "ऐतिहासिक",
+      "display": "ऐतिहासिक",
+      "normalized": "ऐतिहासिक",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "歴史的な",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_007"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "दिग्दर्शित",
+      "display": "दिग्दर्शित",
+      "normalized": "दिग्दर्शित",
+      "variants": [],
+      "pos": "形容詞・分詞",
+      "meaning_ja": "示された、指し示された",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_007"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "सुनिश्चित",
+      "display": "सुनिश्चित",
+      "normalized": "सुनिश्चित",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "確実な、保証された",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_007"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "मौलिक",
+      "display": "मौलिक",
+      "normalized": "मौलिक",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "独創的な、オリジナルの",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_007"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "सामंजस्य",
+      "display": "सामंजस्य",
+      "normalized": "सामंजस्य",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "調和、一致",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_007"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "रूपरेखा",
+      "display": "रूपरेखा",
+      "normalized": "रूपरेखा",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "アウトライン、概要",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_007"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "अनुच्छेद",
+      "display": "अनुच्छेद",
+      "normalized": "अनुच्छेद",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "段落、パラグラフ",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_007"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "तारतम्य",
+      "display": "तारतम्य",
+      "normalized": "तारतम्य",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "整合性、連続性",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_007"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "आभास",
+      "display": "आभास",
+      "normalized": "आभास",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "感じ、印象",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_007"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "दोहराव",
+      "display": "दोहराव",
+      "normalized": "दोहराव",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "繰り返し、反復",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_007"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "उल्लेख",
+      "display": "उल्लेख",
+      "normalized": "उल्लेख",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "言及、記載",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_007"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "कदापि",
+      "display": "कदापि",
+      "normalized": "कदापि",
+      "variants": [],
+      "pos": "副詞",
+      "meaning_ja": "決して、絶対に",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_007"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "निस्संदेह",
+      "display": "निस्संदेह",
+      "normalized": "निस्संदेह",
+      "variants": [],
+      "pos": "副詞",
+      "meaning_ja": "疑いなく、間違いなく",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_008"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "छाप",
+      "display": "छाप",
+      "normalized": "छाप",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "印象、跡、刻印",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_008"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "सारांश",
+      "display": "सारांश",
+      "normalized": "सारांश",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "要約、概要",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_008"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "सिद्ध",
+      "display": "सिद्ध",
+      "normalized": "सिद्ध",
+      "variants": [],
+      "pos": "形容詞・分詞",
+      "meaning_ja": "証明された、確立された",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_008"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "व्यक्तिगत",
+      "display": "व्यक्तिगत",
+      "normalized": "व्यक्तिगत",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "個人的な",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_008"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "सम्मति",
+      "display": "सम्मति",
+      "normalized": "सम्मति",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "意見、同意、見解",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_008"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "समर्थन",
+      "display": "समर्थन",
+      "normalized": "समर्थन",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "支持、裏づけ",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_008"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "महापुरुष",
+      "display": "महापुरुष",
+      "normalized": "महापुरुष",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "偉人、偉大な人物",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_008"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "कथन",
+      "display": "कथन",
+      "normalized": "कथन",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "発言、言明",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_008"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "पकड़",
+      "display": "पकड़",
+      "normalized": "पकड़",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "把握、理解、掌握",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_008"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "शीर्षांकित",
+      "display": "शीर्षांकित",
+      "normalized": "शीर्षांकित",
+      "variants": [],
+      "pos": "形容詞・分詞",
+      "meaning_ja": "題名を付けられた、表題化された",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_008"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "निदान",
+      "display": "निदान",
+      "normalized": "निदान",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "解決、診断、対処法",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_008"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "उपाय",
+      "display": "उपाय",
+      "normalized": "उपाय",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "方法、対策、手段",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_008"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "विकल्प",
+      "display": "विकल्प",
+      "normalized": "विकल्प",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "選択肢、代替案",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_008"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "उपलब्ध",
+      "display": "उपलब्ध",
+      "normalized": "उपलब्ध",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "利用可能な、入手可能な",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_008"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "चयन",
+      "display": "चयन",
+      "normalized": "चयन",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "選択、選定",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_008"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "मन-मस्तिष्क",
+      "display": "मन-मस्तिष्क",
+      "normalized": "मन_मस्तिष्क",
+      "variants": [],
+      "pos": "名詞句",
+      "meaning_ja": "心と頭、心身の思考",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_008"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "संकेत",
+      "display": "संकेत",
+      "normalized": "संकेत",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "手がかり、ヒント、ポイント",
+      "importance": 3,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_008"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "हस्तलिपि",
+      "display": "हस्तलिपि",
+      "normalized": "हस्तलिपि",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "手書き文字、筆跡",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_008"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "वर्तनी",
+      "display": "वर्तनी",
+      "normalized": "वर्तनी",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "綴り、正書法",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_008"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "विराम चिन्ह",
+      "display": "विराम चिन्ह",
+      "normalized": "विराम_चिन्ह",
+      "variants": [],
+      "pos": "名詞句",
+      "meaning_ja": "句読点、約物",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_008"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "भरसक",
+      "display": "भरसक",
+      "normalized": "भरसक",
+      "variants": [],
+      "pos": "副詞",
+      "meaning_ja": "できる限り、精一杯",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_008"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "पालन",
+      "display": "पालन",
+      "normalized": "पालन",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "遵守、守ること",
+      "importance": 3,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_008"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "सुगठित",
+      "display": "सुगठित",
+      "normalized": "सुगठित",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "よく整った、構成のしっかりした",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_008"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "प्रवाह",
+      "display": "प्रवाह",
+      "normalized": "प्रवाह",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "流れ、流暢さ",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_008"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "निखार",
+      "display": "निखार",
+      "normalized": "निखार",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "磨き、洗練、向上",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_008"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "मनन",
+      "display": "मनन",
+      "normalized": "मनन",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "熟考、思索",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_008"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "सोने पर सुहागा",
+      "display": "सोने पर सुहागा",
+      "normalized": "सोने_पर_सुहागा",
+      "variants": [],
+      "pos": "慣用句",
+      "meaning_ja": "さらに素晴らしいこと、鬼に金棒",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_008"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "सांख्यिकी",
+      "display": "सांख्यिकी",
+      "normalized": "सांख्यिकी",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "統計、統計学",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_008"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "अपेक्षित",
+      "display": "अपेक्षित",
+      "normalized": "अपेक्षित",
+      "variants": [],
+      "pos": "形容詞・分詞",
+      "meaning_ja": "期待された、必要とされる",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_008"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "प्रामाणिकता",
+      "display": "प्रामाणिकता",
+      "normalized": "प्रामाणिकता",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "信頼性、真正性、正確性",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_008"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "प्रविष्टि",
+      "display": "प्रविष्टि",
+      "normalized": "प्रविष्टि",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "参加、受験、入場",
+      "importance": 3,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_008"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "अध्ययनरत",
+      "display": "अध्ययनरत",
+      "normalized": "अध्ययनरत",
+      "variants": [],
+      "pos": "形容詞・分詞",
+      "meaning_ja": "在学中の、学習中の",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_008"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "संयोजन",
+      "display": "संयोजन",
+      "normalized": "संयोजन",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "構成、組み合わせ、配列",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_008"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "लाभान्वित",
+      "display": "लाभान्वित",
+      "normalized": "लाभान्वित",
+      "variants": [],
+      "pos": "形容詞・分詞",
+      "meaning_ja": "恩恵を受けた、有益となった",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_008"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "अनुक्रम",
+      "display": "अनुक्रम",
+      "normalized": "अनुक्रम",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "順序、配列、目次順",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_008"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "प्रासंगिकता",
+      "display": "प्रासंगिकता",
+      "normalized": "प्रासंगिकता",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "関連性、妥当性",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_008"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "असंदिग्ध",
+      "display": "असंदिग्ध",
+      "normalized": "असंदिग्ध",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "疑いのない、明白な",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_008"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "निस्संकोच",
+      "display": "निस्संकोच",
+      "normalized": "निस्संकोच",
+      "variants": [],
+      "pos": "副詞",
+      "meaning_ja": "遠慮なく、ためらわずに",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_008"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "प्रकाशक",
+      "display": "प्रकाशक",
+      "normalized": "प्रकाशक",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "出版社、発行者",
+      "importance": 3,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_008"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "अधोलिखित",
+      "display": "अधोलिखित",
+      "normalized": "अधोलिखित",
+      "variants": [],
+      "pos": "形容詞・分詞",
+      "meaning_ja": "下記の、以下に記された",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "作文",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_008"
+      ],
+      "sourceTitle": "प्राक्कथन",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "विद्वान",
+      "display": "विद्वान",
+      "normalized": "विद्वान",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "学者",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "言語政策",
+        "政府文書"
+      ],
+      "sourceIds": [
+        "academic_009"
+      ],
+      "sourceTitle": "हिंदी वर्तनी का मानकीकरण",
+      "sourceGenre": "government_document",
+      "sourceRegister": "government_formal",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "सम्मिलित",
+      "display": "सम्मिलित",
+      "normalized": "सम्मिलित",
+      "variants": [],
+      "pos": "形容詞・分詞",
+      "meaning_ja": "含まれた、組み込まれた",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "言語政策",
+        "政府文書"
+      ],
+      "sourceIds": [
+        "academic_009"
+      ],
+      "sourceTitle": "हिंदी वर्तनी का मानकीकरण",
+      "sourceGenre": "government_document",
+      "sourceRegister": "government_formal",
       "audit": "existing_in_master"
     }
   ],

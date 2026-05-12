@@ -1,11 +1,11 @@
 {
   "topic": "bollywood",
-  "generatedAt": "2026-05-11T07:54:29.781Z",
+  "generatedAt": "2026-05-12T07:30:42.878Z",
   "counts": {
-    "vocab": 520,
-    "expressions": 217,
-    "fillBlanks": 216,
-    "songs": 42
+    "vocab": 536,
+    "expressions": 228,
+    "fillBlanks": 227,
+    "songs": 43
   },
   "vocab": [
     {
@@ -360,17 +360,18 @@
       "key": "चाहत",
       "category": "",
       "difficulty": 1,
-      "frequency": 2,
-      "sourceCount": 2,
+      "frequency": 3,
+      "sourceCount": 3,
       "importance": 4,
-      "quizWeight": 6.4,
+      "quizWeight": 5.2,
       "layer": "B",
       "tags": [
         "感情"
       ],
       "sourceSongIds": [
         "bolly_003",
-        "bolly_006"
+        "bolly_006",
+        "bolly_043"
       ]
     },
     {
@@ -1383,16 +1384,17 @@
       "key": "मरहम",
       "category": "",
       "difficulty": 1,
-      "frequency": 1,
-      "sourceCount": 1,
-      "importance": 3,
-      "quizWeight": 6,
+      "frequency": 2,
+      "sourceCount": 2,
+      "importance": 4,
+      "quizWeight": 6.4,
       "layer": "B",
       "tags": [
         "関係"
       ],
       "sourceSongIds": [
-        "bolly_010"
+        "bolly_010",
+        "bolly_043"
       ]
     },
     {
@@ -3250,14 +3252,15 @@
       "key": "छोड़ना",
       "category": "",
       "difficulty": 1,
-      "frequency": 1,
-      "sourceCount": 1,
+      "frequency": 2,
+      "sourceCount": 2,
       "importance": 3,
-      "quizWeight": 6,
+      "quizWeight": 4.8,
       "layer": "B",
       "tags": [],
       "sourceSongIds": [
-        "bolly_011"
+        "bolly_011",
+        "bolly_043"
       ]
     },
     {
@@ -4447,15 +4450,16 @@
       "key": "अंखियां",
       "category": "",
       "difficulty": 1,
-      "frequency": 2,
-      "sourceCount": 2,
-      "importance": 3,
-      "quizWeight": 4.8,
+      "frequency": 3,
+      "sourceCount": 3,
+      "importance": 4,
+      "quizWeight": 5.2,
       "layer": "B",
       "tags": [],
       "sourceSongIds": [
         "bolly_020",
-        "bolly_022"
+        "bolly_022",
+        "bolly_043"
       ]
     },
     {
@@ -9640,14 +9644,15 @@
       "key": "राहत",
       "category": "",
       "difficulty": 1,
-      "frequency": 1,
-      "sourceCount": 1,
+      "frequency": 2,
+      "sourceCount": 2,
       "importance": 4,
-      "quizWeight": 8,
+      "quizWeight": 6.4,
       "layer": "B",
       "tags": [],
       "sourceSongIds": [
-        "bolly_037"
+        "bolly_037",
+        "bolly_043"
       ]
     },
     {
@@ -11343,6 +11348,346 @@
       "tags": [],
       "sourceSongIds": [
         "bolly_042"
+      ]
+    },
+    {
+      "word": "हरजाई",
+      "surface": "हरजाई",
+      "display": "",
+      "normalized": "हरजाई",
+      "variants": [],
+      "meaning": "浮気な、不実な人",
+      "pos": "形容詞・名詞",
+      "key": "हरजाई",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 4,
+      "quizWeight": 8,
+      "layer": "B",
+      "tags": [],
+      "sourceSongIds": [
+        "bolly_043"
+      ]
+    },
+    {
+      "word": "रुआं",
+      "surface": "रुआँ",
+      "display": "रुआं",
+      "normalized": "रुआं",
+      "variants": [
+        "रुआँ"
+      ],
+      "meaning": "身体の一片一片、存在の細部",
+      "pos": "名詞（男）",
+      "key": "रुआं",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 4,
+      "quizWeight": 8,
+      "layer": "B",
+      "tags": [],
+      "sourceSongIds": [
+        "bolly_043"
+      ]
+    },
+    {
+      "word": "सुध-बुध",
+      "surface": "सुध-बुध",
+      "display": "",
+      "normalized": "सुध_बुध",
+      "variants": [],
+      "meaning": "正気、分別",
+      "pos": "名詞句",
+      "key": "सुध_बुध",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 4,
+      "quizWeight": 8,
+      "layer": "B",
+      "tags": [],
+      "sourceSongIds": [
+        "bolly_043"
+      ]
+    },
+    {
+      "word": "उलझन",
+      "surface": "उलझन",
+      "display": "",
+      "normalized": "उलझन",
+      "variants": [],
+      "meaning": "混乱、葛藤",
+      "pos": "名詞（女）",
+      "key": "उलझन",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 4,
+      "quizWeight": 8,
+      "layer": "B",
+      "tags": [],
+      "sourceSongIds": [
+        "bolly_043"
+      ]
+    },
+    {
+      "word": "जख्म",
+      "surface": "जख्म",
+      "display": "",
+      "normalized": "जख्म",
+      "variants": [],
+      "meaning": "傷、心の傷",
+      "pos": "名詞（男）",
+      "key": "जख्म",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 4,
+      "quizWeight": 8,
+      "layer": "B",
+      "tags": [],
+      "sourceSongIds": [
+        "bolly_043"
+      ]
+    },
+    {
+      "word": "मरहम",
+      "surface": "मरहम",
+      "display": "",
+      "normalized": "मरहम",
+      "variants": [],
+      "meaning": "軟膏、癒やし",
+      "pos": "名詞（男）",
+      "key": "मरहम",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 4,
+      "quizWeight": 8,
+      "layer": "B",
+      "tags": [],
+      "sourceSongIds": [
+        "bolly_043"
+      ]
+    },
+    {
+      "word": "हंजू",
+      "surface": "हंजू",
+      "display": "",
+      "normalized": "हंजू",
+      "variants": [],
+      "meaning": "涙（パンジャービー系）",
+      "pos": "名詞（男）",
+      "key": "हंजू",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 4,
+      "quizWeight": 8,
+      "layer": "B",
+      "tags": [],
+      "sourceSongIds": [
+        "bolly_043"
+      ]
+    },
+    {
+      "word": "मिस्री",
+      "surface": "मिस्री",
+      "display": "",
+      "normalized": "मिस्री",
+      "variants": [],
+      "meaning": "氷砂糖",
+      "pos": "名詞（女）",
+      "key": "मिस्री",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 4,
+      "quizWeight": 8,
+      "layer": "B",
+      "tags": [],
+      "sourceSongIds": [
+        "bolly_043"
+      ]
+    },
+    {
+      "word": "हक",
+      "surface": "हक",
+      "display": "",
+      "normalized": "हक",
+      "variants": [],
+      "meaning": "権利、資格",
+      "pos": "名詞（男）",
+      "key": "हक",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 4,
+      "quizWeight": 8,
+      "layer": "B",
+      "tags": [],
+      "sourceSongIds": [
+        "bolly_043"
+      ]
+    },
+    {
+      "word": "शक",
+      "surface": "शक",
+      "display": "",
+      "normalized": "शक",
+      "variants": [],
+      "meaning": "疑い、不信",
+      "pos": "名詞（男）",
+      "key": "शक",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 4,
+      "quizWeight": 8,
+      "layer": "B",
+      "tags": [],
+      "sourceSongIds": [
+        "bolly_043"
+      ]
+    },
+    {
+      "word": "निशान",
+      "surface": "निशान",
+      "display": "",
+      "normalized": "निशान",
+      "variants": [],
+      "meaning": "痕跡、印",
+      "pos": "名詞（男）",
+      "key": "निशान",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 4,
+      "quizWeight": 8,
+      "layer": "B",
+      "tags": [],
+      "sourceSongIds": [
+        "bolly_043"
+      ]
+    },
+    {
+      "word": "धुआं",
+      "surface": "धुआँ",
+      "display": "धुआं",
+      "normalized": "धुआं",
+      "variants": [
+        "धुआँ"
+      ],
+      "meaning": "煙",
+      "pos": "名詞（男）",
+      "key": "धुआं",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 3,
+      "quizWeight": 6,
+      "layer": "B",
+      "tags": [],
+      "sourceSongIds": [
+        "bolly_043"
+      ]
+    },
+    {
+      "word": "सुलगना",
+      "surface": "सुलगना",
+      "display": "सुलगना",
+      "normalized": "सुलगना",
+      "variants": [],
+      "meaning": "くすぶる、燃え上がる",
+      "pos": "自動詞",
+      "key": "सुलगना",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 4,
+      "quizWeight": 8,
+      "layer": "B",
+      "tags": [],
+      "sourceSongIds": [
+        "bolly_043"
+      ]
+    },
+    {
+      "word": "लूटना",
+      "surface": "लूटना",
+      "display": "लूटना",
+      "normalized": "लूटना",
+      "variants": [],
+      "meaning": "奪う、略奪する、心を奪う",
+      "pos": "他動詞",
+      "key": "लूटना",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 4,
+      "quizWeight": 8,
+      "layer": "B",
+      "tags": [],
+      "sourceSongIds": [
+        "bolly_043"
+      ]
+    },
+    {
+      "word": "अलसाना",
+      "surface": "अलसाना",
+      "display": "अलसाना",
+      "normalized": "अलसाना",
+      "variants": [],
+      "meaning": "けだるい、眠たげな",
+      "pos": "形容詞・分詞",
+      "key": "अलसाना",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 4,
+      "quizWeight": 8,
+      "layer": "B",
+      "tags": [],
+      "sourceSongIds": [
+        "bolly_043"
+      ]
+    },
+    {
+      "word": "धागा",
+      "surface": "धागा",
+      "display": "धागा",
+      "normalized": "धागा",
+      "variants": [],
+      "meaning": "糸、つながり",
+      "pos": "名詞（男）",
+      "key": "धागा",
+      "category": "",
+      "difficulty": 1,
+      "frequency": 1,
+      "sourceCount": 1,
+      "importance": 3,
+      "quizWeight": 6,
+      "layer": "B",
+      "tags": [],
+      "sourceSongIds": [
+        "bolly_043"
       ]
     }
   ],
@@ -14601,6 +14946,171 @@
       "difficulty": 1,
       "tags": [],
       "status": "active"
+    },
+    {
+      "id": "bolly_043::expr::1",
+      "type": "expression",
+      "songId": "bolly_043",
+      "songTitle": "Ruaan",
+      "film": "Tiger 3",
+      "year": 2023,
+      "text": "मेरा रुआँ रुआँ अब तेरे ना लिखना",
+      "normalized": "मेरा रुआं रुआं अब तेरे ना लिखना",
+      "meaning": "私の存在の一片一片に、もう君を書き込まないで",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": [],
+      "status": "active"
+    },
+    {
+      "id": "bolly_043::expr::2",
+      "type": "expression",
+      "songId": "bolly_043",
+      "songTitle": "Ruaan",
+      "film": "Tiger 3",
+      "year": 2023,
+      "text": "बातों के धागे मीठे से लागे",
+      "normalized": "बातों के धागे मीठे से लागे",
+      "meaning": "言葉の糸が甘く絡みつく",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": [],
+      "status": "active"
+    },
+    {
+      "id": "bolly_043::expr::3",
+      "type": "expression",
+      "songId": "bolly_043",
+      "songTitle": "Ruaan",
+      "film": "Tiger 3",
+      "year": 2023,
+      "text": "मिस्री सी टूटे यार तू",
+      "normalized": "मिस्री सी टूटे यार तू",
+      "meaning": "君は氷砂糖のように砕ける",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": [],
+      "status": "active"
+    },
+    {
+      "id": "bolly_043::expr::4",
+      "type": "expression",
+      "songId": "bolly_043",
+      "songTitle": "Ruaan",
+      "film": "Tiger 3",
+      "year": 2023,
+      "text": "इश्क गहरा मेरा तुझपे पेहरा मेरा",
+      "normalized": "इश्क गहरा मेरा तुझपे पहरा मेरा",
+      "meaning": "私の愛は深く、君の上には私の見張りがある",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": [],
+      "status": "active"
+    },
+    {
+      "id": "bolly_043::expr::5",
+      "type": "expression",
+      "songId": "bolly_043",
+      "songTitle": "Ruaan",
+      "film": "Tiger 3",
+      "year": 2023,
+      "text": "राहों में है माना धुआँ ही धुआँ",
+      "normalized": "राहों में है माना धुआं ही धुआं",
+      "meaning": "道には確かに煙ばかりが立ち込めている",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": [],
+      "status": "active"
+    },
+    {
+      "id": "bolly_043::expr::6",
+      "type": "expression",
+      "songId": "bolly_043",
+      "songTitle": "Ruaan",
+      "film": "Tiger 3",
+      "year": 2023,
+      "text": "हक भी तुझपे शक भी तुझपे",
+      "normalized": "हक भी तुझपे शक भी तुझपे",
+      "meaning": "君への権利も、君への疑いもある",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": [],
+      "status": "active"
+    },
+    {
+      "id": "bolly_043::expr::7",
+      "type": "expression",
+      "songId": "bolly_043",
+      "songTitle": "Ruaan",
+      "film": "Tiger 3",
+      "year": 2023,
+      "text": "मुझको तो सुध-बुध रही ना",
+      "normalized": "मुझको तो सुध बुध रही ना",
+      "meaning": "私はもう正気も分別も失ってしまった",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": [],
+      "status": "active"
+    },
+    {
+      "id": "bolly_043::expr::8",
+      "type": "expression",
+      "songId": "bolly_043",
+      "songTitle": "Ruaan",
+      "film": "Tiger 3",
+      "year": 2023,
+      "text": "तू बदल देती है मौसम",
+      "normalized": "तू बदल देती है मौसम",
+      "meaning": "君は季節さえ変えてしまう",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": [],
+      "status": "active"
+    },
+    {
+      "id": "bolly_043::expr::9",
+      "type": "expression",
+      "songId": "bolly_043",
+      "songTitle": "Ruaan",
+      "film": "Tiger 3",
+      "year": 2023,
+      "text": "जख्म तू है तू है मरहम",
+      "normalized": "जख्म तू है तू है मरहम",
+      "meaning": "君は傷でもあり、癒やしでもある",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": [],
+      "status": "active"
+    },
+    {
+      "id": "bolly_043::expr::10",
+      "type": "expression",
+      "songId": "bolly_043",
+      "songTitle": "Ruaan",
+      "film": "Tiger 3",
+      "year": 2023,
+      "text": "आग सुलगे चाहतों की",
+      "normalized": "आग सुलगे चाहतों की",
+      "meaning": "欲望の炎が燃え上がる",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": [],
+      "status": "active"
+    },
+    {
+      "id": "bolly_043::expr::11",
+      "type": "expression",
+      "songId": "bolly_043",
+      "songTitle": "Ruaan",
+      "film": "Tiger 3",
+      "year": 2023,
+      "text": "यारा है तेरे निशान ही निशान",
+      "normalized": "यारा है तेरे निशान ही निशान",
+      "meaning": "友よ、どこもかしこも君の痕跡ばかりだ",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": [],
+      "status": "active"
     }
   ],
   "fillBlanks": [
@@ -17840,6 +18350,171 @@
       "prompt": "_____ साथ रिश्ता गहरा बन गया",
       "answer": "तेरे",
       "meaning": "あなたとの関係は深いものになった",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "id": "bolly_043::expr::1::blank::1",
+      "type": "fill_blank",
+      "songId": "bolly_043",
+      "songTitle": "Ruaan",
+      "film": "Tiger 3",
+      "year": 2023,
+      "sourceText": "मेरा रुआँ रुआँ अब तेरे ना लिखना",
+      "prompt": "_____ रुआँ रुआँ अब तेरे ना लिखना",
+      "answer": "मेरा",
+      "meaning": "私の存在の一片一片に、もう君を書き込まないで",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "id": "bolly_043::expr::2::blank::2",
+      "type": "fill_blank",
+      "songId": "bolly_043",
+      "songTitle": "Ruaan",
+      "film": "Tiger 3",
+      "year": 2023,
+      "sourceText": "बातों के धागे मीठे से लागे",
+      "prompt": "_____ के धागे मीठे से लागे",
+      "answer": "बातों",
+      "meaning": "言葉の糸が甘く絡みつく",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "id": "bolly_043::expr::3::blank::3",
+      "type": "fill_blank",
+      "songId": "bolly_043",
+      "songTitle": "Ruaan",
+      "film": "Tiger 3",
+      "year": 2023,
+      "sourceText": "मिस्री सी टूटे यार तू",
+      "prompt": "_____ सी टूटे यार तू",
+      "answer": "मिस्री",
+      "meaning": "君は氷砂糖のように砕ける",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "id": "bolly_043::expr::4::blank::4",
+      "type": "fill_blank",
+      "songId": "bolly_043",
+      "songTitle": "Ruaan",
+      "film": "Tiger 3",
+      "year": 2023,
+      "sourceText": "इश्क गहरा मेरा तुझपे पेहरा मेरा",
+      "prompt": "_____ गहरा मेरा तुझपे पेहरा मेरा",
+      "answer": "इश्क",
+      "meaning": "私の愛は深く、君の上には私の見張りがある",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "id": "bolly_043::expr::5::blank::5",
+      "type": "fill_blank",
+      "songId": "bolly_043",
+      "songTitle": "Ruaan",
+      "film": "Tiger 3",
+      "year": 2023,
+      "sourceText": "राहों में है माना धुआँ ही धुआँ",
+      "prompt": "_____ में है माना धुआँ ही धुआँ",
+      "answer": "राहों",
+      "meaning": "道には確かに煙ばかりが立ち込めている",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "id": "bolly_043::expr::6::blank::6",
+      "type": "fill_blank",
+      "songId": "bolly_043",
+      "songTitle": "Ruaan",
+      "film": "Tiger 3",
+      "year": 2023,
+      "sourceText": "हक भी तुझपे शक भी तुझपे",
+      "prompt": "_____ भी तुझपे शक भी तुझपे",
+      "answer": "हक",
+      "meaning": "君への権利も、君への疑いもある",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "id": "bolly_043::expr::7::blank::7",
+      "type": "fill_blank",
+      "songId": "bolly_043",
+      "songTitle": "Ruaan",
+      "film": "Tiger 3",
+      "year": 2023,
+      "sourceText": "मुझको तो सुध-बुध रही ना",
+      "prompt": "_____ तो सुध-बुध रही ना",
+      "answer": "मुझको",
+      "meaning": "私はもう正気も分別も失ってしまった",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "id": "bolly_043::expr::8::blank::8",
+      "type": "fill_blank",
+      "songId": "bolly_043",
+      "songTitle": "Ruaan",
+      "film": "Tiger 3",
+      "year": 2023,
+      "sourceText": "तू बदल देती है मौसम",
+      "prompt": "_____ बदल देती है मौसम",
+      "answer": "तू",
+      "meaning": "君は季節さえ変えてしまう",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "id": "bolly_043::expr::9::blank::9",
+      "type": "fill_blank",
+      "songId": "bolly_043",
+      "songTitle": "Ruaan",
+      "film": "Tiger 3",
+      "year": 2023,
+      "sourceText": "जख्म तू है तू है मरहम",
+      "prompt": "_____ तू है तू है मरहम",
+      "answer": "जख्म",
+      "meaning": "君は傷でもあり、癒やしでもある",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "id": "bolly_043::expr::10::blank::10",
+      "type": "fill_blank",
+      "songId": "bolly_043",
+      "songTitle": "Ruaan",
+      "film": "Tiger 3",
+      "year": 2023,
+      "sourceText": "आग सुलगे चाहतों की",
+      "prompt": "_____ सुलगे चाहतों की",
+      "answer": "आग",
+      "meaning": "欲望の炎が燃え上がる",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "id": "bolly_043::expr::11::blank::11",
+      "type": "fill_blank",
+      "songId": "bolly_043",
+      "songTitle": "Ruaan",
+      "film": "Tiger 3",
+      "year": 2023,
+      "sourceText": "यारा है तेरे निशान ही निशान",
+      "prompt": "_____ है तेरे निशान ही निशान",
+      "answer": "यारा",
+      "meaning": "友よ、どこもかしこも君の痕跡ばかりだ",
       "importance": 4,
       "difficulty": 1,
       "tags": []
