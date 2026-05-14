@@ -1,0 +1,450 @@
+{
+  "id": "bolly_045",
+  "schema_version": 2,
+  "title": "Joganiyan",
+  "film": "Tevar",
+  "year": 2015,
+  "singer": [
+    "Shruti Haasan"
+  ],
+  "lyricist": [
+    "Kausar Munir"
+  ],
+  "composer": [
+    "Sajid–Wajid"
+  ],
+  "notes": [
+    "アルジュン・カプール",
+    "恋愛の陶酔を जोगी / जोगनियां の宗教的・民俗的イメージで表す曲",
+    "色彩語・身体語・自然イメージが多い詩的な恋愛歌"
+  ],
+  "tags": [
+    "恋愛",
+    "献身",
+    "詩的",
+    "民俗",
+    "色彩"
+  ],
+  "emotion": "romantic_devotional_surrender",
+  "register": "poetic_romantic_folk_devotional",
+  "key_phrase": "हुई मैं तेरी जोगनियां जोगनियां तू जोगी तेरी जोगनियां मैं जोगनियां",
+  "expressions": [
+    {
+      "text": "हुई मैं तेरी जोगनियां जोगनियां",
+      "normalized": "हुई मैं तेरी जोगनियां जोगनियां",
+      "meaning_ja": "私はあなたの女修行者、あなたに身を捧げる者になった",
+      "type": "key_phrase",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "तू जोगी तेरी जोगनियां मैं जोगनियां",
+      "normalized": "तू जोगी तेरी जोगनियां मैं जोगनियां",
+      "meaning_ja": "あなたは修行者、私はあなたの女修行者",
+      "type": "devotional_love_expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "धानी धानी मुस्कुराहटों के फूल",
+      "normalized": "धानी धानी मुस्कुराहटों के फूल",
+      "meaning_ja": "淡い緑色を帯びた微笑みの花々",
+      "type": "poetic_image",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "रंगरेलियों की धूप",
+      "normalized": "रंगरेलियों की धूप",
+      "meaning_ja": "楽しい戯れの陽ざし",
+      "type": "poetic_image",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "सजने लगी तन बदन",
+      "normalized": "सजने लगी तन बदन",
+      "meaning_ja": "身体全体が飾られ始めた、美しく色づき始めた",
+      "type": "body_image",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "अब चाहे मोहे रंग लगा",
+      "normalized": "अब चाहे मुझे रंग लगा",
+      "meaning_ja": "今なら私に色をつけてもいい",
+      "type": "romantic_folk_expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "पिया जी मोहे अंग लगा",
+      "normalized": "पिया जी मुझे अंग लगा",
+      "meaning_ja": "愛しい人よ、私を抱きしめて",
+      "type": "romantic_expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "जब से मिली बाहें तेरी",
+      "normalized": "जब से मिली बाहें तेरी",
+      "meaning_ja": "あなたの腕に出会ってから",
+      "type": "romantic_expression",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "मुझ से मिली राहें मेरी",
+      "normalized": "मुझसे मिली राहें मेरी",
+      "meaning_ja": "私の道が私自身と出会った",
+      "type": "poetic_expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "छत पे तेरी जाग के",
+      "normalized": "छत पर तेरी जाग के",
+      "meaning_ja": "あなたの屋上で目を覚まして、眠らずにいて",
+      "type": "romantic_scene",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "रातें जला",
+      "normalized": "रातें जला",
+      "meaning_ja": "夜を燃やして",
+      "type": "poetic_image",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "रातें बुझा",
+      "normalized": "रातें बुझा",
+      "meaning_ja": "夜を消して",
+      "type": "poetic_image",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "चाहतों के छींटे",
+      "normalized": "चाहतों के छींटे",
+      "meaning_ja": "愛情のしぶき",
+      "type": "poetic_image",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "ख्वाहिशों पे बारिशों की बूँदें",
+      "normalized": "ख्वाहिशों पर बारिशों की बूंदें",
+      "meaning_ja": "願望の上に降る雨のしずく",
+      "type": "poetic_image",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "तरने लगे तन बदन",
+      "normalized": "तरने लगे तन बदन",
+      "meaning_ja": "身体全体が浮かび漂い始めた",
+      "type": "body_image",
+      "importance": 3,
+      "status": "active"
+    }
+  ],
+  "vocab_candidates": [
+    {
+      "word": "जोगनियां",
+      "normalized": "जोगनिया",
+      "display": "जोगनिया",
+      "variants": [
+        "जोगनियां",
+        "जोगनियाँ"
+      ],
+      "pos": "名詞（女）",
+      "meaning_ja": "女性の修行者、女行者、愛に身を捧げる女",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "जोगी",
+      "normalized": "जोगी",
+      "pos": "名詞（男）",
+      "meaning_ja": "修行者、ヨーギー、行者",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "पारी",
+      "normalized": "पारी",
+      "pos": "形容詞・詩語",
+      "meaning_ja": "淡い、やわらかな（詩的表現）",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "होंठ",
+      "normalized": "होंठ",
+      "pos": "名詞（男・複）",
+      "meaning_ja": "唇",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "धानी",
+      "normalized": "धानी",
+      "pos": "形容詞",
+      "meaning_ja": "稲のような淡い緑色の、黄緑色の",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "मुस्कुराहट",
+      "normalized": "मुस्कुराहट",
+      "pos": "名詞（女）",
+      "meaning_ja": "微笑み",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "खिलना",
+      "normalized": "खिलना",
+      "pos": "自動詞",
+      "meaning_ja": "咲く、花開く",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "खारी",
+      "normalized": "खारी",
+      "pos": "形容詞",
+      "meaning_ja": "塩辛い、しょっぱい",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "हथेली",
+      "normalized": "हथेली",
+      "pos": "名詞（女）",
+      "meaning_ja": "手のひら",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "रंगरेली",
+      "normalized": "रंगरेली",
+      "display": "रंगरेली",
+      "variants": [
+        "रंगरेलियां",
+        "रंगरेलियों"
+      ],
+      "pos": "名詞（女）",
+      "meaning_ja": "戯れ、歓楽、楽しい遊び",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "धूप",
+      "normalized": "धूप",
+      "pos": "名詞（女）",
+      "meaning_ja": "日差し、陽光",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "सजना",
+      "normalized": "सजना",
+      "pos": "自動詞",
+      "meaning_ja": "飾られる、美しく整う",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "तन बदन",
+      "normalized": "तन बदन",
+      "display": "तन-बदन",
+      "variants": [
+        "तन बदन"
+      ],
+      "pos": "名詞句",
+      "meaning_ja": "身体全体、全身",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "मोहे",
+      "normalized": "मुझे",
+      "display": "मुझे",
+      "variants": [
+        "मोहे"
+      ],
+      "pos": "代名詞・詩語",
+      "meaning_ja": "私を、私に（詩的・方言的形）",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "पिया",
+      "normalized": "पिया",
+      "pos": "名詞（男）",
+      "meaning_ja": "愛しい人、恋人、夫",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "अंग",
+      "normalized": "अंग",
+      "pos": "名詞（男）",
+      "meaning_ja": "身体、身体の部分、肢体",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "बाहें",
+      "normalized": "बाँह",
+      "display": "बाँह",
+      "variants": [
+        "बाहें",
+        "बाँहें"
+      ],
+      "pos": "名詞（女・複）",
+      "meaning_ja": "腕、両腕",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "राहें",
+      "normalized": "राह",
+      "display": "राह",
+      "variants": [
+        "राहें"
+      ],
+      "pos": "名詞（女・複）",
+      "meaning_ja": "道、進む道",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "छत",
+      "normalized": "छत",
+      "pos": "名詞（女）",
+      "meaning_ja": "屋根、屋上、天井",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "जागना",
+      "normalized": "जागना",
+      "pos": "自動詞",
+      "meaning_ja": "起きる、目覚める、眠らずにいる",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "बुझना",
+      "normalized": "बुझना",
+      "pos": "自動詞",
+      "meaning_ja": "消える、鎮まる",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "नीमे",
+      "normalized": "नीमा",
+      "display": "नीमा",
+      "variants": [
+        "नीमे"
+      ],
+      "pos": "形容詞・詩語",
+      "meaning_ja": "淡い、やわらかな、低く抑えた",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "नैन",
+      "normalized": "नैन",
+      "pos": "名詞（男・複）",
+      "meaning_ja": "目、瞳",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "चाहत",
+      "normalized": "चाहत",
+      "pos": "名詞（女）",
+      "meaning_ja": "愛情、願い、欲求",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "छींटा",
+      "normalized": "छींटा",
+      "display": "छींटा",
+      "variants": [
+        "छींटे"
+      ],
+      "pos": "名詞（男）",
+      "meaning_ja": "しぶき、飛沫、水滴",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "टीला",
+      "normalized": "टीला",
+      "display": "टीला",
+      "variants": [
+        "टीले"
+      ],
+      "pos": "名詞（男）",
+      "meaning_ja": "小丘、盛り上がった場所",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "ख्वाहिश",
+      "normalized": "ख्वाहिश",
+      "display": "ख़्वाहिश",
+      "variants": [
+        "ख्वाहिश",
+        "ख़्वाहिशों"
+      ],
+      "pos": "名詞（女）",
+      "meaning_ja": "願望、望み",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "बारिश",
+      "normalized": "बारिश",
+      "pos": "名詞（女）",
+      "meaning_ja": "雨、降雨",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "बूँद",
+      "normalized": "बूंद",
+      "display": "बूँद",
+      "variants": [
+        "बूंद",
+        "बूँदें"
+      ],
+      "pos": "名詞（女）",
+      "meaning_ja": "しずく、水滴",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "तरना",
+      "normalized": "तरना",
+      "pos": "自動詞",
+      "meaning_ja": "浮かぶ、泳ぐ、渡る",
+      "importance": 3,
+      "status": "active"
+    }
+  ],
+  "meta": {
+    "copyright_safe": true,
+    "lyrics_included": false,
+    "source_type": "manual_curated",
+    "dedupe_ready": true
+  }
+}

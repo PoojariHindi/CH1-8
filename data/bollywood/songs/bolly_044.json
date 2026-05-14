@@ -1,0 +1,644 @@
+{
+  "id": "bolly_044",
+  "schema_version": 2,
+  "title": "Haanikaarak Bapu",
+  "film": "Dangal",
+  "year": 2016,
+  "singer": [
+    "Sarwar Khan",
+    "Sartaz Khan Barna"
+  ],
+  "lyricist": [
+    "Amitabh Bhattacharya"
+  ],
+  "composer": [
+    "Pritam"
+  ],
+  "notes": [
+    "アーミル",
+    "子どもの視点から父の厳しい訓練をコミカルに歌う曲",
+    "ハリヤーンヴィー風の口語・方言要素あり"
+  ],
+  "tags": [
+    "父子",
+    "家族",
+    "スポーツ",
+    "コミカル",
+    "方言"
+  ],
+  "emotion": "comic_child_complaint",
+  "register": "comic_haryanvi_folk_colloquial",
+  "key_phrase": "बापू सेहत के लिए तू तो हानिकारक है",
+  "expressions": [
+    {
+      "text": "बापू सेहत के लिए तू तो हानिकारक है",
+      "normalized": "बापू सेहत के लिए तू तो हानिकारक है",
+      "meaning_ja": "お父さん、あなたは健康に有害です",
+      "type": "key_phrase",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "औरों पे करम, बच्चों पे सितम",
+      "normalized": "औरों पर करम, बच्चों पर सितम",
+      "meaning_ja": "他人には慈悲を、子どもには仕打ちを",
+      "type": "contrast_expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "ये ज़ुल्म ना कर",
+      "normalized": "यह जुल्म न कर",
+      "meaning_ja": "こんなひどいことはしないで",
+      "type": "plea",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "हम पे थोड़ी दया तो करो",
+      "normalized": "हम पर थोड़ी दया तो करो",
+      "meaning_ja": "私たちに少しは情けをかけてください",
+      "type": "plea",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "हम नन्हे बालक हैं",
+      "normalized": "हम नन्हे बालक हैं",
+      "meaning_ja": "私たちは小さな子どもです",
+      "type": "expression",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "ख़ुदकुशी के लायक़ है",
+      "normalized": "खुदकुशी के लायक है",
+      "meaning_ja": "自殺ものだ、それほどつらい",
+      "type": "comic_hyperbole",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "यो तो टार्चर है घाना",
+      "normalized": "यह तो टॉर्चर है घना",
+      "meaning_ja": "これはひどい拷問だよ",
+      "type": "dialect_expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "बच्चों से ही बोले के ना करना बचपना",
+      "normalized": "बच्चों से ही बोले कि न करना बचपना",
+      "meaning_ja": "子どもに向かって、子どもっぽいことをするなと言う",
+      "type": "comic_expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "कह गए हैं टाटा",
+      "normalized": "कह गए हैं टाटा",
+      "meaning_ja": "さよならを言って去ってしまった",
+      "type": "colloquial_expression",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "मस्त सैर सपाटा",
+      "normalized": "मस्त सैर-सपाटा",
+      "meaning_ja": "楽しい遊び歩き、気ままな外出",
+      "type": "colloquial_expression",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "घड़ी का काँटा",
+      "normalized": "घड़ी का कांटा",
+      "meaning_ja": "時計の針",
+      "type": "image_expression",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "खस्ता हालत है",
+      "normalized": "खस्ता हालत है",
+      "meaning_ja": "状態がひどい、ボロボロの状態だ",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "वाहन चालक हैं",
+      "normalized": "वाहन चालक हैं",
+      "meaning_ja": "運転手である、操縦している人である",
+      "type": "metaphor",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "तेल लेने गया रे बचपन",
+      "normalized": "तेल लेने गया बचपन",
+      "meaning_ja": "子ども時代なんてどこかへ行ってしまった",
+      "type": "idiom_colloquial",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "झड़ गई रे फुलवारी",
+      "normalized": "झड़ गई फुलवारी",
+      "meaning_ja": "花園が散ってしまった、楽しさが失われた",
+      "type": "poetic_image",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "जंग की तैयारी",
+      "normalized": "जंग की तैयारी",
+      "meaning_ja": "戦争の準備",
+      "type": "metaphor",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "आँसू की पिचकारी",
+      "normalized": "आंसू की पिचकारी",
+      "meaning_ja": "涙の水鉄砲、涙が噴き出す様子",
+      "type": "comic_image",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "हम तेरे बलिहारी",
+      "normalized": "हम तेरे बलिहारी",
+      "meaning_ja": "あなたにはまったく参りました、あなたに身を捧げます",
+      "type": "folk_expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "हिंदी फिल्मों के खलनायक",
+      "normalized": "हिंदी फिल्मों के खलनायक",
+      "meaning_ja": "ヒンディー映画の悪役たち",
+      "type": "cultural_reference",
+      "importance": 3,
+      "status": "active"
+    }
+  ],
+  "vocab_candidates": [
+    {
+      "word": "बापू",
+      "normalized": "बापू",
+      "pos": "名詞（男）",
+      "meaning_ja": "父、お父さん",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "हानिकारक",
+      "normalized": "हानिकारक",
+      "pos": "形容詞",
+      "meaning_ja": "有害な、害になる",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "करम",
+      "normalized": "करम",
+      "pos": "名詞（男）",
+      "meaning_ja": "慈悲、恩恵、情け",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "सितम",
+      "normalized": "सितम",
+      "pos": "名詞（男）",
+      "meaning_ja": "虐げ、ひどい仕打ち",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "ज़ुल्म",
+      "normalized": "जुल्म",
+      "display": "ज़ुल्म",
+      "variants": [
+        "जुल्म"
+      ],
+      "pos": "名詞（男）",
+      "meaning_ja": "暴虐、ひどい仕打ち",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "सेहत",
+      "normalized": "सेहत",
+      "pos": "名詞（女）",
+      "meaning_ja": "健康",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "दया",
+      "normalized": "दया",
+      "pos": "名詞（女）",
+      "meaning_ja": "慈悲、情け",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "नन्हे",
+      "normalized": "नन्हा",
+      "display": "नन्हा",
+      "pos": "形容詞",
+      "meaning_ja": "小さな、幼い",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "बालक",
+      "normalized": "बालक",
+      "pos": "名詞（男）",
+      "meaning_ja": "子ども、男の子",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "डिसिप्लीन",
+      "normalized": "डिसिप्लीन",
+      "pos": "名詞（男）",
+      "meaning_ja": "規律、訓練、ディシプリン",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "ख़ुदकुशी",
+      "normalized": "खुदकुशी",
+      "display": "ख़ुदकुशी",
+      "variants": [
+        "खुदकुशी"
+      ],
+      "pos": "名詞（女）",
+      "meaning_ja": "自殺",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "लायक़",
+      "normalized": "लायक",
+      "display": "लायक़",
+      "variants": [
+        "लायक"
+      ],
+      "pos": "形容詞",
+      "meaning_ja": "ふさわしい、値する",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "तन्ने",
+      "normalized": "तूने",
+      "display": "तूने",
+      "variants": [
+        "तन्ने"
+      ],
+      "pos": "代名詞・方言形",
+      "meaning_ja": "お前が、あなたが（方言形）",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "यो",
+      "normalized": "यह",
+      "display": "यह",
+      "variants": [
+        "यो"
+      ],
+      "pos": "指示代名詞・方言形",
+      "meaning_ja": "これ、この（方言形）",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "टार्चर",
+      "normalized": "टॉर्चर",
+      "display": "टॉर्चर",
+      "variants": [
+        "टार्चर"
+      ],
+      "pos": "名詞（男）",
+      "meaning_ja": "拷問、非常につらいこと",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "घाना",
+      "normalized": "घना",
+      "display": "घना",
+      "variants": [
+        "घाना"
+      ],
+      "pos": "形容詞・副詞・方言形",
+      "meaning_ja": "非常に、たくさん、濃い",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "बचपना",
+      "normalized": "बचपना",
+      "pos": "名詞（男）",
+      "meaning_ja": "子どもっぽさ、幼稚な振る舞い",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "टॉफ़ी",
+      "normalized": "टॉफी",
+      "display": "टॉफ़ी",
+      "variants": [
+        "टॉफी"
+      ],
+      "pos": "名詞（女）",
+      "meaning_ja": "トフィー、キャンディー",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "चूरन",
+      "normalized": "चूरन",
+      "pos": "名詞（男）",
+      "meaning_ja": "消化促進用の粉、チュールン",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "खिलोने",
+      "normalized": "खिलौना",
+      "display": "खिलौना",
+      "variants": [
+        "खिलोना",
+        "खिलोने"
+      ],
+      "pos": "名詞（男・複）",
+      "meaning_ja": "おもちゃ",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "कुलचे",
+      "normalized": "कुलचा",
+      "display": "कुलचा",
+      "pos": "名詞（男・複）",
+      "meaning_ja": "クルチャ、インドのパン",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "पराठा",
+      "normalized": "पराठा",
+      "pos": "名詞（男）",
+      "meaning_ja": "パラーター、油を使ったインドのパン",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "डाटा",
+      "normalized": "डाँटना",
+      "display": "डाँटना",
+      "variants": [
+        "डाटा",
+        "डांटा",
+        "डाँटा"
+      ],
+      "pos": "他動詞",
+      "meaning_ja": "叱る、叱責する",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "शोभा",
+      "normalized": "शोभा",
+      "pos": "名詞（女）",
+      "meaning_ja": "美しさ、ふさわしさ、映えること",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "सैर-सपाटा",
+      "normalized": "सैर-सपाटा",
+      "display": "सैर-सपाटा",
+      "variants": [
+        "सैर सपाटा"
+      ],
+      "pos": "名詞（男）",
+      "meaning_ja": "遊び歩き、散策、外出",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "काँटा",
+      "normalized": "कांटा",
+      "display": "काँटा",
+      "variants": [
+        "कांटा"
+      ],
+      "pos": "名詞（男）",
+      "meaning_ja": "針、とげ",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "किस्मत",
+      "normalized": "किस्मत",
+      "pos": "名詞（女）",
+      "meaning_ja": "運命、幸運",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "गाड़ी",
+      "normalized": "गाड़ी",
+      "pos": "名詞（女）",
+      "meaning_ja": "車、乗り物",
+      "importance": 2,
+      "status": "active"
+    },
+    {
+      "word": "खस्ता",
+      "normalized": "खस्ता",
+      "pos": "形容詞",
+      "meaning_ja": "ぼろぼろの、悪い状態の",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "हालत",
+      "normalized": "हालत",
+      "pos": "名詞（女）",
+      "meaning_ja": "状態、状況",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "म्हारे",
+      "normalized": "हमारे",
+      "display": "हमारे",
+      "variants": [
+        "म्हारे"
+      ],
+      "pos": "代名詞・方言形",
+      "meaning_ja": "私たちの（方言形）",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "वाहन",
+      "normalized": "वाहन",
+      "pos": "名詞（男）",
+      "meaning_ja": "乗り物、車両",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "चालक",
+      "normalized": "चालक",
+      "pos": "名詞（男）",
+      "meaning_ja": "運転手、操作者",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "खट्टा",
+      "normalized": "खट्टा",
+      "pos": "形容詞",
+      "meaning_ja": "酸っぱい",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "तीखा",
+      "normalized": "तीखा",
+      "pos": "形容詞",
+      "meaning_ja": "辛い、鋭い",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "मिट्टी",
+      "normalized": "मिट्टी",
+      "pos": "名詞（女）",
+      "meaning_ja": "土、粘土",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "गुड़िया",
+      "normalized": "गुड़िया",
+      "pos": "名詞（女）",
+      "meaning_ja": "人形、女の子への愛称",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "बचपन",
+      "normalized": "बचपन",
+      "pos": "名詞（男）",
+      "meaning_ja": "子ども時代、幼少期",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "झड़ना",
+      "normalized": "झड़ना",
+      "pos": "自動詞",
+      "meaning_ja": "散る、抜け落ちる",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "फुलवारी",
+      "normalized": "फुलवारी",
+      "pos": "名詞（女）",
+      "meaning_ja": "花園、花畑",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "जंग",
+      "normalized": "जंग",
+      "pos": "名詞（女）",
+      "meaning_ja": "戦争、戦い",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "तैयारी",
+      "normalized": "तैयारी",
+      "pos": "名詞（女）",
+      "meaning_ja": "準備、用意",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "पिचकारी",
+      "normalized": "पिचकारी",
+      "pos": "名詞（女）",
+      "meaning_ja": "水鉄砲、噴き出すもの",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "मोगाम्बो",
+      "normalized": "मोगैम्बो",
+      "display": "मोगैम्बो",
+      "variants": [
+        "मोगाम्बो",
+        "मोगैंबो"
+      ],
+      "pos": "固有名詞",
+      "meaning_ja": "モガンボー、ヒンディー映画の有名な悪役",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "बलिहारी",
+      "normalized": "बलिहारी",
+      "pos": "形容詞・感嘆表現",
+      "meaning_ja": "身を捧げるほど感服した、参った",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "नालायक",
+      "normalized": "नालायक",
+      "pos": "形容詞・名詞",
+      "meaning_ja": "役立たずの、不出来な人",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "मन्ने",
+      "normalized": "मुझे",
+      "display": "मुझे",
+      "variants": [
+        "मन्ने"
+      ],
+      "pos": "代名詞・方言形",
+      "meaning_ja": "私を、私に（方言形）",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "खलनायक",
+      "normalized": "खलनायक",
+      "pos": "名詞（男）",
+      "meaning_ja": "悪役、敵役",
+      "importance": 4,
+      "status": "active"
+    }
+  ],
+  "meta": {
+    "copyright_safe": true,
+    "lyrics_included": false,
+    "source_type": "manual_curated",
+    "dedupe_ready": true
+  }
+}

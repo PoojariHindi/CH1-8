@@ -1,0 +1,237 @@
+{
+  "id": "bolly_047",
+  "schema_version": 2,
+
+  "title": "Neend Churayee Meri",
+  "film": "Ishq",
+  "year": 1997,
+
+  "singer": [
+    "Kumar Sanu",
+    "Udit Narayan",
+    "Alka Yagnik",
+    "Kavita Krishnamurthy"
+  ],
+
+  "lyricist": [
+    "Rahat Indori"
+  ],
+
+  "composer": [
+    "Anu Malik"
+  ],
+
+  "notes": [
+    "アーミル"
+  ],
+
+  "tags": [
+    "恋愛"
+  ],
+
+  "emotion": "playful_romantic_teasing",
+  "register": "romantic_film_song",
+
+  "key_phrase": "नींद चुराई मेरी, किसने ओ सनम तूने",
+
+  "expressions": [
+    {
+      "text": "नींद चुराई मेरी",
+      "normalized": "नींद चुराना",
+      "meaning_ja": "私の眠りを奪った",
+      "type": "key_phrase",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "चैन चुराया मेरा",
+      "normalized": "चैन चुराना",
+      "meaning_ja": "私の心の安らぎを奪った",
+      "type": "key_phrase",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "दिल में मेरे रहने वाली कौन है",
+      "normalized": "दिल में रहना",
+      "meaning_ja": "私の心の中に住んでいるのは誰なのか",
+      "type": "romantic_expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "जान भी मेरी हाजिर है",
+      "normalized": "जान हाजिर होना",
+      "meaning_ja": "私の命さえ差し出す覚悟がある",
+      "type": "dramatic_expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "तेरी किस्मत तेरी चाहत कौन है",
+      "normalized": "तेरी किस्मत तेरी चाहत कौन है",
+      "meaning_ja": "君の運命、君の愛する相手は誰なのか",
+      "type": "romantic_expression",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "डर डर के",
+      "normalized": "डर डर के",
+      "meaning_ja": "おどおどしながら、怖がりながら",
+      "type": "adverbial_expression",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "सौ बार दिखा दूँ मर मर के",
+      "normalized": "सौ बार दिखा देना मर मर के",
+      "meaning_ja": "何度でも死んでみせるほどだ",
+      "type": "dramatic_expression",
+      "importance": 3,
+      "status": "active"
+    }
+  ],
+
+  "vocab_candidates": [
+    {
+      "word": "नींद",
+      "normalized": "नींद",
+      "pos": "名詞（女）",
+      "meaning_ja": "眠り、睡眠",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "चैन",
+      "normalized": "चैन",
+      "display": "चैन",
+      "variants": [
+        "चेन"
+      ],
+      "pos": "名詞（男）",
+      "meaning_ja": "安らぎ、平穏",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "चुराना",
+      "normalized": "चुराना",
+      "pos": "他動詞",
+      "meaning_ja": "盗む、奪う",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "सनम",
+      "normalized": "सनम",
+      "pos": "名詞（男）",
+      "meaning_ja": "恋人、愛しい人",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "मतलब",
+      "normalized": "मतलब",
+      "pos": "名詞（男）",
+      "meaning_ja": "意味、意図、用件",
+      "importance": 2,
+      "status": "active"
+    },
+    {
+      "word": "बेचारा",
+      "normalized": "बेचारा",
+      "pos": "形容詞・名詞",
+      "meaning_ja": "かわいそうな、哀れな人",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "पैर",
+      "normalized": "पैर",
+      "pos": "名詞（男）",
+      "meaning_ja": "足",
+      "importance": 2,
+      "status": "active"
+    },
+    {
+      "word": "भरोसा",
+      "normalized": "भरोसा",
+      "pos": "名詞（男）",
+      "meaning_ja": "信頼、信用、あて",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "काफिर",
+      "normalized": "काफिर",
+      "pos": "名詞・形容詞",
+      "meaning_ja": "不信心者；恋に背く者、つれない者",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "जान",
+      "normalized": "जान",
+      "pos": "名詞（女）",
+      "meaning_ja": "命、生命；愛しい人",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "हाजिर",
+      "normalized": "हाजिर",
+      "display": "हाजिर",
+      "variants": [
+        "हाज़िर"
+      ],
+      "pos": "形容詞",
+      "meaning_ja": "用意がある、差し出せる状態の、出席している",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "चाहत",
+      "normalized": "चाहत",
+      "pos": "名詞（女）",
+      "meaning_ja": "愛情、恋心、望み",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "पागल",
+      "normalized": "पागल",
+      "pos": "形容詞・名詞",
+      "meaning_ja": "狂った、夢中の人",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "घुंघरू",
+      "normalized": "घुंघरू",
+      "display": "घुँघरू",
+      "variants": [
+        "घुंघरू"
+      ],
+      "pos": "名詞（男）",
+      "meaning_ja": "鈴、足鈴",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "पायल",
+      "normalized": "पायल",
+      "pos": "名詞（女）",
+      "meaning_ja": "足飾り、アンクレット",
+      "importance": 4,
+      "status": "active"
+    }
+  ],
+
+  "meta": {
+    "copyright_safe": true,
+    "lyrics_included": false,
+    "source_type": "manual_curated",
+    "dedupe_ready": true
+  }
+}

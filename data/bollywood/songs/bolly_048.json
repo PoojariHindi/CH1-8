@@ -1,0 +1,208 @@
+{
+  "id": "bolly_048",
+  "schema_version": 2,
+
+  "title": "Aaya Tere Dar Par",
+  "film": "Veer-Zaara",
+  "year": 2004,
+
+  "singer": [
+    "Ahmed Hussain",
+    "Mohd. Hussain",
+    "Mohd Vakil",
+    "Javed Hussain"
+  ],
+
+  "lyricist": [
+    "Javed Akhtar"
+  ],
+
+  "composer": [
+    "Sanjeev Kohli"
+  ],
+
+  "notes": [
+    "シャールク"
+  ],
+
+  "tags": [
+    "神",
+    "カッワーリー"
+  ],
+
+  "emotion": "devotional_surrender",
+  "register": "qawwali_poetic",
+
+  "key_phrase": "आया तेरे दर पर दीवाना",
+
+  "expressions": [
+    {
+      "text": "तेरे दर पर आना",
+      "normalized": "तेरे दर पर आना",
+      "meaning_ja": "あなたの門前にやって来る、あなたのもとにすがりに来る",
+      "type": "devotional_expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "दुनिया को छोड़ आना",
+      "normalized": "दुनिया को छोड़ आना",
+      "meaning_ja": "世間を捨てて来る",
+      "type": "devotional_expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "बन्दिशें तोड़ आना",
+      "normalized": "बंदिशें तोड़ आना",
+      "meaning_ja": "束縛を断ち切って来る",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "तेरे वास्ते",
+      "normalized": "तेरे वास्ते",
+      "meaning_ja": "あなたのために",
+      "type": "expression",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "तेरे इश्क़ में मर जाना",
+      "normalized": "तेरे इश्क में मर जाना",
+      "meaning_ja": "あなたへの愛の中で死んでしまう、愛に殉じる",
+      "type": "sufi_expression",
+      "importance": 4,
+      "status": "active"
+    }
+  ],
+
+  "vocab_candidates": [
+    {
+      "word": "बन्दिशें",
+      "normalized": "बंदिश",
+      "display": "बंदिश",
+      "variants": [
+        "बन्दिश",
+        "बन्दिशें"
+      ],
+      "pos": "名詞（女・複）",
+      "meaning_ja": "束縛、制約、しがらみ",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "ज़माने",
+      "normalized": "जमाना",
+      "display": "ज़माना",
+      "variants": [
+        "ज़माना",
+        "जमाना",
+        "ज़माने"
+      ],
+      "pos": "名詞（男）",
+      "meaning_ja": "世間、時代",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "तोड़ना",
+      "normalized": "तोड़ना",
+      "display": "तोड़ना",
+      "variants": [
+        "तोड़ना",
+        "तोड़"
+      ],
+      "pos": "他動詞",
+      "meaning_ja": "壊す、破る、断ち切る",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "वास्ते",
+      "normalized": "वास्ते",
+      "display": "वास्ते",
+      "variants": [],
+      "pos": "後置詞的表現",
+      "meaning_ja": "ために、〜のため",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "छोड़ना",
+      "normalized": "छोड़ना",
+      "display": "छोड़ना",
+      "variants": [
+        "छोड़ना",
+        "छोड़"
+      ],
+      "pos": "他動詞",
+      "meaning_ja": "捨てる、去る、離れる",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "दर",
+      "normalized": "दर",
+      "display": "दर",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "門、戸口、御前",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "दीवाना",
+      "normalized": "दीवाना",
+      "display": "दीवाना",
+      "variants": [
+        "दिवाना"
+      ],
+      "pos": "形容詞・名詞",
+      "meaning_ja": "夢中の、狂おしいほど恋した人",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "सौदाई",
+      "normalized": "सौदाई",
+      "display": "सौदाई",
+      "variants": [],
+      "pos": "形容詞・名詞",
+      "meaning_ja": "恋に狂った人、夢中になった人",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "शेहदायी",
+      "normalized": "शेहदायी",
+      "display": "शेहदायी",
+      "variants": [],
+      "pos": "形容詞・名詞",
+      "meaning_ja": "愛に取り憑かれた人、恋に狂った人",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "इश्क़",
+      "normalized": "इश्क",
+      "display": "इश्क़",
+      "variants": [
+        "इश्क़",
+        "इश्क"
+      ],
+      "pos": "名詞（男）",
+      "meaning_ja": "深い愛、恋、神秘的な愛",
+      "importance": 4,
+      "status": "active"
+    }
+  ],
+
+  "meta": {
+    "copyright_safe": true,
+    "lyrics_included": false,
+    "source_type": "manual_curated",
+    "dedupe_ready": true
+  }
+}

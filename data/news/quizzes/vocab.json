@@ -1,5 +1,29 @@
 [
   {
+    "word": "स्थिति",
+    "normalized": "स्थिति",
+    "meaning_ja": "状況、状態",
+    "pos": "名詞（女）",
+    "category": "調査・データ",
+    "difficulty": 2,
+    "importance": 3,
+    "sourceCount": 7,
+    "frequency": 7,
+    "quizWeight": 15
+  },
+  {
+    "word": "प्रक्रिया",
+    "normalized": "प्रक्रिया",
+    "meaning_ja": "手続き、過程、プロセス",
+    "pos": "名詞（女）",
+    "category": "行政・制度",
+    "difficulty": 2,
+    "importance": 4,
+    "sourceCount": 4,
+    "frequency": 4,
+    "quizWeight": 14
+  },
+  {
     "word": "अधिकारी",
     "normalized": "अधिकारी",
     "meaning_ja": "役人、職員",
@@ -72,15 +96,15 @@
     "quizWeight": 13
   },
   {
-    "word": "प्रक्रिया",
-    "normalized": "प्रक्रिया",
-    "meaning_ja": "手続き、過程、プロセス",
-    "pos": "名詞（女）",
-    "category": "行政・制度",
-    "difficulty": 2,
-    "importance": 4,
-    "sourceCount": 3,
-    "frequency": 3,
+    "word": "प्रभावित",
+    "normalized": "प्रभावित",
+    "meaning_ja": "影響を受けた",
+    "pos": "形容詞",
+    "category": "社会・公共",
+    "difficulty": 3,
+    "importance": 3,
+    "sourceCount": 6,
+    "frequency": 6,
     "quizWeight": 13
   },
   {
@@ -108,22 +132,34 @@
     "quizWeight": 13
   },
   {
-    "word": "स्थिति",
-    "normalized": "स्थिति",
-    "meaning_ja": "状況、状態",
-    "pos": "名詞（女）",
-    "category": "調査・データ",
-    "difficulty": 2,
-    "importance": 3,
-    "sourceCount": 5,
-    "frequency": 5,
-    "quizWeight": 13
-  },
-  {
     "word": "अनुमति",
     "normalized": "अनुमति",
     "meaning_ja": "許可",
     "pos": "名詞（女）",
+    "category": "行政・制度",
+    "difficulty": 2,
+    "importance": 4,
+    "sourceCount": 2,
+    "frequency": 2,
+    "quizWeight": 12
+  },
+  {
+    "word": "अपील",
+    "normalized": "अपील",
+    "meaning_ja": "上訴、訴え、アピール",
+    "pos": "名詞（女）",
+    "category": "裁判・法・選挙",
+    "difficulty": 2,
+    "importance": 4,
+    "sourceCount": 2,
+    "frequency": 2,
+    "quizWeight": 12
+  },
+  {
+    "word": "अलर्ट",
+    "normalized": "अलर्ट",
+    "meaning_ja": "警報、アラート",
+    "pos": "名詞（男）",
     "category": "行政・制度",
     "difficulty": 2,
     "importance": 4,
@@ -204,6 +240,30 @@
     "quizWeight": 12
   },
   {
+    "word": "बारिश",
+    "normalized": "बारिश",
+    "meaning_ja": "雨、降雨",
+    "pos": "名詞（女）",
+    "category": "都市・環境",
+    "difficulty": 1,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 12
+  },
+  {
+    "word": "भुगतान",
+    "normalized": "भुगतान",
+    "meaning_ja": "支払い",
+    "pos": "名詞（男）",
+    "category": "労働・経済",
+    "difficulty": 2,
+    "importance": 4,
+    "sourceCount": 2,
+    "frequency": 2,
+    "quizWeight": 12
+  },
+  {
     "word": "मज़दूर",
     "normalized": "मजदूर",
     "meaning_ja": "労働者",
@@ -225,6 +285,30 @@
     "importance": 4,
     "sourceCount": 3,
     "frequency": 3,
+    "quizWeight": 12
+  },
+  {
+    "word": "मौत",
+    "normalized": "मौत",
+    "meaning_ja": "死",
+    "pos": "名詞（女）",
+    "category": "事件・事故",
+    "difficulty": 2,
+    "importance": 4,
+    "sourceCount": 2,
+    "frequency": 2,
+    "quizWeight": 12
+  },
+  {
+    "word": "योजना",
+    "normalized": "योजना",
+    "meaning_ja": "計画",
+    "pos": "名詞（女）",
+    "category": "行政・制度",
+    "difficulty": 2,
+    "importance": 4,
+    "sourceCount": 2,
+    "frequency": 2,
     "quizWeight": 12
   },
   {
@@ -312,11 +396,11 @@
     "quizWeight": 11
   },
   {
-    "word": "अपील",
-    "normalized": "अपील",
-    "meaning_ja": "上訴、訴え、アピール",
+    "word": "आंधी",
+    "normalized": "आंधी",
+    "meaning_ja": "突風、砂嵐、強風",
     "pos": "名詞（女）",
-    "category": "裁判・法・選挙",
+    "category": "都市・環境",
     "difficulty": 2,
     "importance": 4,
     "sourceCount": 1,
@@ -324,15 +408,27 @@
     "quizWeight": 11
   },
   {
-    "word": "अलर्ट",
-    "normalized": "अलर्ट",
-    "meaning_ja": "警報、アラート",
-    "pos": "名詞（男）",
-    "category": "行政・制度",
-    "difficulty": 2,
+    "word": "आपूर्ति",
+    "normalized": "आपूर्ति",
+    "meaning_ja": "供給",
+    "pos": "名詞（女）",
+    "category": "労働・経済",
+    "difficulty": 3,
     "importance": 4,
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 2,
+    "frequency": 2,
+    "quizWeight": 11
+  },
+  {
+    "word": "आयात",
+    "normalized": "आयात",
+    "meaning_ja": "輸入",
+    "pos": "名詞（男）",
+    "category": "労働・経済",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 2,
+    "frequency": 2,
     "quizWeight": 11
   },
   {
@@ -444,6 +540,18 @@
     "quizWeight": 11
   },
   {
+    "word": "क्षमता",
+    "normalized": "क्षमता",
+    "meaning_ja": "能力; 処理能力",
+    "pos": "名詞（女）",
+    "category": "社会・公共",
+    "difficulty": 3,
+    "importance": 3,
+    "sourceCount": 4,
+    "frequency": 4,
+    "quizWeight": 11
+  },
+  {
     "word": "गाइडलाइन",
     "normalized": "गाइडलाइन",
     "meaning_ja": "ガイドライン、指針",
@@ -453,6 +561,18 @@
     "importance": 4,
     "sourceCount": 1,
     "frequency": 1,
+    "quizWeight": 11
+  },
+  {
+    "word": "घायल",
+    "normalized": "घायल",
+    "meaning_ja": "負傷した",
+    "pos": "形容詞・分詞",
+    "category": "事件・事故",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 2,
+    "frequency": 2,
     "quizWeight": 11
   },
   {
@@ -492,6 +612,18 @@
     "quizWeight": 11
   },
   {
+    "word": "तूफान",
+    "normalized": "तूफान",
+    "meaning_ja": "嵐、暴風雨",
+    "pos": "名詞（男）",
+    "category": "都市・環境",
+    "difficulty": 2,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 11
+  },
+  {
     "word": "थाना",
     "normalized": "थाना",
     "meaning_ja": "警察署",
@@ -513,6 +645,42 @@
     "importance": 4,
     "sourceCount": 1,
     "frequency": 1,
+    "quizWeight": 11
+  },
+  {
+    "word": "नुकसान",
+    "normalized": "नुकसान",
+    "meaning_ja": "損害、被害",
+    "pos": "名詞（男）",
+    "category": "事件・事故",
+    "difficulty": 2,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 11
+  },
+  {
+    "word": "न्यूनतम",
+    "normalized": "न्यूनतम",
+    "meaning_ja": "最低の、最小の",
+    "pos": "形容詞",
+    "category": "労働・経済",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 2,
+    "frequency": 2,
+    "quizWeight": 11
+  },
+  {
+    "word": "परीक्षा परिणाम",
+    "normalized": "परीक्षा_परिणाम",
+    "meaning_ja": "試験結果、試験成績",
+    "pos": "名詞句",
+    "category": "教育",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 2,
+    "frequency": 2,
     "quizWeight": 11
   },
   {
@@ -564,18 +732,6 @@
     "quizWeight": 11
   },
   {
-    "word": "प्रभावित",
-    "normalized": "प्रभावित",
-    "meaning_ja": "影響を受けた",
-    "pos": "形容詞",
-    "category": "社会・公共",
-    "difficulty": 3,
-    "importance": 3,
-    "sourceCount": 4,
-    "frequency": 4,
-    "quizWeight": 11
-  },
-  {
     "word": "फैसला",
     "normalized": "फैसला",
     "meaning_ja": "判決、決定",
@@ -600,11 +756,11 @@
     "quizWeight": 11
   },
   {
-    "word": "भुगतान",
-    "normalized": "भुगतान",
-    "meaning_ja": "支払い",
-    "pos": "名詞（男）",
-    "category": "労働・経済",
+    "word": "बोर्ड परीक्षा",
+    "normalized": "बोर्ड_परीक्षा",
+    "meaning_ja": "ボード試験",
+    "pos": "名詞（女）",
+    "category": "教育",
     "difficulty": 2,
     "importance": 4,
     "sourceCount": 1,
@@ -672,35 +828,11 @@
     "quizWeight": 11
   },
   {
-    "word": "मौत",
-    "normalized": "मौत",
-    "meaning_ja": "死",
-    "pos": "名詞（女）",
-    "category": "事件・事故",
-    "difficulty": 2,
-    "importance": 4,
-    "sourceCount": 1,
-    "frequency": 1,
-    "quizWeight": 11
-  },
-  {
     "word": "यमुना",
     "normalized": "यमुना",
     "meaning_ja": "ヤムナー川",
     "pos": "固有名詞",
     "category": "都市・環境",
-    "difficulty": 2,
-    "importance": 4,
-    "sourceCount": 1,
-    "frequency": 1,
-    "quizWeight": 11
-  },
-  {
-    "word": "योजना",
-    "normalized": "योजना",
-    "meaning_ja": "計画",
-    "pos": "名詞（女）",
-    "category": "行政・制度",
     "difficulty": 2,
     "importance": 4,
     "sourceCount": 1,
@@ -715,6 +847,18 @@
     "category": "都市・環境",
     "difficulty": 1,
     "importance": 3,
+    "sourceCount": 2,
+    "frequency": 2,
+    "quizWeight": 11
+  },
+  {
+    "word": "लागू करना",
+    "normalized": "लागू_करना",
+    "meaning_ja": "施行する、適用する",
+    "pos": "動詞句",
+    "category": "重要動詞",
+    "difficulty": 3,
+    "importance": 4,
     "sourceCount": 2,
     "frequency": 2,
     "quizWeight": 11
@@ -864,30 +1008,6 @@
     "quizWeight": 10
   },
   {
-    "word": "आपूर्ति",
-    "normalized": "आपूर्ति",
-    "meaning_ja": "供給",
-    "pos": "名詞（女）",
-    "category": "労働・経済",
-    "difficulty": 3,
-    "importance": 4,
-    "sourceCount": 1,
-    "frequency": 1,
-    "quizWeight": 10
-  },
-  {
-    "word": "आयात",
-    "normalized": "आयात",
-    "meaning_ja": "輸入",
-    "pos": "名詞（男）",
-    "category": "労働・経済",
-    "difficulty": 3,
-    "importance": 4,
-    "sourceCount": 1,
-    "frequency": 1,
-    "quizWeight": 10
-  },
-  {
     "word": "इजाफा",
     "normalized": "इजाफा",
     "meaning_ja": "増加、値上げ",
@@ -936,6 +1056,30 @@
     "quizWeight": 10
   },
   {
+    "word": "कारीगर",
+    "normalized": "कारीगर",
+    "meaning_ja": "職人",
+    "pos": "名詞（男）",
+    "category": "労働・経済",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 10
+  },
+  {
+    "word": "कारोबारी",
+    "normalized": "कारोबारी",
+    "meaning_ja": "事業家、商業の",
+    "pos": "名詞・形容詞",
+    "category": "労働・経済",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 10
+  },
+  {
     "word": "कूड़ा",
     "normalized": "कूड़ा",
     "meaning_ja": "ごみ、廃棄物",
@@ -945,18 +1089,6 @@
     "importance": 3,
     "sourceCount": 2,
     "frequency": 2,
-    "quizWeight": 10
-  },
-  {
-    "word": "क्षमता",
-    "normalized": "क्षमता",
-    "meaning_ja": "能力; 処理能力",
-    "pos": "名詞（女）",
-    "category": "社会・公共",
-    "difficulty": 3,
-    "importance": 3,
-    "sourceCount": 3,
-    "frequency": 3,
     "quizWeight": 10
   },
   {
@@ -1044,11 +1176,35 @@
     "quizWeight": 10
   },
   {
-    "word": "घायल",
-    "normalized": "घायल",
-    "meaning_ja": "負傷した",
-    "pos": "形容詞・分詞",
-    "category": "事件・事故",
+    "word": "घाटा",
+    "normalized": "घाटा",
+    "meaning_ja": "赤字、損失",
+    "pos": "名詞（男）",
+    "category": "労働・経済",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 10
+  },
+  {
+    "word": "चेतावनी",
+    "normalized": "चेतावनी",
+    "meaning_ja": "警告、注意報",
+    "pos": "名詞（女）",
+    "category": "都市・環境",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 10
+  },
+  {
+    "word": "जमाकर्ता",
+    "normalized": "जमाकर्ता",
+    "meaning_ja": "預金者、預託者",
+    "pos": "名詞（男）",
+    "category": "労働・経済",
     "difficulty": 3,
     "importance": 4,
     "sourceCount": 1,
@@ -1068,11 +1224,35 @@
     "quizWeight": 10
   },
   {
+    "word": "जीवनयापन",
+    "normalized": "जीवनयापन",
+    "meaning_ja": "生計維持、生活",
+    "pos": "名詞（男）",
+    "category": "労働・経済",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 10
+  },
+  {
     "word": "जोर देना",
     "normalized": "जोर_देना",
     "meaning_ja": "強調する、重視する",
     "pos": "動詞句",
     "category": "重要動詞",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 10
+  },
+  {
+    "word": "झमाझम बारिश",
+    "normalized": "झमाझम_बारिश",
+    "meaning_ja": "激しい雨、ざあざあ降る雨",
+    "pos": "名詞（女）",
+    "category": "都市・環境",
     "difficulty": 3,
     "importance": 4,
     "sourceCount": 1,
@@ -1152,10 +1332,34 @@
     "quizWeight": 10
   },
   {
-    "word": "न्यूनतम",
-    "normalized": "न्यूनतम",
-    "meaning_ja": "最低の、最小の",
-    "pos": "形容詞",
+    "word": "निर्माता",
+    "normalized": "निर्माता",
+    "meaning_ja": "製造者、メーカー",
+    "pos": "名詞（男）",
+    "category": "労働・経済",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 10
+  },
+  {
+    "word": "निर्यात",
+    "normalized": "निर्यात",
+    "meaning_ja": "輸出",
+    "pos": "名詞（男）",
+    "category": "労働・経済",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 10
+  },
+  {
+    "word": "निर्यातक",
+    "normalized": "निर्यातक",
+    "meaning_ja": "輸出業者",
+    "pos": "名詞（男）",
     "category": "労働・経済",
     "difficulty": 3,
     "importance": 4,
@@ -1212,18 +1416,6 @@
     "quizWeight": 10
   },
   {
-    "word": "परीक्षा परिणाम",
-    "normalized": "परीक्षा_परिणाम",
-    "meaning_ja": "試験結果、試験成績",
-    "pos": "名詞句",
-    "category": "教育",
-    "difficulty": 3,
-    "importance": 4,
-    "sourceCount": 1,
-    "frequency": 1,
-    "quizWeight": 10
-  },
-  {
     "word": "पहचान",
     "normalized": "पहचान",
     "meaning_ja": "身元確認、識別",
@@ -1233,6 +1425,18 @@
     "importance": 3,
     "sourceCount": 2,
     "frequency": 2,
+    "quizWeight": 10
+  },
+  {
+    "word": "पास प्रतिशत",
+    "normalized": "पास_प्रतिशत",
+    "meaning_ja": "合格率",
+    "pos": "名詞（男）",
+    "category": "教育",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
     "quizWeight": 10
   },
   {
@@ -1392,6 +1596,18 @@
     "quizWeight": 10
   },
   {
+    "word": "बचत",
+    "normalized": "बचत",
+    "meaning_ja": "節約、貯蓄",
+    "pos": "名詞（女）",
+    "category": "労働・経済",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 10
+  },
+  {
     "word": "बढ़ावा देना",
     "normalized": "बढ़ावा_देना",
     "meaning_ja": "促進する、後押しする",
@@ -1428,6 +1644,18 @@
     "quizWeight": 10
   },
   {
+    "word": "बर्फबारी",
+    "normalized": "बर्फबारी",
+    "meaning_ja": "降雪",
+    "pos": "名詞（女）",
+    "category": "都市・環境",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 10
+  },
+  {
     "word": "बहुमत",
     "normalized": "बहुमत",
     "meaning_ja": "過半数",
@@ -1440,11 +1668,47 @@
     "quizWeight": 10
   },
   {
+    "word": "बिजली आपूर्ति",
+    "normalized": "बिजली_आपूर्ति",
+    "meaning_ja": "電力供給",
+    "pos": "名詞（女）",
+    "category": "都市・環境",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 10
+  },
+  {
     "word": "बोझ",
     "normalized": "बोझ",
     "meaning_ja": "負担",
     "pos": "名詞（男）",
     "category": "労働・経済",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 10
+  },
+  {
+    "word": "ब्याज",
+    "normalized": "ब्याज",
+    "meaning_ja": "利子、利息",
+    "pos": "名詞（男）",
+    "category": "労働・経済",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 10
+  },
+  {
+    "word": "भीषण गर्मी",
+    "normalized": "भीषण_गर्मी",
+    "meaning_ja": "猛烈な暑さ、酷暑",
+    "pos": "名詞（女）",
+    "category": "都市・環境",
     "difficulty": 3,
     "importance": 4,
     "sourceCount": 1,
@@ -1524,11 +1788,35 @@
     "quizWeight": 10
   },
   {
+    "word": "मूल्यांकन",
+    "normalized": "मूल्यांकन",
+    "meaning_ja": "評価、採点",
+    "pos": "名詞（男）",
+    "category": "教育",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 10
+  },
+  {
     "word": "मृत्यु",
     "normalized": "मृत्यु",
     "meaning_ja": "死亡、死去",
     "pos": "名詞（女）",
     "category": "事件・事故",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 10
+  },
+  {
+    "word": "मौसम विभाग",
+    "normalized": "मौसम_विभाग",
+    "meaning_ja": "気象局、気象部門",
+    "pos": "名詞（男）",
+    "category": "都市・環境",
     "difficulty": 3,
     "importance": 4,
     "sourceCount": 1,
@@ -1553,18 +1841,6 @@
     "meaning_ja": "防止、抑止",
     "pos": "名詞（女）",
     "category": "行政・制度",
-    "difficulty": 3,
-    "importance": 4,
-    "sourceCount": 1,
-    "frequency": 1,
-    "quizWeight": 10
-  },
-  {
-    "word": "लागू करना",
-    "normalized": "लागू_करना",
-    "meaning_ja": "施行する、適用する",
-    "pos": "動詞句",
-    "category": "重要動詞",
     "difficulty": 3,
     "importance": 4,
     "sourceCount": 1,
@@ -1620,6 +1896,30 @@
     "quizWeight": 10
   },
   {
+    "word": "वित्त वर्ष",
+    "normalized": "वित्त_वर्ष",
+    "meaning_ja": "会計年度",
+    "pos": "名詞句",
+    "category": "労働・経済",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 10
+  },
+  {
+    "word": "विदेशी मुद्रा",
+    "normalized": "विदेशी_मुद्रा",
+    "meaning_ja": "外貨、外国通貨",
+    "pos": "名詞句",
+    "category": "労働・経済",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 10
+  },
+  {
     "word": "विधानसभा",
     "normalized": "विधानसभा",
     "meaning_ja": "州議会",
@@ -1641,6 +1941,18 @@
     "importance": 4,
     "sourceCount": 2,
     "frequency": 2,
+    "quizWeight": 10
+  },
+  {
+    "word": "विशेषज्ञ",
+    "normalized": "विशेषज्ञ",
+    "meaning_ja": "専門家",
+    "pos": "名詞（男）",
+    "category": "医療・健康",
+    "difficulty": 3,
+    "importance": 3,
+    "sourceCount": 3,
+    "frequency": 3,
     "quizWeight": 10
   },
   {
@@ -1704,6 +2016,18 @@
     "quizWeight": 10
   },
   {
+    "word": "संशोधन",
+    "normalized": "संशोधन",
+    "meaning_ja": "修正、改正",
+    "pos": "名詞（男）",
+    "category": "労働・経済",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 10
+  },
+  {
     "word": "सत्ता",
     "normalized": "सत्ता",
     "meaning_ja": "政権、権力",
@@ -1745,6 +2069,18 @@
     "meaning_ja": "支持、支援",
     "pos": "名詞（男）",
     "category": "選挙・裁判",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 10
+  },
+  {
+    "word": "सराफा",
+    "normalized": "सराफा",
+    "meaning_ja": "貴金属市場、宝石商業界",
+    "pos": "名詞（男）",
+    "category": "労働・経済",
     "difficulty": 3,
     "importance": 4,
     "sourceCount": 1,
@@ -1992,6 +2328,18 @@
     "quizWeight": 9
   },
   {
+    "word": "अवधारणात्मक",
+    "normalized": "अवधारणात्मक",
+    "meaning_ja": "概念的な",
+    "pos": "形容詞",
+    "category": "教育",
+    "difficulty": 5,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
     "word": "असंगठित",
     "normalized": "असंगठित",
     "meaning_ja": "非組織的な、未組織の",
@@ -2100,6 +2448,18 @@
     "quizWeight": 9
   },
   {
+    "word": "ओलावृष्टि",
+    "normalized": "ओलावृष्टि",
+    "meaning_ja": "降ひょう、ひょう被害",
+    "pos": "名詞（女）",
+    "category": "都市・環境",
+    "difficulty": 5,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
     "word": "कमर्शियल",
     "normalized": "कमर्शियल",
     "meaning_ja": "商業用の",
@@ -2107,6 +2467,18 @@
     "category": "労働・経済",
     "difficulty": 2,
     "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "कहर बरपाना",
+    "normalized": "कहर_बरपाना",
+    "meaning_ja": "大きな被害をもたらす、猛威を振るう",
+    "pos": "動詞句",
+    "category": "事件・事故",
+    "difficulty": 4,
+    "importance": 4,
     "sourceCount": 1,
     "frequency": 1,
     "quizWeight": 9
@@ -2142,6 +2514,18 @@
     "pos": "名詞（男）",
     "category": "行政・制度",
     "difficulty": 5,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "गरज-चमक",
+    "normalized": "गरज_चमक",
+    "meaning_ja": "雷鳴と稲光",
+    "pos": "名詞（女）",
+    "category": "都市・環境",
+    "difficulty": 4,
     "importance": 4,
     "sourceCount": 1,
     "frequency": 1,
@@ -2244,6 +2628,18 @@
     "quizWeight": 9
   },
   {
+    "word": "चक्रवाती परिसंचरण",
+    "normalized": "चक्रवाती_परिसंचरण",
+    "meaning_ja": "低気圧性循環、サイクロン性循環",
+    "pos": "名詞（男）",
+    "category": "都市・環境",
+    "difficulty": 5,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
     "word": "चिकित्सकीय",
     "normalized": "चिकित्सकीय",
     "meaning_ja": "医学的な、医療上の",
@@ -2309,6 +2705,18 @@
     "meaning_ja": "審判機関、法廷、トリビュナル",
     "pos": "名詞（男）",
     "category": "裁判・法・選挙",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "तबाही",
+    "normalized": "तबाही",
+    "meaning_ja": "大被害、壊滅、惨状",
+    "pos": "名詞（女）",
+    "category": "事件・事故",
     "difficulty": 4,
     "importance": 4,
     "sourceCount": 1,
@@ -2664,6 +3072,18 @@
     "quizWeight": 9
   },
   {
+    "word": "भूस्खलन",
+    "normalized": "भूस्खलन",
+    "meaning_ja": "地すべり、土砂崩れ",
+    "pos": "名詞（男）",
+    "category": "都市・環境",
+    "difficulty": 5,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
     "word": "मतदाता सूची",
     "normalized": "मतदाता_सूची",
     "meaning_ja": "有権者名簿",
@@ -2748,6 +3168,18 @@
     "quizWeight": 9
   },
   {
+    "word": "रफ्तार",
+    "normalized": "रफ्तार",
+    "meaning_ja": "速度、スピード",
+    "pos": "名詞（女）",
+    "category": "都市・環境",
+    "difficulty": 2,
+    "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
     "word": "रासायनिक आक्सीजन मांग",
     "normalized": "रासायनिक_आक्सीजन_मांग",
     "meaning_ja": "化学的酸素要求量（COD）",
@@ -2772,6 +3204,18 @@
     "quizWeight": 9
   },
   {
+    "word": "वज्रपात",
+    "normalized": "वज्रपात",
+    "meaning_ja": "落雷",
+    "pos": "名詞（男）",
+    "category": "事件・事故",
+    "difficulty": 5,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
     "word": "विधान",
     "normalized": "विधान",
     "meaning_ja": "儀礼規定、定め、方式",
@@ -2793,18 +3237,6 @@
     "importance": 4,
     "sourceCount": 1,
     "frequency": 1,
-    "quizWeight": 9
-  },
-  {
-    "word": "विशेषज्ञ",
-    "normalized": "विशेषज्ञ",
-    "meaning_ja": "専門家",
-    "pos": "名詞（男）",
-    "category": "医療・健康",
-    "difficulty": 3,
-    "importance": 3,
-    "sourceCount": 2,
-    "frequency": 2,
     "quizWeight": 9
   },
   {
@@ -3012,11 +3444,71 @@
     "quizWeight": 8
   },
   {
+    "word": "अधिकतम",
+    "normalized": "अधिकतम",
+    "meaning_ja": "最大の",
+    "pos": "形容詞",
+    "category": "労働・経済",
+    "difficulty": 3,
+    "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 8
+  },
+  {
     "word": "अध्याय",
     "normalized": "अध्याय",
     "meaning_ja": "章、節",
     "pos": "名詞（男）",
     "category": "文化・宗教",
+    "difficulty": 3,
+    "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 8
+  },
+  {
+    "word": "अनुमान",
+    "normalized": "अनुमान",
+    "meaning_ja": "予測、推定",
+    "pos": "名詞（男）",
+    "category": "労働・経済",
+    "difficulty": 3,
+    "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 8
+  },
+  {
+    "word": "अरब",
+    "normalized": "अरब",
+    "meaning_ja": "10億",
+    "pos": "数詞・名詞",
+    "category": "労働・経済",
+    "difficulty": 3,
+    "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 8
+  },
+  {
+    "word": "अवधि",
+    "normalized": "अवधि",
+    "meaning_ja": "期間",
+    "pos": "名詞（女）",
+    "category": "労働・経済",
+    "difficulty": 3,
+    "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 8
+  },
+  {
+    "word": "आरबीआइ",
+    "normalized": "आरबीआइ",
+    "meaning_ja": "インド準備銀行（RBI）",
+    "pos": "組織名",
+    "category": "労働・経済",
     "difficulty": 3,
     "importance": 3,
     "sourceCount": 1,
@@ -3096,11 +3588,47 @@
     "quizWeight": 8
   },
   {
+    "word": "कीमत",
+    "normalized": "कीमत",
+    "meaning_ja": "価格、価値",
+    "pos": "名詞（女）",
+    "category": "労働・経済",
+    "difficulty": 3,
+    "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 8
+  },
+  {
     "word": "कृषि",
     "normalized": "कृषि",
     "meaning_ja": "農業",
     "pos": "名詞（女）",
     "category": "社会・公共",
+    "difficulty": 3,
+    "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 8
+  },
+  {
+    "word": "खरीदारी",
+    "normalized": "खरीदारी",
+    "meaning_ja": "購入、買い物",
+    "pos": "名詞（女）",
+    "category": "労働・経済",
+    "difficulty": 3,
+    "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 8
+  },
+  {
+    "word": "खाता",
+    "normalized": "खाता",
+    "meaning_ja": "口座、勘定",
+    "pos": "名詞（男）",
+    "category": "労働・経済",
     "difficulty": 3,
     "importance": 3,
     "sourceCount": 1,
@@ -3132,11 +3660,35 @@
     "quizWeight": 8
   },
   {
+    "word": "गोल्ड मोनेटाइजेशन स्कीम",
+    "normalized": "गोल्ड_मोनेटाइजेशन_स्कीम",
+    "meaning_ja": "ゴールド・モネタイゼーション制度",
+    "pos": "名詞句",
+    "category": "労働・経済",
+    "difficulty": 3,
+    "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 8
+  },
+  {
     "word": "ग्रामीण",
     "normalized": "ग्रामीण",
     "meaning_ja": "農村住民",
     "pos": "名詞（男）",
     "category": "社会・公共",
+    "difficulty": 3,
+    "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 8
+  },
+  {
+    "word": "घरेलू",
+    "normalized": "घरेलू",
+    "meaning_ja": "国内の、家庭の",
+    "pos": "形容詞",
+    "category": "労働・経済",
     "difficulty": 3,
     "importance": 3,
     "sourceCount": 1,
@@ -3168,6 +3720,18 @@
     "quizWeight": 8
   },
   {
+    "word": "ज्वेलरी",
+    "normalized": "ज्वेलरी",
+    "meaning_ja": "宝飾品、ジュエリー",
+    "pos": "名詞（女）",
+    "category": "労働・経済",
+    "difficulty": 3,
+    "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 8
+  },
+  {
     "word": "तनाव मुक्त",
     "normalized": "तनाव_मुक्त",
     "meaning_ja": "ストレスのない、ストレスから解放された",
@@ -3192,6 +3756,18 @@
     "quizWeight": 8
   },
   {
+    "word": "नकद",
+    "normalized": "नकद",
+    "meaning_ja": "現金",
+    "pos": "名詞・形容詞",
+    "category": "労働・経済",
+    "difficulty": 3,
+    "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 8
+  },
+  {
     "word": "नमूना",
     "normalized": "नमूना",
     "meaning_ja": "サンプル、標本、試料",
@@ -3209,6 +3785,18 @@
     "meaning_ja": "非難、糾弾",
     "pos": "名詞（女）",
     "category": "社会・公共",
+    "difficulty": 3,
+    "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 8
+  },
+  {
+    "word": "निर्माण",
+    "normalized": "निर्माण",
+    "meaning_ja": "建設、製造",
+    "pos": "名詞（男）",
+    "category": "労働・経済",
     "difficulty": 3,
     "importance": 3,
     "sourceCount": 1,
@@ -3240,6 +3828,18 @@
     "quizWeight": 8
   },
   {
+    "word": "प्रतिक्रिया",
+    "normalized": "प्रतिक्रिया",
+    "meaning_ja": "反応",
+    "pos": "名詞（女）",
+    "category": "労働・経済",
+    "difficulty": 3,
+    "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 8
+  },
+  {
     "word": "प्रमुख कारण",
     "normalized": "प्रमुख_कारण",
     "meaning_ja": "主な原因",
@@ -3252,11 +3852,47 @@
     "quizWeight": 8
   },
   {
+    "word": "प्रारूप",
+    "normalized": "प्रारूप",
+    "meaning_ja": "草案、フォーマット",
+    "pos": "名詞（男）",
+    "category": "労働・経済",
+    "difficulty": 3,
+    "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 8
+  },
+  {
     "word": "बरकरार",
     "normalized": "बरकरार",
     "meaning_ja": "維持された",
     "pos": "形容詞",
     "category": "選挙・裁判",
+    "difficulty": 3,
+    "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 8
+  },
+  {
+    "word": "ब्लैकआउट",
+    "normalized": "ब्लैकआउट",
+    "meaning_ja": "停電、ブラックアウト",
+    "pos": "名詞（男）",
+    "category": "都市・環境",
+    "difficulty": 3,
+    "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 8
+  },
+  {
+    "word": "भंडार",
+    "normalized": "भंडार",
+    "meaning_ja": "貯蔵、備蓄",
+    "pos": "名詞（男）",
+    "category": "労働・経済",
     "difficulty": 3,
     "importance": 3,
     "sourceCount": 1,
@@ -3279,6 +3915,18 @@
     "word": "महानगर",
     "normalized": "महानगर",
     "meaning_ja": "大都市、メトロポリス",
+    "pos": "名詞（男）",
+    "category": "都市・環境",
+    "difficulty": 3,
+    "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 8
+  },
+  {
+    "word": "रेल यातायात",
+    "normalized": "रेल_यातायात",
+    "meaning_ja": "鉄道交通、鉄道運行",
     "pos": "名詞（男）",
     "category": "都市・環境",
     "difficulty": 3,
@@ -3317,6 +3965,30 @@
     "meaning_ja": "協力的な、協力者",
     "pos": "形容詞・名詞",
     "category": "社会・公共",
+    "difficulty": 3,
+    "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 8
+  },
+  {
+    "word": "सालाना",
+    "normalized": "सालाना",
+    "meaning_ja": "年ごとの、年間",
+    "pos": "形容詞・副詞",
+    "category": "労働・経済",
+    "difficulty": 3,
+    "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 8
+  },
+  {
+    "word": "स्कीम",
+    "normalized": "स्कीम",
+    "meaning_ja": "制度、スキーム",
+    "pos": "名詞（女）",
+    "category": "労働・経済",
     "difficulty": 3,
     "importance": 3,
     "sourceCount": 1,
@@ -3492,6 +4164,30 @@
     "quizWeight": 7
   },
   {
+    "word": "पारदर्शी",
+    "normalized": "पारदर्शी",
+    "meaning_ja": "透明な、公正な",
+    "pos": "形容詞",
+    "category": "教育",
+    "difficulty": 4,
+    "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 7
+  },
+  {
+    "word": "पुरवा हवा",
+    "normalized": "पुरवा_हवा",
+    "meaning_ja": "東風",
+    "pos": "名詞（女）",
+    "category": "都市・環境",
+    "difficulty": 4,
+    "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 7
+  },
+  {
     "word": "पूर्णिमा",
     "normalized": "पूर्णिमा",
     "meaning_ja": "満月",
@@ -3533,6 +4229,18 @@
     "meaning_ja": "顔認証",
     "pos": "名詞（女）",
     "category": "事件・事故",
+    "difficulty": 4,
+    "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 7
+  },
+  {
+    "word": "बाधित",
+    "normalized": "बाधित",
+    "meaning_ja": "妨げられた、停止した、支障が出た",
+    "pos": "形容詞",
+    "category": "都市・環境",
     "difficulty": 4,
     "importance": 3,
     "sourceCount": 1,
@@ -3749,6 +4457,18 @@
     "meaning_ja": "10の位、二桁",
     "pos": "名詞（女）",
     "category": "選挙・裁判",
+    "difficulty": 3,
+    "importance": 2,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 6
+  },
+  {
+    "word": "मिलीजुली",
+    "normalized": "मिलीजुली",
+    "meaning_ja": "入り混じった、複合的な",
+    "pos": "形容詞",
+    "category": "労働・経済",
     "difficulty": 3,
     "importance": 2,
     "sourceCount": 1,

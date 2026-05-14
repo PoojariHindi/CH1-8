@@ -1,0 +1,481 @@
+{
+  "id": "bolly_046",
+  "schema_version": 2,
+  "title": "Manzoor-e-Khuda",
+  "film": "Thugs Of Hindostan",
+  "year": 2018,
+  "singer": [
+    "Shreya Ghoshal",
+    "Sunidhi Chauhan",
+    "Sukhwinder Singh"
+  ],
+  "lyricist": [
+    "Amitabh Bhattacharya"
+  ],
+  "composer": [
+    "Ajay-Atul"
+  ],
+  "notes": [
+    "アーミル",
+    "運命・自由・神意をテーマにした壮大な曲",
+    "ペルシア語・ウルドゥー語由来の語彙が多く、神・運命・反抗の register が強い"
+  ],
+  "tags": [
+    "神",
+    "運命",
+    "自由",
+    "反抗",
+    "詩的"
+  ],
+  "emotion": "defiant_spiritual_destiny",
+  "register": "poetic_epic_urdu_persianized",
+  "key_phrase": "मंज़ूर-ए-खुदा मंज़ूर-ए-खुदा अंजाम होगा हमारा जो है",
+  "expressions": [
+    {
+      "text": "मंज़ूर-ए-खुदा",
+      "normalized": "मंजूर-ए-खुदा",
+      "meaning_ja": "神の御心にかなったもの、神に認められたもの",
+      "type": "key_phrase",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "अंजाम होगा हमारा जो है मंज़ूर-ए-खुदा",
+      "normalized": "अंजाम होगा हमारा जो है मंजूर-ए-खुदा",
+      "meaning_ja": "私たちの結末は、神が望まれるものになる",
+      "type": "destiny_expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "इक हाथ में चिंगारियां",
+      "normalized": "एक हाथ में चिंगारियां",
+      "meaning_ja": "片手には火花を携えている",
+      "type": "poetic_image",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "इक हाथ में साज़ है",
+      "normalized": "एक हाथ में साज है",
+      "meaning_ja": "もう片方の手には楽器がある",
+      "type": "poetic_image",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "हर ग़म पे भी नाज़ है",
+      "normalized": "हर गम पर भी नाज है",
+      "meaning_ja": "どんな悲しみに対しても誇りを持っている",
+      "type": "defiant_expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "महफ़िल को करके रहेंगे फ़िदा",
+      "normalized": "महफिल को करके रहेंगे फिदा",
+      "meaning_ja": "集いの人々を必ず魅了してみせる",
+      "type": "performance_expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "जिस्म से जान होगी नहीं ये जुदा",
+      "normalized": "जिस्म से जान होगी नहीं ये जुदा",
+      "meaning_ja": "命が身体から離れることはない",
+      "type": "life_death_expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "टूटे सितारों से रोशन हुआ है नूर-ए-खुदा",
+      "normalized": "टूटे सितारों से रोशन हुआ है नूर-ए-खुदा",
+      "meaning_ja": "砕けた星々によって神の光が照らし出された",
+      "type": "spiritual_poetic_image",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "चार दिन की गुलामी",
+      "normalized": "चार दिन की गुलामी",
+      "meaning_ja": "束の間の奴隷状態、短い間の隷属",
+      "type": "freedom_expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "रूह तो मुद्दतों से आज़ाद है",
+      "normalized": "रूह तो मुद्दतों से आजाद है",
+      "meaning_ja": "魂はずっと前から自由である",
+      "type": "spiritual_freedom_expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "खिलते ही उजाड़ना है",
+      "normalized": "खिलते ही उजाडना है",
+      "meaning_ja": "咲いた途端に荒らされる定めである",
+      "type": "poetic_fate_expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "मिलते ही बिछड़ना है",
+      "normalized": "मिलते ही बिछडना है",
+      "meaning_ja": "出会った途端に別れる定めである",
+      "type": "separation_expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "कागज़ के शिकारे में दरिया से गुज़ारना है",
+      "normalized": "कागज के शिकारे में दरिया से गुजरना है",
+      "meaning_ja": "紙のシカラ舟で川を渡らねばならない",
+      "type": "poetic_life_image",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "जिंदगानी के हमपे जो है क़र्ज़",
+      "normalized": "जिंदगानी के हम पर जो है कर्ज",
+      "meaning_ja": "人生が私たちに負わせている借り",
+      "type": "life_expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "कर के रहेंगे अदा",
+      "normalized": "कर के रहेंगे अदा",
+      "meaning_ja": "必ず果たしてみせる、必ず返してみせる",
+      "type": "determination_expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "आज़ादी है गुनाह तो कुबूल है सज़ा",
+      "normalized": "आजादी है गुनाह तो कुबूल है सजा",
+      "meaning_ja": "自由が罪だというなら、その罰を受け入れる",
+      "type": "freedom_defiance_expression",
+      "importance": 4,
+      "status": "active"
+    }
+  ],
+  "vocab_candidates": [
+    {
+      "word": "चिंगारियां",
+      "normalized": "चिंगारी",
+      "display": "चिंगारी",
+      "variants": [
+        "चिंगारियां",
+        "चिंगारियाँ"
+      ],
+      "pos": "名詞（女）",
+      "meaning_ja": "火花",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "साज़",
+      "normalized": "साज",
+      "display": "साज़",
+      "variants": [
+        "साज"
+      ],
+      "pos": "名詞（男）",
+      "meaning_ja": "楽器、調べ",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "ग़म",
+      "normalized": "गम",
+      "display": "ग़म",
+      "variants": [
+        "गम"
+      ],
+      "pos": "名詞（男）",
+      "meaning_ja": "悲しみ、憂い",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "नाज़",
+      "normalized": "नाज",
+      "display": "नाज़",
+      "variants": [
+        "नाज"
+      ],
+      "pos": "名詞（男）",
+      "meaning_ja": "誇り、自負",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "महफ़िल",
+      "normalized": "महफिल",
+      "display": "महफ़िल",
+      "variants": [
+        "महफिल"
+      ],
+      "pos": "名詞（女）",
+      "meaning_ja": "宴席、集い",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "फ़िदा",
+      "normalized": "फिदा",
+      "display": "फ़िदा",
+      "variants": [
+        "फिदा"
+      ],
+      "pos": "形容詞",
+      "meaning_ja": "心奪われた、夢中になった",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "मंज़ूर",
+      "normalized": "मंजूर",
+      "display": "मंज़ूर",
+      "variants": [
+        "मंजूर"
+      ],
+      "pos": "形容詞",
+      "meaning_ja": "受け入れられた、承認された、意にかなった",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "अंजाम",
+      "normalized": "अंजाम",
+      "pos": "名詞（男）",
+      "meaning_ja": "結末、結果",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "नूर",
+      "normalized": "नूर",
+      "pos": "名詞（男）",
+      "meaning_ja": "光、神聖な光",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "गुलामी",
+      "normalized": "गुलामी",
+      "pos": "名詞（女）",
+      "meaning_ja": "奴隷状態、隷属",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "सलामी",
+      "normalized": "सलामी",
+      "pos": "名詞（女）",
+      "meaning_ja": "敬礼、挨拶、敬意を示すこと",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "रूह",
+      "normalized": "रूह",
+      "pos": "名詞（女）",
+      "meaning_ja": "魂",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "मुद्दत",
+      "normalized": "मुद्दत",
+      "pos": "名詞（女）",
+      "meaning_ja": "長い年月、長い期間",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "आज़ाद",
+      "normalized": "आजाद",
+      "display": "आज़ाद",
+      "variants": [
+        "आजाद"
+      ],
+      "pos": "形容詞",
+      "meaning_ja": "自由な",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "उजाड़ना",
+      "normalized": "उजाडना",
+      "display": "उजाड़ना",
+      "variants": [
+        "उजाडना"
+      ],
+      "pos": "他動詞",
+      "meaning_ja": "荒廃させる、壊す",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "बिछड़ना",
+      "normalized": "बिछडना",
+      "display": "बिछड़ना",
+      "variants": [
+        "बिछडना"
+      ],
+      "pos": "自動詞",
+      "meaning_ja": "離れ離れになる、別れる",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "शिकारा",
+      "normalized": "शिकारा",
+      "pos": "名詞（男）",
+      "meaning_ja": "シカラ舟、カシミールの小舟",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "दरिया",
+      "normalized": "दरिया",
+      "pos": "名詞（男）",
+      "meaning_ja": "川、大河",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "गुज़ारना",
+      "normalized": "गुजारना",
+      "display": "गुज़ारना",
+      "variants": [
+        "गुजारना"
+      ],
+      "pos": "他動詞",
+      "meaning_ja": "通す、過ごす、渡らせる",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "जिंदगानी",
+      "normalized": "जिंदगानी",
+      "pos": "名詞（女）",
+      "meaning_ja": "人生、命",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "क़र्ज़",
+      "normalized": "कर्ज",
+      "display": "क़र्ज़",
+      "variants": [
+        "कर्ज"
+      ],
+      "pos": "名詞（男）",
+      "meaning_ja": "借り、恩義、負債",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "अदा",
+      "normalized": "अदा",
+      "pos": "名詞（女）・動詞成分",
+      "meaning_ja": "仕草；果たすこと、支払うこと",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "अंगना",
+      "normalized": "अंगना",
+      "pos": "名詞（男/女）",
+      "meaning_ja": "中庭、家の庭",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "झूलना",
+      "normalized": "झूलना",
+      "pos": "名詞（男）・自動詞",
+      "meaning_ja": "ブランコ；揺れる",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "इमली",
+      "normalized": "इमली",
+      "pos": "名詞（女）",
+      "meaning_ja": "タマリンド",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "डार",
+      "normalized": "डार",
+      "pos": "名詞（女）",
+      "meaning_ja": "枝",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "पैन्जना",
+      "normalized": "पैजना",
+      "display": "पैन्जना",
+      "variants": [
+        "पैजना",
+        "पायल"
+      ],
+      "pos": "名詞（男）",
+      "meaning_ja": "足飾り、アンクレット",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "आज़ादी",
+      "normalized": "आजादी",
+      "display": "आज़ादी",
+      "variants": [
+        "आजादी"
+      ],
+      "pos": "名詞（女）",
+      "meaning_ja": "自由、独立",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "गुनाह",
+      "normalized": "गुनाह",
+      "pos": "名詞（男）",
+      "meaning_ja": "罪",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "कुबूल",
+      "normalized": "कुबूल",
+      "pos": "形容詞・動詞成分",
+      "meaning_ja": "受け入れた、承諾した",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "सज़ा",
+      "normalized": "सजा",
+      "display": "सज़ा",
+      "variants": [
+        "सजा"
+      ],
+      "pos": "名詞（女）",
+      "meaning_ja": "罰、処罰",
+      "importance": 4,
+      "status": "active"
+    }
+  ],
+  "meta": {
+    "copyright_safe": true,
+    "lyrics_included": false,
+    "source_type": "manual_curated",
+    "dedupe_ready": true
+  }
+}

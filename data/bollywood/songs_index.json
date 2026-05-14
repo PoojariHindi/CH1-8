@@ -1029,5 +1029,148 @@
     ],
     "key_phrase": "मेरा रुआँ रुआँ अब तेरे ना लिखना",
     "status": "processed"
+  },
+  {
+    "id": "bolly_044",
+    "title": "Haanikaarak Bapu",
+    "film": "Dangal",
+    "year": 2016,
+    "singer": [
+      "Sarwar Khan",
+      "Sartaz Khan Barna"
+    ],
+    "lyricist": [
+      "Amitabh Bhattacharya"
+    ],
+    "composer": [
+      "Pritam"
+    ],
+    "notes": [
+      "アーミル",
+      "子どもの視点から父の厳しい訓練をコミカルに歌う曲",
+      "ハリヤーンヴィー風の口語・方言要素あり"
+    ],
+    "tags": [
+      "父子",
+      "家族",
+      "スポーツ",
+      "コミカル",
+      "方言"
+    ],
+    "key_phrase": "बापू सेहत के लिए तू तो हानिकारक है",
+    "status": "processed"
+  },
+  {
+    "id": "bolly_045",
+    "title": "Joganiyan",
+    "film": "Tevar",
+    "year": 2015,
+    "singer": [
+      "Shruti Haasan"
+    ],
+    "lyricist": [
+      "Kausar Munir"
+    ],
+    "composer": [
+      "Sajid–Wajid"
+    ],
+    "notes": [
+      "アルジュン・カプール",
+      "恋愛の陶酔を जोगी / जोगनियां の宗教的・民俗的イメージで表す曲",
+      "色彩語・身体語・自然イメージが多い詩的な恋愛歌"
+    ],
+    "tags": [
+      "恋愛",
+      "献身",
+      "詩的",
+      "民俗",
+      "色彩"
+    ],
+    "key_phrase": "हुई मैं तेरी जोगनियां जोगनियां तू जोगी तेरी जोगनियां मैं जोगनियां",
+    "status": "processed"
+  },
+  {
+    "id": "bolly_046",
+    "title": "Manzoor-e-Khuda",
+    "film": "Thugs Of Hindostan",
+    "year": 2018,
+    "singer": [
+      "Shreya Ghoshal",
+      "Sunidhi Chauhan",
+      "Sukhwinder Singh"
+    ],
+    "lyricist": [
+      "Amitabh Bhattacharya"
+    ],
+    "composer": [
+      "Ajay-Atul"
+    ],
+    "notes": [
+      "アーミル",
+      "運命・自由・神意をテーマにした壮大な曲",
+      "ペルシア語・ウルドゥー語由来の語彙が多く、神・運命・反抗の register が強い"
+    ],
+    "tags": [
+      "神",
+      "運命",
+      "自由",
+      "反抗",
+      "詩的"
+    ],
+    "key_phrase": "मंज़ूर-ए-खुदा मंज़ूर-ए-खुदा अंजाम होगा हमारा जो है",
+    "status": "processed"
+  },
+  {
+    "id": "bolly_047",
+    "title": "Neend Churayee Meri",
+    "film": "Ishq",
+    "year": 1997,
+    "singer": [
+      "Kumar Sanu",
+      "Udit Narayan",
+      "Alka Yagnik",
+      "Kavita Krishnamurthy"
+    ],
+    "lyricist": [
+      "Rahat Indori"
+    ],
+    "composer": [
+      "Anu Malik"
+    ],
+    "notes": [
+      "アーミル"
+    ],
+    "tags": [
+      "恋愛"
+    ],
+    "key_phrase": "नींद चुराई मेरी, किसने ओ सनम तूने",
+    "status": "processed"
+  },
+  {
+    "id": "bolly_048",
+    "title": "Aaya Tere Dar Par",
+    "film": "Veer-Zaara",
+    "year": 2004,
+    "singer": [
+      "Ahmed Hussain",
+      "Mohd. Hussain",
+      "Mohd Vakil",
+      "Javed Hussain"
+    ],
+    "lyricist": [
+      "Javed Akhtar"
+    ],
+    "composer": [
+      "Sanjeev Kohli"
+    ],
+    "notes": [
+      "シャールク"
+    ],
+    "tags": [
+      "神",
+      "カッワーリー"
+    ],
+    "key_phrase": "आया तेरे दर पर दीवाना",
+    "status": "processed"
   }
 ]
