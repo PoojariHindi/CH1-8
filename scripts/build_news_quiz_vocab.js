@@ -38,7 +38,8 @@ function main() {
 
       return {
         word,
-        normalized: entry.normalized || word,
+        display: entry.display || word,
+         normalized: entry.normalized || word,
         meaning_ja: entry.meaning_ja,
         pos: entry.pos || "",
         category: entry.category || "未分類",

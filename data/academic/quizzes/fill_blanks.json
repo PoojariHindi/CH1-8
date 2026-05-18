@@ -1,11 +1,111 @@
 {
   "topic": "academic_fill_blanks",
-  "generatedAt": "2026-05-12T03:45:16.441Z",
+  "generatedAt": "2026-05-18T03:14:27.610Z",
   "counts": {
-    "sources": 9,
-    "fillBlanks": 39
+    "sources": 10,
+    "fillBlanks": 44
   },
   "fillBlanks": [
+    {
+      "id": "academic_010::expr::2::blank::15",
+      "type": "fill_blank",
+      "sourceId": "academic_010",
+      "title": "Dharmvir Bharti",
+      "genre": "textbook",
+      "category": "読解",
+      "sourceText": "लोक-प्रचलित विश्वास और विज्ञान के द्वंद्व",
+      "prompt": "लोक-प्रचलित विश्वास और विज्ञान के _____",
+      "answer": "द्वंद्व",
+      "meaning": "葛藤、対立",
+      "expressionMeaning": "民間信仰と科学との葛藤",
+      "pos": "名詞（男）",
+      "word": "द्वंद्व",
+      "display": "द्वंद्व",
+      "normalized": "द्वंद्व",
+      "importance": 5,
+      "difficulty": 1,
+      "tags": [
+        "教科書",
+        "文学",
+        "評論",
+        "抽象語"
+      ]
+    },
+    {
+      "id": "academic_010::expr::4::blank::23",
+      "type": "fill_blank",
+      "sourceId": "academic_010",
+      "title": "Dharmvir Bharti",
+      "genre": "textbook",
+      "category": "読解",
+      "sourceText": "जनमानस में ऐसी वैज्ञानिक दृष्टि का न जनम पाना",
+      "prompt": "_____ में ऐसी वैज्ञानिक दृष्टि का न जनम पाना",
+      "answer": "जनमानस",
+      "meaning": "大衆意識、民衆心理",
+      "expressionMeaning": "大衆意識の中にそのような科学的視点が生まれないこと",
+      "pos": "名詞（男）",
+      "word": "जनमानस",
+      "display": "जनमानस",
+      "normalized": "जनमानस",
+      "importance": 5,
+      "difficulty": 1,
+      "tags": [
+        "教科書",
+        "文学",
+        "評論",
+        "抽象語"
+      ]
+    },
+    {
+      "id": "academic_010::expr::3::blank::16",
+      "type": "fill_blank",
+      "sourceId": "academic_010",
+      "title": "Dharmvir Bharti",
+      "genre": "textbook",
+      "category": "読解",
+      "sourceText": "विज्ञान का अपना तर्क है और विश्वास का अपना सामर्थ्य",
+      "prompt": "विज्ञान का अपना तर्क है और विश्वास का अपना _____",
+      "answer": "सामर्थ्य",
+      "meaning": "力、能力",
+      "expressionMeaning": "科学には科学の論理があり、信仰には信仰の力がある",
+      "pos": "名詞（男）",
+      "word": "सामर्थ्य",
+      "display": "सामर्थ्य",
+      "normalized": "सामर्थ्य",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": [
+        "教科書",
+        "文学",
+        "評論",
+        "抽象語"
+      ]
+    },
+    {
+      "id": "academic_010::expr::5::blank::28",
+      "type": "fill_blank",
+      "sourceId": "academic_010",
+      "title": "Dharmvir Bharti",
+      "genre": "textbook",
+      "category": "読解",
+      "sourceText": "विश्वास की भी तो एक रचनात्मक भूमिका हो सकती है",
+      "prompt": "विश्वास की भी तो एक _____ भूमिका हो सकती है",
+      "answer": "रचनात्मक",
+      "meaning": "創造的な",
+      "expressionMeaning": "信仰にもまた創造的な役割があり得る",
+      "pos": "形容詞",
+      "word": "रचनात्मक",
+      "display": "रचनात्मक",
+      "normalized": "रचनात्मक",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": [
+        "教科書",
+        "文学",
+        "評論",
+        "抽象語"
+      ]
+    },
     {
       "id": "academic_001::expr::4::blank::1",
       "type": "fill_blank",
@@ -820,6 +920,31 @@
         "教科書",
         "言語政策",
         "政府文書"
+      ]
+    },
+    {
+      "id": "academic_010::expr::1::blank::7",
+      "type": "fill_blank",
+      "sourceId": "academic_010",
+      "title": "Dharmvir Bharti",
+      "genre": "textbook",
+      "category": "読解",
+      "sourceText": "व्यक्ति की स्वतंत्रता ही सर्वोपरि है",
+      "prompt": "व्यक्ति की स्वतंत्रता ही _____ है",
+      "answer": "सर्वोपरि",
+      "meaning": "最も重要な、最高位の",
+      "expressionMeaning": "個人の自由こそが最も重要である",
+      "pos": "形容詞",
+      "word": "सर्वोपरि",
+      "display": "सर्वोपरि",
+      "normalized": "सर्वोपरि",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": [
+        "教科書",
+        "文学",
+        "評論",
+        "抽象語"
       ]
     },
     {

@@ -1,0 +1,367 @@
+{
+  "id": "bolly_051",
+  "schema_version": 2,
+
+  "title": "Satyamev Jayate",
+  "film": "Satyamev Jayate",
+  "year": 2012,
+
+  "singer": [
+    "Keerthi Sagathia",
+    "Ram Sampath"
+  ],
+
+  "lyricist": [
+    "Prasoon Joshi"
+  ],
+
+  "composer": [
+    "Ram Sampath"
+  ],
+
+  "notes": [
+    "アーミル"
+  ],
+
+  "tags": [
+    "人生"
+  ],
+
+  "emotion": "idealistic_passion",
+  "register": "motivational_poetic",
+
+  "key_phrase": "सत्यमेव, सत्यमेव, सत्यमेव जयते",
+
+  "expressions": [
+    {
+      "text": "हर रंग ऐसा चढ़ गया",
+      "normalized": "हर रंग ऐसा चढ़ गया",
+      "meaning_ja": "あらゆる色が深く染み込んだ",
+      "type": "metaphor",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "तेरा नाम सीने पे लिखा",
+      "normalized": "तेरा नाम सीने पे लिखा",
+      "meaning_ja": "君の名が胸に刻まれている",
+      "type": "metaphor",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "तेरे इश्क़ का ये जुनून है",
+      "normalized": "तेरे इश्क का ये जुनून है",
+      "meaning_ja": "これは君への愛の情熱だ",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "रग रग में इश्क़ तेरा दौड़ता",
+      "normalized": "रग रग में इश्क तेरा दौड़ता",
+      "meaning_ja": "体中を君への愛が駆け巡る",
+      "type": "metaphor",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "ये बावरा सा ख़ून है",
+      "normalized": "ये बावरा सा खून है",
+      "meaning_ja": "これは狂おしいほど熱い血だ",
+      "type": "metaphor",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "ज़िंदगी का मक़सद",
+      "normalized": "जिंदगी का मकसद",
+      "meaning_ja": "人生の目的",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "तेरे नूर के दस्तूर में",
+      "normalized": "तेरे नूर के दस्तूर में",
+      "meaning_ja": "君の光の掟の中で",
+      "type": "poetic",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "न हो सलवटें, न शिकन रहे",
+      "normalized": "न हो सलवटें न शिकन रहे",
+      "meaning_ja": "しわも曇りもありませんように",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "तेरी ज़ुल्फ़ सुलझाने चला",
+      "normalized": "तेरी जुल्फ सुलझाने चला",
+      "meaning_ja": "君の髪をほどきに向かった",
+      "type": "poetic",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "जहाँ कोई सुर न हो बेसुरा",
+      "normalized": "जहां कोई सुर न हो बेसुरा",
+      "meaning_ja": "どんな音も不協和にならない場所",
+      "type": "metaphor",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "मैं निखर गया, मैं सँवर गया",
+      "normalized": "मैं निखर गया मैं संवर गया",
+      "meaning_ja": "私は磨かれ、美しく整えられた",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "क़ाबिल तेरे मैं बन सकूँ",
+      "normalized": "काबिल तेरे मैं बन सकूं",
+      "meaning_ja": "君にふさわしい人になれますように",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "धड़कन के इस त्योहार को",
+      "normalized": "धड़कन के इस त्योहार को",
+      "meaning_ja": "この鼓動の祭りを",
+      "type": "metaphor",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "कहीं दाग़ हैं तो छुपाएँ क्यों",
+      "normalized": "कहीं दाग हैं तो छुपाएं क्यों",
+      "meaning_ja": "もし傷や汚れがあるなら、なぜ隠すのか",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "हम सच से नज़रें हटाएँ क्यों",
+      "normalized": "हम सच से नजरें हटाएं क्यों",
+      "meaning_ja": "なぜ真実から目を背けるのか",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "शोलों पे चलना है अगर",
+      "normalized": "शोलों पे चलना है अगर",
+      "meaning_ja": "もし炎の上を歩く必要があるなら",
+      "type": "metaphor",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "मेरे ख़ून की हर बूँद में",
+      "normalized": "मेरे खून की हर बूंद में",
+      "meaning_ja": "私の血の一滴一滴に",
+      "type": "poetic",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "सुर्ख रंग हर धार का",
+      "normalized": "सुर्ख रंग हर धार का",
+      "meaning_ja": "流れるすべてが深紅に染まる",
+      "type": "poetic",
+      "importance": 4,
+      "status": "active"
+    }
+  ],
+
+  "vocab_candidates": [
+    {
+      "word": "जुनून",
+      "normalized": "जुनून",
+      "pos": "名詞（男）",
+      "meaning_ja": "情熱、熱狂",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "रग",
+      "normalized": "रग",
+      "pos": "名詞（女）",
+      "meaning_ja": "血管、筋",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "बावरा",
+      "normalized": "बावरा",
+      "pos": "形容詞",
+      "meaning_ja": "狂おしい、夢中になった",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "मक़सद",
+      "normalized": "मकसद",
+      "pos": "名詞（男）",
+      "meaning_ja": "目的",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "नूर",
+      "normalized": "नूर",
+      "pos": "名詞（男）",
+      "meaning_ja": "光、輝き",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "दस्तूर",
+      "normalized": "दस्तूर",
+      "pos": "名詞（男）",
+      "meaning_ja": "掟、慣習",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "सलवटें",
+      "normalized": "सलवटें",
+      "pos": "名詞（女・複）",
+      "meaning_ja": "しわ、折り目",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "शिकन",
+      "normalized": "शिकन",
+      "pos": "名詞（女）",
+      "meaning_ja": "しかめ顔、しわ",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "खुशबुएँ",
+      "normalized": "खुशबुएं",
+      "pos": "名詞（女・複）",
+      "meaning_ja": "香り",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "गुलशन",
+      "normalized": "गुलशन",
+      "pos": "名詞（男）",
+      "meaning_ja": "花園",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "ज़ुल्फ़",
+      "normalized": "जुल्फ",
+      "pos": "名詞（女）",
+      "meaning_ja": "髪、巻き髪",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "बेसुरा",
+      "normalized": "बेसुरा",
+      "pos": "形容詞",
+      "meaning_ja": "音程の外れた、不協和な",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "निखरना",
+      "normalized": "निखरना",
+      "pos": "自動詞",
+      "meaning_ja": "磨かれる、美しくなる",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "सँवरना",
+      "normalized": "संवरना",
+      "pos": "自動詞",
+      "meaning_ja": "整う、美しく装う",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "क़ाबिल",
+      "normalized": "काबिल",
+      "pos": "形容詞",
+      "meaning_ja": "ふさわしい、有能な",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "रफ़्तार",
+      "normalized": "रफ्तार",
+      "pos": "名詞（女）",
+      "meaning_ja": "速度",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "टटोलना",
+      "normalized": "टटोलना",
+      "pos": "他動詞",
+      "meaning_ja": "探る、模索する",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "दाग़",
+      "normalized": "दाग",
+      "pos": "名詞（男）",
+      "meaning_ja": "汚れ、傷",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "शोले",
+      "normalized": "शोले",
+      "pos": "名詞（男・複）",
+      "meaning_ja": "炎",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "संकल्प",
+      "normalized": "संकल्प",
+      "pos": "名詞（男）",
+      "meaning_ja": "決意、誓い",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "सुर्ख",
+      "normalized": "सुर्ख",
+      "pos": "形容詞",
+      "meaning_ja": "深紅の、赤い",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "धार",
+      "normalized": "धार",
+      "pos": "名詞（女）",
+      "meaning_ja": "流れ、刃先",
+      "importance": 3,
+      "status": "active"
+    }
+  ],
+
+  "meta": {
+    "copyright_safe": true,
+    "lyrics_included": false,
+    "source_type": "manual_curated",
+    "dedupe_ready": true
+  }
+}

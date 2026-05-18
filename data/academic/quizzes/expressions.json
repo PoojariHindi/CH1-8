@@ -1,5 +1,41 @@
 [
   {
+    "text": "विज्ञान का अपना तर्क है और विश्वास का अपना सामर्थ्य",
+    "normalized": "विज्ञान का अपना तर्क है और विश्वास का अपना सामर्थ्य",
+    "meaning": "科学には科学の論理があり、信仰には信仰の力がある",
+    "meaning_ja": "科学には科学の論理があり、信仰には信仰の力がある",
+    "type": "philosophical_statement",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "評論",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_010"
+    ]
+  },
+  {
+    "text": "विश्वास की भी तो एक रचनात्मक भूमिका हो सकती है",
+    "normalized": "विश्वास की भी तो एक रचनात्मक भूमिका हो सकती है",
+    "meaning": "信仰にもまた創造的な役割があり得る",
+    "meaning_ja": "信仰にもまた創造的な役割があり得る",
+    "type": "philosophical_statement",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "評論",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_010"
+    ]
+  },
+  {
     "text": "अगर तुम और नीचे गए तो मैं डूब जाऊँगा",
     "normalized": "अगर तुम और नीचे गए तो मैं डूब जाऊँगा",
     "meaning": "これ以上下へ行ったら、私は溺れてしまう",
@@ -36,8 +72,8 @@
   {
     "text": "अनर्गल विस्तार से बचना चाहिए",
     "normalized": "अनर्गल विस्तार से बचना चाहिए",
-    "meaning": "無駄な विस्तारを避けるべきである",
-    "meaning_ja": "無駄な विस्तारを避けるべきである",
+    "meaning": "無駄な詳述を避けるべきである",
+    "meaning_ja": "無駄な詳述を避けるべきである",
     "type": "instruction",
     "importance": 4,
     "category": "academic",
@@ -184,6 +220,24 @@
     ],
     "sourceIds": [
       "academic_001"
+    ]
+  },
+  {
+    "text": "जनमानस में ऐसी वैज्ञानिक दृष्टि का न जनम पाना",
+    "normalized": "जनमानस में ऐसी वैज्ञानिक दृष्टि का न जनम पाना",
+    "meaning": "大衆意識の中にそのような科学的視点が生まれないこと",
+    "meaning_ja": "大衆意識の中にそのような科学的視点が生まれないこと",
+    "type": "academic_expression",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "評論",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_010"
     ]
   },
   {
@@ -459,6 +513,24 @@
     ]
   },
   {
+    "text": "लोक-प्रचलित विश्वास और विज्ञान के द्वंद्व",
+    "normalized": "लोक प्रचलित विश्वास और विज्ञान के द्वंद्व",
+    "meaning": "民間信仰と科学との葛藤",
+    "meaning_ja": "民間信仰と科学との葛藤",
+    "type": "concept_expression",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "評論",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_010"
+    ]
+  },
+  {
     "text": "वह समझ गया उसका जीवन खतरे में है",
     "normalized": "वह समझ गया उसका जीवन खतरे में है",
     "meaning": "彼は自分の命が危険にあることを悟った",
@@ -541,6 +613,24 @@
     ],
     "sourceIds": [
       "academic_008"
+    ]
+  },
+  {
+    "text": "व्यक्ति की स्वतंत्रता ही सर्वोपरि है",
+    "normalized": "व्यक्ति की स्वतंत्रता ही सर्वोपरि है",
+    "meaning": "個人の自由こそが最も重要である",
+    "meaning_ja": "個人の自由こそが最も重要である",
+    "type": "academic_expression",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "評論",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_010"
     ]
   },
   {

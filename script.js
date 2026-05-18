@@ -42,7 +42,6 @@ function pickRandom(array, count) {
   return shuffle(array).slice(0, count);
 }
 
-// Bollywood語彙専用：rare-word重視の重み付き抽選
 function pickWeightedRandom(array) {
   if (!Array.isArray(array) || array.length === 0) return null;
 
@@ -55,9 +54,7 @@ function pickWeightedRandom(array) {
 
   for (const item of array) {
     random -= Number(item.quizWeight) || 1;
-    if (random <= 0) {
-      return item;
-    }
+    if (random <= 0) return item;
   }
 
   return array[array.length - 1];
@@ -110,7 +107,6 @@ async function loadAllNewsVocab(manifest) {
   });
 }
 
-// Bollywood は統合ファイルを1つ読む
 async function loadBollywoodAll() {
   const data = await loadJson("data/bollywood/quizzes/vocab.json");
 
@@ -137,7 +133,6 @@ async function loadBollywoodAll() {
   };
 }
 
-// Academic / 読解 は vocab.json を1つ読む
 async function loadAcademicAll() {
   const data = await loadJson("data/academic/quizzes/vocab.json");
 
@@ -174,8 +169,16 @@ async function loadAcademicFill() {
   }));
 }
 
-function filterChByLesson(vocabList, maxLesson) {
-  return vocabList.filter((item) => Number(item.lesson) <= maxLesson);
+function filterChByLessonRange(vocabList, rangeValue) {
+  const [start, end] = rangeValue
+    .split("-")
+    .map(Number);
+
+  return vocabList.filter((item) => {
+    const lesson = Number(item.lesson);
+
+    return lesson >= start && lesson <= end;
+  });
 }
 
 function getDirection() {
@@ -188,12 +191,11 @@ function getMode() {
 
 function isVocabularyMode(mode) {
   return (
-    mode === "ch" || 
-    mode === "news" || 
-    mode === "bollywood_vocab"||
-    mode === "academic_vocab" ||
+    mode === "ch" ||
+    mode === "news" ||
+    mode === "bollywood_vocab" ||
     mode === "academic_vocab"
-);
+  );
 }
 
 function getMeaning(entry) {
@@ -204,6 +206,10 @@ function getWord(entry) {
   return normalizeString(entry.word);
 }
 
+function getDisplayWord(entry) {
+  return normalizeString(entry.display || entry.word);
+}
+
 function buildWrongPoolForVocab(pool, correct, direction) {
   if (direction === "hi2jp") {
     return pool.filter(
@@ -212,18 +218,17 @@ function buildWrongPoolForVocab(pool, correct, direction) {
   }
 
   return pool.filter(
-    (item) => getWord(item) && getWord(item) !== getWord(correct)
+    (item) =>
+      getDisplayWord(item) &&
+      getDisplayWord(item) !== getDisplayWord(correct)
   );
 }
 
 function createQuizQuestion(vocabPool, direction) {
-  if (!Array.isArray(vocabPool) || vocabPool.length < 4) {
-    return null;
-  }
+  if (!Array.isArray(vocabPool) || vocabPool.length < 4) return null;
 
   const mode = getMode();
 
-  // Bollywood語彙のみ rare-word weighted random
   const correct =
     mode === "bollywood_vocab"
       ? pickWeightedRandom(vocabPool)
@@ -232,9 +237,7 @@ function createQuizQuestion(vocabPool, direction) {
   if (!correct) return null;
 
   const wrongPool = buildWrongPoolForVocab(vocabPool, correct, direction);
-  if (wrongPool.length < 3) {
-    return null;
-  }
+  if (wrongPool.length < 3) return null;
 
   const wrongChoices = pickRandom(wrongPool, 3);
 
@@ -243,7 +246,7 @@ function createQuizQuestion(vocabPool, direction) {
   let choices = [];
 
   if (direction === "hi2jp") {
-    question = getWord(correct);
+    question = getDisplayWord(correct);
     correctAnswer = getMeaning(correct);
     choices = shuffle([
       correctAnswer,
@@ -251,10 +254,10 @@ function createQuizQuestion(vocabPool, direction) {
     ]);
   } else {
     question = getMeaning(correct);
-    correctAnswer = getWord(correct);
+    correctAnswer = getDisplayWord(correct);
     choices = shuffle([
       correctAnswer,
-      ...wrongChoices.map((item) => getWord(item))
+      ...wrongChoices.map((item) => getDisplayWord(item))
     ]);
   }
 
@@ -275,26 +278,20 @@ function createQuizQuestion(vocabPool, direction) {
 }
 
 function createFillQuestion(pool) {
-  if (!Array.isArray(pool) || pool.length < 4) {
-    return null;
-  }
+  if (!Array.isArray(pool) || pool.length < 4) return null;
 
   const usable = pool.filter(
     (item) => normalizeString(item.prompt) && normalizeString(item.answer)
   );
 
-  if (usable.length < 4) {
-    return null;
-  }
+  if (usable.length < 4) return null;
 
   const correct = pickRandom(usable, 1)[0];
   const wrongPool = usable.filter(
     (item) => normalizeString(item.answer) !== normalizeString(correct.answer)
   );
 
-  if (wrongPool.length < 3) {
-    return null;
-  }
+  if (wrongPool.length < 3) return null;
 
   const wrongChoices = pickRandom(wrongPool, 3);
 
@@ -315,27 +312,23 @@ function createFillQuestion(pool) {
       film: correct.film || ""
     },
     extra: {
-  translation:
-    normalizeString(correct.expressionMeaning) ||
-    normalizeString(correct.meaning) ||
-    normalizeString(correct.translation),
-  sourceText: normalizeString(correct.sourceText)
-}
+      translation:
+        normalizeString(correct.expressionMeaning) ||
+        normalizeString(correct.meaning) ||
+        normalizeString(correct.translation),
+      sourceText: normalizeString(correct.sourceText)
+    }
   };
 }
 
 function createExpressionQuestion(pool, direction) {
-  if (!Array.isArray(pool) || pool.length < 4) {
-    return null;
-  }
+  if (!Array.isArray(pool) || pool.length < 4) return null;
 
   const usable = pool.filter(
     (item) => normalizeString(item.text) && normalizeString(item.meaning)
   );
 
-  if (usable.length < 4) {
-    return null;
-  }
+  if (usable.length < 4) return null;
 
   const correct = pickRandom(usable, 1)[0];
   const wrongPool = usable.filter((item) => {
@@ -345,9 +338,7 @@ function createExpressionQuestion(pool, direction) {
     return normalizeString(item.text) !== normalizeString(correct.text);
   });
 
-  if (wrongPool.length < 3) {
-    return null;
-  }
+  if (wrongPool.length < 3) return null;
 
   const wrongChoices = pickRandom(wrongPool, 3);
 
@@ -452,13 +443,11 @@ function renderQuiz(quiz) {
 function addWrongAnswer(entry) {
   const mode = getMode();
 
-  if (!isVocabularyMode(mode)) {
-    return;
-  }
+  if (!isVocabularyMode(mode)) return;
 
   const exists = wrongAnswers.some(
     (item) =>
-      normalizeString(item.word) === normalizeString(entry.word) &&
+      getDisplayWord(item) === getDisplayWord(entry) &&
       getMeaning(item) === getMeaning(entry)
   );
 
@@ -504,8 +493,8 @@ function getCurrentPool() {
   const mode = getMode();
 
   if (mode === "ch") {
-    const lessonValue = Number(document.getElementById("lessonSelect").value);
-    return filterChByLesson(chVocab, lessonValue);
+    const lessonValue =  document.getElementById("lessonSelect").value;
+   return filterChByLessonRange(chVocab, lessonValue);
   }
 
   if (mode === "news") {
@@ -516,17 +505,17 @@ function getCurrentPool() {
     return [...bollywoodVocab];
   }
 
+  if (mode === "academic_vocab") {
+    return [...academicVocab];
+  }
+
   if (mode === "academic_expressions") {
     return [...academicExpressions];
   }
 
-  if (mode === "academic_vocab") {
-  return [...academicVocab];
-}
- 
   if (mode === "academic_fill") {
-  return [...academicFill];
-}
+    return [...academicFill];
+  }
 
   if (mode === "bollywood_fill") {
     return [...bollywoodFill];
@@ -550,16 +539,12 @@ function startQuiz() {
     return;
   }
 
-if (
-  mode === "bollywood_fill" ||
-  mode === "academic_fill"
-) {
-  currentQuiz = createFillQuestion(pool);
-} else if (
-  mode === "bollywood_expressions" ||
-  mode === "academic_expressions"
-) {
-
+  if (mode === "bollywood_fill" || mode === "academic_fill") {
+    currentQuiz = createFillQuestion(pool);
+  } else if (
+    mode === "bollywood_expressions" ||
+    mode === "academic_expressions"
+  ) {
     currentQuiz = createExpressionQuestion(pool, direction);
   } else {
     currentQuiz = createQuizQuestion(pool, direction);
@@ -596,16 +581,13 @@ function updateUiByMode() {
     if (lessonLabel) lessonLabel.style.display = "none";
   }
 
-  if (
-  mode === "bollywood_fill" ||
-  mode === "academic_fill"
-) {
-  directionSelect.style.display = "none";
-  if (directionLabel) directionLabel.style.display = "none";
-} else {
-  directionSelect.style.display = "";
-  if (directionLabel) directionLabel.style.display = "";
-}
+  if (mode === "bollywood_fill" || mode === "academic_fill") {
+    directionSelect.style.display = "none";
+    if (directionLabel) directionLabel.style.display = "none";
+  } else {
+    directionSelect.style.display = "";
+    if (directionLabel) directionLabel.style.display = "";
+  }
 }
 
 async function initApp() {
@@ -614,7 +596,7 @@ async function initApp() {
 
     chVocab = await loadAllChVocab(manifest);
     newsVocab = await loadAllNewsVocab(manifest);
-    console.log("news loaded:", newsVocab.length, newsVocab.slice(0,5));
+    console.log("news loaded:", newsVocab.length, newsVocab.slice(0, 5));
 
     const bolly = await loadBollywoodAll();
     bollywoodVocab = bolly.vocab;
@@ -630,29 +612,21 @@ async function initApp() {
     academicFill = await loadAcademicFill();
     console.log("academic fill loaded:", academicFill.length);
 
-  document
-  .getElementById("startQuizBtn")
-  .addEventListener("click", () => {
-    reviewModeEnabled = false;
+    document.getElementById("startQuizBtn").addEventListener("click", () => {
+      reviewModeEnabled = false;
+      document.getElementById("footerLinks")?.style.setProperty("display", "none");
+      startQuiz();
+    });
 
-    document.getElementById("footerLinks")?.style.setProperty("display", "none");
+    document.getElementById("reviewBtn").addEventListener("click", () => {
+      document.getElementById("footerLinks")?.style.setProperty("display", "none");
+      startReviewMode();
+    });
 
-    startQuiz();
-  }); 
-
-    document
-  .getElementById("reviewBtn")
-  .addEventListener("click", () => {
-    document.getElementById("footerLinks")?.style.setProperty("display", "none");
-    startReviewMode();
-  });
-
-    document
-      .getElementById("modeSelect")
-      .addEventListener("change", () => {
-        reviewModeEnabled = false;
-        updateUiByMode();
-      });
+    document.getElementById("modeSelect").addEventListener("change", () => {
+      reviewModeEnabled = false;
+      updateUiByMode();
+    });
 
     updateUiByMode();
   } catch (error) {

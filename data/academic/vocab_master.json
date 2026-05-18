@@ -1,5 +1,157 @@
 [
   {
+    "word": "अनावृष्टि",
+    "normalized": "अनावृष्टि",
+    "display": "अनावृष्टि",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "干ばつ、雨不足",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "評論",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_010"
+    ]
+  },
+  {
+    "word": "अमानवीयता",
+    "normalized": "अमानवीयता",
+    "display": "अमानवीयता",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "非人間性",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "評論",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_010"
+    ]
+  },
+  {
+    "word": "जन-चेतना",
+    "normalized": "जनचेतना",
+    "display": "जन-चेतना",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "民衆意識、社会的意識",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "評論",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_010"
+    ]
+  },
+  {
+    "word": "जनमानस",
+    "normalized": "जनमानस",
+    "display": "जनमानस",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "大衆意識、民衆心理",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "評論",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_010"
+    ]
+  },
+  {
+    "word": "तर्कशील",
+    "normalized": "तर्कशील",
+    "display": "तर्कशील",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "論理的な、合理的な",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "評論",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_010"
+    ]
+  },
+  {
+    "word": "द्वंद्व",
+    "normalized": "द्वंद्व",
+    "display": "द्वंद्व",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "葛藤、対立",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "評論",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_010"
+    ]
+  },
+  {
+    "word": "मोहभंग",
+    "normalized": "मोहभंग",
+    "display": "मोहभंग",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "幻想の崩壊、幻滅",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "評論",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_010"
+    ]
+  },
+  {
+    "word": "अंधविश्वास",
+    "normalized": "अंधविश्वास",
+    "display": "अंधविश्वास",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "迷信",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "評論",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_010"
+    ]
+  },
+  {
     "word": "अतिशयोक्ति",
     "normalized": "अतिशयोक्ति",
     "display": "अतिशयोक्ति",
@@ -87,6 +239,25 @@
     ],
     "sourceIds": [
       "academic_006"
+    ]
+  },
+  {
+    "word": "अनास्था",
+    "normalized": "अनास्था",
+    "display": "अनास्था",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "不信、無関心",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "評論",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_010"
     ]
   },
   {
@@ -358,6 +529,25 @@
     ]
   },
   {
+    "word": "उत्तरदायित्व",
+    "normalized": "उत्तरदायित्व",
+    "display": "उत्तरदायित्व",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "責任",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "評論",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_010"
+    ]
+  },
+  {
     "word": "उत्सुकता",
     "normalized": "उत्सुकता",
     "display": "उत्सुकता",
@@ -391,6 +581,25 @@
     ],
     "sourceIds": [
       "academic_006"
+    ]
+  },
+  {
+    "word": "उद्वेलित",
+    "normalized": "उद्वेलित",
+    "display": "उद्वेलित",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "揺さぶられた、動揺した",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "評論",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_010"
     ]
   },
   {
@@ -592,6 +801,25 @@
     ]
   },
   {
+    "word": "कर्मकांड",
+    "normalized": "कर्मकांड",
+    "display": "कर्मकांड",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "宗教儀礼、儀式主義",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "評論",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_010"
+    ]
+  },
+  {
     "word": "कुसंगति",
     "normalized": "कुसंगति",
     "display": "कुसंगति",
@@ -714,6 +942,25 @@
     ],
     "sourceIds": [
       "academic_009"
+    ]
+  },
+  {
+    "word": "चेतना",
+    "normalized": "चेतना",
+    "display": "चेतना",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "意識、精神",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "評論",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_010"
     ]
   },
   {
@@ -992,6 +1239,25 @@
     ]
   },
   {
+    "word": "दुविधा",
+    "normalized": "दुविधा",
+    "display": "दुविधा",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "ジレンマ、迷い",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "評論",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_010"
+    ]
+  },
+  {
     "word": "दुष्ट",
     "normalized": "दुष्ट",
     "display": "दुष्ट",
@@ -1264,6 +1530,25 @@
     ],
     "sourceIds": [
       "academic_002"
+    ]
+  },
+  {
+    "word": "निराकरण",
+    "normalized": "निराकरण",
+    "display": "निराकरण",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "解決、除去",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "評論",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_010"
     ]
   },
   {
@@ -1576,6 +1861,25 @@
     ],
     "sourceIds": [
       "academic_009"
+    ]
+  },
+  {
+    "word": "प्रपंच",
+    "normalized": "प्रपंच",
+    "display": "प्रपंच",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "策略、からくり",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "評論",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_010"
     ]
   },
   {
@@ -2087,6 +2391,25 @@
     ]
   },
   {
+    "word": "मानवीय",
+    "normalized": "मानवीय",
+    "display": "मानवीय",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "人間的な、人道的な",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "評論",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_010"
+    ]
+  },
+  {
     "word": "मानो",
     "normalized": "मानो",
     "display": "मानो",
@@ -2249,6 +2572,25 @@
     ]
   },
   {
+    "word": "रचनात्मक",
+    "normalized": "रचनात्मक",
+    "display": "रचनात्मक",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "創造的な",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "評論",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_010"
+    ]
+  },
+  {
     "word": "रूपरेखा",
     "normalized": "रूपरेखा",
     "display": "रूपरेखा",
@@ -2300,6 +2642,25 @@
     ],
     "sourceIds": [
       "academic_004BandarMagarmacch2"
+    ]
+  },
+  {
+    "word": "लौकिक",
+    "normalized": "लौकिक",
+    "display": "लौकिक",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "世俗的な",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "評論",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_010"
     ]
   },
   {
@@ -2372,6 +2733,25 @@
     ],
     "sourceIds": [
       "academic_008"
+    ]
+  },
+  {
+    "word": "विचलन",
+    "normalized": "विचलन",
+    "display": "विचलन",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "逸脱、動揺",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "評論",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_010"
     ]
   },
   {
@@ -2480,6 +2860,25 @@
     ],
     "sourceIds": [
       "academic_007"
+    ]
+  },
+  {
+    "word": "विशिष्ट",
+    "normalized": "विशिष्ट",
+    "display": "विशिष्ट",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "特別な、際立った",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "評論",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_010"
     ]
   },
   {
@@ -2774,6 +3173,25 @@
     ]
   },
   {
+    "word": "सद्भाव",
+    "normalized": "सद्भाव",
+    "display": "सद्भाव",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "好意、善意",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "評論",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_010"
+    ]
+  },
+  {
     "word": "समय बिताना",
     "normalized": "समय_बिताना",
     "display": "समय बिताना",
@@ -2864,6 +3282,25 @@
     ]
   },
   {
+    "word": "सर्वोपरि",
+    "normalized": "सर्वोपरि",
+    "display": "सर्वोपरि",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "最も重要な、最高位の",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "評論",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_010"
+    ]
+  },
+  {
     "word": "सशक्त",
     "normalized": "सशक्त",
     "display": "सशक्त",
@@ -2918,6 +3355,25 @@
     ]
   },
   {
+    "word": "सापेक्षिता",
+    "normalized": "सापेक्षिता",
+    "display": "सापेक्षिता",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "相対性",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "評論",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_010"
+    ]
+  },
+  {
     "word": "सामंजस्य",
     "normalized": "सामंजस्य",
     "display": "सामंजस्य",
@@ -2933,6 +3389,25 @@
     ],
     "sourceIds": [
       "academic_007"
+    ]
+  },
+  {
+    "word": "सामर्थ्य",
+    "normalized": "सामर्थ्य",
+    "display": "सामर्थ्य",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "力、能力",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "評論",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_010"
     ]
   },
   {
@@ -3098,6 +3573,25 @@
     ]
   },
   {
+    "word": "स्वातंत्र्य",
+    "normalized": "स्वातंत्र्य",
+    "display": "स्वातंत्र्य",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "自由、独立",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "評論",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_010"
+    ]
+  },
+  {
     "word": "स्वीकृत",
     "normalized": "स्वीकृत",
     "display": "स्वीकृत",
@@ -3113,6 +3607,25 @@
     ],
     "sourceIds": [
       "academic_009"
+    ]
+  },
+  {
+    "word": "हताशा",
+    "normalized": "हताशा",
+    "display": "हताशा",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "失望、落胆",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "評論",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_010"
     ]
   },
   {
@@ -3167,6 +3680,25 @@
     ],
     "sourceIds": [
       "academic_004BandarMagarmacch2"
+    ]
+  },
+  {
+    "word": "आत्मीयता",
+    "normalized": "आत्मीयता",
+    "display": "आत्मीयता",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "親しみ、親密さ",
+    "importance": 3,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "評論",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_010"
     ]
   },
   {
@@ -3239,6 +3771,25 @@
     ],
     "sourceIds": [
       "academic_004BandarMagarmacch2"
+    ]
+  },
+  {
+    "word": "उपलब्धि",
+    "normalized": "उपलब्धि",
+    "display": "उपलब्धि",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "成果、達成",
+    "importance": 3,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "評論",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_010"
     ]
   },
   {
@@ -3440,6 +3991,25 @@
     ],
     "sourceIds": [
       "academic_002"
+    ]
+  },
+  {
+    "word": "निर्मम",
+    "normalized": "निर्मम",
+    "display": "निर्मम",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "無慈悲な、容赦ない",
+    "importance": 3,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "評論",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_010"
     ]
   },
   {

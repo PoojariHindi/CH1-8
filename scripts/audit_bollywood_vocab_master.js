@@ -29,7 +29,7 @@ const OUT_PATH = path.join(AUDIT_DIR, "vocab_master_audit.json");
 const VALID_IMPORTANCE = new Set([1, 2, 3, 4]);
 const VALID_SONG_ID_RE = /^bolly_(\d{3})$/;
 const MIN_SONG_NO = 1;
-const MAX_SONG_NO = 46;
+const MAX_SONG_NO = 49;
 
 const REQUIRED_FIELDS = [
   "word",
@@ -76,10 +76,13 @@ function pushGrouped(map, key, item) {
 
 function groupDuplicates(map) {
   return Array.from(map.entries())
-    .filter(([, items]) => items.length >= 2)
+    .filter(([, items]) => {
+      const indexes = new Set(items.map((item) => item.index));
+      return indexes.size >= 2;
+    })
     .map(([key, items]) => ({
       key,
-      count: items.length,
+      count: new Set(items.map((item) => item.index)).size,
       items,
     }));
 }
@@ -102,7 +105,36 @@ function normalizeForLooseCompare(value) {
     .replace(/ढ़/g, "ढ")
     .replace(/फ़/g, "फ")
     .replace(/ऱ/g, "र")
-    .replace(/ळ/g, "ल");
+    .replace(/ळ/g, "ल")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+function normalizeCanonical(value) {
+  return normalizeForLooseCompare(value)
+    .replace(/ूँ$/g, "ून")
+    .replace(/ूं$/g, "ून")
+    .replace(/ौश/g, "ोश")
+    .replace(/जूनून/g, "जुनून")
+    .replace(/यें$/g, "एं")
+    .replace(/एँ$/g, "एं")
+    .replace(/एं$/g, "एं")
+    .replace(/ाँ/g, "ां")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+function unique(values) {
+  return Array.from(new Set(values.filter(Boolean)));
+}
+
+function collectEntryKeys(entry) {
+  return unique([
+    entry.word,
+    entry.display,
+    entry.normalized,
+    ...(Array.isArray(entry.variants) ? entry.variants : []),
+  ]);
 }
 
 function audit() {
@@ -121,6 +153,7 @@ function audit() {
   const displayMap = new Map();
   const normalizedMap = new Map();
   const looseNormalizedMap = new Map();
+  const canonicalNormalizedMap = new Map();
 
   const posCounts = {};
   const importanceCounts = {};
@@ -132,6 +165,7 @@ function audit() {
   const invalidVariants = [];
   const invalidSourceSongIds = [];
   const emptySourceSongIds = [];
+  const duplicateSourceSongIds = [];
   const suspiciousDisplayNormalized = [];
   const normalizationReview = [];
 
@@ -144,7 +178,6 @@ function audit() {
       normalized: entry.normalized ?? null,
     };
 
-    // required fields
     REQUIRED_FIELDS.forEach((field) => {
       if (!(field in entry)) {
         missingRequiredFields.push({
@@ -154,34 +187,39 @@ function audit() {
       }
     });
 
-    // blank string fields
-    ["word", "display", "normalized", "meaning_ja", "pos"].forEach(
-      (field) => {
-        if (field in entry && isBlank(entry[field])) {
-          blankFields.push({
-            ...ref,
-            field,
-            value: entry[field],
-          });
-        }
+    ["word", "display", "normalized", "meaning_ja", "pos"].forEach((field) => {
+      if (field in entry && isBlank(entry[field])) {
+        blankFields.push({
+          ...ref,
+          field,
+          value: entry[field],
+        });
       }
-    );
+    });
 
-    // grouping
     pushGrouped(idMap, toKey(entry.id), ref);
     pushGrouped(wordMap, toKey(entry.word), ref);
     pushGrouped(displayMap, toKey(entry.display), ref);
     pushGrouped(normalizedMap, toKey(entry.normalized), ref);
 
-    const looseKey = normalizeForLooseCompare(entry.normalized || entry.display || entry.word);
+    const looseKey = normalizeForLooseCompare(
+      entry.normalized || entry.display || entry.word
+    );
     pushGrouped(looseNormalizedMap, looseKey, ref);
 
-    // pos count
+    collectEntryKeys(entry).forEach((rawKey) => {
+      const canonicalKey = normalizeCanonical(rawKey);
+      pushGrouped(canonicalNormalizedMap, canonicalKey, {
+        ...ref,
+        sourceFieldValue: rawKey,
+        canonicalKey,
+      });
+    });
+
     if (!isBlank(entry.pos)) {
       posCounts[entry.pos] = (posCounts[entry.pos] || 0) + 1;
     }
 
-    // importance
     if (!VALID_IMPORTANCE.has(entry.importance)) {
       invalidImportance.push({
         ...ref,
@@ -192,7 +230,6 @@ function audit() {
         (importanceCounts[entry.importance] || 0) + 1;
     }
 
-    // variants
     if ("variants" in entry && !Array.isArray(entry.variants)) {
       invalidVariants.push({
         ...ref,
@@ -200,7 +237,6 @@ function audit() {
       });
     }
 
-    // sourceSongIds
     if (!Array.isArray(entry.sourceSongIds)) {
       invalidSourceSongIds.push({
         ...ref,
@@ -210,8 +246,19 @@ function audit() {
     } else if (entry.sourceSongIds.length === 0) {
       emptySourceSongIds.push(ref);
     } else {
+      const seenSourceIds = new Set();
+
       entry.sourceSongIds.forEach((songId) => {
-        const m = typeof songId === "string" ? songId.match(VALID_SONG_ID_RE) : null;
+        if (seenSourceIds.has(songId)) {
+          duplicateSourceSongIds.push({
+            ...ref,
+            sourceSongId: songId,
+          });
+        }
+        seenSourceIds.add(songId);
+
+        const m =
+          typeof songId === "string" ? songId.match(VALID_SONG_ID_RE) : null;
 
         if (!m) {
           invalidSourceSongIds.push({
@@ -227,10 +274,12 @@ function audit() {
         if (n < MIN_SONG_NO || n > MAX_SONG_NO) {
           invalidSourceSongIds.push({
             ...ref,
-            reason: `song id out of range bolly_${String(MIN_SONG_NO).padStart(
+            reason: `song id out of range bolly_${String(
+              MIN_SONG_NO
+            ).padStart(3, "0")} - bolly_${String(MAX_SONG_NO).padStart(
               3,
               "0"
-            )} - bolly_${String(MAX_SONG_NO).padStart(3, "0")}`,
+            )}`,
             sourceSongId: songId,
           });
         }
@@ -239,7 +288,6 @@ function audit() {
       });
     }
 
-    // display / normalized review
     if (
       typeof entry.display === "string" &&
       typeof entry.normalized === "string" &&
@@ -279,6 +327,7 @@ function audit() {
   const duplicateDisplays = groupDuplicates(displayMap);
   const duplicateNormalized = groupDuplicates(normalizedMap);
   const looseDuplicateCandidates = groupDuplicates(looseNormalizedMap);
+  const canonicalDuplicateCandidates = groupDuplicates(canonicalNormalizedMap);
 
   if (duplicateIds.length) {
     errors.push({
@@ -336,6 +385,14 @@ function audit() {
     });
   }
 
+  if (duplicateSourceSongIds.length) {
+    warnings.push({
+      type: "duplicate_source_song_ids",
+      count: duplicateSourceSongIds.length,
+      items: duplicateSourceSongIds,
+    });
+  }
+
   info.push({
     type: "duplicate_words",
     count: duplicateWords.length,
@@ -360,6 +417,12 @@ function audit() {
     items: looseDuplicateCandidates,
   });
 
+  info.push({
+    type: "canonical_duplicate_candidates",
+    count: canonicalDuplicateCandidates.length,
+    items: canonicalDuplicateCandidates,
+  });
+
   const result = {
     generatedAt: new Date().toISOString(),
     input: path.relative(ROOT, MASTER_PATH),
@@ -373,12 +436,14 @@ function audit() {
       duplicateDisplays: duplicateDisplays.length,
       duplicateNormalized: duplicateNormalized.length,
       looseDuplicateCandidates: looseDuplicateCandidates.length,
+      canonicalDuplicateCandidates: canonicalDuplicateCandidates.length,
       missingRequiredFields: missingRequiredFields.length,
       blankFields: blankFields.length,
       invalidImportance: invalidImportance.length,
       invalidVariants: invalidVariants.length,
       invalidSourceSongIds: invalidSourceSongIds.length,
       emptySourceSongIds: emptySourceSongIds.length,
+      duplicateSourceSongIds: duplicateSourceSongIds.length,
       displayNormalizedDifferences: suspiciousDisplayNormalized.length,
       normalizationReviewCount: normalizationReview.length,
     },
@@ -394,6 +459,7 @@ function audit() {
       duplicateDisplays,
       duplicateNormalized,
       looseDuplicateCandidates,
+      canonicalDuplicateCandidates,
     },
     displayNormalizedReview: suspiciousDisplayNormalized,
     normalizationReview,
@@ -411,7 +477,12 @@ function audit() {
   console.log(`Warnings:      ${result.summary.warningGroups}`);
   console.log("");
   console.log(`Duplicate normalized: ${result.summary.duplicateNormalized}`);
-  console.log(`Loose duplicate candidates: ${result.summary.looseDuplicateCandidates}`);
+  console.log(
+    `Loose duplicate candidates: ${result.summary.looseDuplicateCandidates}`
+  );
+  console.log(
+    `Canonical duplicate candidates: ${result.summary.canonicalDuplicateCandidates}`
+  );
   console.log(`Missing required fields: ${result.summary.missingRequiredFields}`);
   console.log(`Invalid sourceSongIds: ${result.summary.invalidSourceSongIds}`);
 }

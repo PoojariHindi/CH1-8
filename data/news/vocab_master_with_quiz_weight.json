@@ -65,10 +65,11 @@
     "sourceArticleIds": [
       "news_vocab_02",
       "news_006",
-      "news_010"
+      "news_010",
+      "news020DJ20260518_NeetLeak"
     ],
-    "sourceCount": 3,
-    "frequency": 3,
+    "sourceCount": 4,
+    "frequency": 4,
     "notes": "",
     "quizWeight": 5
   },
@@ -135,12 +136,13 @@
     "importance": 4,
     "status": "active",
     "sourceArticleIds": [
-      "news_vocab_02"
+      "news_vocab_02",
+      "news019DJ20260518_3Bhasha"
     ],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 2,
+    "frequency": 2,
     "notes": "",
-    "quizWeight": 3
+    "quizWeight": 4
   },
   {
     "word": "पोस्टमॉर्टम",
@@ -397,12 +399,13 @@
     "importance": 4,
     "status": "active",
     "sourceArticleIds": [
-      "news_vocab_02"
+      "news_vocab_02",
+      "news020DJ20260518_NeetLeak"
     ],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 2,
+    "frequency": 2,
     "notes": "",
-    "quizWeight": 3
+    "quizWeight": 4
   },
   {
     "word": "वेतन",
@@ -839,12 +842,13 @@
     "status": "active",
     "sourceArticleIds": [
       "news_vocab_02",
-      "news_011"
+      "news_011",
+      "news019DJ20260518_3Bhasha"
     ],
-    "sourceCount": 2,
-    "frequency": 2,
+    "sourceCount": 3,
+    "frequency": 3,
     "notes": "",
-    "quizWeight": 4
+    "quizWeight": 5
   },
   {
     "word": "नीति",
@@ -856,12 +860,13 @@
     "importance": 4,
     "status": "active",
     "sourceArticleIds": [
-      "news_vocab_02"
+      "news_vocab_02",
+      "news019DJ20260518_3Bhasha"
     ],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 2,
+    "frequency": 2,
     "notes": "",
-    "quizWeight": 3
+    "quizWeight": 4
   },
   {
     "word": "प्रक्रिया",
@@ -876,10 +881,11 @@
       "news_vocab_01",
       "news_vocab_02",
       "news_011",
-      "new017DJ20260514_Girls"
+      "new017DJ20260514_Girls",
+      "news019DJ20260518_3Bhasha"
     ],
-    "sourceCount": 4,
-    "frequency": 4,
+    "sourceCount": 5,
+    "frequency": 5,
     "notes": "",
     "quizWeight": 5
   },
@@ -894,12 +900,13 @@
     "status": "active",
     "sourceArticleIds": [
       "news_vocab_01",
-      "news_vocab_02"
+      "news_vocab_02",
+      "news020DJ20260518_NeetLeak"
     ],
-    "sourceCount": 2,
-    "frequency": 2,
+    "sourceCount": 3,
+    "frequency": 3,
     "notes": "",
-    "quizWeight": 4
+    "quizWeight": 5
   },
   {
     "word": "योजना",
@@ -965,12 +972,13 @@
     "status": "active",
     "sourceArticleIds": [
       "news_vocab_02",
-      "news_014"
+      "news_014",
+      "news019DJ20260518_3Bhasha"
     ],
-    "sourceCount": 2,
-    "frequency": 2,
+    "sourceCount": 3,
+    "frequency": 3,
     "notes": "",
-    "quizWeight": 4
+    "quizWeight": 5
   },
   {
     "word": "गठन",
@@ -1578,10 +1586,11 @@
     "importance": 3,
     "status": "active",
     "sourceArticleIds": [
-      "news_vocab_02"
+      "news_vocab_02",
+      "news020DJ20260518_NeetLeak"
     ],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 2,
+    "frequency": 2,
     "notes": "",
     "quizWeight": 3
   },
@@ -1790,12 +1799,13 @@
     "status": "active",
     "sourceArticleIds": [
       "news_vocab_01",
-      "news_vocab_02"
+      "news_vocab_02",
+      "news020DJ20260518_NeetLeak"
     ],
-    "sourceCount": 2,
-    "frequency": 2,
+    "sourceCount": 3,
+    "frequency": 3,
     "notes": "",
-    "quizWeight": 3
+    "quizWeight": 4
   },
   {
     "word": "प्रोसेस",
@@ -2366,12 +2376,13 @@
     "importance": 4,
     "status": "active",
     "sourceArticleIds": [
-      "news_20260429_bengal_chunaw"
+      "news_20260429_bengal_chunaw",
+      "news020DJ20260518_NeetLeak"
     ],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 2,
+    "frequency": 2,
     "notes": "गिरफ्तारी は名詞「逮捕」。これは分詞・形容詞として別登録。",
-    "quizWeight": 3
+    "quizWeight": 4
   },
   {
     "word": "फोरेंसिक",
@@ -6346,6 +6357,590 @@
     "sourceCount": 1,
     "frequency": 1,
     "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "त्रि-भाषा फ़ॉर्मूला",
+    "display": "त्रि-भाषा फ़ॉर्मूला",
+    "normalized": "त्रि_भाषा_फॉर्मूला",
+    "variants": [
+      "त्रि-भाषा फार्मूला",
+      "तीन भाषा फार्मूला",
+      "तीन-भाषा फ़ॉर्मूला"
+    ],
+    "pos": "名詞（男）",
+    "meaning_ja": "三言語方式",
+    "category": "教育",
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news019DJ20260518_3Bhasha"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "NEP関連教育用語",
+    "quizWeight": 3
+  },
+  {
+    "word": "रोजगारपरक",
+    "display": "रोजगारपरक",
+    "normalized": "रोजगारपरक",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "就業志向の、雇用に結びつく",
+    "category": "教育",
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news019DJ20260518_3Bhasha"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "शैक्षणिक सत्र",
+    "display": "शैक्षणिक सत्र",
+    "normalized": "शैक्षणिक_सत्र",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "学年度、学期",
+    "category": "教育",
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news019DJ20260518_3Bhasha"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "कौशल विकास",
+    "display": "कौशल विकास",
+    "normalized": "कौशल_विकास",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "技能開発",
+    "category": "教育",
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news019DJ20260518_3Bhasha"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "教育政策頻出",
+    "quizWeight": 3
+  },
+  {
+    "word": "राष्ट्रीय शिक्षा नीति",
+    "display": "राष्ट्रीय शिक्षा नीति",
+    "normalized": "राष्ट्रीय_शिक्षा_नीति",
+    "variants": [
+      "एनईपी"
+    ],
+    "pos": "名詞（女）",
+    "meaning_ja": "国家教育政策",
+    "category": "教育",
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news019DJ20260518_3Bhasha"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "NEP",
+    "quizWeight": 3
+  },
+  {
+    "word": "बहुभाषावाद",
+    "display": "बहुभाषावाद",
+    "normalized": "बहुभाषावाद",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "多言語主義",
+    "category": "教育",
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news019DJ20260518_3Bhasha"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "मातृभाषा",
+    "display": "मातृभाषा",
+    "normalized": "मातृभाषा",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "母語",
+    "category": "教育",
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news019DJ20260518_3Bhasha"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "भाषाई विविधता",
+    "display": "भाषाई विविधता",
+    "normalized": "भाषाई_विविधता",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "言語的多様性",
+    "category": "教育",
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news019DJ20260518_3Bhasha"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "कार्यात्मक ज्ञान",
+    "display": "कार्यात्मक ज्ञान",
+    "normalized": "कार्यात्मक_ज्ञान",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "実用的知識、機能的知識",
+    "category": "教育",
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news019DJ20260518_3Bhasha"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "पाठ्यपुस्तक",
+    "display": "पाठ्यपुस्तक",
+    "normalized": "पाठ्यपुस्तक",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "教科書",
+    "category": "教育",
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news019DJ20260518_3Bhasha"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "आधिकारिक भाषा",
+    "display": "आधिकारिक भाषा",
+    "normalized": "आधिकारिक_भाषा",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "公用語",
+    "category": "教育",
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news019DJ20260518_3Bhasha"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "क्षेत्रीय भाषा",
+    "display": "क्षेत्रीय भाषा",
+    "normalized": "क्षेत्रीय_भाषा",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "地域言語",
+    "category": "教育",
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news019DJ20260518_3Bhasha"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "भाषाई",
+    "display": "भाषाई",
+    "normalized": "भाषाई",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "言語の、言語的な",
+    "category": "教育",
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news019DJ20260518_3Bhasha"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "द्रविड़",
+    "display": "द्रविड़",
+    "normalized": "द्रविड़",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "ドラヴィダ系の",
+    "category": "教育",
+    "importance": 2,
+    "status": "active",
+    "sourceArticleIds": [
+      "news019DJ20260518_3Bhasha"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "歴史・言語政策文脈",
+    "quizWeight": 3
+  },
+  {
+    "word": "विरोधी भावना",
+    "display": "विरोधी भावना",
+    "normalized": "विरोधी_भावना",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "反対感情、反発感情",
+    "category": "教育",
+    "importance": 2,
+    "status": "active",
+    "sourceArticleIds": [
+      "news019DJ20260518_3Bhasha"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "पेपर लीक",
+    "display": "पेपर लीक",
+    "normalized": "पेपर_लीक",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "試験問題漏洩",
+    "category": "教育",
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news020DJ20260518_NeetLeak"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "入試不正関連頻出",
+    "quizWeight": 3
+  },
+  {
+    "word": "संदिग्ध",
+    "display": "संदिग्ध",
+    "normalized": "संदिग्ध",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "疑わしい、容疑のある",
+    "category": "事件・事故",
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news020DJ20260518_NeetLeak"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "दस्तावेज",
+    "display": "दस्तावेज़",
+    "normalized": "दस्तावेज",
+    "variants": [
+      "दस्तावेज़"
+    ],
+    "pos": "名詞（男）",
+    "meaning_ja": "文書、書類",
+    "category": "行政・制度",
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news020DJ20260518_NeetLeak"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "प्रवेश पत्र",
+    "display": "प्रवेश पत्र",
+    "normalized": "प्रवेश_पत्र",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "受験票、入場許可証",
+    "category": "教育",
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news020DJ20260518_NeetLeak"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "पहचान पत्र",
+    "display": "पहचान पत्र",
+    "normalized": "पहचान_पत्र",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "身分証明書",
+    "category": "行政・制度",
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news020DJ20260518_NeetLeak"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "पूछताछ",
+    "display": "पूछताछ",
+    "normalized": "पूछताछ",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "取り調べ、事情聴取",
+    "category": "事件・事故",
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news020DJ20260518_NeetLeak"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "आरोपित",
+    "display": "आरोपित",
+    "normalized": "आरोपित",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "被告人、被疑者",
+    "category": "事件・事故",
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news020DJ20260518_NeetLeak"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "अध्ययनरत",
+    "display": "अध्ययनरत",
+    "normalized": "अध्ययनरत",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "在学中の、学習中の",
+    "category": "教育",
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news020DJ20260518_NeetLeak"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "संकाय",
+    "display": "संकाय",
+    "normalized": "संकाय",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "学部",
+    "category": "教育",
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news020DJ20260518_NeetLeak"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "大学用語",
+    "quizWeight": 3
+  },
+  {
+    "word": "चिकित्सा विज्ञान संस्थान",
+    "display": "चिकित्सा विज्ञान संस्थान",
+    "normalized": "चिकित्सा_विज्ञान_संस्थान",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "医学研究機関、医科学研究所",
+    "category": "教育",
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news020DJ20260518_NeetLeak"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "कोचिंग संस्थान",
+    "display": "कोचिंग संस्थान",
+    "normalized": "कोचिंग_संस्थान",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "受験予備校、コーチング機関",
+    "category": "教育",
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news020DJ20260518_NeetLeak"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "インド受験文化",
+    "quizWeight": 3
+  },
+  {
+    "word": "आधिकारिक बयान",
+    "display": "आधिकारिक बयान",
+    "normalized": "आधिकारिक_बयान",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "公式声明",
+    "category": "行政・制度",
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news020DJ20260518_NeetLeak"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "पड़ताल",
+    "display": "पड़ताल",
+    "normalized": "पड़ताल",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "調査、精査",
+    "category": "事件・事故",
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news020DJ20260518_NeetLeak"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "報道語彙",
+    "quizWeight": 3
+  },
+  {
+    "word": "सतर्क",
+    "display": "सतर्क",
+    "normalized": "सतर्क",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "警戒している、警戒態勢の",
+    "category": "事件・事故",
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news020DJ20260518_NeetLeak"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "प्रधानमंत्री",
+    "display": "प्रधानमंत्री",
+    "normalized": "प्रधानमंत्री",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "首相",
+    "category": "行政・制度",
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news019DJ20260518_3Bhasha"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "政府・政治頻出語",
+    "quizWeight": 3
+  },
+  {
+    "word": "अध्ययन",
+    "display": "अध्ययन",
+    "normalized": "अध्ययन",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "学習、研究",
+    "category": "教育",
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news019DJ20260518_3Bhasha"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "教育・学術頻出語",
+    "quizWeight": 3
+  },
+  {
+    "word": "बढ़ावा",
+    "display": "बढ़ावा",
+    "normalized": "बढ़ावा",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "促進、奨励、推進",
+    "category": "行政・制度",
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news019DJ20260518_3Bhasha"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "政策・制度文脈で頻出",
     "quizWeight": 3
   }
 ]

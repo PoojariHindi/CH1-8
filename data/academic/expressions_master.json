@@ -1,5 +1,47 @@
 [
   {
+    "text": "विज्ञान का अपना तर्क है और विश्वास का अपना सामर्थ्य",
+    "normalized": "विज्ञान का अपना तर्क है और विश्वास का अपना सामर्थ्य",
+    "meaning_ja": "科学には科学の論理があり、信仰には信仰の力がある",
+    "type": "philosophical_statement",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "評論",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_010"
+    ],
+    "sourceTitle": "Dharmvir Bharti",
+    "sourceGenre": "textbook",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "text": "विश्वास की भी तो एक रचनात्मक भूमिका हो सकती है",
+    "normalized": "विश्वास की भी तो एक रचनात्मक भूमिका हो सकती है",
+    "meaning_ja": "信仰にもまた創造的な役割があり得る",
+    "type": "philosophical_statement",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "評論",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_010"
+    ],
+    "sourceTitle": "Dharmvir Bharti",
+    "sourceGenre": "textbook",
+    "sourceRegister": "literary_prose"
+  },
+  {
     "text": "अगर तुम और नीचे गए तो मैं डूब जाऊँगा",
     "normalized": "अगर तुम और नीचे गए तो मैं डूब जाऊँगा",
     "meaning_ja": "これ以上下へ行ったら、私は溺れてしまう",
@@ -218,6 +260,27 @@
     "sourceTitle": "सत्संगति",
     "sourceGenre": "essay",
     "sourceRegister": "academic_prose"
+  },
+  {
+    "text": "जनमानस में ऐसी वैज्ञानिक दृष्टि का न जनम पाना",
+    "normalized": "जनमानस में ऐसी वैज्ञानिक दृष्टि का न जनम पाना",
+    "meaning_ja": "大衆意識の中にそのような科学的視点が生まれないこと",
+    "type": "academic_expression",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "評論",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_010"
+    ],
+    "sourceTitle": "Dharmvir Bharti",
+    "sourceGenre": "textbook",
+    "sourceRegister": "literary_prose"
   },
   {
     "text": "तुम्हारा स्वागत है",
@@ -540,6 +603,27 @@
     "sourceRegister": "simple_narrative"
   },
   {
+    "text": "लोक-प्रचलित विश्वास और विज्ञान के द्वंद्व",
+    "normalized": "लोक प्रचलित विश्वास और विज्ञान के द्वंद्व",
+    "meaning_ja": "民間信仰と科学との葛藤",
+    "type": "concept_expression",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "評論",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_010"
+    ],
+    "sourceTitle": "Dharmvir Bharti",
+    "sourceGenre": "textbook",
+    "sourceRegister": "literary_prose"
+  },
+  {
     "text": "वह समझ गया उसका जीवन खतरे में है",
     "normalized": "वह समझ गया उसका जीवन खतरे में है",
     "meaning_ja": "彼は自分の命が危険にあることを悟った",
@@ -638,6 +722,27 @@
     "sourceTitle": "प्राक्कथन",
     "sourceGenre": "textbook",
     "sourceRegister": "academic_prose"
+  },
+  {
+    "text": "व्यक्ति की स्वतंत्रता ही सर्वोपरि है",
+    "normalized": "व्यक्ति की स्वतंत्रता ही सर्वोपरि है",
+    "meaning_ja": "個人の自由こそが最も重要である",
+    "type": "academic_expression",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "評論",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_010"
+    ],
+    "sourceTitle": "Dharmvir Bharti",
+    "sourceGenre": "textbook",
+    "sourceRegister": "literary_prose"
   },
   {
     "text": "व्यायाम के महत्त्व को समझने की",

@@ -1,4 +1,4 @@
-const CACHE_VERSION = "v50";
+const CACHE_VERSION = "v51";
 const CACHE_NAME = `hindi-quiz-${CACHE_VERSION}`;
 
 const APP_SHELL = [
@@ -19,6 +19,11 @@ const APP_SHELL = [
   "./data/ch/texts/lesson06.json",
   "./data/ch/texts/lesson07.json",
   "./data/ch/texts/lesson08.json",
+  "./data/ch/texts/lesson09.json",
+  "./data/ch/texts/lesson10.json",
+  "./data/ch/texts/lesson11.json",
+  "./data/ch/texts/lesson12.json",
+
 
   "./data/ch/vocab/lesson01_vocab.json",
   "./data/ch/vocab/lesson02_vocab.json",
@@ -27,7 +32,11 @@ const APP_SHELL = [
   "./data/ch/vocab/lesson05_vocab.json",
   "./data/ch/vocab/lesson06_vocab.json",
   "./data/ch/vocab/lesson07_vocab.json",
-  "./data/ch/vocab/lesson08_vocab.json"
+  "./data/ch/vocab/lesson08_vocab.json",
+  "./data/ch/vocab/lesson09_vocab.json",
+  "./data/ch/vocab/lesson10_vocab.json",
+  "./data/ch/vocab/lesson11_vocab.json",
+  "./data/ch/vocab/lesson12_vocab.json"
 ];
 
 // インストール時にキャッシュ

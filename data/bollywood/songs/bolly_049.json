@@ -1,0 +1,333 @@
+{
+  "id": "bolly_049",
+  "schema_version": 2,
+
+  "title": "Phir Milenge Chalte Chalte",
+  "film": "Rab Ne Bana Di Jodi",
+  "year": 2008,
+
+  "singer": [
+    "Sonu Nigam"
+  ],
+  "lyricist": [
+    "Jaideep Sahni"
+  ],
+  "composer": [
+    "Salim-Sulaiman"
+  ],
+
+  "notes": [
+    "シャールク"
+  ],
+
+  "tags": [
+    "恋愛",
+    "ダンス"
+  ],
+
+  "emotion": "playful_romance",
+  "register": "filmi_retro",
+
+  "key_phrase": "हम हैं राही प्यार के, फिर मिलेंगे चलते चलते",
+
+  "expressions": [
+    {
+      "text": "हम हैं राही प्यार के",
+      "normalized": "हम हैं राही प्यार के",
+      "meaning_ja": "私たちは愛の旅人だ",
+      "type": "key_phrase",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "फिर मिलेंगे चलते चलते",
+      "normalized": "फिर मिलेंगे चलते चलते",
+      "meaning_ja": "歩き続けながら、また会おう",
+      "type": "key_phrase",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "हर जनम में रंग बदल के",
+      "normalized": "हर जनम में रंग बदल के",
+      "meaning_ja": "生まれ変わるたびに姿を変えて",
+      "type": "metaphor",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "ख़्वाबों के पर्दों पे हम खिलते",
+      "normalized": "ख्वाबों के पर्दों पे हम खिलते",
+      "meaning_ja": "夢の幕の上で私たちは花開く",
+      "type": "metaphor",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "दिल का भँवर करे पुकार",
+      "normalized": "दिल का भंवर करे पुकार",
+      "meaning_ja": "心の渦が呼びかける",
+      "type": "metaphor",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "पल भर के लिए कोई हमें प्यार कर ले",
+      "normalized": "पल भर के लिए कोई हमें प्यार कर ले",
+      "meaning_ja": "ほんの一瞬でも誰かが私たちを愛してくれたなら",
+      "type": "expression",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "महफ़िल महफ़िल तू फिरे",
+      "normalized": "महफिल महफिल तू फिरे",
+      "meaning_ja": "君は宴から宴へと巡る",
+      "type": "expression",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "बदन पे सितारे लपेटे हुए",
+      "normalized": "बदन पे सितारे लपेटे हुए",
+      "meaning_ja": "身体に星をまとって",
+      "type": "metaphor",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "ज़िन्दगी सफर है सुहाना",
+      "normalized": "जिंदगी सफर है सुहाना",
+      "meaning_ja": "人生はすばらしい旅だ",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "कुछ तो लोग कहेंगे",
+      "normalized": "कुछ तो लोग कहेंगे",
+      "meaning_ja": "人は何かしら言うものだ",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "चैन आए मेरे दिल को",
+      "normalized": "चैन आए मेरे दिल को",
+      "meaning_ja": "私の心に安らぎが訪れる",
+      "type": "expression",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "हम किसी से कम नहीं हैं",
+      "normalized": "हम किसी से कम नहीं हैं",
+      "meaning_ja": "私たちは誰にも劣らない",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "ये वादा रहा",
+      "normalized": "ये वादा रहा",
+      "meaning_ja": "これは約束だ",
+      "type": "expression",
+      "importance": 3,
+      "status": "active"
+    }
+  ],
+
+  "vocab_candidates": [
+    {
+      "word": "इकरार",
+      "normalized": "इकरार",
+      "pos": "名詞（男）",
+      "meaning_ja": "承諾、愛の告白",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "छलिया",
+      "normalized": "छलिया",
+      "pos": "名詞（男）",
+      "meaning_ja": "人を惑わす者、いたずらな恋人",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "अनाड़ी",
+      "normalized": "अनाड़ी",
+      "pos": "形容詞",
+      "meaning_ja": "不器用な、未熟な",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "आवारा",
+      "normalized": "आवारा",
+      "pos": "形容詞",
+      "meaning_ja": "さすらいの、放浪する",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "संगम",
+      "normalized": "संगम",
+      "pos": "名詞（男）",
+      "meaning_ja": "合流、出会い、結ばれること",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "जनम",
+      "normalized": "जनम",
+      "pos": "名詞（男）",
+      "meaning_ja": "生、生まれ変わり",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "राही",
+      "normalized": "राही",
+      "pos": "名詞（男）",
+      "meaning_ja": "旅人、道行く人",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "भँवर",
+      "normalized": "भंवर",
+      "pos": "名詞（男）",
+      "meaning_ja": "渦、心を巻き込むもの",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "पुकार",
+      "normalized": "पुकार",
+      "pos": "名詞（女）",
+      "meaning_ja": "呼び声、呼びかけ",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "हसीना",
+      "normalized": "हसीना",
+      "pos": "名詞（女）",
+      "meaning_ja": "美女",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "ज़ुल्फ़",
+      "normalized": "जुल्फ",
+      "pos": "名詞（女）",
+      "meaning_ja": "髪、巻き髪",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "जान-ए-जहां",
+      "normalized": "जान-ए-जहां",
+      "pos": "名詞句",
+      "meaning_ja": "世界の命、最愛の人",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "महफ़िल",
+      "normalized": "महफिल",
+      "pos": "名詞（女）",
+      "meaning_ja": "集まり、宴、華やかな場",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "बदन",
+      "normalized": "बदन",
+      "pos": "名詞（男）",
+      "meaning_ja": "身体、からだ",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "सितारे",
+      "normalized": "सितारे",
+      "pos": "名詞（男・複）",
+      "meaning_ja": "星々",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "कंकड़",
+      "normalized": "कंकड़",
+      "pos": "名詞（男）",
+      "meaning_ja": "小石",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "ज़माना",
+      "normalized": "जमाना",
+      "pos": "名詞（男）",
+      "meaning_ja": "世間、時代",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "सुहाना",
+      "normalized": "सुहाना",
+      "pos": "形容詞",
+      "meaning_ja": "心地よい、すばらしい",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "चैन",
+      "normalized": "चैन",
+      "pos": "名詞（男）",
+      "meaning_ja": "安らぎ、平穏",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "दर्द-ए-दिल",
+      "normalized": "दर्द-ए-दिल",
+      "pos": "名詞句",
+      "meaning_ja": "心の痛み、恋の苦しみ",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "जिगर",
+      "normalized": "जिगर",
+      "pos": "名詞（男）",
+      "meaning_ja": "肝、心、情熱の宿るところ",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "वादा",
+      "normalized": "वादा",
+      "pos": "名詞（男）",
+      "meaning_ja": "約束",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "चांदनी",
+      "normalized": "चांदनी",
+      "pos": "名詞（女）",
+      "meaning_ja": "月明かり、月光",
+      "importance": 4,
+      "status": "active"
+    }
+  ],
+
+  "meta": {
+    "copyright_safe": true,
+    "lyrics_included": false,
+    "source_type": "manual_curated",
+    "dedupe_ready": true
+  }
+}

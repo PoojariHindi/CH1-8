@@ -1,0 +1,292 @@
+{
+  "id": "bolly_050",
+  "schema_version": 2,
+
+  "title": "Gilehriyaan",
+  "film": "Dangal",
+  "year": 2016,
+
+  "singer": [
+    "Jonita Gandhi"
+  ],
+  "lyricist": [
+    "Amitabh Bhattacharya"
+  ],
+  "composer": [
+    "Pritam"
+  ],
+
+  "notes": [
+    "アーミル"
+  ],
+
+  "tags": [
+    "希望"
+  ],
+
+  "emotion": "playful_awakening",
+  "register": "poetic_modern",
+
+  "key_phrase": "क्यूँ फुदक-फुदक के धड़कनों की चल रही गिलहरियाँ",
+
+  "expressions": [
+    {
+      "text": "रंग बदल-बदल के",
+      "normalized": "रंग बदल-बदल के",
+      "meaning_ja": "色を次々と変えながら",
+      "type": "metaphor",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "चहक रहे हैं दिन दुपहरियाँ",
+      "normalized": "चहक रहे हैं दिन दुपहरियां",
+      "meaning_ja": "昼の時間たちがさえずっている",
+      "type": "metaphor",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "फुदक-फुदक के धड़कनों की चल रही गिलहरियाँ",
+      "normalized": "फुदक-फुदक के धड़कनों की चल रही गिलहरियां",
+      "meaning_ja": "心臓の鼓動の中をリスたちが跳ね回っている",
+      "type": "metaphor",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "मौसम सरफिरा है",
+      "normalized": "मौसम सरफिरा है",
+      "meaning_ja": "季節がどこかおかしい、浮かれている",
+      "type": "expression",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "मूड मसखरा है",
+      "normalized": "मूड मसखरा है",
+      "meaning_ja": "気分がおどけている",
+      "type": "expression",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "मन-मानियों का ज़ायका",
+      "normalized": "मन-मानियों का जायका",
+      "meaning_ja": "気ままさの味わい",
+      "type": "metaphor",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "ख्वाहिशों की टहनियाँ",
+      "normalized": "ख्वाहिशों की टहनियां",
+      "meaning_ja": "願望の枝々",
+      "type": "metaphor",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "इक नयी सी दोस्ती आसमां से हो गयी",
+      "normalized": "इक नयी सी दोस्ती आसमां से हो गयी",
+      "meaning_ja": "空と新しい友情が生まれた",
+      "type": "metaphor",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "ज़मीन मुझसे जल के",
+      "normalized": "जमीन मुझसे जल के",
+      "meaning_ja": "地面が私に嫉妬して",
+      "type": "personification",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "मुँह बना के बोले",
+      "normalized": "मुंह बना के बोले",
+      "meaning_ja": "不満げな顔をして言う",
+      "type": "expression",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "तू बिगड़ रही है",
+      "normalized": "तू बिगड़ रही है",
+      "meaning_ja": "君、変わってきてるね",
+      "type": "expression",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "एक-आधा शेर पढ़ रही है",
+      "normalized": "एक-आधा शेर पढ़ रही है",
+      "meaning_ja": "詩句を少しずつ読んでいる",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "सही ग़लत के पीछे छोड़ के",
+      "normalized": "सही गलत के पीछे छोड़ के",
+      "meaning_ja": "正しい・間違いを後ろに置き去りにして",
+      "type": "expression",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "कचहरियाँ छोड़ के चली",
+      "normalized": "कचहरियां छोड़ के चली",
+      "meaning_ja": "裁きや理屈の場を離れていった",
+      "type": "metaphor",
+      "importance": 4,
+      "status": "active"
+    }
+  ],
+
+  "vocab_candidates": [
+    {
+      "word": "चहकना",
+      "normalized": "चहकना",
+      "pos": "自動詞",
+      "meaning_ja": "さえずる、楽しげにはしゃぐ",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "दुपहरियाँ",
+      "normalized": "दुपहरियां",
+      "pos": "名詞（女・複）",
+      "meaning_ja": "昼下がりの時間たち",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "फुदकना",
+      "normalized": "फुदकना",
+      "pos": "自動詞",
+      "meaning_ja": "ぴょんぴょん跳ねる",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "धड़कन",
+      "normalized": "धड़कन",
+      "pos": "名詞（女）",
+      "meaning_ja": "鼓動",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "गिलहरियाँ",
+      "normalized": "गिलहरियां",
+      "pos": "名詞（女・複）",
+      "meaning_ja": "リスたち",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "सरफिरा",
+      "normalized": "सरफिरा",
+      "pos": "形容詞",
+      "meaning_ja": "風変わりな、浮かれた",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "मसखरा",
+      "normalized": "मसखरा",
+      "pos": "形容詞",
+      "meaning_ja": "おどけた、ふざけた",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "ज़ायका",
+      "normalized": "जायका",
+      "pos": "名詞（男）",
+      "meaning_ja": "味わい、風味",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "मन-मानी",
+      "normalized": "मन-मानी",
+      "pos": "名詞（女）",
+      "meaning_ja": "気まま、好き勝手",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "रस",
+      "normalized": "रस",
+      "pos": "名詞（男）",
+      "meaning_ja": "味わい、情趣",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "गुलमोहर",
+      "normalized": "गुलमोहर",
+      "pos": "名詞（男）",
+      "meaning_ja": "ホウオウボク",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "टहनी",
+      "normalized": "टहनी",
+      "pos": "名詞（女）",
+      "meaning_ja": "枝",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "लूम",
+      "normalized": "लूम",
+      "pos": "名詞（男）",
+      "meaning_ja": "織機",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "गणित",
+      "normalized": "गणित",
+      "pos": "名詞（男）",
+      "meaning_ja": "数学",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "आंकड़ा",
+      "normalized": "आंकड़ा",
+      "pos": "名詞（男）",
+      "meaning_ja": "数字、統計値",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "शेर",
+      "normalized": "शेर",
+      "pos": "名詞（男）",
+      "meaning_ja": "詩句、シェール",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "कचहरी",
+      "normalized": "कचहरी",
+      "pos": "名詞（女）",
+      "meaning_ja": "法廷、役所",
+      "importance": 4,
+      "status": "active"
+    }
+  ],
+
+  "meta": {
+    "copyright_safe": true,
+    "lyrics_included": false,
+    "source_type": "manual_curated",
+    "dedupe_ready": true
+  }
+}
