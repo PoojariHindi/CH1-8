@@ -21,6 +21,16 @@ let currentQuiz = null;
 let wrongAnswers = [];
 let reviewModeEnabled = false;
 
+const MYLIST_STORAGE_KEY = "hindiQuizMyList";
+const MYLIST_MAX_ITEMS = 200;
+const MYLIST_ELIGIBLE_MODES = new Set([
+  "ch",
+  "news",
+  "academic_vocab",
+  "bollywood_vocab",
+  "mylist"
+]);
+
 async function loadJson(path) {
   const response = await fetch(path);
   if (!response.ok) {
@@ -194,7 +204,8 @@ function isVocabularyMode(mode) {
     mode === "ch" ||
     mode === "news" ||
     mode === "bollywood_vocab" ||
-    mode === "academic_vocab"
+    mode === "academic_vocab" ||
+    mode === "mylist"
   );
 }
 
@@ -208,6 +219,127 @@ function getWord(entry) {
 
 function getDisplayWord(entry) {
   return normalizeString(entry.display || entry.word);
+}
+
+
+function getMyListKey(entry) {
+  return normalizeString(entry.normalized) ||
+    normalizeString(entry.display) ||
+    normalizeString(entry.word);
+}
+
+function loadMyList() {
+  try {
+    const raw = localStorage.getItem(MYLIST_STORAGE_KEY);
+    const items = raw ? JSON.parse(raw) : [];
+
+    return Array.isArray(items) ? items : [];
+  } catch (error) {
+    console.warn("Failed to load mylist:", error);
+    return [];
+  }
+}
+
+function saveMyList(items) {
+  localStorage.setItem(MYLIST_STORAGE_KEY, JSON.stringify(items));
+}
+
+function sanitizeMyListEntry(entry) {
+  return {
+    word: normalizeString(entry.word),
+    display: normalizeString(entry.display || entry.word),
+    normalized: normalizeString(entry.normalized || entry.word),
+    meaning: normalizeString(entry.meaning),
+    meaning_ja: normalizeString(entry.meaning_ja),
+    pos: normalizeString(entry.pos),
+    source: normalizeString(entry.source),
+    lesson: entry.lesson ?? null,
+    topic: normalizeString(entry.topic),
+    category: normalizeString(entry.category),
+    quizWeight: 1
+  };
+}
+
+function isInMyList(entry) {
+  const key = getMyListKey(entry);
+  if (!key) return false;
+
+  return loadMyList().some((item) => getMyListKey(item) === key);
+}
+
+function addToMyList(entry) {
+  const key = getMyListKey(entry);
+  if (!key) {
+    return {
+      ok: false,
+      message: "この語彙はマイリストに追加できません。"
+    };
+  }
+
+  const items = loadMyList();
+
+  if (items.some((item) => getMyListKey(item) === key)) {
+    return {
+      ok: true,
+      message: "すでにマイリストに入っています。"
+    };
+  }
+
+  if (items.length >= MYLIST_MAX_ITEMS) {
+    return {
+      ok: false,
+      message: `マイリストは${MYLIST_MAX_ITEMS}語までです。不要な語を削除してください。`
+    };
+  }
+
+  items.push(sanitizeMyListEntry(entry));
+  saveMyList(items);
+
+  return {
+    ok: true,
+    message: "マイリストに追加しました。"
+  };
+}
+
+function removeFromMyList(entry) {
+  const key = getMyListKey(entry);
+  if (!key) {
+    return {
+      ok: false,
+      message: "この語彙はマイリストから削除できません。"
+    };
+  }
+
+  const items = loadMyList();
+  const nextItems = items.filter((item) => getMyListKey(item) !== key);
+  saveMyList(nextItems);
+
+  return {
+    ok: true,
+    message: "マイリストから削除しました。"
+  };
+}
+
+function isMyListEligibleQuiz() {
+  if (!currentQuiz || currentQuiz.type !== "vocab") return false;
+
+  const mode = getMode();
+  return MYLIST_ELIGIBLE_MODES.has(mode);
+}
+
+function renderMyListButton() {
+  if (!isMyListEligibleQuiz()) return "";
+
+  const inMyList = isInMyList(currentQuiz.entry);
+  const label = inMyList ? "マイリストから削除" : "マイリストに追加";
+  const extraClass = inMyList ? " remove" : "";
+
+  return `
+    <button id="myListToggleBtn" class="mylist-action-btn${extraClass}" type="button">
+      ${escapeHtml(label)}
+    </button>
+    <div id="myListStatus" class="mylist-status"></div>
+  `;
 }
 
 function buildWrongPoolForVocab(pool, correct, direction) {
@@ -428,6 +560,10 @@ function renderQuiz(quiz) {
       <button id="nextQuestionBtn" class="next-btn" style="display:none;">
         次の問題
       </button>
+      
+　　　<button id="myListToggleBtn" class="mylist-btn" style="display:none;">
+  　　　マイリストに追加
+　　　　</button>
     </div>
   `;
 
@@ -483,6 +619,35 @@ function handleAnswerClick(event) {
   }
 
   nextBtn.style.display = "inline-block";
+
+  const myListBtn = document.getElementById("myListToggleBtn");
+
+  if (myListBtn && isMyListEligibleQuiz()) {
+    const inMyList = isInMyList(currentQuiz.entry);
+
+    myListBtn.style.display = "inline-block";
+    myListBtn.textContent = inMyList
+      ? "マイリストから削除"
+      : "マイリストに追加";
+
+    myListBtn.onclick = () => {
+      const before = isInMyList(currentQuiz.entry);
+
+      const result = before
+        ? removeFromMyList(currentQuiz.entry)
+        : addToMyList(currentQuiz.entry);
+
+      const after = isInMyList(currentQuiz.entry);
+
+      myListBtn.textContent = after
+        ? "マイリストから削除"
+        : "マイリストに追加";
+
+      if (feedback && result.message) {
+        feedback.innerHTML += `<p style="font-size:13px;">${escapeHtml(result.message)}</p>`;
+      }
+    };
+  }
 }
 
 function getCurrentPool() {
@@ -491,6 +656,10 @@ function getCurrentPool() {
   }
 
   const mode = getMode();
+
+  if (mode === "mylist") {
+    return loadMyList();
+  }
 
   if (mode === "ch") {
     const lessonValue =  document.getElementById("lessonSelect").value;
@@ -535,7 +704,13 @@ function startQuiz() {
   const pool = getCurrentPool();
 
   if (pool.length < 4) {
-    quizArea.innerHTML = "<p>問題を作るのに十分なデータがありません。</p>";
+    if (mode === "mylist") {
+      quizArea.innerHTML =
+        `<p>マイリストの語彙が4語以上になると出題できます。</p>
+         <p style="font-size:13px; opacity:0.8;">現在の登録数: ${pool.length} / ${MYLIST_MAX_ITEMS}</p>`;
+    } else {
+      quizArea.innerHTML = "<p>問題を作るのに十分なデータがありません。</p>";
+    }
     return;
   }
 
