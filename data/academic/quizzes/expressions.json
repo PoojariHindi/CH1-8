@@ -1,5 +1,23 @@
 [
   {
+    "text": "जीवन का उद्देश्य औदात्य की प्राप्ति है",
+    "normalized": "जीवन का उद्देश्य औदात्य की प्राप्ति है",
+    "meaning": "人生の目的は崇高性の獲得である",
+    "meaning_ja": "人生の目的は崇高性の獲得である",
+    "type": "philosophical_statement",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "学術",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_011"
+    ]
+  },
+  {
     "text": "विज्ञान का अपना तर्क है और विश्वास का अपना सामर्थ्य",
     "normalized": "विज्ञान का अपना तर्क है और विश्वास का अपना सामर्थ्य",
     "meaning": "科学には科学の論理があり、信仰には信仰の力がある",
@@ -33,6 +51,24 @@
     ],
     "sourceIds": [
       "academic_010"
+    ]
+  },
+  {
+    "text": "साहित्य जीवन की व्याख्या है",
+    "normalized": "साहित्य जीवन की व्याख्या है",
+    "meaning": "文学は人生の解釈である",
+    "meaning_ja": "文学は人生の解釈である",
+    "type": "definition",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "学術",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_011"
     ]
   },
   {
@@ -72,8 +108,8 @@
   {
     "text": "अनर्गल विस्तार से बचना चाहिए",
     "normalized": "अनर्गल विस्तार से बचना चाहिए",
-    "meaning": "無駄な詳述を避けるべきである",
-    "meaning_ja": "無駄な詳述を避けるべきである",
+    "meaning": "無駄な विस्तारを避けるべきである",
+    "meaning_ja": "無駄な विस्तारを避けるべきである",
     "type": "instruction",
     "importance": 4,
     "category": "academic",
@@ -169,6 +205,24 @@
     ],
     "sourceIds": [
       "academic_003BandarMagarmacch1"
+    ]
+  },
+  {
+    "text": "ऐतिहासिक परिप्रेक्ष्य में विश्लेषण",
+    "normalized": "ऐतिहासिक परिप्रेक्ष्य में विश्लेषण",
+    "meaning": "歴史的観点からの分析",
+    "meaning_ja": "歴史的観点からの分析",
+    "type": "academic_expression",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "学術",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_011"
     ]
   },
   {
@@ -651,6 +705,24 @@
     ]
   },
   {
+    "text": "सांस्कृतिक अस्मिता की अभिव्यक्ति होती है",
+    "normalized": "सांस्कृतिक अस्मिता की अभिव्यक्ति होती है",
+    "meaning": "文化的アイデンティティが表現される",
+    "meaning_ja": "文化的アイデンティティが表現される",
+    "type": "academic_expression",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "学術",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_011"
+    ]
+  },
+  {
     "text": "साथ में रहना ही 'संगति' कहलाती है",
     "normalized": "साथ में रहना ही संगति कहलाती है",
     "meaning": "共にいることが『交わり』と呼ばれる",
@@ -665,6 +737,24 @@
     ],
     "sourceIds": [
       "academic_001"
+    ]
+  },
+  {
+    "text": "साहित्य की नवीनतम प्रवृत्तियों से परिचित हो सकें",
+    "normalized": "साहित्य की नवीनतम प्रवृत्तियों से परिचित हो सकें",
+    "meaning": "文学の最新動向に親しむことができる",
+    "meaning_ja": "文学の最新動向に親しむことができる",
+    "type": "academic_expression",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "学術",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_011"
     ]
   },
   {

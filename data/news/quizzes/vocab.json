@@ -26,6 +26,19 @@
     "quizWeight": 15
   },
   {
+    "word": "अधिकारी",
+    "display": "अधिकारी",
+    "normalized": "अधिकारी",
+    "meaning_ja": "役人、職員",
+    "pos": "名詞（男）",
+    "category": "行政・制度",
+    "difficulty": 2,
+    "importance": 4,
+    "sourceCount": 4,
+    "frequency": 4,
+    "quizWeight": 14
+  },
+  {
     "word": "जांच",
     "display": "जांच",
     "normalized": "जांच",
@@ -37,19 +50,6 @@
     "sourceCount": 4,
     "frequency": 4,
     "quizWeight": 14
-  },
-  {
-    "word": "अधिकारी",
-    "display": "अधिकारी",
-    "normalized": "अधिकारी",
-    "meaning_ja": "役人、職員",
-    "pos": "名詞（男）",
-    "category": "行政・制度",
-    "difficulty": 2,
-    "importance": 4,
-    "sourceCount": 3,
-    "frequency": 3,
-    "quizWeight": 13
   },
   {
     "word": "अनुमति",
@@ -208,6 +208,19 @@
     "quizWeight": 12
   },
   {
+    "word": "एआइ",
+    "display": "एआई",
+    "normalized": "एआई",
+    "meaning_ja": "AI、人工知能",
+    "pos": "名詞（女）",
+    "category": "科学・技術",
+    "difficulty": 1,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 12
+  },
+  {
     "word": "एजेंसी",
     "display": "एजेंसी",
     "normalized": "एजेंसी",
@@ -279,6 +292,19 @@
     "meaning_ja": "政策、方針",
     "pos": "名詞（女）",
     "category": "行政・制度",
+    "difficulty": 2,
+    "importance": 4,
+    "sourceCount": 2,
+    "frequency": 2,
+    "quizWeight": 12
+  },
+  {
+    "word": "फैसला",
+    "display": "फैसला",
+    "normalized": "फैसला",
+    "meaning_ja": "判決、決定",
+    "pos": "名詞（男）",
+    "category": "選挙・裁判",
     "difficulty": 2,
     "importance": 4,
     "sourceCount": 2,
@@ -520,6 +546,45 @@
     "quizWeight": 11
   },
   {
+    "word": "आरोप",
+    "display": "आरोप",
+    "normalized": "आरोप",
+    "meaning_ja": "告発、 आरोप",
+    "pos": "名詞（男）",
+    "category": "選挙・裁判",
+    "difficulty": 2,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 11
+  },
+  {
+    "word": "आर्टिफिशियल इंटेलिजेंस",
+    "display": "आर्टिफिशियल इंटेलिजेंस",
+    "normalized": "आर्टिफिशियल_इंटेलिजेंस",
+    "meaning_ja": "人工知能",
+    "pos": "名詞（女）",
+    "category": "科学・技術",
+    "difficulty": 2,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 11
+  },
+  {
+    "word": "उद्योग",
+    "display": "उद्योग",
+    "normalized": "उद्योग",
+    "meaning_ja": "産業",
+    "pos": "名詞（男）",
+    "category": "労働・経済",
+    "difficulty": 2,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 11
+  },
+  {
     "word": "उम्मीदवार",
     "display": "उम्मीदवार",
     "normalized": "उम्मीदवार",
@@ -611,6 +676,19 @@
     "quizWeight": 11
   },
   {
+    "word": "कारोबारी",
+    "display": "कारोबारी",
+    "normalized": "कारोबारी",
+    "meaning_ja": "事業家、商業の",
+    "pos": "名詞・形容詞",
+    "category": "労働・経済",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 2,
+    "frequency": 2,
+    "quizWeight": 11
+  },
+  {
     "word": "क्षमता",
     "display": "क्षमता",
     "normalized": "क्षमता",
@@ -689,6 +767,19 @@
     "quizWeight": 11
   },
   {
+    "word": "तकनीक",
+    "display": "तकनीक",
+    "normalized": "तकनीक",
+    "meaning_ja": "技術",
+    "pos": "名詞（女）",
+    "category": "科学・技術",
+    "difficulty": 2,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 11
+  },
+  {
     "word": "तनाव",
     "display": "तनाव",
     "normalized": "तनाव",
@@ -721,6 +812,19 @@
     "meaning_ja": "警察署",
     "pos": "名詞（男）",
     "category": "事件・事故",
+    "difficulty": 2,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 11
+  },
+  {
+    "word": "दावा",
+    "display": "दावा",
+    "normalized": "दावा",
+    "meaning_ja": "主張、 दावा",
+    "pos": "名詞（男）",
+    "category": "選挙・裁判",
     "difficulty": 2,
     "importance": 4,
     "sourceCount": 1,
@@ -845,19 +949,6 @@
     "quizWeight": 11
   },
   {
-    "word": "फैसला",
-    "display": "फैसला",
-    "normalized": "फैसला",
-    "meaning_ja": "判決、決定",
-    "pos": "名詞（男）",
-    "category": "選挙・裁判",
-    "difficulty": 2,
-    "importance": 4,
-    "sourceCount": 1,
-    "frequency": 1,
-    "quizWeight": 11
-  },
-  {
     "word": "बढ़ोतरी",
     "display": "बढ़ोतरी",
     "normalized": "बढ़ोतरी",
@@ -936,6 +1027,19 @@
     "quizWeight": 11
   },
   {
+    "word": "मुकदमा",
+    "display": "मुकदमा",
+    "normalized": "मुकदमा",
+    "meaning_ja": "訴訟、裁判",
+    "pos": "名詞（男）",
+    "category": "選挙・裁判",
+    "difficulty": 2,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 11
+  },
+  {
     "word": "रैंकिंग",
     "display": "रैंकिंग",
     "normalized": "रैंकिंग",
@@ -972,6 +1076,19 @@
     "importance": 4,
     "sourceCount": 1,
     "frequency": 1,
+    "quizWeight": 11
+  },
+  {
+    "word": "विकसित करना",
+    "display": "विकसित करना",
+    "normalized": "विकसित_करना",
+    "meaning_ja": "開発する、発展させる",
+    "pos": "動詞句",
+    "category": "重要動詞",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 2,
+    "frequency": 2,
     "quizWeight": 11
   },
   {
@@ -1027,6 +1144,19 @@
     "quizWeight": 11
   },
   {
+    "word": "समझौता",
+    "display": "समझौता",
+    "normalized": "समझौता",
+    "meaning_ja": "合意、協定",
+    "pos": "名詞（男）",
+    "category": "選挙・裁判",
+    "difficulty": 2,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 11
+  },
+  {
     "word": "सर्वेक्षण",
     "display": "सर्वेक्षण",
     "normalized": "सर्वेक्षण",
@@ -1050,6 +1180,19 @@
     "importance": 4,
     "sourceCount": 1,
     "frequency": 1,
+    "quizWeight": 11
+  },
+  {
+    "word": "सुनवाई",
+    "display": "सुनवाई",
+    "normalized": "सुनवाई",
+    "meaning_ja": "審理、聴聞",
+    "pos": "名詞（女）",
+    "category": "選挙・裁判",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 2,
+    "frequency": 2,
     "quizWeight": 11
   },
   {
@@ -1214,19 +1357,6 @@
     "normalized": "कारीगर",
     "meaning_ja": "職人",
     "pos": "名詞（男）",
-    "category": "労働・経済",
-    "difficulty": 3,
-    "importance": 4,
-    "sourceCount": 1,
-    "frequency": 1,
-    "quizWeight": 10
-  },
-  {
-    "word": "कारोबारी",
-    "display": "कारोबारी",
-    "normalized": "कारोबारी",
-    "meaning_ja": "事業家、商業の",
-    "pos": "名詞・形容詞",
     "category": "労働・経済",
     "difficulty": 3,
     "importance": 4,
@@ -2223,19 +2353,6 @@
     "quizWeight": 10
   },
   {
-    "word": "विकसित करना",
-    "display": "विकसित करना",
-    "normalized": "विकसित_करना",
-    "meaning_ja": "開発する、発展させる",
-    "pos": "動詞句",
-    "category": "重要動詞",
-    "difficulty": 3,
-    "importance": 4,
-    "sourceCount": 1,
-    "frequency": 1,
-    "quizWeight": 10
-  },
-  {
     "word": "वित्त वर्ष",
     "display": "वित्त वर्ष",
     "normalized": "वित्त_वर्ष",
@@ -2558,19 +2675,6 @@
     "importance": 3,
     "sourceCount": 2,
     "frequency": 2,
-    "quizWeight": 10
-  },
-  {
-    "word": "सुनवाई",
-    "display": "सुनवाई",
-    "normalized": "सुनवाई",
-    "meaning_ja": "審理、聴聞",
-    "pos": "名詞（女）",
-    "category": "選挙・裁判",
-    "difficulty": 3,
-    "importance": 4,
-    "sourceCount": 1,
-    "frequency": 1,
     "quizWeight": 10
   },
   {
@@ -2912,6 +3016,19 @@
     "quizWeight": 9
   },
   {
+    "word": "कृत्रिम बुद्धिमत्ता",
+    "display": "कृत्रिम बुद्धिमत्ता",
+    "normalized": "कृत्रिम_बुद्धिमत्ता",
+    "meaning_ja": "人工知能",
+    "pos": "名詞（女）",
+    "category": "科学・技術",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
     "word": "कैशियर",
     "display": "कैशियर",
     "normalized": "कैशियर",
@@ -2945,6 +3062,19 @@
     "pos": "名詞（男）",
     "category": "行政・制度",
     "difficulty": 5,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "खारिज करना",
+    "display": "खारिज करना",
+    "normalized": "खारिज_करना",
+    "meaning_ja": "却下する",
+    "pos": "動詞句",
+    "category": "重要動詞",
+    "difficulty": 4,
     "importance": 4,
     "sourceCount": 1,
     "frequency": 1,
@@ -3133,6 +3263,32 @@
     "quizWeight": 9
   },
   {
+    "word": "जिम्मेदार",
+    "display": "जिम्मेदार",
+    "normalized": "जिम्मेदार",
+    "meaning_ja": "責任がある",
+    "pos": "形容詞",
+    "category": "選挙・裁判",
+    "difficulty": 2,
+    "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "जूरी",
+    "display": "जूरी",
+    "normalized": "जूरी",
+    "meaning_ja": "陪審員団",
+    "pos": "名詞（女）",
+    "category": "選挙・裁判",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
     "word": "जैविक आक्सीजन मांग",
     "display": "जैविक ऑक्सीजन मांग",
     "normalized": "जैविक_आक्सीजन_मांग",
@@ -3192,6 +3348,19 @@
     "pos": "名詞（男）",
     "category": "社会・公共",
     "difficulty": 5,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "दायर करना",
+    "display": "दायर करना",
+    "normalized": "दायर_करना",
+    "meaning_ja": "提起する、提出する",
+    "pos": "動詞句",
+    "category": "重要動詞",
+    "difficulty": 4,
     "importance": 4,
     "sourceCount": 1,
     "frequency": 1,
@@ -3269,6 +3438,19 @@
     "meaning_ja": "定められた上限、規定値",
     "pos": "名詞句",
     "category": "行政・制度",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "निवेशक",
+    "display": "निवेशक",
+    "normalized": "निवेशक",
+    "meaning_ja": "投資家",
+    "pos": "名詞（男）",
+    "category": "労働・経済",
     "difficulty": 4,
     "importance": 4,
     "sourceCount": 1,
@@ -3809,6 +3991,19 @@
     "quizWeight": 9
   },
   {
+    "word": "संघीय अदालत",
+    "display": "संघीय अदालत",
+    "normalized": "संघीय_अदालत",
+    "meaning_ja": "連邦裁判所",
+    "pos": "名詞（女）",
+    "category": "選挙・裁判",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
     "word": "संचार मंत्रालय",
     "display": "संचार मंत्रालय",
     "normalized": "संचार_मंत्रालय",
@@ -3842,6 +4037,19 @@
     "pos": "動詞句",
     "category": "重要動詞",
     "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "सर्वसम्मत फैसला",
+    "display": "सर्वसम्मत फैसला",
+    "normalized": "सर्वसम्मत_फैसला",
+    "meaning_ja": "全会一致の判決",
+    "pos": "名詞（男）",
+    "category": "選挙・裁判",
+    "difficulty": 5,
     "importance": 4,
     "sourceCount": 1,
     "frequency": 1,
@@ -4550,6 +4758,19 @@
     "quizWeight": 8
   },
   {
+    "word": "भटकना",
+    "display": "भटकना",
+    "normalized": "भटकना",
+    "meaning_ja": "逸脱する、さまよう",
+    "pos": "動詞",
+    "category": "重要動詞",
+    "difficulty": 3,
+    "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 8
+  },
+  {
     "word": "भाषाई",
     "display": "भाषाई",
     "normalized": "भाषाई",
@@ -4595,6 +4816,32 @@
     "meaning_ja": "大都市、メトロポリス",
     "pos": "名詞（男）",
     "category": "都市・環境",
+    "difficulty": 3,
+    "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 8
+  },
+  {
+    "word": "मानवता",
+    "display": "मानवता",
+    "normalized": "मानवता",
+    "meaning_ja": "人類、人間性",
+    "pos": "名詞（女）",
+    "category": "科学・技術",
+    "difficulty": 3,
+    "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 8
+  },
+  {
+    "word": "मूल उद्देश्य",
+    "display": "मूल उद्देश्य",
+    "normalized": "मूल_उद्देश्य",
+    "meaning_ja": "本来の目的",
+    "pos": "名詞（男）",
+    "category": "科学・技術",
     "difficulty": 3,
     "importance": 3,
     "sourceCount": 1,
@@ -4823,6 +5070,19 @@
     "quizWeight": 7
   },
   {
+    "word": "जनहित",
+    "display": "जनहित",
+    "normalized": "जनहित",
+    "meaning_ja": "公益、公衆の利益",
+    "pos": "名詞（男）",
+    "category": "行政・制度",
+    "difficulty": 4,
+    "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 7
+  },
+  {
     "word": "दबोचना",
     "display": "दबोचना",
     "normalized": "दबोचना",
@@ -5044,6 +5304,19 @@
     "quizWeight": 7
   },
   {
+    "word": "विश्वसनीयता",
+    "display": "विश्वसनीयता",
+    "normalized": "विश्वसनीयता",
+    "meaning_ja": "信頼性",
+    "pos": "名詞（女）",
+    "category": "科学・技術",
+    "difficulty": 4,
+    "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 7
+  },
+  {
     "word": "शुभारंभ",
     "display": "शुभारंभ",
     "normalized": "शुभारंभ",
@@ -5115,6 +5388,19 @@
     "meaning_ja": "予定より早い、早産の",
     "pos": "形容詞",
     "category": "医療・健康",
+    "difficulty": 4,
+    "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 7
+  },
+  {
+    "word": "सार्वजनिक हित",
+    "display": "सार्वजनिक हित",
+    "normalized": "सार्वजनिक_हित",
+    "meaning_ja": "公共の利益",
+    "pos": "名詞（男）",
+    "category": "行政・制度",
     "difficulty": 4,
     "importance": 3,
     "sourceCount": 1,

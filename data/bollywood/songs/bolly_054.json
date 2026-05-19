@@ -1,0 +1,307 @@
+{
+  "id": "bolly_054",
+  "schema_version": 2,
+
+  "title": "Jai Ho",
+  "film": "Slumdog Millionaire",
+  "year": 2008,
+
+  "singer": [
+    "A. R. Rahman",
+    "Sukhwinder Singh",
+    "Tanvi Shah",
+    "Mahalakshmi Iyer",
+    "Vijay Prakash"
+  ],
+
+  "lyricist": [
+    "Gulzar",
+    "Tanvi Shah"
+  ],
+
+  "composer": [
+    "A. R. Rahman"
+  ],
+
+  "notes": [
+    "デーヴ・パテル"
+  ],
+
+  "tags": [
+    "人生"
+  ],
+
+  "emotion": "triumphant_hope",
+  "register": "poetic_folk_modern",
+
+  "key_phrase": "जय हो",
+
+  "expressions": [
+    {
+      "text": "जींद शामियाने के तले",
+      "normalized": "जींद शामियाने के तले",
+      "meaning_ja": "人生という天幕の下で",
+      "type": "poetic",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "ज़री वाले नीले आसमान के तले",
+      "normalized": "जरी वाले नीले आसमान के तले",
+      "meaning_ja": "刺繍のような青空の下で",
+      "type": "poetic",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "रत्ती रत्ती सच्ची",
+      "normalized": "रत्ती रत्ती सच्ची",
+      "meaning_ja": "ほんの少しずつ、本当に",
+      "type": "expression",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "जान गंवाई है",
+      "normalized": "जान गंवाई है",
+      "meaning_ja": "命を懸けてきた",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "कोयलों पे रात बिताई है",
+      "normalized": "कोयलों पे रात बिताई है",
+      "meaning_ja": "燃える炭の上で夜を過ごした",
+      "type": "metaphor",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "अंखियों की नींद",
+      "normalized": "अंखियों की नींद",
+      "meaning_ja": "瞳の眠り",
+      "type": "poetic",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "फूंकों से उड़ा दी",
+      "normalized": "फूंकों से उड़ा दी",
+      "meaning_ja": "吹き飛ばしてしまった",
+      "type": "expression",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "गिन गिन तारे",
+      "normalized": "गिन गिन तारे",
+      "meaning_ja": "星をひとつひとつ数えて",
+      "type": "poetic",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "ऊँगली जलाई है",
+      "normalized": "ऊंगली जलाई है",
+      "meaning_ja": "指を焼いてしまった",
+      "type": "metaphor",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "ये रात शहद है",
+      "normalized": "ये रात शहद है",
+      "meaning_ja": "この夜は蜂蜜のようだ",
+      "type": "metaphor",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "दिल आखरी हद है",
+      "normalized": "दिल आखरी हद है",
+      "meaning_ja": "心こそ最後の限界だ",
+      "type": "poetic",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "काला काला काजल तेरा",
+      "normalized": "काला काला काजल तेरा",
+      "meaning_ja": "君の真っ黒なカージャル",
+      "type": "poetic",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "काला जादू",
+      "normalized": "काला जादू",
+      "meaning_ja": "黒魔術、妖しい魅力",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "लब पे रुकी है",
+      "normalized": "लब पे रुकी है",
+      "meaning_ja": "唇の上で止まっている",
+      "type": "poetic",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "आँख झुकी है",
+      "normalized": "आंख झुकी है",
+      "meaning_ja": "目を伏せている",
+      "type": "expression",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "रोशन आँखें",
+      "normalized": "रोशन आंखें",
+      "meaning_ja": "輝く瞳",
+      "type": "poetic",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "दोनों हीरे हैं",
+      "normalized": "दोनों हीरे हैं",
+      "meaning_ja": "両方とも宝石のようだ",
+      "type": "metaphor",
+      "importance": 4,
+      "status": "active"
+    }
+  ],
+
+  "vocab_candidates": [
+    {
+      "word": "शामियाना",
+      "normalized": "शामियाना",
+      "pos": "名詞（男）",
+      "meaning_ja": "天幕、大きなテント",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "ज़री",
+      "normalized": "जरी",
+      "pos": "名詞（女）",
+      "meaning_ja": "金銀糸の刺繍",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "रत्ती",
+      "normalized": "रत्ती",
+      "pos": "名詞（女）",
+      "meaning_ja": "ごくわずかな量",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "गंवाना",
+      "normalized": "गंवाना",
+      "pos": "他動詞",
+      "meaning_ja": "失う、犠牲にする",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "कोयला",
+      "normalized": "कोयला",
+      "pos": "名詞（男）",
+      "meaning_ja": "石炭、燃え炭",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "अंखियाँ",
+      "normalized": "अंखियां",
+      "pos": "名詞（女・複）",
+      "meaning_ja": "瞳、目",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "फूंक",
+      "normalized": "फूंक",
+      "pos": "名詞（女）",
+      "meaning_ja": "息、吹くこと",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "शहद",
+      "normalized": "शहद",
+      "pos": "名詞（男）",
+      "meaning_ja": "蜂蜜",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "हद",
+      "normalized": "हद",
+      "pos": "名詞（女）",
+      "meaning_ja": "限界、境界",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "काजल",
+      "normalized": "काजल",
+      "pos": "名詞（男）",
+      "meaning_ja": "カージャル、アイライン化粧",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "जादू",
+      "normalized": "जादू",
+      "pos": "名詞（男）",
+      "meaning_ja": "魔法、魅力",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "लब",
+      "normalized": "लब",
+      "pos": "名詞（男）",
+      "meaning_ja": "唇",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "झुकना",
+      "normalized": "झुकना",
+      "pos": "自動詞",
+      "meaning_ja": "傾く、伏せる",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "रोशन",
+      "normalized": "रोशन",
+      "pos": "形容詞",
+      "meaning_ja": "輝く、明るい",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "हीरा",
+      "normalized": "हीरा",
+      "pos": "名詞（男）",
+      "meaning_ja": "ダイヤモンド、宝石",
+      "importance": 4,
+      "status": "active"
+    }
+  ],
+
+  "meta": {
+    "copyright_safe": true,
+    "lyrics_included": false,
+    "source_type": "manual_curated",
+    "dedupe_ready": true
+  }
+}

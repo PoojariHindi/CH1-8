@@ -1,0 +1,263 @@
+{
+  "id": "bolly_053",
+  "schema_version": 2,
+
+  "title": "Mohe Rang Do Laal",
+  "film": "Bajirao Mastani",
+  "year": 2015,
+
+  "singer": [
+    "Pandit Birju Maharaj",
+    "Shreya Ghoshal"
+  ],
+
+  "lyricist": [
+    "Siddharth - Garima"
+  ],
+
+  "composer": [
+    "Sanjay Leela Bhansali"
+  ],
+
+  "notes": [
+    "ランヴィール"
+  ],
+
+  "tags": [
+    "信愛"
+  ],
+
+  "emotion": "devotional_love",
+  "register": "classical_poetic",
+
+  "key_phrase": "मोहे रंग दो लाल, मोहे रंग दो लाल",
+
+  "expressions": [
+    {
+      "text": "मोहे रंग दो लाल",
+      "normalized": "मोहे रंग दो लाल",
+      "meaning_ja": "私を深紅に染めて",
+      "type": "poetic",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "नंद के लाल",
+      "normalized": "नंद के लाल",
+      "meaning_ja": "ナンダの愛し子クリシュナ",
+      "type": "devotional",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "हो के निहाल",
+      "normalized": "हो के निहाल",
+      "meaning_ja": "恍惚となって、満たされて",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "कोरा-मोरा काँच सा तन",
+      "normalized": "कोरा मोरा कांच सा तन",
+      "meaning_ja": "ガラスのように繊細で無垢な私の身体",
+      "type": "poetic",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "नैन भर निहार",
+      "normalized": "नैन भर निहार",
+      "meaning_ja": "目いっぱい見つめる",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "मरोड़ी कलाई मोरी",
+      "normalized": "मरोड़ी कलाई मोरी",
+      "meaning_ja": "私の手首をひねった",
+      "type": "poetic",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "चूड़ी चटकाई",
+      "normalized": "चूड़ी चटकाई",
+      "meaning_ja": "腕輪を鳴らした、砕いた",
+      "type": "expression",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "चोरी से गरवा लगाई",
+      "normalized": "चोरी से गरवा लगाई",
+      "meaning_ja": "そっと抱き寄せた",
+      "type": "poetic",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "हरी ये चुनरिया",
+      "normalized": "हरी ये चुनरिया",
+      "meaning_ja": "この緑のチュンリー",
+      "type": "cultural",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "हरी हरि के रंग",
+      "normalized": "हरी हरि के रंग",
+      "meaning_ja": "ハリ（ヴィシュヌ／クリシュナ）の色に染まって",
+      "type": "devotional",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "लाज से गुलाबी गाल",
+      "normalized": "लाज से गुलाबी गाल",
+      "meaning_ja": "恥じらいで薔薇色になった頬",
+      "type": "poetic",
+      "importance": 4,
+      "status": "active"
+    }
+  ],
+
+  "vocab_candidates": [
+    {
+      "word": "निहाल",
+      "normalized": "निहाल",
+      "pos": "形容詞",
+      "meaning_ja": "満ち足りた、恍惚とした",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "कोरा",
+      "normalized": "कोरा",
+      "pos": "形容詞",
+      "meaning_ja": "無垢な、白紙の",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "काँच",
+      "normalized": "कांच",
+      "pos": "名詞（男）",
+      "meaning_ja": "ガラス",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "तन",
+      "normalized": "तन",
+      "pos": "名詞（男）",
+      "meaning_ja": "身体",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "निहारना",
+      "normalized": "निहारना",
+      "pos": "他動詞",
+      "meaning_ja": "見つめる、眺める",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "मरोड़ना",
+      "normalized": "मरोड़ना",
+      "pos": "他動詞",
+      "meaning_ja": "ひねる、ねじる",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "कलाई",
+      "normalized": "कलाई",
+      "pos": "名詞（女）",
+      "meaning_ja": "手首",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "चूड़ी",
+      "normalized": "चूड़ी",
+      "pos": "名詞（女）",
+      "meaning_ja": "腕輪、バングル",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "इतराना",
+      "normalized": "इतराना",
+      "pos": "自動詞",
+      "meaning_ja": "得意げに振る舞う、うっとりする",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "गरवा",
+      "normalized": "गरवा",
+      "pos": "名詞（男）",
+      "meaning_ja": "抱擁、胸元",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "चुनरिया",
+      "normalized": "चुनरिया",
+      "pos": "名詞（女）",
+      "meaning_ja": "チュンリー、薄い肩掛け布",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "झटका",
+      "normalized": "झटका",
+      "pos": "名詞（男）",
+      "meaning_ja": "勢いよく引くこと、衝撃",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "छीनना",
+      "normalized": "छीनना",
+      "pos": "他動詞",
+      "meaning_ja": "奪い取る",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "लाज",
+      "normalized": "लाज",
+      "pos": "名詞（女）",
+      "meaning_ja": "恥じらい、慎み",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "गुलाबी",
+      "normalized": "गुलाबी",
+      "pos": "形容詞",
+      "meaning_ja": "薔薇色の、ピンク色の",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "गाल",
+      "normalized": "गाल",
+      "pos": "名詞（男）",
+      "meaning_ja": "頬",
+      "importance": 3,
+      "status": "active"
+    }
+  ],
+
+  "meta": {
+    "copyright_safe": true,
+    "lyrics_included": false,
+    "source_type": "manual_curated",
+    "dedupe_ready": true
+  }
+}

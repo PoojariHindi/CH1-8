@@ -1243,5 +1243,82 @@
     ],
     "key_phrase": "सत्यमेव, सत्यमेव, सत्यमेव जयते",
     "status": "processed"
+  },
+  {
+    "id": "bolly_052",
+    "title": "Janaab-e-Aali",
+    "film": "WAR 2",
+    "year": 2025,
+    "singer": [
+      "Sachet Tandon",
+      "Saaj Bhatt"
+    ],
+    "lyricist": [
+      "Amitabh Bhattacharya"
+    ],
+    "composer": [
+      "Pritam"
+    ],
+    "notes": [
+      "リティク"
+    ],
+    "tags": [
+      "スーフィー的",
+      "友情"
+    ],
+    "key_phrase": "समझे जनाब-ए-जनाब-ए-जनाब-ए-आली",
+    "status": "processed"
+  },
+  {
+    "id": "bolly_053",
+    "title": "Mohe Rang Do Laal",
+    "film": "Bajirao Mastani",
+    "year": 2015,
+    "singer": [
+      "Pandit Birju Maharaj",
+      "Shreya Ghoshal"
+    ],
+    "lyricist": [
+      "Siddharth - Garima"
+    ],
+    "composer": [
+      "Sanjay Leela Bhansali"
+    ],
+    "notes": [
+      "ランヴィール"
+    ],
+    "tags": [
+      "信愛"
+    ],
+    "key_phrase": "मोहे रंग दो लाल, मोहे रंग दो लाल",
+    "status": "processed"
+  },
+  {
+    "id": "bolly_054",
+    "title": "Jai Ho",
+    "film": "Slumdog Millionaire",
+    "year": 2008,
+    "singer": [
+      "A. R. Rahman",
+      "Sukhwinder Singh",
+      "Tanvi Shah",
+      "Mahalakshmi Iyer",
+      "Vijay Prakash"
+    ],
+    "lyricist": [
+      "Gulzar",
+      "Tanvi Shah"
+    ],
+    "composer": [
+      "A. R. Rahman"
+    ],
+    "notes": [
+      "デーヴ・パテル"
+    ],
+    "tags": [
+      "人生"
+    ],
+    "key_phrase": "जय हो",
+    "status": "processed"
   }
 ]

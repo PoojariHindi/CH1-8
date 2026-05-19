@@ -1,0 +1,368 @@
+{
+  "id": "bolly_052",
+  "schema_version": 2,
+
+  "title": "Janaab-e-Aali",
+  "film": "WAR 2",
+  "year": 2025,
+
+  "singer": [
+    "Sachet Tandon",
+    "Saaj Bhatt"
+  ],
+
+  "lyricist": [
+    "Amitabh Bhattacharya"
+  ],
+
+  "composer": [
+    "Pritam"
+  ],
+
+  "notes": [
+    "リティク"
+  ],
+
+  "tags": [
+    "スーフィー的",
+    "友情"
+  ],
+
+  "emotion": "festive_brotherhood",
+  "register": "qawwali_modern",
+
+  "key_phrase": "समझे जनाब-ए-जनाब-ए-जनाब-ए-आली",
+
+  "expressions": [
+    {
+      "text": "अजनबी से यार बना",
+      "normalized": "अजनबी से यार बना",
+      "meaning_ja": "見知らぬ相手が友になった",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "कम वक्त ने पहली मुलाकात में",
+      "normalized": "कम वक्त ने पहली मुलाकात में",
+      "meaning_ja": "わずかな時間で最初の出会いの中に",
+      "type": "expression",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "अपनी जान हम सौगात में",
+      "normalized": "अपनी जान हम सौगात में",
+      "meaning_ja": "自らの命を贈り物として",
+      "type": "poetic",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "दिल में अपने दिलदारी है",
+      "normalized": "दिल में अपने दिलदारी है",
+      "meaning_ja": "心の中には気前の良さがある",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "खून में खातिरदारी है",
+      "normalized": "खून में खातिरदारी है",
+      "meaning_ja": "血の中におもてなしの心が流れている",
+      "type": "metaphor",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "चाँद के झूमर के नीचे",
+      "normalized": "चांद के झूमर के नीचे",
+      "meaning_ja": "月のシャンデリアの下で",
+      "type": "poetic",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "जश्न की फुल तैयारी है",
+      "normalized": "जश्न की फुल तैयारी है",
+      "meaning_ja": "祝宴の準備は万端だ",
+      "type": "expression",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "दिल का पिंजरा है खुल्ला",
+      "normalized": "दिल का पिंजरा है खुल्ला",
+      "meaning_ja": "心の鳥籠は開かれている",
+      "type": "metaphor",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "चाहे जितनी हो रात काली",
+      "normalized": "चाहे जितनी हो रात काली",
+      "meaning_ja": "どれほど夜が暗くても",
+      "type": "expression",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "हम बना दें उसको दीवाली",
+      "normalized": "हम बना दें उसको दीवाली",
+      "meaning_ja": "私たちはそれをディーワーリーのように明るくしてみせる",
+      "type": "metaphor",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "थोड़ी सी क़व्वाली",
+      "normalized": "थोड़ी सी कव्वाली",
+      "meaning_ja": "少しばかりのカッワーリー",
+      "type": "cultural",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "हम तो मौज भाई लूटेंगे",
+      "normalized": "हम तो मौज भाई लूटेंगे",
+      "meaning_ja": "俺たちは思いきり楽しみ尽くす",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "आसमां के तारे वारे",
+      "normalized": "आसमां के तारे वारे",
+      "meaning_ja": "空の星々まで",
+      "type": "poetic",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "रब्ब दे बंदे",
+      "normalized": "रब्ब दे बंदे",
+      "meaning_ja": "神のしもべたち",
+      "type": "sufi",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "उड़ गए जोगी इस जोगन दे",
+      "normalized": "उड़ गए जोगी इस जोगन दे",
+      "meaning_ja": "この女修行者のもとへ修行者たちは飛んでいった",
+      "type": "sufi",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "महबूबा की तरह इसको संवारेंगे",
+      "normalized": "महबूबा की तरह इसको संवारेंगे",
+      "meaning_ja": "恋人のようにこれを美しく整える",
+      "type": "poetic",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "शीशे में उतारेंगे",
+      "normalized": "शीशे में उतारेंगे",
+      "meaning_ja": "グラスへ注ぎ込む",
+      "type": "expression",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "रूह है रंग डाली",
+      "normalized": "रूह है रंग डाली",
+      "meaning_ja": "魂までも染め上げた",
+      "type": "metaphor",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "बातें हम दिल वाली",
+      "normalized": "बातें हम दिल वाली",
+      "meaning_ja": "心からの話をしよう",
+      "type": "expression",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "दुनिया की रखवाली",
+      "normalized": "दुनिया की रखवाली",
+      "meaning_ja": "世界を守ること",
+      "type": "expression",
+      "importance": 3,
+      "status": "active"
+    }
+  ],
+
+  "vocab_candidates": [
+    {
+      "word": "अजनबी",
+      "normalized": "अजनबी",
+      "pos": "名詞（男）",
+      "meaning_ja": "見知らぬ人",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "सौगात",
+      "normalized": "सौगात",
+      "pos": "名詞（女）",
+      "meaning_ja": "贈り物",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "जनाब",
+      "normalized": "जनाब",
+      "pos": "名詞（男）",
+      "meaning_ja": "旦那、あなた様",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "दिलदारी",
+      "normalized": "दिलदारी",
+      "pos": "名詞（女）",
+      "meaning_ja": "気前の良さ、寛大さ",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "खातिरदारी",
+      "normalized": "खातिरदारी",
+      "pos": "名詞（女）",
+      "meaning_ja": "歓待、おもてなし",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "झूमर",
+      "normalized": "झूमर",
+      "pos": "名詞（男）",
+      "meaning_ja": "シャンデリア",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "जश्न",
+      "normalized": "जश्न",
+      "pos": "名詞（男）",
+      "meaning_ja": "祝宴、祭り",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "पिंजरा",
+      "normalized": "पिंजरा",
+      "pos": "名詞（男）",
+      "meaning_ja": "鳥籠",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "इंशा अल्लाह",
+      "normalized": "इंशा अल्लाह",
+      "pos": "間投詞",
+      "meaning_ja": "神の御心ならば",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "रूही",
+      "normalized": "रूही",
+      "pos": "形容詞",
+      "meaning_ja": "魂の、精神的な",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "क़व्वाली",
+      "normalized": "कव्वाली",
+      "pos": "名詞（女）",
+      "meaning_ja": "カッワーリー（スーフィー歌謡）",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "मौज",
+      "normalized": "मौज",
+      "pos": "名詞（女）",
+      "meaning_ja": "楽しみ、快楽",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "ओखली",
+      "normalized": "ओखली",
+      "pos": "名詞（女）",
+      "meaning_ja": "臼",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "जोगी",
+      "normalized": "जोगी",
+      "pos": "名詞（男）",
+      "meaning_ja": "修行者、ヨーギー",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "जोगन",
+      "normalized": "जोगन",
+      "pos": "名詞（女）",
+      "meaning_ja": "女修行者",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "महबूबा",
+      "normalized": "महबूबा",
+      "pos": "名詞（女）",
+      "meaning_ja": "恋人、愛する女性",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "शीशा",
+      "normalized": "शीशा",
+      "pos": "名詞（男）",
+      "meaning_ja": "ガラス、グラス",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "शराब",
+      "normalized": "शराब",
+      "pos": "名詞（女）",
+      "meaning_ja": "酒",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "ताल",
+      "normalized": "ताल",
+      "pos": "名詞（男）",
+      "meaning_ja": "リズム、拍子",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "रखवाली",
+      "normalized": "रखवाली",
+      "pos": "名詞（女）",
+      "meaning_ja": "見守り、警護",
+      "importance": 3,
+      "status": "active"
+    }
+  ],
+
+  "meta": {
+    "copyright_safe": true,
+    "lyrics_included": false,
+    "source_type": "manual_curated",
+    "dedupe_ready": true
+  }
+}

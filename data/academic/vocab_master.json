@@ -38,6 +38,63 @@
     ]
   },
   {
+    "word": "अवधारणा",
+    "normalized": "अवधारणा",
+    "display": "अवधारणा",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "概念",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "学術",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_011"
+    ]
+  },
+  {
+    "word": "अस्मिता",
+    "normalized": "अस्मिता",
+    "display": "अस्मिता",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "アイデンティティ、自我意識",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "学術",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_011"
+    ]
+  },
+  {
+    "word": "औदात्य",
+    "normalized": "औदात्य",
+    "display": "औदात्य",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "崇高性、高尚さ",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "学術",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_011"
+    ]
+  },
+  {
     "word": "जन-चेतना",
     "normalized": "जनचेतना",
     "display": "जन-चेतना",
@@ -111,6 +168,101 @@
     ],
     "sourceIds": [
       "academic_010"
+    ]
+  },
+  {
+    "word": "परिप्रेक्ष्य",
+    "normalized": "परिप्रेक्ष्य",
+    "display": "परिप्रेक्ष्य",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "観点、視点",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "学術",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_011"
+    ]
+  },
+  {
+    "word": "प्रतिमान",
+    "normalized": "प्रतिमान",
+    "display": "प्रतिमान",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "パラダイム、規範",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "学術",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_011"
+    ]
+  },
+  {
+    "word": "बाज़ारवाद",
+    "normalized": "बाज़ारवाद",
+    "display": "बाज़ारवाद",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "市場主義",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "学術",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_011"
+    ]
+  },
+  {
+    "word": "भावोन्मेष",
+    "normalized": "भावोन्मेष",
+    "display": "भावोन्मेष",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "感情の高まり、感情表出",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "学術",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_011"
+    ]
+  },
+  {
+    "word": "भूमंडलीकरण",
+    "normalized": "भूमंडलीकरण",
+    "display": "भूमंडलीकरण",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "グローバル化",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "学術",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_011"
     ]
   },
   {
@@ -421,6 +573,44 @@
     ]
   },
   {
+    "word": "अभूतपूर्व",
+    "normalized": "अभूतपूर्व",
+    "display": "अभूतपूर्व",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "前例のない",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "学術",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_011"
+    ]
+  },
+  {
+    "word": "अवदान",
+    "normalized": "अवदान",
+    "display": "अवदान",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "貢献",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "学術",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_011"
+    ]
+  },
+  {
     "word": "असंदिग्ध",
     "normalized": "असंदिग्ध",
     "display": "असंदिग्ध",
@@ -654,6 +844,25 @@
     ],
     "sourceIds": [
       "academic_007"
+    ]
+  },
+  {
+    "word": "उपादान",
+    "normalized": "उपादान",
+    "display": "उपादान",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "要素、材料",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "学術",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_011"
     ]
   },
   {
@@ -924,6 +1133,25 @@
     ],
     "sourceIds": [
       "academic_008"
+    ]
+  },
+  {
+    "word": "चिंतन-प्रक्रिया",
+    "normalized": "चिंतनप्रक्रिया",
+    "display": "चिंतन-प्रक्रिया",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "思考過程",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "学術",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_011"
     ]
   },
   {
@@ -1940,6 +2168,25 @@
     ]
   },
   {
+    "word": "प्रवृत्ति",
+    "normalized": "प्रवृत्ति",
+    "display": "प्रवृत्ति",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "傾向、動向",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "学術",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_011"
+    ]
+  },
+  {
     "word": "प्रशस्त",
     "normalized": "प्रशस्त",
     "display": "प्रशस्त",
@@ -1973,6 +2220,25 @@
     ],
     "sourceIds": [
       "academic_006"
+    ]
+  },
+  {
+    "word": "प्रस्तुतीकरण",
+    "normalized": "प्रस्तुतीकरण",
+    "display": "प्रस्तुतीकरण",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "提示、プレゼンテーション",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "学術",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_011"
     ]
   },
   {
@@ -2117,6 +2383,44 @@
     ],
     "sourceIds": [
       "academic_004BandarMagarmacch2"
+    ]
+  },
+  {
+    "word": "बहुआयामी",
+    "normalized": "बहुआयामी",
+    "display": "बहुआयामी",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "多面的な、多角的な",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "学術",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_011"
+    ]
+  },
+  {
+    "word": "बहुआयामी संदर्भ",
+    "normalized": "बहुआयामी संदर्भ",
+    "display": "बहुआयामी संदर्भ",
+    "variants": [],
+    "pos": "名詞句",
+    "meaning_ja": "多面的な文脈",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "学術",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_011"
     ]
   },
   {
@@ -2391,6 +2695,25 @@
     ]
   },
   {
+    "word": "मानदंड",
+    "normalized": "मानदंड",
+    "display": "मानदंड",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "基準、尺度",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "学術",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_011"
+    ]
+  },
+  {
     "word": "मानवीय",
     "normalized": "मानवीय",
     "display": "मानवीय",
@@ -2533,6 +2856,25 @@
     ],
     "sourceIds": [
       "academic_006"
+    ]
+  },
+  {
+    "word": "युगीन",
+    "normalized": "युगीन",
+    "display": "युगीन",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "時代的な、その時代の",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "学術",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_011"
     ]
   },
   {
@@ -2736,6 +3078,25 @@
     ]
   },
   {
+    "word": "विकासशील",
+    "normalized": "विकासशील",
+    "display": "विकासशील",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "発展途上の、発展し続ける",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "学術",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_011"
+    ]
+  },
+  {
     "word": "विचलन",
     "normalized": "विचलन",
     "display": "विचलन",
@@ -2788,6 +3149,25 @@
     ],
     "sourceIds": [
       "academic_007"
+    ]
+  },
+  {
+    "word": "विद्यमान",
+    "normalized": "विद्यमान",
+    "display": "विद्यमान",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "存在している、現存する",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "学術",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_011"
     ]
   },
   {
@@ -2918,6 +3298,25 @@
     ]
   },
   {
+    "word": "विषयगत",
+    "normalized": "विषयगत",
+    "display": "विषयगत",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "主題に関する",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "学術",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_011"
+    ]
+  },
+  {
     "word": "विषयवस्तु",
     "normalized": "विषयवस्तु",
     "display": "विषयवस्तु",
@@ -2933,6 +3332,25 @@
     ],
     "sourceIds": [
       "academic_006"
+    ]
+  },
+  {
+    "word": "वैश्विक",
+    "normalized": "वैश्विक",
+    "display": "वैश्विक",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "世界的な、グローバルな",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "学術",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_011"
     ]
   },
   {
@@ -3098,6 +3516,25 @@
     ],
     "sourceIds": [
       "academic_008"
+    ]
+  },
+  {
+    "word": "संवर्धन",
+    "normalized": "संवर्धन",
+    "display": "संवर्धन",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "促進、発展",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "学術",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_011"
     ]
   },
   {
@@ -3774,6 +4211,25 @@
     ]
   },
   {
+    "word": "उपयोगी",
+    "normalized": "उपयोगी",
+    "display": "उपयोगी",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "有用な",
+    "importance": 3,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "学術",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_011"
+    ]
+  },
+  {
     "word": "उपलब्धि",
     "normalized": "उपलब्धि",
     "display": "उपलब्धि",
@@ -4013,6 +4469,25 @@
     ]
   },
   {
+    "word": "निश्चय ही",
+    "normalized": "निश्चय ही",
+    "display": "निश्चय ही",
+    "variants": [],
+    "pos": "副詞",
+    "meaning_ja": "確かに、間違いなく",
+    "importance": 3,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "学術",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_011"
+    ]
+  },
+  {
     "word": "पति",
     "normalized": "पति",
     "display": "पति",
@@ -4100,6 +4575,25 @@
     ],
     "sourceIds": [
       "academic_008"
+    ]
+  },
+  {
+    "word": "प्रचार-प्रसार",
+    "normalized": "प्रचारप्रसार",
+    "display": "प्रचार-प्रसार",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "普及、宣伝",
+    "importance": 3,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "学術",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_011"
     ]
   },
   {
@@ -4438,6 +4932,25 @@
     ],
     "sourceIds": [
       "academic_006"
+    ]
+  },
+  {
+    "word": "व्यापक",
+    "normalized": "व्यापक",
+    "display": "व्यापक",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "広範な",
+    "importance": 3,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "学術",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_011"
     ]
   },
   {

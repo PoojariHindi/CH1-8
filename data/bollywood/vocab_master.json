@@ -2141,15 +2141,16 @@
     "normalized": "चुनरिया",
     "pos": "名詞（女）",
     "meaning_ja": "チャドリ、色布",
-    "importance": 3,
+    "importance": 4,
     "status": "active",
     "sourceSongIds": [
-      "bolly_005"
+      "bolly_005",
+      "bolly_053"
     ],
     "tags": [],
     "notes": "",
-    "sourceCount": 1,
-    "frequency": 1
+    "sourceCount": 2,
+    "frequency": 2
   },
   {
     "word": "पुकारना",
@@ -3332,10 +3333,11 @@
     "sourceSongIds": [
       "bolly_020",
       "bolly_022",
-      "bolly_043"
+      "bolly_043",
+      "bolly_054"
     ],
-    "sourceCount": 3,
-    "frequency": 3,
+    "sourceCount": 4,
+    "frequency": 4,
     "tags": [],
     "notes": ""
   },
@@ -4184,13 +4186,14 @@
     "normalized": "अजनबी",
     "pos": "名詞・形容詞",
     "meaning_ja": "見知らぬ人、他人",
-    "importance": 3,
+    "importance": 4,
     "status": "active",
     "sourceSongIds": [
-      "bolly_024"
+      "bolly_024",
+      "bolly_052"
     ],
-    "sourceCount": 1,
-    "frequency": 1
+    "sourceCount": 2,
+    "frequency": 2
   },
   {
     "word": "गुज़ारा",
@@ -4829,10 +4832,11 @@
     "importance": 3,
     "status": "active",
     "sourceSongIds": [
-      "bolly_028"
+      "bolly_028",
+      "bolly_053"
     ],
-    "sourceCount": 1,
-    "frequency": 1
+    "sourceCount": 2,
+    "frequency": 2
   },
   {
     "word": "गुलाबी",
@@ -4842,10 +4846,11 @@
     "importance": 3,
     "status": "active",
     "sourceSongIds": [
-      "bolly_028"
+      "bolly_028",
+      "bolly_053"
     ],
-    "sourceCount": 1,
-    "frequency": 1
+    "sourceCount": 2,
+    "frequency": 2
   },
   {
     "word": "शराबी",
@@ -4894,10 +4899,11 @@
     "importance": 3,
     "status": "active",
     "sourceSongIds": [
-      "bolly_028"
+      "bolly_028",
+      "bolly_053"
     ],
-    "sourceCount": 1,
-    "frequency": 1
+    "sourceCount": 2,
+    "frequency": 2
   },
   {
     "word": "नखरा",
@@ -5165,10 +5171,11 @@
     "importance": 4,
     "status": "active",
     "sourceSongIds": [
-      "bolly_029"
+      "bolly_029",
+      "bolly_054"
     ],
-    "sourceCount": 1,
-    "frequency": 1
+    "sourceCount": 2,
+    "frequency": 2
   },
   {
     "word": "मेहंदी",
@@ -5192,10 +5199,11 @@
     "importance": 3,
     "status": "active",
     "sourceSongIds": [
-      "bolly_029"
+      "bolly_029",
+      "bolly_052"
     ],
-    "sourceCount": 1,
-    "frequency": 1
+    "sourceCount": 2,
+    "frequency": 2
   },
   {
     "word": "दमकना",
@@ -5539,10 +5547,11 @@
     "status": "active",
     "sourceSongIds": [
       "bolly_030",
-      "bolly_035"
+      "bolly_035",
+      "bolly_054"
     ],
-    "sourceCount": 2,
-    "frequency": 2
+    "sourceCount": 3,
+    "frequency": 3
   },
   {
     "word": "निशानी",
@@ -6215,6 +6224,12 @@
   {
     "word": "अखियाँ",
     "normalized": "अखियाँ",
+    "display": "अखियाँ",
+    "variants": [
+      "अँखियाँ",
+      "अखियाँ",
+      "अखियां"
+    ],
     "pos": "名詞（女・複）",
     "meaning_ja": "目、瞳（方言・詩語）",
     "importance": 4,
@@ -6272,10 +6287,11 @@
     "importance": 4,
     "status": "active",
     "sourceSongIds": [
-      "bolly_035"
+      "bolly_035",
+      "bolly_052"
     ],
-    "sourceCount": 1,
-    "frequency": 1
+    "sourceCount": 2,
+    "frequency": 2
   },
   {
     "word": "आतिशकदा",
@@ -7456,10 +7472,11 @@
     "importance": 3,
     "status": "active",
     "sourceSongIds": [
-      "bolly_042"
+      "bolly_042",
+      "bolly_052"
     ],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 2,
+    "frequency": 2,
     "notes": ""
   },
   {
@@ -8328,10 +8345,11 @@
     "importance": 4,
     "category": "religion",
     "sourceSongIds": [
-      "bolly_045"
+      "bolly_045",
+      "bolly_052"
     ],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 2,
+    "frequency": 2,
     "status": "active"
   },
   {
@@ -9816,6 +9834,674 @@
     "importance": 3,
     "sourceSongIds": [
       "bolly_051"
+    ],
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "सौगात",
+    "normalized": "सौगात",
+    "display": "सौगात",
+    "variants": [
+      "सौगात"
+    ],
+    "pos": "名詞（女）",
+    "meaning_ja": "贈り物",
+    "importance": 4,
+    "sourceSongIds": [
+      "bolly_052"
+    ],
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "दिलदारी",
+    "normalized": "दिलदारी",
+    "display": "दिलदारी",
+    "variants": [
+      "दिलदारी"
+    ],
+    "pos": "名詞（女）",
+    "meaning_ja": "気前の良さ、寛大さ",
+    "importance": 4,
+    "sourceSongIds": [
+      "bolly_052"
+    ],
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "खातिरदारी",
+    "normalized": "खातिरदारी",
+    "display": "खातिरदारी",
+    "variants": [
+      "खातिरदारी"
+    ],
+    "pos": "名詞（女）",
+    "meaning_ja": "歓待、おもてなし",
+    "importance": 4,
+    "sourceSongIds": [
+      "bolly_052"
+    ],
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "जश्न",
+    "normalized": "जश्न",
+    "display": "जश्न",
+    "variants": [
+      "जश्न"
+    ],
+    "pos": "名詞（男）",
+    "meaning_ja": "祝宴、祭り",
+    "importance": 4,
+    "sourceSongIds": [
+      "bolly_052"
+    ],
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "पिंजरा",
+    "normalized": "पिंजरा",
+    "display": "पिंजरा",
+    "variants": [
+      "पिंजरा"
+    ],
+    "pos": "名詞（男）",
+    "meaning_ja": "鳥籠",
+    "importance": 3,
+    "sourceSongIds": [
+      "bolly_052"
+    ],
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "इंशा अल्लाह",
+    "normalized": "इंशा अल्लाह",
+    "display": "इंशा अल्लाह",
+    "variants": [
+      "इंशा अल्लाह"
+    ],
+    "pos": "間投詞",
+    "meaning_ja": "神の御心ならば",
+    "importance": 4,
+    "sourceSongIds": [
+      "bolly_052"
+    ],
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "रूही",
+    "normalized": "रूही",
+    "display": "रूही",
+    "variants": [
+      "रूही"
+    ],
+    "pos": "形容詞",
+    "meaning_ja": "魂の、精神的な",
+    "importance": 4,
+    "sourceSongIds": [
+      "bolly_052"
+    ],
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "क़व्वाली",
+    "normalized": "कव्वाली",
+    "display": "क़व्वाली",
+    "variants": [
+      "क़व्वाली",
+      "कव्वाली"
+    ],
+    "pos": "名詞（女）",
+    "meaning_ja": "カッワーリー（スーフィー歌謡）",
+    "importance": 4,
+    "sourceSongIds": [
+      "bolly_052"
+    ],
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "मौज",
+    "normalized": "मौज",
+    "display": "मौज",
+    "variants": [
+      "मौज"
+    ],
+    "pos": "名詞（女）",
+    "meaning_ja": "楽しみ、快楽",
+    "importance": 4,
+    "sourceSongIds": [
+      "bolly_052"
+    ],
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "ओखली",
+    "normalized": "ओखली",
+    "display": "ओखली",
+    "variants": [
+      "ओखली"
+    ],
+    "pos": "名詞（女）",
+    "meaning_ja": "臼",
+    "importance": 3,
+    "sourceSongIds": [
+      "bolly_052"
+    ],
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "जोगन",
+    "normalized": "जोगन",
+    "display": "जोगन",
+    "variants": [
+      "जोगन"
+    ],
+    "pos": "名詞（女）",
+    "meaning_ja": "女修行者",
+    "importance": 4,
+    "sourceSongIds": [
+      "bolly_052"
+    ],
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "महबूबा",
+    "normalized": "महबूबा",
+    "display": "महबूबा",
+    "variants": [
+      "महबूबा"
+    ],
+    "pos": "名詞（女）",
+    "meaning_ja": "恋人、愛する女性",
+    "importance": 4,
+    "sourceSongIds": [
+      "bolly_052"
+    ],
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "शराब",
+    "normalized": "शराब",
+    "display": "शराब",
+    "variants": [
+      "शराब"
+    ],
+    "pos": "名詞（女）",
+    "meaning_ja": "酒",
+    "importance": 3,
+    "sourceSongIds": [
+      "bolly_052"
+    ],
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "ताल",
+    "normalized": "ताल",
+    "display": "ताल",
+    "variants": [
+      "ताल"
+    ],
+    "pos": "名詞（男）",
+    "meaning_ja": "リズム、拍子",
+    "importance": 3,
+    "sourceSongIds": [
+      "bolly_052"
+    ],
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "रखवाली",
+    "normalized": "रखवाली",
+    "display": "रखवाली",
+    "variants": [
+      "रखवाली"
+    ],
+    "pos": "名詞（女）",
+    "meaning_ja": "見守り、警護",
+    "importance": 3,
+    "sourceSongIds": [
+      "bolly_052"
+    ],
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "निहाल",
+    "normalized": "निहाल",
+    "display": "निहाल",
+    "variants": [
+      "निहाल"
+    ],
+    "pos": "形容詞",
+    "meaning_ja": "満ち足りた、恍惚とした",
+    "importance": 4,
+    "sourceSongIds": [
+      "bolly_053"
+    ],
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "कोरा",
+    "normalized": "कोरा",
+    "display": "कोरा",
+    "variants": [
+      "कोरा"
+    ],
+    "pos": "形容詞",
+    "meaning_ja": "無垢な、白紙の",
+    "importance": 3,
+    "sourceSongIds": [
+      "bolly_053"
+    ],
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "काँच",
+    "normalized": "कांच",
+    "display": "काँच",
+    "variants": [
+      "काँच",
+      "कांच"
+    ],
+    "pos": "名詞（男）",
+    "meaning_ja": "ガラス",
+    "importance": 3,
+    "sourceSongIds": [
+      "bolly_053"
+    ],
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "तन",
+    "normalized": "तन",
+    "display": "तन",
+    "variants": [
+      "तन"
+    ],
+    "pos": "名詞（男）",
+    "meaning_ja": "身体",
+    "importance": 4,
+    "sourceSongIds": [
+      "bolly_053"
+    ],
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "निहारना",
+    "normalized": "निहारना",
+    "display": "निहारना",
+    "variants": [
+      "निहारना"
+    ],
+    "pos": "他動詞",
+    "meaning_ja": "見つめる、眺める",
+    "importance": 4,
+    "sourceSongIds": [
+      "bolly_053"
+    ],
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "मरोड़ना",
+    "normalized": "मरोड़ना",
+    "display": "मरोड़ना",
+    "variants": [
+      "मरोड़ना",
+      "मरोड़ना"
+    ],
+    "pos": "他動詞",
+    "meaning_ja": "ひねる、ねじる",
+    "importance": 3,
+    "sourceSongIds": [
+      "bolly_053"
+    ],
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "कलाई",
+    "normalized": "कलाई",
+    "display": "कलाई",
+    "variants": [
+      "कलाई"
+    ],
+    "pos": "名詞（女）",
+    "meaning_ja": "手首",
+    "importance": 3,
+    "sourceSongIds": [
+      "bolly_053"
+    ],
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "चूड़ी",
+    "normalized": "चूड़ी",
+    "display": "चूड़ी",
+    "variants": [
+      "चूड़ी",
+      "चूड़ी"
+    ],
+    "pos": "名詞（女）",
+    "meaning_ja": "腕輪、バングル",
+    "importance": 4,
+    "sourceSongIds": [
+      "bolly_053"
+    ],
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "इतराना",
+    "normalized": "इतराना",
+    "display": "इतरانا",
+    "variants": [
+      "इतराना"
+    ],
+    "pos": "自動詞",
+    "meaning_ja": "得意げに振る舞う、うっとりする",
+    "importance": 4,
+    "sourceSongIds": [
+      "bolly_053"
+    ],
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "गरवा",
+    "normalized": "गरवा",
+    "display": "गरवा",
+    "variants": [
+      "गरवा"
+    ],
+    "pos": "名詞（男）",
+    "meaning_ja": "抱擁、胸元",
+    "importance": 4,
+    "sourceSongIds": [
+      "bolly_053"
+    ],
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "छीनना",
+    "normalized": "छीनना",
+    "display": "छीनना",
+    "variants": [
+      "छीनना"
+    ],
+    "pos": "他動詞",
+    "meaning_ja": "奪い取る",
+    "importance": 3,
+    "sourceSongIds": [
+      "bolly_053"
+    ],
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "लाज",
+    "normalized": "लाज",
+    "display": "लाज",
+    "variants": [
+      "लाज"
+    ],
+    "pos": "名詞（女）",
+    "meaning_ja": "恥じらい、慎み",
+    "importance": 4,
+    "sourceSongIds": [
+      "bolly_053"
+    ],
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "शामियाना",
+    "normalized": "शामियाना",
+    "display": "शामियाना",
+    "variants": [
+      "शामियाना"
+    ],
+    "pos": "名詞（男）",
+    "meaning_ja": "天幕、大きなテント",
+    "importance": 4,
+    "sourceSongIds": [
+      "bolly_054"
+    ],
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "ज़री",
+    "normalized": "जरी",
+    "display": "ज़री",
+    "variants": [
+      "ज़री",
+      "जरी"
+    ],
+    "pos": "名詞（女）",
+    "meaning_ja": "金銀糸の刺繍",
+    "importance": 4,
+    "sourceSongIds": [
+      "bolly_054"
+    ],
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "रत्ती",
+    "normalized": "रत्ती",
+    "display": "रत्ती",
+    "variants": [
+      "रत्ती"
+    ],
+    "pos": "名詞（女）",
+    "meaning_ja": "ごくわずかな量",
+    "importance": 3,
+    "sourceSongIds": [
+      "bolly_054"
+    ],
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "गंवाना",
+    "normalized": "गंवाना",
+    "display": "गंवाना",
+    "variants": [
+      "गंवाना"
+    ],
+    "pos": "他動詞",
+    "meaning_ja": "失う、犠牲にする",
+    "importance": 4,
+    "sourceSongIds": [
+      "bolly_054"
+    ],
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "कोयला",
+    "normalized": "कोयला",
+    "display": "कोयला",
+    "variants": [
+      "कोयला"
+    ],
+    "pos": "名詞（男）",
+    "meaning_ja": "石炭、燃え炭",
+    "importance": 3,
+    "sourceSongIds": [
+      "bolly_054"
+    ],
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "फूंक",
+    "normalized": "फूंक",
+    "display": "फूंक",
+    "variants": [
+      "फूंक"
+    ],
+    "pos": "名詞（女）",
+    "meaning_ja": "息、吹くこと",
+    "importance": 3,
+    "sourceSongIds": [
+      "bolly_054"
+    ],
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "शहद",
+    "normalized": "शहद",
+    "display": "शहद",
+    "variants": [
+      "शहद"
+    ],
+    "pos": "名詞（男）",
+    "meaning_ja": "蜂蜜",
+    "importance": 3,
+    "sourceSongIds": [
+      "bolly_054"
+    ],
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "हद",
+    "normalized": "हद",
+    "display": "हद",
+    "variants": [
+      "हद"
+    ],
+    "pos": "名詞（女）",
+    "meaning_ja": "限界、境界",
+    "importance": 4,
+    "sourceSongIds": [
+      "bolly_054"
+    ],
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "जादू",
+    "normalized": "जादू",
+    "display": "जादू",
+    "variants": [
+      "जादू"
+    ],
+    "pos": "名詞（男）",
+    "meaning_ja": "魔法、魅力",
+    "importance": 4,
+    "sourceSongIds": [
+      "bolly_054"
+    ],
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "झुकना",
+    "normalized": "झुकना",
+    "display": "झुकना",
+    "variants": [
+      "झुकना"
+    ],
+    "pos": "自動詞",
+    "meaning_ja": "傾く、伏せる",
+    "importance": 3,
+    "sourceSongIds": [
+      "bolly_054"
+    ],
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "रोशन",
+    "normalized": "रोशन",
+    "display": "रोशन",
+    "variants": [
+      "रोशन"
+    ],
+    "pos": "形容詞",
+    "meaning_ja": "輝く、明るい",
+    "importance": 4,
+    "sourceSongIds": [
+      "bolly_054"
+    ],
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "हीरा",
+    "normalized": "हीरा",
+    "display": "हीरा",
+    "variants": [
+      "हीरा"
+    ],
+    "pos": "名詞（男）",
+    "meaning_ja": "ダイヤモンド、宝石",
+    "importance": 4,
+    "sourceSongIds": [
+      "bolly_054"
     ],
     "status": "active",
     "sourceCount": 1,

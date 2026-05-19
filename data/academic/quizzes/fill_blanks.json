@@ -1,11 +1,36 @@
 {
   "topic": "academic_fill_blanks",
-  "generatedAt": "2026-05-18T03:14:27.610Z",
+  "generatedAt": "2026-05-18T23:58:38.029Z",
   "counts": {
-    "sources": 10,
-    "fillBlanks": 44
+    "sources": 11,
+    "fillBlanks": 47
   },
   "fillBlanks": [
+    {
+      "id": "academic_011::expr::2::blank::6",
+      "type": "fill_blank",
+      "sourceId": "academic_011",
+      "title": "Aamukh",
+      "genre": "textbook",
+      "category": "読解",
+      "sourceText": "जीवन का उद्देश्य औदात्य की प्राप्ति है",
+      "prompt": "जीवन का उद्देश्य _____ की प्राप्ति है",
+      "answer": "औदात्य",
+      "meaning": "崇高性、高尚さ",
+      "expressionMeaning": "人生の目的は崇高性の獲得である",
+      "pos": "名詞（男）",
+      "word": "औदात्य",
+      "display": "औदात्य",
+      "normalized": "औदात्य",
+      "importance": 5,
+      "difficulty": 1,
+      "tags": [
+        "教科書",
+        "文学",
+        "学術",
+        "抽象語"
+      ]
+    },
     {
       "id": "academic_010::expr::2::blank::15",
       "type": "fill_blank",
@@ -53,6 +78,56 @@
         "教科書",
         "文学",
         "評論",
+        "抽象語"
+      ]
+    },
+    {
+      "id": "academic_011::expr::3::blank::10",
+      "type": "fill_blank",
+      "sourceId": "academic_011",
+      "title": "Aamukh",
+      "genre": "textbook",
+      "category": "読解",
+      "sourceText": "सांस्कृतिक अस्मिता की अभिव्यक्ति होती है",
+      "prompt": "सांस्कृतिक _____ की अभिव्यक्ति होती है",
+      "answer": "अस्मिता",
+      "meaning": "アイデンティティ、自我意識",
+      "expressionMeaning": "文化的アイデンティティが表現される",
+      "pos": "名詞（女）",
+      "word": "अस्मिता",
+      "display": "अस्मिता",
+      "normalized": "अस्मिता",
+      "importance": 5,
+      "difficulty": 1,
+      "tags": [
+        "教科書",
+        "文学",
+        "学術",
+        "抽象語"
+      ]
+    },
+    {
+      "id": "academic_011::expr::4::blank::12",
+      "type": "fill_blank",
+      "sourceId": "academic_011",
+      "title": "Aamukh",
+      "genre": "textbook",
+      "category": "読解",
+      "sourceText": "ऐतिहासिक परिप्रेक्ष्य में विश्लेषण",
+      "prompt": "ऐतिहासिक _____ में विश्लेषण",
+      "answer": "परिप्रेक्ष्य",
+      "meaning": "観点、視点",
+      "expressionMeaning": "歴史的観点からの分析",
+      "pos": "名詞（男）",
+      "word": "परिप्रेक्ष्य",
+      "display": "परिप्रेक्ष्य",
+      "normalized": "परिप्रेक्ष्य",
+      "importance": 5,
+      "difficulty": 1,
+      "tags": [
+        "教科書",
+        "文学",
+        "学術",
         "抽象語"
       ]
     },

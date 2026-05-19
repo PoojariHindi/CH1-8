@@ -824,10 +824,11 @@
     "sourceArticleIds": [
       "news_vocab_02",
       "news_010",
-      "news_014"
+      "news_014",
+      "news021DJ20260519_OpenAI"
     ],
-    "sourceCount": 3,
-    "frequency": 3,
+    "sourceCount": 4,
+    "frequency": 4,
     "notes": "",
     "quizWeight": 5
   },
@@ -1180,7 +1181,7 @@
     "normalized": "अदालत",
     "pos": "名詞（女）",
     "meaning_ja": "裁判所",
-    "category": "裁判・法・選挙",
+    "category": "選挙・裁判",
     "difficulty": 2,
     "importance": 4,
     "status": "active",
@@ -1197,7 +1198,7 @@
     "normalized": "अधिकार",
     "pos": "名詞（男）",
     "meaning_ja": "権利、権限",
-    "category": "裁判・法・選挙",
+    "category": "選挙・裁判",
     "difficulty": 2,
     "importance": 4,
     "status": "active",
@@ -1214,7 +1215,7 @@
     "normalized": "अपील",
     "pos": "名詞（女）",
     "meaning_ja": "上訴、訴え、アピール",
-    "category": "裁判・法・選挙",
+    "category": "選挙・裁判",
     "difficulty": 2,
     "importance": 4,
     "status": "active",
@@ -1232,7 +1233,7 @@
     "normalized": "चुनाव",
     "pos": "名詞（男）",
     "meaning_ja": "選挙",
-    "category": "裁判・法・選挙",
+    "category": "選挙・裁判",
     "difficulty": 2,
     "importance": 4,
     "status": "active",
@@ -1251,24 +1252,25 @@
     "normalized": "फैसला",
     "pos": "名詞（男）",
     "meaning_ja": "判決、決定",
-    "category": "裁判・法・選挙",
+    "category": "選挙・裁判",
     "difficulty": 2,
     "importance": 4,
     "status": "active",
     "sourceArticleIds": [
-      "news_vocab_02"
+      "news_vocab_02",
+      "news021DJ20260519_OpenAI"
     ],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 2,
+    "frequency": 2,
     "notes": "",
-    "quizWeight": 3
+    "quizWeight": 4
   },
   {
     "word": "सुप्रीम कोर्ट",
     "normalized": "सुप्रीम_कोर्ट",
     "pos": "名詞（男）",
     "meaning_ja": "最高裁判所",
-    "category": "裁判・法・選挙",
+    "category": "選挙・裁判",
     "difficulty": 2,
     "importance": 4,
     "status": "active",
@@ -1286,7 +1288,7 @@
     "normalized": "मंजूरी",
     "pos": "名詞（女）",
     "meaning_ja": "承認、認可",
-    "category": "裁判・法・選挙",
+    "category": "選挙・裁判",
     "difficulty": 3,
     "importance": 4,
     "status": "active",
@@ -1304,7 +1306,7 @@
     "normalized": "मतदाता",
     "pos": "名詞（男）",
     "meaning_ja": "有権者",
-    "category": "裁判・法・選挙",
+    "category": "選挙・裁判",
     "difficulty": 3,
     "importance": 4,
     "status": "active",
@@ -1322,7 +1324,7 @@
     "normalized": "मतदान",
     "pos": "名詞（男）",
     "meaning_ja": "投票",
-    "category": "裁判・法・選挙",
+    "category": "選挙・裁判",
     "difficulty": 3,
     "importance": 4,
     "status": "active",
@@ -1341,7 +1343,7 @@
     "normalized": "संविधान",
     "pos": "名詞（男）",
     "meaning_ja": "憲法",
-    "category": "裁判・法・選挙",
+    "category": "選挙・裁判",
     "difficulty": 3,
     "importance": 4,
     "status": "active",
@@ -1358,24 +1360,25 @@
     "normalized": "सुनवाई",
     "pos": "名詞（女）",
     "meaning_ja": "審理、聴聞",
-    "category": "裁判・法・選挙",
+    "category": "選挙・裁判",
     "difficulty": 3,
     "importance": 4,
     "status": "active",
     "sourceArticleIds": [
-      "news_vocab_02"
+      "news_vocab_02",
+      "news021DJ20260519_OpenAI"
     ],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 2,
+    "frequency": 2,
     "notes": "",
-    "quizWeight": 3
+    "quizWeight": 4
   },
   {
     "word": "अनुच्छेद",
     "normalized": "अनुच्छेद",
     "pos": "名詞（男）",
     "meaning_ja": "条文、条項、憲法の条",
-    "category": "裁判・法・選挙",
+    "category": "選挙・裁判",
     "difficulty": 4,
     "importance": 4,
     "status": "active",
@@ -1392,7 +1395,7 @@
     "normalized": "चुनाव_आयोग",
     "pos": "名詞（男）",
     "meaning_ja": "選挙管理委員会",
-    "category": "裁判・法・選挙",
+    "category": "選挙・裁判",
     "difficulty": 4,
     "importance": 4,
     "status": "active",
@@ -1409,7 +1412,7 @@
     "normalized": "ट्रिब्युनल",
     "pos": "名詞（男）",
     "meaning_ja": "審判機関、法廷、トリビュナル",
-    "category": "裁判・法・選挙",
+    "category": "選挙・裁判",
     "difficulty": 4,
     "importance": 4,
     "status": "active",
@@ -1426,7 +1429,7 @@
     "normalized": "न्यायालय",
     "pos": "名詞（男）",
     "meaning_ja": "裁判所、法廷",
-    "category": "裁判・法・選挙",
+    "category": "選挙・裁判",
     "difficulty": 4,
     "importance": 4,
     "status": "active",
@@ -1443,7 +1446,7 @@
     "normalized": "न्यायिक",
     "pos": "形容詞",
     "meaning_ja": "司法の、裁判上の",
-    "category": "裁判・法・選挙",
+    "category": "選挙・裁判",
     "difficulty": 4,
     "importance": 4,
     "status": "active",
@@ -1460,7 +1463,7 @@
     "normalized": "पूरक",
     "pos": "形容詞",
     "meaning_ja": "補足の、追加の",
-    "category": "裁判・法・選挙",
+    "category": "選挙・裁判",
     "difficulty": 4,
     "importance": 4,
     "status": "active",
@@ -1477,7 +1480,7 @@
     "normalized": "मतदाता_सूची",
     "pos": "名詞（女）",
     "meaning_ja": "有権者名簿",
-    "category": "裁判・法・選挙",
+    "category": "選挙・裁判",
     "difficulty": 4,
     "importance": 4,
     "status": "active",
@@ -1494,7 +1497,7 @@
     "normalized": "याचिका",
     "pos": "名詞（女）",
     "meaning_ja": "請願、訴状、申立て",
-    "category": "裁判・法・選挙",
+    "category": "選挙・裁判",
     "difficulty": 4,
     "importance": 4,
     "status": "active",
@@ -1512,7 +1515,7 @@
     "normalized": "अपीलीय",
     "pos": "形容詞",
     "meaning_ja": "上訴の、控訴審の",
-    "category": "裁判・法・選挙",
+    "category": "選挙・裁判",
     "difficulty": 5,
     "importance": 4,
     "status": "active",
@@ -1529,7 +1532,7 @@
     "normalized": "इच्छामृत्यु",
     "pos": "名詞（女）",
     "meaning_ja": "安楽死",
-    "category": "裁判・法・選挙",
+    "category": "選挙・裁判",
     "difficulty": 5,
     "importance": 4,
     "status": "active",
@@ -2335,7 +2338,7 @@
     "normalized": "उम्मीदवार",
     "pos": "名詞（男）",
     "meaning_ja": "候補者",
-    "category": "裁判・法・選挙",
+    "category": "選挙・裁判",
     "difficulty": 3,
     "importance": 4,
     "status": "active",
@@ -2353,7 +2356,7 @@
     "normalized": "विपक्ष",
     "pos": "名詞（男）",
     "meaning_ja": "野党、反対勢力",
-    "category": "裁判・法・選挙",
+    "category": "選挙・裁判",
     "difficulty": 4,
     "importance": 4,
     "status": "active",
@@ -3404,12 +3407,13 @@
     "importance": 4,
     "status": "active",
     "sourceArticleIds": [
-      "news_008"
+      "news_008",
+      "news021DJ20260519_OpenAI"
     ],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 2,
+    "frequency": 2,
     "notes": "",
-    "quizWeight": 4
+    "quizWeight": 5
   },
   {
     "word": "पलक झपकते ही",
@@ -3622,7 +3626,7 @@
     "normalized": "दोषी",
     "pos": "名詞・形容詞",
     "meaning_ja": "有罪の者、犯人",
-    "category": "裁判・法・選挙",
+    "category": "選挙・裁判",
     "difficulty": 3,
     "importance": 4,
     "status": "active",
@@ -3639,7 +3643,7 @@
     "normalized": "न्याय_के_दायरे_में_लाना",
     "pos": "動詞句",
     "meaning_ja": "法の裁きを受けさせる",
-    "category": "裁判・法・選挙",
+    "category": "選挙・裁判",
     "difficulty": 5,
     "importance": 4,
     "status": "active",
@@ -3661,7 +3665,7 @@
     ],
     "pos": "名詞（女）",
     "meaning_ja": "インド中央捜査局（CBI）",
-    "category": "裁判・法・選挙",
+    "category": "選挙・裁判",
     "difficulty": 3,
     "importance": 4,
     "status": "active",
@@ -3814,7 +3818,7 @@
     "normalized": "नाबालिग",
     "pos": "形容詞・名詞",
     "meaning_ja": "未成年の、未成年者",
-    "category": "裁判・法・選挙",
+    "category": "選挙・裁判",
     "difficulty": 4,
     "importance": 4,
     "status": "active",
@@ -4303,23 +4307,6 @@
     "frequency": 1,
     "notes": "",
     "quizWeight": 4
-  },
-  {
-    "word": "यमुना",
-    "normalized": "यमुना",
-    "pos": "固有名詞",
-    "meaning_ja": "ヤムナー川",
-    "category": "都市・環境",
-    "difficulty": 2,
-    "importance": 4,
-    "status": "active",
-    "sourceArticleIds": [
-      "news_013"
-    ],
-    "sourceCount": 1,
-    "frequency": 1,
-    "notes": "河川名。環境ニュースで頻出。",
-    "quizWeight": 3
   },
   {
     "word": "मल मूत्र",
@@ -5669,11 +5656,12 @@
     "importance": 4,
     "status": "active",
     "sourceArticleIds": [
-      "news016DJ20260513_GoldScheme"
+      "news016DJ20260513_GoldScheme",
+      "news021DJ20260519_OpenAI"
     ],
-    "sourceCount": 1,
-    "frequency": 1,
-    "quizWeight": 3
+    "sourceCount": 2,
+    "frequency": 2,
+    "quizWeight": 4
   },
   {
     "word": "मिलीजुली",
@@ -6941,6 +6929,385 @@
     "sourceCount": 1,
     "frequency": 1,
     "notes": "政策・制度文脈で頻出",
+    "quizWeight": 3
+  },
+  {
+    "word": "मुकदमा",
+    "normalized": "मुकदमा",
+    "pos": "名詞（男）",
+    "meaning_ja": "訴訟、裁判",
+    "category": "選挙・裁判",
+    "difficulty": 2,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news021DJ20260519_OpenAI"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "裁判報道頻出語",
+    "quizWeight": 3
+  },
+  {
+    "word": "संघीय अदालत",
+    "normalized": "संघीय_अदालत",
+    "pos": "名詞（女）",
+    "meaning_ja": "連邦裁判所",
+    "category": "選挙・裁判",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news021DJ20260519_OpenAI"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "जूरी",
+    "normalized": "जूरी",
+    "pos": "名詞（女）",
+    "meaning_ja": "陪審員団",
+    "category": "選挙・裁判",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news021DJ20260519_OpenAI"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "आरोप",
+    "normalized": "आरोप",
+    "pos": "名詞（男）",
+    "meaning_ja": "告発、 आरोप",
+    "category": "選挙・裁判",
+    "difficulty": 2,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news021DJ20260519_OpenAI"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "裁判・報道頻出",
+    "quizWeight": 3
+  },
+  {
+    "word": "जिम्मेदार",
+    "normalized": "जिम्मेदार",
+    "pos": "形容詞",
+    "meaning_ja": "責任がある",
+    "category": "選挙・裁判",
+    "difficulty": 2,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news021DJ20260519_OpenAI"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "मानवता",
+    "normalized": "मानवता",
+    "pos": "名詞（女）",
+    "meaning_ja": "人類、人間性",
+    "category": "科学・技術",
+    "difficulty": 3,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news021DJ20260519_OpenAI"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "मूल उद्देश्य",
+    "normalized": "मूल_उद्देश्य",
+    "pos": "名詞（男）",
+    "meaning_ja": "本来の目的",
+    "category": "科学・技術",
+    "difficulty": 3,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news021DJ20260519_OpenAI"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "भटकना",
+    "normalized": "भटकना",
+    "pos": "動詞",
+    "meaning_ja": "逸脱する、さまよう",
+    "category": "重要動詞",
+    "difficulty": 3,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news021DJ20260519_OpenAI"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 4
+  },
+  {
+    "word": "सर्वसम्मत फैसला",
+    "normalized": "सर्वसम्मत_फैसला",
+    "pos": "名詞（男）",
+    "meaning_ja": "全会一致の判決",
+    "category": "選挙・裁判",
+    "difficulty": 5,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news021DJ20260519_OpenAI"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "दायर करना",
+    "normalized": "दायर_करना",
+    "pos": "動詞句",
+    "meaning_ja": "提起する、提出する",
+    "category": "重要動詞",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news021DJ20260519_OpenAI"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "訴訟・申請文脈",
+    "quizWeight": 4
+  },
+  {
+    "word": "दावा",
+    "normalized": "दावा",
+    "pos": "名詞（男）",
+    "meaning_ja": "主張、 दावा",
+    "category": "選挙・裁判",
+    "difficulty": 2,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news021DJ20260519_OpenAI"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "खारिज करना",
+    "normalized": "खारिज_करना",
+    "pos": "動詞句",
+    "meaning_ja": "却下する",
+    "category": "重要動詞",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news021DJ20260519_OpenAI"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "裁判用語",
+    "quizWeight": 4
+  },
+  {
+    "word": "आर्टिफिशियल इंटेलिजेंस",
+    "normalized": "आर्टिफिशियल_इंटेलिजेंस",
+    "pos": "名詞（女）",
+    "meaning_ja": "人工知能",
+    "category": "科学・技術",
+    "difficulty": 2,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news021DJ20260519_OpenAI"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "AI",
+    "quizWeight": 3
+  },
+  {
+    "word": "कृत्रिम बुद्धिमत्ता",
+    "normalized": "कृत्रिम_बुद्धिमत्ता",
+    "pos": "名詞（女）",
+    "meaning_ja": "人工知能",
+    "category": "科学・技術",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news021DJ20260519_OpenAI"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "AI のサンスクリット系表現",
+    "quizWeight": 3
+  },
+  {
+    "word": "एआइ",
+    "display": "एआई",
+    "normalized": "एआई",
+    "variants": [
+      "एआइ",
+      "एआई"
+    ],
+    "pos": "名詞（女）",
+    "meaning_ja": "AI、人工知能",
+    "category": "科学・技術",
+    "difficulty": 1,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news021DJ20260519_OpenAI"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "略称",
+    "quizWeight": 3
+  },
+  {
+    "word": "उद्योग",
+    "normalized": "उद्योग",
+    "pos": "名詞（男）",
+    "meaning_ja": "産業",
+    "category": "労働・経済",
+    "difficulty": 2,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news021DJ20260519_OpenAI"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "तकनीक",
+    "normalized": "तकनीक",
+    "pos": "名詞（女）",
+    "meaning_ja": "技術",
+    "category": "科学・技術",
+    "difficulty": 2,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news021DJ20260519_OpenAI"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "विश्वसनीयता",
+    "normalized": "विश्वसनीयता",
+    "pos": "名詞（女）",
+    "meaning_ja": "信頼性",
+    "category": "科学・技術",
+    "difficulty": 4,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news021DJ20260519_OpenAI"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "सार्वजनिक हित",
+    "normalized": "सार्वजनिक_हित",
+    "pos": "名詞（男）",
+    "meaning_ja": "公共の利益",
+    "category": "行政・制度",
+    "difficulty": 4,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news021DJ20260519_OpenAI"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "जनहित",
+    "normalized": "जनहित",
+    "pos": "名詞（男）",
+    "meaning_ja": "公益、公衆の利益",
+    "category": "行政・制度",
+    "difficulty": 4,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news021DJ20260519_OpenAI"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "समझौता",
+    "normalized": "समझौता",
+    "pos": "名詞（男）",
+    "meaning_ja": "合意、協定",
+    "category": "選挙・裁判",
+    "difficulty": 2,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news021DJ20260519_OpenAI"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "निवेशक",
+    "normalized": "निवेशक",
+    "pos": "名詞（男）",
+    "meaning_ja": "投資家",
+    "category": "労働・経済",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news021DJ20260519_OpenAI"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
     "quizWeight": 3
   }
 ]

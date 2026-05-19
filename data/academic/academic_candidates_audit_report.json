@@ -1,732 +1,660 @@
 {
   "summary": {
-    "candidateFiles": 11,
-    "totalCandidates": 254,
-    "newCandidates": 30,
-    "existingCandidates": 224,
+    "candidateFiles": 12,
+    "totalCandidates": 282,
+    "newCandidates": 27,
+    "existingCandidates": 255,
     "duplicateCandidates": 0,
     "hardStopwords": 0,
     "softStopwordReviews": 0
   },
   "newCandidates": [
     {
-      "word": "अनावृष्टि",
-      "display": "अनावृष्टि",
-      "normalized": "अनावृष्टि",
+      "word": "अवधारणा",
+      "display": "अवधारणा",
+      "normalized": "अवधारणा",
       "variants": [],
       "pos": "名詞（女）",
-      "meaning_ja": "干ばつ、雨不足",
+      "meaning_ja": "概念",
       "importance": 5,
       "status": "active",
       "category": "academic",
       "tags": [
         "教科書",
         "文学",
-        "評論",
+        "学術",
         "抽象語"
       ],
       "sourceIds": [
-        "academic_010"
+        "academic_011"
       ],
-      "sourceTitle": "Dharmvir Bharti",
+      "sourceTitle": "Aamukh",
       "sourceGenre": "textbook",
-      "sourceRegister": "literary_prose",
+      "sourceRegister": "Kendriya Hindi Sansthan",
       "audit": "new_candidate"
     },
     {
-      "word": "अमानवीयता",
-      "display": "अमानवीयता",
-      "normalized": "अमानवीयता",
+      "word": "अस्मिता",
+      "display": "अस्मिता",
+      "normalized": "अस्मिता",
       "variants": [],
       "pos": "名詞（女）",
-      "meaning_ja": "非人間性",
+      "meaning_ja": "アイデンティティ、自我意識",
       "importance": 5,
       "status": "active",
       "category": "academic",
       "tags": [
         "教科書",
         "文学",
-        "評論",
+        "学術",
         "抽象語"
       ],
       "sourceIds": [
-        "academic_010"
+        "academic_011"
       ],
-      "sourceTitle": "Dharmvir Bharti",
+      "sourceTitle": "Aamukh",
       "sourceGenre": "textbook",
-      "sourceRegister": "literary_prose",
+      "sourceRegister": "Kendriya Hindi Sansthan",
       "audit": "new_candidate"
     },
     {
-      "word": "जन-चेतना",
-      "display": "जन-चेतना",
-      "normalized": "जनचेतना",
+      "word": "औदात्य",
+      "display": "औदात्य",
+      "normalized": "औदात्य",
       "variants": [],
-      "pos": "名詞（女）",
-      "meaning_ja": "民衆意識、社会的意識",
+      "pos": "名詞（男）",
+      "meaning_ja": "崇高性、高尚さ",
       "importance": 5,
       "status": "active",
       "category": "academic",
       "tags": [
         "教科書",
         "文学",
-        "評論",
+        "学術",
         "抽象語"
       ],
       "sourceIds": [
-        "academic_010"
+        "academic_011"
       ],
-      "sourceTitle": "Dharmvir Bharti",
+      "sourceTitle": "Aamukh",
       "sourceGenre": "textbook",
-      "sourceRegister": "literary_prose",
+      "sourceRegister": "Kendriya Hindi Sansthan",
       "audit": "new_candidate"
     },
     {
-      "word": "जनमानस",
-      "display": "जनमानस",
-      "normalized": "जनमानस",
+      "word": "परिप्रेक्ष्य",
+      "display": "परिप्रेक्ष्य",
+      "normalized": "परिप्रेक्ष्य",
       "variants": [],
       "pos": "名詞（男）",
-      "meaning_ja": "大衆意識、民衆心理",
+      "meaning_ja": "観点、視点",
       "importance": 5,
       "status": "active",
       "category": "academic",
       "tags": [
         "教科書",
         "文学",
-        "評論",
+        "学術",
         "抽象語"
       ],
       "sourceIds": [
-        "academic_010"
+        "academic_011"
       ],
-      "sourceTitle": "Dharmvir Bharti",
+      "sourceTitle": "Aamukh",
       "sourceGenre": "textbook",
-      "sourceRegister": "literary_prose",
+      "sourceRegister": "Kendriya Hindi Sansthan",
       "audit": "new_candidate"
     },
     {
-      "word": "तर्कशील",
-      "display": "तर्कशील",
-      "normalized": "तर्कशील",
+      "word": "प्रतिमान",
+      "display": "प्रतिमान",
+      "normalized": "प्रतिमान",
       "variants": [],
-      "pos": "形容詞",
-      "meaning_ja": "論理的な、合理的な",
+      "pos": "名詞（男）",
+      "meaning_ja": "パラダイム、規範",
       "importance": 5,
       "status": "active",
       "category": "academic",
       "tags": [
         "教科書",
         "文学",
-        "評論",
+        "学術",
         "抽象語"
       ],
       "sourceIds": [
-        "academic_010"
+        "academic_011"
       ],
-      "sourceTitle": "Dharmvir Bharti",
+      "sourceTitle": "Aamukh",
       "sourceGenre": "textbook",
-      "sourceRegister": "literary_prose",
+      "sourceRegister": "Kendriya Hindi Sansthan",
       "audit": "new_candidate"
     },
     {
-      "word": "द्वंद्व",
-      "display": "द्वंद्व",
-      "normalized": "द्वंद्व",
+      "word": "बाज़ारवाद",
+      "display": "बाज़ारवाद",
+      "normalized": "बाज़ारवाद",
       "variants": [],
       "pos": "名詞（男）",
-      "meaning_ja": "葛藤、対立",
+      "meaning_ja": "市場主義",
       "importance": 5,
       "status": "active",
       "category": "academic",
       "tags": [
         "教科書",
         "文学",
-        "評論",
+        "学術",
         "抽象語"
       ],
       "sourceIds": [
-        "academic_010"
+        "academic_011"
       ],
-      "sourceTitle": "Dharmvir Bharti",
+      "sourceTitle": "Aamukh",
       "sourceGenre": "textbook",
-      "sourceRegister": "literary_prose",
+      "sourceRegister": "Kendriya Hindi Sansthan",
       "audit": "new_candidate"
     },
     {
-      "word": "मोहभंग",
-      "display": "मोहभंग",
-      "normalized": "मोहभंग",
+      "word": "भावोन्मेष",
+      "display": "भावोन्मेष",
+      "normalized": "भावोन्मेष",
       "variants": [],
       "pos": "名詞（男）",
-      "meaning_ja": "幻想の崩壊、幻滅",
+      "meaning_ja": "感情の高まり、感情表出",
       "importance": 5,
       "status": "active",
       "category": "academic",
       "tags": [
         "教科書",
         "文学",
-        "評論",
+        "学術",
         "抽象語"
       ],
       "sourceIds": [
-        "academic_010"
+        "academic_011"
       ],
-      "sourceTitle": "Dharmvir Bharti",
+      "sourceTitle": "Aamukh",
       "sourceGenre": "textbook",
-      "sourceRegister": "literary_prose",
+      "sourceRegister": "Kendriya Hindi Sansthan",
       "audit": "new_candidate"
     },
     {
-      "word": "अंधविश्वास",
-      "display": "अंधविश्वास",
-      "normalized": "अंधविश्वास",
+      "word": "भूमंडलीकरण",
+      "display": "भूमंडलीकरण",
+      "normalized": "भूमंडलीकरण",
       "variants": [],
       "pos": "名詞（男）",
-      "meaning_ja": "迷信",
-      "importance": 4,
+      "meaning_ja": "グローバル化",
+      "importance": 5,
       "status": "active",
       "category": "academic",
       "tags": [
         "教科書",
         "文学",
-        "評論",
+        "学術",
         "抽象語"
       ],
       "sourceIds": [
-        "academic_010"
+        "academic_011"
       ],
-      "sourceTitle": "Dharmvir Bharti",
+      "sourceTitle": "Aamukh",
       "sourceGenre": "textbook",
-      "sourceRegister": "literary_prose",
+      "sourceRegister": "Kendriya Hindi Sansthan",
       "audit": "new_candidate"
     },
     {
-      "word": "अनास्था",
-      "display": "अनास्था",
-      "normalized": "अनास्था",
-      "variants": [],
-      "pos": "名詞（女）",
-      "meaning_ja": "不信、無関心",
-      "importance": 4,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "文学",
-        "評論",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_010"
-      ],
-      "sourceTitle": "Dharmvir Bharti",
-      "sourceGenre": "textbook",
-      "sourceRegister": "literary_prose",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "उत्तरदायित्व",
-      "display": "उत्तरदायित्व",
-      "normalized": "उत्तरदायित्व",
-      "variants": [],
-      "pos": "名詞（男）",
-      "meaning_ja": "責任",
-      "importance": 4,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "文学",
-        "評論",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_010"
-      ],
-      "sourceTitle": "Dharmvir Bharti",
-      "sourceGenre": "textbook",
-      "sourceRegister": "literary_prose",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "उद्वेलित",
-      "display": "उद्वेलित",
-      "normalized": "उद्वेलित",
+      "word": "अभूतपूर्व",
+      "display": "अभूतपूर्व",
+      "normalized": "अभूतपूर्व",
       "variants": [],
       "pos": "形容詞",
-      "meaning_ja": "揺さぶられた、動揺した",
+      "meaning_ja": "前例のない",
       "importance": 4,
       "status": "active",
       "category": "academic",
       "tags": [
         "教科書",
         "文学",
-        "評論",
+        "学術",
         "抽象語"
       ],
       "sourceIds": [
-        "academic_010"
+        "academic_011"
       ],
-      "sourceTitle": "Dharmvir Bharti",
+      "sourceTitle": "Aamukh",
       "sourceGenre": "textbook",
-      "sourceRegister": "literary_prose",
+      "sourceRegister": "Kendriya Hindi Sansthan",
       "audit": "new_candidate"
     },
     {
-      "word": "कर्मकांड",
-      "display": "कर्मकांड",
-      "normalized": "कर्मकांड",
+      "word": "अवदान",
+      "display": "अवदान",
+      "normalized": "अवदान",
       "variants": [],
       "pos": "名詞（男）",
-      "meaning_ja": "宗教儀礼、儀式主義",
+      "meaning_ja": "貢献",
       "importance": 4,
       "status": "active",
       "category": "academic",
       "tags": [
         "教科書",
         "文学",
-        "評論",
+        "学術",
         "抽象語"
       ],
       "sourceIds": [
-        "academic_010"
+        "academic_011"
       ],
-      "sourceTitle": "Dharmvir Bharti",
+      "sourceTitle": "Aamukh",
       "sourceGenre": "textbook",
-      "sourceRegister": "literary_prose",
+      "sourceRegister": "Kendriya Hindi Sansthan",
       "audit": "new_candidate"
     },
     {
-      "word": "चेतना",
-      "display": "चेतना",
-      "normalized": "चेतना",
+      "word": "उपादान",
+      "display": "उपादान",
+      "normalized": "उपादान",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "要素、材料",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学",
+        "学術",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_011"
+      ],
+      "sourceTitle": "Aamukh",
+      "sourceGenre": "textbook",
+      "sourceRegister": "Kendriya Hindi Sansthan",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "चिंतन-प्रक्रिया",
+      "display": "चिंतन-प्रक्रिया",
+      "normalized": "चिंतनप्रक्रिया",
       "variants": [],
       "pos": "名詞（女）",
-      "meaning_ja": "意識、精神",
+      "meaning_ja": "思考過程",
       "importance": 4,
       "status": "active",
       "category": "academic",
       "tags": [
         "教科書",
         "文学",
-        "評論",
+        "学術",
         "抽象語"
       ],
       "sourceIds": [
-        "academic_010"
+        "academic_011"
       ],
-      "sourceTitle": "Dharmvir Bharti",
+      "sourceTitle": "Aamukh",
       "sourceGenre": "textbook",
-      "sourceRegister": "literary_prose",
+      "sourceRegister": "Kendriya Hindi Sansthan",
       "audit": "new_candidate"
     },
     {
-      "word": "दुविधा",
-      "display": "दुविधा",
-      "normalized": "दुविधा",
+      "word": "प्रवृत्ति",
+      "display": "प्रवृत्ति",
+      "normalized": "प्रवृत्ति",
       "variants": [],
       "pos": "名詞（女）",
-      "meaning_ja": "ジレンマ、迷い",
+      "meaning_ja": "傾向、動向",
       "importance": 4,
       "status": "active",
       "category": "academic",
       "tags": [
         "教科書",
         "文学",
-        "評論",
+        "学術",
         "抽象語"
       ],
       "sourceIds": [
-        "academic_010"
+        "academic_011"
       ],
-      "sourceTitle": "Dharmvir Bharti",
+      "sourceTitle": "Aamukh",
       "sourceGenre": "textbook",
-      "sourceRegister": "literary_prose",
+      "sourceRegister": "Kendriya Hindi Sansthan",
       "audit": "new_candidate"
     },
     {
-      "word": "निराकरण",
-      "display": "निराकरण",
-      "normalized": "निराकरण",
+      "word": "प्रस्तुतीकरण",
+      "display": "प्रस्तुतीकरण",
+      "normalized": "प्रस्तुतीकरण",
       "variants": [],
       "pos": "名詞（男）",
-      "meaning_ja": "解決、除去",
+      "meaning_ja": "提示、プレゼンテーション",
       "importance": 4,
       "status": "active",
       "category": "academic",
       "tags": [
         "教科書",
         "文学",
-        "評論",
+        "学術",
         "抽象語"
       ],
       "sourceIds": [
-        "academic_010"
+        "academic_011"
       ],
-      "sourceTitle": "Dharmvir Bharti",
+      "sourceTitle": "Aamukh",
       "sourceGenre": "textbook",
-      "sourceRegister": "literary_prose",
+      "sourceRegister": "Kendriya Hindi Sansthan",
       "audit": "new_candidate"
     },
     {
-      "word": "प्रपंच",
-      "display": "प्रपंच",
-      "normalized": "प्रपंच",
-      "variants": [],
-      "pos": "名詞（男）",
-      "meaning_ja": "策略、からくり",
-      "importance": 4,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "文学",
-        "評論",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_010"
-      ],
-      "sourceTitle": "Dharmvir Bharti",
-      "sourceGenre": "textbook",
-      "sourceRegister": "literary_prose",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "मानवीय",
-      "display": "मानवीय",
-      "normalized": "मानवीय",
+      "word": "बहुआयामी",
+      "display": "बहुआयामी",
+      "normalized": "बहुआयामी",
       "variants": [],
       "pos": "形容詞",
-      "meaning_ja": "人間的な、人道的な",
+      "meaning_ja": "多面的な、多角的な",
       "importance": 4,
       "status": "active",
       "category": "academic",
       "tags": [
         "教科書",
         "文学",
-        "評論",
+        "学術",
         "抽象語"
       ],
       "sourceIds": [
-        "academic_010"
+        "academic_011"
       ],
-      "sourceTitle": "Dharmvir Bharti",
+      "sourceTitle": "Aamukh",
       "sourceGenre": "textbook",
-      "sourceRegister": "literary_prose",
+      "sourceRegister": "Kendriya Hindi Sansthan",
       "audit": "new_candidate"
     },
     {
-      "word": "रचनात्मक",
-      "display": "रचनात्मक",
-      "normalized": "रचनात्मक",
+      "word": "बहुआयामी संदर्भ",
+      "display": "बहुआयामी संदर्भ",
+      "normalized": "बहुआयामी संदर्भ",
       "variants": [],
-      "pos": "形容詞",
-      "meaning_ja": "創造的な",
+      "pos": "名詞句",
+      "meaning_ja": "多面的な文脈",
       "importance": 4,
       "status": "active",
       "category": "academic",
       "tags": [
         "教科書",
         "文学",
-        "評論",
+        "学術",
         "抽象語"
       ],
       "sourceIds": [
-        "academic_010"
+        "academic_011"
       ],
-      "sourceTitle": "Dharmvir Bharti",
+      "sourceTitle": "Aamukh",
       "sourceGenre": "textbook",
-      "sourceRegister": "literary_prose",
+      "sourceRegister": "Kendriya Hindi Sansthan",
       "audit": "new_candidate"
     },
     {
-      "word": "लौकिक",
-      "display": "लौकिक",
-      "normalized": "लौकिक",
-      "variants": [],
-      "pos": "形容詞",
-      "meaning_ja": "世俗的な",
-      "importance": 4,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "文学",
-        "評論",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_010"
-      ],
-      "sourceTitle": "Dharmvir Bharti",
-      "sourceGenre": "textbook",
-      "sourceRegister": "literary_prose",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "विचलन",
-      "display": "विचलन",
-      "normalized": "विचलन",
+      "word": "मानदंड",
+      "display": "मानदंड",
+      "normalized": "मानदंड",
       "variants": [],
       "pos": "名詞（男）",
-      "meaning_ja": "逸脱、動揺",
+      "meaning_ja": "基準、尺度",
       "importance": 4,
       "status": "active",
       "category": "academic",
       "tags": [
         "教科書",
         "文学",
-        "評論",
+        "学術",
         "抽象語"
       ],
       "sourceIds": [
-        "academic_010"
+        "academic_011"
       ],
-      "sourceTitle": "Dharmvir Bharti",
+      "sourceTitle": "Aamukh",
       "sourceGenre": "textbook",
-      "sourceRegister": "literary_prose",
+      "sourceRegister": "Kendriya Hindi Sansthan",
       "audit": "new_candidate"
     },
     {
-      "word": "विशिष्ट",
-      "display": "विशिष्ट",
-      "normalized": "विशिष्ट",
+      "word": "युगीन",
+      "display": "युगीन",
+      "normalized": "युगीन",
       "variants": [],
       "pos": "形容詞",
-      "meaning_ja": "特別な、際立った",
+      "meaning_ja": "時代的な、その時代の",
       "importance": 4,
       "status": "active",
       "category": "academic",
       "tags": [
         "教科書",
         "文学",
-        "評論",
+        "学術",
         "抽象語"
       ],
       "sourceIds": [
-        "academic_010"
+        "academic_011"
       ],
-      "sourceTitle": "Dharmvir Bharti",
+      "sourceTitle": "Aamukh",
       "sourceGenre": "textbook",
-      "sourceRegister": "literary_prose",
+      "sourceRegister": "Kendriya Hindi Sansthan",
       "audit": "new_candidate"
     },
     {
-      "word": "सद्भाव",
-      "display": "सद्भाव",
-      "normalized": "सद्भाव",
-      "variants": [],
-      "pos": "名詞（男）",
-      "meaning_ja": "好意、善意",
-      "importance": 4,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "文学",
-        "評論",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_010"
-      ],
-      "sourceTitle": "Dharmvir Bharti",
-      "sourceGenre": "textbook",
-      "sourceRegister": "literary_prose",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "सर्वोपरि",
-      "display": "सर्वोपरि",
-      "normalized": "सर्वोपरि",
+      "word": "विकासशील",
+      "display": "विकासशील",
+      "normalized": "विकासशील",
       "variants": [],
       "pos": "形容詞",
-      "meaning_ja": "最も重要な、最高位の",
+      "meaning_ja": "発展途上の、発展し続ける",
       "importance": 4,
       "status": "active",
       "category": "academic",
       "tags": [
         "教科書",
         "文学",
-        "評論",
+        "学術",
         "抽象語"
       ],
       "sourceIds": [
-        "academic_010"
+        "academic_011"
       ],
-      "sourceTitle": "Dharmvir Bharti",
+      "sourceTitle": "Aamukh",
       "sourceGenre": "textbook",
-      "sourceRegister": "literary_prose",
+      "sourceRegister": "Kendriya Hindi Sansthan",
       "audit": "new_candidate"
     },
     {
-      "word": "सापेक्षिता",
-      "display": "सापेक्षिता",
-      "normalized": "सापेक्षिता",
+      "word": "विद्यमान",
+      "display": "विद्यमान",
+      "normalized": "विद्यमान",
       "variants": [],
-      "pos": "名詞（女）",
-      "meaning_ja": "相対性",
+      "pos": "形容詞",
+      "meaning_ja": "存在している、現存する",
       "importance": 4,
       "status": "active",
       "category": "academic",
       "tags": [
         "教科書",
         "文学",
-        "評論",
+        "学術",
         "抽象語"
       ],
       "sourceIds": [
-        "academic_010"
+        "academic_011"
       ],
-      "sourceTitle": "Dharmvir Bharti",
+      "sourceTitle": "Aamukh",
       "sourceGenre": "textbook",
-      "sourceRegister": "literary_prose",
+      "sourceRegister": "Kendriya Hindi Sansthan",
       "audit": "new_candidate"
     },
     {
-      "word": "सामर्थ्य",
-      "display": "सामर्थ्य",
-      "normalized": "सामर्थ्य",
+      "word": "विषयगत",
+      "display": "विषयगत",
+      "normalized": "विषयगत",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "主題に関する",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学",
+        "学術",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_011"
+      ],
+      "sourceTitle": "Aamukh",
+      "sourceGenre": "textbook",
+      "sourceRegister": "Kendriya Hindi Sansthan",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "वैश्विक",
+      "display": "वैश्विक",
+      "normalized": "वैश्विक",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "世界的な、グローバルな",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学",
+        "学術",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_011"
+      ],
+      "sourceTitle": "Aamukh",
+      "sourceGenre": "textbook",
+      "sourceRegister": "Kendriya Hindi Sansthan",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "संवर्धन",
+      "display": "संवर्धन",
+      "normalized": "संवर्धन",
       "variants": [],
       "pos": "名詞（男）",
-      "meaning_ja": "力、能力",
+      "meaning_ja": "促進、発展",
       "importance": 4,
       "status": "active",
       "category": "academic",
       "tags": [
         "教科書",
         "文学",
-        "評論",
+        "学術",
         "抽象語"
       ],
       "sourceIds": [
-        "academic_010"
+        "academic_011"
       ],
-      "sourceTitle": "Dharmvir Bharti",
+      "sourceTitle": "Aamukh",
       "sourceGenre": "textbook",
-      "sourceRegister": "literary_prose",
+      "sourceRegister": "Kendriya Hindi Sansthan",
       "audit": "new_candidate"
     },
     {
-      "word": "स्वातंत्र्य",
-      "display": "स्वातंत्र्य",
-      "normalized": "स्वातंत्र्य",
+      "word": "उपयोगी",
+      "display": "उपयोगी",
+      "normalized": "उपयोगी",
       "variants": [],
-      "pos": "名詞（男）",
-      "meaning_ja": "自由、独立",
-      "importance": 4,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "文学",
-        "評論",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_010"
-      ],
-      "sourceTitle": "Dharmvir Bharti",
-      "sourceGenre": "textbook",
-      "sourceRegister": "literary_prose",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "हताशा",
-      "display": "हताशा",
-      "normalized": "हताशा",
-      "variants": [],
-      "pos": "名詞（女）",
-      "meaning_ja": "失望、落胆",
-      "importance": 4,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "文学",
-        "評論",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_010"
-      ],
-      "sourceTitle": "Dharmvir Bharti",
-      "sourceGenre": "textbook",
-      "sourceRegister": "literary_prose",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "आत्मीयता",
-      "display": "आत्मीयता",
-      "normalized": "आत्मीयता",
-      "variants": [],
-      "pos": "名詞（女）",
-      "meaning_ja": "親しみ、親密さ",
+      "pos": "形容詞",
+      "meaning_ja": "有用な",
       "importance": 3,
       "status": "active",
       "category": "academic",
       "tags": [
         "教科書",
         "文学",
-        "評論",
+        "学術",
         "抽象語"
       ],
       "sourceIds": [
-        "academic_010"
+        "academic_011"
       ],
-      "sourceTitle": "Dharmvir Bharti",
+      "sourceTitle": "Aamukh",
       "sourceGenre": "textbook",
-      "sourceRegister": "literary_prose",
+      "sourceRegister": "Kendriya Hindi Sansthan",
       "audit": "new_candidate"
     },
     {
-      "word": "उपलब्धि",
-      "display": "उपलब्धि",
-      "normalized": "उपलब्धि",
+      "word": "निश्चय ही",
+      "display": "निश्चय ही",
+      "normalized": "निश्चय ही",
       "variants": [],
-      "pos": "名詞（女）",
-      "meaning_ja": "成果、達成",
+      "pos": "副詞",
+      "meaning_ja": "確かに、間違いなく",
       "importance": 3,
       "status": "active",
       "category": "academic",
       "tags": [
         "教科書",
         "文学",
-        "評論",
+        "学術",
         "抽象語"
       ],
       "sourceIds": [
-        "academic_010"
+        "academic_011"
       ],
-      "sourceTitle": "Dharmvir Bharti",
+      "sourceTitle": "Aamukh",
       "sourceGenre": "textbook",
-      "sourceRegister": "literary_prose",
+      "sourceRegister": "Kendriya Hindi Sansthan",
       "audit": "new_candidate"
     },
     {
-      "word": "निर्मम",
-      "display": "निर्मम",
-      "normalized": "निर्मम",
+      "word": "प्रचार-प्रसार",
+      "display": "प्रचार-प्रसार",
+      "normalized": "प्रचारप्रसार",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "普及、宣伝",
+      "importance": 3,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学",
+        "学術",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_011"
+      ],
+      "sourceTitle": "Aamukh",
+      "sourceGenre": "textbook",
+      "sourceRegister": "Kendriya Hindi Sansthan",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "व्यापक",
+      "display": "व्यापक",
+      "normalized": "व्यापक",
       "variants": [],
       "pos": "形容詞",
-      "meaning_ja": "無慈悲な、容赦ない",
+      "meaning_ja": "広範な",
       "importance": 3,
       "status": "active",
       "category": "academic",
       "tags": [
         "教科書",
         "文学",
-        "評論",
+        "学術",
         "抽象語"
       ],
       "sourceIds": [
-        "academic_010"
+        "academic_011"
       ],
-      "sourceTitle": "Dharmvir Bharti",
+      "sourceTitle": "Aamukh",
       "sourceGenre": "textbook",
-      "sourceRegister": "literary_prose",
+      "sourceRegister": "Kendriya Hindi Sansthan",
       "audit": "new_candidate"
     }
   ],
@@ -5911,6 +5839,750 @@
       "sourceTitle": "हिंदी वर्तनी का मानकीकरण",
       "sourceGenre": "government_document",
       "sourceRegister": "government_formal",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "विशिष्ट",
+      "display": "विशिष्ट",
+      "normalized": "विशिष्ट",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "特別な、際立った",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学",
+        "評論",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_010"
+      ],
+      "sourceTitle": "Dharmvir Bharti",
+      "sourceGenre": "textbook",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "उपलब्धि",
+      "display": "उपलब्धि",
+      "normalized": "उपलब्धि",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "成果、達成",
+      "importance": 3,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学",
+        "評論",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_010"
+      ],
+      "sourceTitle": "Dharmvir Bharti",
+      "sourceGenre": "textbook",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "स्वातंत्र्य",
+      "display": "स्वातंत्र्य",
+      "normalized": "स्वातंत्र्य",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "自由、独立",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学",
+        "評論",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_010"
+      ],
+      "sourceTitle": "Dharmvir Bharti",
+      "sourceGenre": "textbook",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "मानवीय",
+      "display": "मानवीय",
+      "normalized": "मानवीय",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "人間的な、人道的な",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学",
+        "評論",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_010"
+      ],
+      "sourceTitle": "Dharmvir Bharti",
+      "sourceGenre": "textbook",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "चेतना",
+      "display": "चेतना",
+      "normalized": "चेतना",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "意識、精神",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学",
+        "評論",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_010"
+      ],
+      "sourceTitle": "Dharmvir Bharti",
+      "sourceGenre": "textbook",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "उत्तरदायित्व",
+      "display": "उत्तरदायित्व",
+      "normalized": "उत्तरदायित्व",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "責任",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学",
+        "評論",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_010"
+      ],
+      "sourceTitle": "Dharmvir Bharti",
+      "sourceGenre": "textbook",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "सर्वोपरि",
+      "display": "सर्वोपरि",
+      "normalized": "सर्वोपरि",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "最も重要な、最高位の",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学",
+        "評論",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_010"
+      ],
+      "sourceTitle": "Dharmvir Bharti",
+      "sourceGenre": "textbook",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "हताशा",
+      "display": "हताशा",
+      "normalized": "हताशा",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "失望、落胆",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学",
+        "評論",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_010"
+      ],
+      "sourceTitle": "Dharmvir Bharti",
+      "sourceGenre": "textbook",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "विचलन",
+      "display": "विचलन",
+      "normalized": "विचलन",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "逸脱、動揺",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学",
+        "評論",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_010"
+      ],
+      "sourceTitle": "Dharmvir Bharti",
+      "sourceGenre": "textbook",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "अनास्था",
+      "display": "अनास्था",
+      "normalized": "अनास्था",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "不信、無関心",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学",
+        "評論",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_010"
+      ],
+      "sourceTitle": "Dharmvir Bharti",
+      "sourceGenre": "textbook",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "मोहभंग",
+      "display": "मोहभंग",
+      "normalized": "मोहभंग",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "幻想の崩壊、幻滅",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学",
+        "評論",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_010"
+      ],
+      "sourceTitle": "Dharmvir Bharti",
+      "sourceGenre": "textbook",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "अमानवीयता",
+      "display": "अमानवीयता",
+      "normalized": "अमानवीयता",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "非人間性",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学",
+        "評論",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_010"
+      ],
+      "sourceTitle": "Dharmvir Bharti",
+      "sourceGenre": "textbook",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "सापेक्षिता",
+      "display": "सापेक्षिता",
+      "normalized": "सापेक्षिता",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "相対性",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学",
+        "評論",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_010"
+      ],
+      "sourceTitle": "Dharmvir Bharti",
+      "sourceGenre": "textbook",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "आत्मीयता",
+      "display": "आत्मीयता",
+      "normalized": "आत्मीयता",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "親しみ、親密さ",
+      "importance": 3,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学",
+        "評論",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_010"
+      ],
+      "sourceTitle": "Dharmvir Bharti",
+      "sourceGenre": "textbook",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "द्वंद्व",
+      "display": "द्वंद्व",
+      "normalized": "द्वंद्व",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "葛藤、対立",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学",
+        "評論",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_010"
+      ],
+      "sourceTitle": "Dharmvir Bharti",
+      "sourceGenre": "textbook",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "सामर्थ्य",
+      "display": "सामर्थ्य",
+      "normalized": "सामर्थ्य",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "力、能力",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学",
+        "評論",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_010"
+      ],
+      "sourceTitle": "Dharmvir Bharti",
+      "sourceGenre": "textbook",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "उद्वेलित",
+      "display": "उद्वेलित",
+      "normalized": "उद्वेलित",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "揺さぶられた、動揺した",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学",
+        "評論",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_010"
+      ],
+      "sourceTitle": "Dharmvir Bharti",
+      "sourceGenre": "textbook",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "दुविधा",
+      "display": "दुविधा",
+      "normalized": "दुविधा",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "ジレンマ、迷い",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学",
+        "評論",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_010"
+      ],
+      "sourceTitle": "Dharmvir Bharti",
+      "sourceGenre": "textbook",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "प्रपंच",
+      "display": "प्रपंच",
+      "normalized": "प्रपंच",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "策略、からくり",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学",
+        "評論",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_010"
+      ],
+      "sourceTitle": "Dharmvir Bharti",
+      "sourceGenre": "textbook",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "अनावृष्टि",
+      "display": "अनावृष्टि",
+      "normalized": "अनावृष्टि",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "干ばつ、雨不足",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学",
+        "評論",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_010"
+      ],
+      "sourceTitle": "Dharmvir Bharti",
+      "sourceGenre": "textbook",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "तर्कशील",
+      "display": "तर्कशील",
+      "normalized": "तर्कशील",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "論理的な、合理的な",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学",
+        "評論",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_010"
+      ],
+      "sourceTitle": "Dharmvir Bharti",
+      "sourceGenre": "textbook",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "निर्मम",
+      "display": "निर्मम",
+      "normalized": "निर्मम",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "無慈悲な、容赦ない",
+      "importance": 3,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学",
+        "評論",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_010"
+      ],
+      "sourceTitle": "Dharmvir Bharti",
+      "sourceGenre": "textbook",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "जनमानस",
+      "display": "जनमानस",
+      "normalized": "जनमानस",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "大衆意識、民衆心理",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学",
+        "評論",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_010"
+      ],
+      "sourceTitle": "Dharmvir Bharti",
+      "sourceGenre": "textbook",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "लौकिक",
+      "display": "लौकिक",
+      "normalized": "लौकिक",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "世俗的な",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学",
+        "評論",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_010"
+      ],
+      "sourceTitle": "Dharmvir Bharti",
+      "sourceGenre": "textbook",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "कर्मकांड",
+      "display": "कर्मकांड",
+      "normalized": "कर्मकांड",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "宗教儀礼、儀式主義",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学",
+        "評論",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_010"
+      ],
+      "sourceTitle": "Dharmvir Bharti",
+      "sourceGenre": "textbook",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "अंधविश्वास",
+      "display": "अंधविश्वास",
+      "normalized": "अंधविश्वास",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "迷信",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学",
+        "評論",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_010"
+      ],
+      "sourceTitle": "Dharmvir Bharti",
+      "sourceGenre": "textbook",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "निराकरण",
+      "display": "निराकरण",
+      "normalized": "निराकरण",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "解決、除去",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学",
+        "評論",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_010"
+      ],
+      "sourceTitle": "Dharmvir Bharti",
+      "sourceGenre": "textbook",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "रचनात्मक",
+      "display": "रचनात्मक",
+      "normalized": "रचनात्मक",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "創造的な",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学",
+        "評論",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_010"
+      ],
+      "sourceTitle": "Dharmvir Bharti",
+      "sourceGenre": "textbook",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "जन-चेतना",
+      "display": "जन-चेतना",
+      "normalized": "जनचेतना",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "民衆意識、社会的意識",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学",
+        "評論",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_010"
+      ],
+      "sourceTitle": "Dharmvir Bharti",
+      "sourceGenre": "textbook",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "सद्भाव",
+      "display": "सद्भाव",
+      "normalized": "सद्भाव",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "好意、善意",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学",
+        "評論",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_010"
+      ],
+      "sourceTitle": "Dharmvir Bharti",
+      "sourceGenre": "textbook",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "अनिवार्य",
+      "display": "अनिवार्य",
+      "normalized": "अनिवार्य",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "不可欠な、必須の",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学",
+        "学術",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_011"
+      ],
+      "sourceTitle": "Aamukh",
+      "sourceGenre": "textbook",
+      "sourceRegister": "Kendriya Hindi Sansthan",
       "audit": "existing_in_master"
     }
   ],
