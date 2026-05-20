@@ -66,10 +66,11 @@
       "news_vocab_02",
       "news_006",
       "news_010",
-      "news020DJ20260518_NeetLeak"
+      "news020DJ20260518_NeetLeak",
+      "news024_NBT20260520_Dahej"
     ],
-    "sourceCount": 4,
-    "frequency": 4,
+    "sourceCount": 5,
+    "frequency": 5,
     "notes": "",
     "quizWeight": 5
   },
@@ -101,10 +102,11 @@
     "status": "active",
     "sourceArticleIds": [
       "news_vocab_02",
-      "news018DJ20260514_Barish"
+      "news018DJ20260514_Barish",
+      "news024_NBT20260520_Dahej"
     ],
-    "sourceCount": 2,
-    "frequency": 2,
+    "sourceCount": 3,
+    "frequency": 3,
     "notes": "",
     "quizWeight": 4
   },
@@ -224,10 +226,11 @@
     "importance": 4,
     "status": "active",
     "sourceArticleIds": [
-      "news_vocab_02"
+      "news_vocab_02",
+      "news022DJ20260520_Rabies"
     ],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 2,
+    "frequency": 2,
     "notes": "",
     "quizWeight": 3
   },
@@ -400,10 +403,11 @@
     "status": "active",
     "sourceArticleIds": [
       "news_vocab_02",
-      "news020DJ20260518_NeetLeak"
+      "news020DJ20260518_NeetLeak",
+      "news024_NBT20260520_Dahej"
     ],
-    "sourceCount": 2,
-    "frequency": 2,
+    "sourceCount": 3,
+    "frequency": 3,
     "notes": "",
     "quizWeight": 3
   },
@@ -591,10 +595,11 @@
     "status": "active",
     "sourceArticleIds": [
       "news_vocab_02",
-      "news_008"
+      "news_008",
+      "news023_DJ20260520_HotSummer"
     ],
-    "sourceCount": 2,
-    "frequency": 2,
+    "sourceCount": 3,
+    "frequency": 3,
     "notes": "",
     "quizWeight": 3
   },
@@ -698,10 +703,11 @@
       "news_vocab_01",
       "news_012",
       "news_013",
-      "news018DJ20260514_Barish"
+      "news018DJ20260514_Barish",
+      "news022DJ20260520_Rabies"
     ],
-    "sourceCount": 4,
-    "frequency": 4,
+    "sourceCount": 5,
+    "frequency": 5,
     "notes": "",
     "quizWeight": 5
   },
@@ -754,10 +760,11 @@
       "news_012",
       "news_013",
       "new017DJ20260514_Girls",
-      "news018DJ20260514_Barish"
+      "news018DJ20260514_Barish",
+      "news023_DJ20260520_HotSummer"
     ],
-    "sourceCount": 6,
-    "frequency": 6,
+    "sourceCount": 7,
+    "frequency": 7,
     "notes": "",
     "quizWeight": 5
   },
@@ -825,10 +832,11 @@
       "news_vocab_02",
       "news_010",
       "news_014",
-      "news021DJ20260519_OpenAI"
+      "news021DJ20260519_OpenAI",
+      "news022DJ20260520_Rabies"
     ],
-    "sourceCount": 4,
-    "frequency": 4,
+    "sourceCount": 5,
+    "frequency": 5,
     "notes": "",
     "quizWeight": 5
   },
@@ -844,10 +852,11 @@
     "sourceArticleIds": [
       "news_vocab_02",
       "news_011",
-      "news019DJ20260518_3Bhasha"
+      "news019DJ20260518_3Bhasha",
+      "news022DJ20260520_Rabies"
     ],
-    "sourceCount": 3,
-    "frequency": 3,
+    "sourceCount": 4,
+    "frequency": 4,
     "notes": "",
     "quizWeight": 4
   },
@@ -938,10 +947,11 @@
     "status": "active",
     "sourceArticleIds": [
       "news_vocab_02",
-      "news_014"
+      "news_014",
+      "news022DJ20260520_Rabies"
     ],
-    "sourceCount": 2,
-    "frequency": 2,
+    "sourceCount": 3,
+    "frequency": 3,
     "notes": "",
     "quizWeight": 4
   },
@@ -991,10 +1001,11 @@
     "importance": 4,
     "status": "active",
     "sourceArticleIds": [
-      "news_vocab_02"
+      "news_vocab_02",
+      "news022DJ20260520_Rabies"
     ],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 2,
+    "frequency": 2,
     "notes": "",
     "quizWeight": 3
   },
@@ -1011,10 +1022,11 @@
       "news_vocab_02",
       "news_010",
       "news_011",
-      "news_014"
+      "news_014",
+      "news022DJ20260520_Rabies"
     ],
-    "sourceCount": 4,
-    "frequency": 4,
+    "sourceCount": 5,
+    "frequency": 5,
     "notes": "",
     "quizWeight": 5
   },
@@ -1030,10 +1042,11 @@
     "sourceArticleIds": [
       "news_vocab_02",
       "news_007",
-      "news_011"
+      "news_011",
+      "news022DJ20260520_Rabies"
     ],
-    "sourceCount": 3,
-    "frequency": 3,
+    "sourceCount": 4,
+    "frequency": 4,
     "notes": "",
     "quizWeight": 5
   },
@@ -1065,10 +1078,11 @@
     "status": "active",
     "sourceArticleIds": [
       "news_vocab_01",
-      "news_vocab_02"
+      "news_vocab_02",
+      "news022DJ20260520_Rabies"
     ],
-    "sourceCount": 2,
-    "frequency": 2,
+    "sourceCount": 3,
+    "frequency": 3,
     "notes": "",
     "quizWeight": 4
   },
@@ -1186,10 +1200,11 @@
     "importance": 4,
     "status": "active",
     "sourceArticleIds": [
-      "news_vocab_02"
+      "news_vocab_02",
+      "news022DJ20260520_Rabies"
     ],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 2,
+    "frequency": 2,
     "notes": "",
     "quizWeight": 3
   },
@@ -1276,10 +1291,11 @@
     "status": "active",
     "sourceArticleIds": [
       "news_vocab_02",
-      "news_011"
+      "news_011",
+      "news022DJ20260520_Rabies"
     ],
-    "sourceCount": 2,
-    "frequency": 2,
+    "sourceCount": 3,
+    "frequency": 3,
     "notes": "",
     "quizWeight": 4
   },
@@ -1503,10 +1519,11 @@
     "status": "active",
     "sourceArticleIds": [
       "news_vocab_01",
-      "news_vocab_02"
+      "news_vocab_02",
+      "news022DJ20260520_Rabies"
     ],
-    "sourceCount": 2,
-    "frequency": 2,
+    "sourceCount": 3,
+    "frequency": 3,
     "notes": "",
     "quizWeight": 4
   },
@@ -1590,10 +1607,11 @@
     "status": "active",
     "sourceArticleIds": [
       "news_vocab_02",
-      "news020DJ20260518_NeetLeak"
+      "news020DJ20260518_NeetLeak",
+      "news024_NBT20260520_Dahej"
     ],
-    "sourceCount": 2,
-    "frequency": 2,
+    "sourceCount": 3,
+    "frequency": 3,
     "notes": "",
     "quizWeight": 3
   },
@@ -2380,10 +2398,11 @@
     "status": "active",
     "sourceArticleIds": [
       "news_20260429_bengal_chunaw",
-      "news020DJ20260518_NeetLeak"
+      "news020DJ20260518_NeetLeak",
+      "news024_NBT20260520_Dahej"
     ],
-    "sourceCount": 2,
-    "frequency": 2,
+    "sourceCount": 3,
+    "frequency": 3,
     "notes": "गिरफ्तारी は名詞「逮捕」。これは分詞・形容詞として別登録。",
     "quizWeight": 3
   },
@@ -3219,10 +3238,11 @@
     "status": "active",
     "sourceArticleIds": [
       "news_008",
-      "news018DJ20260514_Barish"
+      "news018DJ20260514_Barish",
+      "news023_DJ20260520_HotSummer"
     ],
-    "sourceCount": 2,
-    "frequency": 2,
+    "sourceCount": 3,
+    "frequency": 3,
     "notes": "",
     "quizWeight": 4
   },
@@ -3373,10 +3393,11 @@
     "importance": 3,
     "status": "active",
     "sourceArticleIds": [
-      "news_008"
+      "news_008",
+      "news022DJ20260520_Rabies"
     ],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 2,
+    "frequency": 2,
     "notes": "",
     "quizWeight": 3
   },
@@ -5822,10 +5843,11 @@
     "importance": 3,
     "status": "active",
     "sourceArticleIds": [
-      "news016DJ20260513_GoldScheme"
+      "news016DJ20260513_GoldScheme",
+      "news023_DJ20260520_HotSummer"
     ],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 2,
+    "frequency": 2,
     "quizWeight": 3
   },
   {
@@ -5898,10 +5920,11 @@
     "importance": 4,
     "status": "active",
     "sourceArticleIds": [
-      "new017DJ20260514_Girls"
+      "new017DJ20260514_Girls",
+      "news022DJ20260520_Rabies"
     ],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 2,
+    "frequency": 2,
     "notes": "",
     "quizWeight": 5
   },
@@ -6085,10 +6108,11 @@
     "importance": 4,
     "status": "active",
     "sourceArticleIds": [
-      "news018DJ20260514_Barish"
+      "news018DJ20260514_Barish",
+      "news023_DJ20260520_HotSummer"
     ],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 2,
+    "frequency": 2,
     "notes": "",
     "quizWeight": 3
   },
@@ -6652,10 +6676,11 @@
     "importance": 4,
     "status": "active",
     "sourceArticleIds": [
-      "news020DJ20260518_NeetLeak"
+      "news020DJ20260518_NeetLeak",
+      "news024_NBT20260520_Dahej"
     ],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 2,
+    "frequency": 2,
     "notes": "",
     "quizWeight": 3
   },
@@ -7308,6 +7333,1008 @@
     "sourceCount": 1,
     "frequency": 1,
     "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "रेबीज",
+    "normalized": "रेबीज",
+    "pos": "名詞（男）",
+    "meaning_ja": "狂犬病",
+    "category": "医療・健康",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news022DJ20260520_Rabies"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 4
+  },
+  {
+    "word": "संक्रमित",
+    "normalized": "संक्रमित",
+    "pos": "形容詞",
+    "meaning_ja": "感染した",
+    "category": "医療・健康",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news022DJ20260520_Rabies"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 4
+  },
+  {
+    "word": "आवारा",
+    "normalized": "आवारा",
+    "pos": "形容詞",
+    "meaning_ja": "野良の、放浪する",
+    "category": "都市・環境",
+    "difficulty": 2,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news022DJ20260520_Rabies"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "主に आवारा कुत्ते",
+    "quizWeight": 3
+  },
+  {
+    "word": "सार्वजनिक स्थल",
+    "normalized": "सार्वजनिक_स्थल",
+    "pos": "名詞（男）",
+    "meaning_ja": "公共の場所",
+    "category": "行政・制度",
+    "difficulty": 4,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news022DJ20260520_Rabies"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "सार्वजनिक स्थान",
+    "normalized": "सार्वजनिक_स्थान",
+    "pos": "名詞（男）",
+    "meaning_ja": "公共空間",
+    "category": "行政・制度",
+    "difficulty": 3,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news022DJ20260520_Rabies"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "एसओपी",
+    "normalized": "एसओपी",
+    "pos": "名詞（女）",
+    "meaning_ja": "SOP、標準作業手順",
+    "category": "行政・制度",
+    "difficulty": 5,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news022DJ20260520_Rabies"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "Standard Operating Procedure",
+    "quizWeight": 2
+  },
+  {
+    "word": "अर्जी",
+    "normalized": "अर्जी",
+    "pos": "名詞（女）",
+    "meaning_ja": "申請、請願",
+    "category": "選挙・裁判",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news022DJ20260520_Rabies"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "लाइलाज",
+    "normalized": "लाइलाज",
+    "pos": "形容詞",
+    "meaning_ja": "不治の",
+    "category": "医療・健康",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news022DJ20260520_Rabies"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "बंध्याकरण",
+    "normalized": "बंध्याकरण",
+    "pos": "名詞（男）",
+    "meaning_ja": "不妊化、去勢手術",
+    "category": "医療・健康",
+    "difficulty": 5,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news022DJ20260520_Rabies"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "स्वतः संज्ञान",
+    "normalized": "स्वतः_संज्ञान",
+    "pos": "名詞（男）",
+    "meaning_ja": "職権による認知、自発的受理",
+    "category": "選挙・裁判",
+    "difficulty": 5,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news022DJ20260520_Rabies"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "裁判専門語",
+    "quizWeight": 3
+  },
+  {
+    "word": "एबीसी रूल",
+    "display": "एबीसी रूल",
+    "normalized": "एबीसी_रूल",
+    "pos": "名詞（男）",
+    "meaning_ja": "ABCルール（動物出生管理規則）",
+    "category": "行政・制度",
+    "difficulty": 5,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news022DJ20260520_Rabies"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "Animal Birth Control Rule",
+    "quizWeight": 2
+  },
+  {
+    "word": "वैधानिक",
+    "normalized": "वैधानिक",
+    "pos": "形容詞",
+    "meaning_ja": "法定の、法的な",
+    "category": "選挙・裁判",
+    "difficulty": 5,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news022DJ20260520_Rabies"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "जमीनी हकीकत",
+    "normalized": "जमीनी_हकीकत",
+    "pos": "名詞（女）",
+    "meaning_ja": "現場の実情",
+    "category": "社会・公共",
+    "difficulty": 4,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news022DJ20260520_Rabies"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "कानूनन",
+    "normalized": "कानूनन",
+    "pos": "副詞",
+    "meaning_ja": "法的に",
+    "category": "選挙・裁判",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news022DJ20260520_Rabies"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "संवैधानिक दायित्व",
+    "normalized": "संवैधानिक_दायित्व",
+    "pos": "名詞（男）",
+    "meaning_ja": "憲法上の義務",
+    "category": "選挙・裁判",
+    "difficulty": 5,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news022DJ20260520_Rabies"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "मौलिक अधिकार",
+    "normalized": "मौलिक_अधिकार",
+    "pos": "名詞（男）",
+    "meaning_ja": "基本的権利",
+    "category": "選挙・裁判",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news022DJ20260520_Rabies"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "憲法用語",
+    "quizWeight": 3
+  },
+  {
+    "word": "भलाई",
+    "normalized": "भलाई",
+    "pos": "名詞（女）",
+    "meaning_ja": "福祉、善",
+    "category": "社会・公共",
+    "difficulty": 3,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news022DJ20260520_Rabies"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "पशु कल्याण संगठन",
+    "normalized": "पशु_कल्याण_संगठन",
+    "pos": "名詞（男）",
+    "meaning_ja": "動物福祉団体",
+    "category": "社会・公共",
+    "difficulty": 5,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news022DJ20260520_Rabies"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 2
+  },
+  {
+    "word": "गैर-सरकारी संगठन",
+    "normalized": "गैरसरकारी_संगठन",
+    "pos": "名詞（男）",
+    "meaning_ja": "非政府組織、NGO",
+    "category": "社会・公共",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news022DJ20260520_Rabies"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "NGO",
+    "quizWeight": 3
+  },
+  {
+    "word": "शपथपत्र",
+    "normalized": "शपथपत्र",
+    "pos": "名詞（男）",
+    "meaning_ja": "宣誓供述書",
+    "category": "選挙・裁判",
+    "difficulty": 5,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news022DJ20260520_Rabies"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "अनुपालन",
+    "normalized": "अनुपालन",
+    "pos": "名詞（男）",
+    "meaning_ja": "遵守、履行",
+    "category": "行政・制度",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news022DJ20260520_Rabies"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "अनुपालन रिपोर्ट",
+    "normalized": "अनुपालन_रिपोर्ट",
+    "pos": "名詞（女）",
+    "meaning_ja": "履行報告書",
+    "category": "行政・制度",
+    "difficulty": 5,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news022DJ20260520_Rabies"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 2
+  },
+  {
+    "word": "यूथनेशिया",
+    "normalized": "यूथनेशिया",
+    "pos": "名詞（男）",
+    "meaning_ja": "安楽死",
+    "category": "医療・健康",
+    "difficulty": 5,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news022DJ20260520_Rabies"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "外来語表現",
+    "quizWeight": 2
+  },
+  {
+    "word": "इम्यूनोग्लोबुलिन",
+    "normalized": "इम्यूनोग्लोबुलिन",
+    "pos": "名詞（男）",
+    "meaning_ja": "免疫グロブリン",
+    "category": "医療・健康",
+    "difficulty": 5,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news022DJ20260520_Rabies"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "医療専門語",
+    "quizWeight": 2
+  },
+  {
+    "word": "एक्सप्रेस-वे",
+    "display": "एक्सप्रेसवे",
+    "normalized": "एक्सप्रेसवे",
+    "variants": [
+      "एक्सप्रेस-वे"
+    ],
+    "pos": "名詞（男）",
+    "meaning_ja": "高速道路",
+    "category": "都市・環境",
+    "difficulty": 3,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news022DJ20260520_Rabies"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "गंभीरता",
+    "normalized": "गंभीरता",
+    "pos": "名詞（女）",
+    "meaning_ja": "深刻さ、重大性",
+    "category": "社会・公共",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news022DJ20260520_Rabies"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "सुरक्षा",
+    "normalized": "सुरक्षा",
+    "pos": "名詞（女）",
+    "meaning_ja": "安全、保護",
+    "category": "行政・制度",
+    "difficulty": 2,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news022DJ20260520_Rabies"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "公共安全・治安文脈で頻出",
+    "quizWeight": 4
+  },
+  {
+    "word": "सार्वजनिक",
+    "normalized": "सार्वजनिक",
+    "pos": "形容詞",
+    "meaning_ja": "公共の、公的な",
+    "category": "行政・制度",
+    "difficulty": 2,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news022DJ20260520_Rabies"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 4
+  },
+  {
+    "word": "नागरिक",
+    "normalized": "नागरिक",
+    "pos": "名詞（男）",
+    "meaning_ja": "市民、国民",
+    "category": "行政・制度",
+    "difficulty": 2,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news022DJ20260520_Rabies"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "行政・憲法文脈頻出",
+    "quizWeight": 4
+  },
+  {
+    "word": "संवैधानिक",
+    "normalized": "संवैधानिक",
+    "pos": "形容詞",
+    "meaning_ja": "憲法上の、憲法的な",
+    "category": "選挙・裁判",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news022DJ20260520_Rabies"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "法律・憲法文脈",
+    "quizWeight": 3
+  },
+  {
+    "word": "राज्य",
+    "normalized": "राज्य",
+    "pos": "名詞（男）",
+    "meaning_ja": "州、国家",
+    "category": "行政・制度",
+    "difficulty": 2,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news022DJ20260520_Rabies"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "インド行政頻出語",
+    "quizWeight": 4
+  },
+  {
+    "word": "केंद्र शासित प्रदेश",
+    "normalized": "केंद्र_शासित_प्रदेश",
+    "pos": "名詞（男）",
+    "meaning_ja": "連邦直轄領",
+    "category": "行政・制度",
+    "difficulty": 5,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news022DJ20260520_Rabies"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "Union Territory",
+    "quizWeight": 3
+  },
+  {
+    "word": "प्रकोप",
+    "display": "प्रकोप",
+    "normalized": "प्रकोप",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "猛威、深刻な被害、災厄の広がり",
+    "category": "調査・統計",
+    "importance": 4,
+    "sourceCount": 1,
+    "sourceArticleIds": [
+      "news023_DJ20260520_HotSummer"
+    ],
+    "frequency": 1,
+    "status": "active"
+  },
+  {
+    "word": "तपिश",
+    "display": "तपिश",
+    "normalized": "तपिश",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "熱気、焼けつく暑さ",
+    "category": "調査・統計",
+    "importance": 4,
+    "sourceCount": 1,
+    "sourceArticleIds": [
+      "news023_DJ20260520_HotSummer"
+    ],
+    "frequency": 1,
+    "status": "active"
+  },
+  {
+    "word": "आसार",
+    "display": "आसार",
+    "normalized": "आसार",
+    "variants": [],
+    "pos": "名詞（男・複）",
+    "meaning_ja": "兆候、見込み、可能性",
+    "category": "調査・統計",
+    "importance": 4,
+    "sourceCount": 1,
+    "sourceArticleIds": [
+      "news023_DJ20260520_HotSummer"
+    ],
+    "frequency": 1,
+    "status": "active"
+  },
+  {
+    "word": "पारा",
+    "display": "पारा",
+    "normalized": "पारा",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "気温、水銀柱",
+    "category": "調査・統計",
+    "importance": 3,
+    "sourceCount": 1,
+    "sourceArticleIds": [
+      "news023_DJ20260520_HotSummer"
+    ],
+    "frequency": 1,
+    "status": "active"
+  },
+  {
+    "word": "डिग्री सेल्सियस",
+    "display": "डिग्री सेल्सियस",
+    "normalized": "डिग्री सेल्सियस",
+    "variants": [],
+    "pos": "名詞",
+    "meaning_ja": "摂氏、摂氏温度",
+    "category": "調査・統計",
+    "importance": 3,
+    "sourceCount": 1,
+    "sourceArticleIds": [
+      "news023_DJ20260520_HotSummer"
+    ],
+    "frequency": 1,
+    "status": "active"
+  },
+  {
+    "word": "लू",
+    "display": "लू",
+    "normalized": "लू",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "熱波、熱風",
+    "category": "調査・統計",
+    "importance": 3,
+    "sourceCount": 1,
+    "sourceArticleIds": [
+      "news023_DJ20260520_HotSummer"
+    ],
+    "frequency": 1,
+    "status": "active"
+  },
+  {
+    "word": "नौतपा",
+    "display": "नौतपा",
+    "normalized": "नौतपा",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "インド暦で最も暑い9日間、酷暑期",
+    "category": "調査・統計",
+    "importance": 4,
+    "sourceCount": 1,
+    "sourceArticleIds": [
+      "news023_DJ20260520_HotSummer"
+    ],
+    "frequency": 1,
+    "status": "active"
+  },
+  {
+    "word": "कहर",
+    "display": "कहर",
+    "normalized": "कहर",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "猛威、災厄、深刻な被害",
+    "category": "調査・統計",
+    "importance": 4,
+    "sourceCount": 1,
+    "sourceArticleIds": [
+      "news023_DJ20260520_HotSummer"
+    ],
+    "frequency": 1,
+    "status": "active"
+  },
+  {
+    "word": "तापमान",
+    "display": "तापमान",
+    "normalized": "तापमान",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "気温、温度",
+    "category": "調査・統計",
+    "importance": 3,
+    "sourceCount": 1,
+    "sourceArticleIds": [
+      "news023_DJ20260520_HotSummer"
+    ],
+    "frequency": 1,
+    "status": "active"
+  },
+  {
+    "word": "अधिकतम तापमान",
+    "display": "अधिकतम तापमान",
+    "normalized": "अधिकतम तापमान",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "最高気温",
+    "category": "調査・統計",
+    "importance": 3,
+    "sourceCount": 1,
+    "sourceArticleIds": [
+      "news023_DJ20260520_HotSummer"
+    ],
+    "frequency": 1,
+    "status": "active"
+  },
+  {
+    "word": "सामान्य",
+    "display": "सामान्य",
+    "normalized": "सामान्य",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "通常の、一般的な、平常の",
+    "category": "調査・統計",
+    "importance": 2,
+    "sourceCount": 1,
+    "sourceArticleIds": [
+      "news023_DJ20260520_HotSummer"
+    ],
+    "frequency": 1,
+    "status": "active"
+  },
+  {
+    "word": "एम्स",
+    "normalized": "एम्स",
+    "pos": "名詞（男）",
+    "meaning_ja": "AIIMS、全インド医科大学",
+    "category": "医療・健康",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news024_NBT20260520_Dahej"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "All India Institute of Medical Sciences",
+    "quizWeight": 3
+  },
+  {
+    "word": "दहेज",
+    "normalized": "दहेज",
+    "pos": "名詞（男）",
+    "meaning_ja": "持参金、嫁入り持参金",
+    "category": "事件・事故",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news024_NBT20260520_Dahej"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "インド社会問題頻出語",
+    "quizWeight": 4
+  },
+  {
+    "word": "ससुराल",
+    "normalized": "ससुराल",
+    "pos": "名詞（男）",
+    "meaning_ja": "婚家、嫁ぎ先",
+    "category": "社会・公共",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news024_NBT20260520_Dahej"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "ससुरालवाले",
+    "display": "ससुरालवाले",
+    "normalized": "ससुरालवाले",
+    "variants": [
+      "ससुराल वालों",
+      "ससुरालवाले"
+    ],
+    "pos": "名詞（男・複）",
+    "meaning_ja": "婚家側の人々、義理の家族",
+    "category": "社会・公共",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news024_NBT20260520_Dahej"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "हालत",
+    "normalized": "हालत",
+    "pos": "名詞（女）",
+    "meaning_ja": "状態、容体",
+    "category": "事件・事故",
+    "difficulty": 2,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news024_NBT20260520_Dahej"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "ニュース頻出",
+    "quizWeight": 4
+  },
+  {
+    "word": "युवती",
+    "normalized": "युवती",
+    "pos": "名詞（女）",
+    "meaning_ja": "若い女性",
+    "category": "事件・事故",
+    "difficulty": 2,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news024_NBT20260520_Dahej"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "報道頻出",
+    "quizWeight": 4
+  },
+  {
+    "word": "बिटिया",
+    "normalized": "बिटिया",
+    "pos": "名詞（女）",
+    "meaning_ja": "娘（愛情表現）",
+    "category": "社会・公共",
+    "difficulty": 3,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news024_NBT20260520_Dahej"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "口語・感情表現",
+    "quizWeight": 3
+  },
+  {
+    "word": "ससुर",
+    "normalized": "ससुर",
+    "pos": "名詞（男）",
+    "meaning_ja": "義父、舅",
+    "category": "社会・公共",
+    "difficulty": 3,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news024_NBT20260520_Dahej"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "सताना",
+    "normalized": "सताना",
+    "pos": "動詞",
+    "meaning_ja": "苦しめる、悩ませる",
+    "category": "重要動詞",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news024_NBT20260520_Dahej"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "事件・DV文脈頻出",
+    "quizWeight": 3
+  },
+  {
+    "word": "दहेज प्रताड़ना",
+    "normalized": "दहेज_प्रताड़ना",
+    "pos": "名詞（女）",
+    "meaning_ja": "持参金目的の虐待",
+    "category": "事件・事故",
+    "difficulty": 5,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news024_NBT20260520_Dahej"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "インド社会問題用語",
+    "quizWeight": 3
+  },
+  {
+    "word": "घरेलू हिंसा",
+    "normalized": "घरेलू_हिंसा",
+    "pos": "名詞（女）",
+    "meaning_ja": "家庭内暴力",
+    "category": "事件・事故",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news024_NBT20260520_Dahej"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "DV",
+    "quizWeight": 3
+  },
+  {
+    "word": "आत्महत्या",
+    "normalized": "आत्महत्या",
+    "pos": "名詞（女）",
+    "meaning_ja": "自殺",
+    "category": "事件・事故",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news024_NBT20260520_Dahej"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 4
+  },
+  {
+    "word": "मायका",
+    "normalized": "मायका",
+    "pos": "名詞（男）",
+    "meaning_ja": "女性の実家",
+    "category": "社会・公共",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news024_NBT20260520_Dahej"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "親族文化語彙",
+    "quizWeight": 3
+  },
+  {
+    "word": "ससुरालीजन",
+    "normalized": "ससुरालीजन",
+    "pos": "名詞（男・複）",
+    "meaning_ja": "婚家側の親族",
+    "category": "社会・公共",
+    "difficulty": 5,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news024_NBT20260520_Dahej"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 2
+  },
+  {
+    "word": "हिरासत",
+    "normalized": "हिरासत",
+    "pos": "名詞（女）",
+    "meaning_ja": "拘留、拘置",
+    "category": "選挙・裁判",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news024_NBT20260520_Dahej"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "警察・裁判報道頻出",
+    "quizWeight": 3
+  },
+  {
+    "word": "मानसिक प्रताड़ना",
+    "normalized": "मानसिक_प्रताड़ना",
+    "pos": "名詞（女）",
+    "meaning_ja": "精神的虐待",
+    "category": "事件・事故",
+    "difficulty": 5,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news024_NBT20260520_Dahej"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "DV・虐待文脈",
     "quizWeight": 3
   }
 ]

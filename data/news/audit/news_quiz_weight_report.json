@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-05-19T00:42:51.482Z",
+  "generatedAt": "2026-05-20T00:13:24.402Z",
   "input": "data\\news\\vocab_master.json",
   "output": "data\\news\\vocab_master_with_quiz_weight.json",
-  "totalEntries": 426,
-  "changedCount": 37,
-  "unchangedCount": 389,
+  "totalEntries": 461,
+  "changedCount": 57,
+  "unchangedCount": 404,
   "quizWeightSummary": {
     "1": 0,
     "2": 4,
-    "3": 335,
+    "3": 366,
     "4": 67,
-    "5": 20
+    "5": 24
   },
   "categorySummary": {
     "事件・事故": {
@@ -18,8 +18,8 @@
       "quizWeight": {
         "1": 0,
         "2": 0,
-        "3": 37,
-        "4": 11,
+        "3": 36,
+        "4": 12,
         "5": 1
       }
     },
@@ -34,43 +34,43 @@
       }
     },
     "医療・健康": {
-      "total": 17,
+      "total": 23,
       "quizWeight": {
         "1": 0,
         "2": 0,
-        "3": 16,
+        "3": 22,
         "4": 1,
         "5": 0
       }
     },
     "社会・公共": {
-      "total": 30,
+      "total": 35,
       "quizWeight": {
         "1": 0,
         "2": 0,
-        "3": 28,
+        "3": 33,
         "4": 0,
         "5": 2
       }
     },
     "行政・制度": {
-      "total": 47,
+      "total": 60,
       "quizWeight": {
         "1": 0,
         "2": 0,
-        "3": 32,
+        "3": 44,
         "4": 8,
-        "5": 7
+        "5": 8
       }
     },
     "選挙・裁判": {
-      "total": 48,
+      "total": 56,
       "quizWeight": {
         "1": 0,
         "2": 0,
-        "3": 37,
-        "4": 9,
-        "5": 2
+        "3": 44,
+        "4": 8,
+        "5": 4
       }
     },
     "調査・データ": {
@@ -84,11 +84,11 @@
       }
     },
     "都市・環境": {
-      "total": 44,
+      "total": 46,
       "quizWeight": {
         "1": 0,
         "2": 2,
-        "3": 40,
+        "3": 42,
         "4": 1,
         "5": 1
       }
@@ -114,13 +114,13 @@
       }
     },
     "調査・統計": {
-      "total": 2,
+      "total": 3,
       "quizWeight": {
         "1": 0,
         "2": 0,
         "3": 2,
         "4": 0,
-        "5": 0
+        "5": 1
       }
     },
     "文化・宗教": {
@@ -175,6 +175,21 @@
       ]
     },
     {
+      "index": 12,
+      "word": "हिंसक",
+      "normalized": "हिंसक",
+      "category": "事件・事故",
+      "importance": 4,
+      "sourceCount": 2,
+      "frequency": 2,
+      "oldQuizWeight": 3,
+      "newQuizWeight": 4,
+      "reason": [
+        "base_3",
+        "importance>=4 && sourceCount>=2:+1"
+      ]
+    },
+    {
       "index": 22,
       "word": "मांग",
       "normalized": "मांग",
@@ -195,8 +210,8 @@
       "normalized": "अनुमति",
       "category": "行政・制度",
       "importance": 4,
-      "sourceCount": 3,
-      "frequency": 3,
+      "sourceCount": 4,
+      "frequency": 4,
       "oldQuizWeight": 4,
       "newQuizWeight": 5,
       "reason": [
@@ -253,6 +268,52 @@
       ]
     },
     {
+      "index": 55,
+      "word": "गठन",
+      "normalized": "गठन",
+      "category": "行政・制度",
+      "importance": 4,
+      "sourceCount": 2,
+      "frequency": 2,
+      "oldQuizWeight": 3,
+      "newQuizWeight": 4,
+      "reason": [
+        "base_3",
+        "importance>=4 && sourceCount>=2:+1"
+      ]
+    },
+    {
+      "index": 59,
+      "word": "व्यवस्था",
+      "normalized": "व्यवस्था",
+      "category": "行政・制度",
+      "importance": 4,
+      "sourceCount": 3,
+      "frequency": 3,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 5,
+      "reason": [
+        "base_3",
+        "importance>=4 && sourceCount>=2:+1",
+        "sourceCount>=3:+1"
+      ]
+    },
+    {
+      "index": 66,
+      "word": "अदालत",
+      "normalized": "अदालत",
+      "category": "選挙・裁判",
+      "importance": 4,
+      "sourceCount": 2,
+      "frequency": 2,
+      "oldQuizWeight": 3,
+      "newQuizWeight": 4,
+      "reason": [
+        "base_3",
+        "importance>=4 && sourceCount>=2:+1"
+      ]
+    },
+    {
       "index": 70,
       "word": "फैसला",
       "normalized": "फैसला",
@@ -268,6 +329,22 @@
       ]
     },
     {
+      "index": 71,
+      "word": "सुप्रीम कोर्ट",
+      "normalized": "सुप्रीम_कोर्ट",
+      "category": "選挙・裁判",
+      "importance": 4,
+      "sourceCount": 3,
+      "frequency": 3,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 5,
+      "reason": [
+        "base_3",
+        "importance>=4 && sourceCount>=2:+1",
+        "sourceCount>=3:+1"
+      ]
+    },
+    {
       "index": 76,
       "word": "सुनवाई",
       "normalized": "सुनवाई",
@@ -280,6 +357,22 @@
       "reason": [
         "base_3",
         "importance>=4 && sourceCount>=2:+1"
+      ]
+    },
+    {
+      "index": 84,
+      "word": "याचिका",
+      "normalized": "याचिका",
+      "category": "選挙・裁判",
+      "importance": 4,
+      "sourceCount": 3,
+      "frequency": 3,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 5,
+      "reason": [
+        "base_3",
+        "importance>=4 && sourceCount>=2:+1",
+        "sourceCount>=3:+1"
       ]
     },
     {
@@ -695,6 +788,202 @@
       "reason": [
         "base_3"
       ]
+    },
+    {
+      "index": 426,
+      "word": "रेबीज",
+      "normalized": "रेबीज",
+      "category": "医療・健康",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 427,
+      "word": "संक्रमित",
+      "normalized": "संक्रमित",
+      "category": "医療・健康",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 431,
+      "word": "एसओपी",
+      "normalized": "एसओपी",
+      "category": "行政・制度",
+      "importance": 3,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 2,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 436,
+      "word": "एबीसी रूल",
+      "normalized": "एबीसी_रूल",
+      "category": "行政・制度",
+      "importance": 3,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 2,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 439,
+      "word": "मूल्यांकन",
+      "normalized": "मूल्यांकन",
+      "category": "調査・統計",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 3,
+      "newQuizWeight": 5,
+      "reason": [
+        "force_high"
+      ]
+    },
+    {
+      "index": 445,
+      "word": "पशु कल्याण संगठन",
+      "normalized": "पशु_कल्याण_संगठन",
+      "category": "社会・公共",
+      "importance": 3,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 2,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 449,
+      "word": "अनुपालन रिपोर्ट",
+      "normalized": "अनुपालन_रिपोर्ट",
+      "category": "行政・制度",
+      "importance": 3,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 2,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 450,
+      "word": "यूथनेशिया",
+      "normalized": "यूथनेशिया",
+      "category": "医療・健康",
+      "importance": 3,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 2,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 451,
+      "word": "इम्यूनोग्लोबुलिन",
+      "normalized": "इम्यूनोग्लोबुलिन",
+      "category": "医療・健康",
+      "importance": 3,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 2,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 454,
+      "word": "सुरक्षा",
+      "normalized": "सुरक्षा",
+      "category": "行政・制度",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 455,
+      "word": "सार्वजनिक",
+      "normalized": "सार्वजनिक",
+      "category": "行政・制度",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 456,
+      "word": "नागरिक",
+      "normalized": "नागरिक",
+      "category": "行政・制度",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 458,
+      "word": "राज्य",
+      "normalized": "राज्य",
+      "category": "行政・制度",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 460,
+      "word": "विभाग",
+      "normalized": "विभाग",
+      "category": "行政・制度",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
     }
   ],
   "auditItems": [
@@ -882,12 +1171,13 @@
       "normalized": "हिंसक",
       "category": "事件・事故",
       "importance": 4,
-      "sourceCount": 1,
-      "frequency": 1,
+      "sourceCount": 2,
+      "frequency": 2,
       "oldQuizWeight": 3,
-      "newQuizWeight": 3,
+      "newQuizWeight": 4,
       "reason": [
-        "base_3"
+        "base_3",
+        "importance>=4 && sourceCount>=2:+1"
       ]
     },
     {
@@ -1268,13 +1558,14 @@
       "normalized": "क्षमता",
       "category": "社会・公共",
       "importance": 3,
-      "sourceCount": 4,
-      "frequency": 4,
+      "sourceCount": 5,
+      "frequency": 5,
       "oldQuizWeight": 5,
       "newQuizWeight": 5,
       "reason": [
         "base_3",
         "sourceCount>=3:+1",
+        "sourceCount>=5:+1",
         "importance3 && sourceCount>=4:+0.5"
       ]
     },
@@ -1368,14 +1659,15 @@
       "normalized": "अधिकारी",
       "category": "行政・制度",
       "importance": 4,
-      "sourceCount": 4,
-      "frequency": 4,
+      "sourceCount": 5,
+      "frequency": 5,
       "oldQuizWeight": 5,
       "newQuizWeight": 5,
       "reason": [
         "base_3",
         "importance>=4 && sourceCount>=2:+1",
-        "sourceCount>=3:+1"
+        "sourceCount>=3:+1",
+        "sourceCount>=5:+1"
       ]
     },
     {
@@ -1384,8 +1676,8 @@
       "normalized": "अनुमति",
       "category": "行政・制度",
       "importance": 4,
-      "sourceCount": 3,
-      "frequency": 3,
+      "sourceCount": 4,
+      "frequency": 4,
       "oldQuizWeight": 4,
       "newQuizWeight": 5,
       "reason": [
@@ -1505,12 +1797,13 @@
       "normalized": "गठन",
       "category": "行政・制度",
       "importance": 4,
-      "sourceCount": 1,
-      "frequency": 1,
+      "sourceCount": 2,
+      "frequency": 2,
       "oldQuizWeight": 3,
-      "newQuizWeight": 3,
+      "newQuizWeight": 4,
       "reason": [
-        "base_3"
+        "base_3",
+        "importance>=4 && sourceCount>=2:+1"
       ]
     },
     {
@@ -1519,14 +1812,15 @@
       "normalized": "निगरानी",
       "category": "行政・制度",
       "importance": 4,
-      "sourceCount": 4,
-      "frequency": 4,
+      "sourceCount": 5,
+      "frequency": 5,
       "oldQuizWeight": 5,
       "newQuizWeight": 5,
       "reason": [
         "base_3",
         "importance>=4 && sourceCount>=2:+1",
-        "sourceCount>=3:+1"
+        "sourceCount>=3:+1",
+        "sourceCount>=5:+1"
       ]
     },
     {
@@ -1535,8 +1829,8 @@
       "normalized": "निर्देश",
       "category": "行政・制度",
       "importance": 4,
-      "sourceCount": 3,
-      "frequency": 3,
+      "sourceCount": 4,
+      "frequency": 4,
       "oldQuizWeight": 5,
       "newQuizWeight": 5,
       "reason": [
@@ -1565,13 +1859,14 @@
       "normalized": "व्यवस्था",
       "category": "行政・制度",
       "importance": 4,
-      "sourceCount": 2,
-      "frequency": 2,
+      "sourceCount": 3,
+      "frequency": 3,
       "oldQuizWeight": 4,
-      "newQuizWeight": 4,
+      "newQuizWeight": 5,
       "reason": [
         "base_3",
-        "importance>=4 && sourceCount>=2:+1"
+        "importance>=4 && sourceCount>=2:+1",
+        "sourceCount>=3:+1"
       ]
     },
     {
@@ -1666,12 +1961,13 @@
       "normalized": "अदालत",
       "category": "選挙・裁判",
       "importance": 4,
-      "sourceCount": 1,
-      "frequency": 1,
+      "sourceCount": 2,
+      "frequency": 2,
       "oldQuizWeight": 3,
-      "newQuizWeight": 3,
+      "newQuizWeight": 4,
       "reason": [
-        "base_3"
+        "base_3",
+        "importance>=4 && sourceCount>=2:+1"
       ]
     },
     {
@@ -1740,13 +2036,14 @@
       "normalized": "सुप्रीम_कोर्ट",
       "category": "選挙・裁判",
       "importance": 4,
-      "sourceCount": 2,
-      "frequency": 2,
+      "sourceCount": 3,
+      "frequency": 3,
       "oldQuizWeight": 4,
-      "newQuizWeight": 4,
+      "newQuizWeight": 5,
       "reason": [
         "base_3",
-        "importance>=4 && sourceCount>=2:+1"
+        "importance>=4 && sourceCount>=2:+1",
+        "sourceCount>=3:+1"
       ]
     },
     {
@@ -1926,13 +2223,14 @@
       "normalized": "याचिका",
       "category": "選挙・裁判",
       "importance": 4,
-      "sourceCount": 2,
-      "frequency": 2,
+      "sourceCount": 3,
+      "frequency": 3,
       "oldQuizWeight": 4,
-      "newQuizWeight": 4,
+      "newQuizWeight": 5,
       "reason": [
         "base_3",
-        "importance>=4 && sourceCount>=2:+1"
+        "importance>=4 && sourceCount>=2:+1",
+        "sourceCount>=3:+1"
       ]
     },
     {
@@ -6755,6 +7053,496 @@
       "sourceCount": 1,
       "frequency": 1,
       "oldQuizWeight": 3,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 426,
+      "word": "रेबीज",
+      "normalized": "रेबीज",
+      "category": "医療・健康",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 427,
+      "word": "संक्रमित",
+      "normalized": "संक्रमित",
+      "category": "医療・健康",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 428,
+      "word": "आवारा",
+      "normalized": "आवारा",
+      "category": "都市・環境",
+      "importance": 3,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 3,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 429,
+      "word": "सार्वजनिक स्थल",
+      "normalized": "सार्वजनिक_स्थल",
+      "category": "行政・制度",
+      "importance": 3,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 3,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 430,
+      "word": "सार्वजनिक स्थान",
+      "normalized": "सार्वजनिक_स्थान",
+      "category": "行政・制度",
+      "importance": 3,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 3,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 431,
+      "word": "एसओपी",
+      "normalized": "एसओपी",
+      "category": "行政・制度",
+      "importance": 3,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 2,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 432,
+      "word": "अर्जी",
+      "normalized": "अर्जी",
+      "category": "選挙・裁判",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 3,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 433,
+      "word": "लाइलाज",
+      "normalized": "लाइलाज",
+      "category": "医療・健康",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 3,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 434,
+      "word": "बंध्याकरण",
+      "normalized": "बंध्याकरण",
+      "category": "医療・健康",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 3,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 435,
+      "word": "स्वतः संज्ञान",
+      "normalized": "स्वतः_संज्ञान",
+      "category": "選挙・裁判",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 3,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 436,
+      "word": "एबीसी रूल",
+      "normalized": "एबीसी_रूल",
+      "category": "行政・制度",
+      "importance": 3,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 2,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 437,
+      "word": "वैधानिक",
+      "normalized": "वैधानिक",
+      "category": "選挙・裁判",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 3,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 438,
+      "word": "जमीनी हकीकत",
+      "normalized": "जमीनी_हकीकत",
+      "category": "社会・公共",
+      "importance": 3,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 3,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 439,
+      "word": "मूल्यांकन",
+      "normalized": "मूल्यांकन",
+      "category": "調査・統計",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 3,
+      "newQuizWeight": 5,
+      "reason": [
+        "force_high"
+      ]
+    },
+    {
+      "index": 440,
+      "word": "प्रोटोकाल",
+      "normalized": "प्रोटोकॉल",
+      "category": "行政・制度",
+      "importance": 3,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 3,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 441,
+      "word": "कानूनन",
+      "normalized": "कानूनन",
+      "category": "選挙・裁判",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 3,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 442,
+      "word": "संवैधानिक दायित्व",
+      "normalized": "संवैधानिक_दायित्व",
+      "category": "選挙・裁判",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 3,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 443,
+      "word": "मौलिक अधिकार",
+      "normalized": "मौलिक_अधिकार",
+      "category": "選挙・裁判",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 3,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 444,
+      "word": "भलाई",
+      "normalized": "भलाई",
+      "category": "社会・公共",
+      "importance": 3,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 3,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 445,
+      "word": "पशु कल्याण संगठन",
+      "normalized": "पशु_कल्याण_संगठन",
+      "category": "社会・公共",
+      "importance": 3,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 2,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 446,
+      "word": "गैर-सरकारी संगठन",
+      "normalized": "गैरसरकारी_संगठन",
+      "category": "社会・公共",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 3,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 447,
+      "word": "शपथपत्र",
+      "normalized": "शपथपत्र",
+      "category": "選挙・裁判",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 3,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 448,
+      "word": "अनुपालन",
+      "normalized": "अनुपालन",
+      "category": "行政・制度",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 3,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 449,
+      "word": "अनुपालन रिपोर्ट",
+      "normalized": "अनुपालन_रिपोर्ट",
+      "category": "行政・制度",
+      "importance": 3,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 2,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 450,
+      "word": "यूथनेशिया",
+      "normalized": "यूथनेशिया",
+      "category": "医療・健康",
+      "importance": 3,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 2,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 451,
+      "word": "इम्यूनोग्लोबुलिन",
+      "normalized": "इम्यूनोग्लोबुलिन",
+      "category": "医療・健康",
+      "importance": 3,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 2,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 452,
+      "word": "एक्सप्रेस-वे",
+      "normalized": "एक्सप्रेसवे",
+      "category": "都市・環境",
+      "importance": 3,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 3,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 453,
+      "word": "गंभीरता",
+      "normalized": "गंभीरता",
+      "category": "社会・公共",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 3,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 454,
+      "word": "सुरक्षा",
+      "normalized": "सुरक्षा",
+      "category": "行政・制度",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 455,
+      "word": "सार्वजनिक",
+      "normalized": "सार्वजनिक",
+      "category": "行政・制度",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 456,
+      "word": "नागरिक",
+      "normalized": "नागरिक",
+      "category": "行政・制度",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 457,
+      "word": "संवैधानिक",
+      "normalized": "संवैधानिक",
+      "category": "選挙・裁判",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 3,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 458,
+      "word": "राज्य",
+      "normalized": "राज्य",
+      "category": "行政・制度",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 459,
+      "word": "केंद्र शासित प्रदेश",
+      "normalized": "केंद्र_शासित_प्रदेश",
+      "category": "行政・制度",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 3,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 460,
+      "word": "विभाग",
+      "normalized": "विभाग",
+      "category": "行政・制度",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
       "newQuizWeight": 3,
       "reason": [
         "base_3"

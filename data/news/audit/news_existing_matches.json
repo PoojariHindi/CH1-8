@@ -1,0 +1,552 @@
+{
+  "generatedAt": "2026-05-20T03:25:13.475Z",
+  "count": 13,
+  "items": [
+    {
+      "candidateIndex": 5,
+      "word": "परिवार",
+      "display": "परिवार",
+      "normalized": "परिवार",
+      "compareKey": "परिवार",
+      "variants": [],
+      "pos": "",
+      "meaning": "",
+      "meaning_ja": "",
+      "category": "事件・事故",
+      "originalCategory": "事件・事故",
+      "importance": 3,
+      "sourceId": "news024_NBT20260520_Dahej",
+      "sourceIds": [],
+      "raw": {
+        "word": "परिवार",
+        "display": "परिवार",
+        "normalized": "परिवार",
+        "variants": [],
+        "meaning_ja": "",
+        "pos": "",
+        "category": "事件・事故",
+        "importance": 3,
+        "sourceId": "news024_NBT20260520_Dahej"
+      },
+      "checkStatus": "existing",
+      "reason": "strict key match",
+      "warnings": [
+        "missing meaning_ja",
+        "missing pos"
+      ],
+      "matchedMasterIndex": 89,
+      "matchedMaster": {
+        "index": 89,
+        "word": "परिवार",
+        "display": "",
+        "normalized": "परिवार"
+      },
+      "matchedMasterIndexes": [],
+      "matchedMasters": []
+    },
+    {
+      "candidateIndex": 6,
+      "word": "मांग",
+      "display": "मांग",
+      "normalized": "मांग",
+      "compareKey": "मांग",
+      "variants": [],
+      "pos": "",
+      "meaning": "",
+      "meaning_ja": "",
+      "category": "事件・事故",
+      "originalCategory": "事件・事故",
+      "importance": 3,
+      "sourceId": "news024_NBT20260520_Dahej",
+      "sourceIds": [],
+      "raw": {
+        "word": "मांग",
+        "display": "मांग",
+        "normalized": "मांग",
+        "variants": [],
+        "meaning_ja": "",
+        "pos": "",
+        "category": "事件・事故",
+        "importance": 3,
+        "sourceId": "news024_NBT20260520_Dahej"
+      },
+      "checkStatus": "existing",
+      "reason": "strict key match",
+      "warnings": [
+        "missing meaning_ja",
+        "missing pos"
+      ],
+      "matchedMasterIndex": 22,
+      "matchedMaster": {
+        "index": 22,
+        "word": "मांग",
+        "display": "",
+        "normalized": "मांग"
+      },
+      "matchedMasterIndexes": [],
+      "matchedMasters": []
+    },
+    {
+      "candidateIndex": 8,
+      "word": "जांच",
+      "display": "जांच",
+      "normalized": "जांच",
+      "compareKey": "जांच",
+      "variants": [],
+      "pos": "",
+      "meaning": "",
+      "meaning_ja": "",
+      "category": "事件・事故",
+      "originalCategory": "事件・事故",
+      "importance": 3,
+      "sourceId": "news024_NBT20260520_Dahej",
+      "sourceIds": [],
+      "raw": {
+        "word": "जांच",
+        "display": "जांच",
+        "normalized": "जांच",
+        "variants": [],
+        "meaning_ja": "",
+        "pos": "",
+        "category": "事件・事故",
+        "importance": 3,
+        "sourceId": "news024_NBT20260520_Dahej"
+      },
+      "checkStatus": "existing",
+      "reason": "strict key match",
+      "warnings": [
+        "missing meaning_ja",
+        "missing pos"
+      ],
+      "matchedMasterIndex": 3,
+      "matchedMaster": {
+        "index": 3,
+        "word": "जांच",
+        "display": "",
+        "normalized": "जांच"
+      },
+      "matchedMasterIndexes": [],
+      "matchedMasters": []
+    },
+    {
+      "candidateIndex": 12,
+      "word": "मौत",
+      "display": "मौत",
+      "normalized": "मौत",
+      "compareKey": "मौत",
+      "variants": [],
+      "pos": "",
+      "meaning": "",
+      "meaning_ja": "",
+      "category": "事件・事故",
+      "originalCategory": "事件・事故",
+      "importance": 3,
+      "sourceId": "news024_NBT20260520_Dahej",
+      "sourceIds": [],
+      "raw": {
+        "word": "मौत",
+        "display": "मौत",
+        "normalized": "मौत",
+        "variants": [],
+        "meaning_ja": "",
+        "pos": "",
+        "category": "事件・事故",
+        "importance": 3,
+        "sourceId": "news024_NBT20260520_Dahej"
+      },
+      "checkStatus": "existing",
+      "reason": "strict key match",
+      "warnings": [
+        "missing meaning_ja",
+        "missing pos"
+      ],
+      "matchedMasterIndex": 5,
+      "matchedMaster": {
+        "index": 5,
+        "word": "मौत",
+        "display": "",
+        "normalized": "मौत"
+      },
+      "matchedMasterIndexes": [],
+      "matchedMasters": []
+    },
+    {
+      "candidateIndex": 15,
+      "word": "गिरफ्तार",
+      "display": "गिरफ्तार",
+      "normalized": "गिरफ्तार",
+      "compareKey": "गिरफ्तार",
+      "variants": [],
+      "pos": "",
+      "meaning": "",
+      "meaning_ja": "",
+      "category": "事件・事故",
+      "originalCategory": "事件・事故",
+      "importance": 3,
+      "sourceId": "news024_NBT20260520_Dahej",
+      "sourceIds": [],
+      "raw": {
+        "word": "गिरफ्तार",
+        "display": "गिरफ्तार",
+        "normalized": "गिरफ्तार",
+        "variants": [],
+        "meaning_ja": "",
+        "pos": "",
+        "category": "事件・事故",
+        "importance": 3,
+        "sourceId": "news024_NBT20260520_Dahej"
+      },
+      "checkStatus": "existing",
+      "reason": "strict key match",
+      "warnings": [
+        "missing meaning_ja",
+        "missing pos"
+      ],
+      "matchedMasterIndex": 134,
+      "matchedMaster": {
+        "index": 134,
+        "word": "गिरफ्तार",
+        "display": "",
+        "normalized": "गिरफ्तार"
+      },
+      "matchedMasterIndexes": [],
+      "matchedMasters": []
+    },
+    {
+      "candidateIndex": 24,
+      "word": "संदिग्ध",
+      "display": "संदिग्ध",
+      "normalized": "संदिग्ध",
+      "compareKey": "संदिग्ध",
+      "variants": [],
+      "pos": "",
+      "meaning": "",
+      "meaning_ja": "",
+      "category": "事件・事故",
+      "originalCategory": "事件・事故",
+      "importance": 3,
+      "sourceId": "news024_NBT20260520_Dahej",
+      "sourceIds": [],
+      "raw": {
+        "word": "संदिग्ध",
+        "display": "संदिग्ध",
+        "normalized": "संदिग्ध",
+        "variants": [],
+        "meaning_ja": "",
+        "pos": "",
+        "category": "事件・事故",
+        "importance": 3,
+        "sourceId": "news024_NBT20260520_Dahej"
+      },
+      "checkStatus": "existing",
+      "reason": "strict key match",
+      "warnings": [
+        "missing meaning_ja",
+        "missing pos"
+      ],
+      "matchedMasterIndex": 388,
+      "matchedMaster": {
+        "index": 388,
+        "word": "संदिग्ध",
+        "display": "संदिग्ध",
+        "normalized": "संदिग्ध"
+      },
+      "matchedMasterIndexes": [],
+      "matchedMasters": []
+    },
+    {
+      "candidateIndex": 32,
+      "word": "आरोप",
+      "display": "आरोप",
+      "normalized": "आरोप",
+      "compareKey": "आरोप",
+      "variants": [],
+      "pos": "",
+      "meaning": "",
+      "meaning_ja": "",
+      "category": "事件・事故",
+      "originalCategory": "事件・事故",
+      "importance": 3,
+      "sourceId": "news024_NBT20260520_Dahej",
+      "sourceIds": [],
+      "raw": {
+        "word": "आरोप",
+        "display": "आरोप",
+        "normalized": "आरोप",
+        "variants": [],
+        "meaning_ja": "",
+        "pos": "",
+        "category": "事件・事故",
+        "importance": 3,
+        "sourceId": "news024_NBT20260520_Dahej"
+      },
+      "checkStatus": "existing",
+      "reason": "strict key match",
+      "warnings": [
+        "missing meaning_ja",
+        "missing pos"
+      ],
+      "matchedMasterIndex": 407,
+      "matchedMaster": {
+        "index": 407,
+        "word": "आरोप",
+        "display": "",
+        "normalized": "आरोप"
+      },
+      "matchedMasterIndexes": [],
+      "matchedMasters": []
+    },
+    {
+      "candidateIndex": 41,
+      "word": "पुलिस",
+      "display": "पुलिस",
+      "normalized": "पुलिस",
+      "compareKey": "पुलिस",
+      "variants": [],
+      "pos": "",
+      "meaning": "",
+      "meaning_ja": "",
+      "category": "事件・事故",
+      "originalCategory": "事件・事故",
+      "importance": 3,
+      "sourceId": "news024_NBT20260520_Dahej",
+      "sourceIds": [],
+      "raw": {
+        "word": "पुलिस",
+        "display": "पुलिस",
+        "normalized": "पुलिस",
+        "variants": [],
+        "meaning_ja": "",
+        "pos": "",
+        "category": "事件・事故",
+        "importance": 3,
+        "sourceId": "news024_NBT20260520_Dahej"
+      },
+      "checkStatus": "existing",
+      "reason": "strict key match",
+      "warnings": [
+        "missing meaning_ja",
+        "missing pos"
+      ],
+      "matchedMasterIndex": 0,
+      "matchedMaster": {
+        "index": 0,
+        "word": "पुलिस",
+        "display": "",
+        "normalized": "पुलिस"
+      },
+      "matchedMasterIndexes": [],
+      "matchedMasters": []
+    },
+    {
+      "candidateIndex": 65,
+      "word": "पोस्टमॉर्टम",
+      "display": "पोस्टमॉर्टम",
+      "normalized": "पोस्टमॉर्टम",
+      "compareKey": "पोस्टमॉर्टम",
+      "variants": [],
+      "pos": "",
+      "meaning": "",
+      "meaning_ja": "",
+      "category": "事件・事故",
+      "originalCategory": "事件・事故",
+      "importance": 3,
+      "sourceId": "news024_NBT20260520_Dahej",
+      "sourceIds": [],
+      "raw": {
+        "word": "पोस्टमॉर्टम",
+        "display": "पोस्टमॉर्टम",
+        "normalized": "पोस्टमॉर्टम",
+        "variants": [],
+        "meaning_ja": "",
+        "pos": "",
+        "category": "事件・事故",
+        "importance": 3,
+        "sourceId": "news024_NBT20260520_Dahej"
+      },
+      "checkStatus": "existing",
+      "reason": "strict key match",
+      "warnings": [
+        "missing meaning_ja",
+        "missing pos"
+      ],
+      "matchedMasterIndex": 8,
+      "matchedMaster": {
+        "index": 8,
+        "word": "पोस्टमॉर्टम",
+        "display": "",
+        "normalized": "पोस्टमॉर्टम"
+      },
+      "matchedMasterIndexes": [],
+      "matchedMasters": []
+    },
+    {
+      "candidateIndex": 75,
+      "word": "गिरफ्तारी",
+      "display": "गिरफ्तारी",
+      "normalized": "गिरफ्तारी",
+      "compareKey": "गिरफ्तारी",
+      "variants": [],
+      "pos": "",
+      "meaning": "",
+      "meaning_ja": "",
+      "category": "事件・事故",
+      "originalCategory": "事件・事故",
+      "importance": 3,
+      "sourceId": "news024_NBT20260520_Dahej",
+      "sourceIds": [],
+      "raw": {
+        "word": "गिरफ्तारी",
+        "display": "गिरफ्तारी",
+        "normalized": "गिरफ्तारी",
+        "variants": [],
+        "meaning_ja": "",
+        "pos": "",
+        "category": "事件・事故",
+        "importance": 3,
+        "sourceId": "news024_NBT20260520_Dahej"
+      },
+      "checkStatus": "existing",
+      "reason": "strict key match",
+      "warnings": [
+        "missing meaning_ja",
+        "missing pos"
+      ],
+      "matchedMasterIndex": 1,
+      "matchedMaster": {
+        "index": 1,
+        "word": "गिरफ्तारी",
+        "display": "",
+        "normalized": "गिरफ्तारी"
+      },
+      "matchedMasterIndexes": [],
+      "matchedMasters": []
+    },
+    {
+      "candidateIndex": 86,
+      "word": "घटना",
+      "display": "घटना",
+      "normalized": "घटना",
+      "compareKey": "घटना",
+      "variants": [],
+      "pos": "",
+      "meaning": "",
+      "meaning_ja": "",
+      "category": "事件・事故",
+      "originalCategory": "事件・事故",
+      "importance": 3,
+      "sourceId": "news024_NBT20260520_Dahej",
+      "sourceIds": [],
+      "raw": {
+        "word": "घटना",
+        "display": "घटना",
+        "normalized": "घटना",
+        "variants": [],
+        "meaning_ja": "",
+        "pos": "",
+        "category": "事件・事故",
+        "importance": 3,
+        "sourceId": "news024_NBT20260520_Dahej"
+      },
+      "checkStatus": "existing",
+      "reason": "strict key match",
+      "warnings": [
+        "missing meaning_ja",
+        "missing pos"
+      ],
+      "matchedMasterIndex": 2,
+      "matchedMaster": {
+        "index": 2,
+        "word": "घटना",
+        "display": "",
+        "normalized": "घटना"
+      },
+      "matchedMasterIndexes": [],
+      "matchedMasters": []
+    },
+    {
+      "candidateIndex": 137,
+      "word": "थाना",
+      "display": "थाना",
+      "normalized": "थाना",
+      "compareKey": "थाना",
+      "variants": [],
+      "pos": "",
+      "meaning": "",
+      "meaning_ja": "",
+      "category": "事件・事故",
+      "originalCategory": "事件・事故",
+      "importance": 3,
+      "sourceId": "news024_NBT20260520_Dahej",
+      "sourceIds": [],
+      "raw": {
+        "word": "थाना",
+        "display": "थाना",
+        "normalized": "थाना",
+        "variants": [],
+        "meaning_ja": "",
+        "pos": "",
+        "category": "事件・事故",
+        "importance": 3,
+        "sourceId": "news024_NBT20260520_Dahej"
+      },
+      "checkStatus": "existing",
+      "reason": "strict key match",
+      "warnings": [
+        "missing meaning_ja",
+        "missing pos"
+      ],
+      "matchedMasterIndex": 4,
+      "matchedMaster": {
+        "index": 4,
+        "word": "थाना",
+        "display": "",
+        "normalized": "थाना"
+      },
+      "matchedMasterIndexes": [],
+      "matchedMasters": []
+    },
+    {
+      "candidateIndex": 149,
+      "word": "गंभीर",
+      "display": "गंभीर",
+      "normalized": "गंभीर",
+      "compareKey": "गंभीर",
+      "variants": [],
+      "pos": "",
+      "meaning": "",
+      "meaning_ja": "",
+      "category": "事件・事故",
+      "originalCategory": "事件・事故",
+      "importance": 3,
+      "sourceId": "news024_NBT20260520_Dahej",
+      "sourceIds": [],
+      "raw": {
+        "word": "गंभीर",
+        "display": "गंभीर",
+        "normalized": "गंभीर",
+        "variants": [],
+        "meaning_ja": "",
+        "pos": "",
+        "category": "事件・事故",
+        "importance": 3,
+        "sourceId": "news024_NBT20260520_Dahej"
+      },
+      "checkStatus": "existing",
+      "reason": "strict key match",
+      "warnings": [
+        "missing meaning_ja",
+        "missing pos"
+      ],
+      "matchedMasterIndex": 33,
+      "matchedMaster": {
+        "index": 33,
+        "word": "गंभीर",
+        "display": "",
+        "normalized": "गंभीर"
+      },
+      "matchedMasterIndexes": [],
+      "matchedMasters": []
+    }
+  ]
+}

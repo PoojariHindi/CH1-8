@@ -1,0 +1,18 @@
+{
+  "generatedAt": "2026-05-20T04:40:42.747Z",
+  "paths": {
+    "master": "data\\news\\vocab_master.json",
+    "quiz": "data\\news\\quizzes\\vocab.json"
+  },
+  "counts": {
+    "master": 485,
+    "quiz": 485,
+    "includedInQuiz": 485,
+    "missingFromQuiz": 0,
+    "duplicateMasterKeys": 0,
+    "duplicateQuizKeys": 0
+  },
+  "missingFromQuiz": [],
+  "duplicateMasterKeys": [],
+  "duplicateQuizKeys": []
+}
