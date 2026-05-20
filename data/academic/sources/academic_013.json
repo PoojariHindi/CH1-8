@@ -1,0 +1,255 @@
+{
+  "id": "academic_013",
+  "schema_version": 1,
+
+  "title": "Bhaktikaal",
+  "author": "Kendriya Hindi Sansthan",
+  "source": "HindiSahityaKaItihas",
+  "year": 2017,
+
+  "genre": "textbook",
+  "register": "academic_prose",
+
+  "category": "読解",
+
+  "tags": [
+    "教科書",
+    "文学史",
+    "宗教",
+    "抽象語"
+  ],
+
+  "key_phrase": "पूर्व मध्यकाल अथवा भक्तिकाल",
+
+  "text": "पूर्व मध्यकाल अथवा भक्तिकाल हिंदी साहित्य में आदिकाल के बाद मध्यकाल आता है। मध्यकाल को दो भागों में बाँटा जाता है। पहले भाग को पूर्व मध्यकाल एवं दूसरे भाग को उत्तर मध्यकाल कहते हैं। पूर्व मध्यकाल को भक्तिकाल भी कहा जाता है। इस काल का समय संवत् 1375 से 1700 तक माना जाता है। इस समय तक बाहर के आक्रमण कम हो गये थे और भारत में मुगलों का शासन स्थापित हो गया था, इसलिए आदिकाल जैसे वीरता भरे साहित्य को लिखने की प्रवृत्ति कम हो गयी थी। इसके स्थान पर साहित्य में भक्ति की भावना बढ़ रही थी। भक्ति की भावना बढ़ने का एक कारण यह भी था कि लोग युद्धों से दुःखी हो गये थे और भक्ति के माध्यम से समाज का सुधार एवं मन की शांति प्राप्त करने के इच्छुक थे। भक्तिकाल की विभिन्न धाराएँ भक्तिकाल में भक्ति के अनेक रूप देखने को मिलते हैं। कुछ भक्त कवि मानते थे कि भगवान का कोई रूप, रंग, आकार नहीं होता है। वे कहते थे कि ईश्वर निर्गुण और निराकार है। इन भक्तों को निर्गुण-भक्त अथवा संत कहा जाता है और इनकी भक्ति को निर्गुण-भक्ति कहते हैं। निर्गुण भक्ति धारा की भी दो शाखाएँ हैं। एक ज्ञान-मार्गी और दूसरी प्रेम-मार्गी। दूसरे भक्त मानते थे कि भगवान का बहुत सुन्दर रूप होता है। भगवान में महान गुण होते हैं। भगवान अपने भक्तों पर दया करते हैं और भक्तों का उद्धार करने के लिए वे संसार में जन्म लेते हैं। ऐसे भक्तों को सगुण भक्त कहते हैं और इस प्रकार की भक्ति को सगुण भक्ति कहा जाता है। सगुण भक्ति धारा की भी दो शाखाएँ हैं, एक राम भक्ति शाखा और दूसरी कृष्ण भक्ति शाखा।",
+
+  "expressions": [
+    {
+      "text": "मध्यकाल को दो भागों में बाँटा जाता है",
+      "normalized": "मध्यकाल को दो भागों में बाँटा जाता है",
+      "meaning_ja": "中世は二つの部分に分けられる",
+      "type": "academic_expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "भक्ति की भावना बढ़ रही थी",
+      "normalized": "भक्ति की भावना बढ़ रही थी",
+      "meaning_ja": "信仰の感情が高まっていた",
+      "type": "academic_expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "भक्ति के माध्यम से समाज का सुधार",
+      "normalized": "भक्ति के माध्यम से समाज का सुधार",
+      "meaning_ja": "信仰を通じた社会の改善",
+      "type": "academic_expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "ईश्वर निर्गुण और निराकार है",
+      "normalized": "ईश्वर निर्गुण और निराकार है",
+      "meaning_ja": "神は属性を持たず、形を持たない",
+      "type": "religious_concept",
+      "importance": 5,
+      "status": "active"
+    },
+    {
+      "text": "भक्तों का उद्धार करने के लिए",
+      "normalized": "भक्तों का उद्धार करने के लिए",
+      "meaning_ja": "信者たちを救済するために",
+      "type": "religious_expression",
+      "importance": 4,
+      "status": "active"
+    }
+  ],
+
+  "vocab_candidates": [
+    {
+      "word": "पूर्व मध्यकाल",
+      "display": "पूर्व मध्यकाल",
+      "normalized": "पूर्व मध्यकाल",
+      "pos": "名詞句",
+      "meaning_ja": "前期中世",
+      "importance": 5,
+      "status": "active"
+    },
+    {
+      "word": "भक्तिकाल",
+      "normalized": "भक्तिकाल",
+      "pos": "名詞（男）",
+      "meaning_ja": "バクティ時代",
+      "importance": 5,
+      "status": "active"
+    },
+    {
+      "word": "मध्यकाल",
+      "normalized": "मध्यकाल",
+      "pos": "名詞（男）",
+      "meaning_ja": "中世",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "उत्तर मध्यकाल",
+      "display": "उत्तर मध्यकाल",
+      "normalized": "उत्तर मध्यकाल",
+      "pos": "名詞句",
+      "meaning_ja": "後期中世",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "आक्रमण",
+      "normalized": "आक्रमण",
+      "pos": "名詞（男）",
+      "meaning_ja": "侵攻、攻撃",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "शासन",
+      "normalized": "शासन",
+      "pos": "名詞（男）",
+      "meaning_ja": "統治、支配",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "स्थापित",
+      "normalized": "स्थापित",
+      "pos": "形容詞",
+      "meaning_ja": "確立された",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "प्रवृत्ति",
+      "normalized": "प्रवृत्ति",
+      "pos": "名詞（女）",
+      "meaning_ja": "傾向、性向",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "भक्ति",
+      "normalized": "भक्ति",
+      "pos": "名詞（女）",
+      "meaning_ja": "信仰、帰依",
+      "importance": 5,
+      "status": "active"
+    },
+    {
+      "word": "भावना",
+      "normalized": "भावना",
+      "pos": "名詞（女）",
+      "meaning_ja": "感情、思い",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "माध्यम",
+      "normalized": "माध्यम",
+      "pos": "名詞（男）",
+      "meaning_ja": "手段、媒介",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "सुधार",
+      "normalized": "सुधार",
+      "pos": "名詞（男）",
+      "meaning_ja": "改善、改革",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "इच्छुक",
+      "normalized": "इच्छुक",
+      "pos": "形容詞",
+      "meaning_ja": "望んでいる、関心のある",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "धारा",
+      "normalized": "धारा",
+      "pos": "名詞（女）",
+      "meaning_ja": "流れ、系統",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "भक्त",
+      "normalized": "भक्त",
+      "pos": "名詞（男）",
+      "meaning_ja": "信者、帰依者",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "निर्गुण",
+      "normalized": "निर्गुण",
+      "pos": "形容詞",
+      "meaning_ja": "属性を持たない、無形の",
+      "importance": 5,
+      "status": "active"
+    },
+    {
+      "word": "निराकार",
+      "normalized": "निराकार",
+      "pos": "形容詞",
+      "meaning_ja": "形を持たない、無形の",
+      "importance": 5,
+      "status": "active"
+    },
+    {
+      "word": "संत",
+      "normalized": "संत",
+      "pos": "名詞（男）",
+      "meaning_ja": "聖者、サント詩人",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "सगुण",
+      "normalized": "सगुण",
+      "pos": "形容詞",
+      "meaning_ja": "属性を持つ、有形・有形の",
+      "importance": 5,
+      "status": "active"
+    },
+    {
+      "word": "उद्धार",
+      "normalized": "उद्धार",
+      "pos": "名詞（男）",
+      "meaning_ja": "救済、解放",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+  "word": "मार्गी",
+  "normalized": "मार्गी",
+  "pos": "形容詞・名詞",
+  "meaning_ja": "〜の道に属する人、〜主義の人",
+  "importance": 4,
+  "status": "active"
+    },
+    {
+  "word": "शाखा",
+  "normalized": "शाखा",
+  "pos": "名詞（女）",
+  "meaning_ja": "支流、分派、部門",
+  "importance": 4,
+  "status": "active"
+    }
+  ],
+
+  "meta": {
+    "source_type": "manual_curated",
+    "reading_genre": "academic",
+    "dedupe_ready": true
+  }
+}

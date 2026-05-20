@@ -1,0 +1,508 @@
+[
+  {
+    "word": "पूर्व मध्यकाल",
+    "display": "पूर्व मध्यकाल",
+    "normalized": "पूर्व मध्यकाल",
+    "variants": [],
+    "pos": "名詞句",
+    "meaning_ja": "前期中世",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "宗教",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_013"
+    ],
+    "sourceTitle": "Bhaktikaal",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "भक्तिकाल",
+    "display": "भक्तिकाल",
+    "normalized": "भक्तिकाल",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "バクティ時代",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "宗教",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_013"
+    ],
+    "sourceTitle": "Bhaktikaal",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "मध्यकाल",
+    "display": "मध्यकाल",
+    "normalized": "मध्यकाल",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "中世",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "宗教",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_013"
+    ],
+    "sourceTitle": "Bhaktikaal",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "उत्तर मध्यकाल",
+    "display": "उत्तर मध्यकाल",
+    "normalized": "उत्तर मध्यकाल",
+    "variants": [],
+    "pos": "名詞句",
+    "meaning_ja": "後期中世",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "宗教",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_013"
+    ],
+    "sourceTitle": "Bhaktikaal",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "आक्रमण",
+    "display": "आक्रमण",
+    "normalized": "आक्रमण",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "侵攻、攻撃",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "宗教",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_013"
+    ],
+    "sourceTitle": "Bhaktikaal",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "शासन",
+    "display": "शासन",
+    "normalized": "शासन",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "統治、支配",
+    "importance": 3,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "宗教",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_013"
+    ],
+    "sourceTitle": "Bhaktikaal",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "स्थापित",
+    "display": "स्थापित",
+    "normalized": "स्थापित",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "確立された",
+    "importance": 3,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "宗教",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_013"
+    ],
+    "sourceTitle": "Bhaktikaal",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "प्रवृत्ति",
+    "display": "प्रवृत्ति",
+    "normalized": "प्रवृत्ति",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "傾向、性向",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "宗教",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_013"
+    ],
+    "sourceTitle": "Bhaktikaal",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "भक्ति",
+    "display": "भक्ति",
+    "normalized": "भक्ति",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "信仰、帰依",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "宗教",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_013"
+    ],
+    "sourceTitle": "Bhaktikaal",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "भावना",
+    "display": "भावना",
+    "normalized": "भावना",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "感情、思い",
+    "importance": 3,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "宗教",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_013"
+    ],
+    "sourceTitle": "Bhaktikaal",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "माध्यम",
+    "display": "माध्यम",
+    "normalized": "माध्यम",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "手段、媒介",
+    "importance": 3,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "宗教",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_013"
+    ],
+    "sourceTitle": "Bhaktikaal",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "सुधार",
+    "display": "सुधार",
+    "normalized": "सुधार",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "改善、改革",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "宗教",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_013"
+    ],
+    "sourceTitle": "Bhaktikaal",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "इच्छुक",
+    "display": "इच्छुक",
+    "normalized": "इच्छुक",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "望んでいる、関心のある",
+    "importance": 3,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "宗教",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_013"
+    ],
+    "sourceTitle": "Bhaktikaal",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "धारा",
+    "display": "धारा",
+    "normalized": "धारा",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "流れ、系統",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "宗教",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_013"
+    ],
+    "sourceTitle": "Bhaktikaal",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "भक्त",
+    "display": "भक्त",
+    "normalized": "भक्त",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "信者、帰依者",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "宗教",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_013"
+    ],
+    "sourceTitle": "Bhaktikaal",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "निर्गुण",
+    "display": "निर्गुण",
+    "normalized": "निर्गुण",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "属性を持たない、無形の",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "宗教",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_013"
+    ],
+    "sourceTitle": "Bhaktikaal",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "निराकार",
+    "display": "निराकार",
+    "normalized": "निराकार",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "形を持たない、無形の",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "宗教",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_013"
+    ],
+    "sourceTitle": "Bhaktikaal",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "संत",
+    "display": "संत",
+    "normalized": "संत",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "聖者、サント詩人",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "宗教",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_013"
+    ],
+    "sourceTitle": "Bhaktikaal",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "सगुण",
+    "display": "सगुण",
+    "normalized": "सगुण",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "属性を持つ、有形・有形の",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "宗教",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_013"
+    ],
+    "sourceTitle": "Bhaktikaal",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "उद्धार",
+    "display": "उद्धार",
+    "normalized": "उद्धार",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "救済、解放",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "宗教",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_013"
+    ],
+    "sourceTitle": "Bhaktikaal",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "मार्गी",
+    "display": "मार्गी",
+    "normalized": "मार्गी",
+    "variants": [],
+    "pos": "形容詞・名詞",
+    "meaning_ja": "〜の道に属する人、〜主義の人",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "宗教",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_013"
+    ],
+    "sourceTitle": "Bhaktikaal",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "शाखा",
+    "display": "शाखा",
+    "normalized": "शाखा",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "支流、分派、部門",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "宗教",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_013"
+    ],
+    "sourceTitle": "Bhaktikaal",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  }
+]

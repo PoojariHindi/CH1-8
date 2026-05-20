@@ -1,0 +1,738 @@
+[
+  {
+    "word": "साकार",
+    "display": "साकार",
+    "normalized": "साकार",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "形ある、有形の",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "宗教",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_015"
+    ],
+    "sourceTitle": "Sagun",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "कृपा",
+    "display": "कृपा",
+    "normalized": "कृपा",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "恩寵、慈悲",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "宗教",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_015"
+    ],
+    "sourceTitle": "Sagun",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "अवतार",
+    "display": "अवतार",
+    "normalized": "अवतार",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "化身、神の降臨",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "宗教",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_015"
+    ],
+    "sourceTitle": "Sagun",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "असत्य",
+    "display": "असत्य",
+    "normalized": "असत्य",
+    "variants": [],
+    "pos": "名詞・形容詞",
+    "meaning_ja": "虚偽、真実でないもの",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "宗教",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_015"
+    ],
+    "sourceTitle": "Sagun",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "लीला",
+    "display": "लीला",
+    "normalized": "लीला",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "神の戯れ、神聖な遊戯",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "宗教",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_015"
+    ],
+    "sourceTitle": "Sagun",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "शील",
+    "display": "शील",
+    "normalized": "शील",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "徳性、品性",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "宗教",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_015"
+    ],
+    "sourceTitle": "Sagun",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "आचार-विचार",
+    "display": "आचार-विचार",
+    "normalized": "आचार विचार",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "行いや考え方、生活態度",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "宗教",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_015"
+    ],
+    "sourceTitle": "Sagun",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "परम",
+    "display": "परम",
+    "normalized": "परम",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "最高の、究極の",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "宗教",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_015"
+    ],
+    "sourceTitle": "Sagun",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "दुष्ट",
+    "display": "दुष्ट",
+    "normalized": "दुष्ट",
+    "variants": [],
+    "pos": "名詞・形容詞",
+    "meaning_ja": "悪人、邪悪な",
+    "importance": 3,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "宗教",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_015"
+    ],
+    "sourceTitle": "Sagun",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "स्तुति",
+    "display": "स्तुति",
+    "normalized": "स्तुति",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "賛美、讃歌",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "宗教",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_015"
+    ],
+    "sourceTitle": "Sagun",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "काव्य",
+    "display": "काव्य",
+    "normalized": "काव्य",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "詩文学、韻文作品",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "宗教",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_015"
+    ],
+    "sourceTitle": "Sagun",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "सखा",
+    "display": "सखा",
+    "normalized": "सखा",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "友、親友",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "宗教",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_015"
+    ],
+    "sourceTitle": "Sagun",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "प्रधानता",
+    "display": "प्रधानता",
+    "normalized": "प्रधानता",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "優位、中心性",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "宗教",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_015"
+    ],
+    "sourceTitle": "Sagun",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "पद",
+    "display": "पद",
+    "normalized": "पद",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "詩句、歌",
+    "importance": 3,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "宗教",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_015"
+    ],
+    "sourceTitle": "Sagun",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "वात्सल्यपूर्ण",
+    "display": "वात्सल्यपूर्ण",
+    "normalized": "वात्सल्यपूर्ण",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "親愛・慈愛に満ちた",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "宗教",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_015"
+    ],
+    "sourceTitle": "Sagun",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "जीवात्मा",
+    "display": "जीवात्मा",
+    "normalized": "जीवात्मा",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "個我、個々の魂",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "宗教",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_015"
+    ],
+    "sourceTitle": "Sagun",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "परमात्मा",
+    "display": "परमात्मा",
+    "normalized": "परमात्मा",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "最高我、至高の魂",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "宗教",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_015"
+    ],
+    "sourceTitle": "Sagun",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "क्रीड़ा",
+    "display": "क्रीड़ा",
+    "normalized": "क्रीड़ा",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "遊戯、戯れ",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "宗教",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_015"
+    ],
+    "sourceTitle": "Sagun",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "तात्पर्य",
+    "display": "तात्पर्य",
+    "normalized": "तात्पर्य",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "意味、趣旨",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "宗教",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_015"
+    ],
+    "sourceTitle": "Sagun",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "मान्यता",
+    "display": "मान्यता",
+    "normalized": "मान्यता",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "信念、通念、承認",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "宗教",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_015"
+    ],
+    "sourceTitle": "Sagun",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "धारण करना",
+    "display": "धारण करना",
+    "normalized": "धारण करना",
+    "variants": [],
+    "pos": "動詞",
+    "meaning_ja": "身につける、引き受ける、帯びる",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "宗教",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_015"
+    ],
+    "sourceTitle": "Sagun",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "सर्ग",
+    "display": "सर्ग",
+    "normalized": "सर्ग",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "章、編",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "宗教",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_015"
+    ],
+    "sourceTitle": "Sagun",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "युग्म",
+    "display": "युग्म",
+    "normalized": "युग्म",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "対、ペア",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "宗教",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_015"
+    ],
+    "sourceTitle": "Sagun",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "उपास्य",
+    "display": "उपास्य",
+    "normalized": "उपास्य",
+    "variants": [],
+    "pos": "名詞・形容詞",
+    "meaning_ja": "崇拝対象の、崇拝されるべき存在",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "宗教",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_015"
+    ],
+    "sourceTitle": "Sagun",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "आदर्श",
+    "display": "आदर्श",
+    "normalized": "आदर्श",
+    "variants": [],
+    "pos": "名詞・形容詞",
+    "meaning_ja": "理想、模範的な",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "宗教",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_015"
+    ],
+    "sourceTitle": "Sagun",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "समन्वय",
+    "display": "समन्वय",
+    "normalized": "समन्वय",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "調和、統合、協調",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "宗教",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_015"
+    ],
+    "sourceTitle": "Sagun",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "सेवक",
+    "display": "सेवक",
+    "normalized": "सेवक",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "奉仕者、仕える人",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "宗教",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_015"
+    ],
+    "sourceTitle": "Sagun",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "सेव्य",
+    "display": "सेव्य",
+    "normalized": "सेव्य",
+    "variants": [],
+    "pos": "形容詞・名詞",
+    "meaning_ja": "仕えられるべき対象、崇拝対象",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "宗教",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_015"
+    ],
+    "sourceTitle": "Sagun",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "कल्याण",
+    "display": "कल्याण",
+    "normalized": "कल्याण",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "幸福、福祉、繁栄",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "宗教",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_015"
+    ],
+    "sourceTitle": "Sagun",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "माधुर्य",
+    "display": "माधुर्य",
+    "normalized": "माधुर्य",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "甘美さ、優美さ",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "宗教",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_015"
+    ],
+    "sourceTitle": "Sagun",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "युगल",
+    "display": "युगल",
+    "normalized": "युगल",
+    "variants": [],
+    "pos": "名詞・形容詞",
+    "meaning_ja": "対、二人組の",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "宗教",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_015"
+    ],
+    "sourceTitle": "Sagun",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "मधुर",
+    "display": "मधुर",
+    "normalized": "मधुर",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "甘美な、心地よい",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "宗教",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_015"
+    ],
+    "sourceTitle": "Sagun",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  }
+]

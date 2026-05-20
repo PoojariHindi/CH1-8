@@ -50,7 +50,7 @@
     {
       "text": "अनर्गल विस्तार से बचना चाहिए",
       "normalized": "अनर्गल विस्तार से बचना चाहिए",
-      "meaning_ja": "無駄な विस्तारを避けるべきである",
+      "meaning_ja": "無駄な詳述を避けるべきである",
       "type": "instruction",
       "importance": 4,
       "status": "active"
@@ -286,7 +286,7 @@
       "word": "विस्तार",
       "normalized": "विस्तार",
       "pos": "名詞（男）",
-      "meaning_ja": " विस्तार、詳述、広がり",
+      "meaning_ja": "詳述、拡大、広がり",
       "importance": 3,
       "status": "active"
     },

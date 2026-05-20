@@ -1,0 +1,531 @@
+[
+  {
+    "word": "उपासक",
+    "display": "उपासक",
+    "normalized": "उपासक",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "信仰者、崇拝者",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "宗教",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_014"
+    ],
+    "sourceTitle": "Nirgun",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "अंश",
+    "display": "अंश",
+    "normalized": "अंश",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "一部、部分",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "宗教",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_014"
+    ],
+    "sourceTitle": "Nirgun",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "जीव",
+    "display": "जीव",
+    "normalized": "जीव",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "個我、生命ある存在",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "宗教",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_014"
+    ],
+    "sourceTitle": "Nirgun",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "माया",
+    "display": "माया",
+    "normalized": "माया",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "マーヤー、幻影",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "宗教",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_014"
+    ],
+    "sourceTitle": "Nirgun",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "उपासना",
+    "display": "उपासना",
+    "normalized": "उपासना",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "礼拝、信仰実践",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "宗教",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_014"
+    ],
+    "sourceTitle": "Nirgun",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "सद्गुरु",
+    "display": "सद्गुरु",
+    "normalized": "सद्गुरु",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "真の師、正しい導師",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "宗教",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_014"
+    ],
+    "sourceTitle": "Nirgun",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "जाति-पाँति",
+    "display": "जाति-पाँति",
+    "normalized": "जाति पाँति",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "カーストや身分区分",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "宗教",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_014"
+    ],
+    "sourceTitle": "Nirgun",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "भेदभाव",
+    "display": "भेदभाव",
+    "normalized": "भेदभाव",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "差別、区別扱い",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "宗教",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_014"
+    ],
+    "sourceTitle": "Nirgun",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "रूढ़ि",
+    "display": "रूढ़ि",
+    "normalized": "रूढ़ि",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "因習、固定化した慣習",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "宗教",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_014"
+    ],
+    "sourceTitle": "Nirgun",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "आडंबर",
+    "display": "आडंबर",
+    "normalized": "आडंबर",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "虚飾、見せかけ",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "宗教",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_014"
+    ],
+    "sourceTitle": "Nirgun",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "पवित्रता",
+    "display": "पवित्रता",
+    "normalized": "पवित्रता",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "清浄さ、純粋さ",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "宗教",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_014"
+    ],
+    "sourceTitle": "Nirgun",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "आलोचना",
+    "display": "आलोचना",
+    "normalized": "आलोचना",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "批判、批評",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "宗教",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_014"
+    ],
+    "sourceTitle": "Nirgun",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "फलस्वरूप",
+    "display": "फलस्वरूप",
+    "normalized": "फलस्वरूप",
+    "variants": [],
+    "pos": "副詞",
+    "meaning_ja": "その結果として",
+    "importance": 3,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "宗教",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_014"
+    ],
+    "sourceTitle": "Nirgun",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "सूफी संत",
+    "display": "सूफी संत",
+    "normalized": "सूफी संत",
+    "variants": [],
+    "pos": "名詞句",
+    "meaning_ja": "スーフィー聖者",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "宗教",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_014"
+    ],
+    "sourceTitle": "Nirgun",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "एकमात्र",
+    "display": "एकमात्र",
+    "normalized": "एकमात्र",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "唯一の",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "宗教",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_014"
+    ],
+    "sourceTitle": "Nirgun",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "पीर",
+    "display": "पीर",
+    "normalized": "पीर",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "痛み、苦しみ",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "宗教",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_014"
+    ],
+    "sourceTitle": "Nirgun",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "प्रेममय",
+    "display": "प्रेममय",
+    "normalized": "प्रेममय",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "愛に満ちた",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "宗教",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_014"
+    ],
+    "sourceTitle": "Nirgun",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "विलीन",
+    "display": "विलीन",
+    "normalized": "विलीन",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "溶け込んだ、一体化した",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "宗教",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_014"
+    ],
+    "sourceTitle": "Nirgun",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "कथानक",
+    "display": "कथानक",
+    "normalized": "कथानक",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "筋、物語の筋立て",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "宗教",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_014"
+    ],
+    "sourceTitle": "Nirgun",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "दार्शनिक",
+    "display": "दार्शनिक",
+    "normalized": "दार्शनिक",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "哲学的な",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "宗教",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_014"
+    ],
+    "sourceTitle": "Nirgun",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "सार्वभौमिक",
+    "display": "सार्वभौमिक",
+    "normalized": "सार्वभौमिक",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "普遍的な、全世界的な",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "宗教",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_014"
+    ],
+    "sourceTitle": "Nirgun",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "सत्ता",
+    "display": "सत्ता",
+    "normalized": "सत्ता",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "存在、実在、力",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "宗教",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_014"
+    ],
+    "sourceTitle": "Nirgun",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "कण-कण",
+    "display": "कण-कण",
+    "normalized": "कण कण",
+    "variants": [],
+    "pos": "名詞句",
+    "meaning_ja": "一粒一粒、あらゆる微細な部分",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "宗教",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_014"
+    ],
+    "sourceTitle": "Nirgun",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  }
+]

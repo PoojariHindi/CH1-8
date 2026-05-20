@@ -1,0 +1,807 @@
+[
+  {
+    "word": "काल विभाजन",
+    "display": "काल विभाजन",
+    "normalized": "काल विभाजन",
+    "variants": [],
+    "pos": "名詞句",
+    "meaning_ja": "時代区分",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "学術",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_012"
+    ],
+    "sourceTitle": "Aadikaal",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "आदिकाल",
+    "display": "आदिकाल",
+    "normalized": "आदिकाल",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "初期時代、古期",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "学術",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_012"
+    ],
+    "sourceTitle": "Aadikaal",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "वीरगाथा काल",
+    "display": "वीरगाथा काल",
+    "normalized": "वीरगाथा काल",
+    "variants": [],
+    "pos": "名詞句",
+    "meaning_ja": "英雄叙事詩時代",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "学術",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_012"
+    ],
+    "sourceTitle": "Aadikaal",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "भक्तिकाल",
+    "display": "भक्तिकाल",
+    "normalized": "भक्तिकाल",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "バクティ時代",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "学術",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_012"
+    ],
+    "sourceTitle": "Aadikaal",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "रीतिकाल",
+    "display": "रीतिकाल",
+    "normalized": "रीतिकाल",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "作詩法時代",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "学術",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_012"
+    ],
+    "sourceTitle": "Aadikaal",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "आधुनिक काल",
+    "display": "आधुनिक काल",
+    "normalized": "आधुनिक काल",
+    "variants": [],
+    "pos": "名詞句",
+    "meaning_ja": "近代",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "学術",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_012"
+    ],
+    "sourceTitle": "Aadikaal",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "गद्य काल",
+    "display": "गद्य काल",
+    "normalized": "गद्य काल",
+    "variants": [],
+    "pos": "名詞句",
+    "meaning_ja": "散文時代",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "学術",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_012"
+    ],
+    "sourceTitle": "Aadikaal",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "नामकरण",
+    "display": "नामकरण",
+    "normalized": "नामकरण",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "命名",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "学術",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_012"
+    ],
+    "sourceTitle": "Aadikaal",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "आधार",
+    "display": "आधार",
+    "normalized": "आधार",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "基礎、根拠",
+    "importance": 3,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "学術",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_012"
+    ],
+    "sourceTitle": "Aadikaal",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "वीरतापूर्ण",
+    "display": "वीरतापूर्ण",
+    "normalized": "वीरतापूर्ण",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "英雄的な",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "学術",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_012"
+    ],
+    "sourceTitle": "Aadikaal",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "परिस्थिति",
+    "display": "परिस्थिति",
+    "normalized": "परिस्थिति",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "状況、情勢",
+    "importance": 3,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "学術",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_012"
+    ],
+    "sourceTitle": "Aadikaal",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "राजनीतिक",
+    "display": "राजनीतिक",
+    "normalized": "राजनीतिक",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "政治的な",
+    "importance": 3,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "学術",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_012"
+    ],
+    "sourceTitle": "Aadikaal",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "वातावरण",
+    "display": "वातावरण",
+    "normalized": "वातावरण",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "環境、雰囲気",
+    "importance": 3,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "学術",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_012"
+    ],
+    "sourceTitle": "Aadikaal",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "राज-दरबार",
+    "display": "राज-दरबार",
+    "normalized": "राजदरबार",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "王宮、宮廷",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "学術",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_012"
+    ],
+    "sourceTitle": "Aadikaal",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "चारण कवि",
+    "display": "चारण कवि",
+    "normalized": "चारण कवि",
+    "variants": [],
+    "pos": "名詞句",
+    "meaning_ja": "宮廷詩人",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "学術",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_012"
+    ],
+    "sourceTitle": "Aadikaal",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "रचनाकार",
+    "display": "रचनाकार",
+    "normalized": "रचनाकार",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "作者",
+    "importance": 3,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "学術",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_012"
+    ],
+    "sourceTitle": "Aadikaal",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "वर्णन",
+    "display": "वर्णन",
+    "normalized": "वर्णन",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "描写、記述",
+    "importance": 3,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "学術",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_012"
+    ],
+    "sourceTitle": "Aadikaal",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "अतिरिक्त",
+    "display": "अतिरिक्त",
+    "normalized": "अतिरिक्त",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "追加の、〜以外の",
+    "importance": 3,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "学術",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_012"
+    ],
+    "sourceTitle": "Aadikaal",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "संप्रदाय",
+    "display": "संप्रदाय",
+    "normalized": "संप्रदाय",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "宗派",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "学術",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_012"
+    ],
+    "sourceTitle": "Aadikaal",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "विशेषता",
+    "display": "विशेषता",
+    "normalized": "विशेषता",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "特徴",
+    "importance": 3,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "学術",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_012"
+    ],
+    "sourceTitle": "Aadikaal",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "अंतर",
+    "display": "अंतर",
+    "normalized": "अंतर",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "差異、差",
+    "importance": 3,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "学術",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_012"
+    ],
+    "sourceTitle": "Aadikaal",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "प्राप्त",
+    "display": "प्राप्त",
+    "normalized": "प्राप्त",
+    "variants": [],
+    "pos": "動詞・形容詞",
+    "meaning_ja": "得られた、取得した",
+    "importance": 2,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "学術",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_012"
+    ],
+    "sourceTitle": "Aadikaal",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "अति प्राचीन",
+    "display": "अति प्राचीन",
+    "normalized": "अति प्राचीन",
+    "variants": [],
+    "pos": "形容詞句",
+    "meaning_ja": "非常に古い",
+    "importance": 3,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "学術",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_012"
+    ],
+    "sourceTitle": "Aadikaal",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "काव्य",
+    "display": "काव्य",
+    "normalized": "काव्य",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "詩文学",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "学術",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_012"
+    ],
+    "sourceTitle": "Aadikaal",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "प्रबंध काव्य",
+    "display": "प्रबंध काव्य",
+    "normalized": "प्रबंध काव्य",
+    "variants": [],
+    "pos": "名詞句",
+    "meaning_ja": "叙事詩（全生涯を描く）",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "学術",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_012"
+    ],
+    "sourceTitle": "Aadikaal",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "मुक्तक काव्य",
+    "display": "मुक्तक काव्य",
+    "normalized": "मुक्तक काव्य",
+    "variants": [],
+    "pos": "名詞句",
+    "meaning_ja": "自由詩",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "学術",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_012"
+    ],
+    "sourceTitle": "Aadikaal",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "सिलसिलेवार",
+    "display": "सिलसिलेवार",
+    "normalized": "सिलसिलेवार",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "順序立った、連続した",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "学術",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_012"
+    ],
+    "sourceTitle": "Aadikaal",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "विभाजित",
+    "display": "विभाजित",
+    "normalized": "विभाजित",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "分割された",
+    "importance": 3,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "学術",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_012"
+    ],
+    "sourceTitle": "Aadikaal",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "खंड काव्य",
+    "display": "खंड काव्य",
+    "normalized": "खंड काव्य",
+    "variants": [],
+    "pos": "名詞句",
+    "meaning_ja": "叙事詩（人生の一断面を描く）",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "学術",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_012"
+    ],
+    "sourceTitle": "Aadikaal",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "साहित्यिक",
+    "display": "साहित्यिक",
+    "normalized": "साहित्यिक",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "文学的な",
+    "importance": 3,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "学術",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_012"
+    ],
+    "sourceTitle": "Aadikaal",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "सिद्धि",
+    "display": "सिद्धि",
+    "normalized": "सिद्धि",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "成就、霊的能力",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "学術",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_012"
+    ],
+    "sourceTitle": "Aadikaal",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "सूचना",
+    "display": "सूचना",
+    "normalized": "सूचना",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "知らせ、表示",
+    "importance": 2,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "学術",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_012"
+    ],
+    "sourceTitle": "Aadikaal",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "प्रवर्तक",
+    "display": "प्रवर्तक",
+    "normalized": "प्रवर्तक",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "創始者、提唱者",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "学術",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_012"
+    ],
+    "sourceTitle": "Aadikaal",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "प्रचार",
+    "display": "प्रचार",
+    "normalized": "प्रचार",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "普及、布教",
+    "importance": 3,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "学術",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_012"
+    ],
+    "sourceTitle": "Aadikaal",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "धार्मिक भावना",
+    "display": "धार्मिक भावना",
+    "normalized": "धार्मिक भावना",
+    "variants": [],
+    "pos": "名詞句",
+    "meaning_ja": "宗教的感情",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "学術",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_012"
+    ],
+    "sourceTitle": "Aadikaal",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  }
+]

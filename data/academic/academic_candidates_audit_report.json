@@ -1,660 +1,732 @@
 {
   "summary": {
-    "candidateFiles": 12,
-    "totalCandidates": 282,
-    "newCandidates": 27,
-    "existingCandidates": 255,
+    "candidateFiles": 16,
+    "totalCandidates": 394,
+    "newCandidates": 30,
+    "existingCandidates": 364,
     "duplicateCandidates": 0,
     "hardStopwords": 0,
     "softStopwordReviews": 0
   },
   "newCandidates": [
     {
-      "word": "अवधारणा",
-      "display": "अवधारणा",
-      "normalized": "अवधारणा",
+      "word": "अवतार",
+      "display": "अवतार",
+      "normalized": "अवतार",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "化身、神の降臨",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学史",
+        "宗教",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_015"
+      ],
+      "sourceTitle": "Sagun",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "उपास्य",
+      "display": "उपास्य",
+      "normalized": "उपास्य",
+      "variants": [],
+      "pos": "名詞・形容詞",
+      "meaning_ja": "崇拝対象の、崇拝されるべき存在",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学史",
+        "宗教",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_015"
+      ],
+      "sourceTitle": "Sagun",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "कल्याण",
+      "display": "कल्याण",
+      "normalized": "कल्याण",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "幸福、福祉、繁栄",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学史",
+        "宗教",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_015"
+      ],
+      "sourceTitle": "Sagun",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "जीवात्मा",
+      "display": "जीवात्मा",
+      "normalized": "जीवात्मा",
       "variants": [],
       "pos": "名詞（女）",
-      "meaning_ja": "概念",
+      "meaning_ja": "個我、個々の魂",
       "importance": 5,
       "status": "active",
       "category": "academic",
       "tags": [
         "教科書",
-        "文学",
-        "学術",
+        "文学史",
+        "宗教",
         "抽象語"
       ],
       "sourceIds": [
-        "academic_011"
+        "academic_015"
       ],
-      "sourceTitle": "Aamukh",
+      "sourceTitle": "Sagun",
       "sourceGenre": "textbook",
-      "sourceRegister": "Kendriya Hindi Sansthan",
+      "sourceRegister": "academic_prose",
       "audit": "new_candidate"
     },
     {
-      "word": "अस्मिता",
-      "display": "अस्मिता",
-      "normalized": "अस्मिता",
+      "word": "परमात्मा",
+      "display": "परमात्मा",
+      "normalized": "परमात्मा",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "最高我、至高の魂",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学史",
+        "宗教",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_015"
+      ],
+      "sourceTitle": "Sagun",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "माधुर्य",
+      "display": "माधुर्य",
+      "normalized": "माधुर्य",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "甘美さ、優美さ",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学史",
+        "宗教",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_015"
+      ],
+      "sourceTitle": "Sagun",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "लीला",
+      "display": "लीला",
+      "normalized": "लीला",
       "variants": [],
       "pos": "名詞（女）",
-      "meaning_ja": "アイデンティティ、自我意識",
+      "meaning_ja": "神の戯れ、神聖な遊戯",
       "importance": 5,
       "status": "active",
       "category": "academic",
       "tags": [
         "教科書",
-        "文学",
-        "学術",
+        "文学史",
+        "宗教",
         "抽象語"
       ],
       "sourceIds": [
-        "academic_011"
+        "academic_015"
       ],
-      "sourceTitle": "Aamukh",
+      "sourceTitle": "Sagun",
       "sourceGenre": "textbook",
-      "sourceRegister": "Kendriya Hindi Sansthan",
+      "sourceRegister": "academic_prose",
       "audit": "new_candidate"
     },
     {
-      "word": "औदात्य",
-      "display": "औदात्य",
-      "normalized": "औदात्य",
-      "variants": [],
-      "pos": "名詞（男）",
-      "meaning_ja": "崇高性、高尚さ",
-      "importance": 5,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "文学",
-        "学術",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_011"
-      ],
-      "sourceTitle": "Aamukh",
-      "sourceGenre": "textbook",
-      "sourceRegister": "Kendriya Hindi Sansthan",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "परिप्रेक्ष्य",
-      "display": "परिप्रेक्ष्य",
-      "normalized": "परिप्रेक्ष्य",
-      "variants": [],
-      "pos": "名詞（男）",
-      "meaning_ja": "観点、視点",
-      "importance": 5,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "文学",
-        "学術",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_011"
-      ],
-      "sourceTitle": "Aamukh",
-      "sourceGenre": "textbook",
-      "sourceRegister": "Kendriya Hindi Sansthan",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "प्रतिमान",
-      "display": "प्रतिमान",
-      "normalized": "प्रतिमान",
-      "variants": [],
-      "pos": "名詞（男）",
-      "meaning_ja": "パラダイム、規範",
-      "importance": 5,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "文学",
-        "学術",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_011"
-      ],
-      "sourceTitle": "Aamukh",
-      "sourceGenre": "textbook",
-      "sourceRegister": "Kendriya Hindi Sansthan",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "बाज़ारवाद",
-      "display": "बाज़ारवाद",
-      "normalized": "बाज़ारवाद",
-      "variants": [],
-      "pos": "名詞（男）",
-      "meaning_ja": "市場主義",
-      "importance": 5,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "文学",
-        "学術",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_011"
-      ],
-      "sourceTitle": "Aamukh",
-      "sourceGenre": "textbook",
-      "sourceRegister": "Kendriya Hindi Sansthan",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "भावोन्मेष",
-      "display": "भावोन्मेष",
-      "normalized": "भावोन्मेष",
-      "variants": [],
-      "pos": "名詞（男）",
-      "meaning_ja": "感情の高まり、感情表出",
-      "importance": 5,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "文学",
-        "学術",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_011"
-      ],
-      "sourceTitle": "Aamukh",
-      "sourceGenre": "textbook",
-      "sourceRegister": "Kendriya Hindi Sansthan",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "भूमंडलीकरण",
-      "display": "भूमंडलीकरण",
-      "normalized": "भूमंडलीकरण",
-      "variants": [],
-      "pos": "名詞（男）",
-      "meaning_ja": "グローバル化",
-      "importance": 5,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "文学",
-        "学術",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_011"
-      ],
-      "sourceTitle": "Aamukh",
-      "sourceGenre": "textbook",
-      "sourceRegister": "Kendriya Hindi Sansthan",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "अभूतपूर्व",
-      "display": "अभूतपूर्व",
-      "normalized": "अभूतपूर्व",
+      "word": "वात्सल्यपूर्ण",
+      "display": "वात्सल्यपूर्ण",
+      "normalized": "वात्सल्यपूर्ण",
       "variants": [],
       "pos": "形容詞",
-      "meaning_ja": "前例のない",
-      "importance": 4,
+      "meaning_ja": "親愛・慈愛に満ちた",
+      "importance": 5,
       "status": "active",
       "category": "academic",
       "tags": [
         "教科書",
-        "文学",
-        "学術",
+        "文学史",
+        "宗教",
         "抽象語"
       ],
       "sourceIds": [
-        "academic_011"
+        "academic_015"
       ],
-      "sourceTitle": "Aamukh",
+      "sourceTitle": "Sagun",
       "sourceGenre": "textbook",
-      "sourceRegister": "Kendriya Hindi Sansthan",
+      "sourceRegister": "academic_prose",
       "audit": "new_candidate"
     },
     {
-      "word": "अवदान",
-      "display": "अवदान",
-      "normalized": "अवदान",
+      "word": "शील",
+      "display": "शील",
+      "normalized": "शील",
       "variants": [],
       "pos": "名詞（男）",
-      "meaning_ja": "貢献",
-      "importance": 4,
+      "meaning_ja": "徳性、品性",
+      "importance": 5,
       "status": "active",
       "category": "academic",
       "tags": [
         "教科書",
-        "文学",
-        "学術",
+        "文学史",
+        "宗教",
         "抽象語"
       ],
       "sourceIds": [
-        "academic_011"
+        "academic_015"
       ],
-      "sourceTitle": "Aamukh",
+      "sourceTitle": "Sagun",
       "sourceGenre": "textbook",
-      "sourceRegister": "Kendriya Hindi Sansthan",
+      "sourceRegister": "academic_prose",
       "audit": "new_candidate"
     },
     {
-      "word": "उपादान",
-      "display": "उपादान",
-      "normalized": "उपादान",
+      "word": "समन्वय",
+      "display": "समन्वय",
+      "normalized": "समन्वय",
       "variants": [],
       "pos": "名詞（男）",
-      "meaning_ja": "要素、材料",
+      "meaning_ja": "調和、統合、協調",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学史",
+        "宗教",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_015"
+      ],
+      "sourceTitle": "Sagun",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "साकार",
+      "display": "साकार",
+      "normalized": "साकार",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "形ある、有形の",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学史",
+        "宗教",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_015"
+      ],
+      "sourceTitle": "Sagun",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "सेव्य",
+      "display": "सेव्य",
+      "normalized": "सेव्य",
+      "variants": [],
+      "pos": "形容詞・名詞",
+      "meaning_ja": "仕えられるべき対象、崇拝対象",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学史",
+        "宗教",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_015"
+      ],
+      "sourceTitle": "Sagun",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "असत्य",
+      "display": "असत्य",
+      "normalized": "असत्य",
+      "variants": [],
+      "pos": "名詞・形容詞",
+      "meaning_ja": "虚偽、真実でないもの",
       "importance": 4,
       "status": "active",
       "category": "academic",
       "tags": [
         "教科書",
-        "文学",
-        "学術",
+        "文学史",
+        "宗教",
         "抽象語"
       ],
       "sourceIds": [
-        "academic_011"
+        "academic_015"
       ],
-      "sourceTitle": "Aamukh",
+      "sourceTitle": "Sagun",
       "sourceGenre": "textbook",
-      "sourceRegister": "Kendriya Hindi Sansthan",
+      "sourceRegister": "academic_prose",
       "audit": "new_candidate"
     },
     {
-      "word": "चिंतन-प्रक्रिया",
-      "display": "चिंतन-प्रक्रिया",
-      "normalized": "चिंतनप्रक्रिया",
+      "word": "आचार-विचार",
+      "display": "आचार-विचार",
+      "normalized": "आचार विचार",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "行いや考え方、生活態度",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学史",
+        "宗教",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_015"
+      ],
+      "sourceTitle": "Sagun",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "आदर्श",
+      "display": "आदर्श",
+      "normalized": "आदर्श",
+      "variants": [],
+      "pos": "名詞・形容詞",
+      "meaning_ja": "理想、模範的な",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学史",
+        "宗教",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_015"
+      ],
+      "sourceTitle": "Sagun",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "कृपा",
+      "display": "कृपा",
+      "normalized": "कृपा",
       "variants": [],
       "pos": "名詞（女）",
-      "meaning_ja": "思考過程",
+      "meaning_ja": "恩寵、慈悲",
       "importance": 4,
       "status": "active",
       "category": "academic",
       "tags": [
         "教科書",
-        "文学",
-        "学術",
+        "文学史",
+        "宗教",
         "抽象語"
       ],
       "sourceIds": [
-        "academic_011"
+        "academic_015"
       ],
-      "sourceTitle": "Aamukh",
+      "sourceTitle": "Sagun",
       "sourceGenre": "textbook",
-      "sourceRegister": "Kendriya Hindi Sansthan",
+      "sourceRegister": "academic_prose",
       "audit": "new_candidate"
     },
     {
-      "word": "प्रवृत्ति",
-      "display": "प्रवृत्ति",
-      "normalized": "प्रवृत्ति",
+      "word": "क्रीड़ा",
+      "display": "क्रीड़ा",
+      "normalized": "क्रीड़ा",
       "variants": [],
       "pos": "名詞（女）",
-      "meaning_ja": "傾向、動向",
+      "meaning_ja": "遊戯、戯れ",
       "importance": 4,
       "status": "active",
       "category": "academic",
       "tags": [
         "教科書",
-        "文学",
-        "学術",
+        "文学史",
+        "宗教",
         "抽象語"
       ],
       "sourceIds": [
-        "academic_011"
+        "academic_015"
       ],
-      "sourceTitle": "Aamukh",
+      "sourceTitle": "Sagun",
       "sourceGenre": "textbook",
-      "sourceRegister": "Kendriya Hindi Sansthan",
+      "sourceRegister": "academic_prose",
       "audit": "new_candidate"
     },
     {
-      "word": "प्रस्तुतीकरण",
-      "display": "प्रस्तुतीकरण",
-      "normalized": "प्रस्तुतीकरण",
+      "word": "तात्पर्य",
+      "display": "तात्पर्य",
+      "normalized": "तात्पर्य",
       "variants": [],
       "pos": "名詞（男）",
-      "meaning_ja": "提示、プレゼンテーション",
+      "meaning_ja": "意味、趣旨",
       "importance": 4,
       "status": "active",
       "category": "academic",
       "tags": [
         "教科書",
-        "文学",
-        "学術",
+        "文学史",
+        "宗教",
         "抽象語"
       ],
       "sourceIds": [
-        "academic_011"
+        "academic_015"
       ],
-      "sourceTitle": "Aamukh",
+      "sourceTitle": "Sagun",
       "sourceGenre": "textbook",
-      "sourceRegister": "Kendriya Hindi Sansthan",
+      "sourceRegister": "academic_prose",
       "audit": "new_candidate"
     },
     {
-      "word": "बहुआयामी",
-      "display": "बहुआयामी",
-      "normalized": "बहुआयामी",
+      "word": "धारण करना",
+      "display": "धारण करना",
+      "normalized": "धारण करना",
+      "variants": [],
+      "pos": "動詞",
+      "meaning_ja": "身につける、引き受ける、帯びる",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学史",
+        "宗教",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_015"
+      ],
+      "sourceTitle": "Sagun",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "परम",
+      "display": "परम",
+      "normalized": "परम",
       "variants": [],
       "pos": "形容詞",
-      "meaning_ja": "多面的な、多角的な",
+      "meaning_ja": "最高の、究極の",
       "importance": 4,
       "status": "active",
       "category": "academic",
       "tags": [
         "教科書",
-        "文学",
-        "学術",
+        "文学史",
+        "宗教",
         "抽象語"
       ],
       "sourceIds": [
-        "academic_011"
+        "academic_015"
       ],
-      "sourceTitle": "Aamukh",
+      "sourceTitle": "Sagun",
       "sourceGenre": "textbook",
-      "sourceRegister": "Kendriya Hindi Sansthan",
+      "sourceRegister": "academic_prose",
       "audit": "new_candidate"
     },
     {
-      "word": "बहुआयामी संदर्भ",
-      "display": "बहुआयामी संदर्भ",
-      "normalized": "बहुआयामी संदर्भ",
+      "word": "प्रधानता",
+      "display": "प्रधानता",
+      "normalized": "प्रधानता",
       "variants": [],
-      "pos": "名詞句",
-      "meaning_ja": "多面的な文脈",
+      "pos": "名詞（女）",
+      "meaning_ja": "優位、中心性",
       "importance": 4,
       "status": "active",
       "category": "academic",
       "tags": [
         "教科書",
-        "文学",
-        "学術",
+        "文学史",
+        "宗教",
         "抽象語"
       ],
       "sourceIds": [
-        "academic_011"
+        "academic_015"
       ],
-      "sourceTitle": "Aamukh",
+      "sourceTitle": "Sagun",
       "sourceGenre": "textbook",
-      "sourceRegister": "Kendriya Hindi Sansthan",
+      "sourceRegister": "academic_prose",
       "audit": "new_candidate"
     },
     {
-      "word": "मानदंड",
-      "display": "मानदंड",
-      "normalized": "मानदंड",
+      "word": "मधुर",
+      "display": "मधुर",
+      "normalized": "मधुर",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "甘美な、心地よい",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学史",
+        "宗教",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_015"
+      ],
+      "sourceTitle": "Sagun",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "मान्यता",
+      "display": "मान्यता",
+      "normalized": "मान्यता",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "信念、通念、承認",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学史",
+        "宗教",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_015"
+      ],
+      "sourceTitle": "Sagun",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "युगल",
+      "display": "युगल",
+      "normalized": "युगल",
+      "variants": [],
+      "pos": "名詞・形容詞",
+      "meaning_ja": "対、二人組の",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学史",
+        "宗教",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_015"
+      ],
+      "sourceTitle": "Sagun",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "युग्म",
+      "display": "युग्म",
+      "normalized": "युग्म",
       "variants": [],
       "pos": "名詞（男）",
-      "meaning_ja": "基準、尺度",
+      "meaning_ja": "対、ペア",
       "importance": 4,
       "status": "active",
       "category": "academic",
       "tags": [
         "教科書",
-        "文学",
-        "学術",
+        "文学史",
+        "宗教",
         "抽象語"
       ],
       "sourceIds": [
-        "academic_011"
+        "academic_015"
       ],
-      "sourceTitle": "Aamukh",
+      "sourceTitle": "Sagun",
       "sourceGenre": "textbook",
-      "sourceRegister": "Kendriya Hindi Sansthan",
+      "sourceRegister": "academic_prose",
       "audit": "new_candidate"
     },
     {
-      "word": "युगीन",
-      "display": "युगीन",
-      "normalized": "युगीन",
-      "variants": [],
-      "pos": "形容詞",
-      "meaning_ja": "時代的な、その時代の",
-      "importance": 4,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "文学",
-        "学術",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_011"
-      ],
-      "sourceTitle": "Aamukh",
-      "sourceGenre": "textbook",
-      "sourceRegister": "Kendriya Hindi Sansthan",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "विकासशील",
-      "display": "विकासशील",
-      "normalized": "विकासशील",
-      "variants": [],
-      "pos": "形容詞",
-      "meaning_ja": "発展途上の、発展し続ける",
-      "importance": 4,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "文学",
-        "学術",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_011"
-      ],
-      "sourceTitle": "Aamukh",
-      "sourceGenre": "textbook",
-      "sourceRegister": "Kendriya Hindi Sansthan",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "विद्यमान",
-      "display": "विद्यमान",
-      "normalized": "विद्यमान",
-      "variants": [],
-      "pos": "形容詞",
-      "meaning_ja": "存在している、現存する",
-      "importance": 4,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "文学",
-        "学術",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_011"
-      ],
-      "sourceTitle": "Aamukh",
-      "sourceGenre": "textbook",
-      "sourceRegister": "Kendriya Hindi Sansthan",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "विषयगत",
-      "display": "विषयगत",
-      "normalized": "विषयगत",
-      "variants": [],
-      "pos": "形容詞",
-      "meaning_ja": "主題に関する",
-      "importance": 4,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "文学",
-        "学術",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_011"
-      ],
-      "sourceTitle": "Aamukh",
-      "sourceGenre": "textbook",
-      "sourceRegister": "Kendriya Hindi Sansthan",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "वैश्विक",
-      "display": "वैश्विक",
-      "normalized": "वैश्विक",
-      "variants": [],
-      "pos": "形容詞",
-      "meaning_ja": "世界的な、グローバルな",
-      "importance": 4,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "文学",
-        "学術",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_011"
-      ],
-      "sourceTitle": "Aamukh",
-      "sourceGenre": "textbook",
-      "sourceRegister": "Kendriya Hindi Sansthan",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "संवर्धन",
-      "display": "संवर्धन",
-      "normalized": "संवर्धन",
+      "word": "सखा",
+      "display": "सखा",
+      "normalized": "सखा",
       "variants": [],
       "pos": "名詞（男）",
-      "meaning_ja": "促進、発展",
+      "meaning_ja": "友、親友",
       "importance": 4,
       "status": "active",
       "category": "academic",
       "tags": [
         "教科書",
-        "文学",
-        "学術",
+        "文学史",
+        "宗教",
         "抽象語"
       ],
       "sourceIds": [
-        "academic_011"
+        "academic_015"
       ],
-      "sourceTitle": "Aamukh",
+      "sourceTitle": "Sagun",
       "sourceGenre": "textbook",
-      "sourceRegister": "Kendriya Hindi Sansthan",
+      "sourceRegister": "academic_prose",
       "audit": "new_candidate"
     },
     {
-      "word": "उपयोगी",
-      "display": "उपयोगी",
-      "normalized": "उपयोगी",
+      "word": "सर्ग",
+      "display": "सर्ग",
+      "normalized": "सर्ग",
       "variants": [],
-      "pos": "形容詞",
-      "meaning_ja": "有用な",
+      "pos": "名詞（男）",
+      "meaning_ja": "章、編",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学史",
+        "宗教",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_015"
+      ],
+      "sourceTitle": "Sagun",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "सेवक",
+      "display": "सेवक",
+      "normalized": "सेवक",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "奉仕者、仕える人",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学史",
+        "宗教",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_015"
+      ],
+      "sourceTitle": "Sagun",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "स्तुति",
+      "display": "स्तुति",
+      "normalized": "स्तुति",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "賛美、讃歌",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学史",
+        "宗教",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_015"
+      ],
+      "sourceTitle": "Sagun",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "पद",
+      "display": "पद",
+      "normalized": "पद",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "詩句、歌",
       "importance": 3,
       "status": "active",
       "category": "academic",
       "tags": [
         "教科書",
-        "文学",
-        "学術",
+        "文学史",
+        "宗教",
         "抽象語"
       ],
       "sourceIds": [
-        "academic_011"
+        "academic_015"
       ],
-      "sourceTitle": "Aamukh",
+      "sourceTitle": "Sagun",
       "sourceGenre": "textbook",
-      "sourceRegister": "Kendriya Hindi Sansthan",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "निश्चय ही",
-      "display": "निश्चय ही",
-      "normalized": "निश्चय ही",
-      "variants": [],
-      "pos": "副詞",
-      "meaning_ja": "確かに、間違いなく",
-      "importance": 3,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "文学",
-        "学術",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_011"
-      ],
-      "sourceTitle": "Aamukh",
-      "sourceGenre": "textbook",
-      "sourceRegister": "Kendriya Hindi Sansthan",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "प्रचार-प्रसार",
-      "display": "प्रचार-प्रसार",
-      "normalized": "प्रचारप्रसार",
-      "variants": [],
-      "pos": "名詞（男）",
-      "meaning_ja": "普及、宣伝",
-      "importance": 3,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "文学",
-        "学術",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_011"
-      ],
-      "sourceTitle": "Aamukh",
-      "sourceGenre": "textbook",
-      "sourceRegister": "Kendriya Hindi Sansthan",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "व्यापक",
-      "display": "व्यापक",
-      "normalized": "व्यापक",
-      "variants": [],
-      "pos": "形容詞",
-      "meaning_ja": "広範な",
-      "importance": 3,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "文学",
-        "学術",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_011"
-      ],
-      "sourceTitle": "Aamukh",
-      "sourceGenre": "textbook",
-      "sourceRegister": "Kendriya Hindi Sansthan",
+      "sourceRegister": "academic_prose",
       "audit": "new_candidate"
     }
   ],
@@ -3305,7 +3377,7 @@
       "normalized": "विस्तार",
       "variants": [],
       "pos": "名詞（男）",
-      "meaning_ja": "विस्तार、詳述、広がり",
+      "meaning_ja": "詳述、拡大、広がり",
       "importance": 3,
       "status": "active",
       "category": "academic",
@@ -6562,6 +6634,294 @@
       "audit": "existing_in_master"
     },
     {
+      "word": "वैश्विक",
+      "display": "वैश्विक",
+      "normalized": "वैश्विक",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "世界的な、グローバルな",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学",
+        "学術",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_011"
+      ],
+      "sourceTitle": "Aamukh",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "प्रचार-प्रसार",
+      "display": "प्रचार-प्रसार",
+      "normalized": "प्रचारप्रसार",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "普及、宣伝",
+      "importance": 3,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学",
+        "学術",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_011"
+      ],
+      "sourceTitle": "Aamukh",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "बहुआयामी",
+      "display": "बहुआयामी",
+      "normalized": "बहुआयामी",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "多面的な、多角的な",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学",
+        "学術",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_011"
+      ],
+      "sourceTitle": "Aamukh",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "संवर्धन",
+      "display": "संवर्धन",
+      "normalized": "संवर्धन",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "促進、発展",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学",
+        "学術",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_011"
+      ],
+      "sourceTitle": "Aamukh",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "व्यापक",
+      "display": "व्यापक",
+      "normalized": "व्यापक",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "広範な",
+      "importance": 3,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学",
+        "学術",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_011"
+      ],
+      "sourceTitle": "Aamukh",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "औदात्य",
+      "display": "औदात्य",
+      "normalized": "औदात्य",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "崇高性、高尚さ",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学",
+        "学術",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_011"
+      ],
+      "sourceTitle": "Aamukh",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "विकासशील",
+      "display": "विकासशील",
+      "normalized": "विकासशील",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "発展途上の、発展し続ける",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学",
+        "学術",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_011"
+      ],
+      "sourceTitle": "Aamukh",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "चिंतन-प्रक्रिया",
+      "display": "चिंतन-प्रक्रिया",
+      "normalized": "चिंतनप्रक्रिया",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "思考過程",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学",
+        "学術",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_011"
+      ],
+      "sourceTitle": "Aamukh",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "भावोन्मेष",
+      "display": "भावोन्मेष",
+      "normalized": "भावोन्मेष",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "感情の高まり、感情表出",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学",
+        "学術",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_011"
+      ],
+      "sourceTitle": "Aamukh",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "अस्मिता",
+      "display": "अस्मिता",
+      "normalized": "अस्मिता",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "アイデンティティ、自我意識",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学",
+        "学術",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_011"
+      ],
+      "sourceTitle": "Aamukh",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "अवदान",
+      "display": "अवदान",
+      "normalized": "अवदान",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "貢献",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学",
+        "学術",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_011"
+      ],
+      "sourceTitle": "Aamukh",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "परिप्रेक्ष्य",
+      "display": "परिप्रेक्ष्य",
+      "normalized": "परिप्रेक्ष्य",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "観点、視点",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学",
+        "学術",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_011"
+      ],
+      "sourceTitle": "Aamukh",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
       "word": "अनिवार्य",
       "display": "अनिवार्य",
       "normalized": "अनिवार्य",
@@ -6582,7 +6942,2335 @@
       ],
       "sourceTitle": "Aamukh",
       "sourceGenre": "textbook",
-      "sourceRegister": "Kendriya Hindi Sansthan",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "उपादान",
+      "display": "उपादान",
+      "normalized": "उपादान",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "要素、材料",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学",
+        "学術",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_011"
+      ],
+      "sourceTitle": "Aamukh",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "युगीन",
+      "display": "युगीन",
+      "normalized": "युगीन",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "時代的な、その時代の",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学",
+        "学術",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_011"
+      ],
+      "sourceTitle": "Aamukh",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "विद्यमान",
+      "display": "विद्यमान",
+      "normalized": "विद्यमान",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "存在している、現存する",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学",
+        "学術",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_011"
+      ],
+      "sourceTitle": "Aamukh",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "प्रतिमान",
+      "display": "प्रतिमान",
+      "normalized": "प्रतिमान",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "パラダイム、規範",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学",
+        "学術",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_011"
+      ],
+      "sourceTitle": "Aamukh",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "भूमंडलीकरण",
+      "display": "भूमंडलीकरण",
+      "normalized": "भूमंडलीकरण",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "グローバル化",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学",
+        "学術",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_011"
+      ],
+      "sourceTitle": "Aamukh",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "बाज़ारवाद",
+      "display": "बाज़ारवाद",
+      "normalized": "बाज़ारवाद",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "市場主義",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学",
+        "学術",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_011"
+      ],
+      "sourceTitle": "Aamukh",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "अभूतपूर्व",
+      "display": "अभूतपूर्व",
+      "normalized": "अभूतपूर्व",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "前例のない",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学",
+        "学術",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_011"
+      ],
+      "sourceTitle": "Aamukh",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "मानदंड",
+      "display": "मानदंड",
+      "normalized": "मानदंड",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "基準、尺度",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学",
+        "学術",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_011"
+      ],
+      "sourceTitle": "Aamukh",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "प्रवृत्ति",
+      "display": "प्रवृत्ति",
+      "normalized": "प्रवृत्ति",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "傾向、動向",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学",
+        "学術",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_011"
+      ],
+      "sourceTitle": "Aamukh",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "बहुआयामी संदर्भ",
+      "display": "बहुआयामी संदर्भ",
+      "normalized": "बहुआयामी संदर्भ",
+      "variants": [],
+      "pos": "名詞句",
+      "meaning_ja": "多面的な文脈",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学",
+        "学術",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_011"
+      ],
+      "sourceTitle": "Aamukh",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "प्रस्तुतीकरण",
+      "display": "प्रस्तुतीकरण",
+      "normalized": "प्रस्तुतीकरण",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "提示、プレゼンテーション",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学",
+        "学術",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_011"
+      ],
+      "sourceTitle": "Aamukh",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "अवधारणा",
+      "display": "अवधारणा",
+      "normalized": "अवधारणा",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "概念",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学",
+        "学術",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_011"
+      ],
+      "sourceTitle": "Aamukh",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "निश्चय ही",
+      "display": "निश्चय ही",
+      "normalized": "निश्चय ही",
+      "variants": [],
+      "pos": "副詞",
+      "meaning_ja": "確かに、間違いなく",
+      "importance": 3,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学",
+        "学術",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_011"
+      ],
+      "sourceTitle": "Aamukh",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "विषयगत",
+      "display": "विषयगत",
+      "normalized": "विषयगत",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "主題に関する",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学",
+        "学術",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_011"
+      ],
+      "sourceTitle": "Aamukh",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "उपयोगी",
+      "display": "उपयोगी",
+      "normalized": "उपयोगी",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "有用な",
+      "importance": 3,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学",
+        "学術",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_011"
+      ],
+      "sourceTitle": "Aamukh",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "काल विभाजन",
+      "display": "काल विभाजन",
+      "normalized": "काल विभाजन",
+      "variants": [],
+      "pos": "名詞句",
+      "meaning_ja": "時代区分",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学史",
+        "学術",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_012"
+      ],
+      "sourceTitle": "Aadikaal",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "आदिकाल",
+      "display": "आदिकाल",
+      "normalized": "आदिकाल",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "初期時代、古期",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学史",
+        "学術",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_012"
+      ],
+      "sourceTitle": "Aadikaal",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "वीरगाथा काल",
+      "display": "वीरगाथा काल",
+      "normalized": "वीरगाथा काल",
+      "variants": [],
+      "pos": "名詞句",
+      "meaning_ja": "英雄叙事詩時代",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学史",
+        "学術",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_012"
+      ],
+      "sourceTitle": "Aadikaal",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "भक्तिकाल",
+      "display": "भक्तिकाल",
+      "normalized": "भक्तिकाल",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "バクティ時代",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学史",
+        "学術",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_012"
+      ],
+      "sourceTitle": "Aadikaal",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "रीतिकाल",
+      "display": "रीतिकाल",
+      "normalized": "रीतिकाल",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "作詩法時代",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学史",
+        "学術",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_012"
+      ],
+      "sourceTitle": "Aadikaal",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "आधुनिक काल",
+      "display": "आधुनिक काल",
+      "normalized": "आधुनिक काल",
+      "variants": [],
+      "pos": "名詞句",
+      "meaning_ja": "近代",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学史",
+        "学術",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_012"
+      ],
+      "sourceTitle": "Aadikaal",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "गद्य काल",
+      "display": "गद्य काल",
+      "normalized": "गद्य काल",
+      "variants": [],
+      "pos": "名詞句",
+      "meaning_ja": "散文時代",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学史",
+        "学術",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_012"
+      ],
+      "sourceTitle": "Aadikaal",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "नामकरण",
+      "display": "नामकरण",
+      "normalized": "नामकरण",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "命名",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学史",
+        "学術",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_012"
+      ],
+      "sourceTitle": "Aadikaal",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "आधार",
+      "display": "आधार",
+      "normalized": "आधार",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "基礎、根拠",
+      "importance": 3,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学史",
+        "学術",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_012"
+      ],
+      "sourceTitle": "Aadikaal",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "वीरतापूर्ण",
+      "display": "वीरतापूर्ण",
+      "normalized": "वीरतापूर्ण",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "英雄的な",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学史",
+        "学術",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_012"
+      ],
+      "sourceTitle": "Aadikaal",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "परिस्थिति",
+      "display": "परिस्थिति",
+      "normalized": "परिस्थिति",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "状況、情勢",
+      "importance": 3,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学史",
+        "学術",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_012"
+      ],
+      "sourceTitle": "Aadikaal",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "राजनीतिक",
+      "display": "राजनीतिक",
+      "normalized": "राजनीतिक",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "政治的な",
+      "importance": 3,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学史",
+        "学術",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_012"
+      ],
+      "sourceTitle": "Aadikaal",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "वातावरण",
+      "display": "वातावरण",
+      "normalized": "वातावरण",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "環境、雰囲気",
+      "importance": 3,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学史",
+        "学術",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_012"
+      ],
+      "sourceTitle": "Aadikaal",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "राज-दरबार",
+      "display": "राज-दरबार",
+      "normalized": "राजदरबार",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "王宮、宮廷",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学史",
+        "学術",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_012"
+      ],
+      "sourceTitle": "Aadikaal",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "चारण कवि",
+      "display": "चारण कवि",
+      "normalized": "चारण कवि",
+      "variants": [],
+      "pos": "名詞句",
+      "meaning_ja": "宮廷詩人",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学史",
+        "学術",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_012"
+      ],
+      "sourceTitle": "Aadikaal",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "रचनाकार",
+      "display": "रचनाकार",
+      "normalized": "रचनाकार",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "作者",
+      "importance": 3,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学史",
+        "学術",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_012"
+      ],
+      "sourceTitle": "Aadikaal",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "वर्णन",
+      "display": "वर्णन",
+      "normalized": "वर्णन",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "描写、記述",
+      "importance": 3,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学史",
+        "学術",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_012"
+      ],
+      "sourceTitle": "Aadikaal",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "अतिरिक्त",
+      "display": "अतिरिक्त",
+      "normalized": "अतिरिक्त",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "追加の、〜以外の",
+      "importance": 3,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学史",
+        "学術",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_012"
+      ],
+      "sourceTitle": "Aadikaal",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "संप्रदाय",
+      "display": "संप्रदाय",
+      "normalized": "संप्रदाय",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "宗派",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学史",
+        "学術",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_012"
+      ],
+      "sourceTitle": "Aadikaal",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "विशेषता",
+      "display": "विशेषता",
+      "normalized": "विशेषता",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "特徴",
+      "importance": 3,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学史",
+        "学術",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_012"
+      ],
+      "sourceTitle": "Aadikaal",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "अंतर",
+      "display": "अंतर",
+      "normalized": "अंतर",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "差異、差",
+      "importance": 3,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学史",
+        "学術",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_012"
+      ],
+      "sourceTitle": "Aadikaal",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "प्राप्त",
+      "display": "प्राप्त",
+      "normalized": "प्राप्त",
+      "variants": [],
+      "pos": "動詞・形容詞",
+      "meaning_ja": "得られた、取得した",
+      "importance": 2,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学史",
+        "学術",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_012"
+      ],
+      "sourceTitle": "Aadikaal",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "अति प्राचीन",
+      "display": "अति प्राचीन",
+      "normalized": "अति प्राचीन",
+      "variants": [],
+      "pos": "形容詞句",
+      "meaning_ja": "非常に古い",
+      "importance": 3,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学史",
+        "学術",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_012"
+      ],
+      "sourceTitle": "Aadikaal",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "काव्य",
+      "display": "काव्य",
+      "normalized": "काव्य",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "詩文学",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学史",
+        "学術",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_012"
+      ],
+      "sourceTitle": "Aadikaal",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "प्रबंध काव्य",
+      "display": "प्रबंध काव्य",
+      "normalized": "प्रबंध काव्य",
+      "variants": [],
+      "pos": "名詞句",
+      "meaning_ja": "叙事詩（全生涯を描く）",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学史",
+        "学術",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_012"
+      ],
+      "sourceTitle": "Aadikaal",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "मुक्तक काव्य",
+      "display": "मुक्तक काव्य",
+      "normalized": "मुक्तक काव्य",
+      "variants": [],
+      "pos": "名詞句",
+      "meaning_ja": "自由詩",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学史",
+        "学術",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_012"
+      ],
+      "sourceTitle": "Aadikaal",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "सिलसिलेवार",
+      "display": "सिलसिलेवार",
+      "normalized": "सिलसिलेवार",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "順序立った、連続した",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学史",
+        "学術",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_012"
+      ],
+      "sourceTitle": "Aadikaal",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "विभाजित",
+      "display": "विभाजित",
+      "normalized": "विभाजित",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "分割された",
+      "importance": 3,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学史",
+        "学術",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_012"
+      ],
+      "sourceTitle": "Aadikaal",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "खंड काव्य",
+      "display": "खंड काव्य",
+      "normalized": "खंड काव्य",
+      "variants": [],
+      "pos": "名詞句",
+      "meaning_ja": "叙事詩（人生の一断面を描く）",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学史",
+        "学術",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_012"
+      ],
+      "sourceTitle": "Aadikaal",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "साहित्यिक",
+      "display": "साहित्यिक",
+      "normalized": "साहित्यिक",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "文学的な",
+      "importance": 3,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学史",
+        "学術",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_012"
+      ],
+      "sourceTitle": "Aadikaal",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "सिद्धि",
+      "display": "सिद्धि",
+      "normalized": "सिद्धि",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "成就、霊的能力",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学史",
+        "学術",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_012"
+      ],
+      "sourceTitle": "Aadikaal",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "सूचना",
+      "display": "सूचना",
+      "normalized": "सूचना",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "知らせ、表示",
+      "importance": 2,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学史",
+        "学術",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_012"
+      ],
+      "sourceTitle": "Aadikaal",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "प्रवर्तक",
+      "display": "प्रवर्तक",
+      "normalized": "प्रवर्तक",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "創始者、提唱者",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学史",
+        "学術",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_012"
+      ],
+      "sourceTitle": "Aadikaal",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "प्रचार",
+      "display": "प्रचार",
+      "normalized": "प्रचार",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "普及、布教",
+      "importance": 3,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学史",
+        "学術",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_012"
+      ],
+      "sourceTitle": "Aadikaal",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "धार्मिक भावना",
+      "display": "धार्मिक भावना",
+      "normalized": "धार्मिक भावना",
+      "variants": [],
+      "pos": "名詞句",
+      "meaning_ja": "宗教的感情",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学史",
+        "学術",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_012"
+      ],
+      "sourceTitle": "Aadikaal",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "पूर्व मध्यकाल",
+      "display": "पूर्व मध्यकाल",
+      "normalized": "पूर्व मध्यकाल",
+      "variants": [],
+      "pos": "名詞句",
+      "meaning_ja": "前期中世",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学史",
+        "宗教",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_013"
+      ],
+      "sourceTitle": "Bhaktikaal",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "भक्तिकाल",
+      "display": "भक्तिकाल",
+      "normalized": "भक्तिकाल",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "バクティ時代",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学史",
+        "宗教",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_013"
+      ],
+      "sourceTitle": "Bhaktikaal",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "मध्यकाल",
+      "display": "मध्यकाल",
+      "normalized": "मध्यकाल",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "中世",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学史",
+        "宗教",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_013"
+      ],
+      "sourceTitle": "Bhaktikaal",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "उत्तर मध्यकाल",
+      "display": "उत्तर मध्यकाल",
+      "normalized": "उत्तर मध्यकाल",
+      "variants": [],
+      "pos": "名詞句",
+      "meaning_ja": "後期中世",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学史",
+        "宗教",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_013"
+      ],
+      "sourceTitle": "Bhaktikaal",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "आक्रमण",
+      "display": "आक्रमण",
+      "normalized": "आक्रमण",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "侵攻、攻撃",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学史",
+        "宗教",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_013"
+      ],
+      "sourceTitle": "Bhaktikaal",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "शासन",
+      "display": "शासन",
+      "normalized": "शासन",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "統治、支配",
+      "importance": 3,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学史",
+        "宗教",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_013"
+      ],
+      "sourceTitle": "Bhaktikaal",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "स्थापित",
+      "display": "स्थापित",
+      "normalized": "स्थापित",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "確立された",
+      "importance": 3,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学史",
+        "宗教",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_013"
+      ],
+      "sourceTitle": "Bhaktikaal",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "प्रवृत्ति",
+      "display": "प्रवृत्ति",
+      "normalized": "प्रवृत्ति",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "傾向、性向",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学史",
+        "宗教",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_013"
+      ],
+      "sourceTitle": "Bhaktikaal",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "भक्ति",
+      "display": "भक्ति",
+      "normalized": "भक्ति",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "信仰、帰依",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学史",
+        "宗教",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_013"
+      ],
+      "sourceTitle": "Bhaktikaal",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "भावना",
+      "display": "भावना",
+      "normalized": "भावना",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "感情、思い",
+      "importance": 3,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学史",
+        "宗教",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_013"
+      ],
+      "sourceTitle": "Bhaktikaal",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "माध्यम",
+      "display": "माध्यम",
+      "normalized": "माध्यम",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "手段、媒介",
+      "importance": 3,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学史",
+        "宗教",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_013"
+      ],
+      "sourceTitle": "Bhaktikaal",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "सुधार",
+      "display": "सुधार",
+      "normalized": "सुधार",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "改善、改革",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学史",
+        "宗教",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_013"
+      ],
+      "sourceTitle": "Bhaktikaal",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "इच्छुक",
+      "display": "इच्छुक",
+      "normalized": "इच्छुक",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "望んでいる、関心のある",
+      "importance": 3,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学史",
+        "宗教",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_013"
+      ],
+      "sourceTitle": "Bhaktikaal",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "धारा",
+      "display": "धारा",
+      "normalized": "धारा",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "流れ、系統",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学史",
+        "宗教",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_013"
+      ],
+      "sourceTitle": "Bhaktikaal",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "भक्त",
+      "display": "भक्त",
+      "normalized": "भक्त",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "信者、帰依者",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学史",
+        "宗教",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_013"
+      ],
+      "sourceTitle": "Bhaktikaal",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "निर्गुण",
+      "display": "निर्गुण",
+      "normalized": "निर्गुण",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "属性を持たない、無形の",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学史",
+        "宗教",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_013"
+      ],
+      "sourceTitle": "Bhaktikaal",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "निराकार",
+      "display": "निराकार",
+      "normalized": "निराकार",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "形を持たない、無形の",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学史",
+        "宗教",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_013"
+      ],
+      "sourceTitle": "Bhaktikaal",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "संत",
+      "display": "संत",
+      "normalized": "संत",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "聖者、サント詩人",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学史",
+        "宗教",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_013"
+      ],
+      "sourceTitle": "Bhaktikaal",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "सगुण",
+      "display": "सगुण",
+      "normalized": "सगुण",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "属性を持つ、有形・有形の",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学史",
+        "宗教",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_013"
+      ],
+      "sourceTitle": "Bhaktikaal",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "उद्धार",
+      "display": "उद्धार",
+      "normalized": "उद्धार",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "救済、解放",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学史",
+        "宗教",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_013"
+      ],
+      "sourceTitle": "Bhaktikaal",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "मार्गी",
+      "display": "मार्गी",
+      "normalized": "मार्गी",
+      "variants": [],
+      "pos": "形容詞・名詞",
+      "meaning_ja": "〜の道に属する人、〜主義の人",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学史",
+        "宗教",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_013"
+      ],
+      "sourceTitle": "Bhaktikaal",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "शाखा",
+      "display": "शाखा",
+      "normalized": "शाखा",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "支流、分派、部門",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学史",
+        "宗教",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_013"
+      ],
+      "sourceTitle": "Bhaktikaal",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "उपासक",
+      "display": "उपासक",
+      "normalized": "उपासक",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "信仰者、崇拝者",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学史",
+        "宗教",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_014"
+      ],
+      "sourceTitle": "Nirgun",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "अंश",
+      "display": "अंश",
+      "normalized": "अंश",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "一部、部分",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学史",
+        "宗教",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_014"
+      ],
+      "sourceTitle": "Nirgun",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "जीव",
+      "display": "जीव",
+      "normalized": "जीव",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "個我、生命ある存在",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学史",
+        "宗教",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_014"
+      ],
+      "sourceTitle": "Nirgun",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "माया",
+      "display": "माया",
+      "normalized": "माया",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "マーヤー、幻影",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学史",
+        "宗教",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_014"
+      ],
+      "sourceTitle": "Nirgun",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "उपासना",
+      "display": "उपासना",
+      "normalized": "उपासना",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "礼拝、信仰実践",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学史",
+        "宗教",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_014"
+      ],
+      "sourceTitle": "Nirgun",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "सद्गुरु",
+      "display": "सद्गुरु",
+      "normalized": "सद्गुरु",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "真の師、正しい導師",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学史",
+        "宗教",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_014"
+      ],
+      "sourceTitle": "Nirgun",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "जाति-पाँति",
+      "display": "जाति-पाँति",
+      "normalized": "जाति पाँति",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "カーストや身分区分",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学史",
+        "宗教",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_014"
+      ],
+      "sourceTitle": "Nirgun",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "भेदभाव",
+      "display": "भेदभाव",
+      "normalized": "भेदभाव",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "差別、区別扱い",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学史",
+        "宗教",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_014"
+      ],
+      "sourceTitle": "Nirgun",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "रूढ़ि",
+      "display": "रूढ़ि",
+      "normalized": "रूढ़ि",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "因習、固定化した慣習",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学史",
+        "宗教",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_014"
+      ],
+      "sourceTitle": "Nirgun",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "आडंबर",
+      "display": "आडंबर",
+      "normalized": "आडंबर",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "虚飾、見せかけ",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学史",
+        "宗教",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_014"
+      ],
+      "sourceTitle": "Nirgun",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "पवित्रता",
+      "display": "पवित्रता",
+      "normalized": "पवित्रता",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "清浄さ、純粋さ",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学史",
+        "宗教",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_014"
+      ],
+      "sourceTitle": "Nirgun",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "आलोचना",
+      "display": "आलोचना",
+      "normalized": "आलोचना",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "批判、批評",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学史",
+        "宗教",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_014"
+      ],
+      "sourceTitle": "Nirgun",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "फलस्वरूप",
+      "display": "फलस्वरूप",
+      "normalized": "फलस्वरूप",
+      "variants": [],
+      "pos": "副詞",
+      "meaning_ja": "その結果として",
+      "importance": 3,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学史",
+        "宗教",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_014"
+      ],
+      "sourceTitle": "Nirgun",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "सूफी संत",
+      "display": "सूफी संत",
+      "normalized": "सूफी संत",
+      "variants": [],
+      "pos": "名詞句",
+      "meaning_ja": "スーフィー聖者",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学史",
+        "宗教",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_014"
+      ],
+      "sourceTitle": "Nirgun",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "एकमात्र",
+      "display": "एकमात्र",
+      "normalized": "एकमात्र",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "唯一の",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学史",
+        "宗教",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_014"
+      ],
+      "sourceTitle": "Nirgun",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "पीर",
+      "display": "पीर",
+      "normalized": "पीर",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "痛み、苦しみ",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学史",
+        "宗教",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_014"
+      ],
+      "sourceTitle": "Nirgun",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "प्रेममय",
+      "display": "प्रेममय",
+      "normalized": "प्रेममय",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "愛に満ちた",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学史",
+        "宗教",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_014"
+      ],
+      "sourceTitle": "Nirgun",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "विलीन",
+      "display": "विलीन",
+      "normalized": "विलीन",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "溶け込んだ、一体化した",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学史",
+        "宗教",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_014"
+      ],
+      "sourceTitle": "Nirgun",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "कथानक",
+      "display": "कथानक",
+      "normalized": "कथानक",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "筋、物語の筋立て",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学史",
+        "宗教",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_014"
+      ],
+      "sourceTitle": "Nirgun",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "दार्शनिक",
+      "display": "दार्शनिक",
+      "normalized": "दार्शनिक",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "哲学的な",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学史",
+        "宗教",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_014"
+      ],
+      "sourceTitle": "Nirgun",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "सार्वभौमिक",
+      "display": "सार्वभौमिक",
+      "normalized": "सार्वभौमिक",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "普遍的な、全世界的な",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学史",
+        "宗教",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_014"
+      ],
+      "sourceTitle": "Nirgun",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "सत्ता",
+      "display": "सत्ता",
+      "normalized": "सत्ता",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "存在、実在、力",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学史",
+        "宗教",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_014"
+      ],
+      "sourceTitle": "Nirgun",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "कण-कण",
+      "display": "कण-कण",
+      "normalized": "कण कण",
+      "variants": [],
+      "pos": "名詞句",
+      "meaning_ja": "一粒一粒、あらゆる微細な部分",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学史",
+        "宗教",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_014"
+      ],
+      "sourceTitle": "Nirgun",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "दुष्ट",
+      "display": "दुष्ट",
+      "normalized": "दुष्ट",
+      "variants": [],
+      "pos": "名詞・形容詞",
+      "meaning_ja": "悪人、邪悪な",
+      "importance": 3,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学史",
+        "宗教",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_015"
+      ],
+      "sourceTitle": "Sagun",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "काव्य",
+      "display": "काव्य",
+      "normalized": "काव्य",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "詩文学、韻文作品",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学史",
+        "宗教",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_015"
+      ],
+      "sourceTitle": "Sagun",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
       "audit": "existing_in_master"
     }
   ],

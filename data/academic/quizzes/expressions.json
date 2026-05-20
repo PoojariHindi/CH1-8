@@ -1,5 +1,95 @@
 [
   {
+    "text": "ईश्वर का ही अंश जीव में समाया हुआ है",
+    "normalized": "ईश्वर का ही अंश जीव में समाया हुआ है",
+    "meaning": "神の一部が生命ある存在の中に宿っている",
+    "meaning_ja": "神の一部が生命ある存在の中に宿っている",
+    "type": "religious_concept",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "宗教",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_014"
+    ]
+  },
+  {
+    "text": "ईश्वर को प्राप्त करने का एकमात्र साधन प्रेम है",
+    "normalized": "ईश्वर को प्राप्त करने का एकमात्र साधन प्रेम है",
+    "meaning": "神に到達する唯一の手段は愛である",
+    "meaning_ja": "神に到達する唯一の手段は愛である",
+    "type": "religious_concept",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "宗教",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_014"
+    ]
+  },
+  {
+    "text": "ईश्वर निर्गुण और निराकार है",
+    "normalized": "ईश्वर निर्गुण और निराकार है",
+    "meaning": "神は属性を持たず、形を持たない",
+    "meaning_ja": "神は属性を持たず、形を持たない",
+    "type": "religious_concept",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "宗教",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_013"
+    ]
+  },
+  {
+    "text": "ईश्वर भक्तों पर कृपा करने के लिए ही अवतार लेते हैं",
+    "normalized": "ईश्वर भक्तों पर कृपा करने के लिए ही अवतार लेते हैं",
+    "meaning": "神は信者に恩寵を与えるために化身として現れる",
+    "meaning_ja": "神は信者に恩寵を与えるために化身として現れる",
+    "type": "religious_concept",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "宗教",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_015"
+    ]
+  },
+  {
+    "text": "जाति-पाँति के भेदभाव का विरोध",
+    "normalized": "जाति पाँति के भेदभाव का विरोध",
+    "meaning": "カースト差別への反対",
+    "meaning_ja": "カースト差別への反対",
+    "type": "social_expression",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "宗教",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_014"
+    ]
+  },
+  {
     "text": "जीवन का उद्देश्य औदात्य की प्राप्ति है",
     "normalized": "जीवन का उद्देश्य औदात्य की प्राप्ति है",
     "meaning": "人生の目的は崇高性の獲得である",
@@ -15,6 +105,96 @@
     ],
     "sourceIds": [
       "academic_011"
+    ]
+  },
+  {
+    "text": "प्रकृति के कण-कण में ईश्वर की सत्ता",
+    "normalized": "प्रकृति के कण कण में ईश्वर की सत्ता",
+    "meaning": "自然のあらゆる微細な部分における神の存在",
+    "meaning_ja": "自然のあらゆる微細な部分における神の存在",
+    "type": "religious_expression",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "宗教",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_014"
+    ]
+  },
+  {
+    "text": "माया का पर्दा",
+    "normalized": "माया का पर्दा",
+    "meaning": "幻影の幕、マーヤーによる隔たり",
+    "meaning_ja": "幻影の幕、マーヤーによる隔たり",
+    "type": "religious_concept",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "宗教",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_014"
+    ]
+  },
+  {
+    "text": "राधाकृष्ण के युगल रूप की उपासना",
+    "normalized": "राधाकृष्ण के युगल रूप की उपासना",
+    "meaning": "ラーダーとクリシュナの対なる姿への崇拝",
+    "meaning_ja": "ラーダーとクリシュナの対なる姿への崇拝",
+    "type": "religious_expression",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "宗教",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_015"
+    ]
+  },
+  {
+    "text": "राम शक्ति, शील और सौंदर्य के स्वामी हैं",
+    "normalized": "राम शक्ति शील और सौंदर्य के स्वामी हैं",
+    "meaning": "ラーマは力・徳性・美の主である",
+    "meaning_ja": "ラーマは力・徳性・美の主である",
+    "type": "religious_expression",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "宗教",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_015"
+    ]
+  },
+  {
+    "text": "रूढ़ियों और आडंबरों का विरोध",
+    "normalized": "रूढ़ियों और आडंबरों का विरोध",
+    "meaning": "因習と虚飾への反対",
+    "meaning_ja": "因習と虚飾への反対",
+    "type": "social_expression",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "宗教",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_014"
     ]
   },
   {
@@ -54,6 +234,60 @@
     ]
   },
   {
+    "text": "संसार को ईश्वर का ही एक रूप मानते हैं",
+    "normalized": "संसार को ईश्वर का ही एक रूप मानते हैं",
+    "meaning": "世界を神そのものの一つの姿と考える",
+    "meaning_ja": "世界を神そのものの一つの姿と考える",
+    "type": "religious_concept",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "宗教",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_015"
+    ]
+  },
+  {
+    "text": "सख्य भाव की प्रधानता रहती है",
+    "normalized": "सख्य भाव की प्रधानता रहती है",
+    "meaning": "友愛の感情が中心となる",
+    "meaning_ja": "友愛の感情が中心となる",
+    "type": "religious_concept",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "宗教",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_015"
+    ]
+  },
+  {
+    "text": "समन्वय भावना एवं लोक कल्याण पर विशेष बल दिया",
+    "normalized": "समन्वय भावना एवं लोक कल्याण पर विशेष बल दिया",
+    "meaning": "調和の精神と民衆の幸福を特に重視した",
+    "meaning_ja": "調和の精神と民衆の幸福を特に重視した",
+    "type": "academic_expression",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "宗教",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_015"
+    ]
+  },
+  {
     "text": "साहित्य जीवन की व्याख्या है",
     "normalized": "साहित्य जीवन की व्याख्या है",
     "meaning": "文学は人生の解釈である",
@@ -69,6 +303,42 @@
     ],
     "sourceIds": [
       "academic_011"
+    ]
+  },
+  {
+    "text": "सेवक-सेव्य भाव की भक्ति",
+    "normalized": "सेवक सेव्य भाव की भक्ति",
+    "meaning": "仕える者と仕えられる対象という関係に基づく信仰",
+    "meaning_ja": "仕える者と仕えられる対象という関係に基づく信仰",
+    "type": "religious_concept",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "宗教",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_015"
+    ]
+  },
+  {
+    "text": "हिंदी साहित्य का इतिहास लगभग एक हजार वर्षों का है",
+    "normalized": "हिंदी साहित्य का इतिहास लगभग एक हजार वर्षों का है",
+    "meaning": "ヒンディー文学の歴史はおよそ千年に及ぶ",
+    "meaning_ja": "ヒンディー文学の歴史はおよそ千年に及ぶ",
+    "type": "definition",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "学術",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_012"
     ]
   },
   {
@@ -108,8 +378,8 @@
   {
     "text": "अनर्गल विस्तार से बचना चाहिए",
     "normalized": "अनर्गल विस्तार से बचना चाहिए",
-    "meaning": "無駄な विस्तारを避けるべきである",
-    "meaning_ja": "無駄な विस्तारを避けるべきである",
+    "meaning": "無駄な詳述を避けるべきである",
+    "meaning_ja": "無駄な詳述を避けるべきである",
     "type": "instruction",
     "importance": 4,
     "category": "academic",
@@ -157,6 +427,24 @@
     ]
   },
   {
+    "text": "इस काल में वीरतापूर्ण रचनाएँ अधिक लिखी गई हैं",
+    "normalized": "इस काल में वीरतापूर्ण रचनाएँ अधिक लिखी गई हैं",
+    "meaning": "この時代には英雄的作品が多く書かれた",
+    "meaning_ja": "この時代には英雄的作品が多く書かれた",
+    "type": "academic_expression",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "学術",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_012"
+    ]
+  },
+  {
     "text": "इसके लिए आवश्यक होगा कि विषयवस्तु की रूपरेखा बनाकर उसे अलग-अलग अनुच्छेदों द्वारा लिखा जाए",
     "normalized": "इसके लिए आवश्यक होगा कि विषयवस्तु की रूपरेखा बनाकर उसे अलग अलग अनुच्छेदों द्वारा लिखा जाए",
     "meaning": "そのためには、内容のアウトラインを作り、別々の段落によって書く必要がある",
@@ -171,6 +459,42 @@
     ],
     "sourceIds": [
       "academic_007"
+    ]
+  },
+  {
+    "text": "ईश्वर के साकार रूप के उपासक थे",
+    "normalized": "ईश्वर के साकार रूप के उपासक थे",
+    "meaning": "神の有形の姿を崇拝する者であった",
+    "meaning_ja": "神の有形の姿を崇拝する者であった",
+    "type": "religious_expression",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "宗教",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_015"
+    ]
+  },
+  {
+    "text": "ईश्वर को निराकार मानते थे",
+    "normalized": "ईश्वर को निराकार मानते थे",
+    "meaning": "神を無形のものと考えていた",
+    "meaning_ja": "神を無形のものと考えていた",
+    "type": "religious_expression",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "宗教",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_014"
     ]
   },
   {
@@ -448,6 +772,24 @@
     ]
   },
   {
+    "text": "प्रबंध काव्य में एक सिलसिलेवार कथा होती है",
+    "normalized": "प्रबंध काव्य में एक सिलसिलेवार कथा होती है",
+    "meaning": "叙事詩には連続した物語が存在する",
+    "meaning_ja": "叙事詩には連続した物語が存在する",
+    "type": "definition",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "学術",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_012"
+    ]
+  },
+  {
     "text": "बंदर और मगरमच्छ की दोस्ती हो गई",
     "normalized": "बंदर और मगरमच्छ की दोस्ती हो गई",
     "meaning": "猿とワニは友達になった",
@@ -482,6 +824,60 @@
     ]
   },
   {
+    "text": "भक्ति की भावना बढ़ रही थी",
+    "normalized": "भक्ति की भावना बढ़ रही थी",
+    "meaning": "信仰の感情が高まっていた",
+    "meaning_ja": "信仰の感情が高まっていた",
+    "type": "academic_expression",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "宗教",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_013"
+    ]
+  },
+  {
+    "text": "भक्ति के माध्यम से समाज का सुधार",
+    "normalized": "भक्ति के माध्यम से समाज का सुधार",
+    "meaning": "信仰を通じた社会の改善",
+    "meaning_ja": "信仰を通じた社会の改善",
+    "type": "academic_expression",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "宗教",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_013"
+    ]
+  },
+  {
+    "text": "भक्तों का उद्धार करने के लिए",
+    "normalized": "भक्तों का उद्धार करने के लिए",
+    "meaning": "信者たちを救済するために",
+    "meaning_ja": "信者たちを救済するために",
+    "type": "religious_expression",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "宗教",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_013"
+    ]
+  },
+  {
     "text": "भाषा में एकरूपता लाने के लिए इस मानकीकरण को आधिकारिक रूप से अपनाया",
     "normalized": "भाषा में एकरूपता लाने के लिए इस मानकीकरण को आधिकारिक रूप से अपनाया",
     "meaning": "言語に統一性をもたらすため、この標準化が公式に採用された",
@@ -496,6 +892,24 @@
     ],
     "sourceIds": [
       "academic_009"
+    ]
+  },
+  {
+    "text": "मध्यकाल को दो भागों में बाँटा जाता है",
+    "normalized": "मध्यकाल को दो भागों में बाँटा जाता है",
+    "meaning": "中世は二つの部分に分けられる",
+    "meaning_ja": "中世は二つの部分に分けられる",
+    "type": "academic_expression",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "宗教",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_013"
     ]
   },
   {
@@ -653,6 +1067,24 @@
     ]
   },
   {
+    "text": "विभिन्न कालों के नामकरण का आधार उस काल की रचनाएँ हैं",
+    "normalized": "विभिन्न कालों के नामकरण का आधार उस काल की रचनाएँ हैं",
+    "meaning": "各時代の名称はその時代の作品に基づいている",
+    "meaning_ja": "各時代の名称はその時代の作品に基づいている",
+    "type": "academic_expression",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "学術",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_012"
+    ]
+  },
+  {
     "text": "विषय पर आपकी पकड़ को साबित कर सकेगा",
     "normalized": "विषय पर आपकी पकड़ को साबित कर सकेगा",
     "meaning": "テーマに対する理解の深さを証明できるだろう",
@@ -772,6 +1204,24 @@
     ],
     "sourceIds": [
       "academic_002"
+    ]
+  },
+  {
+    "text": "अपभ्रंश भाषा कहा गया",
+    "normalized": "अपभ्रंश भाषा कहा गया",
+    "meaning": "アパブランシャ語と呼ばれた",
+    "meaning_ja": "アパブランシャ語と呼ばれた",
+    "type": "linguistic_expression",
+    "importance": 3,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学史",
+      "学術",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_012"
     ]
   },
   {
