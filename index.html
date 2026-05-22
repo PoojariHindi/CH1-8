@@ -236,6 +236,34 @@
     border: 1px solid #bdd8bd;
     color: #23492b;
   }
+  
+  .known-btn {
+  background: #f1e7ff;
+  border: 1px solid #caa8ff;
+  color: #5b3a8a;
+}
+
+  .known-btn.remove {
+  background: #e3d2ff;
+  border: 1px solid #b88cff;
+  color: #4a2c73;
+}
+
+  .known-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 12px;
+  padding: 10px 0;
+  border-bottom: 1px solid #ddd;
+}
+
+.known-remove-btn {
+  border: none;
+  border-radius: 8px;
+  padding: 6px 10px;
+  cursor: pointer;
+}
 
   @media (max-width: 640px) {
     body {
@@ -314,6 +342,19 @@
     line-height: 1.4;
   }
 
+  .quiz-action-row {
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-top: 10px;
+  }
+
+  .quiz-action-row button {
+  font-size: 13px;
+  padding: 8px 10px;
+  }
+  
   .next-btn {
       margin-top: 7px;
       padding: 9px;
@@ -383,6 +424,7 @@
           <option value="bollywood_vocab">B語彙</option>
           <option value="bollywood_fill">B穴埋め</option>
           <option value="bollywood_expressions">B表現</option>
+          <option value="known">覚えたリスト</option>
         </select>
       </div>
 

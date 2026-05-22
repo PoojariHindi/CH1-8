@@ -23,12 +23,19 @@ let reviewModeEnabled = false;
 
 const MYLIST_STORAGE_KEY = "hindiQuizMyList";
 const MYLIST_MAX_ITEMS = 200;
+const KNOWN_STORAGE_KEY = "hindiQuizKnownVocab";
+const KNOWN_MAX_ITEMS = 300;
 const MYLIST_ELIGIBLE_MODES = new Set([
   "ch",
   "news",
   "academic_vocab",
   "bollywood_vocab",
   "mylist"
+]);
+const KNOWN_ELIGIBLE_MODES = new Set([
+  "news",
+  "academic_vocab",
+  "bollywood_vocab"
 ]);
 
 async function loadJson(path) {
@@ -205,7 +212,8 @@ function isVocabularyMode(mode) {
     mode === "news" ||
     mode === "bollywood_vocab" ||
     mode === "academic_vocab" ||
-    mode === "mylist"
+    mode === "mylist" ||
+    mode === "known"
   );
 }
 
@@ -228,6 +236,12 @@ function getMyListKey(entry) {
     normalizeString(entry.word);
 }
 
+function getKnownKey(entry) {
+  return normalizeString(entry.normalized) ||
+    normalizeString(entry.display) ||
+    normalizeString(entry.word);
+}
+
 function loadMyList() {
   try {
     const raw = localStorage.getItem(MYLIST_STORAGE_KEY);
@@ -240,11 +254,44 @@ function loadMyList() {
   }
 }
 
+function loadKnown() {
+  try {
+    const raw = localStorage.getItem(KNOWN_STORAGE_KEY);
+    const items = raw ? JSON.parse(raw) : [];
+
+    return Array.isArray(items) ? items : [];
+  } catch (error) {
+    console.warn("Failed to load known:", error);
+    return [];
+  }
+}
+
+
 function saveMyList(items) {
   localStorage.setItem(MYLIST_STORAGE_KEY, JSON.stringify(items));
 }
 
+function saveKnown(items) {
+  localStorage.setItem(KNOWN_STORAGE_KEY, JSON.stringify(items));
+}
+
 function sanitizeMyListEntry(entry) {
+  return {
+    word: normalizeString(entry.word),
+    display: normalizeString(entry.display || entry.word),
+    normalized: normalizeString(entry.normalized || entry.word),
+    meaning: normalizeString(entry.meaning),
+    meaning_ja: normalizeString(entry.meaning_ja),
+    pos: normalizeString(entry.pos),
+    source: normalizeString(entry.source),
+    lesson: entry.lesson ?? null,
+    topic: normalizeString(entry.topic),
+    category: normalizeString(entry.category),
+    quizWeight: 1
+  };
+}
+
+function sanitizeKnownEntry(entry) {
   return {
     word: normalizeString(entry.word),
     display: normalizeString(entry.display || entry.word),
@@ -265,6 +312,13 @@ function isInMyList(entry) {
   if (!key) return false;
 
   return loadMyList().some((item) => getMyListKey(item) === key);
+}
+
+function isInKnown(entry) {
+  const key = getKnownKey(entry);
+  if (!key) return false;
+
+  return loadKnown().some((item) => getKnownKey(item) === key);
 }
 
 function addToMyList(entry) {
@@ -301,6 +355,40 @@ function addToMyList(entry) {
   };
 }
 
+function addToKnown(entry) {
+  const key = getKnownKey(entry);
+  if (!key) {
+    return {
+      ok: false,
+      message: "この語彙は覚えたリストに追加できません。"
+    };
+  }
+
+  const items = loadKnown();
+
+  if (items.some((item) => getKnownKey(item) === key)) {
+    return {
+      ok: true,
+      message: "すでに覚えたリストに入っています。"
+    };
+  }
+
+  if (items.length >= KNOWN_MAX_ITEMS) {
+    return {
+      ok: false,
+      message: `覚えたリストは${KNOWN_MAX_ITEMS}語までです。不要な語を削除してください。`
+    };
+  }
+
+  items.push(sanitizeKnownEntry(entry));
+  saveKnown(items);
+
+  return {
+    ok: true,
+    message: "覚えたリストに追加しました。"
+  };
+}
+
 function removeFromMyList(entry) {
   const key = getMyListKey(entry);
   if (!key) {
@@ -320,11 +408,37 @@ function removeFromMyList(entry) {
   };
 }
 
+function removeFromKnown(entry) {
+  const key = getKnownKey(entry);
+  if (!key) {
+    return {
+      ok: false,
+      message: "この語彙は覚えたリストから削除できません。"
+    };
+  }
+
+  const items = loadKnown();
+  const nextItems = items.filter((item) => getKnownKey(item) !== key);
+  saveKnown(nextItems);
+
+  return {
+    ok: true,
+    message: "覚えたリストから削除しました。"
+  };
+}
+
 function isMyListEligibleQuiz() {
   if (!currentQuiz || currentQuiz.type !== "vocab") return false;
 
   const mode = getMode();
   return MYLIST_ELIGIBLE_MODES.has(mode);
+}
+
+function isKnownEligibleQuiz() {
+  if (!currentQuiz || currentQuiz.type !== "vocab") return false;
+
+  const mode = getMode();
+  return KNOWN_ELIGIBLE_MODES.has(mode);
 }
 
 function renderMyListButton() {
@@ -561,9 +675,14 @@ function renderQuiz(quiz) {
         次の問題
       </button>
       
-　　　<button id="myListToggleBtn" class="mylist-btn" style="display:none;">
-  　　　マイリストに追加
-　　　　</button>
+      <div class="quiz-action-row">
+       <button id="myListToggleBtn" class="mylist-btn" style="display:none;">
+        マイリストに追加
+       </button>
+
+       <button id="knownToggleBtn" class="mylist-btn known-btn" style="display:none;">
+        覚えたリストに追加
+       </button>
     </div>
   `;
 
@@ -648,6 +767,41 @@ function handleAnswerClick(event) {
       }
     };
   }
+
+ const knownBtn = document.getElementById("knownToggleBtn");
+
+if (knownBtn && isKnownEligibleQuiz()) {
+  const inKnown = isInKnown(currentQuiz.entry);
+
+  knownBtn.style.display = "inline-block";
+  knownBtn.textContent = inKnown
+    ? "覚えたリストから削除"
+    : "覚えたリストに追加";
+
+  knownBtn.onclick = () => {
+    const before = isInKnown(currentQuiz.entry);
+
+    const result = before
+      ? removeFromKnown(currentQuiz.entry)
+      : addToKnown(currentQuiz.entry);
+
+    const after = isInKnown(currentQuiz.entry);
+
+    knownBtn.textContent = after
+      ? "覚えたリストから削除"
+      : "覚えたリストに追加";
+
+    if (feedback && result.message) {
+      feedback.innerHTML += `<p style="font-size:13px;">${escapeHtml(result.message)}</p>`;
+    }
+  };
+}
+}
+
+function excludeKnownItems(pool) {
+  if (!Array.isArray(pool)) return [];
+
+  return pool.filter((entry) => !isInKnown(entry));
 }
 
 function getCurrentPool() {
@@ -661,21 +815,25 @@ function getCurrentPool() {
     return loadMyList();
   }
 
+  if (mode === "known") {
+  return loadKnown();
+  }
+
   if (mode === "ch") {
     const lessonValue =  document.getElementById("lessonSelect").value;
    return filterChByLessonRange(chVocab, lessonValue);
   }
 
   if (mode === "news") {
-    return [...newsVocab];
+  return excludeKnownItems([...newsVocab]);
   }
 
   if (mode === "bollywood_vocab") {
-    return [...bollywoodVocab];
+  return excludeKnownItems([...bollywoodVocab]);
   }
 
   if (mode === "academic_vocab") {
-    return [...academicVocab];
+  return excludeKnownItems([...academicVocab]);
   }
 
   if (mode === "academic_expressions") {
@@ -702,17 +860,31 @@ function startQuiz() {
   const direction = getDirection();
   const quizArea = document.getElementById("quizArea");
   const pool = getCurrentPool();
-
-  if (pool.length < 4) {
-    if (mode === "mylist") {
-      quizArea.innerHTML =
-        `<p>マイリストの語彙が4語以上になると出題できます。</p>
-         <p style="font-size:13px; opacity:0.8;">現在の登録数: ${pool.length} / ${MYLIST_MAX_ITEMS}</p>`;
-    } else {
-      quizArea.innerHTML = "<p>問題を作るのに十分なデータがありません。</p>";
-    }
-    return;
+  if (mode === "known") {
+  renderKnownList(pool);
+  return;
   }
+  if (pool.length < 4) {
+  if (mode === "mylist") {
+    quizArea.innerHTML =
+      `<p>マイリストの語彙が4語以上になると出題できます。</p>
+       <p style="font-size:13px; opacity:0.8;">現在の登録数: ${pool.length} / ${MYLIST_MAX_ITEMS}</p>`;
+
+  } else if (mode === "known") {
+
+    quizArea.innerHTML =
+      `<p>覚えたリストの語彙が4語以上になると確認できます。</p>
+       <p style="font-size:13px; opacity:0.8;">現在の登録数: ${pool.length} / ${KNOWN_MAX_ITEMS}</p>`;
+
+  } else {
+
+    quizArea.innerHTML =
+      "<p>問題を作るのに十分なデータがありません。</p>";
+
+  }
+
+  return;
+}
 
   if (mode === "bollywood_fill" || mode === "academic_fill") {
     currentQuiz = createFillQuestion(pool);
@@ -763,6 +935,68 @@ function updateUiByMode() {
     directionSelect.style.display = "";
     if (directionLabel) directionLabel.style.display = "";
   }
+}
+
+function renderKnownList(items) {
+  const quizArea = document.getElementById("quizArea");
+
+  if (!Array.isArray(items) || items.length === 0) {
+    quizArea.innerHTML = `
+      <p>覚えたリストは空です。</p>
+    `;
+    return;
+  }
+
+  const sorted = [...items].sort((a, b) =>
+    getDisplayWord(a).localeCompare(getDisplayWord(b), "hi")
+  );
+
+  quizArea.innerHTML = `
+    <div class="quiz-card">
+      <h2>覚えたリスト</h2>
+
+      <p style="font-size:13px; opacity:0.8; margin-bottom:14px;">
+        登録数: ${sorted.length} / ${KNOWN_MAX_ITEMS}
+      </p>
+
+      <div class="known-list">
+        ${sorted.map((item, index) => `
+          <div class="known-item" data-index="${index}">
+            <div>
+              <strong>${escapeHtml(getDisplayWord(item))}</strong>
+              <div style="font-size:13px; opacity:0.8;">
+                ${escapeHtml(getMeaning(item))}
+              </div>
+            </div>
+
+            <button
+              class="known-remove-btn"
+              data-key="${escapeHtml(getKnownKey(item))}"
+            >
+              削除
+            </button>
+          </div>
+        `).join("")}
+      </div>
+    </div>
+  `;
+
+  document.querySelectorAll(".known-remove-btn").forEach((button) => {
+    button.addEventListener("click", () => {
+      const key = button.dataset.key;
+
+      const items = loadKnown();
+      const target = items.find(
+        (item) => getKnownKey(item) === key
+      );
+
+      if (!target) return;
+
+      removeFromKnown(target);
+
+      renderKnownList(loadKnown());
+    });
+  });
 }
 
 async function initApp() {
