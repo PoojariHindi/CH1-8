@@ -1,5 +1,41 @@
 [
   {
+    "text": "अविवेकपूर्ण मानवीय कृत्य",
+    "normalized": "अविवेकपूर्ण मानवीय कृत्य",
+    "meaning": "無分別な人間の行為",
+    "meaning_ja": "無分別な人間の行為",
+    "type": "academic_expression",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "環境",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_016"
+    ]
+  },
+  {
+    "text": "आर्थिक रूप से व्यवहार्य",
+    "normalized": "आर्थिक रूप से व्यवहार्य",
+    "meaning": "経済的に実行可能な",
+    "meaning_ja": "経済的に実行可能な",
+    "type": "academic_expression",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "環境",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_016"
+    ]
+  },
+  {
     "text": "ईश्वर का ही अंश जीव में समाया हुआ है",
     "normalized": "ईश्वर का ही अंश जीव में समाया हुआ है",
     "meaning": "神の一部が生命ある存在の中に宿っている",
@@ -108,6 +144,42 @@
     ]
   },
   {
+    "text": "पारिस्थितिकी तंत्र का पुनर्स्थापन",
+    "normalized": "पारिस्थितिकी तंत्र का पुनर्स्थापन",
+    "meaning": "生態系の回復",
+    "meaning_ja": "生態系の回復",
+    "type": "scientific_expression",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "環境",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_016"
+    ]
+  },
+  {
+    "text": "पुनर्स्थापन और पुनर्जनन",
+    "normalized": "पुनर्स्थापन और पुनर्जनन",
+    "meaning": "回復と再生",
+    "meaning_ja": "回復と再生",
+    "type": "scientific_expression",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "環境",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_016"
+    ]
+  },
+  {
     "text": "प्रकृति के कण-कण में ईश्वर की सत्ता",
     "normalized": "प्रकृति के कण कण में ईश्वर की सत्ता",
     "meaning": "自然のあらゆる微細な部分における神の存在",
@@ -123,6 +195,42 @@
     ],
     "sourceIds": [
       "academic_014"
+    ]
+  },
+  {
+    "text": "प्रकृति के ये तत्व संसाधन बन जाते हैं",
+    "normalized": "प्रकृति के ये तत्व संसाधन बन जाते हैं",
+    "meaning": "自然のこれらの要素は資源となる",
+    "meaning_ja": "自然のこれらの要素は資源となる",
+    "type": "definition",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "環境",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_016"
+    ]
+  },
+  {
+    "text": "प्रकृति चक्रों में कार्य करती है",
+    "normalized": "प्रकृति चक्रों में कार्य करती है",
+    "meaning": "自然は循環の中で機能する",
+    "meaning_ja": "自然は循環の中で機能する",
+    "type": "scientific_statement",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "環境",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_016"
     ]
   },
   {
@@ -285,6 +393,24 @@
     ],
     "sourceIds": [
       "academic_015"
+    ]
+  },
+  {
+    "text": "सांस्कृतिक रूप से स्वीकार्य",
+    "normalized": "सांस्कृतिक रूप से स्वीकार्य",
+    "meaning": "文化的に受容可能な",
+    "meaning_ja": "文化的に受容可能な",
+    "type": "academic_expression",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "環境",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_016"
     ]
   },
   {
@@ -616,6 +742,24 @@
     ],
     "sourceIds": [
       "academic_010"
+    ]
+  },
+  {
+    "text": "तकनीकी रूप से सुलभ होना चाहिए",
+    "normalized": "तकनीकी रूप से सुलभ होना चाहिए",
+    "meaning": "技術的に利用可能でなければならない",
+    "meaning_ja": "技術的に利用可能でなければならない",
+    "type": "academic_expression",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "環境",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_016"
     ]
   },
   {

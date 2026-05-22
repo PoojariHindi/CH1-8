@@ -13,6 +13,19 @@
     "quizWeight": 15
   },
   {
+    "word": "अनुमति",
+    "display": "अनुमति",
+    "normalized": "अनुमति",
+    "meaning_ja": "許可",
+    "pos": "名詞（女）",
+    "category": "行政・制度",
+    "difficulty": 2,
+    "importance": 4,
+    "sourceCount": 5,
+    "frequency": 5,
+    "quizWeight": 15
+  },
+  {
     "word": "जांच",
     "display": "जांच",
     "normalized": "जांच",
@@ -39,6 +52,19 @@
     "quizWeight": 15
   },
   {
+    "word": "प्रभावित",
+    "display": "प्रभावित",
+    "normalized": "प्रभावित",
+    "meaning_ja": "影響を受けた",
+    "pos": "形容詞",
+    "category": "社会・公共",
+    "difficulty": 3,
+    "importance": 3,
+    "sourceCount": 8,
+    "frequency": 8,
+    "quizWeight": 15
+  },
+  {
     "word": "स्थिति",
     "display": "स्थिति",
     "normalized": "स्थिति",
@@ -50,19 +76,6 @@
     "sourceCount": 7,
     "frequency": 7,
     "quizWeight": 15
-  },
-  {
-    "word": "अनुमति",
-    "display": "अनुमति",
-    "normalized": "अनुमति",
-    "meaning_ja": "許可",
-    "pos": "名詞（女）",
-    "category": "行政・制度",
-    "difficulty": 2,
-    "importance": 4,
-    "sourceCount": 4,
-    "frequency": 4,
-    "quizWeight": 14
   },
   {
     "word": "निगरानी",
@@ -78,17 +91,43 @@
     "quizWeight": 14
   },
   {
-    "word": "प्रभावित",
-    "display": "प्रभावित",
-    "normalized": "प्रभावित",
-    "meaning_ja": "影響を受けた",
-    "pos": "形容詞",
-    "category": "社会・公共",
-    "difficulty": 3,
-    "importance": 3,
-    "sourceCount": 7,
-    "frequency": 7,
+    "word": "प्रशासन",
+    "display": "प्रशासन",
+    "normalized": "प्रशासन",
+    "meaning_ja": "行政",
+    "pos": "名詞（男）",
+    "category": "行政・制度",
+    "difficulty": 2,
+    "importance": 4,
+    "sourceCount": 4,
+    "frequency": 4,
     "quizWeight": 14
+  },
+  {
+    "word": "मांग",
+    "display": "मांग",
+    "normalized": "मांग",
+    "meaning_ja": "要求、需要",
+    "pos": "名詞（女）",
+    "category": "労働・経済",
+    "difficulty": 2,
+    "importance": 4,
+    "sourceCount": 4,
+    "frequency": 4,
+    "quizWeight": 14
+  },
+  {
+    "word": "अपील",
+    "display": "अपील",
+    "normalized": "अपील",
+    "meaning_ja": "上訴、訴え、アピール",
+    "pos": "名詞（女）",
+    "category": "選挙・裁判",
+    "difficulty": 2,
+    "importance": 4,
+    "sourceCount": 3,
+    "frequency": 3,
+    "quizWeight": 13
   },
   {
     "word": "अलर्ट",
@@ -156,19 +195,6 @@
     "quizWeight": 13
   },
   {
-    "word": "प्रशासन",
-    "display": "प्रशासन",
-    "normalized": "प्रशासन",
-    "meaning_ja": "行政",
-    "pos": "名詞（男）",
-    "category": "行政・制度",
-    "difficulty": 2,
-    "importance": 4,
-    "sourceCount": 3,
-    "frequency": 3,
-    "quizWeight": 13
-  },
-  {
     "word": "फंड",
     "display": "फंड",
     "normalized": "फंड",
@@ -195,19 +221,6 @@
     "quizWeight": 13
   },
   {
-    "word": "मांग",
-    "display": "मांग",
-    "normalized": "मांग",
-    "meaning_ja": "要求、需要",
-    "pos": "名詞（女）",
-    "category": "労働・経済",
-    "difficulty": 2,
-    "importance": 4,
-    "sourceCount": 3,
-    "frequency": 3,
-    "quizWeight": 13
-  },
-  {
     "word": "मौत",
     "display": "मौत",
     "normalized": "मौत",
@@ -218,6 +231,19 @@
     "importance": 4,
     "sourceCount": 3,
     "frequency": 3,
+    "quizWeight": 13
+  },
+  {
+    "word": "रिपोर्ट",
+    "display": "रिपोर्ट",
+    "normalized": "रिपोर्ट",
+    "meaning_ja": "報告、レポート",
+    "pos": "名詞（女）",
+    "category": "行政・制度",
+    "difficulty": 1,
+    "importance": 4,
+    "sourceCount": 2,
+    "frequency": 2,
     "quizWeight": 13
   },
   {
@@ -251,19 +277,6 @@
     "display": "अदालत",
     "normalized": "अदालत",
     "meaning_ja": "裁判所",
-    "pos": "名詞（女）",
-    "category": "選挙・裁判",
-    "difficulty": 2,
-    "importance": 4,
-    "sourceCount": 2,
-    "frequency": 2,
-    "quizWeight": 12
-  },
-  {
-    "word": "अपील",
-    "display": "अपील",
-    "normalized": "अपील",
-    "meaning_ja": "上訴、訴え、アピール",
     "pos": "名詞（女）",
     "category": "選挙・裁判",
     "difficulty": 2,
@@ -370,6 +383,32 @@
     "meaning_ja": "継続する、続ける",
     "pos": "動詞句",
     "category": "重要動詞",
+    "difficulty": 2,
+    "importance": 4,
+    "sourceCount": 2,
+    "frequency": 2,
+    "quizWeight": 12
+  },
+  {
+    "word": "दवा",
+    "display": "दवा",
+    "normalized": "दवा",
+    "meaning_ja": "薬",
+    "pos": "名詞（女）",
+    "category": "医療・健康",
+    "difficulty": 1,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 12
+  },
+  {
+    "word": "दावा",
+    "display": "दावा",
+    "normalized": "दावा",
+    "meaning_ja": "主張、 दावा",
+    "pos": "名詞（男）",
+    "category": "選挙・裁判",
     "difficulty": 2,
     "importance": 4,
     "sourceCount": 2,
@@ -494,19 +533,6 @@
     "quizWeight": 12
   },
   {
-    "word": "रिपोर्ट",
-    "display": "रिपोर्ट",
-    "normalized": "रिपोर्ट",
-    "meaning_ja": "報告、レポート",
-    "pos": "名詞（女）",
-    "category": "行政・制度",
-    "difficulty": 1,
-    "importance": 4,
-    "sourceCount": 1,
-    "frequency": 1,
-    "quizWeight": 12
-  },
-  {
     "word": "व्यवस्था",
     "display": "व्यवस्था",
     "normalized": "व्यवस्था",
@@ -559,6 +585,19 @@
     "quizWeight": 11
   },
   {
+    "word": "असर",
+    "display": "असर",
+    "normalized": "असर",
+    "meaning_ja": "影響、効果",
+    "pos": "名詞（男）",
+    "category": "労働・経済",
+    "difficulty": 2,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 11
+  },
+  {
     "word": "आंधी",
     "display": "आंधी",
     "normalized": "आंधी",
@@ -601,7 +640,7 @@
     "word": "आरोप",
     "display": "आरोप",
     "normalized": "आरोप",
-    "meaning_ja": "告発、 आरोप",
+    "meaning_ja": "告発、容疑、非難",
     "pos": "名詞（男）",
     "category": "選挙・裁判",
     "difficulty": 2,
@@ -643,6 +682,19 @@
     "meaning_ja": "候補者",
     "pos": "名詞（男）",
     "category": "選挙・裁判",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 2,
+    "frequency": 2,
+    "quizWeight": 11
+  },
+  {
+    "word": "एम्स",
+    "display": "एम्स",
+    "normalized": "एम्स",
+    "meaning_ja": "AIIMS、全インド医科大学",
+    "pos": "名詞（男）",
+    "category": "医療・健康",
     "difficulty": 3,
     "importance": 4,
     "sourceCount": 2,
@@ -741,6 +793,19 @@
     "quizWeight": 11
   },
   {
+    "word": "किराया",
+    "display": "किराया",
+    "normalized": "किराया",
+    "meaning_ja": "運賃、賃料",
+    "pos": "名詞（男）",
+    "category": "労働・経済",
+    "difficulty": 2,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 11
+  },
+  {
     "word": "गंभीर",
     "display": "गंभीर",
     "normalized": "गंभीर",
@@ -790,6 +855,19 @@
     "importance": 4,
     "sourceCount": 2,
     "frequency": 2,
+    "quizWeight": 11
+  },
+  {
+    "word": "घोषणा",
+    "display": "घोषणा",
+    "normalized": "घोषणा",
+    "meaning_ja": "発表、宣言",
+    "pos": "名詞（女）",
+    "category": "行政・制度",
+    "difficulty": 2,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
     "quizWeight": 11
   },
   {
@@ -871,19 +949,6 @@
     "quizWeight": 11
   },
   {
-    "word": "दावा",
-    "display": "दावा",
-    "normalized": "दावा",
-    "meaning_ja": "主張、 दावा",
-    "pos": "名詞（男）",
-    "category": "選挙・裁判",
-    "difficulty": 2,
-    "importance": 4,
-    "sourceCount": 1,
-    "frequency": 1,
-    "quizWeight": 11
-  },
-  {
     "word": "नागरिक",
     "display": "नागरिक",
     "normalized": "नागरिक",
@@ -933,6 +998,19 @@
     "importance": 4,
     "sourceCount": 2,
     "frequency": 2,
+    "quizWeight": 11
+  },
+  {
+    "word": "पहचान",
+    "display": "पहचान",
+    "normalized": "पहचान",
+    "meaning_ja": "身元確認、識別",
+    "pos": "名詞（女）",
+    "category": "事件・事故",
+    "difficulty": 2,
+    "importance": 3,
+    "sourceCount": 3,
+    "frequency": 3,
     "quizWeight": 11
   },
   {
@@ -1076,6 +1154,19 @@
     "importance": 4,
     "sourceCount": 2,
     "frequency": 2,
+    "quizWeight": 11
+  },
+  {
+    "word": "मरीज",
+    "display": "मरीज",
+    "normalized": "मरीज",
+    "meaning_ja": "患者",
+    "pos": "名詞（男）",
+    "category": "医療・健康",
+    "difficulty": 2,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
     "quizWeight": 11
   },
   {
@@ -1235,6 +1326,19 @@
     "quizWeight": 11
   },
   {
+    "word": "शामिल होना",
+    "display": "शामिल होना",
+    "normalized": "शामिल_होना",
+    "meaning_ja": "参加する、加わる",
+    "pos": "動詞句",
+    "category": "重要動詞",
+    "difficulty": 2,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 11
+  },
+  {
     "word": "शिकायत",
     "display": "शिकायत",
     "normalized": "शिकायत",
@@ -1365,6 +1469,19 @@
     "quizWeight": 11
   },
   {
+    "word": "हालांकि",
+    "display": "हालांकि",
+    "normalized": "हालांकि",
+    "meaning_ja": "しかしながら、もっとも",
+    "pos": "接続詞",
+    "category": "ニュース定型句",
+    "difficulty": 2,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 11
+  },
+  {
     "word": "हिंसक",
     "display": "हिंसक",
     "normalized": "हिंसक",
@@ -1384,6 +1501,19 @@
     "meaning_ja": "国際的な",
     "pos": "形容詞",
     "category": "労働・経済",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 10
+  },
+  {
+    "word": "अध्यक्ष",
+    "display": "अध्यक्ष",
+    "normalized": "अध्यक्ष",
+    "meaning_ja": "会長、議長",
+    "pos": "名詞（男）",
+    "category": "行政・制度",
     "difficulty": 3,
     "importance": 4,
     "sourceCount": 1,
@@ -1469,6 +1599,19 @@
     "quizWeight": 10
   },
   {
+    "word": "आनलाइन बिक्री",
+    "display": "ऑनलाइन बिक्री",
+    "normalized": "ऑनलाइन_बिक्री",
+    "meaning_ja": "オンライン販売",
+    "pos": "名詞（女）",
+    "category": "労働・経済",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 10
+  },
+  {
     "word": "आपदा",
     "display": "आपदा",
     "normalized": "आपदा",
@@ -1534,12 +1677,25 @@
     "quizWeight": 10
   },
   {
-    "word": "एम्स",
-    "display": "एम्स",
-    "normalized": "एम्स",
-    "meaning_ja": "AIIMS、全インド医科大学",
+    "word": "उपाध्यक्ष",
+    "display": "उपाध्यक्ष",
+    "normalized": "उपाध्यक्ष",
+    "meaning_ja": "副会長、副議長",
     "pos": "名詞（男）",
-    "category": "医療・健康",
+    "category": "行政・制度",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 10
+  },
+  {
+    "word": "एकजुट",
+    "display": "एकजुट",
+    "normalized": "एकजुट",
+    "meaning_ja": "団結した、一致団結した",
+    "pos": "形容詞",
+    "category": "労働・経済",
     "difficulty": 3,
     "importance": 4,
     "sourceCount": 1,
@@ -1612,6 +1768,32 @@
     "quizWeight": 10
   },
   {
+    "word": "के खिलाफ",
+    "display": "के खिलाफ",
+    "normalized": "के_खिलाफ",
+    "meaning_ja": "〜に対して、〜に反対して",
+    "pos": "後置詞句",
+    "category": "ニュース定型句",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 10
+  },
+  {
+    "word": "के तहत",
+    "display": "के तहत",
+    "normalized": "के_तहत",
+    "meaning_ja": "〜の下で、〜に基づいて",
+    "pos": "後置詞句",
+    "category": "行政・制度",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 10
+  },
+  {
     "word": "कौशल विकास",
     "display": "कौशल विकास",
     "normalized": "कौशल_विकास",
@@ -1631,6 +1813,19 @@
     "meaning_ja": "地域言語",
     "pos": "名詞（女）",
     "category": "教育",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 10
+  },
+  {
+    "word": "खुदरा",
+    "display": "खुदरा",
+    "normalized": "खुदरा",
+    "meaning_ja": "小売",
+    "pos": "名詞（男）",
+    "category": "労働・経済",
     "difficulty": 3,
     "importance": 4,
     "sourceCount": 1,
@@ -1690,6 +1885,19 @@
     "quizWeight": 10
   },
   {
+    "word": "गुटखा",
+    "display": "गुटखा",
+    "normalized": "गुटखा",
+    "meaning_ja": "グトカー、噛みタバコ製品",
+    "pos": "名詞（男）",
+    "category": "医療・健康",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 10
+  },
+  {
     "word": "गोली मारना",
     "display": "गोली मारना",
     "normalized": "गोली_मारना",
@@ -1707,6 +1915,19 @@
     "display": "घाटा",
     "normalized": "घाटा",
     "meaning_ja": "赤字、損失",
+    "pos": "名詞（男）",
+    "category": "労働・経済",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 10
+  },
+  {
+    "word": "चालक",
+    "display": "चालक",
+    "normalized": "चालक",
+    "meaning_ja": "運転手、操作者",
     "pos": "名詞（男）",
     "category": "労働・経済",
     "difficulty": 3,
@@ -1852,6 +2073,19 @@
     "meaning_ja": "三言語方式",
     "pos": "名詞（男）",
     "category": "教育",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 10
+  },
+  {
+    "word": "थोक",
+    "display": "थोक",
+    "normalized": "थोक",
+    "meaning_ja": "卸売",
+    "pos": "名詞（男）",
+    "category": "労働・経済",
     "difficulty": 3,
     "importance": 4,
     "sourceCount": 1,
@@ -2025,19 +2259,6 @@
     "importance": 4,
     "sourceCount": 1,
     "frequency": 1,
-    "quizWeight": 10
-  },
-  {
-    "word": "पहचान",
-    "display": "पहचान",
-    "normalized": "पहचान",
-    "meaning_ja": "身元確認、識別",
-    "pos": "名詞（女）",
-    "category": "事件・事故",
-    "difficulty": 2,
-    "importance": 3,
-    "sourceCount": 2,
-    "frequency": 2,
     "quizWeight": 10
   },
   {
@@ -2242,6 +2463,19 @@
     "meaning_ja": "発砲、銃撃",
     "pos": "名詞（女）",
     "category": "事件・事故",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 10
+  },
+  {
+    "word": "फार्मेसी",
+    "display": "फार्मेसी",
+    "normalized": "फार्मेसी",
+    "meaning_ja": "薬局、薬店",
+    "pos": "名詞（女）",
+    "category": "医療・健康",
     "difficulty": 3,
     "importance": 4,
     "sourceCount": 1,
@@ -2574,6 +2808,19 @@
     "quizWeight": 10
   },
   {
+    "word": "वचन",
+    "display": "वचन",
+    "normalized": "वचन",
+    "meaning_ja": "言葉、約束、教え",
+    "pos": "名詞（男）",
+    "category": "文化・宗教",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 10
+  },
+  {
     "word": "वापसी करना",
     "display": "वापसी करना",
     "normalized": "वापसी_करना",
@@ -2593,6 +2840,19 @@
     "meaning_ja": "犯行、事件",
     "pos": "名詞（女）",
     "category": "事件・事故",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 10
+  },
+  {
+    "word": "विक्रेता",
+    "display": "विक्रेता",
+    "normalized": "विक्रेता",
+    "meaning_ja": "販売業者",
+    "pos": "名詞（男）",
+    "category": "労働・経済",
     "difficulty": 3,
     "importance": 4,
     "sourceCount": 1,
@@ -2727,6 +2987,19 @@
     "importance": 4,
     "sourceCount": 1,
     "frequency": 1,
+    "quizWeight": 10
+  },
+  {
+    "word": "संख्या",
+    "display": "संख्या",
+    "normalized": "संख्या",
+    "meaning_ja": "数、数量",
+    "pos": "名詞（女）",
+    "category": "調査・データ",
+    "difficulty": 2,
+    "importance": 3,
+    "sourceCount": 2,
+    "frequency": 2,
     "quizWeight": 10
   },
   {
@@ -3003,6 +3276,32 @@
     "quizWeight": 10
   },
   {
+    "word": "स्वास्थ्य विभाग",
+    "display": "स्वास्थ्य विभाग",
+    "normalized": "स्वास्थ्य_विभाग",
+    "meaning_ja": "保健局、保健部門",
+    "pos": "名詞（男）",
+    "category": "医療・健康",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 10
+  },
+  {
+    "word": "हड़ताल",
+    "display": "हड़ताल",
+    "normalized": "हड़ताल",
+    "meaning_ja": "ストライキ、抗議休業",
+    "pos": "名詞（女）",
+    "category": "労働・経済",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 10
+  },
+  {
     "word": "हल निकालना",
     "display": "हल निकालना",
     "normalized": "हल_निकालना",
@@ -3198,6 +3497,19 @@
     "quizWeight": 9
   },
   {
+    "word": "आपातकालीन",
+    "display": "आपातकालीन",
+    "normalized": "आपातकालीन",
+    "meaning_ja": "緊急の",
+    "pos": "形容詞",
+    "category": "医療・健康",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
     "word": "आबादी",
     "display": "आबादी",
     "normalized": "आबादी",
@@ -3250,6 +3562,19 @@
     "quizWeight": 9
   },
   {
+    "word": "आह्वान",
+    "display": "आह्वान",
+    "normalized": "आह्वान",
+    "meaning_ja": "呼びかけ、訴え",
+    "pos": "名詞（男）",
+    "category": "行政・制度",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
     "word": "इच्छामृत्यु",
     "display": "इच्छामृत्यु",
     "normalized": "इच्छामृत्यु",
@@ -3257,6 +3582,19 @@
     "pos": "名詞（女）",
     "category": "選挙・裁判",
     "difficulty": 5,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "ई-फार्मेसी",
+    "display": "ई-फार्मेसी",
+    "normalized": "ईफार्मेसी",
+    "meaning_ja": "オンライン薬局",
+    "pos": "名詞（女）",
+    "category": "医療・健康",
+    "difficulty": 4,
     "importance": 4,
     "sourceCount": 1,
     "frequency": 1,
@@ -3458,6 +3796,32 @@
     "quizWeight": 9
   },
   {
+    "word": "गुटका",
+    "display": "गुटका",
+    "normalized": "गुटका",
+    "meaning_ja": "小型の宗教書、祈祷書",
+    "pos": "名詞（男）",
+    "category": "文化・宗教",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "गुटका साहिब",
+    "display": "गुटका साहिब",
+    "normalized": "गुटका_साहिब",
+    "meaning_ja": "シク教の小型祈祷書",
+    "pos": "名詞（男）",
+    "category": "文化・宗教",
+    "difficulty": 5,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
     "word": "गुणवत्ता",
     "display": "गुणवत्ता",
     "normalized": "गुणवत्ता",
@@ -3468,6 +3832,19 @@
     "importance": 3,
     "sourceCount": 2,
     "frequency": 2,
+    "quizWeight": 9
+  },
+  {
+    "word": "गुरुबाणी",
+    "display": "गुरुबाणी",
+    "normalized": "गुरुबाणी",
+    "meaning_ja": "グルの教え、シク教聖句",
+    "pos": "名詞（女）",
+    "category": "文化・宗教",
+    "difficulty": 5,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
     "quizWeight": 9
   },
   {
@@ -3510,6 +3887,19 @@
     "quizWeight": 9
   },
   {
+    "word": "ग्रामीण",
+    "display": "ग्रामीण",
+    "normalized": "ग्रामीण",
+    "meaning_ja": "農村住民",
+    "pos": "名詞（男）",
+    "category": "社会・公共",
+    "difficulty": 3,
+    "importance": 3,
+    "sourceCount": 2,
+    "frequency": 2,
+    "quizWeight": 9
+  },
+  {
     "word": "ग्रेजुएशन",
     "display": "ग्रेजुएशन",
     "normalized": "ग्रेजुएशन",
@@ -3542,6 +3932,19 @@
     "meaning_ja": "溶存酸素（DO）",
     "pos": "名詞（女）",
     "category": "都市・環境",
+    "difficulty": 5,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "चक्का जाम",
+    "display": "चक्का जाम",
+    "normalized": "चक्का_जाम",
+    "meaning_ja": "道路封鎖抗議、交通封鎖デモ",
+    "pos": "名詞（男）",
+    "category": "労働・経済",
     "difficulty": 5,
     "importance": 4,
     "sourceCount": 1,
@@ -3627,6 +4030,19 @@
     "quizWeight": 9
   },
   {
+    "word": "जूझना",
+    "display": "जूझना",
+    "normalized": "जूझना",
+    "meaning_ja": "苦闘する、対処に苦しむ",
+    "pos": "動詞",
+    "category": "重要動詞",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
     "word": "जूरी",
     "display": "जूरी",
     "normalized": "जूरी",
@@ -3705,6 +4121,19 @@
     "quizWeight": 9
   },
   {
+    "word": "दवा विक्रेता",
+    "display": "दवा विक्रेता",
+    "normalized": "दवा_विक्रेता",
+    "meaning_ja": "薬品販売業者",
+    "pos": "名詞（男）",
+    "category": "医療・健康",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
     "word": "दहेज प्रताड़ना",
     "display": "दहेज प्रताड़ना",
     "normalized": "दहेज_प्रताड़ना",
@@ -3726,6 +4155,19 @@
     "category": "重要動詞",
     "difficulty": 4,
     "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "दिक्कत",
+    "display": "दिक्कत",
+    "normalized": "दिक्कत",
+    "meaning_ja": "問題、困難、不便",
+    "pos": "名詞（女）",
+    "category": "労働・経済",
+    "difficulty": 2,
+    "importance": 3,
     "sourceCount": 1,
     "frequency": 1,
     "quizWeight": 9
@@ -3874,6 +4316,19 @@
     "quizWeight": 9
   },
   {
+    "word": "पदाधिकारी",
+    "display": "पदाधिकारी",
+    "normalized": "पदाधिकारी",
+    "meaning_ja": "役員、幹部",
+    "pos": "名詞（男）",
+    "category": "行政・制度",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
     "word": "परिषद",
     "display": "परिषद",
     "normalized": "परिषद",
@@ -3881,6 +4336,19 @@
     "pos": "名詞（女）",
     "category": "行政・制度",
     "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "पर्यावरण क्षतिपूर्ति शुल्क",
+    "display": "पर्यावरण क्षतिपूर्ति शुल्क",
+    "normalized": "पर्यावरण_क्षतिपूर्ति_शुल्क",
+    "meaning_ja": "環境補償料金",
+    "pos": "名詞（男）",
+    "category": "行政・制度",
+    "difficulty": 5,
     "importance": 4,
     "sourceCount": 1,
     "frequency": 1,
@@ -4069,6 +4537,19 @@
     "quizWeight": 9
   },
   {
+    "word": "बाधित होना",
+    "display": "बाधित होना",
+    "normalized": "बाधित_होना",
+    "meaning_ja": "妨げられる、中断される",
+    "pos": "動詞句",
+    "category": "重要動詞",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
     "word": "बुकबाइंडर",
     "display": "बुकबाइंडर",
     "normalized": "बुकबाइंडर",
@@ -4077,6 +4558,19 @@
     "category": "労働・経済",
     "difficulty": 4,
     "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "बुजुर्ग",
+    "display": "बुजुर्ग",
+    "normalized": "बुजुर्ग",
+    "meaning_ja": "高齢者",
+    "pos": "名詞（男）",
+    "category": "医療・健康",
+    "difficulty": 2,
+    "importance": 3,
     "sourceCount": 1,
     "frequency": 1,
     "quizWeight": 9
@@ -4127,6 +4621,19 @@
     "meaning_ja": "有権者名簿",
     "pos": "名詞（女）",
     "category": "選挙・裁判",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "मधुमेह",
+    "display": "मधुमेह",
+    "normalized": "मधुमेह",
+    "meaning_ja": "糖尿病",
+    "pos": "名詞（男）",
+    "category": "医療・健康",
     "difficulty": 4,
     "importance": 4,
     "sourceCount": 1,
@@ -4251,6 +4758,19 @@
     "quizWeight": 9
   },
   {
+    "word": "रक्तचाप",
+    "display": "रक्तचाप",
+    "normalized": "रक्तचाप",
+    "meaning_ja": "血圧",
+    "pos": "名詞（男）",
+    "category": "医療・健康",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
     "word": "रफ्तार",
     "display": "रफ्तार",
     "normalized": "रफ्तार",
@@ -4264,6 +4784,19 @@
     "quizWeight": 9
   },
   {
+    "word": "राष्ट्रव्यापी बंद",
+    "display": "राष्ट्रव्यापी बंद",
+    "normalized": "राष्ट्रव्यापी_बंद",
+    "meaning_ja": "全国的ストライキ、全国閉鎖",
+    "pos": "名詞（男）",
+    "category": "労働・経済",
+    "difficulty": 5,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
     "word": "रासायनिक आक्सीजन मांग",
     "display": "रासायनिक ऑक्सीजन मांग",
     "normalized": "रासायनिक_आक्सीजन_मांग",
@@ -4272,6 +4805,19 @@
     "category": "都市・環境",
     "difficulty": 5,
     "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "लकड़ी",
+    "display": "लकड़ी",
+    "normalized": "लकडी",
+    "meaning_ja": "木材、木",
+    "pos": "名詞（女）",
+    "category": "一般語彙",
+    "difficulty": 2,
+    "importance": 3,
     "sourceCount": 1,
     "frequency": 1,
     "quizWeight": 9
@@ -4310,6 +4856,19 @@
     "pos": "名詞（男）",
     "category": "事件・事故",
     "difficulty": 5,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "वितरक",
+    "display": "वितरक",
+    "normalized": "वितरक",
+    "meaning_ja": "流通業者、卸売業者",
+    "pos": "名詞（男）",
+    "category": "労働・経済",
+    "difficulty": 4,
     "importance": 4,
     "sourceCount": 1,
     "frequency": 1,
@@ -4433,19 +4992,6 @@
     "quizWeight": 9
   },
   {
-    "word": "संख्या",
-    "display": "संख्या",
-    "normalized": "संख्या",
-    "meaning_ja": "数、数量",
-    "pos": "名詞（女）",
-    "category": "調査・データ",
-    "difficulty": 2,
-    "importance": 3,
-    "sourceCount": 1,
-    "frequency": 1,
-    "quizWeight": 9
-  },
-  {
     "word": "संघीय अदालत",
     "display": "संघीय अदालत",
     "normalized": "संघीय_अदालत",
@@ -4465,6 +5011,19 @@
     "meaning_ja": "通信省",
     "pos": "名詞（男）",
     "category": "行政・制度",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "संचालित करना",
+    "display": "संचालित करना",
+    "normalized": "संचालित_करना",
+    "meaning_ja": "運営する、稼働させる",
+    "pos": "動詞句",
+    "category": "重要動詞",
     "difficulty": 4,
     "importance": 4,
     "sourceCount": 1,
@@ -4506,6 +5065,19 @@
     "category": "選挙・裁判",
     "difficulty": 5,
     "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "सख्त",
+    "display": "सख्त",
+    "normalized": "सख्त",
+    "meaning_ja": "厳格な",
+    "pos": "形容詞",
+    "category": "行政・制度",
+    "difficulty": 2,
+    "importance": 3,
     "sourceCount": 1,
     "frequency": 1,
     "quizWeight": 9
@@ -4612,6 +5184,45 @@
     "importance": 3,
     "sourceCount": 1,
     "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "सीएनजी",
+    "display": "सीएनजी",
+    "normalized": "सीएनजी",
+    "meaning_ja": "CNG（圧縮天然ガス）",
+    "pos": "名詞（女）",
+    "category": "労働・経済",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "सूत्रों के अनुसार",
+    "display": "सूत्रों के अनुसार",
+    "normalized": "सूत्रों_के_अनुसार",
+    "meaning_ja": "関係筋によれば",
+    "pos": "副詞句",
+    "category": "ニュース定型句",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "स्कीम",
+    "display": "स्कीम",
+    "normalized": "स्कीम",
+    "meaning_ja": "制度、スキーム",
+    "pos": "名詞（女）",
+    "category": "労働・経済",
+    "difficulty": 3,
+    "importance": 3,
+    "sourceCount": 2,
+    "frequency": 2,
     "quizWeight": 9
   },
   {
@@ -4758,6 +5369,19 @@
     "quizWeight": 8
   },
   {
+    "word": "अस्थायी",
+    "display": "अस्थायी",
+    "normalized": "अस्थायी",
+    "meaning_ja": "一時的な",
+    "pos": "形容詞",
+    "category": "行政・制度",
+    "difficulty": 3,
+    "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 8
+  },
+  {
     "word": "आधिकारिक बयान",
     "display": "आधिकारिक बयान",
     "normalized": "आधिकारिक_बयान",
@@ -4829,6 +5453,19 @@
     "meaning_ja": "高速道路",
     "pos": "名詞（男）",
     "category": "都市・環境",
+    "difficulty": 3,
+    "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 8
+  },
+  {
+    "word": "कंकड़",
+    "display": "कंकड़",
+    "normalized": "कंकड",
+    "meaning_ja": "小石、砂利",
+    "pos": "名詞（男）",
+    "category": "一般語彙",
     "difficulty": 3,
     "importance": 3,
     "sourceCount": 1,
@@ -4985,19 +5622,6 @@
     "meaning_ja": "ゴールド・モネタイゼーション制度",
     "pos": "名詞句",
     "category": "労働・経済",
-    "difficulty": 3,
-    "importance": 3,
-    "sourceCount": 1,
-    "frequency": 1,
-    "quizWeight": 8
-  },
-  {
-    "word": "ग्रामीण",
-    "display": "ग्रामीण",
-    "normalized": "ग्रामीण",
-    "meaning_ja": "農村住民",
-    "pos": "名詞（男）",
-    "category": "社会・公共",
     "difficulty": 3,
     "importance": 3,
     "sourceCount": 1,
@@ -5590,19 +6214,6 @@
     "quizWeight": 8
   },
   {
-    "word": "स्कीम",
-    "display": "स्कीम",
-    "normalized": "स्कीम",
-    "meaning_ja": "制度、スキーム",
-    "pos": "名詞（女）",
-    "category": "労働・経済",
-    "difficulty": 3,
-    "importance": 3,
-    "sourceCount": 1,
-    "frequency": 1,
-    "quizWeight": 8
-  },
-  {
     "word": "अंगदान",
     "display": "अंगदान",
     "normalized": "अंगदान",
@@ -5636,6 +6247,19 @@
     "pos": "名詞（女）",
     "category": "文化・宗教",
     "difficulty": 4,
+    "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 7
+  },
+  {
+    "word": "अस्थायी छूट",
+    "display": "अस्थायी छूट",
+    "normalized": "अस्थायी_छूट",
+    "meaning_ja": "一時的免除",
+    "pos": "名詞（女）",
+    "category": "行政・制度",
+    "difficulty": 5,
     "importance": 3,
     "sourceCount": 1,
     "frequency": 1,
@@ -5759,6 +6383,19 @@
     "quizWeight": 7
   },
   {
+    "word": "चालक शक्ति यूनियन",
+    "display": "चालक शक्ति यूनियन",
+    "normalized": "चालक_शक्ति_यूनियन",
+    "meaning_ja": "運転手団体『Chalak Shakti Union』",
+    "pos": "名詞（女）",
+    "category": "労働・経済",
+    "difficulty": 5,
+    "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 7
+  },
+  {
     "word": "जनगणना",
     "display": "जनगणना",
     "normalized": "जनगणना",
@@ -5804,6 +6441,19 @@
     "meaning_ja": "捕まえる、取り押さえる",
     "pos": "他動詞",
     "category": "事件・事故",
+    "difficulty": 4,
+    "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 7
+  },
+  {
+    "word": "दिवसीय",
+    "display": "दिवसीय",
+    "normalized": "दिवसीय",
+    "meaning_ja": "〜日間の",
+    "pos": "形容詞",
+    "category": "ニュース定型句",
     "difficulty": 4,
     "importance": 3,
     "sourceCount": 1,
@@ -6071,6 +6721,19 @@
     "quizWeight": 7
   },
   {
+    "word": "संकलित",
+    "display": "संकलित",
+    "normalized": "संकलित",
+    "meaning_ja": "収集された、編纂された",
+    "pos": "形容詞",
+    "category": "文化・宗教",
+    "difficulty": 4,
+    "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 7
+  },
+  {
     "word": "संवेदनशील",
     "display": "संवेदनशील",
     "normalized": "संवेदनशील",
@@ -6091,6 +6754,19 @@
     "pos": "表現",
     "category": "社会・公共",
     "difficulty": 5,
+    "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 7
+  },
+  {
+    "word": "सख्त नियम",
+    "display": "सख्त नियम",
+    "normalized": "सख्त_नियम",
+    "meaning_ja": "厳格な規則",
+    "pos": "名詞（男）",
+    "category": "行政・制度",
+    "difficulty": 4,
     "importance": 3,
     "sourceCount": 1,
     "frequency": 1,
@@ -6130,6 +6806,19 @@
     "pos": "名詞（男・複）",
     "category": "社会・公共",
     "difficulty": 5,
+    "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 7
+  },
+  {
+    "word": "सांकेतिक",
+    "display": "सांकेतिक",
+    "normalized": "सांकेतिक",
+    "meaning_ja": "象徴的な、形式的な",
+    "pos": "形容詞",
+    "category": "労働・経済",
+    "difficulty": 4,
     "importance": 3,
     "sourceCount": 1,
     "frequency": 1,
@@ -6181,6 +6870,19 @@
     "meaning_ja": "安全な利用、安全な使用",
     "pos": "名詞句",
     "category": "教育",
+    "difficulty": 4,
+    "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 7
+  },
+  {
+    "word": "सूत",
+    "display": "सूत",
+    "normalized": "सूत",
+    "meaning_ja": "糸、糸束",
+    "pos": "名詞（男）",
+    "category": "一般語彙",
     "difficulty": 4,
     "importance": 3,
     "sourceCount": 1,

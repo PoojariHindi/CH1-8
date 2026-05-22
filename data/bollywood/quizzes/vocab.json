@@ -8733,9 +8733,9 @@
     {
       "word": "डांटना",
       "surface": "डांटना",
-      "display": "",
+      "display": "डाँटना",
       "normalized": "डांटना",
-      "variants": [],
+      "variants": ["डाँटना","डांटना"],
       "meaning": "叱る",
       "pos": "他動詞",
       "key": "डांटना",
@@ -11308,10 +11308,10 @@
     {
       "word": "रुआं",
       "surface": "रुआँ",
-      "display": "रुआं",
+      "display": "रुआँ",
       "normalized": "रुआं",
       "variants": [
-        "रुआँ"
+        "रुआँ","रुआं"
       ],
       "meaning": "身体の一片一片、存在の細部",
       "pos": "名詞（男）",
@@ -11499,10 +11499,10 @@
     {
       "word": "धुआं",
       "surface": "धुआँ",
-      "display": "धुआं",
+      "display": "धुआँ",
       "normalized": "धुआं",
       "variants": [
-        "धुआँ"
+        "धुआँ","धुआं"
       ],
       "meaning": "煙",
       "pos": "名詞（男）",

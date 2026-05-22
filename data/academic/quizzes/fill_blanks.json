@@ -1,9 +1,9 @@
 {
   "topic": "academic_fill_blanks",
-  "generatedAt": "2026-05-20T22:43:23.781Z",
+  "generatedAt": "2026-05-22T08:14:46.033Z",
   "counts": {
-    "sources": 15,
-    "fillBlanks": 78
+    "sources": 16,
+    "fillBlanks": 86
   },
   "fillBlanks": [
     {
@@ -303,6 +303,181 @@
         "教科書",
         "文学史",
         "宗教",
+        "抽象語"
+      ]
+    },
+    {
+      "id": "academic_016::expr::1::blank::2",
+      "type": "fill_blank",
+      "sourceId": "academic_016",
+      "title": "प्राकृतिक संसाधन एवं उनका उपयोग",
+      "genre": "textbook",
+      "category": "読解",
+      "sourceText": "प्रकृति के ये तत्व संसाधन बन जाते हैं",
+      "prompt": "प्रकृति के ये तत्व _____ बन जाते हैं",
+      "answer": "संसाधन",
+      "meaning": "資源",
+      "expressionMeaning": "自然のこれらの要素は資源となる",
+      "pos": "名詞（男）",
+      "word": "संसाधन",
+      "display": "संसाधन",
+      "normalized": "संसाधन",
+      "importance": 5,
+      "difficulty": 1,
+      "tags": [
+        "教科書",
+        "社会科",
+        "環境",
+        "抽象語"
+      ]
+    },
+    {
+      "id": "academic_016::expr::3::blank::16",
+      "type": "fill_blank",
+      "sourceId": "academic_016",
+      "title": "प्राकृतिक संसाधन एवं उनका उपयोग",
+      "genre": "textbook",
+      "category": "読解",
+      "sourceText": "आर्थिक रूप से व्यवहार्य",
+      "prompt": "आर्थिक रूप से _____",
+      "answer": "व्यवहार्य",
+      "meaning": "実行可能な",
+      "expressionMeaning": "経済的に実行可能な",
+      "pos": "形容詞",
+      "word": "व्यवहार्य",
+      "display": "व्यवहार्य",
+      "normalized": "व्यवहार्य",
+      "importance": 5,
+      "difficulty": 1,
+      "tags": [
+        "教科書",
+        "社会科",
+        "環境",
+        "抽象語"
+      ]
+    },
+    {
+      "id": "academic_016::expr::6::blank::41",
+      "type": "fill_blank",
+      "sourceId": "academic_016",
+      "title": "प्राकृतिक संसाधन एवं उनका उपयोग",
+      "genre": "textbook",
+      "category": "読解",
+      "sourceText": "पुनर्स्थापन और पुनर्जनन",
+      "prompt": "_____ और पुनर्जनन",
+      "answer": "पुनर्स्थापन",
+      "meaning": "回復、復元",
+      "expressionMeaning": "回復と再生",
+      "pos": "名詞（男）",
+      "word": "पुनर्स्थापन",
+      "display": "पुनर्स्थापन",
+      "normalized": "पुनर्स्थापन",
+      "importance": 5,
+      "difficulty": 1,
+      "tags": [
+        "教科書",
+        "社会科",
+        "環境",
+        "抽象語"
+      ]
+    },
+    {
+      "id": "academic_016::expr::6::blank::42",
+      "type": "fill_blank",
+      "sourceId": "academic_016",
+      "title": "प्राकृतिक संसाधन एवं उनका उपयोग",
+      "genre": "textbook",
+      "category": "読解",
+      "sourceText": "पुनर्स्थापन और पुनर्जनन",
+      "prompt": "पुनर्स्थापन और _____",
+      "answer": "पुनर्जनन",
+      "meaning": "再生",
+      "expressionMeaning": "回復と再生",
+      "pos": "名詞（男）",
+      "word": "पुनर्जनन",
+      "display": "पुनर्जनन",
+      "normalized": "पुनर्जनन",
+      "importance": 5,
+      "difficulty": 1,
+      "tags": [
+        "教科書",
+        "社会科",
+        "環境",
+        "抽象語"
+      ]
+    },
+    {
+      "id": "academic_016::expr::7::blank::41",
+      "type": "fill_blank",
+      "sourceId": "academic_016",
+      "title": "प्राकृतिक संसाधन एवं उनका उपयोग",
+      "genre": "textbook",
+      "category": "読解",
+      "sourceText": "पारिस्थितिकी तंत्र का पुनर्स्थापन",
+      "prompt": "पारिस्थितिकी तंत्र का _____",
+      "answer": "पुनर्स्थापन",
+      "meaning": "回復、復元",
+      "expressionMeaning": "生態系の回復",
+      "pos": "名詞（男）",
+      "word": "पुनर्स्थापन",
+      "display": "पुनर्स्थापन",
+      "normalized": "पुनर्स्थापन",
+      "importance": 5,
+      "difficulty": 1,
+      "tags": [
+        "教科書",
+        "社会科",
+        "環境",
+        "抽象語"
+      ]
+    },
+    {
+      "id": "academic_016::expr::7::blank::50",
+      "type": "fill_blank",
+      "sourceId": "academic_016",
+      "title": "प्राकृतिक संसाधन एवं उनका उपयोग",
+      "genre": "textbook",
+      "category": "読解",
+      "sourceText": "पारिस्थितिकी तंत्र का पुनर्स्थापन",
+      "prompt": "_____ का पुनर्स्थापन",
+      "answer": "पारिस्थितिकी तंत्र",
+      "meaning": "生態系",
+      "expressionMeaning": "生態系の回復",
+      "pos": "名詞句",
+      "word": "पारिस्थितिकी तंत्र",
+      "display": "पारिस्थितिकी तंत्र",
+      "normalized": "पारिस्थितिकी तंत्र",
+      "importance": 5,
+      "difficulty": 1,
+      "tags": [
+        "教科書",
+        "社会科",
+        "環境",
+        "抽象語"
+      ]
+    },
+    {
+      "id": "academic_016::expr::8::blank::60",
+      "type": "fill_blank",
+      "sourceId": "academic_016",
+      "title": "प्राकृतिक संसाधन एवं उनका उपयोग",
+      "genre": "textbook",
+      "category": "読解",
+      "sourceText": "अविवेकपूर्ण मानवीय कृत्य",
+      "prompt": "_____ मानवीय कृत्य",
+      "answer": "अविवेकपूर्ण",
+      "meaning": "無分別な",
+      "expressionMeaning": "無分別な人間の行為",
+      "pos": "形容詞",
+      "word": "अविवेकपूर्ण",
+      "display": "अविवेकपूर्ण",
+      "normalized": "अविवेकपूर्ण",
+      "importance": 5,
+      "difficulty": 1,
+      "tags": [
+        "教科書",
+        "社会科",
+        "環境",
         "抽象語"
       ]
     },
@@ -703,6 +878,31 @@
         "教科書",
         "文学史",
         "宗教",
+        "抽象語"
+      ]
+    },
+    {
+      "id": "academic_016::expr::4::blank::13",
+      "type": "fill_blank",
+      "sourceId": "academic_016",
+      "title": "प्राकृतिक संसाधन एवं उनका उपयोग",
+      "genre": "textbook",
+      "category": "読解",
+      "sourceText": "सांस्कृतिक रूप से स्वीकार्य",
+      "prompt": "_____ रूप से स्वीकार्य",
+      "answer": "सांस्कृतिक",
+      "meaning": "文化的な",
+      "expressionMeaning": "文化的に受容可能な",
+      "pos": "形容詞",
+      "word": "सांस्कृतिक",
+      "display": "सांस्कृतिक",
+      "normalized": "सांस्कृतिक",
+      "importance": 4,
+      "difficulty": 1,
+      "tags": [
+        "教科書",
+        "社会科",
+        "環境",
         "抽象語"
       ]
     },

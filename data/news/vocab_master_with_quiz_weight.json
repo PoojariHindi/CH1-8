@@ -66,10 +66,11 @@
       "news_vocab_02",
       "news_006",
       "news_010",
-      "news020DJ20260518_NeetLeak"
+      "news020DJ20260518_NeetLeak",
+      "news024_NBT20260520_Dahej"
     ],
-    "sourceCount": 4,
-    "frequency": 4,
+    "sourceCount": 5,
+    "frequency": 5,
     "notes": "",
     "quizWeight": 5
   },
@@ -101,12 +102,13 @@
     "status": "active",
     "sourceArticleIds": [
       "news_vocab_02",
-      "news018DJ20260514_Barish"
+      "news018DJ20260514_Barish",
+      "news024_NBT20260520_Dahej"
     ],
-    "sourceCount": 2,
-    "frequency": 2,
+    "sourceCount": 3,
+    "frequency": 3,
     "notes": "",
-    "quizWeight": 4
+    "quizWeight": 5
   },
   {
     "word": "हिंसा",
@@ -401,12 +403,14 @@
     "status": "active",
     "sourceArticleIds": [
       "news_vocab_02",
-      "news020DJ20260518_NeetLeak"
+      "news020DJ20260518_NeetLeak",
+      "news024_NBT20260520_Dahej",
+      "news026_NBT20260521_Auto"
     ],
-    "sourceCount": 2,
-    "frequency": 2,
+    "sourceCount": 4,
+    "frequency": 4,
     "notes": "",
-    "quizWeight": 4
+    "quizWeight": 5
   },
   {
     "word": "वेतन",
@@ -592,12 +596,13 @@
     "status": "active",
     "sourceArticleIds": [
       "news_vocab_02",
-      "news_008"
+      "news_008",
+      "news023_DJ20260520_HotSummer"
     ],
-    "sourceCount": 2,
-    "frequency": 2,
+    "sourceCount": 3,
+    "frequency": 3,
     "notes": "",
-    "quizWeight": 3
+    "quizWeight": 4
   },
   {
     "word": "मुद्दा",
@@ -717,10 +722,11 @@
     "importance": 3,
     "status": "active",
     "sourceArticleIds": [
-      "news_vocab_02"
+      "news_vocab_02",
+      "news027_NBT20260519_Gutka"
     ],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 2,
+    "frequency": 2,
     "notes": "",
     "quizWeight": 3
   },
@@ -756,10 +762,12 @@
       "news_012",
       "news_013",
       "new017DJ20260514_Girls",
-      "news018DJ20260514_Barish"
+      "news018DJ20260514_Barish",
+      "news023_DJ20260520_HotSummer",
+      "news025_DJ20260521_Dawa"
     ],
-    "sourceCount": 6,
-    "frequency": 6,
+    "sourceCount": 8,
+    "frequency": 8,
     "notes": "",
     "quizWeight": 5
   },
@@ -807,12 +815,13 @@
     "importance": 4,
     "status": "active",
     "sourceArticleIds": [
-      "news_vocab_02"
+      "news_vocab_02",
+      "news026_NBT20260521_Auto"
     ],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 2,
+    "frequency": 2,
     "notes": "",
-    "quizWeight": 3
+    "quizWeight": 4
   },
   {
     "word": "अधिकारी",
@@ -848,10 +857,11 @@
       "news_vocab_02",
       "news_011",
       "news019DJ20260518_3Bhasha",
-      "news022DJ20260520_Rabies"
+      "news022DJ20260520_Rabies",
+      "news025_DJ20260521_Dawa"
     ],
-    "sourceCount": 4,
-    "frequency": 4,
+    "sourceCount": 5,
+    "frequency": 5,
     "notes": "",
     "quizWeight": 5
   },
@@ -906,10 +916,11 @@
     "sourceArticleIds": [
       "news_vocab_01",
       "news_vocab_02",
-      "news020DJ20260518_NeetLeak"
+      "news020DJ20260518_NeetLeak",
+      "news025_DJ20260521_Dawa"
     ],
-    "sourceCount": 3,
-    "frequency": 3,
+    "sourceCount": 4,
+    "frequency": 4,
     "notes": "",
     "quizWeight": 5
   },
@@ -942,12 +953,13 @@
     "status": "active",
     "sourceArticleIds": [
       "news_vocab_02",
-      "news_014"
+      "news_014",
+      "news022DJ20260520_Rabies"
     ],
-    "sourceCount": 2,
-    "frequency": 2,
+    "sourceCount": 3,
+    "frequency": 3,
     "notes": "",
-    "quizWeight": 4
+    "quizWeight": 5
   },
   {
     "word": "सुविधा",
@@ -1230,12 +1242,13 @@
     "status": "active",
     "sourceArticleIds": [
       "news_vocab_02",
-      "news016DJ20260513_GoldScheme"
+      "news016DJ20260513_GoldScheme",
+      "news026_NBT20260521_Auto"
     ],
-    "sourceCount": 2,
-    "frequency": 2,
+    "sourceCount": 3,
+    "frequency": 3,
     "notes": "",
-    "quizWeight": 4
+    "quizWeight": 5
   },
   {
     "word": "चुनाव",
@@ -1601,12 +1614,13 @@
     "status": "active",
     "sourceArticleIds": [
       "news_vocab_02",
-      "news020DJ20260518_NeetLeak"
+      "news020DJ20260518_NeetLeak",
+      "news024_NBT20260520_Dahej"
     ],
-    "sourceCount": 2,
-    "frequency": 2,
+    "sourceCount": 3,
+    "frequency": 3,
     "notes": "",
-    "quizWeight": 3
+    "quizWeight": 4
   },
   {
     "word": "पोर्टल",
@@ -1652,10 +1666,11 @@
     "importance": 3,
     "status": "active",
     "sourceArticleIds": [
-      "news_vocab_02"
+      "news_vocab_02",
+      "news025_DJ20260521_Dawa"
     ],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 2,
+    "frequency": 2,
     "notes": "",
     "quizWeight": 3
   },
@@ -2391,12 +2406,13 @@
     "status": "active",
     "sourceArticleIds": [
       "news_20260429_bengal_chunaw",
-      "news020DJ20260518_NeetLeak"
+      "news020DJ20260518_NeetLeak",
+      "news024_NBT20260520_Dahej"
     ],
-    "sourceCount": 2,
-    "frequency": 2,
+    "sourceCount": 3,
+    "frequency": 3,
     "notes": "गिरफ्तारी は名詞「逮捕」。これは分詞・形容詞として別登録。",
-    "quizWeight": 4
+    "quizWeight": 5
   },
   {
     "word": "फोरेंसिक",
@@ -3230,12 +3246,13 @@
     "status": "active",
     "sourceArticleIds": [
       "news_008",
-      "news018DJ20260514_Barish"
+      "news018DJ20260514_Barish",
+      "news023_DJ20260520_HotSummer"
     ],
-    "sourceCount": 2,
-    "frequency": 2,
+    "sourceCount": 3,
+    "frequency": 3,
     "notes": "",
-    "quizWeight": 4
+    "quizWeight": 5
   },
   {
     "word": "प्रणाली",
@@ -3384,10 +3401,11 @@
     "importance": 3,
     "status": "active",
     "sourceArticleIds": [
-      "news_008"
+      "news_008",
+      "news022DJ20260520_Rabies"
     ],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 2,
+    "frequency": 2,
     "notes": "",
     "quizWeight": 3
   },
@@ -3608,12 +3626,13 @@
     "status": "active",
     "sourceArticleIds": [
       "news_010",
-      "news_014"
+      "news_014",
+      "news027_NBT20260519_Gutka"
     ],
-    "sourceCount": 2,
-    "frequency": 2,
+    "sourceCount": 3,
+    "frequency": 3,
     "notes": "",
-    "quizWeight": 3
+    "quizWeight": 4
   },
   {
     "word": "निंदा",
@@ -5472,10 +5491,11 @@
     "importance": 3,
     "status": "active",
     "sourceArticleIds": [
-      "news016DJ20260513_GoldScheme"
+      "news016DJ20260513_GoldScheme",
+      "news026_NBT20260521_Auto"
     ],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 2,
+    "frequency": 2,
     "quizWeight": 3
   },
   {
@@ -5833,10 +5853,11 @@
     "importance": 3,
     "status": "active",
     "sourceArticleIds": [
-      "news016DJ20260513_GoldScheme"
+      "news016DJ20260513_GoldScheme",
+      "news023_DJ20260520_HotSummer"
     ],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 2,
+    "frequency": 2,
     "quizWeight": 3
   },
   {
@@ -5909,10 +5930,11 @@
     "importance": 4,
     "status": "active",
     "sourceArticleIds": [
-      "new017DJ20260514_Girls"
+      "new017DJ20260514_Girls",
+      "news022DJ20260520_Rabies"
     ],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 2,
+    "frequency": 2,
     "notes": "",
     "quizWeight": 5
   },
@@ -6096,12 +6118,13 @@
     "importance": 4,
     "status": "active",
     "sourceArticleIds": [
-      "news018DJ20260514_Barish"
+      "news018DJ20260514_Barish",
+      "news023_DJ20260520_HotSummer"
     ],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 2,
+    "frequency": 2,
     "notes": "",
-    "quizWeight": 3
+    "quizWeight": 4
   },
   {
     "word": "रफ्तार",
@@ -6663,12 +6686,13 @@
     "importance": 4,
     "status": "active",
     "sourceArticleIds": [
-      "news020DJ20260518_NeetLeak"
+      "news020DJ20260518_NeetLeak",
+      "news024_NBT20260520_Dahej"
     ],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 2,
+    "frequency": 2,
     "notes": "",
-    "quizWeight": 3
+    "quizWeight": 4
   },
   {
     "word": "दस्तावेज",
@@ -6997,7 +7021,7 @@
     "word": "आरोप",
     "normalized": "आरोप",
     "pos": "名詞（男）",
-    "meaning_ja": "告発、 आरोप",
+    "meaning_ja": "告発、容疑、非難",
     "category": "選挙・裁判",
     "difficulty": 2,
     "importance": 4,
@@ -7122,12 +7146,13 @@
     "importance": 4,
     "status": "active",
     "sourceArticleIds": [
-      "news021DJ20260519_OpenAI"
+      "news021DJ20260519_OpenAI",
+      "news025_DJ20260521_Dawa"
     ],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 2,
+    "frequency": 2,
     "notes": "",
-    "quizWeight": 3
+    "quizWeight": 4
   },
   {
     "word": "खारिज करना",
@@ -7544,44 +7569,6 @@
     "quizWeight": 3
   },
   {
-    "word": "मूल्यांकन",
-    "normalized": "मूल्यांकन",
-    "pos": "名詞（男）",
-    "meaning_ja": "評価",
-    "category": "調査・統計",
-    "difficulty": 4,
-    "importance": 4,
-    "status": "active",
-    "sourceArticleIds": [
-      "news022DJ20260520_Rabies"
-    ],
-    "sourceCount": 1,
-    "frequency": 1,
-    "notes": "",
-    "quizWeight": 5
-  },
-  {
-    "word": "प्रोटोकाल",
-    "display": "प्रोटोकॉल",
-    "normalized": "प्रोटोकॉल",
-    "variants": [
-      "प्रोटोकाल"
-    ],
-    "pos": "名詞（男）",
-    "meaning_ja": "プロトコル、手順規範",
-    "category": "行政・制度",
-    "difficulty": 4,
-    "importance": 3,
-    "status": "active",
-    "sourceArticleIds": [
-      "news022DJ20260520_Rabies"
-    ],
-    "sourceCount": 1,
-    "frequency": 1,
-    "notes": "",
-    "quizWeight": 3
-  },
-  {
     "word": "कानूनन",
     "normalized": "कानूनन",
     "pos": "副詞",
@@ -7909,16 +7896,1393 @@
     "quizWeight": 3
   },
   {
-    "word": "विभाग",
-    "normalized": "विभाग",
+    "word": "प्रकोप",
+    "display": "प्रकोप",
+    "normalized": "प्रकोप",
+    "variants": [],
     "pos": "名詞（男）",
-    "meaning_ja": "部門、部署、局",
+    "meaning_ja": "猛威、深刻な被害、災厄の広がり",
+    "category": "調査・統計",
+    "importance": 4,
+    "sourceCount": 1,
+    "sourceArticleIds": [
+      "news023_DJ20260520_HotSummer"
+    ],
+    "frequency": 1,
+    "status": "active",
+    "quizWeight": 3
+  },
+  {
+    "word": "तपिश",
+    "display": "तपिश",
+    "normalized": "तपिश",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "熱気、焼けつく暑さ",
+    "category": "調査・統計",
+    "importance": 4,
+    "sourceCount": 1,
+    "sourceArticleIds": [
+      "news023_DJ20260520_HotSummer"
+    ],
+    "frequency": 1,
+    "status": "active",
+    "quizWeight": 3
+  },
+  {
+    "word": "आसार",
+    "display": "आसार",
+    "normalized": "आसार",
+    "variants": [],
+    "pos": "名詞（男・複）",
+    "meaning_ja": "兆候、見込み、可能性",
+    "category": "調査・統計",
+    "importance": 4,
+    "sourceCount": 1,
+    "sourceArticleIds": [
+      "news023_DJ20260520_HotSummer"
+    ],
+    "frequency": 1,
+    "status": "active",
+    "quizWeight": 3
+  },
+  {
+    "word": "पारा",
+    "display": "पारा",
+    "normalized": "पारा",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "気温、水銀柱",
+    "category": "調査・統計",
+    "importance": 3,
+    "sourceCount": 1,
+    "sourceArticleIds": [
+      "news023_DJ20260520_HotSummer"
+    ],
+    "frequency": 1,
+    "status": "active",
+    "quizWeight": 3
+  },
+  {
+    "word": "डिग्री सेल्सियस",
+    "display": "डिग्री सेल्सियस",
+    "normalized": "डिग्री सेल्सियस",
+    "variants": [],
+    "pos": "名詞",
+    "meaning_ja": "摂氏、摂氏温度",
+    "category": "調査・統計",
+    "importance": 3,
+    "sourceCount": 1,
+    "sourceArticleIds": [
+      "news023_DJ20260520_HotSummer"
+    ],
+    "frequency": 1,
+    "status": "active",
+    "quizWeight": 3
+  },
+  {
+    "word": "लू",
+    "display": "लू",
+    "normalized": "लू",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "熱波、熱風",
+    "category": "調査・統計",
+    "importance": 3,
+    "sourceCount": 1,
+    "sourceArticleIds": [
+      "news023_DJ20260520_HotSummer"
+    ],
+    "frequency": 1,
+    "status": "active",
+    "quizWeight": 3
+  },
+  {
+    "word": "नौतपा",
+    "display": "नौतपा",
+    "normalized": "नौतपा",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "インド暦で最も暑い9日間、酷暑期",
+    "category": "調査・統計",
+    "importance": 4,
+    "sourceCount": 1,
+    "sourceArticleIds": [
+      "news023_DJ20260520_HotSummer"
+    ],
+    "frequency": 1,
+    "status": "active",
+    "quizWeight": 3
+  },
+  {
+    "word": "कहर",
+    "display": "कहर",
+    "normalized": "कहर",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "猛威、災厄、深刻な被害",
+    "category": "調査・統計",
+    "importance": 4,
+    "sourceCount": 1,
+    "sourceArticleIds": [
+      "news023_DJ20260520_HotSummer"
+    ],
+    "frequency": 1,
+    "status": "active",
+    "quizWeight": 3
+  },
+  {
+    "word": "तापमान",
+    "display": "तापमान",
+    "normalized": "तापमान",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "気温、温度",
+    "category": "調査・統計",
+    "importance": 3,
+    "sourceCount": 1,
+    "sourceArticleIds": [
+      "news023_DJ20260520_HotSummer"
+    ],
+    "frequency": 1,
+    "status": "active",
+    "quizWeight": 3
+  },
+  {
+    "word": "अधिकतम तापमान",
+    "display": "अधिकतम तापमान",
+    "normalized": "अधिकतम तापमान",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "最高気温",
+    "category": "調査・統計",
+    "importance": 3,
+    "sourceCount": 1,
+    "sourceArticleIds": [
+      "news023_DJ20260520_HotSummer"
+    ],
+    "frequency": 1,
+    "status": "active",
+    "quizWeight": 3
+  },
+  {
+    "word": "सामान्य",
+    "display": "सामान्य",
+    "normalized": "सामान्य",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "通常の、一般的な、平常の",
+    "category": "調査・統計",
+    "importance": 2,
+    "sourceCount": 1,
+    "sourceArticleIds": [
+      "news023_DJ20260520_HotSummer"
+    ],
+    "frequency": 1,
+    "status": "active",
+    "quizWeight": 3
+  },
+  {
+    "word": "एम्स",
+    "normalized": "एम्स",
+    "pos": "名詞（男）",
+    "meaning_ja": "AIIMS、全インド医科大学",
+    "category": "医療・健康",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news024_NBT20260520_Dahej",
+      "news025_DJ20260521_Dawa"
+    ],
+    "sourceCount": 2,
+    "frequency": 2,
+    "notes": "All India Institute of Medical Sciences",
+    "quizWeight": 4
+  },
+  {
+    "word": "दहेज",
+    "normalized": "दहेज",
+    "pos": "名詞（男）",
+    "meaning_ja": "持参金、嫁入り持参金",
+    "category": "事件・事故",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news024_NBT20260520_Dahej"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "インド社会問題頻出語",
+    "quizWeight": 3
+  },
+  {
+    "word": "ससुराल",
+    "normalized": "ससुराल",
+    "pos": "名詞（男）",
+    "meaning_ja": "婚家、嫁ぎ先",
+    "category": "社会・公共",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news024_NBT20260520_Dahej"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "ससुरालवाले",
+    "display": "ससुरालवाले",
+    "normalized": "ससुरालवाले",
+    "variants": [
+      "ससुराल वालों",
+      "ससुरालवाले"
+    ],
+    "pos": "名詞（男・複）",
+    "meaning_ja": "婚家側の人々、義理の家族",
+    "category": "社会・公共",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news024_NBT20260520_Dahej"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "हालत",
+    "normalized": "हालत",
+    "pos": "名詞（女）",
+    "meaning_ja": "状態、容体",
+    "category": "事件・事故",
+    "difficulty": 2,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news024_NBT20260520_Dahej"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "ニュース頻出",
+    "quizWeight": 3
+  },
+  {
+    "word": "युवती",
+    "normalized": "युवती",
+    "pos": "名詞（女）",
+    "meaning_ja": "若い女性",
+    "category": "事件・事故",
+    "difficulty": 2,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news024_NBT20260520_Dahej"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "報道頻出",
+    "quizWeight": 3
+  },
+  {
+    "word": "बिटिया",
+    "normalized": "बिटिया",
+    "pos": "名詞（女）",
+    "meaning_ja": "娘（愛情表現）",
+    "category": "社会・公共",
+    "difficulty": 3,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news024_NBT20260520_Dahej"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "口語・感情表現",
+    "quizWeight": 3
+  },
+  {
+    "word": "ससुर",
+    "normalized": "ससुर",
+    "pos": "名詞（男）",
+    "meaning_ja": "義父、舅",
+    "category": "社会・公共",
+    "difficulty": 3,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news024_NBT20260520_Dahej"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "सताना",
+    "normalized": "सताना",
+    "pos": "動詞",
+    "meaning_ja": "苦しめる、悩ませる",
+    "category": "重要動詞",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news024_NBT20260520_Dahej"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "事件・DV文脈頻出",
+    "quizWeight": 4
+  },
+  {
+    "word": "दहेज प्रताड़ना",
+    "normalized": "दहेज_प्रताड़ना",
+    "pos": "名詞（女）",
+    "meaning_ja": "持参金目的の虐待",
+    "category": "事件・事故",
+    "difficulty": 5,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news024_NBT20260520_Dahej"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "インド社会問題用語",
+    "quizWeight": 3
+  },
+  {
+    "word": "घरेलू हिंसा",
+    "normalized": "घरेलू_हिंसा",
+    "pos": "名詞（女）",
+    "meaning_ja": "家庭内暴力",
+    "category": "事件・事故",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news024_NBT20260520_Dahej"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "DV",
+    "quizWeight": 3
+  },
+  {
+    "word": "आत्महत्या",
+    "normalized": "आत्महत्या",
+    "pos": "名詞（女）",
+    "meaning_ja": "自殺",
+    "category": "事件・事故",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news024_NBT20260520_Dahej"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "मायका",
+    "normalized": "मायका",
+    "pos": "名詞（男）",
+    "meaning_ja": "女性の実家",
+    "category": "社会・公共",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news024_NBT20260520_Dahej"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "親族文化語彙",
+    "quizWeight": 3
+  },
+  {
+    "word": "ससुरालीजन",
+    "normalized": "ससुरालीजन",
+    "pos": "名詞（男・複）",
+    "meaning_ja": "婚家側の親族",
+    "category": "社会・公共",
+    "difficulty": 5,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news024_NBT20260520_Dahej"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "हिरासत",
+    "normalized": "हिरासत",
+    "pos": "名詞（女）",
+    "meaning_ja": "拘留、拘置",
+    "category": "選挙・裁判",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news024_NBT20260520_Dahej"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "警察・裁判報道頻出",
+    "quizWeight": 3
+  },
+  {
+    "word": "मानसिक प्रताड़ना",
+    "normalized": "मानसिक_प्रताड़ना",
+    "pos": "名詞（女）",
+    "meaning_ja": "精神的虐待",
+    "category": "事件・事故",
+    "difficulty": 5,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news024_NBT20260520_Dahej"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "DV・虐待文脈",
+    "quizWeight": 3
+  },
+  {
+    "word": "फार्मेसी",
+    "normalized": "फार्मेसी",
+    "pos": "名詞（女）",
+    "meaning_ja": "薬局、薬店",
+    "category": "医療・健康",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news025_DJ20260521_Dawa"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "ई-फार्मेसी",
+    "display": "ई-फार्मेसी",
+    "normalized": "ईफार्मेसी",
+    "variants": [
+      "ई फार्मेसी"
+    ],
+    "pos": "名詞（女）",
+    "meaning_ja": "オンライン薬局",
+    "category": "医療・健康",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news025_DJ20260521_Dawa"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "電子商取引医薬品販売",
+    "quizWeight": 3
+  },
+  {
+    "word": "दवा",
+    "normalized": "दवा",
+    "pos": "名詞（女）",
+    "meaning_ja": "薬",
+    "category": "医療・健康",
+    "difficulty": 1,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news025_DJ20260521_Dawa"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "日常・医療頻出",
+    "quizWeight": 3
+  },
+  {
+    "word": "दवा विक्रेता",
+    "normalized": "दवा_विक्रेता",
+    "pos": "名詞（男）",
+    "meaning_ja": "薬品販売業者",
+    "category": "医療・健康",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news025_DJ20260521_Dawa"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "स्वास्थ्य विभाग",
+    "normalized": "स्वास्थ्य_विभाग",
+    "pos": "名詞（男）",
+    "meaning_ja": "保健局、保健部門",
+    "category": "医療・健康",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news025_DJ20260521_Dawa"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "मधुमेह",
+    "normalized": "मधुमेह",
+    "pos": "名詞（男）",
+    "meaning_ja": "糖尿病",
+    "category": "医療・健康",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news025_DJ20260521_Dawa"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "生活習慣病",
+    "quizWeight": 3
+  },
+  {
+    "word": "मरीज",
+    "normalized": "मरीज",
+    "pos": "名詞（男）",
+    "meaning_ja": "患者",
+    "category": "医療・健康",
+    "difficulty": 2,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news025_DJ20260521_Dawa"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "रक्तचाप",
+    "normalized": "रक्तचाप",
+    "pos": "名詞（男）",
+    "meaning_ja": "血圧",
+    "category": "医療・健康",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news025_DJ20260521_Dawa"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "बुजुर्ग",
+    "normalized": "बुजुर्ग",
+    "pos": "名詞（男）",
+    "meaning_ja": "高齢者",
+    "category": "医療・健康",
+    "difficulty": 2,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news025_DJ20260521_Dawa"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "आपातकालीन",
+    "normalized": "आपातकालीन",
+    "pos": "形容詞",
+    "meaning_ja": "緊急の",
+    "category": "医療・健康",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news025_DJ20260521_Dawa"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "医療・災害文脈",
+    "quizWeight": 3
+  },
+  {
+    "word": "आनलाइन बिक्री",
+    "display": "ऑनलाइन बिक्री",
+    "normalized": "ऑनलाइन_बिक्री",
+    "variants": [
+      "आनलाइन बिक्री"
+    ],
+    "pos": "名詞（女）",
+    "meaning_ja": "オンライン販売",
+    "category": "労働・経済",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news025_DJ20260521_Dawa"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "EC販売",
+    "quizWeight": 3
+  },
+  {
+    "word": "विक्रेता",
+    "normalized": "विक्रेता",
+    "pos": "名詞（男）",
+    "meaning_ja": "販売業者",
+    "category": "労働・経済",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news025_DJ20260521_Dawa"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "वितरक",
+    "normalized": "वितरक",
+    "pos": "名詞（男）",
+    "meaning_ja": "流通業者、卸売業者",
+    "category": "労働・経済",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news025_DJ20260521_Dawa"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "खुदरा",
+    "normalized": "खुदरा",
+    "pos": "名詞（男）",
+    "meaning_ja": "小売",
+    "category": "労働・経済",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news025_DJ20260521_Dawa"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "retail",
+    "quizWeight": 3
+  },
+  {
+    "word": "थोक",
+    "normalized": "थोक",
+    "pos": "名詞（男）",
+    "meaning_ja": "卸売",
+    "category": "労働・経済",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news025_DJ20260521_Dawa"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "wholesale",
+    "quizWeight": 3
+  },
+  {
+    "word": "राष्ट्रव्यापी बंद",
+    "normalized": "राष्ट्रव्यापी_बंद",
+    "pos": "名詞（男）",
+    "meaning_ja": "全国的ストライキ、全国閉鎖",
+    "category": "労働・経済",
+    "difficulty": 5,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news025_DJ20260521_Dawa"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "bandh",
+    "quizWeight": 3
+  },
+  {
+    "word": "अस्थायी",
+    "normalized": "अस्थायी",
+    "pos": "形容詞",
+    "meaning_ja": "一時的な",
+    "category": "行政・制度",
+    "difficulty": 3,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news025_DJ20260521_Dawa"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "अस्थायी छूट",
+    "normalized": "अस्थायी_छूट",
+    "pos": "名詞（女）",
+    "meaning_ja": "一時的免除",
+    "category": "行政・制度",
+    "difficulty": 5,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news025_DJ20260521_Dawa"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "सख्त",
+    "normalized": "सख्त",
+    "pos": "形容詞",
+    "meaning_ja": "厳格な",
+    "category": "行政・制度",
+    "difficulty": 2,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news025_DJ20260521_Dawa"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "सख्त नियम",
+    "normalized": "सख्त_नियम",
+    "pos": "名詞（男）",
+    "meaning_ja": "厳格な規則",
+    "category": "行政・制度",
+    "difficulty": 4,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news025_DJ20260521_Dawa"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "आह्वान",
+    "normalized": "आह्वान",
+    "pos": "名詞（男）",
+    "meaning_ja": "呼びかけ、訴え",
+    "category": "行政・制度",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news025_DJ20260521_Dawa"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "अध्यक्ष",
+    "normalized": "अध्यक्ष",
+    "pos": "名詞（男）",
+    "meaning_ja": "会長、議長",
+    "category": "行政・制度",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news025_DJ20260521_Dawa"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "पदाधिकारी",
+    "normalized": "पदाधिकारी",
+    "pos": "名詞（男）",
+    "meaning_ja": "役員、幹部",
+    "category": "行政・制度",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news025_DJ20260521_Dawa"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "संचालित करना",
+    "normalized": "संचालित_करना",
+    "pos": "動詞句",
+    "meaning_ja": "運営する、稼働させる",
+    "category": "重要動詞",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news025_DJ20260521_Dawa"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 4
+  },
+  {
+    "word": "जूझना",
+    "normalized": "जूझना",
+    "pos": "動詞",
+    "meaning_ja": "苦闘する、対処に苦しむ",
+    "category": "重要動詞",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news025_DJ20260521_Dawa"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 4
+  },
+  {
+    "word": "बाधित होना",
+    "normalized": "बाधित_होना",
+    "pos": "動詞句",
+    "meaning_ja": "妨げられる、中断される",
+    "category": "重要動詞",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news025_DJ20260521_Dawa"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 4
+  },
+  {
+    "word": "के खिलाफ",
+    "normalized": "के_खिलाफ",
+    "pos": "後置詞句",
+    "meaning_ja": "〜に対して、〜に反対して",
+    "category": "ニュース定型句",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news025_DJ20260521_Dawa"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "ニュース定型表現",
+    "quizWeight": 3
+  },
+  {
+    "word": "सूत्रों के अनुसार",
+    "normalized": "सूत्रों_के_अनुसार",
+    "pos": "副詞句",
+    "meaning_ja": "関係筋によれば",
+    "category": "ニュース定型句",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news025_DJ20260521_Dawa"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "新聞定型句",
+    "quizWeight": 3
+  },
+  {
+    "word": "हड़ताल",
+    "normalized": "हड़ताल",
+    "pos": "名詞（女）",
+    "meaning_ja": "ストライキ、抗議休業",
+    "category": "労働・経済",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news026_NBT20260521_Auto"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "労働運動・抗議活動頻出語",
+    "quizWeight": 3
+  },
+  {
+    "word": "दिक्कत",
+    "normalized": "दिक्कत",
+    "pos": "名詞（女）",
+    "meaning_ja": "問題、困難、不便",
+    "category": "労働・経済",
+    "difficulty": 2,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news026_NBT20260521_Auto"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "口語・ニュース頻出",
+    "quizWeight": 3
+  },
+  {
+    "word": "सीएनजी",
+    "display": "सीएनजी",
+    "normalized": "सीएनजी",
+    "pos": "名詞（女）",
+    "meaning_ja": "CNG（圧縮天然ガス）",
+    "category": "労働・経済",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news026_NBT20260521_Auto"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "Compressed Natural Gas",
+    "quizWeight": 3
+  },
+  {
+    "word": "किराया",
+    "normalized": "किराया",
+    "pos": "名詞（男）",
+    "meaning_ja": "運賃、賃料",
+    "category": "労働・経済",
+    "difficulty": 2,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news026_NBT20260521_Auto"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "交通・住宅文脈頻出",
+    "quizWeight": 3
+  },
+  {
+    "word": "चालक",
+    "normalized": "चालक",
+    "pos": "名詞（男）",
+    "meaning_ja": "運転手、操作者",
+    "category": "労働・経済",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news026_NBT20260521_Auto"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "एकजुट",
+    "normalized": "एकजुट",
+    "pos": "形容詞",
+    "meaning_ja": "団結した、一致団結した",
+    "category": "労働・経済",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news026_NBT20260521_Auto"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "労働組合・抗議活動文脈",
+    "quizWeight": 3
+  },
+  {
+    "word": "असर",
+    "normalized": "असर",
+    "pos": "名詞（男）",
+    "meaning_ja": "影響、効果",
+    "category": "労働・経済",
+    "difficulty": 2,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news026_NBT20260521_Auto"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "ニュース頻出語",
+    "quizWeight": 3
+  },
+  {
+    "word": "घोषणा",
+    "normalized": "घोषणा",
+    "pos": "名詞（女）",
+    "meaning_ja": "発表、宣言",
     "category": "行政・制度",
     "difficulty": 2,
     "importance": 4,
     "status": "active",
     "sourceArticleIds": [
-      "news022DJ20260520_Rabies"
+      "news026_NBT20260521_Auto"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "行政・ニュース頻出",
+    "quizWeight": 3
+  },
+  {
+    "word": "हालांकि",
+    "normalized": "हालांकि",
+    "pos": "接続詞",
+    "meaning_ja": "しかしながら、もっとも",
+    "category": "ニュース定型句",
+    "difficulty": 2,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news026_NBT20260521_Auto"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "ニュース頻出接続詞",
+    "quizWeight": 3
+  },
+  {
+    "word": "शामिल होना",
+    "normalized": "शामिल_होना",
+    "pos": "動詞句",
+    "meaning_ja": "参加する、加わる",
+    "category": "重要動詞",
+    "difficulty": 2,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news026_NBT20260521_Auto"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "ニュース・会議・デモ文脈頻出",
+    "quizWeight": 4
+  },
+  {
+    "word": "चालक शक्ति यूनियन",
+    "normalized": "चालक_शक्ति_यूनियन",
+    "pos": "名詞（女）",
+    "meaning_ja": "運転手団体『Chalak Shakti Union』",
+    "category": "労働・経済",
+    "difficulty": 5,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news026_NBT20260521_Auto"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "労働組合名",
+    "quizWeight": 3
+  },
+  {
+    "word": "उपाध्यक्ष",
+    "normalized": "उपाध्यक्ष",
+    "pos": "名詞（男）",
+    "meaning_ja": "副会長、副議長",
+    "category": "行政・制度",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news026_NBT20260521_Auto"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "के तहत",
+    "normalized": "के_तहत",
+    "pos": "後置詞句",
+    "meaning_ja": "〜の下で、〜に基づいて",
+    "category": "行政・制度",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news026_NBT20260521_Auto"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "行政・法律文脈頻出",
+    "quizWeight": 3
+  },
+  {
+    "word": "पर्यावरण क्षतिपूर्ति शुल्क",
+    "normalized": "पर्यावरण_क्षतिपूर्ति_शुल्क",
+    "pos": "名詞（男）",
+    "meaning_ja": "環境補償料金",
+    "category": "行政・制度",
+    "difficulty": 5,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news026_NBT20260521_Auto"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "ECC（Environmental Compensation Charge）",
+    "quizWeight": 3
+  },
+  {
+    "word": "दिवसीय",
+    "normalized": "दिवसीय",
+    "pos": "形容詞",
+    "meaning_ja": "〜日間の",
+    "category": "ニュース定型句",
+    "difficulty": 4,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news026_NBT20260521_Auto"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "例：एकदिवसीय, द्विदिवसीय",
+    "quizWeight": 3
+  },
+  {
+    "word": "सांकेतिक",
+    "normalized": "सांकेतिक",
+    "pos": "形容詞",
+    "meaning_ja": "象徴的な、形式的な",
+    "category": "労働・経済",
+    "difficulty": 4,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news026_NBT20260521_Auto"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "सांकेतिक हड़ताल などで頻出",
+    "quizWeight": 3
+  },
+  {
+    "word": "चक्का जाम",
+    "normalized": "चक्का_जाम",
+    "pos": "名詞（男）",
+    "meaning_ja": "道路封鎖抗議、交通封鎖デモ",
+    "category": "労働・経済",
+    "difficulty": 5,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news026_NBT20260521_Auto"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "抗議運動定型語",
+    "quizWeight": 3
+  },
+  {
+    "word": "गुटका",
+    "normalized": "गुटका",
+    "pos": "名詞（男）",
+    "meaning_ja": "小型の宗教書、祈祷書",
+    "category": "文化・宗教",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news027_NBT20260519_Gutka"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "シク教文脈で使用",
+    "quizWeight": 3
+  },
+  {
+    "word": "गुटका साहिब",
+    "normalized": "गुटका_साहिब",
+    "pos": "名詞（男）",
+    "meaning_ja": "シク教の小型祈祷書",
+    "category": "文化・宗教",
+    "difficulty": 5,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news027_NBT20260519_Gutka"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "シク教宗教書",
+    "quizWeight": 3
+  },
+  {
+    "word": "गुरुबाणी",
+    "normalized": "गुरुबाणी",
+    "pos": "名詞（女）",
+    "meaning_ja": "グルの教え、シク教聖句",
+    "category": "文化・宗教",
+    "difficulty": 5,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news027_NBT20260519_Gutka"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "シク教宗教用語",
+    "quizWeight": 3
+  },
+  {
+    "word": "वचन",
+    "normalized": "वचन",
+    "pos": "名詞（男）",
+    "meaning_ja": "言葉、約束、教え",
+    "category": "文化・宗教",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news027_NBT20260519_Gutka"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "宗教・文学文脈",
+    "quizWeight": 3
+  },
+  {
+    "word": "संकलित",
+    "normalized": "संकलित",
+    "pos": "形容詞",
+    "meaning_ja": "収集された、編纂された",
+    "category": "文化・宗教",
+    "difficulty": 4,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news027_NBT20260519_Gutka"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "書籍・宗教文脈",
+    "quizWeight": 3
+  },
+  {
+    "word": "गुटखा",
+    "normalized": "गुटखा",
+    "pos": "名詞（男）",
+    "meaning_ja": "グトカー、噛みタバコ製品",
+    "category": "医療・健康",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news027_NBT20260519_Gutka"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "嗜好品・健康問題文脈",
+    "quizWeight": 3
+  },
+  {
+    "word": "सूत",
+    "normalized": "सूत",
+    "pos": "名詞（男）",
+    "meaning_ja": "糸、糸束",
+    "category": "一般語彙",
+    "difficulty": 4,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news027_NBT20260519_Gutka"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "लकड़ी",
+    "display": "लकड़ी",
+    "normalized": "लकडी",
+    "pos": "名詞（女）",
+    "meaning_ja": "木材、木",
+    "category": "一般語彙",
+    "difficulty": 2,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news027_NBT20260519_Gutka"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "कंकड़",
+    "display": "कंकड़",
+    "normalized": "कंकड",
+    "pos": "名詞（男）",
+    "meaning_ja": "小石、砂利",
+    "category": "一般語彙",
+    "difficulty": 3,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news027_NBT20260519_Gutka"
     ],
     "sourceCount": 1,
     "frequency": 1,

@@ -1,5 +1,24 @@
 [
   {
+    "word": "अनवीकरणीय",
+    "normalized": "अनवीकरणीय",
+    "display": "अनवीकरणीय",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "再生不可能な",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "環境",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_016"
+    ]
+  },
+  {
     "word": "अनावृष्टि",
     "normalized": "अनावृष्टि",
     "display": "अनावृष्टि",
@@ -16,6 +35,25 @@
     ],
     "sourceIds": [
       "academic_010"
+    ]
+  },
+  {
+    "word": "अपशिष्ट",
+    "normalized": "अपशिष्ट",
+    "display": "अपशिष्ट",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "廃棄物",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "環境",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_016"
     ]
   },
   {
@@ -76,6 +114,63 @@
     ]
   },
   {
+    "word": "अविवेकपूर्ण",
+    "normalized": "अविवेकपूर्ण",
+    "display": "अविवेकपूर्ण",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "無分別な",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "環境",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_016"
+    ]
+  },
+  {
+    "word": "असंतुलित",
+    "normalized": "असंतुलित",
+    "display": "असंतुलित",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "不均衡な",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "環境",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_016"
+    ]
+  },
+  {
+    "word": "अस्तित्व",
+    "normalized": "अस्तित्व",
+    "display": "अस्तित्व",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "存在",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "環境",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_016"
+    ]
+  },
+  {
     "word": "अस्मिता",
     "normalized": "अस्मिता",
     "display": "अस्मिता",
@@ -133,6 +228,44 @@
     ]
   },
   {
+    "word": "आधारशिला",
+    "normalized": "आधारशिला",
+    "display": "आधारशिला",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "基盤、礎石",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "環境",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_016"
+    ]
+  },
+  {
+    "word": "उत्पादन प्रक्रिया",
+    "normalized": "उत्पादन प्रक्रिया",
+    "display": "उत्पादन प्रक्रिया",
+    "variants": [],
+    "pos": "名詞句",
+    "meaning_ja": "生産工程",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "環境",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_016"
+    ]
+  },
+  {
     "word": "उपास्य",
     "normalized": "उपास्य",
     "display": "उपास्य",
@@ -168,6 +301,25 @@
     ],
     "sourceIds": [
       "academic_011"
+    ]
+  },
+  {
+    "word": "औद्योगीकरण",
+    "normalized": "औद्योगीकरण",
+    "display": "औद्योगीकरण",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "工業化",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "環境",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_016"
     ]
   },
   {
@@ -285,6 +437,25 @@
     ]
   },
   {
+    "word": "जल सुरक्षा",
+    "normalized": "जल सुरक्षा",
+    "display": "जल सुरक्षा",
+    "variants": [],
+    "pos": "名詞句",
+    "meaning_ja": "水の安全保障",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "環境",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_016"
+    ]
+  },
+  {
     "word": "जाति-पाँति",
     "normalized": "जाति पाँति",
     "display": "जाति-पाँति",
@@ -342,6 +513,25 @@
     ]
   },
   {
+    "word": "जीवाश्म ईंधन",
+    "normalized": "जीवाश्म ईंधन",
+    "display": "जीवाश्म ईंधन",
+    "variants": [],
+    "pos": "名詞句",
+    "meaning_ja": "化石燃料",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "環境",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_016"
+    ]
+  },
+  {
     "word": "तर्कशील",
     "normalized": "तर्कशील",
     "display": "तर्कशील",
@@ -361,6 +551,63 @@
     ]
   },
   {
+    "word": "तापमान वृद्धि",
+    "normalized": "तापमान वृद्धि",
+    "display": "तापमान वृद्धि",
+    "variants": [],
+    "pos": "名詞句",
+    "meaning_ja": "気温上昇",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "環境",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_016"
+    ]
+  },
+  {
+    "word": "दावानल",
+    "normalized": "दावानल",
+    "display": "दावानल",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "森林火災",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "環境",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_016"
+    ]
+  },
+  {
+    "word": "दोहन",
+    "normalized": "दोहन",
+    "display": "दोहन",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "利用、搾取、採掘",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "環境",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_016"
+    ]
+  },
+  {
     "word": "द्वंद्व",
     "normalized": "द्वंद्व",
     "display": "द्वंद्व",
@@ -377,6 +624,44 @@
     ],
     "sourceIds": [
       "academic_010"
+    ]
+  },
+  {
+    "word": "धातु अयस्क",
+    "normalized": "धातु अयस्क",
+    "display": "धातु अयस्क",
+    "variants": [],
+    "pos": "名詞句",
+    "meaning_ja": "金属鉱石",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "環境",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_016"
+    ]
+  },
+  {
+    "word": "नवीकरणीय",
+    "normalized": "नवीकरणीय",
+    "display": "नवीकरणीय",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "再生可能な",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "環境",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_016"
     ]
   },
   {
@@ -418,6 +703,44 @@
     ]
   },
   {
+    "word": "निर्मूलित",
+    "normalized": "निर्मूलित",
+    "display": "निर्मूलित",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "根絶された、除去された",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "環境",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_016"
+    ]
+  },
+  {
+    "word": "निष्कर्षण",
+    "normalized": "निष्कर्षण",
+    "display": "निष्कर्षण",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "採取、抽出",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "環境",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_016"
+    ]
+  },
+  {
     "word": "परमात्मा",
     "normalized": "परमात्मा",
     "display": "परमात्मा",
@@ -453,6 +776,63 @@
     ],
     "sourceIds": [
       "academic_011"
+    ]
+  },
+  {
+    "word": "पारिस्थितिकी तंत्र",
+    "normalized": "पारिस्थितिकी तंत्र",
+    "display": "पारिस्थितिकी तंत्र",
+    "variants": [],
+    "pos": "名詞句",
+    "meaning_ja": "生態系",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "環境",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_016"
+    ]
+  },
+  {
+    "word": "पुनर्जनन",
+    "normalized": "पुनर्जनन",
+    "display": "पुनर्जनन",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "再生",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "環境",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_016"
+    ]
+  },
+  {
+    "word": "पुनर्स्थापन",
+    "normalized": "पुनर्स्थापन",
+    "display": "पुनर्स्थापन",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "回復、復元",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "環境",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_016"
     ]
   },
   {
@@ -510,6 +890,25 @@
     ],
     "sourceIds": [
       "academic_012"
+    ]
+  },
+  {
+    "word": "प्राकृतिक संसाधन",
+    "normalized": "प्राकृतिक संसाधन",
+    "display": "प्राकृतिक संसाधन",
+    "variants": [],
+    "pos": "名詞句",
+    "meaning_ja": "天然資源",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "環境",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_016"
     ]
   },
   {
@@ -627,6 +1026,25 @@
     ]
   },
   {
+    "word": "भौगोलिक विविधता",
+    "normalized": "भौगोलिक विविधता",
+    "display": "भौगोलिक विविधता",
+    "variants": [],
+    "pos": "名詞句",
+    "meaning_ja": "地理的多様性",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "環境",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_016"
+    ]
+  },
+  {
     "word": "माधुर्य",
     "normalized": "माधुर्य",
     "display": "माधुर्य",
@@ -646,6 +1064,25 @@
     ]
   },
   {
+    "word": "मानवीय हस्तक्षेप",
+    "normalized": "मानवीय हस्तक्षेप",
+    "display": "मानवीय हस्तक्षेप",
+    "variants": [],
+    "pos": "名詞句",
+    "meaning_ja": "人為的介入",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "環境",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_016"
+    ]
+  },
+  {
     "word": "माया",
     "normalized": "माया",
     "display": "माया",
@@ -662,6 +1099,25 @@
     ],
     "sourceIds": [
       "academic_014"
+    ]
+  },
+  {
+    "word": "मृदा",
+    "normalized": "मृदा",
+    "display": "मृदा",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "土壌",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "環境",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_016"
     ]
   },
   {
@@ -741,6 +1197,44 @@
     ]
   },
   {
+    "word": "वनों की कटाई",
+    "normalized": "वनों की कटाई",
+    "display": "वनों की कटाई",
+    "variants": [],
+    "pos": "名詞句",
+    "meaning_ja": "森林伐採",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "環境",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_016"
+    ]
+  },
+  {
+    "word": "वर्गीकरण",
+    "normalized": "वर्गीकरण",
+    "display": "वर्गीकरण",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "分類",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "環境",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_016"
+    ]
+  },
+  {
     "word": "वात्सल्यपूर्ण",
     "normalized": "वात्सल्यपूर्ण",
     "display": "वात्सल्यपूर्ण",
@@ -757,6 +1251,25 @@
     ],
     "sourceIds": [
       "academic_015"
+    ]
+  },
+  {
+    "word": "वायुमंडल",
+    "normalized": "वायुमंडल",
+    "display": "वायुमंडल",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "大気圏、大気",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "環境",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_016"
     ]
   },
   {
@@ -798,6 +1311,25 @@
     ]
   },
   {
+    "word": "व्यवहार्य",
+    "normalized": "व्यवहार्य",
+    "display": "व्यवहार्य",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "実行可能な",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "環境",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_016"
+    ]
+  },
+  {
     "word": "शील",
     "normalized": "शील",
     "display": "शील",
@@ -814,6 +1346,25 @@
     ],
     "sourceIds": [
       "academic_015"
+    ]
+  },
+  {
+    "word": "संसाधन",
+    "normalized": "संसाधन",
+    "display": "संसाधन",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "資源",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "環境",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_016"
     ]
   },
   {
@@ -874,6 +1425,25 @@
     ]
   },
   {
+    "word": "समग्रता",
+    "normalized": "समग्रता",
+    "display": "समग्रता",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "全体性、総体",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "環境",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_016"
+    ]
+  },
+  {
     "word": "समन्वय",
     "normalized": "समन्वय",
     "display": "समन्वय",
@@ -912,6 +1482,25 @@
     ]
   },
   {
+    "word": "सातत्य",
+    "normalized": "सातत्य",
+    "display": "सातत्य",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "持続性、継続性",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "環境",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_016"
+    ]
+  },
+  {
     "word": "सार्वभौमिक",
     "normalized": "सार्वभौमिक",
     "display": "सार्वभौमिक",
@@ -947,6 +1536,25 @@
     ],
     "sourceIds": [
       "academic_015"
+    ]
+  },
+  {
+    "word": "हिमनद",
+    "normalized": "हिमनद",
+    "display": "हिमनद",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "氷河",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "環境",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_016"
     ]
   },
   {
@@ -1222,6 +1830,25 @@
     ]
   },
   {
+    "word": "अप्रत्यक्ष",
+    "normalized": "अप्रत्यक्ष",
+    "display": "अप्रत्यक्ष",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "間接的な",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "環境",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_016"
+    ]
+  },
+  {
     "word": "अभिप्राय",
     "normalized": "अभिप्राय",
     "display": "अभिप्राय",
@@ -1273,6 +1900,25 @@
     ],
     "sourceIds": [
       "academic_011"
+    ]
+  },
+  {
+    "word": "अर्पण",
+    "normalized": "अर्पण",
+    "display": "अर्पण",
+    "variants": [],
+    "pos": "名詞・動詞",
+    "meaning_ja": "奉納、捧げること",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "環境",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_016"
     ]
   },
   {
@@ -1329,6 +1975,25 @@
     ],
     "sourceIds": [
       "academic_015"
+    ]
+  },
+  {
+    "word": "अस्वीकार्य",
+    "normalized": "अस्वीकार्य",
+    "display": "अस्वीकार्य",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "受け入れられない",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "環境",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_016"
     ]
   },
   {
@@ -1517,6 +2182,25 @@
     ]
   },
   {
+    "word": "आश्रय",
+    "normalized": "आश्रय",
+    "display": "आश्रय",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "避難所、住処、保護",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "環境",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_016"
+    ]
+  },
+  {
     "word": "उत्तर मध्यकाल",
     "normalized": "उत्तर मध्यकाल",
     "display": "उत्तर मध्यकाल",
@@ -1644,6 +2328,63 @@
     ],
     "sourceIds": [
       "academic_002"
+    ]
+  },
+  {
+    "word": "उपजाऊ",
+    "normalized": "उपजाऊ",
+    "display": "उपजाऊ",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "肥沃な",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "環境",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_016"
+    ]
+  },
+  {
+    "word": "उपभोग",
+    "normalized": "उपभोग",
+    "display": "उपभोग",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "消費",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "環境",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_016"
+    ]
+  },
+  {
+    "word": "उपयोगिता",
+    "normalized": "उपयोगिता",
+    "display": "उपयोगिता",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "有用性",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "環境",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_016"
     ]
   },
   {
@@ -1977,6 +2718,25 @@
     ]
   },
   {
+    "word": "कृतज्ञता",
+    "normalized": "कृतज्ञता",
+    "display": "कृतज्ञता",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "感謝",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "環境",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_016"
+    ]
+  },
+  {
     "word": "कृपा",
     "normalized": "कृपा",
     "display": "कृपा",
@@ -2051,6 +2811,44 @@
     ]
   },
   {
+    "word": "क्षतिग्रस्त",
+    "normalized": "क्षतिग्रस्त",
+    "display": "क्षतिग्रस्त",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "損傷した",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "環境",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_016"
+    ]
+  },
+  {
+    "word": "क्षीण",
+    "normalized": "क्षीण",
+    "display": "क्षीण",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "弱まった、衰えた",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "環境",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_016"
+    ]
+  },
+  {
     "word": "खतरा",
     "normalized": "खतरा",
     "display": "खतरा",
@@ -2066,6 +2864,25 @@
     ],
     "sourceIds": [
       "academic_005BandarMagarmacch3"
+    ]
+  },
+  {
+    "word": "खनिज तेल",
+    "normalized": "खनिज तेल",
+    "display": "खनिज तेल",
+    "variants": [],
+    "pos": "名詞句",
+    "meaning_ja": "鉱物油、石油",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "環境",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_016"
     ]
   },
   {
@@ -2103,6 +2920,25 @@
     ],
     "sourceIds": [
       "academic_012"
+    ]
+  },
+  {
+    "word": "ग्रहण",
+    "normalized": "ग्रहण",
+    "display": "ग्रहण",
+    "variants": [],
+    "pos": "名詞・動詞",
+    "meaning_ja": "受容、取り入れること",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "環境",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_016"
     ]
   },
   {
@@ -2273,6 +3109,44 @@
     ],
     "sourceIds": [
       "academic_004BandarMagarmacch2"
+    ]
+  },
+  {
+    "word": "जीवन-यापन",
+    "normalized": "जीवन यापन",
+    "display": "जीवन-यापन",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "生計維持、生活",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "環境",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_016"
+    ]
+  },
+  {
+    "word": "जीवाणु",
+    "normalized": "जीवाणु",
+    "display": "जीवाणु",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "細菌",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "環境",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_016"
     ]
   },
   {
@@ -2731,6 +3605,25 @@
     ]
   },
   {
+    "word": "नवीनीकृत",
+    "normalized": "नवीनीकृत",
+    "display": "नवीनीकृत",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "更新された、再生された",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "環境",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_016"
+    ]
+  },
+  {
     "word": "नामकरण",
     "normalized": "नामकरण",
     "display": "नामकरण",
@@ -3135,6 +4028,25 @@
     ]
   },
   {
+    "word": "पर्यावरण",
+    "normalized": "पर्यावरण",
+    "display": "पर्यावरण",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "環境",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "環境",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_016"
+    ]
+  },
+  {
     "word": "पवित्रता",
     "normalized": "पवित्रता",
     "display": "पवित्रता",
@@ -3212,6 +4124,44 @@
     ]
   },
   {
+    "word": "पृथक",
+    "normalized": "पृथक",
+    "display": "पृथक",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "別個の、分離した",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "環境",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_016"
+    ]
+  },
+  {
+    "word": "प्रचुर मात्रा",
+    "normalized": "प्रचुर मात्रा",
+    "display": "प्रचुर मात्रा",
+    "variants": [],
+    "pos": "名詞句",
+    "meaning_ja": "豊富な量",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "環境",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_016"
+    ]
+  },
+  {
     "word": "प्रतिष्ठित",
     "normalized": "प्रतिष्ठित",
     "display": "प्रतिष्ठित",
@@ -3227,6 +4177,25 @@
     ],
     "sourceIds": [
       "academic_009"
+    ]
+  },
+  {
+    "word": "प्रत्यक्ष",
+    "normalized": "प्रत्यक्ष",
+    "display": "प्रत्यक्ष",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "直接的な",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "環境",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_016"
     ]
   },
   {
@@ -3584,6 +4553,25 @@
     ]
   },
   {
+    "word": "फफूँद",
+    "normalized": "फफूँद",
+    "display": "फफूँद",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "菌類、カビ",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "環境",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_016"
+    ]
+  },
+  {
     "word": "बहाना",
     "normalized": "बहाना",
     "display": "बहाना",
@@ -3655,6 +4643,44 @@
     ],
     "sourceIds": [
       "academic_006"
+    ]
+  },
+  {
+    "word": "बहुमूल्य",
+    "normalized": "बहुमूल्य",
+    "display": "बहुमूल्य",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "貴重な、高価な",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "環境",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_016"
+    ]
+  },
+  {
+    "word": "बाधित",
+    "normalized": "बाधित",
+    "display": "बाधित",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "妨げられた",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "環境",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_016"
     ]
   },
   {
@@ -3746,6 +4772,25 @@
     ],
     "sourceIds": [
       "academic_009"
+    ]
+  },
+  {
+    "word": "भौतिक",
+    "normalized": "भौतिक",
+    "display": "भौतिक",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "物質的な",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "環境",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_016"
     ]
   },
   {
@@ -4815,6 +5860,25 @@
     ]
   },
   {
+    "word": "शिल्पित",
+    "normalized": "शिल्पित",
+    "display": "शिल्पित",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "彫刻された、細工された",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "環境",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_016"
+    ]
+  },
+  {
     "word": "शीर्षांकित",
     "normalized": "शीर्षांकित",
     "display": "शीर्षांकित",
@@ -5290,6 +6354,25 @@
     ],
     "sourceIds": [
       "academic_008"
+    ]
+  },
+  {
+    "word": "सांस्कृतिक",
+    "normalized": "सांस्कृतिक",
+    "display": "सांस्कृतिक",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "文化的な",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "環境",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_016"
     ]
   },
   {
@@ -5921,6 +7004,25 @@
     ]
   },
   {
+    "word": "उपयोगिता हेतु",
+    "normalized": "उपयोगिता हेतु",
+    "display": "उपयोगिता हेतु",
+    "variants": [],
+    "pos": "副詞句",
+    "meaning_ja": "利用目的で",
+    "importance": 3,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "環境",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_016"
+    ]
+  },
+  {
     "word": "उपयोगी",
     "normalized": "उपयोगी",
     "display": "उपयोगी",
@@ -6179,6 +7281,25 @@
     ]
   },
   {
+    "word": "निर्मित",
+    "normalized": "निर्मित",
+    "display": "निर्मित",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "作られた、形成された",
+    "importance": 3,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "環境",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_016"
+    ]
+  },
+  {
     "word": "निश्चय ही",
     "normalized": "निश्चय ही",
     "display": "निश्चय ही",
@@ -6361,6 +7482,25 @@
     ],
     "sourceIds": [
       "academic_011"
+    ]
+  },
+  {
+    "word": "प्रतिमा",
+    "normalized": "प्रतिमा",
+    "display": "प्रतिमा",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "彫像、像",
+    "importance": 3,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "環境",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_016"
     ]
   },
   {
@@ -6710,6 +7850,25 @@
     ]
   },
   {
+    "word": "लागत",
+    "normalized": "लागत",
+    "display": "लागत",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "費用、コスト",
+    "importance": 3,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "環境",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_016"
+    ]
+  },
+  {
     "word": "वर्णन",
     "normalized": "वर्णन",
     "display": "वर्णन",
@@ -6922,6 +8081,25 @@
     ],
     "sourceIds": [
       "academic_001"
+    ]
+  },
+  {
+    "word": "संदर्भित",
+    "normalized": "संदर्भित",
+    "display": "संदर्भित",
+    "variants": [],
+    "pos": "動詞・形容詞",
+    "meaning_ja": "参照する、言及された",
+    "importance": 3,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "環境",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_016"
     ]
   },
   {
