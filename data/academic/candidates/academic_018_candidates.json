@@ -1,0 +1,949 @@
+[
+  {
+    "word": "उत्पादन",
+    "display": "उत्पादन",
+    "normalized": "उत्पादन",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "生産",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "経済",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_018"
+    ],
+    "sourceTitle": "उत्पादन के कारक",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "कारक",
+    "display": "कारक",
+    "normalized": "कारक",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "要因、要素",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "経済",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_018"
+    ],
+    "sourceTitle": "उत्पादन के कारक",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "पूँजी",
+    "display": "पूँजी",
+    "normalized": "पूंजी",
+    "variants": [
+      "पूंजी"
+    ],
+    "pos": "名詞（女）",
+    "meaning_ja": "資本",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "経済",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_018"
+    ],
+    "sourceTitle": "उत्पादन के कारक",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "व्यवसाय",
+    "display": "व्यवसाय",
+    "normalized": "व्यवसाय",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "事業、商売",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "経済",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_018"
+    ],
+    "sourceTitle": "उत्पादन के कारक",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "संचालन",
+    "display": "संचालन",
+    "normalized": "संचालन",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "運営、実施",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "経済",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_018"
+    ],
+    "sourceTitle": "उत्पादन के कारक",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "मौद्रिक",
+    "display": "मौद्रिक",
+    "normalized": "मौद्रिक",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "貨幣の、金融の",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "経済",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_018"
+    ],
+    "sourceTitle": "उत्पादन के कारक",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "टिकाऊ",
+    "display": "टिकाऊ",
+    "normalized": "टिकाऊ",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "耐久性のある、長持ちする",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "経済",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_018"
+    ],
+    "sourceTitle": "उत्पादन के कारक",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "संपत्ति",
+    "display": "संपत्ति",
+    "normalized": "संपत्ति",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "財産、資産",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "経済",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_018"
+    ],
+    "sourceTitle": "उत्पादन के कारक",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "औजार",
+    "display": "औजार",
+    "normalized": "औजार",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "道具、工具",
+    "importance": 3,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "経済",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_018"
+    ],
+    "sourceTitle": "उत्पादन के कारक",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "उपकरण",
+    "display": "उपकरण",
+    "normalized": "उपकरण",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "機器、装置",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "経済",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_018"
+    ],
+    "sourceTitle": "उत्पादन के कारक",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "विक्रय",
+    "display": "विक्रय",
+    "normalized": "विक्रय",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "販売",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "経済",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_018"
+    ],
+    "sourceTitle": "उत्पादन के कारक",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "निर्माण इकाई",
+    "display": "निर्माण इकाई",
+    "normalized": "निर्माण इकाई",
+    "variants": [],
+    "pos": "名詞句",
+    "meaning_ja": "製造単位、製造部門",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "経済",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_018"
+    ],
+    "sourceTitle": "उत्पादन के कारक",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "सेवा क्षेत्रक",
+    "display": "सेवा क्षेत्रक",
+    "normalized": "सेवा क्षेत्रक",
+    "variants": [],
+    "pos": "名詞句",
+    "meaning_ja": "サービス部門",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "経済",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_018"
+    ],
+    "sourceTitle": "उत्पादन के कारक",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "उद्यम",
+    "display": "उद्यम",
+    "normalized": "उद्यम",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "事業、企業",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "経済",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_018"
+    ],
+    "sourceTitle": "उत्पादन के कारक",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "व्यक्तिगत बचत",
+    "display": "व्यक्तिगत बचत",
+    "normalized": "व्यक्तिगत बचत",
+    "variants": [],
+    "pos": "名詞句",
+    "meaning_ja": "個人貯蓄",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "経済",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_018"
+    ],
+    "sourceTitle": "उत्पादन के कारक",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "प्राथमिक स्रोत",
+    "display": "प्राथमिक स्रोत",
+    "normalized": "प्राथमिक स्रोत",
+    "variants": [],
+    "pos": "名詞句",
+    "meaning_ja": "一次的な源、主要な供給源",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "経済",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_018"
+    ],
+    "sourceTitle": "उत्पादन के कारक",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "ऋण",
+    "display": "ऋण",
+    "normalized": "ऋण",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "借入金、ローン",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "経済",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_018"
+    ],
+    "sourceTitle": "उत्पादन के कारक",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "ब्याज",
+    "display": "ब्याज",
+    "normalized": "ब्याज",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "利息",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "経済",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_018"
+    ],
+    "sourceTitle": "उत्पादन के कारक",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "भुगतान",
+    "display": "भुगतान",
+    "normalized": "भुगतान",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "支払い",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "経済",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_018"
+    ],
+    "sourceTitle": "उत्पादन के कारक",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "विस्तार",
+    "display": "विस्तार",
+    "normalized": "विस्तार",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "拡大、詳述、広がり",
+    "importance": 3,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "経済",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_018"
+    ],
+    "sourceTitle": "उत्पादन के कारक",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "शेयर बाजार",
+    "display": "शेयर बाजार",
+    "normalized": "शेयर बाजार",
+    "variants": [],
+    "pos": "名詞句",
+    "meaning_ja": "株式市場",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "経済",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_018"
+    ],
+    "sourceTitle": "उत्पादन के कारक",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "एकत्रित",
+    "display": "एकत्रित",
+    "normalized": "एकत्रित",
+    "variants": [],
+    "pos": "形容詞・動詞",
+    "meaning_ja": "集められた、集めること",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "経済",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_018"
+    ],
+    "sourceTitle": "उत्पादन के कारक",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "क्रय",
+    "display": "क्रय",
+    "normalized": "क्रय",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "購入",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "経済",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_018"
+    ],
+    "sourceTitle": "उत्पादन के कारक",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "लाभांश",
+    "display": "लाभांश",
+    "normalized": "लाभांश",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "配当、利益配分",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "経済",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_018"
+    ],
+    "sourceTitle": "उत्पादन के कारक",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "धनराशि",
+    "display": "धनराशि",
+    "normalized": "धनराशि",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "金額、資金",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "経済",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_018"
+    ],
+    "sourceTitle": "उत्पादन के कारक",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "वित्तीय पूँजी",
+    "display": "वित्तीय पूँजी",
+    "normalized": "वित्तीय पूंजी",
+    "variants": [
+      "वित्तीय पूंजी"
+    ],
+    "pos": "名詞句",
+    "meaning_ja": "金融資本",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "経済",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_018"
+    ],
+    "sourceTitle": "उत्पादन के कारक",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "प्रणाली",
+    "display": "प्रणाली",
+    "normalized": "प्रणाली",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "制度、システム",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "経済",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_018"
+    ],
+    "sourceTitle": "उत्पादन के कारक",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "उद्यमिता",
+    "display": "उद्यमिता",
+    "normalized": "उद्यमिता",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "起業家精神、起業",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "経済",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_018"
+    ],
+    "sourceTitle": "उत्पादन के कारक",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "तात्पर्य",
+    "display": "तात्पर्य",
+    "normalized": "तात्पर्य",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "意味、趣旨",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "経済",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_018"
+    ],
+    "sourceTitle": "उत्पादन के कारक",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "उद्यमी",
+    "display": "उद्यमी",
+    "normalized": "उद्यमी",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "起業家",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "経済",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_018"
+    ],
+    "sourceTitle": "उत्पादन के कारक",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "जोखिम",
+    "display": "जोखिम",
+    "normalized": "जोखिम",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "リスク、危険",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "経済",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_018"
+    ],
+    "sourceTitle": "उत्पादन के कारक",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "स्टार्टअप",
+    "display": "स्टार्टअप",
+    "normalized": "स्टार्टअप",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "スタートアップ、新興企業",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "経済",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_018"
+    ],
+    "sourceTitle": "उत्पादन के कारक",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "उद्देश्य",
+    "display": "उद्देश्य",
+    "normalized": "उद्देश्य",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "目的",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "経済",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_018"
+    ],
+    "sourceTitle": "उत्पादन के कारक",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "समाधान",
+    "display": "समाधान",
+    "normalized": "समाधान",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "解決、解決策",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "経済",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_018"
+    ],
+    "sourceTitle": "उत्पादन के कारक",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "रोजगार",
+    "display": "रोजगार",
+    "normalized": "रोजगार",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "雇用、仕事",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "経済",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_018"
+    ],
+    "sourceTitle": "उत्पादन के कारक",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "सृजित",
+    "display": "सृजित",
+    "normalized": "सृजित",
+    "variants": [],
+    "pos": "形容詞・動詞",
+    "meaning_ja": "創出された、創り出すこと",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "経済",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_018"
+    ],
+    "sourceTitle": "उत्पादन के कारक",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "आजीविका",
+    "display": "आजीविका",
+    "normalized": "आजीविका",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "生計、生活手段",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "経済",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_018"
+    ],
+    "sourceTitle": "उत्पादन के कारक",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "उपार्जित",
+    "display": "उपार्जित",
+    "normalized": "उपार्जित",
+    "variants": [],
+    "pos": "形容詞・動詞",
+    "meaning_ja": "獲得された、得ること",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "経済",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_018"
+    ],
+    "sourceTitle": "उत्पादन के कारक",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "साकार",
+    "display": "साकार",
+    "normalized": "साकार",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "実現した、形を持つ",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "経済",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_018"
+    ],
+    "sourceTitle": "उत्पादन के कारक",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "संतुष्टि",
+    "display": "संतुष्टि",
+    "normalized": "संतुष्टि",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "満足",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "経済",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_018"
+    ],
+    "sourceTitle": "उत्पादन के कारक",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "अनुभूति",
+    "display": "अनुभूति",
+    "normalized": "अनुभूति",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "実感、感覚、経験",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "経済",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_018"
+    ],
+    "sourceTitle": "उत्पादन के कारक",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  }
+]

@@ -1,5 +1,26 @@
 [
   {
+    "text": "अतीत हमारे साथ रहकर हमारे वर्तमान को आकार देता है",
+    "normalized": "अतीत हमारे साथ रहकर हमारे वर्तमान को आकार देता है",
+    "meaning_ja": "過去は私たちと共にあり、現在を形づくる",
+    "type": "philosophical_statement",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ],
+    "sourceTitle": "इतिहास के अंधकारमय कालखंडों पर एक टिप्पणी",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
     "text": "अविवेकपूर्ण मानवीय कृत्य",
     "normalized": "अविवेकपूर्ण मानवीय कृत्य",
     "meaning_ja": "無分別な人間の行為",
@@ -168,6 +189,27 @@
     "sourceRegister": "Kendriya Hindi Sansthan"
   },
   {
+    "text": "पर्याप्त निष्पक्षता और संवेदनशीलता के साथ",
+    "normalized": "पर्याप्त निष्पक्षता और संवेदनशीलता के साथ",
+    "meaning_ja": "十分な公平性と感受性をもって",
+    "type": "academic_expression",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ],
+    "sourceTitle": "इतिहास के अंधकारमय कालखंडों पर एक टिप्पणी",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
     "text": "पारिस्थितिकी तंत्र का पुनर्स्थापन",
     "normalized": "पारिस्थितिकी तंत्र का पुनर्स्थापन",
     "meaning_ja": "生態系の回復",
@@ -273,6 +315,27 @@
     "sourceRegister": "academic_prose"
   },
   {
+    "text": "बिना पक्षपात किए अध्ययन करना चाहिए",
+    "normalized": "बिना पक्षपात किए अध्ययन करना चाहिए",
+    "meaning_ja": "偏見なしに研究すべきである",
+    "type": "instruction",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ],
+    "sourceTitle": "इतिहास के अंधकारमय कालखंडों पर एक टिप्पणी",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
     "text": "माया का पर्दा",
     "normalized": "माया का पर्दा",
     "meaning_ja": "幻影の幕、マーヤーによる隔たり",
@@ -357,6 +420,27 @@
     "sourceRegister": "academic_prose"
   },
   {
+    "text": "रोजगार के अवसर सृजित करते हैं",
+    "normalized": "रोजगार के अवसर सृजित करते हैं",
+    "meaning_ja": "雇用の機会を創出する",
+    "type": "economic_expression",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "経済",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_018"
+    ],
+    "sourceTitle": "उत्पादन के कारक",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
     "text": "विज्ञान का अपना तर्क है और विश्वास का अपना सामर्थ्य",
     "normalized": "विज्ञान का अपना तर्क है और विश्वास का अपना सामर्थ्य",
     "meaning_ja": "科学には科学の論理があり、信仰には信仰の力がある",
@@ -397,6 +481,27 @@
     "sourceTitle": "Dharmvir Bharti",
     "sourceGenre": "textbook",
     "sourceRegister": "literary_prose"
+  },
+  {
+    "text": "शेयरों का क्रय एवं विक्रय",
+    "normalized": "शेयरों का क्रय एवं विक्रय",
+    "meaning_ja": "株式の購入と販売",
+    "type": "economic_expression",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "経済",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_018"
+    ],
+    "sourceTitle": "उत्पादन के कारक",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
   },
   {
     "text": "संसार को ईश्वर का ही एक रूप मानते हैं",
@@ -586,6 +691,27 @@
     "sourceRegister": "academic_prose"
   },
   {
+    "text": "अतीत के घाव को भरने",
+    "normalized": "अतीत के घाव को भरने",
+    "meaning_ja": "過去の傷を癒やすこと",
+    "type": "metaphorical_expression",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ],
+    "sourceTitle": "इतिहास के अंधकारमय कालखंडों पर एक टिप्पणी",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
     "text": "अनर्गल विस्तार से बचना चाहिए",
     "normalized": "अनर्गल विस्तार से बचना चाहिए",
     "meaning_ja": "無駄な詳述を避けるべきである",
@@ -622,6 +748,27 @@
       "academic_008"
     ],
     "sourceTitle": "प्राक्कथन",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "text": "इतिहास युद्धों और विनाश के वर्णन से ही भरा हुआ प्रतीत होता है",
+    "normalized": "इतिहास युद्धों और विनाश के वर्णन से ही भरा हुआ प्रतीत होता है",
+    "meaning_ja": "歴史は戦争と破壊の記述で満ちているように見える",
+    "type": "academic_expression",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ],
+    "sourceTitle": "इतिहास के अंधकारमय कालखंडों पर एक टिप्पणी",
     "sourceGenre": "textbook",
     "sourceRegister": "academic_prose"
   },
@@ -930,6 +1077,48 @@
     "sourceTitle": "बंदर और मगरमच्छ",
     "sourceGenre": "story",
     "sourceRegister": "simple_narrative"
+  },
+  {
+    "text": "दैनिक कार्यों के संचालन के लिए पूँजी की आवश्यकता",
+    "normalized": "दैनिक कार्यों के संचालन के लिए पूँजी की आवश्यकता",
+    "meaning_ja": "日常業務の運営のための資本の必要性",
+    "type": "academic_expression",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "経済",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_018"
+    ],
+    "sourceTitle": "उत्पादन के कारक",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "text": "धन और मानव निर्मित संसाधन",
+    "normalized": "धन और मानव निर्मित संसाधन",
+    "meaning_ja": "資金と人間によって作られた資源",
+    "type": "definition",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "経済",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_018"
+    ],
+    "sourceTitle": "उत्पादन के कारक",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
   },
   {
     "text": "नई दिशा प्रशस्त करेगा",
@@ -1338,6 +1527,27 @@
     "sourceRegister": "literary_prose"
   },
   {
+    "text": "वर्तमान में किसी को उत्तरदायी ठहराया जाए",
+    "normalized": "वर्तमान में किसी को उत्तरदायी ठहराया जाए",
+    "meaning_ja": "現在の誰かに責任を負わせる",
+    "type": "academic_expression",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ],
+    "sourceTitle": "इतिहास के अंधकारमय कालखंडों पर एक टिप्पणी",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
     "text": "वह समझ गया उसका जीवन खतरे में है",
     "normalized": "वह समझ गया उसका जीवन खतरे में है",
     "meaning_ja": "彼は自分の命が危険にあることを悟った",
@@ -1497,6 +1707,69 @@
     ],
     "sourceTitle": "व्यायाम के लाभ",
     "sourceGenre": "essay",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "text": "शांति और सामंजस्य का वातावरण",
+    "normalized": "शांति और सामंजस्य का वातावरण",
+    "meaning_ja": "平和と調和の雰囲気",
+    "type": "academic_expression",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ],
+    "sourceTitle": "इतिहास के अंधकारमय कालखंडों पर एक टिप्पणी",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "text": "संपूर्ण परिदृश्य पर छा जाते हैं",
+    "normalized": "संपूर्ण परिदृश्य पर छा जाते हैं",
+    "meaning_ja": "全体の状況を覆い尽くす",
+    "type": "academic_expression",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ],
+    "sourceTitle": "इतिहास के अंधकारमय कालखंडों पर एक टिप्पणी",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "text": "समस्या का समाधान प्रस्तुत करना",
+    "normalized": "समस्या का समाधान प्रस्तुत करना",
+    "meaning_ja": "問題の解決策を提示する",
+    "type": "academic_expression",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "経済",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_018"
+    ],
+    "sourceTitle": "उत्पादन के कारक",
+    "sourceGenre": "textbook",
     "sourceRegister": "academic_prose"
   },
   {

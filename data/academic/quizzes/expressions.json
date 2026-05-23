@@ -1,5 +1,23 @@
 [
   {
+    "text": "अतीत हमारे साथ रहकर हमारे वर्तमान को आकार देता है",
+    "normalized": "अतीत हमारे साथ रहकर हमारे वर्तमान को आकार देता है",
+    "meaning": "過去は私たちと共にあり、現在を形づくる",
+    "meaning_ja": "過去は私たちと共にあり、現在を形づくる",
+    "type": "philosophical_statement",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ]
+  },
+  {
     "text": "अविवेकपूर्ण मानवीय कृत्य",
     "normalized": "अविवेकपूर्ण मानवीय कृत्य",
     "meaning": "無分別な人間の行為",
@@ -144,6 +162,24 @@
     ]
   },
   {
+    "text": "पर्याप्त निष्पक्षता और संवेदनशीलता के साथ",
+    "normalized": "पर्याप्त निष्पक्षता और संवेदनशीलता के साथ",
+    "meaning": "十分な公平性と感受性をもって",
+    "meaning_ja": "十分な公平性と感受性をもって",
+    "type": "academic_expression",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ]
+  },
+  {
     "text": "पारिस्थितिकी तंत्र का पुनर्स्थापन",
     "normalized": "पारिस्थितिकी तंत्र का पुनर्स्थापन",
     "meaning": "生態系の回復",
@@ -234,6 +270,24 @@
     ]
   },
   {
+    "text": "बिना पक्षपात किए अध्ययन करना चाहिए",
+    "normalized": "बिना पक्षपात किए अध्ययन करना चाहिए",
+    "meaning": "偏見なしに研究すべきである",
+    "meaning_ja": "偏見なしに研究すべきである",
+    "type": "instruction",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ]
+  },
+  {
     "text": "माया का पर्दा",
     "normalized": "माया का पर्दा",
     "meaning": "幻影の幕、マーヤーによる隔たり",
@@ -306,6 +360,24 @@
     ]
   },
   {
+    "text": "रोजगार के अवसर सृजित करते हैं",
+    "normalized": "रोजगार के अवसर सृजित करते हैं",
+    "meaning": "雇用の機会を創出する",
+    "meaning_ja": "雇用の機会を創出する",
+    "type": "economic_expression",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "経済",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_018"
+    ]
+  },
+  {
     "text": "विज्ञान का अपना तर्क है और विश्वास का अपना सामर्थ्य",
     "normalized": "विज्ञान का अपना तर्क है और विश्वास का अपना सामर्थ्य",
     "meaning": "科学には科学の論理があり、信仰には信仰の力がある",
@@ -339,6 +411,24 @@
     ],
     "sourceIds": [
       "academic_010"
+    ]
+  },
+  {
+    "text": "शेयरों का क्रय एवं विक्रय",
+    "normalized": "शेयरों का क्रय एवं विक्रय",
+    "meaning": "株式の購入と販売",
+    "meaning_ja": "株式の購入と販売",
+    "type": "economic_expression",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "経済",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_018"
     ]
   },
   {
@@ -502,6 +592,24 @@
     ]
   },
   {
+    "text": "अतीत के घाव को भरने",
+    "normalized": "अतीत के घाव को भरने",
+    "meaning": "過去の傷を癒やすこと",
+    "meaning_ja": "過去の傷を癒やすこと",
+    "type": "metaphorical_expression",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ]
+  },
+  {
     "text": "अनर्गल विस्तार से बचना चाहिए",
     "normalized": "अनर्गल विस्तार से बचना चाहिए",
     "meaning": "無駄な詳述を避けるべきである",
@@ -533,6 +641,24 @@
     ],
     "sourceIds": [
       "academic_008"
+    ]
+  },
+  {
+    "text": "इतिहास युद्धों और विनाश के वर्णन से ही भरा हुआ प्रतीत होता है",
+    "normalized": "इतिहास युद्धों और विनाश के वर्णन से ही भरा हुआ प्रतीत होता है",
+    "meaning": "歴史は戦争と破壊の記述で満ちているように見える",
+    "meaning_ja": "歴史は戦争と破壊の記述で満ちているように見える",
+    "type": "academic_expression",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
     ]
   },
   {
@@ -794,6 +920,42 @@
     ],
     "sourceIds": [
       "academic_005BandarMagarmacch3"
+    ]
+  },
+  {
+    "text": "दैनिक कार्यों के संचालन के लिए पूँजी की आवश्यकता",
+    "normalized": "दैनिक कार्यों के संचालन के लिए पूँजी की आवश्यकता",
+    "meaning": "日常業務の運営のための資本の必要性",
+    "meaning_ja": "日常業務の運営のための資本の必要性",
+    "type": "academic_expression",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "経済",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_018"
+    ]
+  },
+  {
+    "text": "धन और मानव निर्मित संसाधन",
+    "normalized": "धन और मानव निर्मित संसाधन",
+    "meaning": "資金と人間によって作られた資源",
+    "meaning_ja": "資金と人間によって作られた資源",
+    "type": "definition",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "経済",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_018"
     ]
   },
   {
@@ -1143,6 +1305,24 @@
     ]
   },
   {
+    "text": "वर्तमान में किसी को उत्तरदायी ठहराया जाए",
+    "normalized": "वर्तमान में किसी को उत्तरदायी ठहराया जाए",
+    "meaning": "現在の誰かに責任を負わせる",
+    "meaning_ja": "現在の誰かに責任を負わせる",
+    "type": "academic_expression",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ]
+  },
+  {
     "text": "वह समझ गया उसका जीवन खतरे में है",
     "normalized": "वह समझ गया उसका जीवन खतरे में है",
     "meaning": "彼は自分の命が危険にあることを悟った",
@@ -1278,6 +1458,60 @@
     ],
     "sourceIds": [
       "academic_002"
+    ]
+  },
+  {
+    "text": "शांति और सामंजस्य का वातावरण",
+    "normalized": "शांति और सामंजस्य का वातावरण",
+    "meaning": "平和と調和の雰囲気",
+    "meaning_ja": "平和と調和の雰囲気",
+    "type": "academic_expression",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ]
+  },
+  {
+    "text": "संपूर्ण परिदृश्य पर छा जाते हैं",
+    "normalized": "संपूर्ण परिदृश्य पर छा जाते हैं",
+    "meaning": "全体の状況を覆い尽くす",
+    "meaning_ja": "全体の状況を覆い尽くす",
+    "type": "academic_expression",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ]
+  },
+  {
+    "text": "समस्या का समाधान प्रस्तुत करना",
+    "normalized": "समस्या का समाधान प्रस्तुत करना",
+    "meaning": "問題の解決策を提示する",
+    "meaning_ja": "問題の解決策を提示する",
+    "type": "academic_expression",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "経済",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_018"
     ]
   },
   {

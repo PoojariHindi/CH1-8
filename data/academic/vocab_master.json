@@ -1,5 +1,43 @@
 [
   {
+    "word": "अंधकारमय",
+    "normalized": "अंधकारमय",
+    "display": "अंधकारमय",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "暗黒の、暗い",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ]
+  },
+  {
+    "word": "अत्याचार",
+    "normalized": "अत्याचार",
+    "display": "अत्याचार",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "迫害、暴虐",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ]
+  },
+  {
     "word": "अनवीकरणीय",
     "normalized": "अनवीकरणीय",
     "display": "अनवीकरणीय",
@@ -54,6 +92,25 @@
     ],
     "sourceIds": [
       "academic_016"
+    ]
+  },
+  {
+    "word": "अमानवीय",
+    "normalized": "अमानवीय",
+    "display": "अमानवीय",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "非人道的な、非人間的な",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
     ]
   },
   {
@@ -190,6 +247,25 @@
     ]
   },
   {
+    "word": "आजीविका",
+    "normalized": "आजीविका",
+    "display": "आजीविका",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "生計、生活手段",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "経済",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_018"
+    ]
+  },
+  {
     "word": "आडंबर",
     "normalized": "आडंबर",
     "display": "आडंबर",
@@ -247,6 +323,25 @@
     ]
   },
   {
+    "word": "उत्पादन",
+    "normalized": "उत्पादन",
+    "display": "उत्पादन",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "生産",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "経済",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_018"
+    ]
+  },
+  {
     "word": "उत्पादन प्रक्रिया",
     "normalized": "उत्पादन प्रक्रिया",
     "display": "उत्पादन प्रक्रिया",
@@ -266,6 +361,82 @@
     ]
   },
   {
+    "word": "उद्यम",
+    "normalized": "उद्यम",
+    "display": "उद्यम",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "事業、企業",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "経済",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_018"
+    ]
+  },
+  {
+    "word": "उद्यमिता",
+    "normalized": "उद्यमिता",
+    "display": "उद्यमिता",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "起業家精神、起業",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "経済",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_018"
+    ]
+  },
+  {
+    "word": "उद्यमी",
+    "normalized": "उद्यमी",
+    "display": "उद्यमी",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "起業家",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "経済",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_018"
+    ]
+  },
+  {
+    "word": "उन्मूलन",
+    "normalized": "उन्मूलन",
+    "display": "उन्मूलन",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "根絶、撲滅",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ]
+  },
+  {
     "word": "उपास्य",
     "normalized": "उपास्य",
     "display": "उपास्य",
@@ -282,6 +453,44 @@
     ],
     "sourceIds": [
       "academic_015"
+    ]
+  },
+  {
+    "word": "ऋण",
+    "normalized": "ऋण",
+    "display": "ऋण",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "借入金、ローン",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "経済",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_018"
+    ]
+  },
+  {
+    "word": "ऐतिहासिक उत्पत्ति",
+    "normalized": "ऐतिहासिक उत्पत्ति",
+    "display": "ऐतिहासिक उत्पत्ति",
+    "variants": [],
+    "pos": "名詞句",
+    "meaning_ja": "歴史的起源",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
     ]
   },
   {
@@ -323,6 +532,25 @@
     ]
   },
   {
+    "word": "कट्टरता",
+    "normalized": "कट्टरता",
+    "display": "कट्टरता",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "狂信、頑迷さ",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ]
+  },
+  {
     "word": "कल्याण",
     "normalized": "कल्याण",
     "display": "कल्याण",
@@ -361,6 +589,63 @@
     ]
   },
   {
+    "word": "कालखंड",
+    "normalized": "कालखंड",
+    "display": "कालखंड",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "時代区分、時期",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ]
+  },
+  {
+    "word": "कृत्य",
+    "normalized": "कृत्य",
+    "display": "कृत्य",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "行為、所業",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ]
+  },
+  {
+    "word": "क्रय",
+    "normalized": "क्रय",
+    "display": "क्रय",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "購入",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "経済",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_018"
+    ]
+  },
+  {
     "word": "खंड काव्य",
     "normalized": "खंड काव्य",
     "display": "खंड काव्य",
@@ -377,6 +662,25 @@
     ],
     "sourceIds": [
       "academic_012"
+    ]
+  },
+  {
+    "word": "घटनाक्रम",
+    "normalized": "घटनाक्रम",
+    "display": "घटनाक्रम",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "出来事の推移、一連の出来事",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
     ]
   },
   {
@@ -532,6 +836,25 @@
     ]
   },
   {
+    "word": "जोखिम",
+    "normalized": "जोखिम",
+    "display": "जोखिम",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "リスク、危険",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "経済",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_018"
+    ]
+  },
+  {
     "word": "तर्कशील",
     "normalized": "तर्कशील",
     "display": "तर्कशील",
@@ -586,6 +909,25 @@
     ],
     "sourceIds": [
       "academic_016"
+    ]
+  },
+  {
+    "word": "दोषी ठहराना",
+    "normalized": "दोषी ठहराना",
+    "display": "दोषी ठहराना",
+    "variants": [],
+    "pos": "動詞句",
+    "meaning_ja": "有罪と見なす、責任を負わせる",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
     ]
   },
   {
@@ -665,6 +1007,25 @@
     ]
   },
   {
+    "word": "नाजीवाद",
+    "normalized": "नाजीवाद",
+    "display": "नाजीवाद",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "ナチズム",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ]
+  },
+  {
     "word": "निराकार",
     "normalized": "निराकार",
     "display": "निराकार",
@@ -741,6 +1102,63 @@
     ]
   },
   {
+    "word": "निष्पक्षता",
+    "normalized": "निष्पक्षता",
+    "display": "निष्पक्षता",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "公平性、中立性",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ]
+  },
+  {
+    "word": "नृजातीय",
+    "normalized": "नृजातीय",
+    "display": "नृजातीय",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "民族的な、エスニックな",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ]
+  },
+  {
+    "word": "पक्षपात",
+    "normalized": "पक्षपात",
+    "display": "पक्षपात",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "偏見、えこひいき",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ]
+  },
+  {
     "word": "परमात्मा",
     "normalized": "परमात्मा",
     "display": "परमात्मा",
@@ -757,6 +1175,25 @@
     ],
     "sourceIds": [
       "academic_015"
+    ]
+  },
+  {
+    "word": "परिदृश्य",
+    "normalized": "परिदृश्य",
+    "display": "परिदृश्य",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "情勢、全体像、風景",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
     ]
   },
   {
@@ -798,6 +1235,25 @@
     ]
   },
   {
+    "word": "पुनरावृत्ति",
+    "normalized": "पुनरावृत्ति",
+    "display": "पुनरावृत्ति",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "再発、繰り返し",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ]
+  },
+  {
     "word": "पुनर्जनन",
     "normalized": "पुनर्जनन",
     "display": "पुनर्जनन",
@@ -833,6 +1289,27 @@
     ],
     "sourceIds": [
       "academic_016"
+    ]
+  },
+  {
+    "word": "पूँजी",
+    "normalized": "पूंजी",
+    "display": "पूँजी",
+    "variants": [
+      "पूंजी"
+    ],
+    "pos": "名詞（女）",
+    "meaning_ja": "資本",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "経済",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_018"
     ]
   },
   {
@@ -912,6 +1389,25 @@
     ]
   },
   {
+    "word": "बर्बरता",
+    "normalized": "बर्बरता",
+    "display": "बर्बरता",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "野蛮さ、残虐行為",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ]
+  },
+  {
     "word": "बाज़ारवाद",
     "normalized": "बाज़ारवाद",
     "display": "बाज़ारवाद",
@@ -928,6 +1424,25 @@
     ],
     "sourceIds": [
       "academic_011"
+    ]
+  },
+  {
+    "word": "ब्याज",
+    "normalized": "ब्याज",
+    "display": "ब्याज",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "利息",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "経済",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_018"
     ]
   },
   {
@@ -966,6 +1481,25 @@
     ],
     "sourceIds": [
       "academic_012"
+    ]
+  },
+  {
+    "word": "भयावह",
+    "normalized": "भयावह",
+    "display": "भयावह",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "恐ろしい、凄惨な",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
     ]
   },
   {
@@ -1140,6 +1674,44 @@
     ]
   },
   {
+    "word": "मौद्रिक",
+    "normalized": "मौद्रिक",
+    "display": "मौद्रिक",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "貨幣の、金融の",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "経済",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_018"
+    ]
+  },
+  {
+    "word": "रक्तपात",
+    "normalized": "रक्तपात",
+    "display": "रक्तपात",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "流血、殺傷",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ]
+  },
+  {
     "word": "रीतिकाल",
     "normalized": "रीतिकाल",
     "display": "रीतिकाल",
@@ -1175,6 +1747,44 @@
     ],
     "sourceIds": [
       "academic_014"
+    ]
+  },
+  {
+    "word": "रोजगार",
+    "normalized": "रोजगार",
+    "display": "रोजगार",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "雇用、仕事",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "経済",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_018"
+    ]
+  },
+  {
+    "word": "लाभांश",
+    "normalized": "लाभांश",
+    "display": "लाभांश",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "配当、利益配分",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "経済",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_018"
     ]
   },
   {
@@ -1273,6 +1883,65 @@
     ]
   },
   {
+    "word": "विक्रय",
+    "normalized": "विक्रय",
+    "display": "विक्रय",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "販売",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "経済",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_018"
+    ]
+  },
+  {
+    "word": "विचारधारा",
+    "normalized": "विचारधारा",
+    "display": "विचारधारा",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "思想、イデオロギー",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ]
+  },
+  {
+    "word": "वित्तीय पूँजी",
+    "normalized": "वित्तीय पूंजी",
+    "display": "वित्तीय पूँजी",
+    "variants": [
+      "वित्तीय पूंजी"
+    ],
+    "pos": "名詞句",
+    "meaning_ja": "金融資本",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "経済",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_018"
+    ]
+  },
+  {
     "word": "विलीन",
     "normalized": "विलीन",
     "display": "विलीन",
@@ -1346,6 +2015,63 @@
     ],
     "sourceIds": [
       "academic_015"
+    ]
+  },
+  {
+    "word": "शेयर बाजार",
+    "normalized": "शेयर बाजार",
+    "display": "शेयर बाजार",
+    "variants": [],
+    "pos": "名詞句",
+    "meaning_ja": "株式市場",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "経済",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_018"
+    ]
+  },
+  {
+    "word": "संपत्ति",
+    "normalized": "संपत्ति",
+    "display": "संपत्ति",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "財産、資産",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "経済",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_018"
+    ]
+  },
+  {
+    "word": "संवेदनशीलता",
+    "normalized": "संवेदनशीलता",
+    "display": "संवेदनशीलता",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "感受性、配慮深さ",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
     ]
   },
   {
@@ -1520,6 +2246,44 @@
     ]
   },
   {
+    "word": "सृजित",
+    "normalized": "सृजित",
+    "display": "सृजित",
+    "variants": [],
+    "pos": "形容詞・動詞",
+    "meaning_ja": "創出された、創り出すこと",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "経済",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_018"
+    ]
+  },
+  {
+    "word": "सेवा क्षेत्रक",
+    "normalized": "सेवा क्षेत्रक",
+    "display": "सेवा क्षेत्रक",
+    "variants": [],
+    "pos": "名詞句",
+    "meaning_ja": "サービス部門",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "経済",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_018"
+    ]
+  },
+  {
     "word": "सेव्य",
     "normalized": "सेव्य",
     "display": "सेव्य",
@@ -1614,6 +2378,25 @@
     ]
   },
   {
+    "word": "अतीत",
+    "normalized": "अतीत",
+    "display": "अतीत",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "過去",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ]
+  },
+  {
     "word": "अद्यतन",
     "normalized": "अद्यतन",
     "display": "अद्यतन",
@@ -1629,6 +2412,25 @@
     ],
     "sourceIds": [
       "academic_009"
+    ]
+  },
+  {
+    "word": "अधिग्रहित",
+    "normalized": "अधिग्रहित",
+    "display": "अधिग्रहित",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "占領された、取得された",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
     ]
   },
   {
@@ -1759,6 +2561,25 @@
     ]
   },
   {
+    "word": "अनुचित",
+    "normalized": "अनुचित",
+    "display": "अनुचित",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "不適切な、不当な",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ]
+  },
+  {
     "word": "अनुच्छेद",
     "normalized": "अनुच्छेद",
     "display": "अनुच्छेद",
@@ -1774,6 +2595,25 @@
     ],
     "sourceIds": [
       "academic_007"
+    ]
+  },
+  {
+    "word": "अनुभूति",
+    "normalized": "अनुभूति",
+    "display": "अनुभूति",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "実感、感覚、経験",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "経済",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_018"
     ]
   },
   {
@@ -1903,6 +2743,25 @@
     ]
   },
   {
+    "word": "अयोग्य",
+    "normalized": "अयोग्य",
+    "display": "अयोग्य",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "不適格な、無能な",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ]
+  },
+  {
     "word": "अर्पण",
     "normalized": "अर्पण",
     "display": "अर्पण",
@@ -2012,6 +2871,25 @@
     ],
     "sourceIds": [
       "academic_007"
+    ]
+  },
+  {
+    "word": "आकार देना",
+    "normalized": "आकार देना",
+    "display": "आकार देना",
+    "variants": [],
+    "pos": "動詞句",
+    "meaning_ja": "形づくる",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
     ]
   },
   {
@@ -2239,6 +3117,25 @@
     ]
   },
   {
+    "word": "उत्तरदायी",
+    "normalized": "उत्तरदायी",
+    "display": "उत्तरदायी",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "責任がある",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ]
+  },
+  {
     "word": "उत्सुकता",
     "normalized": "उत्सुकता",
     "display": "उत्सुकता",
@@ -2254,6 +3151,44 @@
     ],
     "sourceIds": [
       "academic_007"
+    ]
+  },
+  {
+    "word": "उदार",
+    "normalized": "उदार",
+    "display": "उदार",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "寛大な、リベラルな",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ]
+  },
+  {
+    "word": "उद्देश्य",
+    "normalized": "उद्देश्य",
+    "display": "उद्देश्य",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "目的",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "経済",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_018"
     ]
   },
   {
@@ -2331,6 +3266,25 @@
     ]
   },
   {
+    "word": "उपकरण",
+    "normalized": "उपकरण",
+    "display": "उपकरण",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "機器、装置",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "経済",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_018"
+    ]
+  },
+  {
     "word": "उपजाऊ",
     "normalized": "उपजाऊ",
     "display": "उपजाऊ",
@@ -2366,6 +3320,25 @@
     ],
     "sourceIds": [
       "academic_016"
+    ]
+  },
+  {
+    "word": "उपयुक्त",
+    "normalized": "उपयुक्त",
+    "display": "उपयुक्त",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "適切な、ふさわしい",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
     ]
   },
   {
@@ -2461,6 +3434,25 @@
     ]
   },
   {
+    "word": "उपार्जित",
+    "normalized": "उपार्जित",
+    "display": "उपार्जित",
+    "variants": [],
+    "pos": "形容詞・動詞",
+    "meaning_ja": "獲得された、得ること",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "経済",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_018"
+    ]
+  },
+  {
     "word": "उपासक",
     "normalized": "उपासक",
     "display": "उपासक",
@@ -2514,6 +3506,25 @@
     ],
     "sourceIds": [
       "academic_007"
+    ]
+  },
+  {
+    "word": "एकत्रित",
+    "normalized": "एकत्रित",
+    "display": "एकत्रित",
+    "variants": [],
+    "pos": "形容詞・動詞",
+    "meaning_ja": "集められた、集めること",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "経済",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_018"
     ]
   },
   {
@@ -2682,6 +3693,25 @@
     ]
   },
   {
+    "word": "कारक",
+    "normalized": "कारक",
+    "display": "कारक",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "要因、要素",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "経済",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_018"
+    ]
+  },
+  {
     "word": "काव्य",
     "normalized": "काव्य",
     "display": "काव्य",
@@ -2792,6 +3822,25 @@
     ]
   },
   {
+    "word": "क्रियान्वित",
+    "normalized": "क्रियान्वित",
+    "display": "क्रियान्वित",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "実行された、実施された",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ]
+  },
+  {
     "word": "क्रीड़ा",
     "normalized": "क्रीड़ा",
     "display": "क्रीड़ा",
@@ -2808,6 +3857,44 @@
     ],
     "sourceIds": [
       "academic_015"
+    ]
+  },
+  {
+    "word": "क्रूर",
+    "normalized": "क्रूर",
+    "display": "क्रूर",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "残酷な",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ]
+  },
+  {
+    "word": "क्रूरता",
+    "normalized": "क्रूरता",
+    "display": "क्रूरता",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "残虐さ、残酷さ",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
     ]
   },
   {
@@ -2976,6 +4063,25 @@
     ],
     "sourceIds": [
       "academic_011"
+    ]
+  },
+  {
+    "word": "चित्रपट",
+    "normalized": "चित्रपट",
+    "display": "चित्रपट",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "画面、絵巻、映画",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
     ]
   },
   {
@@ -3165,6 +4271,25 @@
     ],
     "sourceIds": [
       "academic_009"
+    ]
+  },
+  {
+    "word": "टिकाऊ",
+    "normalized": "टिकाऊ",
+    "display": "टिकाऊ",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "耐久性のある、長持ちする",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "経済",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_018"
     ]
   },
   {
@@ -3440,6 +4565,25 @@
     ]
   },
   {
+    "word": "दोष",
+    "normalized": "दोष",
+    "display": "दोष",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "罪、責任、欠点",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ]
+  },
+  {
     "word": "दोस्ती",
     "normalized": "दोस्ती",
     "display": "दोस्ती",
@@ -3491,6 +4635,25 @@
     ],
     "sourceIds": [
       "academic_005BandarMagarmacch3"
+    ]
+  },
+  {
+    "word": "धनराशि",
+    "normalized": "धनराशि",
+    "display": "धनराशि",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "金額、資金",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "経済",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_018"
     ]
   },
   {
@@ -3587,6 +4750,25 @@
     ]
   },
   {
+    "word": "नकारना",
+    "normalized": "नकारना",
+    "display": "नकारना",
+    "variants": [],
+    "pos": "他動詞",
+    "meaning_ja": "否定する、拒む",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ]
+  },
+  {
     "word": "नकारात्मक",
     "normalized": "नकारात्मक",
     "display": "नकारात्मक",
@@ -3621,6 +4803,25 @@
     ],
     "sourceIds": [
       "academic_016"
+    ]
+  },
+  {
+    "word": "नस्ल",
+    "normalized": "नस्ल",
+    "display": "नस्ल",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "人種、血統",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
     ]
   },
   {
@@ -3793,6 +4994,25 @@
     ]
   },
   {
+    "word": "निर्माण इकाई",
+    "normalized": "निर्माण इकाई",
+    "display": "निर्माण इकाई",
+    "variants": [],
+    "pos": "名詞句",
+    "meaning_ja": "製造単位、製造部門",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "経済",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_018"
+    ]
+  },
+  {
     "word": "निश्चय",
     "normalized": "निश्चय",
     "display": "निश्चय",
@@ -3916,6 +5136,25 @@
     ],
     "sourceIds": [
       "academic_007"
+    ]
+  },
+  {
+    "word": "पनपना",
+    "normalized": "पनपना",
+    "display": "पनपना",
+    "variants": [],
+    "pos": "自動詞",
+    "meaning_ja": "育つ、広がる、繁殖する",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
     ]
   },
   {
@@ -4143,6 +5382,25 @@
     ]
   },
   {
+    "word": "पोषित",
+    "normalized": "पोषित",
+    "display": "पोषित",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "育まれた、助長された",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ]
+  },
+  {
     "word": "प्रचुर मात्रा",
     "normalized": "प्रचुर मात्रा",
     "display": "प्रचुर मात्रा",
@@ -4162,6 +5420,25 @@
     ]
   },
   {
+    "word": "प्रणाली",
+    "normalized": "प्रणाली",
+    "display": "प्रणाली",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "制度、システム",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "経済",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_018"
+    ]
+  },
+  {
     "word": "प्रतिष्ठित",
     "normalized": "प्रतिष्ठित",
     "display": "प्रतिष्ठित",
@@ -4177,6 +5454,25 @@
     ],
     "sourceIds": [
       "academic_009"
+    ]
+  },
+  {
+    "word": "प्रतीत",
+    "normalized": "प्रतीत",
+    "display": "प्रतीत",
+    "variants": [],
+    "pos": "形容詞・動詞",
+    "meaning_ja": "〜のように見える、感じられる",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
     ]
   },
   {
@@ -4371,6 +5667,25 @@
     ]
   },
   {
+    "word": "प्रसंग",
+    "normalized": "प्रसंग",
+    "display": "प्रसंग",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "文脈、場面、事例",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ]
+  },
+  {
     "word": "प्रस्तुत",
     "normalized": "प्रस्तुत",
     "display": "प्रस्तुत",
@@ -4423,6 +5738,25 @@
     ],
     "sourceIds": [
       "academic_006"
+    ]
+  },
+  {
+    "word": "प्राथमिक स्रोत",
+    "normalized": "प्राथमिक स्रोत",
+    "display": "प्राथमिक स्रोत",
+    "variants": [],
+    "pos": "名詞句",
+    "meaning_ja": "一次的な源、主要な供給源",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "経済",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_018"
     ]
   },
   {
@@ -4569,6 +5903,25 @@
     ],
     "sourceIds": [
       "academic_016"
+    ]
+  },
+  {
+    "word": "फलित",
+    "normalized": "फलित",
+    "display": "फलित",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "実を結んだ、成立した",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
     ]
   },
   {
@@ -4775,6 +6128,25 @@
     ]
   },
   {
+    "word": "भुगतान",
+    "normalized": "भुगतान",
+    "display": "भुगतान",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "支払い",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "経済",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_018"
+    ]
+  },
+  {
     "word": "भौतिक",
     "normalized": "भौतिक",
     "display": "भौतिक",
@@ -4809,6 +6181,25 @@
     ],
     "sourceIds": [
       "academic_004BandarMagarmacch2"
+    ]
+  },
+  {
+    "word": "भ्रष्ट",
+    "normalized": "भ्रष्ट",
+    "display": "भ्रष्ट",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "腐敗した、堕落した",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
     ]
   },
   {
@@ -5474,6 +6865,25 @@
     ]
   },
   {
+    "word": "वर्तमान",
+    "normalized": "वर्तमान",
+    "display": "वर्तमान",
+    "variants": [],
+    "pos": "名詞（男）・形容詞",
+    "meaning_ja": "現在、現在の",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ]
+  },
+  {
     "word": "वास",
     "normalized": "वास",
     "display": "वास",
@@ -5636,6 +7046,25 @@
     ],
     "sourceIds": [
       "academic_006"
+    ]
+  },
+  {
+    "word": "विनाश",
+    "normalized": "विनाश",
+    "display": "विनाश",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "破壊、滅亡",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
     ]
   },
   {
@@ -5823,6 +7252,44 @@
     ]
   },
   {
+    "word": "व्यक्तिगत बचत",
+    "normalized": "व्यक्तिगत बचत",
+    "display": "व्यक्तिगत बचत",
+    "variants": [],
+    "pos": "名詞句",
+    "meaning_ja": "個人貯蓄",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "経済",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_018"
+    ]
+  },
+  {
+    "word": "व्यवसाय",
+    "normalized": "व्यवसाय",
+    "display": "व्यवसाय",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "事業、商売",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "経済",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_018"
+    ]
+  },
+  {
     "word": "व्यायाम",
     "normalized": "व्यायाम",
     "display": "व्यायाम",
@@ -5933,6 +7400,25 @@
     ]
   },
   {
+    "word": "संचालन",
+    "normalized": "संचालन",
+    "display": "संचालन",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "運営、実施",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "経済",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_018"
+    ]
+  },
+  {
     "word": "संत",
     "normalized": "संत",
     "display": "संत",
@@ -5949,6 +7435,25 @@
     ],
     "sourceIds": [
       "academic_013"
+    ]
+  },
+  {
+    "word": "संतुष्टि",
+    "normalized": "संतुष्टि",
+    "display": "संतुष्टि",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "満足",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "経済",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_018"
     ]
   },
   {
@@ -6175,6 +7680,25 @@
     ]
   },
   {
+    "word": "समग्र",
+    "normalized": "समग्र",
+    "display": "समग्र",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "全体的な、包括的な",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ]
+  },
+  {
     "word": "समय बिताना",
     "normalized": "समय_बिताना",
     "display": "समय बिताना",
@@ -6208,6 +7732,25 @@
     ],
     "sourceIds": [
       "academic_008"
+    ]
+  },
+  {
+    "word": "समस्त",
+    "normalized": "समस्त",
+    "display": "समस्त",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "すべての、全体の",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
     ]
   },
   {
@@ -6281,6 +7824,25 @@
     ],
     "sourceIds": [
       "academic_015"
+    ]
+  },
+  {
+    "word": "सर्वोत्तम",
+    "normalized": "सर्वोत्तम",
+    "display": "सर्वोत्तम",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "最良の、最も優れた",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
     ]
   },
   {
@@ -6465,6 +8027,25 @@
     ],
     "sourceIds": [
       "academic_008"
+    ]
+  },
+  {
+    "word": "सिद्धांत",
+    "normalized": "सिद्धांत",
+    "display": "सिद्धांत",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "原則、理論",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
     ]
   },
   {
@@ -6653,6 +8234,25 @@
     ]
   },
   {
+    "word": "स्टार्टअप",
+    "normalized": "स्टार्टअप",
+    "display": "स्टार्टअप",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "スタートアップ、新興企業",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "経済",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_018"
+    ]
+  },
+  {
     "word": "स्तुति",
     "normalized": "स्तुति",
     "display": "स्तुति",
@@ -6779,6 +8379,25 @@
     ],
     "sourceIds": [
       "academic_008"
+    ]
+  },
+  {
+    "word": "हावी",
+    "normalized": "हावी",
+    "display": "हावी",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "支配的な、優勢な",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
     ]
   },
   {
@@ -7058,6 +8677,25 @@
     ],
     "sourceIds": [
       "academic_010"
+    ]
+  },
+  {
+    "word": "औजार",
+    "normalized": "औजार",
+    "display": "औजार",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "道具、工具",
+    "importance": 3,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "経済",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_018"
     ]
   },
   {
@@ -7426,6 +9064,25 @@
     ],
     "sourceIds": [
       "academic_006"
+    ]
+  },
+  {
+    "word": "पूर्णतया",
+    "normalized": "पूर्णतया",
+    "display": "पूर्णतया",
+    "variants": [],
+    "pos": "副詞",
+    "meaning_ja": "完全に、まったく",
+    "importance": 3,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
     ]
   },
   {
@@ -7957,6 +9614,25 @@
     ]
   },
   {
+    "word": "विवरण",
+    "normalized": "विवरण",
+    "display": "विवरण",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "詳細、記述",
+    "importance": 3,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ]
+  },
+  {
     "word": "विशेषता",
     "normalized": "विशेषता",
     "display": "विशेषता",
@@ -8013,6 +9689,25 @@
     ]
   },
   {
+    "word": "शांतिपूर्ण",
+    "normalized": "शांतिपूर्ण",
+    "display": "शांतिपूर्ण",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "平和な",
+    "importance": 3,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ]
+  },
+  {
     "word": "शासन",
     "normalized": "शासन",
     "display": "शासन",
@@ -8065,6 +9760,25 @@
     ],
     "sourceIds": [
       "academic_008"
+    ]
+  },
+  {
+    "word": "संक्षिप्त",
+    "normalized": "संक्षिप्त",
+    "display": "संक्षिप्त",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "簡潔な、短い",
+    "importance": 3,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
     ]
   },
   {

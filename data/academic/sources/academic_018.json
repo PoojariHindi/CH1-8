@@ -1,0 +1,417 @@
+{
+  "id": "academic_018",
+  "schema_version": 1,
+
+  "title": "उत्पादन के कारक",
+  "author": "SocialScience",
+  "source": "NCERT",
+  "year": 2025,
+
+  "genre": "textbook",
+  "register": "academic_prose",
+
+  "category": "読解",
+
+  "tags": [
+    "教科書",
+    "社会科",
+    "経済",
+    "抽象語"
+  ],
+
+  "key_phrase": "व्यवसायों को अपने दैनिक कार्यों के संचालन के लिए पूँजी की भी आवश्यकता होती है",
+
+  "text": "उत्पादन के कारक पूँजी व्यवसायों को अपने दैनिक कार्यों के संचालन के लिए पूँजी की भी आवश्यकता होती है। इसके अंतर्गत मौद्रिक संसाधन और टिकाऊ संपत्ति जैसे—मशीनें, औजार, उपकरण, वाहन, उत्पादों के विक्रय हेतु गाड़ियाँ, कंप्यूटर, दुकानें, कारखाने, कार्यालय भवन आदि सम्मिलित होते हैं। इन्हें ही ‘पूँजी’ कहा जाता है, अर्थात धन और मानव निर्मित संसाधन जो वस्तुओं तथा सेवाओं के उत्पादन में उपयोग होते हैं। एक निर्माण इकाई या सेवा क्षेत्रक उद्यम के लिए पूँजी आवश्यक है। किंतु व्यवसायों को पूँजी कहाँ से प्राप्त होती है? सामान्यत: जब कोई व्यक्ति व्यवसाय आरंभ करता है उसकी व्यक्तिगत बचत, परिवार एवं मित्र ही धन और सहयोग के प्राथमिक स्रोत होते हैं। किंतु व्यापार आरंभ करने के लिए पर्याप्त धन न हो तो बैंक से ऋण लिया जा सकता है। ऋण की राशि के साथ-साथ ब्याज का भी भुगतान किया जाता है। इसी प्रकार बड़ी कंपनियों को भी अपने व्यवसाय का विस्तार करने के लिए अत्यधिक मात्रा में धन की आवश्यकता होती है। इसलिए वे शेयर बाजार के माध्यम से आम जनता से धन एकत्रित करती हैं। शेयर बाजार एक विशेष प्रकार का बाजार होता है, जहाँ शेयरों का क्रय एवं विक्रय होता है। बड़ी कंपनियाँ आम जनता से अपने लाभ का एक भाग, जिसे लाभांश कहा जाता है, देने के बदले धन जुटाती हैं। दूसरे शब्दों में, बड़े व्यवसाय इस प्रकार के बाजार द्वारा धनराशि या वित्तीय पूँजी प्राप्त कर सकते हैं और अपने व्यवसाय के शेयर बेच सकते हैं। उद्यमिता का तात्पर्य स्वयं का व्यवसाय आरंभ करना या किसी समस्या का समाधान करने हेतु कुछ नया निर्मित करने से है। एक उद्यमी वह व्यक्ति होता है जिसके पास एक विचार होता है, जो जोखिम उठाता है, उत्पादन के अन्य कारकों को एकत्रित करता है और अपने स्टार्टअप के विचार को सफल बनाने के लिए कड़ी मेहनत करता है। उद्यमी का उद्देश्य नई वस्तुओं एवं सेवाओं को बाजार में लाकर उसके माध्यम से समस्या का समाधान प्रस्तुत करना होता है, जिससे समाज और देश को लाभ पहुँच सके। साथ ही, वे रोजगार के अवसर भी सृजित करते हैं और लोगों को आजीविका उपार्जित करने में सहायता करते हैं। बदले में, अपने सपनों को साकार होते और लोगों की सेवा करते देख उन्हें गहरी संतुष्टि की अनुभूति होती है।",
+
+  "expressions": [
+    {
+      "text": "दैनिक कार्यों के संचालन के लिए पूँजी की आवश्यकता",
+      "normalized": "दैनिक कार्यों के संचालन के लिए पूँजी की आवश्यकता",
+      "meaning_ja": "日常業務の運営のための資本の必要性",
+      "type": "academic_expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "धन और मानव निर्मित संसाधन",
+      "normalized": "धन और मानव निर्मित संसाधन",
+      "meaning_ja": "資金と人間によって作られた資源",
+      "type": "definition",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "शेयरों का क्रय एवं विक्रय",
+      "normalized": "शेयरों का क्रय एवं विक्रय",
+      "meaning_ja": "株式の購入と販売",
+      "type": "economic_expression",
+      "importance": 5,
+      "status": "active"
+    },
+    {
+      "text": "समस्या का समाधान प्रस्तुत करना",
+      "normalized": "समस्या का समाधान प्रस्तुत करना",
+      "meaning_ja": "問題の解決策を提示する",
+      "type": "academic_expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "रोजगार के अवसर सृजित करते हैं",
+      "normalized": "रोजगार के अवसर सृजित करते हैं",
+      "meaning_ja": "雇用の機会を創出する",
+      "type": "economic_expression",
+      "importance": 5,
+      "status": "active"
+    }
+  ],
+
+  "vocab_candidates": [
+    {
+      "word": "उत्पादन",
+      "normalized": "उत्पादन",
+      "pos": "名詞（男）",
+      "meaning_ja": "生産",
+      "importance": 5,
+      "status": "active"
+    },
+    {
+      "word": "कारक",
+      "normalized": "कारक",
+      "pos": "名詞（男）",
+      "meaning_ja": "要因、要素",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "पूँजी",
+      "normalized": "पूंजी",
+      "variants": [
+        "पूंजी"
+      ],
+      "pos": "名詞（女）",
+      "meaning_ja": "資本",
+      "importance": 5,
+      "status": "active"
+    },
+    {
+      "word": "व्यवसाय",
+      "normalized": "व्यवसाय",
+      "pos": "名詞（男）",
+      "meaning_ja": "事業、商売",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "संचालन",
+      "normalized": "संचालन",
+      "pos": "名詞（男）",
+      "meaning_ja": "運営、実施",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "मौद्रिक",
+      "normalized": "मौद्रिक",
+      "pos": "形容詞",
+      "meaning_ja": "貨幣の、金融の",
+      "importance": 5,
+      "status": "active"
+    },
+    {
+      "word": "टिकाऊ",
+      "normalized": "टिकाऊ",
+      "pos": "形容詞",
+      "meaning_ja": "耐久性のある、長持ちする",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "संपत्ति",
+      "normalized": "संपत्ति",
+      "pos": "名詞（女）",
+      "meaning_ja": "財産、資産",
+      "importance": 5,
+      "status": "active"
+    },
+    {
+      "word": "औजार",
+      "normalized": "औजार",
+      "pos": "名詞（男）",
+      "meaning_ja": "道具、工具",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "उपकरण",
+      "normalized": "उपकरण",
+      "pos": "名詞（男）",
+      "meaning_ja": "機器、装置",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "विक्रय",
+      "normalized": "विक्रय",
+      "pos": "名詞（男）",
+      "meaning_ja": "販売",
+      "importance": 5,
+      "status": "active"
+    },
+    {
+      "word": "निर्माण इकाई",
+      "display": "निर्माण इकाई",
+      "normalized": "निर्माण इकाई",
+      "pos": "名詞句",
+      "meaning_ja": "製造単位、製造部門",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "सेवा क्षेत्रक",
+      "display": "सेवा क्षेत्रक",
+      "normalized": "सेवा क्षेत्रक",
+      "pos": "名詞句",
+      "meaning_ja": "サービス部門",
+      "importance": 5,
+      "status": "active"
+    },
+    {
+      "word": "उद्यम",
+      "normalized": "उद्यम",
+      "pos": "名詞（男）",
+      "meaning_ja": "事業、企業",
+      "importance": 5,
+      "status": "active"
+    },
+    {
+      "word": "व्यक्तिगत बचत",
+      "display": "व्यक्तिगत बचत",
+      "normalized": "व्यक्तिगत बचत",
+      "pos": "名詞句",
+      "meaning_ja": "個人貯蓄",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "प्राथमिक स्रोत",
+      "display": "प्राथमिक स्रोत",
+      "normalized": "प्राथमिक स्रोत",
+      "pos": "名詞句",
+      "meaning_ja": "一次的な源、主要な供給源",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "ऋण",
+      "normalized": "ऋण",
+      "pos": "名詞（男）",
+      "meaning_ja": "借入金、ローン",
+      "importance": 5,
+      "status": "active"
+    },
+    {
+      "word": "ब्याज",
+      "normalized": "ब्याज",
+      "pos": "名詞（男）",
+      "meaning_ja": "利息",
+      "importance": 5,
+      "status": "active"
+    },
+    {
+      "word": "भुगतान",
+      "normalized": "भुगतान",
+      "pos": "名詞（男）",
+      "meaning_ja": "支払い",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "विस्तार",
+      "normalized": "विस्तार",
+      "pos": "名詞（男）",
+      "meaning_ja": "拡大、詳述、広がり",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "शेयर बाजार",
+      "display": "शेयर बाजार",
+      "normalized": "शेयर बाजार",
+      "pos": "名詞句",
+      "meaning_ja": "株式市場",
+      "importance": 5,
+      "status": "active"
+    },
+    {
+      "word": "एकत्रित",
+      "normalized": "एकत्रित",
+      "pos": "形容詞・動詞",
+      "meaning_ja": "集められた、集めること",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "क्रय",
+      "normalized": "क्रय",
+      "pos": "名詞（男）",
+      "meaning_ja": "購入",
+      "importance": 5,
+      "status": "active"
+    },
+    {
+      "word": "लाभांश",
+      "normalized": "लाभांश",
+      "pos": "名詞（男）",
+      "meaning_ja": "配当、利益配分",
+      "importance": 5,
+      "status": "active"
+    },
+    {
+      "word": "धनराशि",
+      "normalized": "धनराशि",
+      "pos": "名詞（女）",
+      "meaning_ja": "金額、資金",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "वित्तीय पूँजी",
+      "display": "वित्तीय पूँजी",
+      "normalized": "वित्तीय पूंजी",
+      "variants": [
+        "वित्तीय पूंजी"
+      ],
+      "pos": "名詞句",
+      "meaning_ja": "金融資本",
+      "importance": 5,
+      "status": "active"
+    },
+    {
+      "word": "प्रणाली",
+      "normalized": "प्रणाली",
+      "pos": "名詞（女）",
+      "meaning_ja": "制度、システム",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "उद्यमिता",
+      "normalized": "उद्यमिता",
+      "pos": "名詞（女）",
+      "meaning_ja": "起業家精神、起業",
+      "importance": 5,
+      "status": "active"
+    },
+    {
+      "word": "तात्पर्य",
+      "normalized": "तात्पर्य",
+      "pos": "名詞（男）",
+      "meaning_ja": "意味、趣旨",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "उद्यमी",
+      "normalized": "उद्यमी",
+      "pos": "名詞（男）",
+      "meaning_ja": "起業家",
+      "importance": 5,
+      "status": "active"
+    },
+    {
+      "word": "जोखिम",
+      "normalized": "जोखिम",
+      "pos": "名詞（男）",
+      "meaning_ja": "リスク、危険",
+      "importance": 5,
+      "status": "active"
+    },
+    {
+      "word": "स्टार्टअप",
+      "normalized": "स्टार्टअप",
+      "pos": "名詞（男）",
+      "meaning_ja": "スタートアップ、新興企業",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "उद्देश्य",
+      "normalized": "उद्देश्य",
+      "pos": "名詞（男）",
+      "meaning_ja": "目的",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "समाधान",
+      "normalized": "समाधान",
+      "pos": "名詞（男）",
+      "meaning_ja": "解決、解決策",
+      "importance": 5,
+      "status": "active"
+    },
+    {
+      "word": "रोजगार",
+      "normalized": "रोजगार",
+      "pos": "名詞（男）",
+      "meaning_ja": "雇用、仕事",
+      "importance": 5,
+      "status": "active"
+    },
+    {
+      "word": "सृजित",
+      "normalized": "सृजित",
+      "pos": "形容詞・動詞",
+      "meaning_ja": "創出された、創り出すこと",
+      "importance": 5,
+      "status": "active"
+    },
+    {
+      "word": "आजीविका",
+      "normalized": "आजीविका",
+      "pos": "名詞（女）",
+      "meaning_ja": "生計、生活手段",
+      "importance": 5,
+      "status": "active"
+    },
+    {
+      "word": "उपार्जित",
+      "normalized": "उपार्जित",
+      "pos": "形容詞・動詞",
+      "meaning_ja": "獲得された、得ること",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "साकार",
+      "normalized": "साकार",
+      "pos": "形容詞",
+      "meaning_ja": "実現した、形を持つ",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "संतुष्टि",
+      "normalized": "संतुष्टि",
+      "pos": "名詞（女）",
+      "meaning_ja": "満足",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "अनुभूति",
+      "normalized": "अनुभूति",
+      "pos": "名詞（女）",
+      "meaning_ja": "実感、感覚、経験",
+      "importance": 4,
+      "status": "active"
+    }
+  ],
+
+  "meta": {
+    "source_type": "manual_curated",
+    "reading_genre": "academic",
+    "dedupe_ready": true
+  }
+}

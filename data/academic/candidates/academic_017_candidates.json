@@ -1,0 +1,1428 @@
+[
+  {
+    "word": "अंधकारमय",
+    "display": "अंधकारमय",
+    "normalized": "अंधकारमय",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "暗黒の、暗い",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ],
+    "sourceTitle": "इतिहास के अंधकारमय कालखंडों पर एक टिप्पणी",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "कालखंड",
+    "display": "कालखंड",
+    "normalized": "कालखंड",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "時代区分、時期",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ],
+    "sourceTitle": "इतिहास के अंधकारमय कालखंडों पर एक टिप्पणी",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "विनाश",
+    "display": "विनाश",
+    "normalized": "विनाश",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "破壊、滅亡",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ],
+    "sourceTitle": "इतिहास के अंधकारमय कालखंडों पर एक टिप्पणी",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "प्रतीत",
+    "display": "प्रतीत",
+    "normalized": "प्रतीत",
+    "variants": [],
+    "pos": "形容詞・動詞",
+    "meaning_ja": "〜のように見える、感じられる",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ],
+    "sourceTitle": "इतिहास के अंधकारमय कालखंडों पर एक टिप्पणी",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "विवरण",
+    "display": "विवरण",
+    "normalized": "विवरण",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "詳細、記述",
+    "importance": 3,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ],
+    "sourceTitle": "इतिहास के अंधकारमय कालखंडों पर एक टिप्पणी",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "समग्र",
+    "display": "समग्र",
+    "normalized": "समग्र",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "全体的な、包括的な",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ],
+    "sourceTitle": "इतिहास के अंधकारमय कालखंडों पर एक टिप्पणी",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "सामंजस्य",
+    "display": "सामंजस्य",
+    "normalized": "सामंजस्य",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "調和、均衡",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ],
+    "sourceTitle": "इतिहास के अंधकारमय कालखंडों पर एक टिप्पणी",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "निस्संदेह",
+    "display": "निस्संदेह",
+    "normalized": "निस्संदेह",
+    "variants": [],
+    "pos": "副詞",
+    "meaning_ja": "疑いなく、確かに",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ],
+    "sourceTitle": "इतिहास के अंधकारमय कालखंडों पर एक टिप्पणी",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "शांतिपूर्ण",
+    "display": "शांतिपूर्ण",
+    "normalized": "शांतिपूर्ण",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "平和な",
+    "importance": 3,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ],
+    "sourceTitle": "इतिहास के अंधकारमय कालखंडों पर एक टिप्पणी",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "उदार",
+    "display": "उदार",
+    "normalized": "उदार",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "寛大な、リベラルな",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ],
+    "sourceTitle": "इतिहास के अंधकारमय कालखंडों पर एक टिप्पणी",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "अयोग्य",
+    "display": "अयोग्य",
+    "normalized": "अयोग्य",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "不適格な、無能な",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ],
+    "sourceTitle": "इतिहास के अंधकारमय कालखंडों पर एक टिप्पणी",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "भ्रष्ट",
+    "display": "भ्रष्ट",
+    "normalized": "भ्रष्ट",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "腐敗した、堕落した",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ],
+    "sourceTitle": "इतिहास के अंधकारमय कालखंडों पर एक टिप्पणी",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "क्रूर",
+    "display": "क्रूर",
+    "normalized": "क्रूर",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "残酷な",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ],
+    "sourceTitle": "इतिहास के अंधकारमय कालखंडों पर एक टिप्पणी",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "अत्याचार",
+    "display": "अत्याचार",
+    "normalized": "अत्याचार",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "迫害、暴虐",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ],
+    "sourceTitle": "इतिहास के अंधकारमय कालखंडों पर एक टिप्पणी",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "कट्टरता",
+    "display": "कट्टरता",
+    "normalized": "कट्टरता",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "狂信、頑迷さ",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ],
+    "sourceTitle": "इतिहास के अंधकारमय कालखंडों पर एक टिप्पणी",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "रक्तपात",
+    "display": "रक्तपात",
+    "normalized": "रक्तपात",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "流血、殺傷",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ],
+    "sourceTitle": "इतिहास के अंधकारमय कालखंडों पर एक टिप्पणी",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "परिदृश्य",
+    "display": "परिदृश्य",
+    "normalized": "परिदृश्य",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "情勢、全体像、風景",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ],
+    "sourceTitle": "इतिहास के अंधकारमय कालखंडों पर एक टिप्पणी",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "हावी",
+    "display": "हावी",
+    "normalized": "हावी",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "支配的な、優勢な",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ],
+    "sourceTitle": "इतिहास के अंधकारमय कालखंडों पर एक टिप्पणी",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "समस्त",
+    "display": "समस्त",
+    "normalized": "समस्त",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "すべての、全体の",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ],
+    "sourceTitle": "इतिहास के अंधकारमय कालखंडों पर एक टिप्पणी",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "दुविधा",
+    "display": "दुविधा",
+    "normalized": "दुविधा",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "ジレンマ、迷い",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ],
+    "sourceTitle": "इतिहास के अंधकारमय कालखंडों पर एक टिप्पणी",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "भयावह",
+    "display": "भयावह",
+    "normalized": "भयावह",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "恐ろしい、凄惨な",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ],
+    "sourceTitle": "इतिहास के अंधकारमय कालखंडों पर एक टिप्पणी",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "संक्षिप्त",
+    "display": "संक्षिप्त",
+    "normalized": "संक्षिप्त",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "簡潔な、短い",
+    "importance": 3,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ],
+    "sourceTitle": "इतिहास के अंधकारमय कालखंडों पर एक टिप्पणी",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "उल्लेख",
+    "display": "उल्लेख",
+    "normalized": "उल्लेख",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "言及、記載",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ],
+    "sourceTitle": "इतिहास के अंधकारमय कालखंडों पर एक टिप्पणी",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "विश्लेषण",
+    "display": "विश्लेषण",
+    "normalized": "विश्लेषण",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "分析",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ],
+    "sourceTitle": "इतिहास के अंधकारमय कालखंडों पर एक टिप्पणी",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "घटनाक्रम",
+    "display": "घटनाक्रम",
+    "normalized": "घटनाक्रम",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "出来事の推移、一連の出来事",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ],
+    "sourceTitle": "इतिहास के अंधकारमय कालखंडों पर एक टिप्पणी",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "पुनरावृत्ति",
+    "display": "पुनरावृत्ति",
+    "normalized": "पुनरावृत्ति",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "再発、繰り返し",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ],
+    "sourceTitle": "इतिहास के अंधकारमय कालखंडों पर एक टिप्पणी",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "विकल्प",
+    "display": "विकल्प",
+    "normalized": "विकल्प",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "選択肢、代替案",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ],
+    "sourceTitle": "इतिहास के अंधकारमय कालखंडों पर एक टिप्पणी",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "उपयुक्त",
+    "display": "उपयुक्त",
+    "normalized": "उपयुक्त",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "適切な、ふさわしい",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ],
+    "sourceTitle": "इतिहास के अंधकारमय कालखंडों पर एक टिप्पणी",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "निष्पक्षता",
+    "display": "निष्पक्षता",
+    "normalized": "निष्पक्षता",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "公平性、中立性",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ],
+    "sourceTitle": "इतिहास के अंधकारमय कालखंडों पर एक टिप्पणी",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "संवेदनशीलता",
+    "display": "संवेदनशीलता",
+    "normalized": "संवेदनशीलता",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "感受性、配慮深さ",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ],
+    "sourceTitle": "इतिहास के अंधकारमय कालखंडों पर एक टिप्पणी",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "क्रियान्वित",
+    "display": "क्रियान्वित",
+    "normalized": "क्रियान्वित",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "実行された、実施された",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ],
+    "sourceTitle": "इतिहास के अंधकारमय कालखंडों पर एक टिप्पणी",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "अतीत",
+    "display": "अतीत",
+    "normalized": "अतीत",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "過去",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ],
+    "sourceTitle": "इतिहास के अंधकारमय कालखंडों पर एक टिप्पणी",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "वर्तमान",
+    "display": "वर्तमान",
+    "normalized": "वर्तमान",
+    "variants": [],
+    "pos": "名詞（男）・形容詞",
+    "meaning_ja": "現在、現在の",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ],
+    "sourceTitle": "इतिहास के अंधकारमय कालखंडों पर एक टिप्पणी",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "आकार देना",
+    "display": "आकार देना",
+    "normalized": "आकार देना",
+    "variants": [],
+    "pos": "動詞句",
+    "meaning_ja": "形づくる",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ],
+    "sourceTitle": "इतिहास के अंधकारमय कालखंडों पर एक टिप्पणी",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "तात्पर्य",
+    "display": "तात्पर्य",
+    "normalized": "तात्पर्य",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "意味、趣旨",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ],
+    "sourceTitle": "इतिहास के अंधकारमय कालखंडों पर एक टिप्पणी",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "पक्षपात",
+    "display": "पक्षपात",
+    "normalized": "पक्षपात",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "偏見、えこひいき",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ],
+    "sourceTitle": "इतिहास के अंधकारमय कालखंडों पर एक टिप्पणी",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "दोष",
+    "display": "दोष",
+    "normalized": "दोष",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "罪、責任、欠点",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ],
+    "sourceTitle": "इतिहास के अंधकारमय कालखंडों पर एक टिप्पणी",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "विचारधारा",
+    "display": "विचारधारा",
+    "normalized": "विचारधारा",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "思想、イデオロギー",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ],
+    "sourceTitle": "इतिहास के अंधकारमय कालखंडों पर एक टिप्पणी",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "नाजीवाद",
+    "display": "नाजीवाद",
+    "normalized": "नाजीवाद",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "ナチズム",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ],
+    "sourceTitle": "इतिहास के अंधकारमय कालखंडों पर एक टिप्पणी",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "नस्ल",
+    "display": "नस्ल",
+    "normalized": "नस्ल",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "人種、血統",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ],
+    "sourceTitle": "इतिहास के अंधकारमय कालखंडों पर एक टिप्पणी",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "उन्मूलन",
+    "display": "उन्मूलन",
+    "normalized": "उन्मूलन",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "根絶、撲滅",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ],
+    "sourceTitle": "इतिहास के अंधकारमय कालखंडों पर एक टिप्पणी",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "नृजातीय",
+    "display": "नृजातीय",
+    "normalized": "नृजातीय",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "民族的な、エスニックな",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ],
+    "sourceTitle": "इतिहास के अंधकारमय कालखंडों पर एक टिप्पणी",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "अमानवीय",
+    "display": "अमानवीय",
+    "normalized": "अमानवीय",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "非人道的な、非人間的な",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ],
+    "sourceTitle": "इतिहास के अंधकारमय कालखंडों पर एक टिप्पणी",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "अधिग्रहित",
+    "display": "अधिग्रहित",
+    "normalized": "अधिग्रहित",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "占領された、取得された",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ],
+    "sourceTitle": "इतिहास के अंधकारमय कालखंडों पर एक टिप्पणी",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "निर्मम",
+    "display": "निर्मम",
+    "normalized": "निर्मम",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "無慈悲な、容赦ない",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ],
+    "sourceTitle": "इतिहास के अंधकारमय कालखंडों पर एक टिप्पणी",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "पूर्णतया",
+    "display": "पूर्णतया",
+    "normalized": "पूर्णतया",
+    "variants": [],
+    "pos": "副詞",
+    "meaning_ja": "完全に、まったく",
+    "importance": 3,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ],
+    "sourceTitle": "इतिहास के अंधकारमय कालखंडों पर एक टिप्पणी",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "अनुचित",
+    "display": "अनुचित",
+    "normalized": "अनुचित",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "不適切な、不当な",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ],
+    "sourceTitle": "इतिहास के अंधकारमय कालखंडों पर एक टिप्पणी",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "अस्वीकार्य",
+    "display": "अस्वीकार्य",
+    "normalized": "अस्वीकार्य",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "受け入れられない",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ],
+    "sourceTitle": "इतिहास के अंधकारमय कालखंडों पर एक टिप्पणी",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "दोषी ठहराना",
+    "display": "दोषी ठहराना",
+    "normalized": "दोषी ठहराना",
+    "variants": [],
+    "pos": "動詞句",
+    "meaning_ja": "有罪と見なす、責任を負わせる",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ],
+    "sourceTitle": "इतिहास के अंधकारमय कालखंडों पर एक टिप्पणी",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "फलित",
+    "display": "फलित",
+    "normalized": "फलित",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "実を結んだ、成立した",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ],
+    "sourceTitle": "इतिहास के अंधकारमय कालखंडों पर एक टिप्पणी",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "पोषित",
+    "display": "पोषित",
+    "normalized": "पोषित",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "育まれた、助長された",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ],
+    "sourceTitle": "इतिहास के अंधकारमय कालखंडों पर एक टिप्पणी",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "पनपना",
+    "display": "पनपना",
+    "normalized": "पनपना",
+    "variants": [],
+    "pos": "自動詞",
+    "meaning_ja": "育つ、広がる、繁殖する",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ],
+    "sourceTitle": "इतिहास के अंधकारमय कालखंडों पर एक टिप्पणी",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "सिद्धांत",
+    "display": "सिद्धांत",
+    "normalized": "सिद्धांत",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "原則、理論",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ],
+    "sourceTitle": "इतिहास के अंधकारमय कालखंडों पर एक टिप्पणी",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "चित्रपट",
+    "display": "चित्रपट",
+    "normalized": "चित्रपट",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "画面、絵巻、映画",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ],
+    "sourceTitle": "इतिहास के अंधकारमय कालखंडों पर एक टिप्पणी",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "क्रूरता",
+    "display": "क्रूरता",
+    "normalized": "क्रूरता",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "残虐さ、残酷さ",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ],
+    "sourceTitle": "इतिहास के अंधकारमय कालखंडों पर एक टिप्पणी",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "बर्बरता",
+    "display": "बर्बरता",
+    "normalized": "बर्बरता",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "野蛮さ、残虐行為",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ],
+    "sourceTitle": "इतिहास के अंधकारमय कालखंडों पर एक टिप्पणी",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "प्रसंग",
+    "display": "प्रसंग",
+    "normalized": "प्रसंग",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "文脈、場面、事例",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ],
+    "sourceTitle": "इतिहास के अंधकारमय कालखंडों पर एक टिप्पणी",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "नकारना",
+    "display": "नकारना",
+    "normalized": "नकारना",
+    "variants": [],
+    "pos": "他動詞",
+    "meaning_ja": "否定する、拒む",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ],
+    "sourceTitle": "इतिहास के अंधकारमय कालखंडों पर एक टिप्पणी",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "उत्तरदायी",
+    "display": "उत्तरदायी",
+    "normalized": "उत्तरदायी",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "責任がある",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ],
+    "sourceTitle": "इतिहास के अंधकारमय कालखंडों पर एक टिप्पणी",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "ऐतिहासिक उत्पत्ति",
+    "display": "ऐतिहासिक उत्पत्ति",
+    "normalized": "ऐतिहासिक उत्पत्ति",
+    "variants": [],
+    "pos": "名詞句",
+    "meaning_ja": "歴史的起源",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ],
+    "sourceTitle": "इतिहास के अंधकारमय कालखंडों पर एक टिप्पणी",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "सर्वोत्तम",
+    "display": "सर्वोत्तम",
+    "normalized": "सर्वोत्तम",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "最良の、最も優れた",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ],
+    "sourceTitle": "इतिहास के अंधकारमय कालखंडों पर एक टिप्पणी",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "कृत्य",
+    "display": "कृत्य",
+    "normalized": "कृत्य",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "行為、所業",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "社会科",
+      "歴史",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_017"
+    ],
+    "sourceTitle": "इतिहास के अंधकारमय कालखंडों पर एक टिप्पणी",
+    "sourceGenre": "textbook",
+    "sourceRegister": "academic_prose"
+  }
+]

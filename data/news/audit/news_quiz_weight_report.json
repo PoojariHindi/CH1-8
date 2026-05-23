@@ -1,26 +1,26 @@
 {
-  "generatedAt": "2026-05-22T02:46:26.130Z",
+  "generatedAt": "2026-05-23T13:12:41.369Z",
   "input": "data\\news\\vocab_master.json",
   "output": "data\\news\\vocab_master_with_quiz_weight.json",
-  "totalEntries": 539,
-  "changedCount": 96,
-  "unchangedCount": 443,
+  "totalEntries": 563,
+  "changedCount": 102,
+  "unchangedCount": 461,
   "quizWeightSummary": {
     "1": 0,
     "2": 4,
-    "3": 432,
-    "4": 74,
-    "5": 29
+    "3": 448,
+    "4": 81,
+    "5": 30
   },
   "categorySummary": {
     "事件・事故": {
-      "total": 56,
+      "total": 58,
       "quizWeight": {
         "1": 0,
         "2": 0,
-        "3": 41,
-        "4": 12,
-        "5": 3
+        "3": 43,
+        "4": 11,
+        "5": 4
       }
     },
     "労働・経済": {
@@ -54,22 +54,22 @@
       }
     },
     "行政・制度": {
-      "total": 69,
+      "total": 74,
       "quizWeight": {
         "1": 0,
         "2": 0,
-        "3": 52,
-        "4": 7,
+        "3": 56,
+        "4": 8,
         "5": 10
       }
     },
     "選挙・裁判": {
-      "total": 57,
+      "total": 68,
       "quizWeight": {
         "1": 0,
         "2": 0,
-        "3": 44,
-        "4": 8,
+        "3": 54,
+        "4": 9,
         "5": 5
       }
     },
@@ -94,12 +94,12 @@
       }
     },
     "重要動詞": {
-      "total": 36,
+      "total": 42,
       "quizWeight": {
         "1": 0,
         "2": 0,
         "3": 0,
-        "4": 31,
+        "4": 37,
         "5": 5
       }
     },
@@ -216,13 +216,14 @@
       "normalized": "हिंसक",
       "category": "事件・事故",
       "importance": 4,
-      "sourceCount": 2,
-      "frequency": 2,
+      "sourceCount": 3,
+      "frequency": 3,
       "oldQuizWeight": 3,
-      "newQuizWeight": 4,
+      "newQuizWeight": 5,
       "reason": [
         "base_3",
-        "importance>=4 && sourceCount>=2:+1"
+        "importance>=4 && sourceCount>=2:+1",
+        "sourceCount>=3:+1"
       ]
     },
     {
@@ -519,6 +520,21 @@
         "base_3",
         "importance>=4 && sourceCount>=2:+1",
         "sourceCount>=3:+1"
+      ]
+    },
+    {
+      "index": 153,
+      "word": "समर्थन",
+      "normalized": "समर्थन",
+      "category": "選挙・裁判",
+      "importance": 4,
+      "sourceCount": 2,
+      "frequency": 2,
+      "oldQuizWeight": 3,
+      "newQuizWeight": 4,
+      "reason": [
+        "base_3",
+        "importance>=4 && sourceCount>=2:+1"
       ]
     },
     {
@@ -1065,20 +1081,6 @@
       ]
     },
     {
-      "index": 452,
-      "word": "सुरक्षा",
-      "normalized": "सुरक्षा",
-      "category": "行政・制度",
-      "importance": 4,
-      "sourceCount": 1,
-      "frequency": 1,
-      "oldQuizWeight": 4,
-      "newQuizWeight": 3,
-      "reason": [
-        "base_3"
-      ]
-    },
-    {
       "index": 453,
       "word": "सार्वजनिक",
       "normalized": "सार्वजनिक",
@@ -1572,6 +1574,93 @@
       "reason": [
         "base_3"
       ]
+    },
+    {
+      "index": 550,
+      "word": "हिंसा",
+      "normalized": "हिंसा",
+      "category": "事件・事故",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 551,
+      "word": "हथियार",
+      "normalized": "हथियार",
+      "category": "事件・事故",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 552,
+      "word": "विकास",
+      "normalized": "विकास",
+      "category": "行政・制度",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 556,
+      "word": "अभियान चलाना",
+      "normalized": "अभियान_चलाना",
+      "category": "重要動詞",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 3,
+      "newQuizWeight": 4,
+      "reason": [
+        "base_3",
+        "category:重要動詞:+1"
+      ]
+    },
+    {
+      "index": 560,
+      "word": "जुटना",
+      "normalized": "जुटना",
+      "category": "重要動詞",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 3,
+      "newQuizWeight": 4,
+      "reason": [
+        "base_3",
+        "category:重要動詞:+1"
+      ]
+    },
+    {
+      "index": 561,
+      "word": "बीतना",
+      "normalized": "बीतना",
+      "category": "重要動詞",
+      "importance": 3,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 3,
+      "newQuizWeight": 4,
+      "reason": [
+        "base_3",
+        "category:重要動詞:+1"
+      ]
     }
   ],
   "auditItems": [
@@ -1761,13 +1850,14 @@
       "normalized": "हिंसक",
       "category": "事件・事故",
       "importance": 4,
-      "sourceCount": 2,
-      "frequency": 2,
+      "sourceCount": 3,
+      "frequency": 3,
       "oldQuizWeight": 3,
-      "newQuizWeight": 4,
+      "newQuizWeight": 5,
       "reason": [
         "base_3",
-        "importance>=4 && sourceCount>=2:+1"
+        "importance>=4 && sourceCount>=2:+1",
+        "sourceCount>=3:+1"
       ]
     },
     {
@@ -2195,8 +2285,8 @@
       "normalized": "प्रभावित",
       "category": "社会・公共",
       "importance": 3,
-      "sourceCount": 8,
-      "frequency": 8,
+      "sourceCount": 9,
+      "frequency": 9,
       "oldQuizWeight": 5,
       "newQuizWeight": 5,
       "reason": [
@@ -2920,8 +3010,8 @@
       "normalized": "अभियान",
       "category": "調査・データ",
       "importance": 3,
-      "sourceCount": 1,
-      "frequency": 1,
+      "sourceCount": 2,
+      "frequency": 2,
       "oldQuizWeight": 3,
       "newQuizWeight": 3,
       "reason": [
@@ -3816,12 +3906,13 @@
       "normalized": "समर्थन",
       "category": "選挙・裁判",
       "importance": 4,
-      "sourceCount": 1,
-      "frequency": 1,
+      "sourceCount": 2,
+      "frequency": 2,
       "oldQuizWeight": 3,
-      "newQuizWeight": 3,
+      "newQuizWeight": 4,
       "reason": [
-        "base_3"
+        "base_3",
+        "importance>=4 && sourceCount>=2:+1"
       ]
     },
     {
@@ -8031,12 +8122,13 @@
       "normalized": "सुरक्षा",
       "category": "行政・制度",
       "importance": 4,
-      "sourceCount": 1,
-      "frequency": 1,
+      "sourceCount": 2,
+      "frequency": 2,
       "oldQuizWeight": 4,
-      "newQuizWeight": 3,
+      "newQuizWeight": 4,
       "reason": [
-        "base_3"
+        "base_3",
+        "importance>=4 && sourceCount>=2:+1"
       ]
     },
     {
@@ -9241,6 +9333,348 @@
       "normalized": "कंकड",
       "category": "一般語彙",
       "importance": 3,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 3,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 539,
+      "word": "माओवाद",
+      "normalized": "माओवाद",
+      "category": "選挙・裁判",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 3,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 540,
+      "word": "माओवादी",
+      "normalized": "माओवादी",
+      "category": "選挙・裁判",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 3,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 541,
+      "word": "नक्सल",
+      "normalized": "नक्सल",
+      "category": "選挙・裁判",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 3,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 542,
+      "word": "नक्सलवाद",
+      "normalized": "नक्सलवाद",
+      "category": "選挙・裁判",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 3,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 543,
+      "word": "उन्मूलन",
+      "normalized": "उन्मूलन",
+      "category": "選挙・裁判",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 3,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 544,
+      "word": "उग्रवाद",
+      "normalized": "उग्रवाद",
+      "category": "選挙・裁判",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 3,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 545,
+      "word": "सुरक्षा बल",
+      "normalized": "सुरक्षा_बल",
+      "category": "選挙・裁判",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 3,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 546,
+      "word": "गृहमंत्री",
+      "normalized": "गृहमंत्री",
+      "category": "選挙・裁判",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 3,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 547,
+      "word": "गैरकानूनी",
+      "normalized": "गैरकानूनी",
+      "category": "選挙・裁判",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 3,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 548,
+      "word": "रणनीति",
+      "normalized": "रणनीति",
+      "category": "選挙・裁判",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 3,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 549,
+      "word": "संगठन",
+      "normalized": "संगठन",
+      "category": "選挙・裁判",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 3,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 550,
+      "word": "हिंसा",
+      "normalized": "हिंसा",
+      "category": "事件・事故",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 551,
+      "word": "हथियार",
+      "normalized": "हथियार",
+      "category": "事件・事故",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 552,
+      "word": "विकास",
+      "normalized": "विकास",
+      "category": "行政・制度",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 553,
+      "word": "केंद्रीय",
+      "normalized": "केंद्रीय",
+      "category": "行政・制度",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 3,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 554,
+      "word": "सुनिश्चित",
+      "normalized": "सुनिश्चित",
+      "category": "行政・制度",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 3,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 555,
+      "word": "मुक्त",
+      "normalized": "मुक्त",
+      "category": "行政・制度",
+      "importance": 3,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 3,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 556,
+      "word": "अभियान चलाना",
+      "normalized": "अभियान_चलाना",
+      "category": "重要動詞",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 3,
+      "newQuizWeight": 4,
+      "reason": [
+        "base_3",
+        "category:重要動詞:+1"
+      ]
+    },
+    {
+      "index": 557,
+      "word": "निकालना",
+      "normalized": "निकालना",
+      "category": "重要動詞",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 4,
+      "reason": [
+        "base_3",
+        "category:重要動詞:+1"
+      ]
+    },
+    {
+      "index": 558,
+      "word": "पहुंचना",
+      "normalized": "पहुंचना",
+      "category": "重要動詞",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 4,
+      "reason": [
+        "base_3",
+        "category:重要動詞:+1"
+      ]
+    },
+    {
+      "index": 559,
+      "word": "बताना",
+      "normalized": "बताना",
+      "category": "重要動詞",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 4,
+      "reason": [
+        "base_3",
+        "category:重要動詞:+1"
+      ]
+    },
+    {
+      "index": 560,
+      "word": "जुटना",
+      "normalized": "जुटना",
+      "category": "重要動詞",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 3,
+      "newQuizWeight": 4,
+      "reason": [
+        "base_3",
+        "category:重要動詞:+1"
+      ]
+    },
+    {
+      "index": 561,
+      "word": "बीतना",
+      "normalized": "बीतना",
+      "category": "重要動詞",
+      "importance": 3,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 3,
+      "newQuizWeight": 4,
+      "reason": [
+        "base_3",
+        "category:重要動詞:+1"
+      ]
+    },
+    {
+      "index": 562,
+      "word": "प्रभावित क्षेत्र",
+      "normalized": "प्रभावित_क्षेत्र",
+      "category": "行政・制度",
+      "importance": 4,
       "sourceCount": 1,
       "frequency": 1,
       "oldQuizWeight": 3,

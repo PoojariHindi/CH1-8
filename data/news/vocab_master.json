@@ -227,10 +227,11 @@
     "status": "active",
     "sourceArticleIds": [
       "news_vocab_02",
-      "news022DJ20260520_Rabies"
+      "news022DJ20260520_Rabies",
+      "news029_DJ20260523_Maoism"
     ],
-    "sourceCount": 2,
-    "frequency": 2,
+    "sourceCount": 3,
+    "frequency": 3,
     "notes": "",
     "quizWeight": 3
   },
@@ -764,10 +765,11 @@
       "new017DJ20260514_Girls",
       "news018DJ20260514_Barish",
       "news023_DJ20260520_HotSummer",
-      "news025_DJ20260521_Dawa"
+      "news025_DJ20260521_Dawa",
+      "news029_DJ20260523_Maoism"
     ],
-    "sourceCount": 8,
-    "frequency": 8,
+    "sourceCount": 9,
+    "frequency": 9,
     "notes": "",
     "quizWeight": 5
   },
@@ -1649,10 +1651,11 @@
     "importance": 3,
     "status": "active",
     "sourceArticleIds": [
-      "news_vocab_02"
+      "news_vocab_02",
+      "news029_DJ20260523_Maoism"
     ],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 2,
+    "frequency": 2,
     "notes": "",
     "quizWeight": 3
   },
@@ -2699,10 +2702,11 @@
     "importance": 4,
     "status": "active",
     "sourceArticleIds": [
-      "news_009"
+      "news_009",
+      "news029_DJ20260523_Maoism"
     ],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 2,
+    "frequency": 2,
     "quizWeight": 3
   },
   {
@@ -7803,10 +7807,11 @@
     "importance": 4,
     "status": "active",
     "sourceArticleIds": [
-      "news022DJ20260520_Rabies"
+      "news022DJ20260520_Rabies",
+      "news029_DJ20260523_Maoism"
     ],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 2,
+    "frequency": 2,
     "notes": "公共安全・治安文脈で頻出",
     "quizWeight": 4
   },
@@ -9276,6 +9281,414 @@
     "sourceCount": 1,
     "frequency": 1,
     "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "माओवाद",
+    "normalized": "माओवाद",
+    "pos": "名詞（男）",
+    "meaning_ja": "毛沢東主義、マオイズム",
+    "category": "選挙・裁判",
+    "difficulty": 5,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news029_DJ20260523_Maoism"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "政治思想用語",
+    "quizWeight": 3
+  },
+  {
+    "word": "माओवादी",
+    "normalized": "माओवादी",
+    "pos": "名詞（男）",
+    "meaning_ja": "毛沢東主義者、マオイスト",
+    "category": "選挙・裁判",
+    "difficulty": 5,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news029_DJ20260523_Maoism"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "インド治安報道頻出",
+    "quizWeight": 3
+  },
+  {
+    "word": "नक्सल",
+    "normalized": "नक्सल",
+    "pos": "名詞（男）",
+    "meaning_ja": "ナクサル派（インドの左翼武装勢力）",
+    "category": "選挙・裁判",
+    "difficulty": 5,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news029_DJ20260523_Maoism"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "左翼武装勢力",
+    "quizWeight": 3
+  },
+  {
+    "word": "नक्सलवाद",
+    "normalized": "नक्सलवाद",
+    "pos": "名詞（男）",
+    "meaning_ja": "ナクサル主義（インドの左翼過激思想）",
+    "category": "選挙・裁判",
+    "difficulty": 5,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news029_DJ20260523_Maoism"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "インド左翼過激思想",
+    "quizWeight": 3
+  },
+  {
+    "word": "उन्मूलन",
+    "normalized": "उन्मूलन",
+    "pos": "名詞（男）",
+    "meaning_ja": "根絶、撲滅",
+    "category": "選挙・裁判",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news029_DJ20260523_Maoism"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "उग्रवाद",
+    "normalized": "उग्रवाद",
+    "pos": "名詞（男）",
+    "meaning_ja": "過激主義",
+    "category": "選挙・裁判",
+    "difficulty": 5,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news029_DJ20260523_Maoism"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "extremism",
+    "quizWeight": 3
+  },
+  {
+    "word": "सुरक्षा बल",
+    "normalized": "सुरक्षा_बल",
+    "pos": "名詞（男）",
+    "meaning_ja": "治安部隊",
+    "category": "選挙・裁判",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news029_DJ20260523_Maoism"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "security forces",
+    "quizWeight": 3
+  },
+  {
+    "word": "गृहमंत्री",
+    "normalized": "गृहमंत्री",
+    "pos": "名詞（男）",
+    "meaning_ja": "内務大臣",
+    "category": "選挙・裁判",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news029_DJ20260523_Maoism"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "गैरकानूनी",
+    "normalized": "गैरकानूनी",
+    "pos": "形容詞",
+    "meaning_ja": "違法な",
+    "category": "選挙・裁判",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news029_DJ20260523_Maoism"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "रणनीति",
+    "normalized": "रणनीति",
+    "pos": "名詞（女）",
+    "meaning_ja": "戦略",
+    "category": "選挙・裁判",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news029_DJ20260523_Maoism"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "政治・軍事文脈頻出",
+    "quizWeight": 3
+  },
+  {
+    "word": "संगठन",
+    "normalized": "संगठन",
+    "pos": "名詞（男）",
+    "meaning_ja": "組織",
+    "category": "選挙・裁判",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news029_DJ20260523_Maoism"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "हिंसा",
+    "normalized": "हिंसा",
+    "pos": "名詞（女）",
+    "meaning_ja": "暴力",
+    "category": "事件・事故",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news029_DJ20260523_Maoism"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "violence",
+    "quizWeight": 4
+  },
+  {
+    "word": "हथियार",
+    "normalized": "हथियार",
+    "pos": "名詞（男）",
+    "meaning_ja": "武器",
+    "category": "事件・事故",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news029_DJ20260523_Maoism"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 4
+  },
+  {
+    "word": "विकास",
+    "normalized": "विकास",
+    "pos": "名詞（男）",
+    "meaning_ja": "発展、開発",
+    "category": "行政・制度",
+    "difficulty": 2,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news029_DJ20260523_Maoism"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "行政・経済文脈頻出",
+    "quizWeight": 4
+  },
+  {
+    "word": "केंद्रीय",
+    "normalized": "केंद्रीय",
+    "pos": "形容詞",
+    "meaning_ja": "中央の、中央政府の",
+    "category": "行政・制度",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news029_DJ20260523_Maoism"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "सुनिश्चित",
+    "normalized": "सुनिश्चित",
+    "pos": "形容詞",
+    "meaning_ja": "確保された、保証された",
+    "category": "行政・制度",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news029_DJ20260523_Maoism"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "मुक्त",
+    "normalized": "मुक्त",
+    "pos": "形容詞",
+    "meaning_ja": "解放された、自由な",
+    "category": "行政・制度",
+    "difficulty": 3,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news029_DJ20260523_Maoism"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "अभियान चलाना",
+    "normalized": "अभियान_चलाना",
+    "pos": "動詞句",
+    "meaning_ja": "キャンペーンを実施する、作戦を展開する",
+    "category": "重要動詞",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news029_DJ20260523_Maoism"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "निकालना",
+    "normalized": "निकालना",
+    "pos": "動詞",
+    "meaning_ja": "取り除く、排除する",
+    "category": "重要動詞",
+    "difficulty": 2,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news029_DJ20260523_Maoism"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 4
+  },
+  {
+    "word": "पहुंचना",
+    "normalized": "पहुंचना",
+    "pos": "動詞",
+    "meaning_ja": "到達する、到着する",
+    "category": "重要動詞",
+    "difficulty": 1,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news029_DJ20260523_Maoism"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 4
+  },
+  {
+    "word": "बताना",
+    "normalized": "बताना",
+    "pos": "動詞",
+    "meaning_ja": "伝える、説明する",
+    "category": "重要動詞",
+    "difficulty": 1,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news029_DJ20260523_Maoism"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 4
+  },
+  {
+    "word": "जुटना",
+    "normalized": "जुटना",
+    "pos": "動詞",
+    "meaning_ja": "集まる、結集する",
+    "category": "重要動詞",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news029_DJ20260523_Maoism"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "बीतना",
+    "normalized": "बीतना",
+    "pos": "動詞",
+    "meaning_ja": "過ぎる、経過する",
+    "category": "重要動詞",
+    "difficulty": 2,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news029_DJ20260523_Maoism"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "प्रभावित क्षेत्र",
+    "normalized": "प्रभावित_क्षेत्र",
+    "pos": "名詞（男）",
+    "meaning_ja": "影響地域、被害地域",
+    "category": "行政・制度",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news029_DJ20260523_Maoism"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "ニュース定型句",
     "quizWeight": 3
   }
 ]

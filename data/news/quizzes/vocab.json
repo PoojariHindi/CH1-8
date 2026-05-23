@@ -1,5 +1,18 @@
 [
   {
+    "word": "प्रभावित",
+    "display": "प्रभावित",
+    "normalized": "प्रभावित",
+    "meaning_ja": "影響を受けた",
+    "pos": "形容詞",
+    "category": "社会・公共",
+    "difficulty": 3,
+    "importance": 3,
+    "sourceCount": 9,
+    "frequency": 9,
+    "quizWeight": 16
+  },
+  {
     "word": "अधिकारी",
     "display": "अधिकारी",
     "normalized": "अधिकारी",
@@ -49,19 +62,6 @@
     "importance": 4,
     "sourceCount": 5,
     "frequency": 5,
-    "quizWeight": 15
-  },
-  {
-    "word": "प्रभावित",
-    "display": "प्रभावित",
-    "normalized": "प्रभावित",
-    "meaning_ja": "影響を受けた",
-    "pos": "形容詞",
-    "category": "社会・公共",
-    "difficulty": 3,
-    "importance": 3,
-    "sourceCount": 8,
-    "frequency": 8,
     "quizWeight": 15
   },
   {
@@ -442,6 +442,19 @@
     "quizWeight": 12
   },
   {
+    "word": "पहुंचना",
+    "display": "पहुंचना",
+    "normalized": "पहुंचना",
+    "meaning_ja": "到達する、到着する",
+    "pos": "動詞",
+    "category": "重要動詞",
+    "difficulty": 1,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 12
+  },
+  {
     "word": "फैसला",
     "display": "फैसला",
     "normalized": "फैसला",
@@ -459,6 +472,19 @@
     "display": "बढ़ाना",
     "normalized": "बढ़ाना",
     "meaning_ja": "増やす、引き上げる",
+    "pos": "動詞",
+    "category": "重要動詞",
+    "difficulty": 1,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 12
+  },
+  {
+    "word": "बताना",
+    "display": "बताना",
+    "normalized": "बताना",
+    "meaning_ja": "伝える、説明する",
     "pos": "動詞",
     "category": "重要動詞",
     "difficulty": 1,
@@ -556,6 +582,32 @@
     "importance": 4,
     "sourceCount": 1,
     "frequency": 1,
+    "quizWeight": 12
+  },
+  {
+    "word": "सुरक्षा",
+    "display": "सुरक्षा",
+    "normalized": "सुरक्षा",
+    "meaning_ja": "安全、保護",
+    "pos": "名詞（女）",
+    "category": "行政・制度",
+    "difficulty": 2,
+    "importance": 4,
+    "sourceCount": 2,
+    "frequency": 2,
+    "quizWeight": 12
+  },
+  {
+    "word": "हिंसक",
+    "display": "हिंसक",
+    "normalized": "हिंसक",
+    "meaning_ja": "暴力的な",
+    "pos": "形容詞",
+    "category": "事件・事故",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 3,
+    "frequency": 3,
     "quizWeight": 12
   },
   {
@@ -962,6 +1014,19 @@
     "quizWeight": 11
   },
   {
+    "word": "निकालना",
+    "display": "निकालना",
+    "normalized": "निकालना",
+    "meaning_ja": "取り除く、排除する",
+    "pos": "動詞",
+    "category": "重要動詞",
+    "difficulty": 2,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 11
+  },
+  {
     "word": "नुकसान",
     "display": "नुकसान",
     "normalized": "नुकसान",
@@ -1300,6 +1365,19 @@
     "quizWeight": 11
   },
   {
+    "word": "विकास",
+    "display": "विकास",
+    "normalized": "विकास",
+    "meaning_ja": "発展、開発",
+    "pos": "名詞（男）",
+    "category": "行政・制度",
+    "difficulty": 2,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 11
+  },
+  {
     "word": "वृद्धि",
     "display": "वृद्धि",
     "normalized": "वृद्धि",
@@ -1378,6 +1456,19 @@
     "quizWeight": 11
   },
   {
+    "word": "समर्थन",
+    "display": "समर्थन",
+    "normalized": "समर्थन",
+    "meaning_ja": "支持、支援",
+    "pos": "名詞（男）",
+    "category": "選挙・裁判",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 2,
+    "frequency": 2,
+    "quizWeight": 11
+  },
+  {
     "word": "सर्वेक्षण",
     "display": "सर्वेक्षण",
     "normalized": "सर्वेक्षण",
@@ -1430,19 +1521,6 @@
     "quizWeight": 11
   },
   {
-    "word": "सुरक्षा",
-    "display": "सुरक्षा",
-    "normalized": "सुरक्षा",
-    "meaning_ja": "安全、保護",
-    "pos": "名詞（女）",
-    "category": "行政・制度",
-    "difficulty": 2,
-    "importance": 4,
-    "sourceCount": 1,
-    "frequency": 1,
-    "quizWeight": 11
-  },
-  {
     "word": "सुविधा",
     "display": "सुविधा",
     "normalized": "सुविधा",
@@ -1479,19 +1557,6 @@
     "importance": 4,
     "sourceCount": 1,
     "frequency": 1,
-    "quizWeight": 11
-  },
-  {
-    "word": "हिंसक",
-    "display": "हिंसक",
-    "normalized": "हिंसक",
-    "meaning_ja": "暴力的な",
-    "pos": "形容詞",
-    "category": "事件・事故",
-    "difficulty": 3,
-    "importance": 4,
-    "sourceCount": 2,
-    "frequency": 2,
     "quizWeight": 11
   },
   {
@@ -1544,6 +1609,19 @@
     "importance": 4,
     "sourceCount": 1,
     "frequency": 1,
+    "quizWeight": 10
+  },
+  {
+    "word": "अभियान",
+    "display": "अभियान",
+    "normalized": "अभियान",
+    "meaning_ja": "キャンペーン、活動",
+    "pos": "名詞（男）",
+    "category": "調査・データ",
+    "difficulty": 2,
+    "importance": 3,
+    "sourceCount": 2,
+    "frequency": 2,
     "quizWeight": 10
   },
   {
@@ -1794,6 +1872,19 @@
     "quizWeight": 10
   },
   {
+    "word": "केंद्रीय",
+    "display": "केंद्रीय",
+    "normalized": "केंद्रीय",
+    "meaning_ja": "中央の、中央政府の",
+    "pos": "形容詞",
+    "category": "行政・制度",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 10
+  },
+  {
     "word": "कौशल विकास",
     "display": "कौशल विकास",
     "normalized": "कौशल_विकास",
@@ -1982,6 +2073,19 @@
     "meaning_ja": "生計維持、生活",
     "pos": "名詞（男）",
     "category": "労働・経済",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 10
+  },
+  {
+    "word": "जुटना",
+    "display": "जुटना",
+    "normalized": "जुटना",
+    "meaning_ja": "集まる、結集する",
+    "pos": "動詞",
+    "category": "重要動詞",
     "difficulty": 3,
     "importance": 4,
     "sourceCount": 1,
@@ -3003,6 +3107,19 @@
     "quizWeight": 10
   },
   {
+    "word": "संगठन",
+    "display": "संगठन",
+    "normalized": "संगठन",
+    "meaning_ja": "組織",
+    "pos": "名詞（男）",
+    "category": "選挙・裁判",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 10
+  },
+  {
     "word": "संघर्ष",
     "display": "संघर्ष",
     "normalized": "संघर्ष",
@@ -3100,19 +3217,6 @@
     "meaning_ja": "清掃員",
     "pos": "名詞（男）",
     "category": "労働・経済",
-    "difficulty": 3,
-    "importance": 4,
-    "sourceCount": 1,
-    "frequency": 1,
-    "quizWeight": 10
-  },
-  {
-    "word": "समर्थन",
-    "display": "समर्थन",
-    "normalized": "समर्थन",
-    "meaning_ja": "支持、支援",
-    "pos": "名詞（男）",
-    "category": "選挙・裁判",
     "difficulty": 3,
     "importance": 4,
     "sourceCount": 1,
@@ -3224,6 +3328,19 @@
     "quizWeight": 10
   },
   {
+    "word": "सुनिश्चित",
+    "display": "सुनिश्चित",
+    "normalized": "सुनिश्चित",
+    "meaning_ja": "確保された、保証された",
+    "pos": "形容詞",
+    "category": "行政・制度",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 10
+  },
+  {
     "word": "स्तर",
     "display": "स्तर",
     "normalized": "स्तर",
@@ -3302,12 +3419,38 @@
     "quizWeight": 10
   },
   {
+    "word": "हथियार",
+    "display": "हथियार",
+    "normalized": "हथियार",
+    "meaning_ja": "武器",
+    "pos": "名詞（男）",
+    "category": "事件・事故",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 10
+  },
+  {
     "word": "हल निकालना",
     "display": "हल निकालना",
     "normalized": "हल_निकालना",
     "meaning_ja": "解決策を見つける",
     "pos": "動詞句",
     "category": "重要動詞",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 10
+  },
+  {
+    "word": "हिंसा",
+    "display": "हिंसा",
+    "normalized": "हिंसा",
+    "meaning_ja": "暴力",
+    "pos": "名詞（女）",
+    "category": "事件・事故",
     "difficulty": 3,
     "importance": 4,
     "sourceCount": 1,
@@ -3419,14 +3562,14 @@
     "quizWeight": 9
   },
   {
-    "word": "अभियान",
-    "display": "अभियान",
-    "normalized": "अभियान",
-    "meaning_ja": "キャンペーン、活動",
-    "pos": "名詞（男）",
-    "category": "調査・データ",
-    "difficulty": 2,
-    "importance": 3,
+    "word": "अभियान चलाना",
+    "display": "अभियान चलाना",
+    "normalized": "अभियान_चलाना",
+    "meaning_ja": "キャンペーンを実施する、作戦を展開する",
+    "pos": "動詞句",
+    "category": "重要動詞",
+    "difficulty": 4,
+    "importance": 4,
     "sourceCount": 1,
     "frequency": 1,
     "quizWeight": 9
@@ -3594,6 +3737,32 @@
     "meaning_ja": "オンライン薬局",
     "pos": "名詞（女）",
     "category": "医療・健康",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "उग्रवाद",
+    "display": "उग्रवाद",
+    "normalized": "उग्रवाद",
+    "meaning_ja": "過激主義",
+    "pos": "名詞（男）",
+    "category": "選挙・裁判",
+    "difficulty": 5,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "उन्मूलन",
+    "display": "उन्मूलन",
+    "normalized": "उन्मूलन",
+    "meaning_ja": "根絶、撲滅",
+    "pos": "名詞（男）",
+    "category": "選挙・裁判",
     "difficulty": 4,
     "importance": 4,
     "sourceCount": 1,
@@ -3861,6 +4030,19 @@
     "quizWeight": 9
   },
   {
+    "word": "गृहमंत्री",
+    "display": "गृहमंत्री",
+    "normalized": "गृहमंत्री",
+    "meaning_ja": "内務大臣",
+    "pos": "名詞（男）",
+    "category": "選挙・裁判",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
     "word": "गेमिंग",
     "display": "गेमिंग",
     "normalized": "गेमिंग",
@@ -3880,6 +4062,19 @@
     "meaning_ja": "非政府組織、NGO",
     "pos": "名詞（男）",
     "category": "社会・公共",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "गैरकानूनी",
+    "display": "गैरकानूनी",
+    "normalized": "गैरकानूनी",
+    "meaning_ja": "違法な",
+    "pos": "形容詞",
+    "category": "選挙・裁判",
     "difficulty": 4,
     "importance": 4,
     "sourceCount": 1,
@@ -4199,6 +4394,32 @@
     "quizWeight": 9
   },
   {
+    "word": "नक्सल",
+    "display": "नक्सल",
+    "normalized": "नक्सल",
+    "meaning_ja": "ナクサル派（インドの左翼武装勢力）",
+    "pos": "名詞（男）",
+    "category": "選挙・裁判",
+    "difficulty": 5,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "नक्सलवाद",
+    "display": "नक्सलवाद",
+    "normalized": "नक्सलवाद",
+    "meaning_ja": "ナクサル主義（インドの左翼過激思想）",
+    "pos": "名詞（男）",
+    "category": "選挙・裁判",
+    "difficulty": 5,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
     "word": "नवजात",
     "display": "नवजात",
     "normalized": "नवजात",
@@ -4459,6 +4680,19 @@
     "quizWeight": 9
   },
   {
+    "word": "प्रभावित क्षेत्र",
+    "display": "प्रभावित क्षेत्र",
+    "normalized": "प्रभावित_क्षेत्र",
+    "meaning_ja": "影響地域、被害地域",
+    "pos": "名詞（男）",
+    "category": "行政・制度",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
     "word": "प्रमोट",
     "display": "प्रमोट",
     "normalized": "प्रमोट",
@@ -4545,6 +4779,19 @@
     "category": "重要動詞",
     "difficulty": 4,
     "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "बीतना",
+    "display": "बीतना",
+    "normalized": "बीतना",
+    "meaning_ja": "過ぎる、経過する",
+    "pos": "動詞",
+    "category": "重要動詞",
+    "difficulty": 2,
+    "importance": 3,
     "sourceCount": 1,
     "frequency": 1,
     "quizWeight": 9
@@ -4648,6 +4895,32 @@
     "pos": "名詞（男）",
     "category": "都市・環境",
     "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "माओवाद",
+    "display": "माओवाद",
+    "normalized": "माओवाद",
+    "meaning_ja": "毛沢東主義、マオイズム",
+    "pos": "名詞（男）",
+    "category": "選挙・裁判",
+    "difficulty": 5,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "माओवादी",
+    "display": "माओवादी",
+    "normalized": "माओवादी",
+    "meaning_ja": "毛沢東主義者、マオイスト",
+    "pos": "名詞（男）",
+    "category": "選挙・裁判",
+    "difficulty": 5,
     "importance": 4,
     "sourceCount": 1,
     "frequency": 1,
@@ -4764,6 +5037,19 @@
     "meaning_ja": "血圧",
     "pos": "名詞（男）",
     "category": "医療・健康",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "रणनीति",
+    "display": "रणनीति",
+    "normalized": "रणनीति",
+    "meaning_ja": "戦略",
+    "pos": "名詞（女）",
+    "category": "選挙・裁判",
     "difficulty": 4,
     "importance": 4,
     "sourceCount": 1,
@@ -5193,6 +5479,19 @@
     "meaning_ja": "CNG（圧縮天然ガス）",
     "pos": "名詞（女）",
     "category": "労働・経済",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "सुरक्षा बल",
+    "display": "सुरक्षा बल",
+    "normalized": "सुरक्षा_बल",
+    "meaning_ja": "治安部隊",
+    "pos": "名詞（男）",
+    "category": "選挙・裁判",
     "difficulty": 4,
     "importance": 4,
     "sourceCount": 1,
@@ -6064,6 +6363,19 @@
     "meaning_ja": "人類、人間性",
     "pos": "名詞（女）",
     "category": "科学・技術",
+    "difficulty": 3,
+    "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 8
+  },
+  {
+    "word": "मुक्त",
+    "display": "मुक्त",
+    "normalized": "मुक्त",
+    "meaning_ja": "解放された、自由な",
+    "pos": "形容詞",
+    "category": "行政・制度",
     "difficulty": 3,
     "importance": 3,
     "sourceCount": 1,
