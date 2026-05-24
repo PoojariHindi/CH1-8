@@ -1,4 +1,4 @@
-const CACHE_VERSION = "v60";
+const CACHE_VERSION = "v61";
 const CACHE_NAME = `hindi-quiz-${CACHE_VERSION}`;
 
 const APP_SHELL = [
