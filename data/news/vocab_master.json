@@ -7,7 +7,7 @@
     "category": "事件・事故",
     "difficulty": 1,
     "importance": 4,
-    "status": "active",
+    "status": "stopword",
     "sourceArticleIds": [
       "news_vocab_02",
       "news_006"
@@ -28,10 +28,11 @@
     "status": "active",
     "sourceArticleIds": [
       "news_vocab_02",
-      "news_006"
+      "news_006",
+      "news035_NBT20260525_Manjha"
     ],
-    "sourceCount": 2,
-    "frequency": 2,
+    "sourceCount": 3,
+    "frequency": 3,
     "notes": "",
     "quizWeight": 4
   },
@@ -103,10 +104,11 @@
     "sourceArticleIds": [
       "news_vocab_02",
       "news018DJ20260514_Barish",
-      "news024_NBT20260520_Dahej"
+      "news024_NBT20260520_Dahej",
+      "news035_NBT20260525_Manjha"
     ],
-    "sourceCount": 3,
-    "frequency": 3,
+    "sourceCount": 4,
+    "frequency": 4,
     "notes": "",
     "quizWeight": 4
   },
@@ -598,10 +600,11 @@
     "sourceArticleIds": [
       "news_vocab_02",
       "news_008",
-      "news023_DJ20260520_HotSummer"
+      "news023_DJ20260520_HotSummer",
+      "news034_NBT20260525_Pani"
     ],
-    "sourceCount": 3,
-    "frequency": 3,
+    "sourceCount": 4,
+    "frequency": 4,
     "notes": "",
     "quizWeight": 3
   },
@@ -1390,17 +1393,18 @@
     "word": "सुनवाई",
     "normalized": "सुनवाई",
     "pos": "名詞（女）",
-    "meaning_ja": "審理、聴聞",
+    "meaning_ja": "審理、聴聞、事情聴取",
     "category": "選挙・裁判",
     "difficulty": 3,
     "importance": 4,
     "status": "active",
     "sourceArticleIds": [
       "news_vocab_02",
-      "news021DJ20260519_OpenAI"
+      "news021DJ20260519_OpenAI",
+      "news034_NBT20260525_Pani"
     ],
-    "sourceCount": 2,
-    "frequency": 2,
+    "sourceCount": 3,
+    "frequency": 3,
     "notes": "",
     "quizWeight": 3
   },
@@ -1926,10 +1930,11 @@
     "status": "active",
     "sourceArticleIds": [
       "news_vocab_01",
-      "news_vocab_02"
+      "news_vocab_02",
+      "news034_NBT20260525_Pani"
     ],
-    "sourceCount": 2,
-    "frequency": 2,
+    "sourceCount": 3,
+    "frequency": 3,
     "notes": "",
     "quizWeight": 3
   },
@@ -2827,10 +2832,11 @@
     "importance": 4,
     "status": "active",
     "sourceArticleIds": [
-      "news_006"
+      "news_006",
+      "news035_NBT20260525_Manjha"
     ],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 2,
+    "frequency": 2,
     "notes": "",
     "quizWeight": 3
   },
@@ -2861,10 +2867,11 @@
     "importance": 4,
     "status": "active",
     "sourceArticleIds": [
-      "news_006"
+      "news_006",
+      "news034_NBT20260525_Pani"
     ],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 2,
+    "frequency": 2,
     "notes": "",
     "quizWeight": 3
   },
@@ -3584,10 +3591,11 @@
     "status": "active",
     "sourceArticleIds": [
       "news_010",
-      "news018DJ20260514_Barish"
+      "news018DJ20260514_Barish",
+      "news035_NBT20260525_Manjha"
     ],
-    "sourceCount": 2,
-    "frequency": 2,
+    "sourceCount": 3,
+    "frequency": 3,
     "notes": "",
     "quizWeight": 4
   },
@@ -7952,11 +7960,12 @@
     "meaning_ja": "気温、水銀柱",
     "category": "調査・統計",
     "importance": 3,
-    "sourceCount": 1,
+    "sourceCount": 2,
     "sourceArticleIds": [
-      "news023_DJ20260520_HotSummer"
+      "news023_DJ20260520_HotSummer",
+      "news034_NBT20260525_Pani"
     ],
-    "frequency": 1,
+    "frequency": 2,
     "status": "active"
   },
   {
@@ -8949,10 +8958,11 @@
     "status": "active",
     "sourceArticleIds": [
       "news026_NBT20260521_Auto",
-      "news031_DJ20260524_Bundabandi"
+      "news031_DJ20260524_Bundabandi",
+      "news034_NBT20260525_Pani"
     ],
-    "sourceCount": 2,
-    "frequency": 2,
+    "sourceCount": 3,
+    "frequency": 3,
     "notes": "ニュース頻出語",
     "quizWeight": 4
   },
@@ -9940,10 +9950,11 @@
     "importance": 4,
     "status": "active",
     "sourceArticleIds": [
-      "news030_DJ20260524_BengalBorder"
+      "news030_DJ20260524_BengalBorder",
+      "news034_NBT20260525_Pani"
     ],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 2,
+    "frequency": 2,
     "notes": "治安・行政文脈頻出",
     "quizWeight": 3
   },
@@ -10532,16 +10543,18 @@
     "word": "राहत",
     "normalized": "राहत",
     "pos": "名詞（女）",
-    "meaning_ja": "安心、 राहत、緩和",
+    "meaning_ja": "安心、救済、緩和",
     "category": "一般ニュース語彙",
     "difficulty": 2,
     "importance": 4,
     "status": "active",
     "sourceArticleIds": [
-      "news031_DJ20260524_Bundabandi"
+      "news031_DJ20260524_Bundabandi",
+      "news034_NBT20260525_Pani",
+      "news035_NBT20260525_Manjha"
     ],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 3,
+    "frequency": 3,
     "notes": "ニュース頻出",
     "quizWeight": 4
   },
@@ -10832,6 +10845,365 @@
     "sourceCount": 1,
     "frequency": 1,
     "notes": "文語・公告文頻出",
+    "quizWeight": 3
+  },
+  {
+    "word": "बेदम",
+    "normalized": "बेदम",
+    "pos": "形容詞",
+    "meaning_ja": "弱り切った、活気のない",
+    "category": "都市・環境",
+    "difficulty": 4,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news034_NBT20260525_Pani"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "猛暑・生活被害文脈",
+    "quizWeight": 3
+  },
+  {
+    "word": "अघोषित",
+    "normalized": "अघोषित",
+    "pos": "形容詞",
+    "meaning_ja": "未公表の、事前通知なしの",
+    "category": "都市・環境",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news034_NBT20260525_Pani"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "停電・行政文脈頻出",
+    "quizWeight": 3
+  },
+  {
+    "word": "कटौती",
+    "normalized": "कटौती",
+    "pos": "名詞（女）",
+    "meaning_ja": "削減、カット",
+    "category": "都市・環境",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news034_NBT20260525_Pani"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "電力・予算文脈頻出",
+    "quizWeight": 4
+  },
+  {
+    "word": "उमस",
+    "normalized": "उमस",
+    "pos": "名詞（女）",
+    "meaning_ja": "蒸し暑さ、不快な湿気",
+    "category": "都市・環境",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news034_NBT20260525_Pani"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "夏季ニュース頻出",
+    "quizWeight": 3
+  },
+  {
+    "word": "जलापूर्ति",
+    "normalized": "जलापूर्ति",
+    "pos": "名詞（女）",
+    "meaning_ja": "給水、水供給",
+    "category": "都市・環境",
+    "difficulty": 5,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news034_NBT20260525_Pani"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "行政・インフラ文脈頻出",
+    "quizWeight": 3
+  },
+  {
+    "word": "जलभराव",
+    "normalized": "जलभराव",
+    "pos": "名詞（男）",
+    "meaning_ja": "冠水、水たまり状態",
+    "category": "都市・環境",
+    "difficulty": 5,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news034_NBT20260525_Pani"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "モンスーン・都市災害文脈",
+    "quizWeight": 3
+  },
+  {
+    "word": "किल्लत",
+    "normalized": "किल्लत",
+    "pos": "名詞（女）",
+    "meaning_ja": "不足、欠乏",
+    "category": "都市・環境",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news034_NBT20260525_Pani"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "水・電力不足文脈頻出",
+    "quizWeight": 3
+  },
+  {
+    "word": "कतार",
+    "normalized": "कतार",
+    "pos": "名詞（女）",
+    "meaning_ja": "列、行列",
+    "category": "一般ニュース語彙",
+    "difficulty": 2,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news034_NBT20260525_Pani"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "सब्र",
+    "display": "सब्र",
+    "normalized": "सब्र",
+    "pos": "名詞（男）",
+    "meaning_ja": "忍耐、我慢",
+    "category": "一般ニュース語彙",
+    "difficulty": 4,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news034_NBT20260525_Pani"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "ウルドゥー系語彙",
+    "quizWeight": 3
+  },
+  {
+    "word": "इम्तिहान",
+    "display": "इम्तिहान",
+    "normalized": "इम्तिहान",
+    "pos": "名詞（男）",
+    "meaning_ja": "試練、試験",
+    "category": "一般ニュース語彙",
+    "difficulty": 4,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news034_NBT20260525_Pani"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "ウルドゥー系語彙",
+    "quizWeight": 3
+  },
+  {
+    "word": "आफत",
+    "normalized": "आफत",
+    "pos": "名詞（女）",
+    "meaning_ja": "災難、大きな困難",
+    "category": "一般ニュース語彙",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news034_NBT20260525_Pani"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "ニュース見出し頻出",
+    "quizWeight": 4
+  },
+  {
+    "word": "मांझा",
+    "normalized": "मांझा",
+    "pos": "名詞（男）",
+    "meaning_ja": "凧糸（特に研磨加工された危険糸）",
+    "category": "事件・事故",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news035_NBT20260525_Manjha"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "インドの凧揚げ文化関連語彙",
+    "quizWeight": 3
+  },
+  {
+    "word": "प्रतिबंधित",
+    "normalized": "प्रतिबंधित",
+    "pos": "形容詞",
+    "meaning_ja": "禁止された、規制された",
+    "category": "事件・事故",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news035_NBT20260525_Manjha"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "行政・捜査ニュース頻出",
+    "quizWeight": 3
+  },
+  {
+    "word": "कार्रवाई",
+    "normalized": "कार्रवाई",
+    "pos": "名詞（女）",
+    "meaning_ja": "措置、捜査、取り締まり",
+    "category": "事件・事故",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news035_NBT20260525_Manjha"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "警察・行政文脈頻出",
+    "quizWeight": 4
+  },
+  {
+    "word": "अवैध",
+    "normalized": "अवैध",
+    "pos": "形容詞",
+    "meaning_ja": "違法な",
+    "category": "事件・事故",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news035_NBT20260525_Manjha"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "法律・捜査文脈頻出",
+    "quizWeight": 4
+  },
+  {
+    "word": "परिसर",
+    "normalized": "परिसर",
+    "pos": "名詞（男）",
+    "meaning_ja": "敷地、構内",
+    "category": "事件・事故",
+    "difficulty": 4,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news035_NBT20260525_Manjha"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "学校・施設文脈でも頻出",
+    "quizWeight": 3
+  },
+  {
+    "word": "पतंगबाजी",
+    "normalized": "पतंगबाजी",
+    "pos": "名詞（女）",
+    "meaning_ja": "凧揚げ",
+    "category": "文化・宗教",
+    "difficulty": 4,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news035_NBT20260525_Manjha"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "インド文化関連語彙",
+    "quizWeight": 3
+  },
+  {
+    "word": "राहगीर",
+    "normalized": "राहगीर",
+    "pos": "名詞（男）",
+    "meaning_ja": "通行人、通りすがりの人",
+    "category": "事件・事故",
+    "difficulty": 4,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news035_NBT20260525_Manjha"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "事故・事件報道頻出",
+    "quizWeight": 3
+  },
+  {
+    "word": "नेतृत्व",
+    "normalized": "नेतृत्व",
+    "pos": "名詞（男）",
+    "meaning_ja": "指導、統率、リーダーシップ",
+    "category": "一般ニュース語彙",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news035_NBT20260525_Manjha"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "政治・組織運営文脈頻出",
+    "quizWeight": 3
+  },
+  {
+    "word": "आरोपी",
+    "normalized": "आरोपी",
+    "pos": "名詞（男）",
+    "meaning_ja": "被告人、容疑者",
+    "category": "選挙・裁判",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news035_NBT20260525_Manjha"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "警察・裁判ニュース頻出",
+    "quizWeight": 4
+  },
+  {
+    "word": "छापा",
+    "normalized": "छापा",
+    "pos": "名詞（男）",
+    "meaning_ja": "強制捜索、ガサ入れ",
+    "category": "事件・事故",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news035_NBT20260525_Manjha"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "警察捜査文脈頻出",
     "quizWeight": 3
   }
 ]

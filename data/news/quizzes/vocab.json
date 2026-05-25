@@ -117,6 +117,19 @@
     "quizWeight": 14
   },
   {
+    "word": "मौत",
+    "display": "मौत",
+    "normalized": "मौत",
+    "meaning_ja": "死",
+    "pos": "名詞（女）",
+    "category": "事件・事故",
+    "difficulty": 2,
+    "importance": 4,
+    "sourceCount": 4,
+    "frequency": 4,
+    "quizWeight": 14
+  },
+  {
     "word": "विभाग",
     "display": "विभाग",
     "normalized": "विभाग",
@@ -156,6 +169,19 @@
     "quizWeight": 13
   },
   {
+    "word": "असर",
+    "display": "असर",
+    "normalized": "असर",
+    "meaning_ja": "影響、効果",
+    "pos": "名詞（男）",
+    "category": "労働・経済",
+    "difficulty": 2,
+    "importance": 4,
+    "sourceCount": 3,
+    "frequency": 3,
+    "quizWeight": 13
+  },
+  {
     "word": "कमी",
     "display": "कमी",
     "normalized": "कमी",
@@ -166,6 +192,19 @@
     "importance": 4,
     "sourceCount": 2,
     "frequency": 2,
+    "quizWeight": 13
+  },
+  {
+    "word": "गिरफ्तारी",
+    "display": "गिरफ्तारी",
+    "normalized": "गिरफ्तारी",
+    "meaning_ja": "逮捕",
+    "pos": "名詞（女）",
+    "category": "事件・事故",
+    "difficulty": 2,
+    "importance": 4,
+    "sourceCount": 3,
+    "frequency": 3,
     "quizWeight": 13
   },
   {
@@ -195,19 +234,6 @@
     "quizWeight": 13
   },
   {
-    "word": "पुलिस",
-    "display": "पुलिस",
-    "normalized": "पुलिस",
-    "meaning_ja": "警察",
-    "pos": "名詞（女）",
-    "category": "事件・事故",
-    "difficulty": 1,
-    "importance": 4,
-    "sourceCount": 2,
-    "frequency": 2,
-    "quizWeight": 13
-  },
-  {
     "word": "फंड",
     "display": "फंड",
     "normalized": "फंड",
@@ -234,12 +260,12 @@
     "quizWeight": 13
   },
   {
-    "word": "मौत",
-    "display": "मौत",
-    "normalized": "मौत",
-    "meaning_ja": "死",
+    "word": "राहत",
+    "display": "राहत",
+    "normalized": "राहत",
+    "meaning_ja": "安心、救済、緩和",
     "pos": "名詞（女）",
-    "category": "事件・事故",
+    "category": "一般ニュース語彙",
     "difficulty": 2,
     "importance": 4,
     "sourceCount": 3,
@@ -279,19 +305,6 @@
     "meaning_ja": "裁判所",
     "pos": "名詞（女）",
     "category": "選挙・裁判",
-    "difficulty": 2,
-    "importance": 4,
-    "sourceCount": 2,
-    "frequency": 2,
-    "quizWeight": 12
-  },
-  {
-    "word": "असर",
-    "display": "असर",
-    "normalized": "असर",
-    "meaning_ja": "影響、効果",
-    "pos": "名詞（男）",
-    "category": "労働・経済",
     "difficulty": 2,
     "importance": 4,
     "sourceCount": 2,
@@ -390,6 +403,19 @@
     "quizWeight": 12
   },
   {
+    "word": "गंभीर",
+    "display": "गंभीर",
+    "normalized": "गंभीर",
+    "meaning_ja": "重大な、深刻な",
+    "pos": "形容詞",
+    "category": "社会・公共",
+    "difficulty": 2,
+    "importance": 3,
+    "sourceCount": 4,
+    "frequency": 4,
+    "quizWeight": 12
+  },
+  {
     "word": "गिरफ्तार",
     "display": "गिरफ्तार",
     "normalized": "गिरफ्तार",
@@ -403,19 +429,6 @@
     "quizWeight": 12
   },
   {
-    "word": "गिरफ्तारी",
-    "display": "गिरफ्तारी",
-    "normalized": "गिरफ्तारी",
-    "meaning_ja": "逮捕",
-    "pos": "名詞（女）",
-    "category": "事件・事故",
-    "difficulty": 2,
-    "importance": 4,
-    "sourceCount": 2,
-    "frequency": 2,
-    "quizWeight": 12
-  },
-  {
     "word": "घटना",
     "display": "घटना",
     "normalized": "घटना",
@@ -426,6 +439,19 @@
     "importance": 4,
     "sourceCount": 2,
     "frequency": 2,
+    "quizWeight": 12
+  },
+  {
+    "word": "घायल",
+    "display": "घायल",
+    "normalized": "घायल",
+    "meaning_ja": "負傷した",
+    "pos": "形容詞・分詞",
+    "category": "事件・事故",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 3,
+    "frequency": 3,
     "quizWeight": 12
   },
   {
@@ -624,6 +650,19 @@
     "quizWeight": 12
   },
   {
+    "word": "शिकायत",
+    "display": "शिकायत",
+    "normalized": "शिकायत",
+    "meaning_ja": "苦情、通報、訴え",
+    "pos": "名詞（女）",
+    "category": "事件・事故",
+    "difficulty": 2,
+    "importance": 4,
+    "sourceCount": 2,
+    "frequency": 2,
+    "quizWeight": 12
+  },
+  {
     "word": "शिक्षक",
     "display": "शिक्षक",
     "normalized": "शिक्षक",
@@ -634,6 +673,19 @@
     "importance": 4,
     "sourceCount": 1,
     "frequency": 1,
+    "quizWeight": 12
+  },
+  {
+    "word": "सुनवाई",
+    "display": "सुनवाई",
+    "normalized": "सुनवाई",
+    "meaning_ja": "審理、聴聞、事情聴取",
+    "pos": "名詞（女）",
+    "category": "選挙・裁判",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 3,
+    "frequency": 3,
     "quizWeight": 12
   },
   {
@@ -858,19 +910,6 @@
     "quizWeight": 11
   },
   {
-    "word": "गंभीर",
-    "display": "गंभीर",
-    "normalized": "गंभीर",
-    "meaning_ja": "重大な、深刻な",
-    "pos": "形容詞",
-    "category": "社会・公共",
-    "difficulty": 2,
-    "importance": 3,
-    "sourceCount": 3,
-    "frequency": 3,
-    "quizWeight": 11
-  },
-  {
     "word": "गठन",
     "display": "गठन",
     "normalized": "गठन",
@@ -894,19 +933,6 @@
     "importance": 4,
     "sourceCount": 1,
     "frequency": 1,
-    "quizWeight": 11
-  },
-  {
-    "word": "घायल",
-    "display": "घायल",
-    "normalized": "घायल",
-    "meaning_ja": "負傷した",
-    "pos": "形容詞・分詞",
-    "category": "事件・事故",
-    "difficulty": 3,
-    "importance": 4,
-    "sourceCount": 2,
-    "frequency": 2,
     "quizWeight": 11
   },
   {
@@ -1011,6 +1037,19 @@
     "importance": 4,
     "sourceCount": 1,
     "frequency": 1,
+    "quizWeight": 11
+  },
+  {
+    "word": "निगरानी",
+    "display": "निगरानी",
+    "normalized": "निगरानी",
+    "meaning_ja": "監視、監督",
+    "pos": "名詞（女）",
+    "category": "行政・制度",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 2,
+    "frequency": 2,
     "quizWeight": 11
   },
   {
@@ -1154,6 +1193,19 @@
     "importance": 4,
     "sourceCount": 1,
     "frequency": 1,
+    "quizWeight": 11
+  },
+  {
+    "word": "बरामद",
+    "display": "बरामद",
+    "normalized": "बरामद",
+    "meaning_ja": "押収された、回収された",
+    "pos": "形容詞・分詞",
+    "category": "事件・事故",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 2,
+    "frequency": 2,
     "quizWeight": 11
   },
   {
@@ -1326,19 +1378,6 @@
     "quizWeight": 11
   },
   {
-    "word": "राहत",
-    "display": "राहत",
-    "normalized": "राहत",
-    "meaning_ja": "安心、 राहत、緩和",
-    "pos": "名詞（女）",
-    "category": "一般ニュース語彙",
-    "difficulty": 2,
-    "importance": 4,
-    "sourceCount": 1,
-    "frequency": 1,
-    "quizWeight": 11
-  },
-  {
     "word": "रैंकिंग",
     "display": "रैंकिंग",
     "normalized": "रैंकिंग",
@@ -1443,16 +1482,16 @@
     "quizWeight": 11
   },
   {
-    "word": "शिकायत",
-    "display": "शिकायत",
-    "normalized": "शिकायत",
-    "meaning_ja": "苦情、通報、訴え",
-    "pos": "名詞（女）",
-    "category": "事件・事故",
+    "word": "संकट",
+    "display": "संकट",
+    "normalized": "संकट",
+    "meaning_ja": "危機",
+    "pos": "名詞（男）",
+    "category": "都市・環境",
     "difficulty": 2,
-    "importance": 4,
-    "sourceCount": 1,
-    "frequency": 1,
+    "importance": 3,
+    "sourceCount": 3,
+    "frequency": 3,
     "quizWeight": 11
   },
   {
@@ -1583,19 +1622,6 @@
     "importance": 4,
     "sourceCount": 1,
     "frequency": 1,
-    "quizWeight": 11
-  },
-  {
-    "word": "सुनवाई",
-    "display": "सुनवाई",
-    "normalized": "सुनवाई",
-    "meaning_ja": "審理、聴聞",
-    "pos": "名詞（女）",
-    "category": "選挙・裁判",
-    "difficulty": 3,
-    "importance": 4,
-    "sourceCount": 2,
-    "frequency": 2,
     "quizWeight": 11
   },
   {
@@ -1742,6 +1768,19 @@
     "quizWeight": 10
   },
   {
+    "word": "अवैध",
+    "display": "अवैध",
+    "normalized": "अवैध",
+    "meaning_ja": "違法な",
+    "pos": "形容詞",
+    "category": "事件・事故",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 10
+  },
+  {
     "word": "आत्महत्या",
     "display": "आत्महत्या",
     "normalized": "आत्महत्या",
@@ -1794,12 +1833,38 @@
     "quizWeight": 10
   },
   {
+    "word": "आफत",
+    "display": "आफत",
+    "normalized": "आफत",
+    "meaning_ja": "災難、大きな困難",
+    "pos": "名詞（女）",
+    "category": "一般ニュース語彙",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 10
+  },
+  {
     "word": "आरोपित",
     "display": "आरोपित",
     "normalized": "आरोपित",
     "meaning_ja": "被告人、被疑者",
     "pos": "名詞（男）",
     "category": "事件・事故",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 10
+  },
+  {
+    "word": "आरोपी",
+    "display": "आरोपी",
+    "normalized": "आरोपी",
+    "meaning_ja": "被告人、容疑者",
+    "pos": "名詞（男）",
+    "category": "選挙・裁判",
     "difficulty": 3,
     "importance": 4,
     "sourceCount": 1,
@@ -1898,6 +1963,19 @@
     "quizWeight": 10
   },
   {
+    "word": "कटौती",
+    "display": "कटौती",
+    "normalized": "कटौती",
+    "meaning_ja": "削減、カット",
+    "pos": "名詞（女）",
+    "category": "都市・環境",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 10
+  },
+  {
     "word": "कहर",
     "display": "कहर",
     "normalized": "कहर",
@@ -1917,6 +1995,19 @@
     "meaning_ja": "職人",
     "pos": "名詞（男）",
     "category": "労働・経済",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 10
+  },
+  {
+    "word": "कार्रवाई",
+    "display": "कार्रवाई",
+    "normalized": "कार्रवाई",
+    "meaning_ja": "措置、捜査、取り締まり",
+    "pos": "名詞（女）",
+    "category": "事件・事故",
     "difficulty": 3,
     "importance": 4,
     "sourceCount": 1,
@@ -2366,19 +2457,6 @@
     "quizWeight": 10
   },
   {
-    "word": "निगरानी",
-    "display": "निगरानी",
-    "normalized": "निगरानी",
-    "meaning_ja": "監視、監督",
-    "pos": "名詞（女）",
-    "category": "行政・制度",
-    "difficulty": 3,
-    "importance": 4,
-    "sourceCount": 1,
-    "frequency": 1,
-    "quizWeight": 10
-  },
-  {
     "word": "नियुक्त करना",
     "display": "नियुक्त करना",
     "normalized": "नियुक्त_करना",
@@ -2775,19 +2853,6 @@
     "meaning_ja": "維持する",
     "pos": "動詞句",
     "category": "重要動詞",
-    "difficulty": 3,
-    "importance": 4,
-    "sourceCount": 1,
-    "frequency": 1,
-    "quizWeight": 10
-  },
-  {
-    "word": "बरामद",
-    "display": "बरामद",
-    "normalized": "बरामद",
-    "meaning_ja": "押収された、回収された",
-    "pos": "形容詞・分詞",
-    "category": "事件・事故",
     "difficulty": 3,
     "importance": 4,
     "sourceCount": 1,
@@ -3195,19 +3260,6 @@
     "importance": 4,
     "sourceCount": 1,
     "frequency": 1,
-    "quizWeight": 10
-  },
-  {
-    "word": "संकट",
-    "display": "संकट",
-    "normalized": "संकट",
-    "meaning_ja": "危機",
-    "pos": "名詞（男）",
-    "category": "都市・環境",
-    "difficulty": 2,
-    "importance": 3,
-    "sourceCount": 2,
-    "frequency": 2,
     "quizWeight": 10
   },
   {
@@ -3666,6 +3718,19 @@
     "quizWeight": 9
   },
   {
+    "word": "अघोषित",
+    "display": "अघोषित",
+    "normalized": "अघोषित",
+    "meaning_ja": "未公表の、事前通知なしの",
+    "pos": "形容詞",
+    "category": "都市・環境",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
     "word": "अधिनियम",
     "display": "अधिनियम",
     "normalized": "अधिनियम",
@@ -3991,6 +4056,19 @@
     "quizWeight": 9
   },
   {
+    "word": "उमस",
+    "display": "उमस",
+    "normalized": "उमस",
+    "meaning_ja": "蒸し暑さ、不快な湿気",
+    "pos": "名詞（女）",
+    "category": "都市・環境",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
     "word": "ओलावृष्टि",
     "display": "ओलावृष्टि",
     "normalized": "ओलावृष्टि",
@@ -4030,6 +4108,19 @@
     "quizWeight": 9
   },
   {
+    "word": "कतार",
+    "display": "कतार",
+    "normalized": "कतार",
+    "meaning_ja": "列、行列",
+    "pos": "名詞（女）",
+    "category": "一般ニュース語彙",
+    "difficulty": 2,
+    "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
     "word": "कमर्शियल",
     "display": "कमर्शियल",
     "normalized": "कमर्शियल",
@@ -4062,6 +4153,19 @@
     "meaning_ja": "法的に",
     "pos": "副詞",
     "category": "選挙・裁判",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "किल्लत",
+    "display": "किल्लत",
+    "normalized": "किल्लत",
+    "meaning_ja": "不足、欠乏",
+    "pos": "名詞（女）",
+    "category": "都市・環境",
     "difficulty": 4,
     "importance": 4,
     "sourceCount": 1,
@@ -4459,6 +4563,19 @@
     "quizWeight": 9
   },
   {
+    "word": "छापा",
+    "display": "छापा",
+    "normalized": "छापा",
+    "meaning_ja": "強制捜索、ガサ入れ",
+    "pos": "名詞（男）",
+    "category": "事件・事故",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
     "word": "जबरदस्त",
     "display": "जबरदस्त",
     "normalized": "जबरदस्त",
@@ -4480,6 +4597,32 @@
     "category": "一般ニュース語彙",
     "difficulty": 2,
     "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "जलभराव",
+    "display": "जलभराव",
+    "normalized": "जलभराव",
+    "meaning_ja": "冠水、水たまり状態",
+    "pos": "名詞（男）",
+    "category": "都市・環境",
+    "difficulty": 5,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "जलापूर्ति",
+    "display": "जलापूर्ति",
+    "normalized": "जलापूर्ति",
+    "meaning_ja": "給水、水供給",
+    "pos": "名詞（女）",
+    "category": "都市・環境",
+    "difficulty": 5,
+    "importance": 4,
     "sourceCount": 1,
     "frequency": 1,
     "quizWeight": 9
@@ -4875,6 +5018,19 @@
     "quizWeight": 9
   },
   {
+    "word": "नेतृत्व",
+    "display": "नेतृत्व",
+    "normalized": "नेतृत्व",
+    "meaning_ja": "指導、統率、リーダーシップ",
+    "pos": "名詞（男）",
+    "category": "一般ニュース語彙",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
     "word": "न्याय के दायरे में लाना",
     "display": "न्याय के दायरे में लाना",
     "normalized": "न्याय_के_दायरे_में_लाना",
@@ -4966,6 +5122,19 @@
     "quizWeight": 9
   },
   {
+    "word": "पारा",
+    "display": "पारा",
+    "normalized": "पारा",
+    "meaning_ja": "気温、水銀柱",
+    "pos": "名詞（男）",
+    "category": "調査・統計",
+    "difficulty": 3,
+    "importance": 3,
+    "sourceCount": 2,
+    "frequency": 2,
+    "quizWeight": 9
+  },
+  {
     "word": "पीड़िता",
     "display": "पीड़िता",
     "normalized": "पीड़िता",
@@ -5037,6 +5206,19 @@
     "meaning_ja": "システム、仕組み",
     "pos": "名詞（女）",
     "category": "行政・制度",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "प्रतिबंधित",
+    "display": "प्रतिबंधित",
+    "normalized": "प्रतिबंधित",
+    "meaning_ja": "禁止された、規制された",
+    "pos": "形容詞",
+    "category": "事件・事故",
     "difficulty": 4,
     "importance": 4,
     "sourceCount": 1,
@@ -5362,6 +5544,19 @@
     "meaning_ja": "糞尿、排泄物",
     "pos": "名詞（男）",
     "category": "都市・環境",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "मांझा",
+    "display": "मांझा",
+    "normalized": "मांझा",
+    "meaning_ja": "凧糸（特に研磨加工された危険糸）",
+    "pos": "名詞（男）",
+    "category": "事件・事故",
     "difficulty": 4,
     "importance": 4,
     "sourceCount": 1,
@@ -6786,19 +6981,6 @@
     "quizWeight": 8
   },
   {
-    "word": "पारा",
-    "display": "पारा",
-    "normalized": "पारा",
-    "meaning_ja": "気温、水銀柱",
-    "pos": "名詞（男）",
-    "category": "調査・統計",
-    "difficulty": 3,
-    "importance": 3,
-    "sourceCount": 1,
-    "frequency": 1,
-    "quizWeight": 8
-  },
-  {
     "word": "पालन",
     "display": "पालन",
     "normalized": "पालन",
@@ -7306,6 +7488,19 @@
     "quizWeight": 7
   },
   {
+    "word": "इम्तिहान",
+    "display": "इम्तिहान",
+    "normalized": "इम्तिहान",
+    "meaning_ja": "試練、試験",
+    "pos": "名詞（男）",
+    "category": "一般ニュース語彙",
+    "difficulty": 4,
+    "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 7
+  },
+  {
     "word": "इम्यूनोग्लोबुलिन",
     "display": "इम्यूनोग्लोबुलिन",
     "normalized": "इम्यूनोग्लोबुलिन",
@@ -7579,6 +7774,32 @@
     "quizWeight": 7
   },
   {
+    "word": "पतंगबाजी",
+    "display": "पतंगबाजी",
+    "normalized": "पतंगबाजी",
+    "meaning_ja": "凧揚げ",
+    "pos": "名詞（女）",
+    "category": "文化・宗教",
+    "difficulty": 4,
+    "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 7
+  },
+  {
+    "word": "परिसर",
+    "display": "परिसर",
+    "normalized": "परिसर",
+    "meaning_ja": "敷地、構内",
+    "pos": "名詞（男）",
+    "category": "事件・事故",
+    "difficulty": 4,
+    "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 7
+  },
+  {
     "word": "पलक झपकते ही",
     "display": "पलक झपकते ही",
     "normalized": "पलक_झपकते_ही",
@@ -7709,6 +7930,19 @@
     "quizWeight": 7
   },
   {
+    "word": "बेदम",
+    "display": "बेदम",
+    "normalized": "बेदम",
+    "meaning_ja": "弱り切った、活気のない",
+    "pos": "形容詞",
+    "category": "都市・環境",
+    "difficulty": 4,
+    "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 7
+  },
+  {
     "word": "ब्लैक मार्केटिंग",
     "display": "ब्लैक मार्केटिंग",
     "normalized": "ब्लैक_मार्केटिंग",
@@ -7729,6 +7963,19 @@
     "pos": "名詞（男）",
     "category": "医療・健康",
     "difficulty": 5,
+    "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 7
+  },
+  {
+    "word": "राहगीर",
+    "display": "राहगीर",
+    "normalized": "राहगीर",
+    "meaning_ja": "通行人、通りすがりの人",
+    "pos": "名詞（男）",
+    "category": "事件・事故",
+    "difficulty": 4,
     "importance": 3,
     "sourceCount": 1,
     "frequency": 1,
@@ -7884,6 +8131,19 @@
     "meaning_ja": "検証、照合、確認",
     "pos": "名詞（男）",
     "category": "調査・データ",
+    "difficulty": 4,
+    "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 7
+  },
+  {
+    "word": "सब्र",
+    "display": "सब्र",
+    "normalized": "सब्र",
+    "meaning_ja": "忍耐、我慢",
+    "pos": "名詞（男）",
+    "category": "一般ニュース語彙",
     "difficulty": 4,
     "importance": 3,
     "sourceCount": 1,
