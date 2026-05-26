@@ -13,6 +13,32 @@
     "quizWeight": 17
   },
   {
+    "word": "जांच",
+    "display": "जांच",
+    "normalized": "जांच",
+    "meaning_ja": "捜査、調査、検査",
+    "pos": "名詞（女）",
+    "category": "事件・事故",
+    "difficulty": 2,
+    "importance": 4,
+    "sourceCount": 6,
+    "frequency": 6,
+    "quizWeight": 16
+  },
+  {
+    "word": "निगरानी",
+    "display": "निगरानी",
+    "normalized": "निगरानी",
+    "meaning_ja": "監視、モニタリング",
+    "pos": "名詞（女）",
+    "category": "行政・制度",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 7,
+    "frequency": 7,
+    "quizWeight": 16
+  },
+  {
     "word": "प्रक्रिया",
     "display": "प्रक्रिया",
     "normalized": "प्रक्रिया",
@@ -52,19 +78,6 @@
     "quizWeight": 15
   },
   {
-    "word": "जांच",
-    "display": "जांच",
-    "normalized": "जांच",
-    "meaning_ja": "捜査、調査、検査",
-    "pos": "名詞（女）",
-    "category": "事件・事故",
-    "difficulty": 2,
-    "importance": 4,
-    "sourceCount": 5,
-    "frequency": 5,
-    "quizWeight": 15
-  },
-  {
     "word": "स्थिति",
     "display": "स्थिति",
     "normalized": "स्थिति",
@@ -78,11 +91,11 @@
     "quizWeight": 15
   },
   {
-    "word": "निगरानी",
-    "display": "निगरानी",
-    "normalized": "निगरानी",
-    "meaning_ja": "監視、モニタリング",
-    "pos": "名詞（女）",
+    "word": "निर्देश",
+    "display": "निर्देश",
+    "normalized": "निर्देश",
+    "meaning_ja": "指示、指令",
+    "pos": "名詞（男）",
     "category": "行政・制度",
     "difficulty": 3,
     "importance": 4,
@@ -221,19 +234,6 @@
     "quizWeight": 13
   },
   {
-    "word": "निर्देश",
-    "display": "निर्देश",
-    "normalized": "निर्देश",
-    "meaning_ja": "指示、指令",
-    "pos": "名詞（男）",
-    "category": "行政・制度",
-    "difficulty": 3,
-    "importance": 4,
-    "sourceCount": 4,
-    "frequency": 4,
-    "quizWeight": 13
-  },
-  {
     "word": "फंड",
     "display": "फंड",
     "normalized": "फंड",
@@ -292,6 +292,19 @@
     "meaning_ja": "最高裁判所",
     "pos": "名詞（男）",
     "category": "選挙・裁判",
+    "difficulty": 2,
+    "importance": 4,
+    "sourceCount": 3,
+    "frequency": 3,
+    "quizWeight": 13
+  },
+  {
+    "word": "हिंसा",
+    "display": "हिंसा",
+    "normalized": "हिंसा",
+    "meaning_ja": "暴力",
+    "pos": "名詞（女）",
+    "category": "事件・事故",
     "difficulty": 2,
     "importance": 4,
     "sourceCount": 3,
@@ -715,19 +728,6 @@
     "quizWeight": 12
   },
   {
-    "word": "हिंसा",
-    "display": "हिंसा",
-    "normalized": "हिंसा",
-    "meaning_ja": "暴力",
-    "pos": "名詞（女）",
-    "category": "事件・事故",
-    "difficulty": 2,
-    "importance": 4,
-    "sourceCount": 2,
-    "frequency": 2,
-    "quizWeight": 12
-  },
-  {
     "word": "अधिकार",
     "display": "अधिकार",
     "normalized": "अधिकार",
@@ -738,6 +738,19 @@
     "importance": 4,
     "sourceCount": 1,
     "frequency": 1,
+    "quizWeight": 11
+  },
+  {
+    "word": "अभियान",
+    "display": "अभियान",
+    "normalized": "अभियान",
+    "meaning_ja": "キャンペーン、活動",
+    "pos": "名詞（男）",
+    "category": "調査・データ",
+    "difficulty": 2,
+    "importance": 3,
+    "sourceCount": 3,
+    "frequency": 3,
     "quizWeight": 11
   },
   {
@@ -910,6 +923,19 @@
     "quizWeight": 11
   },
   {
+    "word": "गंभीरता",
+    "display": "गंभीरता",
+    "normalized": "गंभीरता",
+    "meaning_ja": "深刻さ、重大性",
+    "pos": "名詞（女）",
+    "category": "社会・公共",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 2,
+    "frequency": 2,
+    "quizWeight": 11
+  },
+  {
     "word": "गठन",
     "display": "गठन",
     "normalized": "गठन",
@@ -1037,19 +1063,6 @@
     "importance": 4,
     "sourceCount": 1,
     "frequency": 1,
-    "quizWeight": 11
-  },
-  {
-    "word": "निगरानी",
-    "display": "निगरानी",
-    "normalized": "निगरानी",
-    "meaning_ja": "監視、監督",
-    "pos": "名詞（女）",
-    "category": "行政・制度",
-    "difficulty": 3,
-    "importance": 4,
-    "sourceCount": 2,
-    "frequency": 2,
     "quizWeight": 11
   },
   {
@@ -1586,19 +1599,6 @@
     "quizWeight": 11
   },
   {
-    "word": "सीमा",
-    "display": "सीमा",
-    "normalized": "सीमा",
-    "meaning_ja": "国境、境界",
-    "pos": "名詞（女）",
-    "category": "行政・制度",
-    "difficulty": 2,
-    "importance": 4,
-    "sourceCount": 1,
-    "frequency": 1,
-    "quizWeight": 11
-  },
-  {
     "word": "सुधार",
     "display": "सुधार",
     "normalized": "सुधार",
@@ -1726,19 +1726,6 @@
     "importance": 4,
     "sourceCount": 1,
     "frequency": 1,
-    "quizWeight": 10
-  },
-  {
-    "word": "अभियान",
-    "display": "अभियान",
-    "normalized": "अभियान",
-    "meaning_ja": "キャンペーン、活動",
-    "pos": "名詞（男）",
-    "category": "調査・データ",
-    "difficulty": 2,
-    "importance": 3,
-    "sourceCount": 2,
-    "frequency": 2,
     "quizWeight": 10
   },
   {
@@ -1924,6 +1911,19 @@
     "quizWeight": 10
   },
   {
+    "word": "उमस",
+    "display": "उमस",
+    "normalized": "उमस",
+    "meaning_ja": "蒸し暑さ、不快な湿気",
+    "pos": "名詞（女）",
+    "category": "都市・環境",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 2,
+    "frequency": 2,
+    "quizWeight": 10
+  },
+  {
     "word": "एकजुट",
     "display": "एकजुट",
     "normalized": "एकजुट",
@@ -2099,19 +2099,6 @@
     "meaning_ja": "小売",
     "pos": "名詞（男）",
     "category": "労働・経済",
-    "difficulty": 3,
-    "importance": 4,
-    "sourceCount": 1,
-    "frequency": 1,
-    "quizWeight": 10
-  },
-  {
-    "word": "गंभीरता",
-    "display": "गंभीरता",
-    "normalized": "गंभीरता",
-    "meaning_ja": "深刻さ、重大性",
-    "pos": "名詞（女）",
-    "category": "社会・公共",
     "difficulty": 3,
     "importance": 4,
     "sourceCount": 1,
@@ -2444,19 +2431,6 @@
     "quizWeight": 10
   },
   {
-    "word": "निगरानी",
-    "display": "निगरानी",
-    "normalized": "निगरानी",
-    "meaning_ja": "監視、監督",
-    "pos": "名詞（女）",
-    "category": "行政・制度",
-    "difficulty": 3,
-    "importance": 4,
-    "sourceCount": 1,
-    "frequency": 1,
-    "quizWeight": 10
-  },
-  {
     "word": "नियुक्त करना",
     "display": "नियुक्त करना",
     "normalized": "नियुक्त_करना",
@@ -2554,6 +2528,32 @@
     "meaning_ja": "計画; プロジェクト",
     "pos": "名詞（女）",
     "category": "行政・制度",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 10
+  },
+  {
+    "word": "पर्यटन",
+    "display": "पर्यटन",
+    "normalized": "पर्यटन",
+    "meaning_ja": "観光、ツーリズム",
+    "pos": "名詞（男）",
+    "category": "文化・宗教",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 10
+  },
+  {
+    "word": "पर्यटन स्थल",
+    "display": "पर्यटन स्थल",
+    "normalized": "पर्यटन_स्थल",
+    "meaning_ja": "観光地、観光スポット",
+    "pos": "固定複合語",
+    "category": "文化・宗教",
     "difficulty": 3,
     "importance": 4,
     "sourceCount": 1,
@@ -2743,6 +2743,19 @@
     "quizWeight": 10
   },
   {
+    "word": "फंसना",
+    "display": "फंसना",
+    "normalized": "फंसना",
+    "meaning_ja": "閉じ込められる、動けなくなる",
+    "pos": "自動詞",
+    "category": "事件・事故",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 10
+  },
+  {
     "word": "फरार",
     "display": "फरार",
     "normalized": "फरार",
@@ -2814,6 +2827,19 @@
     "meaning_ja": "節約、貯蓄",
     "pos": "名詞（女）",
     "category": "労働・経済",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 10
+  },
+  {
+    "word": "बचाव",
+    "display": "बचाव",
+    "normalized": "बचाव",
+    "meaning_ja": "救助、防護",
+    "pos": "名詞（男）",
+    "category": "事件・事故",
     "difficulty": 3,
     "importance": 4,
     "sourceCount": 1,
@@ -3100,19 +3126,6 @@
     "meaning_ja": "施行される、適用される",
     "pos": "動詞句",
     "category": "重要動詞",
-    "difficulty": 3,
-    "importance": 4,
-    "sourceCount": 1,
-    "frequency": 1,
-    "quizWeight": 10
-  },
-  {
-    "word": "लू",
-    "display": "लू",
-    "normalized": "लू",
-    "meaning_ja": "熱風、熱波",
-    "pos": "名詞（女）",
-    "category": "都市・環境",
     "difficulty": 3,
     "importance": 4,
     "sourceCount": 1,
@@ -3448,26 +3461,13 @@
     "word": "सहमति",
     "display": "सहमति",
     "normalized": "सहमति",
-    "meaning_ja": "合意、同意",
+    "meaning_ja": "同意、合意",
     "pos": "名詞（女）",
-    "category": "行政・制度",
-    "difficulty": 3,
-    "importance": 4,
-    "sourceCount": 1,
-    "frequency": 1,
-    "quizWeight": 10
-  },
-  {
-    "word": "सहमति",
-    "display": "सहमति",
-    "normalized": "सहमति",
-    "meaning_ja": "合意、同意",
-    "pos": "名詞（女）",
-    "category": "行政・制度",
-    "difficulty": 3,
-    "importance": 4,
-    "sourceCount": 1,
-    "frequency": 1,
+    "category": "社会・公共",
+    "difficulty": 2,
+    "importance": 3,
+    "sourceCount": 2,
+    "frequency": 2,
     "quizWeight": 10
   },
   {
@@ -3541,19 +3541,6 @@
     "normalized": "सुनिश्चित",
     "meaning_ja": "確保された、保証された",
     "pos": "形容詞",
-    "category": "行政・制度",
-    "difficulty": 3,
-    "importance": 4,
-    "sourceCount": 1,
-    "frequency": 1,
-    "quizWeight": 10
-  },
-  {
-    "word": "सूत्र",
-    "display": "सूत्र",
-    "normalized": "सूत्र",
-    "meaning_ja": "情報筋、出典",
-    "pos": "名詞（男）",
     "category": "行政・制度",
     "difficulty": 3,
     "importance": 4,
@@ -3679,11 +3666,11 @@
     "quizWeight": 10
   },
   {
-    "word": "हिंसा",
-    "display": "हिंसा",
-    "normalized": "हिंसा",
-    "meaning_ja": "暴力",
-    "pos": "名詞（女）",
+    "word": "हादसा",
+    "display": "हादसा",
+    "normalized": "हादसा",
+    "meaning_ja": "事故、災難",
+    "pos": "名詞（男）",
     "category": "事件・事故",
     "difficulty": 3,
     "importance": 4,
@@ -4043,32 +4030,6 @@
     "quizWeight": 9
   },
   {
-    "word": "उमस",
-    "display": "उमस",
-    "normalized": "उमस",
-    "meaning_ja": "蒸し暑さ、不快な湿気",
-    "pos": "名詞（女）",
-    "category": "都市・環境",
-    "difficulty": 4,
-    "importance": 4,
-    "sourceCount": 1,
-    "frequency": 1,
-    "quizWeight": 9
-  },
-  {
-    "word": "उमस",
-    "display": "उमस",
-    "normalized": "उमस",
-    "meaning_ja": "蒸し暑さ、不快な湿気",
-    "pos": "名詞（女）",
-    "category": "都市・環境",
-    "difficulty": 4,
-    "importance": 4,
-    "sourceCount": 1,
-    "frequency": 1,
-    "quizWeight": 9
-  },
-  {
     "word": "ओलावृष्टि",
     "display": "ओलावृष्टि",
     "normalized": "ओलावृष्टि",
@@ -4076,19 +4037,6 @@
     "pos": "名詞（女）",
     "category": "都市・環境",
     "difficulty": 5,
-    "importance": 4,
-    "sourceCount": 1,
-    "frequency": 1,
-    "quizWeight": 9
-  },
-  {
-    "word": "कंटीले तार",
-    "display": "कंटीले तार",
-    "normalized": "कंटीले_तार",
-    "meaning_ja": "有刺鉄線",
-    "pos": "名詞（男）",
-    "category": "行政・制度",
-    "difficulty": 4,
     "importance": 4,
     "sourceCount": 1,
     "frequency": 1,
@@ -4498,19 +4446,6 @@
     "quizWeight": 9
   },
   {
-    "word": "घुसपैठ",
-    "display": "घुसपैठ",
-    "normalized": "घुसपैठ",
-    "meaning_ja": "不法侵入、越境侵入",
-    "pos": "名詞（女）",
-    "category": "行政・制度",
-    "difficulty": 4,
-    "importance": 4,
-    "sourceCount": 1,
-    "frequency": 1,
-    "quizWeight": 9
-  },
-  {
     "word": "चक्का जाम",
     "display": "चक्का जाम",
     "normalized": "चक्का_जाम",
@@ -4582,19 +4517,6 @@
     "meaning_ja": "すごい、強力な",
     "pos": "形容詞",
     "category": "社会・公共",
-    "difficulty": 2,
-    "importance": 3,
-    "sourceCount": 1,
-    "frequency": 1,
-    "quizWeight": 9
-  },
-  {
-    "word": "जमीन",
-    "display": "जमीन",
-    "normalized": "जमीन",
-    "meaning_ja": "土地、地面",
-    "pos": "名詞（女）",
-    "category": "一般ニュース語彙",
     "difficulty": 2,
     "importance": 3,
     "sourceCount": 1,
@@ -4752,19 +4674,6 @@
     "pos": "名詞（女）",
     "category": "都市・環境",
     "difficulty": 4,
-    "importance": 4,
-    "sourceCount": 1,
-    "frequency": 1,
-    "quizWeight": 9
-  },
-  {
-    "word": "तारबंदी",
-    "display": "तारबंदी",
-    "normalized": "तारबंदी",
-    "meaning_ja": "有刺鉄線設置、フェンス化",
-    "pos": "名詞（女）",
-    "category": "行政・制度",
-    "difficulty": 5,
     "importance": 4,
     "sourceCount": 1,
     "frequency": 1,
@@ -4989,6 +4898,19 @@
     "importance": 4,
     "sourceCount": 1,
     "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "निर्माण",
+    "display": "निर्माण",
+    "normalized": "निर्माण",
+    "meaning_ja": "建設、構築、製造",
+    "pos": "名詞（男）",
+    "category": "一般ニュース語彙",
+    "difficulty": 3,
+    "importance": 3,
+    "sourceCount": 2,
+    "frequency": 2,
     "quizWeight": 9
   },
   {
@@ -5343,19 +5265,6 @@
     "quizWeight": 9
   },
   {
-    "word": "फ्लैग मीटिंग",
-    "display": "फ्लैग मीटिंग",
-    "normalized": "फ्लैग_मीटिंग",
-    "meaning_ja": "国境部隊間の公式協議",
-    "pos": "名詞（女）",
-    "category": "行政・制度",
-    "difficulty": 5,
-    "importance": 4,
-    "sourceCount": 1,
-    "frequency": 1,
-    "quizWeight": 9
-  },
-  {
     "word": "बंध्याकरण",
     "display": "बंध्याकरण",
     "normalized": "बंध्याकरण",
@@ -5386,32 +5295,6 @@
     "display": "बीएसएफ",
     "normalized": "बीएसएफ",
     "meaning_ja": "BSF（Border Security Force：インド国境警備隊）",
-    "pos": "名詞（女）",
-    "category": "行政・制度",
-    "difficulty": 5,
-    "importance": 4,
-    "sourceCount": 1,
-    "frequency": 1,
-    "quizWeight": 9
-  },
-  {
-    "word": "बीएसएफ",
-    "display": "बीएसएफ",
-    "normalized": "बीएसएफ",
-    "meaning_ja": "BSF（Border Security Force：インド国境警備隊）",
-    "pos": "名詞（女）",
-    "category": "行政・制度",
-    "difficulty": 5,
-    "importance": 4,
-    "sourceCount": 1,
-    "frequency": 1,
-    "quizWeight": 9
-  },
-  {
-    "word": "बीजीबी",
-    "display": "बीजीबी",
-    "normalized": "बीजीबी",
-    "meaning_ja": "BGB（Border Guard Bangladesh：バングラデシュ国境警備隊）",
     "pos": "名詞（女）",
     "category": "行政・制度",
     "difficulty": 5,
@@ -5629,19 +5512,6 @@
     "quizWeight": 9
   },
   {
-    "word": "माहौल",
-    "display": "माहौल",
-    "normalized": "माहौल",
-    "meaning_ja": "雰囲気、情勢",
-    "pos": "名詞（男）",
-    "category": "一般ニュース語彙",
-    "difficulty": 2,
-    "importance": 3,
-    "sourceCount": 1,
-    "frequency": 1,
-    "quizWeight": 9
-  },
-  {
     "word": "मुकाम",
     "display": "मुकाम",
     "normalized": "मुकाम",
@@ -5811,19 +5681,6 @@
     "quizWeight": 9
   },
   {
-    "word": "रोक",
-    "display": "रोक",
-    "normalized": "रोक",
-    "meaning_ja": "停止、阻止",
-    "pos": "名詞（女）",
-    "category": "一般ニュース語彙",
-    "difficulty": 2,
-    "importance": 3,
-    "sourceCount": 1,
-    "frequency": 1,
-    "quizWeight": 9
-  },
-  {
     "word": "लकड़ी",
     "display": "लकड़ी",
     "normalized": "लकडी",
@@ -5847,6 +5704,19 @@
     "importance": 4,
     "sourceCount": 1,
     "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "लू",
+    "display": "लू",
+    "normalized": "लू",
+    "meaning_ja": "熱波、熱風",
+    "pos": "名詞（女）",
+    "category": "調査・統計",
+    "difficulty": 3,
+    "importance": 3,
+    "sourceCount": 2,
+    "frequency": 2,
     "quizWeight": 9
   },
   {
@@ -6071,6 +5941,19 @@
     "quizWeight": 9
   },
   {
+    "word": "संचालन",
+    "display": "संचालन",
+    "normalized": "संचालन",
+    "meaning_ja": "運営、運行、運用",
+    "pos": "名詞（男）",
+    "category": "一般ニュース語彙",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
     "word": "संचालित करना",
     "display": "संचालित करना",
     "normalized": "संचालित_करना",
@@ -6201,19 +6084,6 @@
     "quizWeight": 9
   },
   {
-    "word": "सहमति",
-    "display": "सहमति",
-    "normalized": "सहमति",
-    "meaning_ja": "同意、合意",
-    "pos": "名詞（女）",
-    "category": "社会・公共",
-    "difficulty": 2,
-    "importance": 3,
-    "sourceCount": 1,
-    "frequency": 1,
-    "quizWeight": 9
-  },
-  {
     "word": "सामर्थ्य",
     "display": "सामर्थ्य",
     "normalized": "सामर्थ्य",
@@ -6279,32 +6149,6 @@
     "quizWeight": 9
   },
   {
-    "word": "सीमा विवाद",
-    "display": "सीमा विवाद",
-    "normalized": "सीमा_विवाद",
-    "meaning_ja": "国境紛争",
-    "pos": "名詞（男）",
-    "category": "行政・制度",
-    "difficulty": 5,
-    "importance": 4,
-    "sourceCount": 1,
-    "frequency": 1,
-    "quizWeight": 9
-  },
-  {
-    "word": "सीमा सुरक्षा",
-    "display": "सीमा सुरक्षा",
-    "normalized": "सीमा_सुरक्षा",
-    "meaning_ja": "国境警備",
-    "pos": "名詞（女）",
-    "category": "行政・制度",
-    "difficulty": 4,
-    "importance": 4,
-    "sourceCount": 1,
-    "frequency": 1,
-    "quizWeight": 9
-  },
-  {
     "word": "सीमा सुरक्षा",
     "display": "सीमा सुरक्षा",
     "normalized": "सीमा_सुरक्षा",
@@ -6326,6 +6170,19 @@
     "category": "選挙・裁判",
     "difficulty": 4,
     "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "सुरक्षित",
+    "display": "सुरक्षित",
+    "normalized": "सुरक्षित",
+    "meaning_ja": "安全な、無事な",
+    "pos": "形容詞",
+    "category": "事件・事故",
+    "difficulty": 2,
+    "importance": 3,
     "sourceCount": 1,
     "frequency": 1,
     "quizWeight": 9
@@ -6415,6 +6272,19 @@
     "meaning_ja": "最終段階、最後の局面",
     "pos": "名詞（男）",
     "category": "社会・公共",
+    "difficulty": 3,
+    "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 8
+  },
+  {
+    "word": "अटकना",
+    "display": "अटकना",
+    "normalized": "अटकना",
+    "meaning_ja": "引っかかる、停止する",
+    "pos": "自動詞",
+    "category": "事件・事故",
     "difficulty": 3,
     "importance": 3,
     "sourceCount": 1,
@@ -6916,51 +6786,25 @@
     "quizWeight": 8
   },
   {
-    "word": "निर्माण",
-    "display": "निर्माण",
-    "normalized": "निर्माण",
-    "meaning_ja": "建設、製造",
-    "pos": "名詞（男）",
-    "category": "労働・経済",
-    "difficulty": 3,
-    "importance": 3,
-    "sourceCount": 1,
-    "frequency": 1,
-    "quizWeight": 8
-  },
-  {
-    "word": "निर्माण",
-    "display": "निर्माण",
-    "normalized": "निर्माण",
-    "meaning_ja": "建設、構築",
-    "pos": "名詞（男）",
-    "category": "一般ニュース語彙",
-    "difficulty": 3,
-    "importance": 3,
-    "sourceCount": 1,
-    "frequency": 1,
-    "quizWeight": 8
-  },
-  {
-    "word": "निर्माण",
-    "display": "निर्माण",
-    "normalized": "निर्माण",
-    "meaning_ja": "建設、構築",
-    "pos": "名詞（男）",
-    "category": "一般ニュース語彙",
-    "difficulty": 3,
-    "importance": 3,
-    "sourceCount": 1,
-    "frequency": 1,
-    "quizWeight": 8
-  },
-  {
     "word": "निवासी",
     "display": "निवासी",
     "normalized": "निवासी",
     "meaning_ja": "住民、居住者",
     "pos": "名詞（男）",
     "category": "社会・公共",
+    "difficulty": 3,
+    "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 8
+  },
+  {
+    "word": "पर्यटक",
+    "display": "पर्यटक",
+    "normalized": "पर्यटक",
+    "meaning_ja": "観光客",
+    "pos": "名詞（男）",
+    "category": "文化・宗教",
     "difficulty": 3,
     "importance": 3,
     "sourceCount": 1,
@@ -7056,6 +6900,19 @@
     "importance": 3,
     "sourceCount": 2,
     "frequency": 2,
+    "quizWeight": 8
+  },
+  {
+    "word": "फिलहाल",
+    "display": "फिलहाल",
+    "normalized": "फिलहाल",
+    "meaning_ja": "当面のところ、現時点では",
+    "pos": "副詞",
+    "category": "一般ニュース語彙",
+    "difficulty": 3,
+    "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
     "quizWeight": 8
   },
   {
@@ -7293,12 +7150,12 @@
     "quizWeight": 8
   },
   {
-    "word": "लू",
-    "display": "लू",
-    "normalized": "लू",
-    "meaning_ja": "熱波、熱風",
-    "pos": "名詞（女）",
-    "category": "調査・統計",
+    "word": "लटकना",
+    "display": "लटकना",
+    "normalized": "लटकना",
+    "meaning_ja": "ぶら下がる、宙づりになる",
+    "pos": "自動詞",
+    "category": "事件・事故",
     "difficulty": 3,
     "importance": 3,
     "sourceCount": 1,
@@ -7345,12 +7202,12 @@
     "quizWeight": 8
   },
   {
-    "word": "संवाद",
-    "display": "संवाद",
-    "normalized": "संवाद",
-    "meaning_ja": "対話、協議",
+    "word": "सवार",
+    "display": "सवार",
+    "normalized": "सवार",
+    "meaning_ja": "乗客、乗っている人",
     "pos": "名詞（男）",
-    "category": "行政・制度",
+    "category": "事件・事故",
     "difficulty": 3,
     "importance": 3,
     "sourceCount": 1,
@@ -7566,19 +7423,6 @@
     "quizWeight": 7
   },
   {
-    "word": "कारिडोर",
-    "display": "कारिडोर",
-    "normalized": "कारिडोर",
-    "meaning_ja": "コリドー、通路",
-    "pos": "名詞（男）",
-    "category": "行政・制度",
-    "difficulty": 4,
-    "importance": 3,
-    "sourceCount": 1,
-    "frequency": 1,
-    "quizWeight": 7
-  },
-  {
     "word": "कीमतों में इजाफा",
     "display": "कीमतों में इजाफा",
     "normalized": "कीमतों_में_इजाफा",
@@ -7612,19 +7456,6 @@
     "pos": "表現",
     "category": "事件・事故",
     "difficulty": 5,
-    "importance": 3,
-    "sourceCount": 1,
-    "frequency": 1,
-    "quizWeight": 7
-  },
-  {
-    "word": "गलियारा",
-    "display": "गलियारा",
-    "normalized": "गलियारा",
-    "meaning_ja": "回廊、通路、コリドー",
-    "pos": "名詞（男）",
-    "category": "行政・制度",
-    "difficulty": 4,
     "importance": 3,
     "sourceCount": 1,
     "frequency": 1,
@@ -8222,19 +8053,6 @@
     "meaning_ja": "直接的な負担がかかる",
     "pos": "表現",
     "category": "労働・経済",
-    "difficulty": 4,
-    "importance": 3,
-    "sourceCount": 1,
-    "frequency": 1,
-    "quizWeight": 7
-  },
-  {
-    "word": "सीमा क्षेत्र",
-    "display": "सीमा क्षेत्र",
-    "normalized": "सीमा_क्षेत्र",
-    "meaning_ja": "国境地域",
-    "pos": "名詞（男）",
-    "category": "行政・制度",
     "difficulty": 4,
     "importance": 3,
     "sourceCount": 1,

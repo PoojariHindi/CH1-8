@@ -1,0 +1,310 @@
+{
+  "id": "bolly_056",
+  "schema_version": 2,
+
+  "title": "Sapne Re",
+  "film": "Secret Superstar",
+  "year": 2017,
+
+  "singer": [
+    "Meghna Mishra"
+  ],
+
+  "lyricist": [
+    "Kausar Munir"
+  ],
+
+  "composer": [
+    "Amit Trivedi"
+  ],
+
+  "notes": [
+    "アーミル"
+  ],
+
+  "tags": [
+    "夢"
+  ],
+
+  "emotion": "hopeful_tender",
+  "register": "simple_poetic",
+
+  "key_phrase": "सपने रे सपने रे सपने मेरे, सच हो जाना रे",
+
+  "expressions": [
+    {
+      "text": "चोरी से चोरी से",
+      "normalized": "चोरी से चोरी से",
+      "meaning_ja": "こっそりと、ひそかに",
+      "type": "expression",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "छुप छुप के",
+      "normalized": "छुप छुप के",
+      "meaning_ja": "隠れながら、ひそかに",
+      "type": "expression",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "तिनका तिनका चुन के",
+      "normalized": "तिनका तिनका चुन के",
+      "meaning_ja": "一本一本のわらを集めるように",
+      "type": "metaphor",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "सपना एक बनाया",
+      "normalized": "सपना एक बनाया",
+      "meaning_ja": "ひとつの夢を作り上げた",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "डोरी से डोरी से",
+      "normalized": "डोरी से डोरी से",
+      "meaning_ja": "一本一本の糸で",
+      "type": "poetic",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "बुन बुन के",
+      "normalized": "बुन बुन के",
+      "meaning_ja": "何度も織りながら",
+      "type": "expression",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "टुकड़ा टुकड़ा सी के",
+      "normalized": "टुकड़ा टुकड़ा सी के",
+      "meaning_ja": "一片一片を縫い合わせて",
+      "type": "metaphor",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "सच हो जाना रे",
+      "normalized": "सच हो जाना रे",
+      "meaning_ja": "本当になっておくれ",
+      "type": "key_phrase",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "डायरी में छुपा दूँ",
+      "normalized": "डायरी में छुपा दूं",
+      "meaning_ja": "日記の中に隠しておこう",
+      "type": "poetic",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "चोटी में बाँधू",
+      "normalized": "चोटी में बांधूं",
+      "meaning_ja": "髪の三つ編みに結んでおこう",
+      "type": "poetic",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "कहीं किसी को ना दिख जाए",
+      "normalized": "कहीं किसी को ना दिख जाए",
+      "meaning_ja": "誰かに見つかってしまわないように",
+      "type": "expression",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "हाथ तेरा कस के पकड़ लू",
+      "normalized": "हाथ तेरा कस के पकड़ लूं",
+      "meaning_ja": "君の手をしっかり握ろう",
+      "type": "expression",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "साथ साथ तेरे मैं चल दू",
+      "normalized": "साथ साथ तेरे मैं चल दूं",
+      "meaning_ja": "君と一緒に歩き出そう",
+      "type": "expression",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "डर तुझे ना किसी से लग जाए",
+      "normalized": "डर तुझे ना किसी से लग जाए",
+      "meaning_ja": "君が誰かを怖がることのないように",
+      "type": "expression",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "रातों को जग जग के",
+      "normalized": "रातों को जग जग के",
+      "meaning_ja": "夜ごとに起き続けて",
+      "type": "expression",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "तारा तारा चुन के",
+      "normalized": "तारा तारा चुन के",
+      "meaning_ja": "星をひとつひとつ選び取って",
+      "type": "poetic",
+      "importance": 4,
+      "status": "active"
+    }
+  ],
+
+  "vocab_candidates": [
+    {
+      "word": "चोरी",
+      "normalized": "चोरी",
+      "pos": "名詞（女）",
+      "meaning_ja": "盗み、こっそりすること",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "छुपना",
+      "normalized": "छुपना",
+      "pos": "自動詞",
+      "meaning_ja": "隠れる",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "तिनका",
+      "normalized": "तिनका",
+      "pos": "名詞（男）",
+      "meaning_ja": "わら、細い小片",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "चुनना",
+      "normalized": "चुनना",
+      "pos": "他動詞",
+      "meaning_ja": "選ぶ、拾い集める",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "सपना",
+      "normalized": "सपना",
+      "pos": "名詞（男）",
+      "meaning_ja": "夢",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "डोरी",
+      "normalized": "डोरी",
+      "pos": "名詞（女）",
+      "meaning_ja": "ひも、細い糸",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "बुनना",
+      "normalized": "बुनना",
+      "pos": "他動詞",
+      "meaning_ja": "織る、編む",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "टुकड़ा",
+      "normalized": "टुकड़ा",
+      "pos": "名詞（男）",
+      "meaning_ja": "かけら、一片",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "सीना",
+      "normalized": "सीना",
+      "pos": "他動詞",
+      "meaning_ja": "縫う",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "डायरी",
+      "normalized": "डायरी",
+      "pos": "名詞（女）",
+      "meaning_ja": "日記、ダイアリー",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "चोटी",
+      "normalized": "चोटी",
+      "pos": "名詞（女）",
+      "meaning_ja": "三つ編み、髪の束",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "बाँधना",
+      "normalized": "बांधना",
+      "pos": "他動詞",
+      "meaning_ja": "結ぶ、縛る",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "कसना",
+      "normalized": "कसना",
+      "pos": "他動詞",
+      "meaning_ja": "きつく締める、しっかり固定する",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "पकड़ना",
+      "normalized": "पकड़ना",
+      "pos": "他動詞",
+      "meaning_ja": "つかむ、握る",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "डर",
+      "normalized": "डर",
+      "pos": "名詞（男）",
+      "meaning_ja": "恐れ、怖さ",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "जगना",
+      "normalized": "जगना",
+      "pos": "自動詞",
+      "meaning_ja": "目覚める、起きている",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "तारा",
+      "normalized": "तारा",
+      "pos": "名詞（男）",
+      "meaning_ja": "星",
+      "importance": 4,
+      "status": "active"
+    }
+  ],
+
+  "meta": {
+    "copyright_safe": true,
+    "lyrics_included": false,
+    "source_type": "manual_curated",
+    "dedupe_ready": true
+  }
+}

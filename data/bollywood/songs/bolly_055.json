@@ -1,0 +1,360 @@
+{
+  "id": "bolly_055",
+  "schema_version": 2,
+
+  "title": "Nashe Si Chadh Gayi",
+  "film": "Befikre",
+  "year": 2016,
+
+  "singer": [
+    "Arijit Singh",
+    "Caralisa Monteiro"
+  ],
+
+  "lyricist": [
+    "Jaideep Sahni",
+    "Caralisa Monteiro"
+  ],
+
+  "composer": [
+    "Vishal Shekhar"
+  ],
+
+  "notes": [
+    "ランヴィール"
+  ],
+
+  "tags": [
+    "ダンス"
+  ],
+
+  "emotion": "playful_intoxicated",
+  "register": "modern_poetic",
+
+  "key_phrase": "नशे सी चढ़ गयी",
+
+  "expressions": [
+    {
+      "text": "नशे सी चढ़ गयी",
+      "normalized": "नशे सी चढ़ गयी",
+      "meaning_ja": "酔いのように込み上げてきた",
+      "type": "metaphor",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "पतंग सी लड़ गयी",
+      "normalized": "पतंग सी लड़ गयी",
+      "meaning_ja": "凧のように絡み合った",
+      "type": "metaphor",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "दिल के पेंचे",
+      "normalized": "दिल के पेंचे",
+      "meaning_ja": "心のもつれ",
+      "type": "poetic",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "गले ही पड़ गयी",
+      "normalized": "गले ही पड़ गयी",
+      "meaning_ja": "すっかりまとわりついてきた",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "उड़ती पतंग जैसे",
+      "normalized": "उड़ती पतंग जैसे",
+      "meaning_ja": "空飛ぶ凧のように",
+      "type": "poetic",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "मस्त मलंग जैसे",
+      "normalized": "मस्त मलंग जैसे",
+      "meaning_ja": "酔いしれた放浪者のように",
+      "type": "sufi",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "करंट जैसे",
+      "normalized": "करंट जैसे",
+      "meaning_ja": "電流のように",
+      "type": "metaphor",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "वारंट जैसे",
+      "normalized": "वारंट जैसे",
+      "meaning_ja": "逮捕状のように",
+      "type": "modern",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "नेट से टोरेंट जैसे",
+      "normalized": "नेट से टोरेंट जैसे",
+      "meaning_ja": "ネットから落としたトレントのように",
+      "type": "modern",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "दिल की दरार में",
+      "normalized": "दिल की दरार में",
+      "meaning_ja": "心の亀裂の中に",
+      "type": "poetic",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "प्यार का सीमेंट",
+      "normalized": "प्यार का सीमेंट",
+      "meaning_ja": "愛のセメント",
+      "type": "metaphor",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "अखियों ही अखियों में",
+      "normalized": "अखियों ही अखियों में",
+      "meaning_ja": "視線だけで",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "जुबां पे चढ़ गयी",
+      "normalized": "जुबां पे चढ़ गयी",
+      "meaning_ja": "口癖のようになった",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "लहू में बढ़ गयी",
+      "normalized": "लहू में बढ़ गयी",
+      "meaning_ja": "血の中にまで広がった",
+      "type": "metaphor",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "कमली कहानियों सी",
+      "normalized": "कमली कहानियों सी",
+      "meaning_ja": "狂おしい物語のように",
+      "type": "poetic",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "जंगली जवानियों सी",
+      "normalized": "जंगली जवानियों सी",
+      "meaning_ja": "野性的な青春のように",
+      "type": "poetic",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "पल-पल पानियों से",
+      "normalized": "पल पल पानियों से",
+      "meaning_ja": "刻々と流れる水のように",
+      "type": "poetic",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "हस्ती शैतानियों सी",
+      "normalized": "हस्ती शैतानियों सी",
+      "meaning_ja": "いたずらっぽい存在のように",
+      "type": "expression",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "मेहेर्बनियों से",
+      "normalized": "मेहरबानियों से",
+      "meaning_ja": "優しさによって",
+      "type": "expression",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "हंस के कलेजा मंगदी ऐ",
+      "normalized": "हंस के कलेजा मंगदी ऐ",
+      "meaning_ja": "笑いながら心臓を求めてくる",
+      "type": "poetic",
+      "importance": 4,
+      "status": "active"
+    }
+  ],
+
+  "vocab_candidates": [
+    {
+      "word": "नशा",
+      "normalized": "नशा",
+      "pos": "名詞（男）",
+      "meaning_ja": "酔い、陶酔",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "पतंग",
+      "normalized": "पतंग",
+      "pos": "名詞（女）",
+      "meaning_ja": "凧",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "पेंच",
+      "normalized": "पेंच",
+      "pos": "名詞（男）",
+      "meaning_ja": "もつれ、ねじれ",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "मलंग",
+      "normalized": "मलंग",
+      "pos": "名詞（男）",
+      "meaning_ja": "放浪の修行者、自由人",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "करंट",
+      "normalized": "करंट",
+      "pos": "名詞（男）",
+      "meaning_ja": "電流",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "वारंट",
+      "normalized": "वारंट",
+      "pos": "名詞（男）",
+      "meaning_ja": "逮捕状、令状",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "टोरेंट",
+      "normalized": "टोरेंट",
+      "pos": "名詞（男）",
+      "meaning_ja": "トレント共有ファイル",
+      "importance": 2,
+      "status": "active"
+    },
+    {
+      "word": "बसंत",
+      "normalized": "बसंत",
+      "pos": "名詞（男）",
+      "meaning_ja": "春",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "कलंक",
+      "normalized": "कलंक",
+      "pos": "名詞（男）",
+      "meaning_ja": "汚名、汚れ",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "दरार",
+      "normalized": "दरार",
+      "pos": "名詞（女）",
+      "meaning_ja": "亀裂、ひび",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "सीमेंट",
+      "normalized": "सीमेंट",
+      "pos": "名詞（男）",
+      "meaning_ja": "セメント",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "जुबां",
+      "normalized": "जुबां",
+      "pos": "名詞（女）",
+      "meaning_ja": "舌、言葉",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "लहू",
+      "normalized": "लहू",
+      "pos": "名詞（男）",
+      "meaning_ja": "血",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "कमली",
+      "normalized": "कमली",
+      "pos": "形容詞",
+      "meaning_ja": "狂おしい、夢中の",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "जवानी",
+      "normalized": "जवानी",
+      "pos": "名詞（女）",
+      "meaning_ja": "青春、若さ",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "रावानी",
+      "normalized": "रावानी",
+      "pos": "名詞（女）",
+      "meaning_ja": "流れ、流動感",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "शैतानी",
+      "normalized": "शैतानी",
+      "pos": "名詞（女）",
+      "meaning_ja": "いたずらっぽさ",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "मेहेर्बानी",
+      "normalized": "मेहरबानी",
+      "pos": "名詞（女）",
+      "meaning_ja": "親切、恩恵",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "कलेजा",
+      "normalized": "कलेजा",
+      "pos": "名詞（男）",
+      "meaning_ja": "心臓、心",
+      "importance": 4,
+      "status": "active"
+    }
+  ],
+
+  "meta": {
+    "copyright_safe": true,
+    "lyrics_included": false,
+    "source_type": "manual_curated",
+    "dedupe_ready": true
+  }
+}

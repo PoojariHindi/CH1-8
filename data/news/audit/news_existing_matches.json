@@ -1,51 +1,9 @@
 {
-  "generatedAt": "2026-05-24T23:13:27.345Z",
-  "count": 8,
+  "generatedAt": "2026-05-26T01:56:47.019Z",
+  "count": 9,
   "items": [
     {
-      "candidateIndex": 5,
-      "word": "बरामद",
-      "display": "बरामद",
-      "normalized": "बरामद",
-      "compareKey": "बरामद",
-      "variants": [],
-      "pos": "",
-      "meaning": "",
-      "meaning_ja": "",
-      "category": "事件・事故",
-      "originalCategory": "事件・事故",
-      "importance": 3,
-      "sourceId": "news035_NBT20260525_Manjha",
-      "sourceIds": [],
-      "raw": {
-        "word": "बरामद",
-        "display": "बरामद",
-        "normalized": "बरामद",
-        "variants": [],
-        "meaning_ja": "",
-        "pos": "",
-        "category": "事件・事故",
-        "importance": 3,
-        "sourceId": "news035_NBT20260525_Manjha"
-      },
-      "checkStatus": "existing",
-      "reason": "strict key match",
-      "warnings": [
-        "missing meaning_ja",
-        "missing pos"
-      ],
-      "matchedMasterIndex": 160,
-      "matchedMaster": {
-        "index": 160,
-        "word": "बरामद",
-        "display": "",
-        "normalized": "बरामद"
-      },
-      "matchedMasterIndexes": [],
-      "matchedMasters": []
-    },
-    {
-      "candidateIndex": 14,
+      "candidateIndex": 31,
       "word": "पुलिस",
       "display": "पुलिस",
       "normalized": "पुलिस",
@@ -57,7 +15,7 @@
       "category": "事件・事故",
       "originalCategory": "事件・事故",
       "importance": 3,
-      "sourceId": "news035_NBT20260525_Manjha",
+      "sourceId": "news036_DJ20260526_Ropeway",
       "sourceIds": [],
       "raw": {
         "word": "पुलिस",
@@ -68,7 +26,7 @@
         "pos": "",
         "category": "事件・事故",
         "importance": 3,
-        "sourceId": "news035_NBT20260525_Manjha"
+        "sourceId": "news036_DJ20260526_Ropeway"
       },
       "checkStatus": "existing",
       "reason": "strict key match",
@@ -87,11 +45,11 @@
       "matchedMasters": []
     },
     {
-      "candidateIndex": 16,
-      "word": "गिरफ्तार",
-      "display": "गिरफ्तार",
-      "normalized": "गिरफ्तार",
-      "compareKey": "गिरफ्तार",
+      "candidateIndex": 37,
+      "word": "अभियान",
+      "display": "अभियान",
+      "normalized": "अभियान",
+      "compareKey": "अभियान",
       "variants": [],
       "pos": "",
       "meaning": "",
@@ -99,18 +57,18 @@
       "category": "事件・事故",
       "originalCategory": "事件・事故",
       "importance": 3,
-      "sourceId": "news035_NBT20260525_Manjha",
+      "sourceId": "news036_DJ20260526_Ropeway",
       "sourceIds": [],
       "raw": {
-        "word": "गिरफ्तार",
-        "display": "गिरफ्तार",
-        "normalized": "गिरफ्तार",
+        "word": "अभियान",
+        "display": "अभियान",
+        "normalized": "अभियान",
         "variants": [],
         "meaning_ja": "",
         "pos": "",
         "category": "事件・事故",
         "importance": 3,
-        "sourceId": "news035_NBT20260525_Manjha"
+        "sourceId": "news036_DJ20260526_Ropeway"
       },
       "checkStatus": "existing",
       "reason": "strict key match",
@@ -118,22 +76,22 @@
         "missing meaning_ja",
         "missing pos"
       ],
-      "matchedMasterIndex": 134,
+      "matchedMasterIndex": 91,
       "matchedMaster": {
-        "index": 134,
-        "word": "गिरफ्तार",
+        "index": 91,
+        "word": "अभियान",
         "display": "",
-        "normalized": "गिरफ्तार"
+        "normalized": "अभियान"
       },
       "matchedMasterIndexes": [],
       "matchedMasters": []
     },
     {
-      "candidateIndex": 62,
-      "word": "घायल",
-      "display": "घायल",
-      "normalized": "घायल",
-      "compareKey": "घायल",
+      "candidateIndex": 61,
+      "word": "निगरानी",
+      "display": "निगरानी",
+      "normalized": "निगरानी",
+      "compareKey": "निगरानी",
       "variants": [],
       "pos": "",
       "meaning": "",
@@ -141,18 +99,18 @@
       "category": "事件・事故",
       "originalCategory": "事件・事故",
       "importance": 3,
-      "sourceId": "news035_NBT20260525_Manjha",
+      "sourceId": "news036_DJ20260526_Ropeway",
       "sourceIds": [],
       "raw": {
-        "word": "घायल",
-        "display": "घायल",
-        "normalized": "घायल",
+        "word": "निगरानी",
+        "display": "निगरानी",
+        "normalized": "निगरानी",
         "variants": [],
         "meaning_ja": "",
         "pos": "",
         "category": "事件・事故",
         "importance": 3,
-        "sourceId": "news035_NBT20260525_Manjha"
+        "sourceId": "news036_DJ20260526_Ropeway"
       },
       "checkStatus": "existing",
       "reason": "strict key match",
@@ -160,144 +118,18 @@
         "missing meaning_ja",
         "missing pos"
       ],
-      "matchedMasterIndex": 204,
+      "matchedMasterIndex": 56,
       "matchedMaster": {
-        "index": 204,
-        "word": "घायल",
+        "index": 56,
+        "word": "निगरानी",
         "display": "",
-        "normalized": "घायल"
+        "normalized": "निगरानी"
       },
       "matchedMasterIndexes": [],
       "matchedMasters": []
     },
     {
-      "candidateIndex": 65,
-      "word": "मौत",
-      "display": "मौत",
-      "normalized": "मौत",
-      "compareKey": "मौत",
-      "variants": [],
-      "pos": "",
-      "meaning": "",
-      "meaning_ja": "",
-      "category": "事件・事故",
-      "originalCategory": "事件・事故",
-      "importance": 3,
-      "sourceId": "news035_NBT20260525_Manjha",
-      "sourceIds": [],
-      "raw": {
-        "word": "मौत",
-        "display": "मौत",
-        "normalized": "मौत",
-        "variants": [],
-        "meaning_ja": "",
-        "pos": "",
-        "category": "事件・事故",
-        "importance": 3,
-        "sourceId": "news035_NBT20260525_Manjha"
-      },
-      "checkStatus": "existing",
-      "reason": "strict key match",
-      "warnings": [
-        "missing meaning_ja",
-        "missing pos"
-      ],
-      "matchedMasterIndex": 5,
-      "matchedMaster": {
-        "index": 5,
-        "word": "मौत",
-        "display": "",
-        "normalized": "मौत"
-      },
-      "matchedMasterIndexes": [],
-      "matchedMasters": []
-    },
-    {
-      "candidateIndex": 89,
-      "word": "निवासी",
-      "display": "निवासी",
-      "normalized": "निवासी",
-      "compareKey": "निवासी",
-      "variants": [],
-      "pos": "",
-      "meaning": "",
-      "meaning_ja": "",
-      "category": "事件・事故",
-      "originalCategory": "事件・事故",
-      "importance": 3,
-      "sourceId": "news035_NBT20260525_Manjha",
-      "sourceIds": [],
-      "raw": {
-        "word": "निवासी",
-        "display": "निवासी",
-        "normalized": "निवासी",
-        "variants": [],
-        "meaning_ja": "",
-        "pos": "",
-        "category": "事件・事故",
-        "importance": 3,
-        "sourceId": "news035_NBT20260525_Manjha"
-      },
-      "checkStatus": "existing",
-      "reason": "strict key match",
-      "warnings": [
-        "missing meaning_ja",
-        "missing pos"
-      ],
-      "matchedMasterIndex": 41,
-      "matchedMaster": {
-        "index": 41,
-        "word": "निवासी",
-        "display": "",
-        "normalized": "निवासी"
-      },
-      "matchedMasterIndexes": [],
-      "matchedMasters": []
-    },
-    {
-      "candidateIndex": 90,
-      "word": "पूछताछ",
-      "display": "पूछताछ",
-      "normalized": "पूछताछ",
-      "compareKey": "पूछताछ",
-      "variants": [],
-      "pos": "",
-      "meaning": "",
-      "meaning_ja": "",
-      "category": "事件・事故",
-      "originalCategory": "事件・事故",
-      "importance": 3,
-      "sourceId": "news035_NBT20260525_Manjha",
-      "sourceIds": [],
-      "raw": {
-        "word": "पूछताछ",
-        "display": "पूछताछ",
-        "normalized": "पूछताछ",
-        "variants": [],
-        "meaning_ja": "",
-        "pos": "",
-        "category": "事件・事故",
-        "importance": 3,
-        "sourceId": "news035_NBT20260525_Manjha"
-      },
-      "checkStatus": "existing",
-      "reason": "strict key match",
-      "warnings": [
-        "missing meaning_ja",
-        "missing pos"
-      ],
-      "matchedMasterIndex": 391,
-      "matchedMaster": {
-        "index": 391,
-        "word": "पूछताछ",
-        "display": "पूछताछ",
-        "normalized": "पूछताछ"
-      },
-      "matchedMasterIndexes": [],
-      "matchedMasters": []
-    },
-    {
-      "candidateIndex": 99,
+      "candidateIndex": 76,
       "word": "जांच",
       "display": "जांच",
       "normalized": "जांच",
@@ -309,7 +141,7 @@
       "category": "事件・事故",
       "originalCategory": "事件・事故",
       "importance": 3,
-      "sourceId": "news035_NBT20260525_Manjha",
+      "sourceId": "news036_DJ20260526_Ropeway",
       "sourceIds": [],
       "raw": {
         "word": "जांच",
@@ -320,7 +152,7 @@
         "pos": "",
         "category": "事件・事故",
         "importance": 3,
-        "sourceId": "news035_NBT20260525_Manjha"
+        "sourceId": "news036_DJ20260526_Ropeway"
       },
       "checkStatus": "existing",
       "reason": "strict key match",
@@ -334,6 +166,216 @@
         "word": "जांच",
         "display": "",
         "normalized": "जांच"
+      },
+      "matchedMasterIndexes": [],
+      "matchedMasters": []
+    },
+    {
+      "candidateIndex": 77,
+      "word": "निर्देश",
+      "display": "निर्देश",
+      "normalized": "निर्देश",
+      "compareKey": "निर्देश",
+      "variants": [],
+      "pos": "",
+      "meaning": "",
+      "meaning_ja": "",
+      "category": "事件・事故",
+      "originalCategory": "事件・事故",
+      "importance": 3,
+      "sourceId": "news036_DJ20260526_Ropeway",
+      "sourceIds": [],
+      "raw": {
+        "word": "निर्देश",
+        "display": "निर्देश",
+        "normalized": "निर्देश",
+        "variants": [],
+        "meaning_ja": "",
+        "pos": "",
+        "category": "事件・事故",
+        "importance": 3,
+        "sourceId": "news036_DJ20260526_Ropeway"
+      },
+      "checkStatus": "existing",
+      "reason": "strict key match",
+      "warnings": [
+        "missing meaning_ja",
+        "missing pos"
+      ],
+      "matchedMasterIndex": 57,
+      "matchedMaster": {
+        "index": 57,
+        "word": "निर्देश",
+        "display": "",
+        "normalized": "निर्देश"
+      },
+      "matchedMasterIndexes": [],
+      "matchedMasters": []
+    },
+    {
+      "candidateIndex": 105,
+      "word": "गंभीरता",
+      "display": "गंभीरता",
+      "normalized": "गंभीरता",
+      "compareKey": "गंभीरता",
+      "variants": [],
+      "pos": "",
+      "meaning": "",
+      "meaning_ja": "",
+      "category": "事件・事故",
+      "originalCategory": "事件・事故",
+      "importance": 3,
+      "sourceId": "news036_DJ20260526_Ropeway",
+      "sourceIds": [],
+      "raw": {
+        "word": "गंभीरता",
+        "display": "गंभीरता",
+        "normalized": "गंभीरता",
+        "variants": [],
+        "meaning_ja": "",
+        "pos": "",
+        "category": "事件・事故",
+        "importance": 3,
+        "sourceId": "news036_DJ20260526_Ropeway"
+      },
+      "checkStatus": "existing",
+      "reason": "strict key match",
+      "warnings": [
+        "missing meaning_ja",
+        "missing pos"
+      ],
+      "matchedMasterIndex": 449,
+      "matchedMaster": {
+        "index": 449,
+        "word": "गंभीरता",
+        "display": "",
+        "normalized": "गंभीरता"
+      },
+      "matchedMasterIndexes": [],
+      "matchedMasters": []
+    },
+    {
+      "candidateIndex": 109,
+      "word": "घटना",
+      "display": "घटना",
+      "normalized": "घटना",
+      "compareKey": "घटना",
+      "variants": [],
+      "pos": "",
+      "meaning": "",
+      "meaning_ja": "",
+      "category": "事件・事故",
+      "originalCategory": "事件・事故",
+      "importance": 3,
+      "sourceId": "news036_DJ20260526_Ropeway",
+      "sourceIds": [],
+      "raw": {
+        "word": "घटना",
+        "display": "घटना",
+        "normalized": "घटना",
+        "variants": [],
+        "meaning_ja": "",
+        "pos": "",
+        "category": "事件・事故",
+        "importance": 3,
+        "sourceId": "news036_DJ20260526_Ropeway"
+      },
+      "checkStatus": "existing",
+      "reason": "strict key match",
+      "warnings": [
+        "missing meaning_ja",
+        "missing pos"
+      ],
+      "matchedMasterIndex": 2,
+      "matchedMaster": {
+        "index": 2,
+        "word": "घटना",
+        "display": "",
+        "normalized": "घटना"
+      },
+      "matchedMasterIndexes": [],
+      "matchedMasters": []
+    },
+    {
+      "candidateIndex": 111,
+      "word": "सुरक्षा",
+      "display": "सुरक्षा",
+      "normalized": "सुरक्षा",
+      "compareKey": "सुरक्षा",
+      "variants": [],
+      "pos": "",
+      "meaning": "",
+      "meaning_ja": "",
+      "category": "事件・事故",
+      "originalCategory": "事件・事故",
+      "importance": 3,
+      "sourceId": "news036_DJ20260526_Ropeway",
+      "sourceIds": [],
+      "raw": {
+        "word": "सुरक्षा",
+        "display": "सुरक्षा",
+        "normalized": "सुरक्षा",
+        "variants": [],
+        "meaning_ja": "",
+        "pos": "",
+        "category": "事件・事故",
+        "importance": 3,
+        "sourceId": "news036_DJ20260526_Ropeway"
+      },
+      "checkStatus": "existing",
+      "reason": "strict key match",
+      "warnings": [
+        "missing meaning_ja",
+        "missing pos"
+      ],
+      "matchedMasterIndex": 450,
+      "matchedMaster": {
+        "index": 450,
+        "word": "सुरक्षा",
+        "display": "",
+        "normalized": "सुरक्षा"
+      },
+      "matchedMasterIndexes": [],
+      "matchedMasters": []
+    },
+    {
+      "candidateIndex": 112,
+      "word": "सुनिश्चित",
+      "display": "सुनिश्चित",
+      "normalized": "सुनिश्चित",
+      "compareKey": "सुनिश्चित",
+      "variants": [],
+      "pos": "",
+      "meaning": "",
+      "meaning_ja": "",
+      "category": "事件・事故",
+      "originalCategory": "事件・事故",
+      "importance": 3,
+      "sourceId": "news036_DJ20260526_Ropeway",
+      "sourceIds": [],
+      "raw": {
+        "word": "सुनिश्चित",
+        "display": "सुनिश्चित",
+        "normalized": "सुनिश्चित",
+        "variants": [],
+        "meaning_ja": "",
+        "pos": "",
+        "category": "事件・事故",
+        "importance": 3,
+        "sourceId": "news036_DJ20260526_Ropeway"
+      },
+      "checkStatus": "existing",
+      "reason": "strict key match",
+      "warnings": [
+        "missing meaning_ja",
+        "missing pos"
+      ],
+      "matchedMasterIndex": 551,
+      "matchedMaster": {
+        "index": 551,
+        "word": "सुनिश्चित",
+        "display": "",
+        "normalized": "सुनिश्चित"
       },
       "matchedMasterIndexes": [],
       "matchedMasters": []

@@ -68,10 +68,11 @@
       "news_006",
       "news_010",
       "news020DJ20260518_NeetLeak",
-      "news024_NBT20260520_Dahej"
+      "news024_NBT20260520_Dahej",
+      "news036_DJ20260526_Ropeway"
     ],
-    "sourceCount": 5,
-    "frequency": 5,
+    "sourceCount": 6,
+    "frequency": 6,
     "notes": "",
     "quizWeight": 5
   },
@@ -123,12 +124,13 @@
     "status": "active",
     "sourceArticleIds": [
       "news_vocab_02",
-      "news_010"
+      "news_010",
+      "news029_DJ20260523_Maoism"
     ],
-    "sourceCount": 2,
-    "frequency": 2,
+    "sourceCount": 3,
+    "frequency": 3,
     "notes": "",
-    "quizWeight": 4
+    "quizWeight": 5
   },
   {
     "word": "पुष्टि",
@@ -635,10 +637,11 @@
     "importance": 3,
     "status": "active",
     "sourceArticleIds": [
-      "news_vocab_02"
+      "news_vocab_02",
+      "news030_DJ20260524_BengalBorder"
     ],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 2,
+    "frequency": 2,
     "notes": "",
     "quizWeight": 3
   },
@@ -1040,10 +1043,12 @@
       "news_010",
       "news_011",
       "news_014",
-      "news022DJ20260520_Rabies"
+      "news022DJ20260520_Rabies",
+      "news030_DJ20260524_BengalBorder",
+      "news034_NBT20260525_Pani"
     ],
-    "sourceCount": 5,
-    "frequency": 5,
+    "sourceCount": 7,
+    "frequency": 7,
     "notes": "",
     "quizWeight": 5
   },
@@ -1060,10 +1065,11 @@
       "news_vocab_02",
       "news_007",
       "news_011",
-      "news022DJ20260520_Rabies"
+      "news022DJ20260520_Rabies",
+      "news036_DJ20260526_Ropeway"
     ],
-    "sourceCount": 4,
-    "frequency": 4,
+    "sourceCount": 5,
+    "frequency": 5,
     "notes": "",
     "quizWeight": 5
   },
@@ -1662,12 +1668,13 @@
     "status": "active",
     "sourceArticleIds": [
       "news_vocab_02",
-      "news029_DJ20260523_Maoism"
+      "news029_DJ20260523_Maoism",
+      "news036_DJ20260526_Ropeway"
     ],
-    "sourceCount": 2,
-    "frequency": 2,
+    "sourceCount": 3,
+    "frequency": 3,
     "notes": "",
-    "quizWeight": 3
+    "quizWeight": 4
   },
   {
     "word": "संख्या",
@@ -5744,21 +5751,6 @@
     "quizWeight": 3
   },
   {
-    "word": "निर्माण",
-    "normalized": "निर्माण",
-    "pos": "名詞（男）",
-    "meaning_ja": "建設、製造",
-    "category": "労働・経済",
-    "importance": 3,
-    "status": "active",
-    "sourceArticleIds": [
-      "news016DJ20260513_GoldScheme"
-    ],
-    "sourceCount": 1,
-    "frequency": 1,
-    "quizWeight": 3
-  },
-  {
     "word": "कारीगर",
     "normalized": "कारीगर",
     "pos": "名詞（男）",
@@ -7793,12 +7785,13 @@
     "importance": 4,
     "status": "active",
     "sourceArticleIds": [
-      "news022DJ20260520_Rabies"
+      "news022DJ20260520_Rabies",
+      "news036_DJ20260526_Ropeway"
     ],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 2,
+    "frequency": 2,
     "notes": "",
-    "quizWeight": 3
+    "quizWeight": 4
   },
   {
     "word": "सुरक्षा",
@@ -7998,11 +7991,12 @@
     "meaning_ja": "熱波、熱風",
     "category": "調査・統計",
     "importance": 3,
-    "sourceCount": 1,
+    "sourceCount": 2,
     "sourceArticleIds": [
-      "news023_DJ20260520_HotSummer"
+      "news023_DJ20260520_HotSummer",
+      "news031_DJ20260524_Bundabandi"
     ],
-    "frequency": 1,
+    "frequency": 2,
     "status": "active",
     "quizWeight": 3
   },
@@ -9490,23 +9484,6 @@
     "quizWeight": 3
   },
   {
-    "word": "हिंसा",
-    "normalized": "हिंसा",
-    "pos": "名詞（女）",
-    "meaning_ja": "暴力",
-    "category": "事件・事故",
-    "difficulty": 3,
-    "importance": 4,
-    "status": "active",
-    "sourceArticleIds": [
-      "news029_DJ20260523_Maoism"
-    ],
-    "sourceCount": 1,
-    "frequency": 1,
-    "notes": "violence",
-    "quizWeight": 3
-  },
-  {
     "word": "हथियार",
     "normalized": "हथियार",
     "pos": "名詞（男）",
@@ -9711,41 +9688,6 @@
     "quizWeight": 3
   },
   {
-    "word": "तारबंदी",
-    "normalized": "तारबंदी",
-    "pos": "名詞（女）",
-    "meaning_ja": "有刺鉄線設置、フェンス化",
-    "category": "行政・制度",
-    "difficulty": 5,
-    "importance": 4,
-    "status": "active",
-    "sourceArticleIds": [
-      "news030_DJ20260524_BengalBorder"
-    ],
-    "sourceCount": 1,
-    "frequency": 1,
-    "notes": "国境管理文脈",
-    "quizWeight": 3
-  },
-  {
-    "word": "बीएसएफ",
-    "display": "बीएसएफ",
-    "normalized": "बीएसएफ",
-    "pos": "名詞（女）",
-    "meaning_ja": "BSF（Border Security Force：インド国境警備隊）",
-    "category": "行政・制度",
-    "difficulty": 5,
-    "importance": 4,
-    "status": "active",
-    "sourceArticleIds": [
-      "news030_DJ20260524_BengalBorder"
-    ],
-    "sourceCount": 1,
-    "frequency": 1,
-    "notes": "インド国境警備隊",
-    "quizWeight": 3
-  },
-  {
     "word": "बीजीबी",
     "display": "बीजीबी",
     "normalized": "बीजीबी",
@@ -9952,431 +9894,89 @@
     "quizWeight": 3
   },
   {
-    "word": "निगरानी",
-    "normalized": "निगरानी",
+    "word": "माहौल",
+    "normalized": "माहौल",
+    "pos": "名詞（男）",
+    "meaning_ja": "雰囲気、情勢",
+    "category": "一般ニュース語彙",
+    "difficulty": 2,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news030_DJ20260524_BengalBorder"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "तारबंदी",
+    "normalized": "तारबंदी",
     "pos": "名詞（女）",
-    "meaning_ja": "監視、監督",
+    "meaning_ja": "有刺鉄線設置、フェンス化",
     "category": "行政・制度",
-    "difficulty": 3,
+    "difficulty": 5,
     "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news030_DJ20260524_BengalBorder"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "国境管理文脈",
+    "quizWeight": 3
+  },
+  {
+    "word": "बीएसएफ",
+    "display": "बीएसएफ",
+    "normalized": "बीएसएफ",
+    "pos": "名詞（女）",
+    "meaning_ja": "BSF（Border Security Force：インド国境警備隊）",
+    "category": "行政・制度",
+    "difficulty": 5,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news030_DJ20260524_BengalBorder"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "インド国境警備隊",
+    "quizWeight": 3
+  },
+  {
+    "word": "रोक",
+    "normalized": "रोक",
+    "pos": "名詞（女）",
+    "meaning_ja": "停止、阻止",
+    "category": "一般ニュース語彙",
+    "difficulty": 2,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news030_DJ20260524_BengalBorder"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "निर्माण",
+    "normalized": "निर्माण",
+    "pos": "名詞（男）",
+    "meaning_ja": "建設、構築、製造",
+    "category": "一般ニュース語彙",
+    "difficulty": 3,
+    "importance": 3,
     "status": "active",
     "sourceArticleIds": [
       "news030_DJ20260524_BengalBorder",
-      "news034_NBT20260525_Pani"
+      "news016DJ20260513_GoldScheme"
     ],
     "sourceCount": 2,
     "frequency": 2,
-    "notes": "治安・行政文脈頻出",
-    "quizWeight": 4
-  },
-  {
-    "word": "सहमति",
-    "normalized": "सहमति",
-    "pos": "名詞（女）",
-    "meaning_ja": "合意、同意",
-    "category": "行政・制度",
-    "difficulty": 3,
-    "importance": 4,
-    "status": "active",
-    "sourceArticleIds": [
-      "news030_DJ20260524_BengalBorder"
-    ],
-    "sourceCount": 1,
-    "frequency": 1,
-    "notes": "",
-    "quizWeight": 3
-  },
-  {
-    "word": "माहौल",
-    "normalized": "माहौल",
-    "pos": "名詞（男）",
-    "meaning_ja": "雰囲気、情勢",
-    "category": "一般ニュース語彙",
-    "difficulty": 2,
-    "importance": 3,
-    "status": "active",
-    "sourceArticleIds": [
-      "news030_DJ20260524_BengalBorder"
-    ],
-    "sourceCount": 1,
-    "frequency": 1,
-    "notes": "",
-    "quizWeight": 3
-  },
-  {
-    "word": "तारबंदी",
-    "normalized": "तारबंदी",
-    "pos": "名詞（女）",
-    "meaning_ja": "有刺鉄線設置、フェンス化",
-    "category": "行政・制度",
-    "difficulty": 5,
-    "importance": 4,
-    "status": "active",
-    "sourceArticleIds": [
-      "news030_DJ20260524_BengalBorder"
-    ],
-    "sourceCount": 1,
-    "frequency": 1,
-    "notes": "国境管理文脈",
-    "quizWeight": 3
-  },
-  {
-    "word": "बीएसएफ",
-    "display": "बीएसएफ",
-    "normalized": "बीएसएफ",
-    "pos": "名詞（女）",
-    "meaning_ja": "BSF（Border Security Force：インド国境警備隊）",
-    "category": "行政・制度",
-    "difficulty": 5,
-    "importance": 4,
-    "status": "active",
-    "sourceArticleIds": [
-      "news030_DJ20260524_BengalBorder"
-    ],
-    "sourceCount": 1,
-    "frequency": 1,
-    "notes": "インド国境警備隊",
-    "quizWeight": 3
-  },
-  {
-    "word": "बीजीबी",
-    "display": "बीजीबी",
-    "normalized": "बीजीबी",
-    "pos": "名詞（女）",
-    "meaning_ja": "BGB（Border Guard Bangladesh：バングラデシュ国境警備隊）",
-    "category": "行政・制度",
-    "difficulty": 5,
-    "importance": 4,
-    "status": "active",
-    "sourceArticleIds": [
-      "news030_DJ20260524_BengalBorder"
-    ],
-    "sourceCount": 1,
-    "frequency": 1,
-    "notes": "バングラデシュ国境警備隊",
-    "quizWeight": 3
-  },
-  {
-    "word": "सीमा",
-    "normalized": "सीमा",
-    "pos": "名詞（女）",
-    "meaning_ja": "国境、境界",
-    "category": "行政・制度",
-    "difficulty": 2,
-    "importance": 4,
-    "status": "active",
-    "sourceArticleIds": [
-      "news030_DJ20260524_BengalBorder"
-    ],
-    "sourceCount": 1,
-    "frequency": 1,
-    "notes": "国境・地理文脈頻出",
-    "quizWeight": 3
-  },
-  {
-    "word": "फ्लैग मीटिंग",
-    "normalized": "फ्लैग_मीटिंग",
-    "pos": "名詞（女）",
-    "meaning_ja": "国境部隊間の公式協議",
-    "category": "行政・制度",
-    "difficulty": 5,
-    "importance": 4,
-    "status": "active",
-    "sourceArticleIds": [
-      "news030_DJ20260524_BengalBorder"
-    ],
-    "sourceCount": 1,
-    "frequency": 1,
-    "notes": "国境管理用語",
-    "quizWeight": 3
-  },
-  {
-    "word": "घुसपैठ",
-    "normalized": "घुसपैठ",
-    "pos": "名詞（女）",
-    "meaning_ja": "不法侵入、越境侵入",
-    "category": "行政・制度",
-    "difficulty": 4,
-    "importance": 4,
-    "status": "active",
-    "sourceArticleIds": [
-      "news030_DJ20260524_BengalBorder"
-    ],
-    "sourceCount": 1,
-    "frequency": 1,
-    "notes": "治安・国境文脈頻出",
-    "quizWeight": 3
-  },
-  {
-    "word": "गलियारा",
-    "normalized": "गलियारा",
-    "pos": "名詞（男）",
-    "meaning_ja": "回廊、通路、コリドー",
-    "category": "行政・制度",
-    "difficulty": 4,
-    "importance": 3,
-    "status": "active",
-    "sourceArticleIds": [
-      "news030_DJ20260524_BengalBorder"
-    ],
-    "sourceCount": 1,
-    "frequency": 1,
-    "notes": "corridor",
-    "quizWeight": 3
-  },
-  {
-    "word": "कारिडोर",
-    "display": "कारिडोर",
-    "normalized": "कारिडोर",
-    "pos": "名詞（男）",
-    "meaning_ja": "コリドー、通路",
-    "category": "行政・制度",
-    "difficulty": 4,
-    "importance": 3,
-    "status": "active",
-    "sourceArticleIds": [
-      "news030_DJ20260524_BengalBorder"
-    ],
-    "sourceCount": 1,
-    "frequency": 1,
-    "notes": "英語 corridor 由来",
-    "quizWeight": 3
-  },
-  {
-    "word": "कंटीले तार",
-    "normalized": "कंटीले_तार",
-    "pos": "名詞（男）",
-    "meaning_ja": "有刺鉄線",
-    "category": "行政・制度",
-    "difficulty": 4,
-    "importance": 4,
-    "status": "active",
-    "sourceArticleIds": [
-      "news030_DJ20260524_BengalBorder"
-    ],
-    "sourceCount": 1,
-    "frequency": 1,
-    "notes": "国境フェンス文脈",
-    "quizWeight": 3
-  },
-  {
-    "word": "सीमा विवाद",
-    "normalized": "सीमा_विवाद",
-    "pos": "名詞（男）",
-    "meaning_ja": "国境紛争",
-    "category": "行政・制度",
-    "difficulty": 5,
-    "importance": 4,
-    "status": "active",
-    "sourceArticleIds": [
-      "news030_DJ20260524_BengalBorder"
-    ],
-    "sourceCount": 1,
-    "frequency": 1,
-    "notes": "外交・安全保障文脈",
-    "quizWeight": 3
-  },
-  {
-    "word": "सीमा क्षेत्र",
-    "normalized": "सीमा_क्षेत्र",
-    "pos": "名詞（男）",
-    "meaning_ja": "国境地域",
-    "category": "行政・制度",
-    "difficulty": 4,
-    "importance": 3,
-    "status": "active",
-    "sourceArticleIds": [
-      "news030_DJ20260524_BengalBorder"
-    ],
-    "sourceCount": 1,
-    "frequency": 1,
-    "notes": "",
-    "quizWeight": 3
-  },
-  {
-    "word": "सीमा सुरक्षा",
-    "normalized": "सीमा_सुरक्षा",
-    "pos": "名詞（女）",
-    "meaning_ja": "国境警備",
-    "category": "行政・制度",
-    "difficulty": 4,
-    "importance": 4,
-    "status": "active",
-    "sourceArticleIds": [
-      "news030_DJ20260524_BengalBorder"
-    ],
-    "sourceCount": 1,
-    "frequency": 1,
-    "notes": "安全保障文脈",
-    "quizWeight": 3
-  },
-  {
-    "word": "संवाद",
-    "normalized": "संवाद",
-    "pos": "名詞（男）",
-    "meaning_ja": "対話、協議",
-    "category": "行政・制度",
-    "difficulty": 3,
-    "importance": 3,
-    "status": "active",
-    "sourceArticleIds": [
-      "news030_DJ20260524_BengalBorder"
-    ],
-    "sourceCount": 1,
-    "frequency": 1,
-    "notes": "",
-    "quizWeight": 3
-  },
-  {
-    "word": "सूत्र",
-    "normalized": "सूत्र",
-    "pos": "名詞（男）",
-    "meaning_ja": "情報筋、出典",
-    "category": "行政・制度",
-    "difficulty": 3,
-    "importance": 4,
-    "status": "active",
-    "sourceArticleIds": [
-      "news030_DJ20260524_BengalBorder"
-    ],
-    "sourceCount": 1,
-    "frequency": 1,
-    "notes": "ニュース頻出",
-    "quizWeight": 3
-  },
-  {
-    "word": "निगरानी",
-    "normalized": "निगरानी",
-    "pos": "名詞（女）",
-    "meaning_ja": "監視、監督",
-    "category": "行政・制度",
-    "difficulty": 3,
-    "importance": 4,
-    "status": "active",
-    "sourceArticleIds": [
-      "news030_DJ20260524_BengalBorder"
-    ],
-    "sourceCount": 1,
-    "frequency": 1,
-    "notes": "治安・行政文脈頻出",
-    "quizWeight": 3
-  },
-  {
-    "word": "सहमति",
-    "normalized": "सहमति",
-    "pos": "名詞（女）",
-    "meaning_ja": "合意、同意",
-    "category": "行政・制度",
-    "difficulty": 3,
-    "importance": 4,
-    "status": "active",
-    "sourceArticleIds": [
-      "news030_DJ20260524_BengalBorder"
-    ],
-    "sourceCount": 1,
-    "frequency": 1,
-    "notes": "",
-    "quizWeight": 3
-  },
-  {
-    "word": "माहौल",
-    "normalized": "माहौल",
-    "pos": "名詞（男）",
-    "meaning_ja": "雰囲気、情勢",
-    "category": "一般ニュース語彙",
-    "difficulty": 2,
-    "importance": 3,
-    "status": "active",
-    "sourceArticleIds": [
-      "news030_DJ20260524_BengalBorder"
-    ],
-    "sourceCount": 1,
-    "frequency": 1,
-    "notes": "",
-    "quizWeight": 3
-  },
-  {
-    "word": "जमीन",
-    "normalized": "जमीन",
-    "pos": "名詞（女）",
-    "meaning_ja": "土地、地面",
-    "category": "一般ニュース語彙",
-    "difficulty": 2,
-    "importance": 3,
-    "status": "active",
-    "sourceArticleIds": [
-      "news030_DJ20260524_BengalBorder"
-    ],
-    "sourceCount": 1,
-    "frequency": 1,
-    "notes": "",
-    "quizWeight": 3
-  },
-  {
-    "word": "रोक",
-    "normalized": "रोक",
-    "pos": "名詞（女）",
-    "meaning_ja": "停止、阻止",
-    "category": "一般ニュース語彙",
-    "difficulty": 2,
-    "importance": 3,
-    "status": "active",
-    "sourceArticleIds": [
-      "news030_DJ20260524_BengalBorder"
-    ],
-    "sourceCount": 1,
-    "frequency": 1,
-    "notes": "",
-    "quizWeight": 3
-  },
-  {
-    "word": "निर्माण",
-    "normalized": "निर्माण",
-    "pos": "名詞（男）",
-    "meaning_ja": "建設、構築",
-    "category": "一般ニュース語彙",
-    "difficulty": 3,
-    "importance": 3,
-    "status": "active",
-    "sourceArticleIds": [
-      "news030_DJ20260524_BengalBorder"
-    ],
-    "sourceCount": 1,
-    "frequency": 1,
-    "notes": "",
-    "quizWeight": 3
-  },
-  {
-    "word": "रोक",
-    "normalized": "रोक",
-    "pos": "名詞（女）",
-    "meaning_ja": "停止、阻止",
-    "category": "一般ニュース語彙",
-    "difficulty": 2,
-    "importance": 3,
-    "status": "active",
-    "sourceArticleIds": [
-      "news030_DJ20260524_BengalBorder"
-    ],
-    "sourceCount": 1,
-    "frequency": 1,
-    "notes": "",
-    "quizWeight": 3
-  },
-  {
-    "word": "निर्माण",
-    "normalized": "निर्माण",
-    "pos": "名詞（男）",
-    "meaning_ja": "建設、構築",
-    "category": "一般ニュース語彙",
-    "difficulty": 3,
-    "importance": 3,
-    "status": "active",
-    "sourceArticleIds": [
-      "news030_DJ20260524_BengalBorder"
-    ],
-    "sourceCount": 1,
-    "frequency": 1,
     "notes": "",
     "quizWeight": 3
   },
@@ -10429,40 +10029,6 @@
     "sourceCount": 1,
     "frequency": 1,
     "notes": "気温・経済など広範囲で頻出",
-    "quizWeight": 3
-  },
-  {
-    "word": "उमस",
-    "normalized": "उमस",
-    "pos": "名詞（女）",
-    "meaning_ja": "蒸し暑さ、不快な湿気",
-    "category": "都市・環境",
-    "difficulty": 4,
-    "importance": 4,
-    "status": "active",
-    "sourceArticleIds": [
-      "news031_DJ20260524_Bundabandi"
-    ],
-    "sourceCount": 1,
-    "frequency": 1,
-    "notes": "夏季ニュース頻出",
-    "quizWeight": 3
-  },
-  {
-    "word": "लू",
-    "normalized": "लू",
-    "pos": "名詞（女）",
-    "meaning_ja": "熱風、熱波",
-    "category": "都市・環境",
-    "difficulty": 3,
-    "importance": 4,
-    "status": "active",
-    "sourceArticleIds": [
-      "news031_DJ20260524_Bundabandi"
-    ],
-    "sourceCount": 1,
-    "frequency": 1,
-    "notes": "北インド夏季頻出語",
     "quizWeight": 3
   },
   {
@@ -10919,12 +10485,13 @@
     "importance": 4,
     "status": "active",
     "sourceArticleIds": [
-      "news034_NBT20260525_Pani"
+      "news034_NBT20260525_Pani",
+      "news031_DJ20260524_Bundabandi"
     ],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 2,
+    "frequency": 2,
     "notes": "夏季ニュース頻出",
-    "quizWeight": 3
+    "quizWeight": 4
   },
   {
     "word": "जलापूर्ति",
@@ -11215,6 +10782,211 @@
     "sourceCount": 1,
     "frequency": 1,
     "notes": "警察捜査文脈頻出",
+    "quizWeight": 3
+  },
+  {
+    "word": "हादसा",
+    "normalized": "हादसा",
+    "pos": "名詞（男）",
+    "meaning_ja": "事故、災難",
+    "category": "事件・事故",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news036_DJ20260526_Ropeway"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "事故報道頻出",
+    "quizWeight": 3
+  },
+  {
+    "word": "सवार",
+    "normalized": "सवार",
+    "pos": "名詞（男）",
+    "meaning_ja": "乗客、乗っている人",
+    "category": "事件・事故",
+    "difficulty": 3,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news036_DJ20260526_Ropeway"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "交通・事故ニュース頻出",
+    "quizWeight": 3
+  },
+  {
+    "word": "फंसना",
+    "normalized": "फंसना",
+    "pos": "自動詞",
+    "meaning_ja": "閉じ込められる、動けなくなる",
+    "category": "事件・事故",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news036_DJ20260526_Ropeway"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "事故・災害文脈頻出",
+    "quizWeight": 3
+  },
+  {
+    "word": "लटकना",
+    "normalized": "लटकना",
+    "pos": "自動詞",
+    "meaning_ja": "ぶら下がる、宙づりになる",
+    "category": "事件・事故",
+    "difficulty": 3,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news036_DJ20260526_Ropeway"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "事故・描写表現",
+    "quizWeight": 3
+  },
+  {
+    "word": "बचाव",
+    "normalized": "बचाव",
+    "pos": "名詞（男）",
+    "meaning_ja": "救助、防護",
+    "category": "事件・事故",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news036_DJ20260526_Ropeway"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "災害・事故ニュース頻出",
+    "quizWeight": 3
+  },
+  {
+    "word": "सुरक्षित",
+    "normalized": "सुरक्षित",
+    "pos": "形容詞",
+    "meaning_ja": "安全な、無事な",
+    "category": "事件・事故",
+    "difficulty": 2,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news036_DJ20260526_Ropeway"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "一般ニュース頻出",
+    "quizWeight": 3
+  },
+  {
+    "word": "संचालन",
+    "normalized": "संचालन",
+    "pos": "名詞（男）",
+    "meaning_ja": "運営、運行、運用",
+    "category": "一般ニュース語彙",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news036_DJ20260526_Ropeway"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "行政・交通・事業文脈頻出",
+    "quizWeight": 3
+  },
+  {
+    "word": "फिलहाल",
+    "normalized": "फिलहाल",
+    "pos": "副詞",
+    "meaning_ja": "当面のところ、現時点では",
+    "category": "一般ニュース語彙",
+    "difficulty": 3,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news036_DJ20260526_Ropeway"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "ニュース頻出副詞",
+    "quizWeight": 3
+  },
+  {
+    "word": "अटकना",
+    "normalized": "अटकना",
+    "pos": "自動詞",
+    "meaning_ja": "引っかかる、停止する",
+    "category": "事件・事故",
+    "difficulty": 3,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news036_DJ20260526_Ropeway"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "機械・交通トラブル文脈",
+    "quizWeight": 3
+  },
+  {
+    "word": "पर्यटक",
+    "normalized": "पर्यटक",
+    "pos": "名詞（男）",
+    "meaning_ja": "観光客",
+    "category": "文化・宗教",
+    "difficulty": 3,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news036_DJ20260526_Ropeway"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "観光ニュース頻出",
+    "quizWeight": 3
+  },
+  {
+    "word": "पर्यटन",
+    "normalized": "पर्यटन",
+    "pos": "名詞（男）",
+    "meaning_ja": "観光、ツーリズム",
+    "category": "文化・宗教",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news036_DJ20260526_Ropeway"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "観光行政・経済文脈頻出",
+    "quizWeight": 3
+  },
+  {
+    "word": "पर्यटन स्थल",
+    "display": "पर्यटन स्थल",
+    "normalized": "पर्यटन_स्थल",
+    "pos": "固定複合語",
+    "meaning_ja": "観光地、観光スポット",
+    "category": "文化・宗教",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news036_DJ20260526_Ropeway"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "観光ニュース頻出",
     "quizWeight": 3
   }
 ]
