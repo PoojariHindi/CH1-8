@@ -475,11 +475,8 @@ function createQuizQuestion(vocabPool, direction) {
 
   const mode = getMode();
 
-  const correct =
-    mode === "bollywood_vocab"
-      ? pickWeightedRandom(vocabPool)
-      : pickRandom(vocabPool, 1)[0];
-
+  const correct = pickRandom(vocabPool, 1)[0];
+  
   if (!correct) return null;
 
   const wrongPool = buildWrongPoolForVocab(vocabPool, correct, direction);

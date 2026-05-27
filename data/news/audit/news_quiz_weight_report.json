@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-05-27T01:27:10.051Z",
+  "generatedAt": "2026-05-27T23:29:01.680Z",
   "input": "data\\news\\vocab_master.json",
   "output": "data\\news\\vocab_master_with_quiz_weight.json",
-  "totalEntries": 648,
-  "changedCount": 141,
-  "unchangedCount": 507,
+  "totalEntries": 659,
+  "changedCount": 144,
+  "unchangedCount": 515,
   "quizWeightSummary": {
     "1": 0,
     "2": 4,
-    "3": 516,
+    "3": 527,
     "4": 90,
     "5": 38
   },
   "categorySummary": {
     "事件・事故": {
-      "total": 73,
+      "total": 74,
       "quizWeight": {
         "1": 0,
         "2": 0,
-        "3": 55,
+        "3": 56,
         "4": 11,
         "5": 7
       }
@@ -34,11 +34,11 @@
       }
     },
     "医療・健康": {
-      "total": 38,
+      "total": 39,
       "quizWeight": {
         "1": 0,
         "2": 0,
-        "3": 35,
+        "3": 36,
         "4": 3,
         "5": 0
       }
@@ -64,11 +64,11 @@
       }
     },
     "選挙・裁判": {
-      "total": 70,
+      "total": 74,
       "quizWeight": {
         "1": 0,
         "2": 0,
-        "3": 55,
+        "3": 59,
         "4": 9,
         "5": 6
       }
@@ -124,11 +124,11 @@
       }
     },
     "文化・宗教": {
-      "total": 42,
+      "total": 43,
       "quizWeight": {
         "1": 0,
         "2": 0,
-        "3": 42,
+        "3": 43,
         "4": 0,
         "5": 0
       }
@@ -164,11 +164,11 @@
       }
     },
     "一般ニュース語彙": {
-      "total": 19,
+      "total": 23,
       "quizWeight": {
         "1": 0,
         "2": 0,
-        "3": 18,
+        "3": 22,
         "4": 0,
         "5": 1
       }
@@ -2232,10 +2232,52 @@
       ]
     },
     {
-      "index": 647,
-      "word": "हानिकारक",
-      "normalized": "हानिकारक",
-      "category": "医療・健康",
+      "index": 648,
+      "word": "सबूत",
+      "normalized": "सबूत",
+      "category": "選挙・裁判",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 652,
+      "word": "कब्ज़ा",
+      "normalized": "कब्जा",
+      "category": "選挙・裁判",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 656,
+      "word": "इजाजत",
+      "normalized": "इजाजत",
+      "category": "一般ニュース語彙",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 658,
+      "word": "कथित तौर पर",
+      "normalized": "कथित_तौर_पर",
+      "category": "選挙・裁判",
       "importance": 4,
       "sourceCount": 1,
       "frequency": 1,
@@ -2726,8 +2768,8 @@
       "normalized": "हानिकारक",
       "category": "医療・健康",
       "importance": 3,
-      "sourceCount": 1,
-      "frequency": 1,
+      "sourceCount": 2,
+      "frequency": 2,
       "oldQuizWeight": 3,
       "newQuizWeight": 3,
       "reason": [
@@ -11470,9 +11512,163 @@
     },
     {
       "index": 647,
-      "word": "हानिकारक",
-      "normalized": "हानिकारक",
+      "word": "खटास",
+      "normalized": "खटास",
+      "category": "事件・事故",
+      "importance": 3,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 3,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 648,
+      "word": "सबूत",
+      "normalized": "सबूत",
+      "category": "選挙・裁判",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 649,
+      "word": "निर्णायक",
+      "normalized": "निर्णायक",
+      "category": "一般ニュース語彙",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 3,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 650,
+      "word": "दौर",
+      "normalized": "दौर",
+      "category": "一般ニュース語彙",
+      "importance": 3,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 3,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 651,
+      "word": "भौतिक",
+      "normalized": "भौतिक",
+      "category": "一般ニュース語彙",
+      "importance": 3,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 3,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 652,
+      "word": "कब्ज़ा",
+      "normalized": "कब्जा",
+      "category": "選挙・裁判",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 653,
+      "word": "नामित",
+      "normalized": "नामित",
+      "category": "選挙・裁判",
+      "importance": 3,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 3,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 654,
+      "word": "बाइपोलर",
+      "normalized": "बाइपोलर",
       "category": "医療・健康",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 3,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 655,
+      "word": "गर्भधारण",
+      "normalized": "गर्भधारण",
+      "category": "医療・健康",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 3,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 656,
+      "word": "इजाजत",
+      "normalized": "इजाजत",
+      "category": "一般ニュース語彙",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 657,
+      "word": "अभिनेत्री",
+      "normalized": "अभिनेत्री",
+      "category": "文化・宗教",
+      "importance": 3,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 3,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 658,
+      "word": "कथित तौर पर",
+      "normalized": "कथित_तौर_पर",
+      "category": "選挙・裁判",
       "importance": 4,
       "sourceCount": 1,
       "frequency": 1,

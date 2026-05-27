@@ -583,10 +583,11 @@
     "importance": 3,
     "status": "active",
     "sourceArticleIds": [
-      "news_vocab_01"
+      "news_vocab_01",
+      "news033_DJ20260527_KhaliBaoli"
     ],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 2,
+    "frequency": 2,
     "notes": "",
     "quizWeight": 3
   },
@@ -11188,20 +11189,214 @@
     "quizWeight": 3
   },
   {
-    "word": "हानिकारक",
-    "normalized": "हानिकारक",
-    "pos": "形容詞",
-    "meaning_ja": "有害な",
-    "category": "医療・健康",
+    "word": "खटास",
+    "normalized": "खटास",
+    "pos": "名詞（女）",
+    "meaning_ja": "不和、険悪さ",
+    "category": "事件・事故",
+    "difficulty": 4,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news037_DJ20260526_Twisha"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "人間関係・家庭問題文脈",
+    "quizWeight": 3
+  },
+  {
+    "word": "सबूत",
+    "normalized": "सबूत",
+    "pos": "名詞（男）",
+    "meaning_ja": "証拠",
+    "category": "選挙・裁判",
     "difficulty": 3,
     "importance": 4,
     "status": "active",
     "sourceArticleIds": [
-      "news033_DJ20260527_KhaliBaoli"
+      "news037_DJ20260526_Twisha"
     ],
     "sourceCount": 1,
     "frequency": 1,
-    "notes": "健康・医療ニュース頻出",
+    "notes": "裁判・捜査ニュース頻出",
+    "quizWeight": 3
+  },
+  {
+    "word": "निर्णायक",
+    "normalized": "निर्णायक",
+    "pos": "形容詞",
+    "meaning_ja": "決定的な",
+    "category": "一般ニュース語彙",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news037_DJ20260526_Twisha"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "ニュース・分析記事頻出",
+    "quizWeight": 3
+  },
+  {
+    "word": "दौर",
+    "normalized": "दौर",
+    "pos": "名詞（男）",
+    "meaning_ja": "時期、段階",
+    "category": "一般ニュース語彙",
+    "difficulty": 3,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news037_DJ20260526_Twisha"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "社会・歴史・ニュース文脈頻出",
+    "quizWeight": 3
+  },
+  {
+    "word": "भौतिक",
+    "normalized": "भौतिक",
+    "pos": "形容詞",
+    "meaning_ja": "物理的な、実体的な",
+    "category": "一般ニュース語彙",
+    "difficulty": 4,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news037_DJ20260526_Twisha"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "法律・科学・哲学文脈でも使用",
+    "quizWeight": 3
+  },
+  {
+    "word": "कब्ज़ा",
+    "display": "कब्ज़ा",
+    "normalized": "कब्जा",
+    "variants": [
+      "कब्जा",
+      "कब्ज़ा",
+      "कब्ज़ा"
+    ],
+    "pos": "名詞（男）",
+    "meaning_ja": "占有、支配",
+    "category": "選挙・裁判",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news037_DJ20260526_Twisha"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "土地・権利・事件文脈頻出",
+    "quizWeight": 3
+  },
+  {
+    "word": "नामित",
+    "normalized": "नामित",
+    "pos": "形容詞",
+    "meaning_ja": "指名された、名指しされた",
+    "category": "選挙・裁判",
+    "difficulty": 4,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news037_DJ20260526_Twisha"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "法的・行政文脈頻出",
+    "quizWeight": 3
+  },
+  {
+    "word": "बाइपोलर",
+    "normalized": "बाइपोलर",
+    "pos": "形容詞",
+    "meaning_ja": "双極性の、躁うつ性の",
+    "category": "医療・健康",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news037_DJ20260526_Twisha"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "精神医学関連語彙",
+    "quizWeight": 3
+  },
+  {
+    "word": "गर्भधारण",
+    "normalized": "गर्भधारण",
+    "pos": "名詞（男）",
+    "meaning_ja": "妊娠、受胎",
+    "category": "医療・健康",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news037_DJ20260526_Twisha"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "医療・家庭問題文脈",
+    "quizWeight": 3
+  },
+  {
+    "word": "इजाजत",
+    "normalized": "इजाजत",
+    "pos": "名詞（女）",
+    "meaning_ja": "許可、承認",
+    "category": "一般ニュース語彙",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news037_DJ20260526_Twisha"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "会話・行政両方で頻出",
+    "quizWeight": 3
+  },
+  {
+    "word": "अभिनेत्री",
+    "normalized": "अभिनेत्री",
+    "pos": "名詞（女）",
+    "meaning_ja": "女優",
+    "category": "文化・宗教",
+    "difficulty": 2,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news037_DJ20260526_Twisha"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "映画・芸能文脈頻出",
+    "quizWeight": 3
+  },
+  {
+    "word": "कथित तौर पर",
+    "display": "कथित तौर पर",
+    "normalized": "कथित_तौर_पर",
+    "pos": "固定複合語",
+    "meaning_ja": "いわゆる、されているところによれば",
+    "category": "選挙・裁判",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news037_DJ20260526_Twisha"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "報道・捜査記事頻出表現",
     "quizWeight": 3
   }
 ]

@@ -1885,6 +1885,19 @@
     "quizWeight": 10
   },
   {
+    "word": "इजाजत",
+    "display": "इजाजत",
+    "normalized": "इजाजत",
+    "meaning_ja": "許可、承認",
+    "pos": "名詞（女）",
+    "category": "一般ニュース語彙",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 10
+  },
+  {
     "word": "इजाफा",
     "display": "इजाफा",
     "normalized": "इजाफा",
@@ -3458,6 +3471,19 @@
     "quizWeight": 10
   },
   {
+    "word": "सबूत",
+    "display": "सबूत",
+    "normalized": "सबूत",
+    "meaning_ja": "証拠",
+    "pos": "名詞（男）",
+    "category": "選挙・裁判",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 10
+  },
+  {
     "word": "सराफा",
     "display": "सराफा",
     "normalized": "सराफा",
@@ -3705,19 +3731,6 @@
     "quizWeight": 10
   },
   {
-    "word": "हानिकारक",
-    "display": "हानिकारक",
-    "normalized": "हानिकारक",
-    "meaning_ja": "有害な",
-    "pos": "形容詞",
-    "category": "医療・健康",
-    "difficulty": 3,
-    "importance": 4,
-    "sourceCount": 1,
-    "frequency": 1,
-    "quizWeight": 10
-  },
-  {
     "word": "अंजाम देना",
     "display": "अंजाम देना",
     "normalized": "अंजाम_देना",
@@ -3817,6 +3830,19 @@
     "category": "選挙・裁判",
     "difficulty": 5,
     "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "अभिनेत्री",
+    "display": "अभिनेत्री",
+    "normalized": "अभिनेत्री",
+    "meaning_ja": "女優",
+    "pos": "名詞（女）",
+    "category": "文化・宗教",
+    "difficulty": 2,
+    "importance": 3,
     "sourceCount": 1,
     "frequency": 1,
     "quizWeight": 9
@@ -4121,6 +4147,32 @@
     "quizWeight": 9
   },
   {
+    "word": "कथित तौर पर",
+    "display": "कथित तौर पर",
+    "normalized": "कथित_तौर_पर",
+    "meaning_ja": "いわゆる、されているところによれば",
+    "pos": "固定複合語",
+    "category": "選挙・裁判",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "कब्ज़ा",
+    "display": "कब्ज़ा",
+    "normalized": "कब्जा",
+    "meaning_ja": "占有、支配",
+    "pos": "名詞（男）",
+    "category": "選挙・裁判",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
     "word": "कमर्शियल",
     "display": "कमर्शियल",
     "normalized": "कमर्शियल",
@@ -4297,6 +4349,19 @@
     "pos": "名詞（男）",
     "category": "医療・健康",
     "difficulty": 5,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "गर्भधारण",
+    "display": "गर्भधारण",
+    "normalized": "गर्भधारण",
+    "meaning_ja": "妊娠、受胎",
+    "pos": "名詞（男）",
+    "category": "医療・健康",
+    "difficulty": 4,
     "importance": 4,
     "sourceCount": 1,
     "frequency": 1,
@@ -4953,6 +5018,19 @@
     "quizWeight": 9
   },
   {
+    "word": "निर्णायक",
+    "display": "निर्णायक",
+    "normalized": "निर्णायक",
+    "meaning_ja": "決定的な",
+    "pos": "形容詞",
+    "category": "一般ニュース語彙",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
     "word": "निर्धारित सीमा",
     "display": "निर्धारित सीमा",
     "normalized": "निर्धारित_सीमा",
@@ -5337,6 +5415,19 @@
     "pos": "名詞（男）",
     "category": "医療・健康",
     "difficulty": 5,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "बाइपोलर",
+    "display": "बाइपोलर",
+    "normalized": "बाइपोलर",
+    "meaning_ja": "双極性の、躁うつ性の",
+    "pos": "形容詞",
+    "category": "医療・健康",
+    "difficulty": 4,
     "importance": 4,
     "sourceCount": 1,
     "frequency": 1,
@@ -6812,6 +6903,19 @@
     "quizWeight": 8
   },
   {
+    "word": "दौर",
+    "display": "दौर",
+    "normalized": "दौर",
+    "meaning_ja": "時期、段階",
+    "pos": "名詞（男）",
+    "category": "一般ニュース語彙",
+    "difficulty": 3,
+    "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 8
+  },
+  {
     "word": "नकद",
     "display": "नकद",
     "normalized": "नकद",
@@ -7358,6 +7462,19 @@
     "quizWeight": 8
   },
   {
+    "word": "हानिकारक",
+    "display": "हानिकारक",
+    "normalized": "हानिकारक",
+    "meaning_ja": "有害な",
+    "pos": "形容詞",
+    "category": "医療・健康",
+    "difficulty": 4,
+    "importance": 3,
+    "sourceCount": 2,
+    "frequency": 2,
+    "quizWeight": 8
+  },
+  {
     "word": "अंगदान",
     "display": "अंगदान",
     "normalized": "अंगदान",
@@ -7540,6 +7657,19 @@
     "quizWeight": 7
   },
   {
+    "word": "खटास",
+    "display": "खटास",
+    "normalized": "खटास",
+    "meaning_ja": "不和、険悪さ",
+    "pos": "名詞（女）",
+    "category": "事件・事故",
+    "difficulty": 4,
+    "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 7
+  },
+  {
     "word": "खाकी को दागदार करना",
     "display": "खाकी को दागदार करना",
     "normalized": "खाकी_को_दागदार_करना",
@@ -7663,6 +7793,19 @@
     "meaning_ja": "名前が浮上する、関与が明らかになる",
     "pos": "表現",
     "category": "事件・事故",
+    "difficulty": 4,
+    "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 7
+  },
+  {
+    "word": "नामित",
+    "display": "नामित",
+    "normalized": "नामित",
+    "meaning_ja": "指名された、名指しされた",
+    "pos": "形容詞",
+    "category": "選挙・裁判",
     "difficulty": 4,
     "importance": 3,
     "sourceCount": 1,
@@ -7871,6 +8014,19 @@
     "meaning_ja": "闇取引、ブラックマーケット化",
     "pos": "名詞（女）",
     "category": "労働・経済",
+    "difficulty": 4,
+    "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 7
+  },
+  {
+    "word": "भौतिक",
+    "display": "भौतिक",
+    "normalized": "भौतिक",
+    "meaning_ja": "物理的な、実体的な",
+    "pos": "形容詞",
+    "category": "一般ニュース語彙",
     "difficulty": 4,
     "importance": 3,
     "sourceCount": 1,
@@ -8249,19 +8405,6 @@
     "pos": "名詞（女）",
     "category": "調査・データ",
     "difficulty": 5,
-    "importance": 3,
-    "sourceCount": 1,
-    "frequency": 1,
-    "quizWeight": 7
-  },
-  {
-    "word": "हानिकारक",
-    "display": "हानिकारक",
-    "normalized": "हानिकारक",
-    "meaning_ja": "有害な",
-    "pos": "形容詞",
-    "category": "医療・健康",
-    "difficulty": 4,
     "importance": 3,
     "sourceCount": 1,
     "frequency": 1,
