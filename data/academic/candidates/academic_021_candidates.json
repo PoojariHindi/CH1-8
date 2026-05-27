@@ -1,0 +1,674 @@
+[
+  {
+    "word": "ज़रूरत",
+    "display": "ज़रूरत",
+    "normalized": "जरूरत",
+    "variants": [
+      "जरूरत"
+    ],
+    "pos": "名詞（女）",
+    "meaning_ja": "必要、必要性",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_021"
+    ],
+    "sourceTitle": "यह पुस्तक क्यों?",
+    "sourceGenre": "textbook",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "word": "महसूस",
+    "display": "महसूस",
+    "normalized": "महसूस",
+    "variants": [],
+    "pos": "形容詞・動詞",
+    "meaning_ja": "感じられた、感じること",
+    "importance": 3,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_021"
+    ],
+    "sourceTitle": "यह पुस्तक क्यों?",
+    "sourceGenre": "textbook",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "word": "किशोरावस्था",
+    "display": "किशोरावस्था",
+    "normalized": "किशोरावस्था",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "思春期、青年期",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_021"
+    ],
+    "sourceTitle": "यह पुस्तक क्यों?",
+    "sourceGenre": "textbook",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "word": "शारीरिक परिवर्तन",
+    "display": "शारीरिक परिवर्तन",
+    "normalized": "शारीरिक परिवर्तन",
+    "variants": [],
+    "pos": "名詞句",
+    "meaning_ja": "身体的変化",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_021"
+    ],
+    "sourceTitle": "यह पुस्तक क्यों?",
+    "sourceGenre": "textbook",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "word": "बिगड़ना",
+    "display": "बिगड़ गई",
+    "normalized": "बिगड़ना",
+    "variants": [],
+    "pos": "自動詞",
+    "meaning_ja": "悪くなる、道を外れる",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_021"
+    ],
+    "sourceTitle": "यह पुस्तक क्यों?",
+    "sourceGenre": "textbook",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "word": "माहवारी",
+    "display": "माहवारी",
+    "normalized": "माहवारी",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "月経、生理",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_021"
+    ],
+    "sourceTitle": "यह पुस्तक क्यों?",
+    "sourceGenre": "textbook",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "word": "शक",
+    "display": "शक",
+    "normalized": "शक",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "疑い、疑念",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_021"
+    ],
+    "sourceTitle": "यह पुस्तक क्यों?",
+    "sourceGenre": "textbook",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "word": "परिवेश",
+    "display": "परिवेश",
+    "normalized": "परिवेश",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "環境、周囲の状況",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_021"
+    ],
+    "sourceTitle": "यह पुस्तक क्यों?",
+    "sourceGenre": "textbook",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "word": "शारीरिक विकास",
+    "display": "शारीरिक विकास",
+    "normalized": "शारीरिक विकास",
+    "variants": [],
+    "pos": "名詞句",
+    "meaning_ja": "身体的発達",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_021"
+    ],
+    "sourceTitle": "यह पुस्तक क्यों?",
+    "sourceGenre": "textbook",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "word": "प्रजनन",
+    "display": "प्रजनन",
+    "normalized": "प्रजनन",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "生殖、繁殖",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_021"
+    ],
+    "sourceTitle": "यह पुस्तक क्यों?",
+    "sourceGenre": "textbook",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "word": "चर्चा",
+    "display": "चर्चा",
+    "normalized": "चर्चा",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "議論、話し合い",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_021"
+    ],
+    "sourceTitle": "यह पुस्तक क्यों?",
+    "sourceGenre": "textbook",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "word": "माहौल",
+    "display": "माहौल",
+    "normalized": "माहौल",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "雰囲気、環境",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_021"
+    ],
+    "sourceTitle": "यह पुस्तक क्यों?",
+    "sourceGenre": "textbook",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "word": "अनौपचारिक",
+    "display": "अनौपचारिक",
+    "normalized": "अनौपचारिक",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "非公式の、形式ばらない",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_021"
+    ],
+    "sourceTitle": "यह पुस्तक क्यों?",
+    "sourceGenre": "textbook",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "word": "पाठ्यक्रम",
+    "display": "पाठ्यक्रम",
+    "normalized": "पाठ्यक्रम",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "カリキュラム、課程",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_021"
+    ],
+    "sourceTitle": "यह पुस्तक क्यों?",
+    "sourceGenre": "textbook",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "word": "विस्तृत",
+    "display": "विस्तृत",
+    "normalized": "विस्तृत",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "詳しい、広範な",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_021"
+    ],
+    "sourceTitle": "यह पुस्तक क्यों?",
+    "sourceGenre": "textbook",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "word": "अभाव",
+    "display": "अभाव",
+    "normalized": "अभाव",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "不足、欠如",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_021"
+    ],
+    "sourceTitle": "यह पुस्तक क्यों?",
+    "sourceGenre": "textbook",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "word": "झिझक",
+    "display": "झिझक",
+    "normalized": "झिझक",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "ためらい、気後れ",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_021"
+    ],
+    "sourceTitle": "यह पुस्तक क्यों?",
+    "sourceGenre": "textbook",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "word": "शारीरिक बदलाव",
+    "display": "शारीरिक बदलाव",
+    "normalized": "शारीरिक बदलाव",
+    "variants": [],
+    "pos": "名詞句",
+    "meaning_ja": "身体の変化",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_021"
+    ],
+    "sourceTitle": "यह पुस्तक क्यों?",
+    "sourceGenre": "textbook",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "word": "अनुभव",
+    "display": "अनुभव",
+    "normalized": "अनुभव",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "経験",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_021"
+    ],
+    "sourceTitle": "यह पुस्तक क्यों?",
+    "sourceGenre": "textbook",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "word": "उभरना",
+    "display": "उभरा",
+    "normalized": "उभरना",
+    "variants": [],
+    "pos": "自動詞",
+    "meaning_ja": "浮かび上がる、生まれ出る",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_021"
+    ],
+    "sourceTitle": "यह पुस्तक क्यों?",
+    "sourceGenre": "textbook",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "word": "मान्यता",
+    "display": "मान्यता",
+    "normalized": "मान्यता",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "通念、信念、社会的に認められた考え",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_021"
+    ],
+    "sourceTitle": "यह पुस्तक क्यों?",
+    "sourceGenre": "textbook",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "word": "प्रभावित",
+    "display": "प्रभावित",
+    "normalized": "प्रभावित",
+    "variants": [],
+    "pos": "形容詞・動詞",
+    "meaning_ja": "影響された、影響を受けた",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_021"
+    ],
+    "sourceTitle": "यह पुस्तक क्यों?",
+    "sourceGenre": "textbook",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "word": "प्रतिकूल",
+    "display": "प्रतिकूल",
+    "normalized": "प्रतिकूल",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "不利な、逆境の",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_021"
+    ],
+    "sourceTitle": "यह पुस्तक क्यों?",
+    "sourceGenre": "textbook",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "word": "परिस्थिति",
+    "display": "परिस्थिति",
+    "normalized": "परिस्थिति",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "状況、環境",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_021"
+    ],
+    "sourceTitle": "यह पुस्तक क्यों?",
+    "sourceGenre": "textbook",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "word": "जूझना",
+    "display": "जूझ रही हैं",
+    "normalized": "जूझना",
+    "variants": [],
+    "pos": "自動詞",
+    "meaning_ja": "闘う、苦闘する",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_021"
+    ],
+    "sourceTitle": "यह पुस्तक क्यों?",
+    "sourceGenre": "textbook",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "word": "अन्धविश्वास",
+    "display": "अन्धविश्वासों",
+    "normalized": "अंधविश्वास",
+    "variants": [
+      "अंधविश्वास",
+      "अन्धविश्वास"
+    ],
+    "pos": "名詞（男）",
+    "meaning_ja": "迷信",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_021"
+    ],
+    "sourceTitle": "यह पुस्तक क्यों?",
+    "sourceGenre": "textbook",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "word": "पुस्तिका",
+    "display": "पुस्तिका",
+    "normalized": "पुस्तिका",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "小冊子、冊子",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_021"
+    ],
+    "sourceTitle": "यह पुस्तक क्यों?",
+    "sourceGenre": "textbook",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "word": "उद्देश्य",
+    "display": "उद्देश्य",
+    "normalized": "उद्देश्य",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "目的",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_021"
+    ],
+    "sourceTitle": "यह पुस्तक क्यों?",
+    "sourceGenre": "textbook",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "word": "आदान-प्रदान",
+    "display": "आदान-प्रदान",
+    "normalized": "आदान प्रदान",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "やり取り、意見交換",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_021"
+    ],
+    "sourceTitle": "यह पुस्तक क्यों?",
+    "sourceGenre": "textbook",
+    "sourceRegister": "simple_narrative"
+  }
+]

@@ -2428,10 +2428,11 @@
     "sourceArticleIds": [
       "news_20260429_bengal_chunaw",
       "news020DJ20260518_NeetLeak",
-      "news024_NBT20260520_Dahej"
+      "news024_NBT20260520_Dahej",
+      "news033_DJ20260527_KhaliBaoli"
     ],
-    "sourceCount": 3,
-    "frequency": 3,
+    "sourceCount": 4,
+    "frequency": 4,
     "notes": "गिरफ्तारी は名詞「逮捕」。これは分詞・形容詞として別登録。",
     "quizWeight": 3
   },
@@ -4555,10 +4556,11 @@
     "importance": 3,
     "status": "active",
     "sourceArticleIds": [
-      "news_013"
+      "news_013",
+      "news033_DJ20260527_KhaliBaoli"
     ],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 2,
+    "frequency": 2,
     "notes": "",
     "quizWeight": 3
   },
@@ -5078,16 +5080,17 @@
     "word": "फंसना",
     "normalized": "फंसना",
     "pos": "動詞",
-    "meaning_ja": "はまり込む、巻き込まれる、抜け出せなくなる",
+    "meaning_ja": "閉じ込められる、巻き込まれる、抜け出せなくなる",
     "category": "重要動詞",
     "difficulty": 3,
     "importance": 4,
     "status": "active",
     "sourceArticleIds": [
-      "news_014"
+      "news_014",
+      "news036_DJ20260526_Ropeway"
     ],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 2,
+    "frequency": 2,
     "notes": "",
     "quizWeight": 4
   },
@@ -7933,7 +7936,7 @@
     "display": "आसार",
     "normalized": "आसार",
     "variants": [],
-    "pos": "名詞（男・複）",
+    "pos": "名詞（男）",
     "meaning_ja": "兆候、見込み、可能性",
     "category": "調査・統計",
     "importance": 4,
@@ -10766,10 +10769,11 @@
     "importance": 4,
     "status": "active",
     "sourceArticleIds": [
-      "news035_NBT20260525_Manjha"
+      "news035_NBT20260525_Manjha",
+      "news033_DJ20260527_KhaliBaoli"
     ],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 2,
+    "frequency": 2,
     "notes": "警察捜査文脈頻出",
     "quizWeight": 3
   },
@@ -10806,23 +10810,6 @@
     "frequency": 1,
     "notes": "交通・事故ニュース頻出",
     "quizWeight": 3
-  },
-  {
-    "word": "फंसना",
-    "normalized": "फंसना",
-    "pos": "自動詞",
-    "meaning_ja": "閉じ込められる、動けなくなる",
-    "category": "事件・事故",
-    "difficulty": 3,
-    "importance": 4,
-    "status": "active",
-    "sourceArticleIds": [
-      "news036_DJ20260526_Ropeway"
-    ],
-    "sourceCount": 1,
-    "frequency": 1,
-    "notes": "事故・災害文脈頻出",
-    "quizWeight": 4
   },
   {
     "word": "लटकना",
@@ -10976,6 +10963,234 @@
     "sourceCount": 1,
     "frequency": 1,
     "notes": "観光ニュース頻出",
+    "quizWeight": 4
+  },
+  {
+    "word": "मिलावटी",
+    "normalized": "मिलावटी",
+    "pos": "形容詞",
+    "meaning_ja": "混ぜ物をした、粗悪な",
+    "category": "事件・事故",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news033_DJ20260527_KhaliBaoli"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "食品偽装・衛生ニュース頻出",
+    "quizWeight": 4
+  },
+  {
+    "word": "मालिक",
+    "normalized": "मालिक",
+    "pos": "名詞（男）",
+    "meaning_ja": "所有者、経営者",
+    "category": "事件・事故",
+    "difficulty": 2,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news033_DJ20260527_KhaliBaoli"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "事件・商業ニュース頻出",
+    "quizWeight": 3
+  },
+  {
+    "word": "घटिया",
+    "normalized": "घटिया",
+    "pos": "形容詞",
+    "meaning_ja": "質の悪い、粗悪な",
+    "category": "事件・事故",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news033_DJ20260527_KhaliBaoli"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "品質・衛生問題文脈頻出",
+    "quizWeight": 4
+  },
+  {
+    "word": "डंडी",
+    "normalized": "डंडी",
+    "pos": "名詞（女）",
+    "meaning_ja": "茎、棒状部分",
+    "category": "一般ニュース語彙",
+    "difficulty": 4,
+    "importance": 2,
+    "status": "active",
+    "sourceArticleIds": [
+      "news033_DJ20260527_KhaliBaoli"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "食品・植物関連語彙",
+    "quizWeight": 2
+  },
+  {
+    "word": "डंठल",
+    "normalized": "डंठल",
+    "pos": "名詞（男）",
+    "meaning_ja": "茎、へた",
+    "category": "一般ニュース語彙",
+    "difficulty": 4,
+    "importance": 2,
+    "status": "active",
+    "sourceArticleIds": [
+      "news033_DJ20260527_KhaliBaoli"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "植物・食品関連語彙",
+    "quizWeight": 2
+  },
+  {
+    "word": "साप्ताहिक",
+    "normalized": "साप्ताहिक",
+    "pos": "形容詞",
+    "meaning_ja": "毎週の、週刊の",
+    "category": "一般ニュース語彙",
+    "difficulty": 3,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news033_DJ20260527_KhaliBaoli"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "ニュース・出版文脈頻出",
+    "quizWeight": 3
+  },
+  {
+    "word": "रेहड़ी",
+    "display": "रेहड़ी",
+    "normalized": "रेहड़ी",
+    "variants": [
+      "रेहड़ी",
+      "रेहड़ी"
+    ],
+    "pos": "名詞（女）",
+    "meaning_ja": "屋台、手押し車",
+    "category": "労働・経済",
+    "difficulty": 4,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news033_DJ20260527_KhaliBaoli"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "インド都市生活関連語彙",
+    "quizWeight": 3
+  },
+  {
+    "word": "मुनाफा",
+    "normalized": "मुनाफा",
+    "pos": "名詞（男）",
+    "meaning_ja": "利益、儲け",
+    "category": "労働・経済",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news033_DJ20260527_KhaliBaoli"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "商業・経済ニュース頻出",
+    "quizWeight": 4
+  },
+  {
+    "word": "भूतल",
+    "normalized": "भूतल",
+    "pos": "名詞（男）",
+    "meaning_ja": "地上階、1階",
+    "category": "一般ニュース語彙",
+    "difficulty": 4,
+    "importance": 2,
+    "status": "active",
+    "sourceArticleIds": [
+      "news033_DJ20260527_KhaliBaoli"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "建物・施設関連語彙",
+    "quizWeight": 2
+  },
+  {
+    "word": "जब्त",
+    "normalized": "जब्त",
+    "pos": "名詞（男）",
+    "meaning_ja": "押収",
+    "category": "選挙・裁判",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news033_DJ20260527_KhaliBaoli"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "警察・捜査ニュース頻出",
+    "quizWeight": 4
+  },
+  {
+    "word": "खाद्य सुरक्षा विभाग",
+    "display": "खाद्य सुरक्षा विभाग",
+    "normalized": "खाद्य_सुरक्षा_विभाग",
+    "pos": "固定複合語",
+    "meaning_ja": "食品安全局、食品安全部門",
+    "category": "医療・健康",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news033_DJ20260527_KhaliBaoli"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "食品衛生行政関連語彙",
+    "quizWeight": 4
+  },
+  {
+    "word": "चावल का चूरा",
+    "display": "चावल का चूरा",
+    "normalized": "चावल_का_चूरा",
+    "pos": "固定複合語",
+    "meaning_ja": "米粉、砕いた米粉末",
+    "category": "医療・健康",
+    "difficulty": 4,
+    "importance": 2,
+    "status": "active",
+    "sourceArticleIds": [
+      "news033_DJ20260527_KhaliBaoli"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "食品加工関連語彙",
+    "quizWeight": 2
+  },
+  {
+    "word": "हानिकारक",
+    "normalized": "हानिकारक",
+    "pos": "形容詞",
+    "meaning_ja": "有害な",
+    "category": "医療・健康",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news033_DJ20260527_KhaliBaoli"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "健康・医療ニュース頻出",
     "quizWeight": 4
   }
 ]

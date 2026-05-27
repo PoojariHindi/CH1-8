@@ -1,0 +1,878 @@
+[
+  {
+    "word": "मद्य विभाग",
+    "display": "मद्य विभाग",
+    "normalized": "मद्य विभाग",
+    "variants": [],
+    "pos": "名詞句",
+    "meaning_ja": "酒類取締部門、酒税・酒類関連部局",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_019"
+    ],
+    "sourceTitle": "Mukhabir",
+    "sourceGenre": "novel",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "word": "मुखबिर",
+    "display": "मुखबिर",
+    "normalized": "मुखबिर",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "密告者、情報提供者",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_019"
+    ],
+    "sourceTitle": "Mukhabir",
+    "sourceGenre": "novel",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "word": "परिचय",
+    "display": "परिचय",
+    "normalized": "परिचय",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "紹介、面識",
+    "importance": 3,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_019"
+    ],
+    "sourceTitle": "Mukhabir",
+    "sourceGenre": "novel",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "word": "मैला",
+    "display": "मैली",
+    "normalized": "मैला",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "汚れた、濁った",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_019"
+    ],
+    "sourceTitle": "Mukhabir",
+    "sourceGenre": "novel",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "word": "पंक्ति",
+    "display": "पंक्ति",
+    "normalized": "पंक्ति",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "列、行",
+    "importance": 3,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_019"
+    ],
+    "sourceTitle": "Mukhabir",
+    "sourceGenre": "novel",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "word": "निचोड़ना",
+    "display": "निचोड़ना",
+    "normalized": "निचोड़ना",
+    "variants": [],
+    "pos": "他動詞",
+    "meaning_ja": "絞る、絞り出す",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_019"
+    ],
+    "sourceTitle": "Mukhabir",
+    "sourceGenre": "novel",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "word": "मुड़ा-तुड़ा",
+    "display": "मुड़ा-तुड़ा",
+    "normalized": "मुड़ा तुड़ा",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "しわくちゃの、折れ曲がった",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_019"
+    ],
+    "sourceTitle": "Mukhabir",
+    "sourceGenre": "novel",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "word": "छिलका",
+    "display": "छिलका",
+    "normalized": "छिलका",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "皮、抜け殻",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_019"
+    ],
+    "sourceTitle": "Mukhabir",
+    "sourceGenre": "novel",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "word": "पट्टा",
+    "display": "पट्टा",
+    "normalized": "पट्टा",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "房状の髪、帯状のもの",
+    "importance": 3,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_019"
+    ],
+    "sourceTitle": "Mukhabir",
+    "sourceGenre": "novel",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "word": "ऐंठन",
+    "display": "ऐंठन",
+    "normalized": "ऐंठन",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "ねじれ、こわばり、ひきつり",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_019"
+    ],
+    "sourceTitle": "Mukhabir",
+    "sourceGenre": "novel",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "word": "आयताकार",
+    "display": "आयताकार",
+    "normalized": "आयताकार",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "長方形の",
+    "importance": 3,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_019"
+    ],
+    "sourceTitle": "Mukhabir",
+    "sourceGenre": "novel",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "word": "मुंडा हुआ",
+    "display": "मुंडा हुआ",
+    "normalized": "मुंडा हुआ",
+    "variants": [],
+    "pos": "形容詞句",
+    "meaning_ja": "剃られた",
+    "importance": 3,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_019"
+    ],
+    "sourceTitle": "Mukhabir",
+    "sourceGenre": "novel",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "word": "अटकना",
+    "display": "अटकना",
+    "normalized": "अटकना",
+    "variants": [],
+    "pos": "自動詞",
+    "meaning_ja": "引っかかる、止まる",
+    "importance": 3,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_019"
+    ],
+    "sourceTitle": "Mukhabir",
+    "sourceGenre": "novel",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "word": "लौ",
+    "display": "लौ",
+    "normalized": "लौ",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "耳たぶ、炎",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_019"
+    ],
+    "sourceTitle": "Mukhabir",
+    "sourceGenre": "novel",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "word": "छल्ला",
+    "display": "छल्ला",
+    "normalized": "छल्ला",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "輪、リング",
+    "importance": 3,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_019"
+    ],
+    "sourceTitle": "Mukhabir",
+    "sourceGenre": "novel",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "word": "निशानी",
+    "display": "निशानी",
+    "normalized": "निशानी",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "しるし、記念の品",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_019"
+    ],
+    "sourceTitle": "Mukhabir",
+    "sourceGenre": "novel",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "word": "भंग",
+    "display": "भंग",
+    "normalized": "भंग",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "バング、大麻飲料",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_019"
+    ],
+    "sourceTitle": "Mukhabir",
+    "sourceGenre": "novel",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "word": "नसेड़ी",
+    "display": "नसेड़ी",
+    "normalized": "नसेड़ी",
+    "variants": [],
+    "pos": "名詞・形容詞",
+    "meaning_ja": "薬物・酒におぼれた人、中毒者",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_019"
+    ],
+    "sourceTitle": "Mukhabir",
+    "sourceGenre": "novel",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "word": "सुरमा",
+    "display": "सुरमा",
+    "normalized": "सुरमा",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "コール、目に入れる黒い化粧粉",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_019"
+    ],
+    "sourceTitle": "Mukhabir",
+    "sourceGenre": "novel",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "word": "पुतली",
+    "display": "पुतली",
+    "normalized": "पुतली",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "瞳、瞳孔",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_019"
+    ],
+    "sourceTitle": "Mukhabir",
+    "sourceGenre": "novel",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "word": "गदला",
+    "display": "गदली-गदली",
+    "normalized": "गदला",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "濁った、くすんだ",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_019"
+    ],
+    "sourceTitle": "Mukhabir",
+    "sourceGenre": "novel",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "word": "समेटना",
+    "display": "समेटना",
+    "normalized": "समेटना",
+    "variants": [],
+    "pos": "他動詞",
+    "meaning_ja": "集める、まとめる、抱え込む",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_019"
+    ],
+    "sourceTitle": "Mukhabir",
+    "sourceGenre": "novel",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "word": "हल्दी की गांठ",
+    "display": "हल्दी की गांठ",
+    "normalized": "हल्दी की गांठ",
+    "variants": [],
+    "pos": "名詞句",
+    "meaning_ja": "ターメリックの塊",
+    "importance": 3,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_019"
+    ],
+    "sourceTitle": "Mukhabir",
+    "sourceGenre": "novel",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "word": "उभरना",
+    "display": "उभरना",
+    "normalized": "उभरना",
+    "variants": [],
+    "pos": "自動詞",
+    "meaning_ja": "浮き出る、現れる",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_019"
+    ],
+    "sourceTitle": "Mukhabir",
+    "sourceGenre": "novel",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "word": "तनना",
+    "display": "तनना",
+    "normalized": "तनना",
+    "variants": [],
+    "pos": "自動詞",
+    "meaning_ja": "張る、緊張する",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_019"
+    ],
+    "sourceTitle": "Mukhabir",
+    "sourceGenre": "novel",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "word": "रस्साकशी",
+    "display": "रस्साकशी",
+    "normalized": "रस्साकशी",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "綱引き、葛藤",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_019"
+    ],
+    "sourceTitle": "Mukhabir",
+    "sourceGenre": "novel",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "word": "मैल",
+    "display": "मैल",
+    "normalized": "मैल",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "汚れ、垢",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_019"
+    ],
+    "sourceTitle": "Mukhabir",
+    "sourceGenre": "novel",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "word": "तहबन्द",
+    "display": "तहबन्द",
+    "normalized": "तहबंद",
+    "variants": [
+      "तहबंद"
+    ],
+    "pos": "名詞（男）",
+    "meaning_ja": "腰布、下衣",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_019"
+    ],
+    "sourceTitle": "Mukhabir",
+    "sourceGenre": "novel",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "word": "शोरबा",
+    "display": "शोरबे",
+    "normalized": "शोरबा",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "スープ、汁",
+    "importance": 3,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_019"
+    ],
+    "sourceTitle": "Mukhabir",
+    "sourceGenre": "novel",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "word": "धब्बा",
+    "display": "धब्बा",
+    "normalized": "धब्बा",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "しみ、斑点、汚点",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_019"
+    ],
+    "sourceTitle": "Mukhabir",
+    "sourceGenre": "novel",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "word": "हाशिया",
+    "display": "हाशिया",
+    "normalized": "हाशिया",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "縁、余白、周辺",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_019"
+    ],
+    "sourceTitle": "Mukhabir",
+    "sourceGenre": "novel",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "word": "ज़ाहिर",
+    "display": "ज़ाहिर",
+    "normalized": "ज़ाहिर",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "明らかな、現れた",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_019"
+    ],
+    "sourceTitle": "Mukhabir",
+    "sourceGenre": "novel",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "word": "चीरना",
+    "display": "चीरना",
+    "normalized": "चीरना",
+    "variants": [],
+    "pos": "他動詞",
+    "meaning_ja": "切り裂く、割る",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_019"
+    ],
+    "sourceTitle": "Mukhabir",
+    "sourceGenre": "novel",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "word": "मसूढ़ा",
+    "display": "मसूढ़ा",
+    "normalized": "मसूढ़ा",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "歯茎",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_019"
+    ],
+    "sourceTitle": "Mukhabir",
+    "sourceGenre": "novel",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "word": "चरस",
+    "display": "चरस",
+    "normalized": "चरस",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "チャラス、大麻樹脂",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_019"
+    ],
+    "sourceTitle": "Mukhabir",
+    "sourceGenre": "novel",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "word": "पोपला",
+    "display": "पोपले",
+    "normalized": "पोपला",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "歯の抜けた",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_019"
+    ],
+    "sourceTitle": "Mukhabir",
+    "sourceGenre": "novel",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "word": "लिपटना",
+    "display": "लिपटा",
+    "normalized": "लिपटना",
+    "variants": [],
+    "pos": "自動詞",
+    "meaning_ja": "巻きつく、絡みつく",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_019"
+    ],
+    "sourceTitle": "Mukhabir",
+    "sourceGenre": "novel",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "word": "दरार",
+    "display": "दरार",
+    "normalized": "दरार",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "隙間、割れ目",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_019"
+    ],
+    "sourceTitle": "Mukhabir",
+    "sourceGenre": "novel",
+    "sourceRegister": "literary_prose"
+  }
+]

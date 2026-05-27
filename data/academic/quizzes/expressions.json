@@ -18,6 +18,24 @@
     ]
   },
   {
+    "text": "अल्लाह निगहबान हो",
+    "normalized": "अल्लाह निगहबान हो",
+    "meaning": "アッラーの加護がありますように",
+    "meaning_ja": "アッラーの加護がありますように",
+    "type": "urdu_expression",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "犯罪・捜査"
+    ],
+    "sourceIds": [
+      "academic_020"
+    ]
+  },
+  {
     "text": "अविवेकपूर्ण मानवीय कृत्य",
     "normalized": "अविवेकपूर्ण मानवीय कृत्य",
     "meaning": "無分別な人間の行為",
@@ -33,6 +51,24 @@
     ],
     "sourceIds": [
       "academic_016"
+    ]
+  },
+  {
+    "text": "आदान-प्रदान कर पाने का माहौल बनाना",
+    "normalized": "आदान प्रदान कर पाने का माहौल बनाना",
+    "meaning": "意見交換ができる環境を作る",
+    "meaning_ja": "意見交換ができる環境を作る",
+    "type": "academic_expression",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_021"
     ]
   },
   {
@@ -126,6 +162,42 @@
     ]
   },
   {
+    "text": "औरत को नीचा दिखाने की कोशिश",
+    "normalized": "औरत को नीचा दिखाने की कोशिश",
+    "meaning": "女性を低く見せようとする試み",
+    "meaning_ja": "女性を低く見せようとする試み",
+    "type": "social_expression",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_022"
+    ]
+  },
+  {
+    "text": "किशोरावस्था में होने वाले शारीरिक परिवर्तन",
+    "normalized": "किशोरावस्था में होने वाले शारीरिक परिवर्तन",
+    "meaning": "思春期に起こる身体的変化",
+    "meaning_ja": "思春期に起こる身体的変化",
+    "type": "academic_expression",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_021"
+    ]
+  },
+  {
     "text": "जाति-पाँति के भेदभाव का विरोध",
     "normalized": "जाति पाँति के भेदभाव का विरोध",
     "meaning": "カースト差別への反対",
@@ -159,6 +231,24 @@
     ],
     "sourceIds": [
       "academic_011"
+    ]
+  },
+  {
+    "text": "दिमाग़ और दिल में रस्साकशी चल रही है",
+    "normalized": "दिमाग़ और दिल में रस्साकशी चल रही है",
+    "meaning": "頭と心の間で綱引きが起きている",
+    "meaning_ja": "頭と心の間で綱引きが起きている",
+    "type": "metaphorical_expression",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_019"
     ]
   },
   {
@@ -270,6 +360,60 @@
     ]
   },
   {
+    "text": "प्रतिकूल परिस्थितियों से जूझ रही हैं",
+    "normalized": "प्रतिकूल परिस्थितियों से जूझ रही हैं",
+    "meaning": "不利な状況と闘っている",
+    "meaning_ja": "不利な状況と闘っている",
+    "type": "academic_expression",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_021"
+    ]
+  },
+  {
+    "text": "बन्धनों का उल्लंघन करने में घबराते हैं",
+    "normalized": "बन्धनों का उल्लंघन करने में घबराते हैं",
+    "meaning": "制約を破ることに不安を覚える",
+    "meaning_ja": "制約を破ることに不安を覚える",
+    "type": "academic_expression",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_022"
+    ]
+  },
+  {
+    "text": "बात का ढब बता रहा था",
+    "normalized": "बात का ढब बता रहा था",
+    "meaning": "話しぶりが物語っていた",
+    "meaning_ja": "話しぶりが物語っていた",
+    "type": "literary_expression",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "犯罪・捜査"
+    ],
+    "sourceIds": [
+      "academic_020"
+    ]
+  },
+  {
     "text": "बिना पक्षपात किए अध्ययन करना चाहिए",
     "normalized": "बिना पक्षपात किए अध्ययन करना चाहिए",
     "meaning": "偏見なしに研究すべきである",
@@ -288,6 +432,24 @@
     ]
   },
   {
+    "text": "महिला की प्रजनन शक्ति का प्रतीक",
+    "normalized": "महिला की प्रजनन शक्ति का प्रतीक",
+    "meaning": "女性の生殖能力の象徴",
+    "meaning_ja": "女性の生殖能力の象徴",
+    "type": "academic_expression",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_022"
+    ]
+  },
+  {
     "text": "माया का पर्दा",
     "normalized": "माया का पर्दा",
     "meaning": "幻影の幕、マーヤーによる隔たり",
@@ -303,6 +465,24 @@
     ],
     "sourceIds": [
       "academic_014"
+    ]
+  },
+  {
+    "text": "माहवारी से कई तरह की मान्यताएँ जुड़ी हैं",
+    "normalized": "माहवारी से कई तरह की मान्यताएं जुड़ी हैं",
+    "meaning": "月経にはさまざまな通念が結びついている",
+    "meaning_ja": "月経にはさまざまな通念が結びついている",
+    "type": "academic_expression",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_022"
     ]
   },
   {
@@ -393,6 +573,24 @@
     ],
     "sourceIds": [
       "academic_010"
+    ]
+  },
+  {
+    "text": "विरोधाभासी स्थिति कैसे पनपी",
+    "normalized": "विरोधाभासी स्थिति कैसे पनपी",
+    "meaning": "矛盾した状況がどのように生じたのか",
+    "meaning_ja": "矛盾した状況がどのように生じたのか",
+    "type": "academic_expression",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_022"
     ]
   },
   {
@@ -750,6 +948,24 @@
     ]
   },
   {
+    "text": "उचटती सी नजर से देखकर",
+    "normalized": "उचटती सी नजर से देखकर",
+    "meaning": "ちらっとした視線で見て",
+    "meaning_ja": "ちらっとした視線で見て",
+    "type": "literary_expression",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "犯罪・捜査"
+    ],
+    "sourceIds": [
+      "academic_020"
+    ]
+  },
+  {
     "text": "उसका पति दुनिया का सबसे बड़ा मूर्ख है",
     "normalized": "उसका पति दुनिया का सबसे बड़ा मूर्ख है",
     "meaning": "彼女の夫は世界一の愚か者だ",
@@ -784,6 +1000,24 @@
     ]
   },
   {
+    "text": "एक साथ ज़ाहिर हो गये",
+    "normalized": "एक साथ ज़ाहिर हो गये",
+    "meaning": "一斉に現れた、あらわになった",
+    "meaning_ja": "一斉に現れた、あらわになった",
+    "type": "literary_expression",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_019"
+    ]
+  },
+  {
     "text": "ऐतिहासिक परिप्रेक्ष्य में विश्लेषण",
     "normalized": "ऐतिहासिक परिप्रेक्ष्य में विश्लेषण",
     "meaning": "歴史的観点からの分析",
@@ -799,6 +1033,24 @@
     ],
     "sourceIds": [
       "academic_011"
+    ]
+  },
+  {
+    "text": "काम आएगी",
+    "normalized": "काम आएगी",
+    "meaning": "役に立つだろう",
+    "meaning_ja": "役に立つだろう",
+    "type": "common_expression",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_021"
     ]
   },
   {
@@ -871,6 +1123,78 @@
     ]
   },
   {
+    "text": "जानकारी के अभाव में",
+    "normalized": "जानकारी के अभाव में",
+    "meaning": "情報の不足により",
+    "meaning_ja": "情報の不足により",
+    "type": "academic_expression",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_021"
+    ]
+  },
+  {
+    "text": "जिला में धूम मच गई",
+    "normalized": "जिला में धूम मच गई",
+    "meaning": "地区中で大騒ぎになった",
+    "meaning_ja": "地区中で大騒ぎになった",
+    "type": "narrative_expression",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "犯罪・捜査"
+    ],
+    "sourceIds": [
+      "academic_020"
+    ]
+  },
+  {
+    "text": "जीते जागते इंसान के बजाये",
+    "normalized": "जीते जागते इंसान के बजाये",
+    "meaning": "生きた人間というよりも",
+    "meaning_ja": "生きた人間というよりも",
+    "type": "literary_expression",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_019"
+    ]
+  },
+  {
+    "text": "झेंप मिटाने के लिये",
+    "normalized": "झेंप मिटाने के लिये",
+    "meaning": "恥ずかしさをごまかすために",
+    "meaning_ja": "恥ずかしさをごまかすために",
+    "type": "literary_expression",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "犯罪・捜査"
+    ],
+    "sourceIds": [
+      "academic_020"
+    ]
+  },
+  {
     "text": "तकनीकी रूप से सुलभ होना चाहिए",
     "normalized": "तकनीकी रूप से सुलभ होना चाहिए",
     "meaning": "技術的に利用可能でなければならない",
@@ -886,6 +1210,24 @@
     ],
     "sourceIds": [
       "academic_016"
+    ]
+  },
+  {
+    "text": "तीस की तीस सच्ची मुखबिरियाँ",
+    "normalized": "तीस की तीस सच्ची मुखबिरियाँ",
+    "meaning": "三十件すべて本物の密告",
+    "meaning_ja": "三十件すべて本物の密告",
+    "type": "narrative_expression",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "犯罪・捜査"
+    ],
+    "sourceIds": [
+      "academic_020"
     ]
   },
   {
@@ -920,6 +1262,24 @@
     ],
     "sourceIds": [
       "academic_005BandarMagarmacch3"
+    ]
+  },
+  {
+    "text": "दृष्टिकोण से परखना होगा",
+    "normalized": "दृष्टिकोण से परखना होगा",
+    "meaning": "視点から検討しなければならない",
+    "meaning_ja": "視点から検討しなければならない",
+    "type": "academic_expression",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_022"
     ]
   },
   {
@@ -1113,6 +1473,24 @@
     ]
   },
   {
+    "text": "बड़े से बड़े मुखबिर पर भी ऐसा वक़्त आ ही जाता है",
+    "normalized": "बड़े से बड़े मुखबिर पर भी ऐसा वक़्त आ ही जाता है",
+    "meaning": "どんな大物の密告者にもそういう時は来る",
+    "meaning_ja": "どんな大物の密告者にもそういう時は来る",
+    "type": "philosophical_statement",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "犯罪・捜査"
+    ],
+    "sourceIds": [
+      "academic_020"
+    ]
+  },
+  {
     "text": "बीमारियों का शिकार हो रहे हैं",
     "normalized": "बीमारियों का शिकार हो रहे हैं",
     "meaning": "病気の犠牲になっている",
@@ -1236,6 +1614,24 @@
     ]
   },
   {
+    "text": "मेरा मुँह छोटा हो गया",
+    "normalized": "मेरा मुँह छोटा हो गया",
+    "meaning": "私は返す言葉を失った、気まずくなった",
+    "meaning_ja": "私は返す言葉を失った、気まずくなった",
+    "type": "idiomatic_expression",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_021"
+    ]
+  },
+  {
     "text": "मैं अपने एकमात्र दोस्त को कैसे नुकसान पहुँचा सकता हूँ",
     "normalized": "मैं अपने एकमात्र दोस्त को कैसे नुकसान पहुँचा सकता हूँ",
     "meaning": "私は唯一の友人にどうして危害を加えられるだろうか",
@@ -1284,6 +1680,24 @@
     ],
     "sourceIds": [
       "academic_003BandarMagarmacch1"
+    ]
+  },
+  {
+    "text": "यूँ मालूम होता था",
+    "normalized": "यूँ मालूम होता था",
+    "meaning": "このように思われた、〜のように見えた",
+    "meaning_ja": "このように思われた、〜のように見えた",
+    "type": "literary_expression",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_019"
     ]
   },
   {
@@ -1600,6 +2014,42 @@
     ],
     "sourceIds": [
       "academic_012"
+    ]
+  },
+  {
+    "text": "कोई निशान नज़र न आया",
+    "normalized": "कोई निशान नज़र न आया",
+    "meaning": "何の跡も見えなかった",
+    "meaning_ja": "何の跡も見えなかった",
+    "type": "narrative_expression",
+    "importance": 3,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_019"
+    ]
+  },
+  {
+    "text": "मेरा परिचय कराया",
+    "normalized": "मेरा परिचय कराया",
+    "meaning": "私を紹介した",
+    "meaning_ja": "私を紹介した",
+    "type": "narrative_expression",
+    "importance": 3,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_019"
     ]
   },
   {

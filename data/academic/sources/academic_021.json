@@ -1,0 +1,334 @@
+{
+  "id": "academic_021",
+  "schema_version": 1,
+
+  "title": "यह पुस्तक क्यों?",
+  "author": "अनु गुप्ता",
+  "source": "बेटी करे सवाल",
+  "year": 2021,
+
+  "genre": "textbook",
+  "register": "simple_narrative",
+
+  "category": "読解",
+
+  "tags": [
+    "教科書",
+    "性教育",
+    "社会",
+    "抽象語"
+  ],
+
+  "key_phrase": "सर कहते हैं कि हम बिगड़ गई हैं।",
+
+  "text": "यह पुस्तक क्यों? इस पुस्तक को लिखने की ज़रूरत आज से 7-8 साल पहले महसूस हुई थी जब हम देवास की कुछ स्कूली लड़कियों से बातचीत कर रहे थे। बातचीत के दौरान हम उन्हें किशोरावस्था में होने वाले शारीरिक परिवर्तनों के बारे में बता रहे थे। तब एक लड़की ने बताया, “दीदी, सर कहते हैं कि हम बिगड़ गई हैं। क्या हम सच में बिगड़ गई हैं?” मेरा मुँह छोटा हो गया। पर तभी एक दूसरी लड़की बोल उठी, \"नहीं दीदी, यह जानकारी हमें आज नहीं तो 1-2 सालों में ज़रूर काम आएगी।” इसी तरह एक और लड़की ने बताया, “दीदी, पहली माहवारी के बाद मैं 5-6 महीने कपड़े से नहीं हुई। मेरे माता-पिता मुझ पर शक करते हैं। आपको यह जानकारी हमारे माता-पिता को भी देनी चाहिए।” ऐसे परिवेश में जहाँ शारीरिक विकास, माहवारी और प्रजनन पर चर्चा करना गन्दा समझा जाता है, एक ऐसा माहौल बनाना और भी आवश्यक हो जाता है जहाँ इन विषयों पर बातचीत हो सके। एक ओर कुछ ही शिक्षिकाएँ अनौपचारिक ढंग से इन विषयों पर छात्राओं के साथ बातचीत करती हैं तो दूसरी ओर पाठ्यक्रम के इन पाठों को ज़्यादातर पढ़ाया ही नहीं जाता। माता-पिता भी बेटी को यह जानकारी विस्तृत रूप से नहीं दे पाते जानकारी के अभाव में या झिझक की वजह से। किशोरावस्था में होने वाले शारीरिक बदलावों को लड़कियाँ अच्छी तरह से समझ सकें, इसके लिए हमने देवास के स्कूलों में और स्कूल के बाहर लड़कियों, शिक्षिकाओं और महिलाओं के बीच इन विषयों पर बातचीत की। पुस्तक का पहला भाग इन्हीं अनुभवों और लड़कियों द्वारा पूछे गए सवालों से उभरा है। पुस्तक के दूसरे भाग में हमने चर्चा की है कि समाज की विभिन्न किस्म की मान्यताएँ किस तरह लड़कियों के जीवन को प्रभावित करती हैं। साथ ही लड़कियों और महिलाओं से हुई बातचीत से हमने यह भी जाना कि महिलाएँ लगातार इस तरह की तमाम प्रतिकूल परिस्थितियों से जूझ रही हैं। हम आशा करते हैं कि पुस्तक में दी गई जानकारी से माहवारी और इसके साथ जुड़े अन्धविश्वासों को समझने में मदद मिलेगी। पुस्तिका का एक प्रमुख उद्देश्य है इन विषयों पर बातचीत व आदान-प्रदान कर पाने का माहौल बनाना।",
+
+  "expressions": [
+    {
+      "text": "किशोरावस्था में होने वाले शारीरिक परिवर्तन",
+      "normalized": "किशोरावस्था में होने वाले शारीरिक परिवर्तन",
+      "meaning_ja": "思春期に起こる身体的変化",
+      "type": "academic_expression",
+      "importance": 5,
+      "status": "active"
+    },
+    {
+      "text": "मेरा मुँह छोटा हो गया",
+      "normalized": "मेरा मुँह छोटा हो गया",
+      "meaning_ja": "私は返す言葉を失った、気まずくなった",
+      "type": "idiomatic_expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "काम आएगी",
+      "normalized": "काम आएगी",
+      "meaning_ja": "役に立つだろう",
+      "type": "common_expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "जानकारी के अभाव में",
+      "normalized": "जानकारी के अभाव में",
+      "meaning_ja": "情報の不足により",
+      "type": "academic_expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "प्रतिकूल परिस्थितियों से जूझ रही हैं",
+      "normalized": "प्रतिकूल परिस्थितियों से जूझ रही हैं",
+      "meaning_ja": "不利な状況と闘っている",
+      "type": "academic_expression",
+      "importance": 5,
+      "status": "active"
+    },
+    {
+      "text": "आदान-प्रदान कर पाने का माहौल बनाना",
+      "normalized": "आदान प्रदान कर पाने का माहौल बनाना",
+      "meaning_ja": "意見交換ができる環境を作る",
+      "type": "academic_expression",
+      "importance": 5,
+      "status": "active"
+    }
+  ],
+
+  "vocab_candidates": [
+    {
+      "word": "ज़रूरत",
+      "display": "ज़रूरत",
+      "normalized": "जरूरत",
+      "variants": [
+        "जरूरत"
+      ],
+      "pos": "名詞（女）",
+      "meaning_ja": "必要、必要性",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "महसूस",
+      "normalized": "महसूस",
+      "pos": "形容詞・動詞",
+      "meaning_ja": "感じられた、感じること",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "किशोरावस्था",
+      "normalized": "किशोरावस्था",
+      "pos": "名詞（女）",
+      "meaning_ja": "思春期、青年期",
+      "importance": 5,
+      "status": "active"
+    },
+    {
+      "word": "शारीरिक परिवर्तन",
+      "display": "शारीरिक परिवर्तन",
+      "normalized": "शारीरिक परिवर्तन",
+      "pos": "名詞句",
+      "meaning_ja": "身体的変化",
+      "importance": 5,
+      "status": "active"
+    },
+    {
+      "word": "बिगड़ना",
+      "display": "बिगड़ गई",
+      "normalized": "बिगड़ना",
+      "pos": "自動詞",
+      "meaning_ja": "悪くなる、道を外れる",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "माहवारी",
+      "normalized": "माहवारी",
+      "pos": "名詞（女）",
+      "meaning_ja": "月経、生理",
+      "importance": 5,
+      "status": "active"
+    },
+    {
+      "word": "शक",
+      "normalized": "शक",
+      "pos": "名詞（男）",
+      "meaning_ja": "疑い、疑念",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "परिवेश",
+      "normalized": "परिवेश",
+      "pos": "名詞（男）",
+      "meaning_ja": "環境、周囲の状況",
+      "importance": 5,
+      "status": "active"
+    },
+    {
+      "word": "शारीरिक विकास",
+      "display": "शारीरिक विकास",
+      "normalized": "शारीरिक विकास",
+      "pos": "名詞句",
+      "meaning_ja": "身体的発達",
+      "importance": 5,
+      "status": "active"
+    },
+    {
+      "word": "प्रजनन",
+      "normalized": "प्रजनन",
+      "pos": "名詞（男）",
+      "meaning_ja": "生殖、繁殖",
+      "importance": 5,
+      "status": "active"
+    },
+    {
+      "word": "चर्चा",
+      "normalized": "चर्चा",
+      "pos": "名詞（女）",
+      "meaning_ja": "議論、話し合い",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "माहौल",
+      "normalized": "माहौल",
+      "pos": "名詞（男）",
+      "meaning_ja": "雰囲気、環境",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "अनौपचारिक",
+      "normalized": "अनौपचारिक",
+      "pos": "形容詞",
+      "meaning_ja": "非公式の、形式ばらない",
+      "importance": 5,
+      "status": "active"
+    },
+    {
+      "word": "पाठ्यक्रम",
+      "normalized": "पाठ्यक्रम",
+      "pos": "名詞（男）",
+      "meaning_ja": "カリキュラム、課程",
+      "importance": 5,
+      "status": "active"
+    },
+    {
+      "word": "विस्तृत",
+      "normalized": "विस्तृत",
+      "pos": "形容詞",
+      "meaning_ja": "詳しい、広範な",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "अभाव",
+      "normalized": "अभाव",
+      "pos": "名詞（男）",
+      "meaning_ja": "不足、欠如",
+      "importance": 5,
+      "status": "active"
+    },
+    {
+      "word": "झिझक",
+      "normalized": "झिझक",
+      "pos": "名詞（女）",
+      "meaning_ja": "ためらい、気後れ",
+      "importance": 5,
+      "status": "active"
+    },
+    {
+      "word": "शारीरिक बदलाव",
+      "display": "शारीरिक बदलाव",
+      "normalized": "शारीरिक बदलाव",
+      "pos": "名詞句",
+      "meaning_ja": "身体の変化",
+      "importance": 5,
+      "status": "active"
+    },
+    {
+      "word": "अनुभव",
+      "normalized": "अनुभव",
+      "pos": "名詞（男）",
+      "meaning_ja": "経験",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "उभरना",
+      "display": "उभरा",
+      "normalized": "उभरना",
+      "pos": "自動詞",
+      "meaning_ja": "浮かび上がる、生まれ出る",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "मान्यता",
+      "normalized": "मान्यता",
+      "pos": "名詞（女）",
+      "meaning_ja": "通念、信念、社会的に認められた考え",
+      "importance": 5,
+      "status": "active"
+    },
+    {
+      "word": "प्रभावित",
+      "normalized": "प्रभावित",
+      "pos": "形容詞・動詞",
+      "meaning_ja": "影響された、影響を受けた",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "प्रतिकूल",
+      "normalized": "प्रतिकूल",
+      "pos": "形容詞",
+      "meaning_ja": "不利な、逆境の",
+      "importance": 5,
+      "status": "active"
+    },
+    {
+      "word": "परिस्थिति",
+      "display": "परिस्थिति",
+      "normalized": "परिस्थिति",
+      "pos": "名詞（女）",
+      "meaning_ja": "状況、環境",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "जूझना",
+      "display": "जूझ रही हैं",
+      "normalized": "जूझना",
+      "pos": "自動詞",
+      "meaning_ja": "闘う、苦闘する",
+      "importance": 5,
+      "status": "active"
+    },
+    {
+      "word": "अन्धविश्वास",
+      "display": "अन्धविश्वासों",
+      "normalized": "अंधविश्वास",
+      "variants": [
+        "अंधविश्वास",
+        "अन्धविश्वास"
+      ],
+      "pos": "名詞（男）",
+      "meaning_ja": "迷信",
+      "importance": 5,
+      "status": "active"
+    },
+    {
+      "word": "पुस्तिका",
+      "normalized": "पुस्तिका",
+      "pos": "名詞（女）",
+      "meaning_ja": "小冊子、冊子",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "उद्देश्य",
+      "normalized": "उद्देश्य",
+      "pos": "名詞（男）",
+      "meaning_ja": "目的",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "आदान-प्रदान",
+      "display": "आदान-प्रदान",
+      "normalized": "आदान प्रदान",
+      "pos": "名詞（男）",
+      "meaning_ja": "やり取り、意見交換",
+      "importance": 5,
+      "status": "active"
+    }
+  ],
+
+  "meta": {
+    "source_type": "manual_curated",
+    "reading_genre": "academic",
+    "dedupe_ready": true
+  }
+}

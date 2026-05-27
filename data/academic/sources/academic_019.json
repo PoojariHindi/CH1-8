@@ -1,0 +1,406 @@
+{
+  "id": "academic_019",
+  "schema_version": 1,
+
+  "title": "Mukhabir",
+  "author": "Ahmad Nadeem Kasmi",
+  "source": "Vibhajan ki Kahaniyan",
+  "year": 2006,
+
+  "genre": "novel",
+  "register": "literary_prose",
+
+  "category": "読解",
+
+  "tags": [
+    "文学",
+    "小説",
+    "人物描写",
+    "抽象語"
+  ],
+
+  "key_phrase": "ये खादू है",
+
+  "text": "लाला तेजभान इंस्पेक्टर ने मद्य विभाग के दफ्तर में मुलतान के चुने हुए मुखबिरों से मेरा परिचय कराया और जब वह पीले चेहरों और मैली आँखों की उस पंक्ति के अन्त में पहुँचे तो बोले “ये खादू है\" सभी मुखबिर परिचय के बाद बाहर चले गये थे और अब हमारे सामने केवल खादू मौजूद था। यूँ मालूम होता था जैसे खादू को किसी 'शिकजी' में से निचोड़ कर निकाल लिया गया है और अब जीते जागते इंसान के बजाये मेरे सामने इंसान का एक मुड़ा तुड़ा छिलका रखा है। वह सर से नंगा था। लम्बे-लम्बे पट्टे गर्दन तक लटक रहे थे। माँग में ऐंठन सी थी। जबकि उसने चोटी पर आयताकार के एक मुंडे हुए हिस्से की राह से सर को खूब तेल पिला रखा था। एक कान पर सिगरेट का एक टुकड़ा अटका हुआ था और दूसरे कान की लौ में एक छल्ला सा लटक रहा था। “उस्ताद की निशानी है” उसने बाद में मुझे बताया था। “उस्ताद ने कहा था, तू पहला आदमी है जो मेरी तरह भंग का ये घड़ा पीकर एक मंगरा और माँग रहा है। अन्यथा यहाँ तो बड़े-बड़े नसेड़ी दो-तीन मंगरों के बाद ही राजा रसालू बन जाते हैं।” आँखों में सुरमा लगा रखा था परन्तु पुतलियाँ ऐसी गदली-गदली सी थीं जैसे वर्षों की धूल समेट रखी हो। नाक हल्दी की गांठ मालूम होती थी और होंठ उसके चेहरे से कुछ ज्यादा ही काले थे। गर्दन की एक-एक रंग कुछ यूँ उभरी और तनी हुई थी जैसे उसके दिमाग़ और दिल में 'रस्साकशी' चल रही है। कुरते में मैल समा गया था और तहबन्द पर जगह-जगह शोरबे के धब्बे थे। लाला तेज भान ने जब उसका नाम बताया तो वह मेरी ओर देख कर मुस्कुराया और उसके काले हाशियों वाले लम्बे-लम्बे दांत यूँ एक साथ ज़ाहिर हो गये जैसे किसी ने कच्चा तरबूज़ा चीर डाला है। परन्तु मुझे इतने बहुत से दांतों के आस-पास मसूढ़े का कोई निशान नज़र न आया। “चरस ने खा लिये” उसने बाद में बताया था “और मसूढ़ों का क्या है साईं। यही होगा ना कि दांत गिर जायेंगे। गिर जायें। चरस तो पोपले मुंह से भी पी जा सकती है।” उसके नीचे के दो दांतों पर चांदी का एक-एक तार लिपटा हुआ था और दांतों के दरारों में दिनों का कूड़ा घुसा हुआ मालूम होता था।",
+
+  "expressions": [
+    {
+      "text": "मेरा परिचय कराया",
+      "normalized": "मेरा परिचय कराया",
+      "meaning_ja": "私を紹介した",
+      "type": "narrative_expression",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "यूँ मालूम होता था",
+      "normalized": "यूँ मालूम होता था",
+      "meaning_ja": "このように思われた、〜のように見えた",
+      "type": "literary_expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "जीते जागते इंसान के बजाये",
+      "normalized": "जीते जागते इंसान के बजाये",
+      "meaning_ja": "生きた人間というよりも",
+      "type": "literary_expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "दिमाग़ और दिल में रस्साकशी चल रही है",
+      "normalized": "दिमाग़ और दिल में रस्साकशी चल रही है",
+      "meaning_ja": "頭と心の間で綱引きが起きている",
+      "type": "metaphorical_expression",
+      "importance": 5,
+      "status": "active"
+    },
+    {
+      "text": "एक साथ ज़ाहिर हो गये",
+      "normalized": "एक साथ ज़ाहिर हो गये",
+      "meaning_ja": "一斉に現れた、あらわになった",
+      "type": "literary_expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "कोई निशान नज़र न आया",
+      "normalized": "कोई निशान नज़र न आया",
+      "meaning_ja": "何の跡も見えなかった",
+      "type": "narrative_expression",
+      "importance": 3,
+      "status": "active"
+    }
+  ],
+
+  "vocab_candidates": [
+    {
+      "word": "मद्य विभाग",
+      "display": "मद्य विभाग",
+      "normalized": "मद्य विभाग",
+      "pos": "名詞句",
+      "meaning_ja": "酒類取締部門、酒税・酒類関連部局",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "मुखबिर",
+      "normalized": "मुखबिर",
+      "pos": "名詞（男）",
+      "meaning_ja": "密告者、情報提供者",
+      "importance": 5,
+      "status": "active"
+    },
+    {
+      "word": "परिचय",
+      "normalized": "परिचय",
+      "pos": "名詞（男）",
+      "meaning_ja": "紹介、面識",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "मैला",
+      "display": "मैली",
+      "normalized": "मैला",
+      "pos": "形容詞",
+      "meaning_ja": "汚れた、濁った",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "पंक्ति",
+      "normalized": "पंक्ति",
+      "pos": "名詞（女）",
+      "meaning_ja": "列、行",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "निचोड़ना",
+      "normalized": "निचोड़ना",
+      "pos": "他動詞",
+      "meaning_ja": "絞る、絞り出す",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "मुड़ा-तुड़ा",
+      "display": "मुड़ा-तुड़ा",
+      "normalized": "मुड़ा तुड़ा",
+      "pos": "形容詞",
+      "meaning_ja": "しわくちゃの、折れ曲がった",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "छिलका",
+      "normalized": "छिलका",
+      "pos": "名詞（男）",
+      "meaning_ja": "皮、抜け殻",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "पट्टा",
+      "normalized": "पट्टा",
+      "pos": "名詞（男）",
+      "meaning_ja": "房状の髪、帯状のもの",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "ऐंठन",
+      "normalized": "ऐंठन",
+      "pos": "名詞（女）",
+      "meaning_ja": "ねじれ、こわばり、ひきつり",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "आयताकार",
+      "normalized": "आयताकार",
+      "pos": "形容詞",
+      "meaning_ja": "長方形の",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "मुंडा हुआ",
+      "display": "मुंडा हुआ",
+      "normalized": "मुंडा हुआ",
+      "pos": "形容詞句",
+      "meaning_ja": "剃られた",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "अटकना",
+      "normalized": "अटकना",
+      "pos": "自動詞",
+      "meaning_ja": "引っかかる、止まる",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "लौ",
+      "normalized": "लौ",
+      "pos": "名詞（女）",
+      "meaning_ja": "耳たぶ、炎",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "छल्ला",
+      "normalized": "छल्ला",
+      "pos": "名詞（男）",
+      "meaning_ja": "輪、リング",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "निशानी",
+      "normalized": "निशानी",
+      "pos": "名詞（女）",
+      "meaning_ja": "しるし、記念の品",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "भंग",
+      "normalized": "भंग",
+      "pos": "名詞（女）",
+      "meaning_ja": "バング、大麻飲料",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "नसेड़ी",
+      "normalized": "नसेड़ी",
+      "pos": "名詞・形容詞",
+      "meaning_ja": "薬物・酒におぼれた人、中毒者",
+      "importance": 5,
+      "status": "active"
+    },
+    {
+      "word": "सुरमा",
+      "normalized": "सुरमा",
+      "pos": "名詞（男）",
+      "meaning_ja": "コール、目に入れる黒い化粧粉",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "पुतली",
+      "display": "पुतली",
+      "normalized": "पुतली",
+      "pos": "名詞（女）",
+      "meaning_ja": "瞳、瞳孔",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "गदला",
+      "display": "गदली-गदली",
+      "normalized": "गदला",
+      "pos": "形容詞",
+      "meaning_ja": "濁った、くすんだ",
+      "importance": 5,
+      "status": "active"
+    },
+    {
+      "word": "समेटना",
+      "normalized": "समेटना",
+      "pos": "他動詞",
+      "meaning_ja": "集める、まとめる、抱え込む",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "हल्दी की गांठ",
+      "display": "हल्दी की गांठ",
+      "normalized": "हल्दी की गांठ",
+      "pos": "名詞句",
+      "meaning_ja": "ターメリックの塊",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "उभरना",
+      "normalized": "उभरना",
+      "pos": "自動詞",
+      "meaning_ja": "浮き出る、現れる",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "तनना",
+      "normalized": "तनना",
+      "pos": "自動詞",
+      "meaning_ja": "張る、緊張する",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "रस्साकशी",
+      "normalized": "रस्साकशी",
+      "pos": "名詞（女）",
+      "meaning_ja": "綱引き、葛藤",
+      "importance": 5,
+      "status": "active"
+    },
+    {
+      "word": "मैल",
+      "normalized": "मैल",
+      "pos": "名詞（男）",
+      "meaning_ja": "汚れ、垢",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "तहबन्द",
+      "display": "तहबन्द",
+      "normalized": "तहबंद",
+      "variants": [
+        "तहबंद"
+      ],
+      "pos": "名詞（男）",
+      "meaning_ja": "腰布、下衣",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "शोरबा",
+      "display": "शोरबे",
+      "normalized": "शोरबा",
+      "pos": "名詞（男）",
+      "meaning_ja": "スープ、汁",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "धब्बा",
+      "display": "धब्बा",
+      "normalized": "धब्बा",
+      "pos": "名詞（男）",
+      "meaning_ja": "しみ、斑点、汚点",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "हाशिया",
+      "display": "हाशिया",
+      "normalized": "हाशिया",
+      "pos": "名詞（男）",
+      "meaning_ja": "縁、余白、周辺",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "ज़ाहिर",
+      "normalized": "ज़ाहिर",
+      "pos": "形容詞",
+      "meaning_ja": "明らかな、現れた",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "चीरना",
+      "normalized": "चीरना",
+      "pos": "他動詞",
+      "meaning_ja": "切り裂く、割る",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "मसूढ़ा",
+      "display": "मसूढ़ा",
+      "normalized": "मसूढ़ा",
+      "pos": "名詞（男）",
+      "meaning_ja": "歯茎",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "चरस",
+      "normalized": "चरस",
+      "pos": "名詞（女）",
+      "meaning_ja": "チャラス、大麻樹脂",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "पोपला",
+      "display": "पोपले",
+      "normalized": "पोपला",
+      "pos": "形容詞",
+      "meaning_ja": "歯の抜けた",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "लिपटना",
+      "display": "लिपटा",
+      "normalized": "लिपटना",
+      "pos": "自動詞",
+      "meaning_ja": "巻きつく、絡みつく",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "दरार",
+      "normalized": "दरार",
+      "pos": "名詞（女）",
+      "meaning_ja": "隙間、割れ目",
+      "importance": 4,
+      "status": "active"
+    }
+  ],
+
+  "meta": {
+    "source_type": "manual_curated",
+    "reading_genre": "academic",
+    "dedupe_ready": true
+  }
+}

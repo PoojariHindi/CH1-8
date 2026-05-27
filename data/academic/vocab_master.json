@@ -76,6 +76,44 @@
     ]
   },
   {
+    "word": "अनौपचारिक",
+    "normalized": "अनौपचारिक",
+    "display": "अनौपचारिक",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "非公式の、形式ばらない",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_021"
+    ]
+  },
+  {
+    "word": "अपवित्र",
+    "normalized": "अपवित्र",
+    "display": "अपवित्र",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "不浄な、神聖でない",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_022"
+    ]
+  },
+  {
     "word": "अपशिष्ट",
     "normalized": "अपशिष्ट",
     "display": "अपशिष्ट",
@@ -92,6 +130,46 @@
     ],
     "sourceIds": [
       "academic_016"
+    ]
+  },
+  {
+    "word": "अफ़ीम",
+    "normalized": "अफीम",
+    "display": "अफीम",
+    "variants": [
+      "अफ़ीम"
+    ],
+    "pos": "名詞（女）",
+    "meaning_ja": "アヘン",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "犯罪・捜査"
+    ],
+    "sourceIds": [
+      "academic_020"
+    ]
+  },
+  {
+    "word": "अभाव",
+    "normalized": "अभाव",
+    "display": "अभाव",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "不足、欠如",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_021"
     ]
   },
   {
@@ -285,6 +363,25 @@
     ]
   },
   {
+    "word": "आदान-प्रदान",
+    "normalized": "आदान प्रदान",
+    "display": "आदान-प्रदान",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "やり取り、意見交換",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_021"
+    ]
+  },
+  {
     "word": "आदिकाल",
     "normalized": "आदिकाल",
     "display": "आदिकाल",
@@ -320,6 +417,25 @@
     ],
     "sourceIds": [
       "academic_016"
+    ]
+  },
+  {
+    "word": "उचटती नज़र",
+    "normalized": "उचटती नजर",
+    "display": "उचटती सी नज़र",
+    "variants": [],
+    "pos": "名詞句",
+    "meaning_ja": "落ち着かない視線、ちらりと見る視線",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "犯罪・捜査"
+    ],
+    "sourceIds": [
+      "academic_020"
     ]
   },
   {
@@ -453,6 +569,63 @@
     ],
     "sourceIds": [
       "academic_015"
+    ]
+  },
+  {
+    "word": "उर्वरता",
+    "normalized": "उर्वरता",
+    "display": "उर्वरता",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "肥沃さ、豊穣性",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_022"
+    ]
+  },
+  {
+    "word": "उलझन",
+    "normalized": "उलझन",
+    "display": "उलझन",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "混乱、困惑、もつれ",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_022"
+    ]
+  },
+  {
+    "word": "उल्लंघन",
+    "normalized": "उल्लंघन",
+    "display": "उल्लंघन",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "違反、侵犯、破ること",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_022"
     ]
   },
   {
@@ -608,6 +781,25 @@
     ]
   },
   {
+    "word": "किशोरावस्था",
+    "normalized": "किशोरावस्था",
+    "display": "किशोरावस्था",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "思春期、青年期",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_021"
+    ]
+  },
+  {
     "word": "कृत्य",
     "normalized": "कृत्य",
     "display": "कृत्य",
@@ -665,6 +857,46 @@
     ]
   },
   {
+    "word": "खुफ़िया",
+    "normalized": "खुफिया",
+    "display": "खुफ़िया",
+    "variants": [
+      "खुफ़िया"
+    ],
+    "pos": "形容詞",
+    "meaning_ja": "秘密の、隠された",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "犯罪・捜査"
+    ],
+    "sourceIds": [
+      "academic_020"
+    ]
+  },
+  {
+    "word": "गदला",
+    "normalized": "गदला",
+    "display": "गदली-गदली",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "濁った、くすんだ",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_019"
+    ]
+  },
+  {
     "word": "घटनाक्रम",
     "normalized": "घटनाक्रम",
     "display": "घटनाक्रम",
@@ -684,6 +916,44 @@
     ]
   },
   {
+    "word": "घृणा",
+    "normalized": "घृणा",
+    "display": "घृणा",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "嫌悪、憎悪",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_022"
+    ]
+  },
+  {
+    "word": "चंडूवाला",
+    "normalized": "चंडूवाला",
+    "display": "चंडूवाले",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "阿片常習者、阿片屋",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "犯罪・捜査"
+    ],
+    "sourceIds": [
+      "academic_020"
+    ]
+  },
+  {
     "word": "चारण कवि",
     "normalized": "चारण कवि",
     "display": "चारण कवि",
@@ -700,6 +970,103 @@
     ],
     "sourceIds": [
       "academic_012"
+    ]
+  },
+  {
+    "word": "छटांक",
+    "normalized": "छटांक",
+    "display": "छटांक",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "チャターンク（旧重量単位）",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "犯罪・捜査"
+    ],
+    "sourceIds": [
+      "academic_020"
+    ]
+  },
+  {
+    "word": "छवि",
+    "normalized": "छवि",
+    "display": "छवि",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "イメージ、像",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_022"
+    ]
+  },
+  {
+    "word": "छिलड़",
+    "normalized": "छिलड़",
+    "display": "छिलड़",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "小銭、はした金",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "犯罪・捜査"
+    ],
+    "sourceIds": [
+      "academic_020"
+    ]
+  },
+  {
+    "word": "छुआ-छूत",
+    "normalized": "छुआछूत",
+    "display": "छुआ-छूत",
+    "variants": [
+      "छुआछूत"
+    ],
+    "pos": "名詞（女）",
+    "meaning_ja": "不可触、接触忌避、触れることへの差別的禁忌",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_022"
+    ]
+  },
+  {
+    "word": "जटिल",
+    "normalized": "जटिल",
+    "display": "जटिल",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "複雑な",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_022"
     ]
   },
   {
@@ -836,6 +1203,25 @@
     ]
   },
   {
+    "word": "जूझना",
+    "normalized": "जूझना",
+    "display": "जूझ रही हैं",
+    "variants": [],
+    "pos": "自動詞",
+    "meaning_ja": "闘う、苦闘する",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_021"
+    ]
+  },
+  {
     "word": "जोखिम",
     "normalized": "जोखिम",
     "display": "जोखिम",
@@ -852,6 +1238,82 @@
     ],
     "sourceIds": [
       "academic_018"
+    ]
+  },
+  {
+    "word": "झिझक",
+    "normalized": "झिझक",
+    "display": "झिझक",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "ためらい、気後れ",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_021"
+    ]
+  },
+  {
+    "word": "झेंप",
+    "normalized": "झेंप",
+    "display": "झेंप",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "気まずさ、恥ずかしさ",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "犯罪・捜査"
+    ],
+    "sourceIds": [
+      "academic_020"
+    ]
+  },
+  {
+    "word": "ढब",
+    "normalized": "ढब",
+    "display": "ढब",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "やり方、様子、話しぶり",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "犯罪・捜査"
+    ],
+    "sourceIds": [
+      "academic_020"
+    ]
+  },
+  {
+    "word": "ढोना",
+    "normalized": "ढोना",
+    "display": "ढोना",
+    "variants": [],
+    "pos": "他動詞",
+    "meaning_ja": "背負う、運び続ける",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_022"
     ]
   },
   {
@@ -893,6 +1355,44 @@
     ]
   },
   {
+    "word": "दमन",
+    "normalized": "दमन",
+    "display": "दमन",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "抑圧、弾圧",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_022"
+    ]
+  },
+  {
+    "word": "दरोगा",
+    "normalized": "दरोगा",
+    "display": "दरोगे",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "警部、巡査部長級の警官",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "犯罪・捜査"
+    ],
+    "sourceIds": [
+      "academic_020"
+    ]
+  },
+  {
     "word": "दावानल",
     "normalized": "दावानल",
     "display": "दावानल",
@@ -909,6 +1409,44 @@
     ],
     "sourceIds": [
       "academic_016"
+    ]
+  },
+  {
+    "word": "दिल्लगी",
+    "normalized": "दिल्लगी",
+    "display": "दिल्लगी",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "冗談半分、軽い遊び心",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "犯罪・捜査"
+    ],
+    "sourceIds": [
+      "academic_020"
+    ]
+  },
+  {
+    "word": "दूषित",
+    "normalized": "दूषित",
+    "display": "दूषित",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "汚染された、不浄な",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_022"
     ]
   },
   {
@@ -988,6 +1526,25 @@
     ]
   },
   {
+    "word": "धारणा",
+    "normalized": "धारणा",
+    "display": "धारणा",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "考え、観念、認識",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_022"
+    ]
+  },
+  {
     "word": "नवीकरणीय",
     "normalized": "नवीकरणीय",
     "display": "नवीकरणीय",
@@ -1007,6 +1564,25 @@
     ]
   },
   {
+    "word": "नसेड़ी",
+    "normalized": "नसेड़ी",
+    "display": "नसेड़ी",
+    "variants": [],
+    "pos": "名詞・形容詞",
+    "meaning_ja": "薬物・酒におぼれた人、中毒者",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_019"
+    ]
+  },
+  {
     "word": "नाजीवाद",
     "normalized": "नाजीवाद",
     "display": "नाजीवाद",
@@ -1023,6 +1599,25 @@
     ],
     "sourceIds": [
       "academic_017"
+    ]
+  },
+  {
+    "word": "निगहबान",
+    "normalized": "निगहबान",
+    "display": "निगहबान",
+    "variants": [],
+    "pos": "名詞・形容詞",
+    "meaning_ja": "守護者、見守る者",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "犯罪・捜査"
+    ],
+    "sourceIds": [
+      "academic_020"
     ]
   },
   {
@@ -1083,6 +1678,25 @@
     ]
   },
   {
+    "word": "निशानदेही",
+    "normalized": "निशानदेही",
+    "display": "निशानदेही",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "場所の特定、指し示し",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "犯罪・捜査"
+    ],
+    "sourceIds": [
+      "academic_020"
+    ]
+  },
+  {
     "word": "निष्कर्षण",
     "normalized": "निष्कर्षण",
     "display": "निष्कर्षण",
@@ -1121,6 +1735,25 @@
     ]
   },
   {
+    "word": "नीचा दिखाना",
+    "normalized": "नीचा दिखाना",
+    "display": "नीचा दिखाना",
+    "variants": [],
+    "pos": "動詞句",
+    "meaning_ja": "低く見せる、貶める",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_022"
+    ]
+  },
+  {
     "word": "नृजातीय",
     "normalized": "नृजातीय",
     "display": "नृजातीय",
@@ -1156,6 +1789,25 @@
     ],
     "sourceIds": [
       "academic_017"
+    ]
+  },
+  {
+    "word": "परखना",
+    "normalized": "परखना",
+    "display": "परखना",
+    "variants": [],
+    "pos": "他動詞",
+    "meaning_ja": "検討する、見極める",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_022"
     ]
   },
   {
@@ -1213,6 +1865,63 @@
     ],
     "sourceIds": [
       "academic_011"
+    ]
+  },
+  {
+    "word": "परिवेश",
+    "normalized": "परिवेश",
+    "display": "परिवेश",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "環境、周囲の状況",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_021"
+    ]
+  },
+  {
+    "word": "पहलुओं",
+    "normalized": "पहलू",
+    "display": "पहलू",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "側面、観点",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_022"
+    ]
+  },
+  {
+    "word": "पाठ्यक्रम",
+    "normalized": "पाठ्यक्रम",
+    "display": "पाठ्यक्रम",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "カリキュラム、課程",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_021"
     ]
   },
   {
@@ -1332,6 +2041,82 @@
     ]
   },
   {
+    "word": "पेन्दा",
+    "normalized": "पेन्दा",
+    "display": "पेन्दों",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "底部",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "犯罪・捜査"
+    ],
+    "sourceIds": [
+      "academic_020"
+    ]
+  },
+  {
+    "word": "प्रजनन",
+    "normalized": "प्रजनन",
+    "display": "प्रजनन",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "生殖、繁殖",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_021"
+    ]
+  },
+  {
+    "word": "प्रजनन शक्ति",
+    "normalized": "प्रजनन शक्ति",
+    "display": "प्रजनन शक्ति",
+    "variants": [],
+    "pos": "名詞句",
+    "meaning_ja": "生殖能力",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_022"
+    ]
+  },
+  {
+    "word": "प्रतिकूल",
+    "normalized": "प्रतिकूल",
+    "display": "प्रतिकूल",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "不利な、逆境の",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_021"
+    ]
+  },
+  {
     "word": "प्रतिमान",
     "normalized": "प्रतिमान",
     "display": "प्रतिमान",
@@ -1348,6 +2133,25 @@
     ],
     "sourceIds": [
       "academic_011"
+    ]
+  },
+  {
+    "word": "प्रतीक",
+    "normalized": "प्रतीक",
+    "display": "प्रतीक",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "象徴、シンボル",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_022"
     ]
   },
   {
@@ -1370,6 +2174,25 @@
     ]
   },
   {
+    "word": "प्राकृतिक प्रक्रिया",
+    "normalized": "प्राकृतिक प्रक्रिया",
+    "display": "प्राकृतिक प्रक्रिया",
+    "variants": [],
+    "pos": "名詞句",
+    "meaning_ja": "自然な過程、自然なプロセス",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_022"
+    ]
+  },
+  {
     "word": "प्राकृतिक संसाधन",
     "normalized": "प्राकृतिक संसाधन",
     "display": "प्राकृतिक संसाधन",
@@ -1386,6 +2209,47 @@
     ],
     "sourceIds": [
       "academic_016"
+    ]
+  },
+  {
+    "word": "बन्धन",
+    "normalized": "बंधन",
+    "display": "बंधन",
+    "variants": [
+      "बंधन",
+      "बन्धन"
+    ],
+    "pos": "名詞（男）",
+    "meaning_ja": "制約、束縛",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_022"
+    ]
+  },
+  {
+    "word": "बर्ताव",
+    "normalized": "बर्ताव",
+    "display": "बर्ताव",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "扱い、ふるまい",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_022"
     ]
   },
   {
@@ -1481,6 +2345,25 @@
     ],
     "sourceIds": [
       "academic_012"
+    ]
+  },
+  {
+    "word": "भट्टी",
+    "normalized": "भट्टी",
+    "display": "भट्टियाँ",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "蒸留釜、炉",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "犯罪・捜査"
+    ],
+    "sourceIds": [
+      "academic_020"
     ]
   },
   {
@@ -1636,6 +2519,63 @@
     ]
   },
   {
+    "word": "माहवारी",
+    "normalized": "माहवारी",
+    "display": "माहवारी",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "月経、生理",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_021"
+    ]
+  },
+  {
+    "word": "मुखबिर",
+    "normalized": "मुखबिर",
+    "display": "मुखबिर",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "密告者、情報提供者",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_019"
+    ]
+  },
+  {
+    "word": "मुखबिरी",
+    "normalized": "मुखबिरी",
+    "display": "मुखबिरी",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "密告、情報提供",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "犯罪・捜査"
+    ],
+    "sourceIds": [
+      "academic_020"
+    ]
+  },
+  {
     "word": "मृदा",
     "normalized": "मृदा",
     "display": "मृदा",
@@ -1652,6 +2592,25 @@
     ],
     "sourceIds": [
       "academic_016"
+    ]
+  },
+  {
+    "word": "मेंढ",
+    "normalized": "मेंढ",
+    "display": "मेंढ",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "畑の畔",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "犯罪・捜査"
+    ],
+    "sourceIds": [
+      "academic_020"
     ]
   },
   {
@@ -1693,6 +2652,25 @@
     ]
   },
   {
+    "word": "रक्त स्राव",
+    "normalized": "रक्त स्राव",
+    "display": "रक्त स्राव",
+    "variants": [],
+    "pos": "名詞句",
+    "meaning_ja": "出血、血の流出",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_022"
+    ]
+  },
+  {
     "word": "रक्तपात",
     "normalized": "रक्तपात",
     "display": "रक्तपात",
@@ -1709,6 +2687,47 @@
     ],
     "sourceIds": [
       "academic_017"
+    ]
+  },
+  {
+    "word": "रस्साकशी",
+    "normalized": "रस्साकशी",
+    "display": "रस्साकशी",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "綱引き、葛藤",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_019"
+    ]
+  },
+  {
+    "word": "रीति-रिवाज़",
+    "normalized": "रीति रिवाज",
+    "display": "रीति-रिवाज़",
+    "variants": [
+      "रीति रिवाज",
+      "रीति-रिवाज"
+    ],
+    "pos": "名詞（男）",
+    "meaning_ja": "慣習、しきたり",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_022"
     ]
   },
   {
@@ -1766,6 +2785,25 @@
     ],
     "sourceIds": [
       "academic_018"
+    ]
+  },
+  {
+    "word": "लादे गए",
+    "normalized": "लादना",
+    "display": "लादना",
+    "variants": [],
+    "pos": "他動詞",
+    "meaning_ja": "押しつける、背負わせる",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_022"
     ]
   },
   {
@@ -1883,6 +2921,25 @@
     ]
   },
   {
+    "word": "विकृत",
+    "normalized": "विकृत",
+    "display": "विकृत",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "歪められた、歪んだ",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_022"
+    ]
+  },
+  {
     "word": "विक्रय",
     "normalized": "विक्रय",
     "display": "विक्रय",
@@ -1921,6 +2978,28 @@
     ]
   },
   {
+    "word": "विडम्बना",
+    "normalized": "विडंबना",
+    "display": "विडम्बना",
+    "variants": [
+      "विडंबना",
+      "विडम्बना"
+    ],
+    "pos": "名詞（女）",
+    "meaning_ja": "皮肉、矛盾した状況",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_022"
+    ]
+  },
+  {
     "word": "वित्तीय पूँजी",
     "normalized": "वित्तीय पूंजी",
     "display": "वित्तीय पूँजी",
@@ -1939,6 +3018,44 @@
     ],
     "sourceIds": [
       "academic_018"
+    ]
+  },
+  {
+    "word": "विरोधाभास",
+    "normalized": "विरोधाभास",
+    "display": "विरोधाभास",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "矛盾、相反",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_022"
+    ]
+  },
+  {
+    "word": "विरोधाभासी",
+    "normalized": "विरोधाभासी",
+    "display": "विरोधाभासी",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "矛盾した、相反する",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_022"
     ]
   },
   {
@@ -1980,6 +3097,25 @@
     ]
   },
   {
+    "word": "व्यक्तित्व",
+    "normalized": "व्यक्तित्व",
+    "display": "व्यक्तित्व",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "人格、個性",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_022"
+    ]
+  },
+  {
     "word": "व्यवहार्य",
     "normalized": "व्यवहार्य",
     "display": "व्यवहार्य",
@@ -1996,6 +3132,63 @@
     ],
     "sourceIds": [
       "academic_016"
+    ]
+  },
+  {
+    "word": "शारीरिक परिवर्तन",
+    "normalized": "शारीरिक परिवर्तन",
+    "display": "शारीरिक परिवर्तन",
+    "variants": [],
+    "pos": "名詞句",
+    "meaning_ja": "身体的変化",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_021"
+    ]
+  },
+  {
+    "word": "शारीरिक बदलाव",
+    "normalized": "शारीरिक बदलाव",
+    "display": "शारीरिक बदलाव",
+    "variants": [],
+    "pos": "名詞句",
+    "meaning_ja": "身体の変化",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_021"
+    ]
+  },
+  {
+    "word": "शारीरिक विकास",
+    "normalized": "शारीरिक विकास",
+    "display": "शारीरिक विकास",
+    "variants": [],
+    "pos": "名詞句",
+    "meaning_ja": "身体的発達",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_021"
     ]
   },
   {
@@ -2034,6 +3227,25 @@
     ],
     "sourceIds": [
       "academic_018"
+    ]
+  },
+  {
+    "word": "शोषण",
+    "normalized": "शोषण",
+    "display": "शोषण",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "搾取",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_022"
     ]
   },
   {
@@ -2265,6 +3477,25 @@
     ]
   },
   {
+    "word": "सेर",
+    "normalized": "सेर",
+    "display": "सेर",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "セール（旧重量単位）",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "犯罪・捜査"
+    ],
+    "sourceIds": [
+      "academic_020"
+    ]
+  },
+  {
     "word": "सेवा क्षेत्रक",
     "normalized": "सेवा क्षेत्रक",
     "display": "सेवा क्षेत्रक",
@@ -2303,6 +3534,25 @@
     ]
   },
   {
+    "word": "हानिकारक",
+    "normalized": "हानिकारक",
+    "display": "हानिकारक",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "有害な",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_022"
+    ]
+  },
+  {
     "word": "हिमनद",
     "normalized": "हिमनद",
     "display": "हिमनद",
@@ -2319,6 +3569,25 @@
     ],
     "sourceIds": [
       "academic_016"
+    ]
+  },
+  {
+    "word": "हीन",
+    "normalized": "हीन",
+    "display": "हीन",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "劣った、低い",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_022"
     ]
   },
   {
@@ -2595,6 +3864,25 @@
     ],
     "sourceIds": [
       "academic_007"
+    ]
+  },
+  {
+    "word": "अनुभव",
+    "normalized": "अनुभव",
+    "display": "अनुभव",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "経験",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_021"
     ]
   },
   {
@@ -3079,6 +4367,44 @@
     ]
   },
   {
+    "word": "इनाम",
+    "normalized": "इनाम",
+    "display": "इनाम",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "報酬、賞金",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "犯罪・捜査"
+    ],
+    "sourceIds": [
+      "academic_020"
+    ]
+  },
+  {
+    "word": "ईमानदार",
+    "normalized": "ईमानदार",
+    "display": "ईमानदार",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "誠実な、正直な",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "犯罪・捜査"
+    ],
+    "sourceIds": [
+      "academic_020"
+    ]
+  },
+  {
     "word": "उत्तर मध्यकाल",
     "normalized": "उत्तर मध्यकाल",
     "display": "उत्तर मध्यकाल",
@@ -3416,6 +4742,25 @@
     ]
   },
   {
+    "word": "उपाधियाँ",
+    "normalized": "उपाधि",
+    "display": "उपाधि",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "称号、肩書き",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_022"
+    ]
+  },
+  {
     "word": "उपाय",
     "normalized": "उपाय",
     "display": "उपाय",
@@ -3491,6 +4836,25 @@
     ]
   },
   {
+    "word": "उभरना",
+    "normalized": "उभरना",
+    "display": "उभरना",
+    "variants": [],
+    "pos": "自動詞",
+    "meaning_ja": "浮き出る、現れる",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_019"
+    ]
+  },
+  {
     "word": "उल्लेख",
     "normalized": "उल्लेख",
     "display": "उल्लेख",
@@ -3561,6 +4925,44 @@
     ],
     "sourceIds": [
       "academic_009"
+    ]
+  },
+  {
+    "word": "एहसास",
+    "normalized": "एहसास",
+    "display": "एहसास",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "気づき、実感",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_022"
+    ]
+  },
+  {
+    "word": "ऐंठन",
+    "normalized": "ऐंठन",
+    "display": "ऐंठन",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "ねじれ、こわばり、ひきつり",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_019"
     ]
   },
   {
@@ -3936,6 +5338,25 @@
     ]
   },
   {
+    "word": "खटिया",
+    "normalized": "खटिया",
+    "display": "खटिया",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "簡易ベッド、チャールパーイー",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "犯罪・捜査"
+    ],
+    "sourceIds": [
+      "academic_020"
+    ]
+  },
+  {
     "word": "खतरा",
     "normalized": "खतरा",
     "display": "खतरा",
@@ -3991,6 +5412,25 @@
     ]
   },
   {
+    "word": "गड़बड़ी",
+    "normalized": "गड़बड़ी",
+    "display": "गड़बड़ी",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "不具合、失敗、混乱",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "犯罪・捜査"
+    ],
+    "sourceIds": [
+      "academic_020"
+    ]
+  },
+  {
     "word": "गद्य काल",
     "normalized": "गद्य काल",
     "display": "गद्य काल",
@@ -4029,6 +5469,63 @@
     ]
   },
   {
+    "word": "घबराना",
+    "normalized": "घबराना",
+    "display": "घबराना",
+    "variants": [],
+    "pos": "自動詞",
+    "meaning_ja": "不安になる、慌てる",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_022"
+    ]
+  },
+  {
+    "word": "घेरे में लेना",
+    "normalized": "घेरे में लेना",
+    "display": "घेरे में ले लिया",
+    "variants": [],
+    "pos": "動詞句",
+    "meaning_ja": "包囲する、取り囲む",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "犯罪・捜査"
+    ],
+    "sourceIds": [
+      "academic_020"
+    ]
+  },
+  {
+    "word": "घोर",
+    "normalized": "घोर",
+    "display": "घोर",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "ひどい、深刻な、非常な",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_022"
+    ]
+  },
+  {
     "word": "चयन",
     "normalized": "चयन",
     "display": "चयन",
@@ -4044,6 +5541,44 @@
     ],
     "sourceIds": [
       "academic_008"
+    ]
+  },
+  {
+    "word": "चरस",
+    "normalized": "चरस",
+    "display": "चरस",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "チャラス、大麻樹脂",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_019"
+    ]
+  },
+  {
+    "word": "चर्चा",
+    "normalized": "चर्चा",
+    "display": "चर्चा",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "議論、話し合い",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_021"
     ]
   },
   {
@@ -4103,6 +5638,25 @@
     ]
   },
   {
+    "word": "चीरना",
+    "normalized": "चीरना",
+    "display": "चीरना",
+    "variants": [],
+    "pos": "他動詞",
+    "meaning_ja": "切り裂く、割る",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_019"
+    ]
+  },
+  {
     "word": "चेतना",
     "normalized": "चेतना",
     "display": "चेतना",
@@ -4140,6 +5694,84 @@
     ]
   },
   {
+    "word": "छिड़का",
+    "normalized": "छिड़कना",
+    "display": "छिड़कना",
+    "variants": [],
+    "pos": "他動詞",
+    "meaning_ja": "撒く、振りかける",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_022"
+    ]
+  },
+  {
+    "word": "छिलका",
+    "normalized": "छिलका",
+    "display": "छिलका",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "皮、抜け殻",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_019"
+    ]
+  },
+  {
+    "word": "ज़रूरत",
+    "normalized": "जरूरत",
+    "display": "ज़रूरत",
+    "variants": [
+      "जरूरत"
+    ],
+    "pos": "名詞（女）",
+    "meaning_ja": "必要、必要性",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_021"
+    ]
+  },
+  {
+    "word": "जश्न",
+    "normalized": "जश्न",
+    "display": "जश्न",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "祝祭、祝い",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_022"
+    ]
+  },
+  {
     "word": "जाग्रत",
     "normalized": "जाग्रत",
     "display": "जाग्रत",
@@ -4173,6 +5805,25 @@
     ],
     "sourceIds": [
       "academic_003BandarMagarmacch1"
+    ]
+  },
+  {
+    "word": "ज़ाहिर",
+    "normalized": "ज़ाहिर",
+    "display": "ज़ाहिर",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "明らかな、現れた",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_019"
     ]
   },
   {
@@ -4293,6 +5944,25 @@
     ]
   },
   {
+    "word": "डपटना",
+    "normalized": "डपटना",
+    "display": "डपट",
+    "variants": [],
+    "pos": "他動詞",
+    "meaning_ja": "叱りつける",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "犯罪・捜査"
+    ],
+    "sourceIds": [
+      "academic_020"
+    ]
+  },
+  {
     "word": "डूबना",
     "normalized": "डूबना",
     "display": "डूबना",
@@ -4329,6 +5999,25 @@
     ]
   },
   {
+    "word": "तनना",
+    "normalized": "तनना",
+    "display": "तनना",
+    "variants": [],
+    "pos": "自動詞",
+    "meaning_ja": "張る、緊張する",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_019"
+    ]
+  },
+  {
     "word": "तबीयत",
     "normalized": "तबीयत",
     "display": "तबीयत",
@@ -4362,6 +6051,46 @@
     ],
     "sourceIds": [
       "academic_003BandarMagarmacch1"
+    ]
+  },
+  {
+    "word": "तलाशी",
+    "normalized": "तलाशी",
+    "display": "तलाशी",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "捜索、検査",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "犯罪・捜査"
+    ],
+    "sourceIds": [
+      "academic_020"
+    ]
+  },
+  {
+    "word": "तहबन्द",
+    "normalized": "तहबंद",
+    "display": "तहबन्द",
+    "variants": [
+      "तहबंद"
+    ],
+    "pos": "名詞（男）",
+    "meaning_ja": "腰布、下衣",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_019"
     ]
   },
   {
@@ -4402,6 +6131,25 @@
     ]
   },
   {
+    "word": "तोबा",
+    "normalized": "तोबा",
+    "display": "तोबा",
+    "variants": [],
+    "pos": "間投詞・名詞",
+    "meaning_ja": "なんということだ、勘弁してくれ",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "犯罪・捜査"
+    ],
+    "sourceIds": [
+      "academic_020"
+    ]
+  },
+  {
     "word": "त्याग",
     "normalized": "त्याग",
     "display": "त्याग",
@@ -4416,6 +6164,25 @@
     ],
     "sourceIds": [
       "academic_001"
+    ]
+  },
+  {
+    "word": "दरार",
+    "normalized": "दरार",
+    "display": "दरार",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "隙間、割れ目",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_019"
     ]
   },
   {
@@ -4471,6 +6238,25 @@
     ],
     "sourceIds": [
       "academic_004BandarMagarmacch2"
+    ]
+  },
+  {
+    "word": "दुआ",
+    "normalized": "दुआ",
+    "display": "दुआएँ",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "祈り、祝福",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "犯罪・捜査"
+    ],
+    "sourceIds": [
+      "academic_020"
     ]
   },
   {
@@ -4657,6 +6443,25 @@
     ]
   },
   {
+    "word": "धब्बा",
+    "normalized": "धब्बा",
+    "display": "धब्बा",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "しみ、斑点、汚点",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_019"
+    ]
+  },
+  {
     "word": "धमकी",
     "normalized": "धमकी",
     "display": "धमकी",
@@ -4729,6 +6534,25 @@
     ],
     "sourceIds": [
       "academic_012"
+    ]
+  },
+  {
+    "word": "धूम मचना",
+    "normalized": "धूम मचना",
+    "display": "धूम मच गई",
+    "variants": [],
+    "pos": "動詞句",
+    "meaning_ja": "大騒ぎになる",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "犯罪・捜査"
+    ],
+    "sourceIds": [
+      "academic_020"
     ]
   },
   {
@@ -4883,6 +6707,25 @@
     ]
   },
   {
+    "word": "निचोड़ना",
+    "normalized": "निचोड़ना",
+    "display": "निचोड़ना",
+    "variants": [],
+    "pos": "他動詞",
+    "meaning_ja": "絞る、絞り出す",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_019"
+    ]
+  },
+  {
     "word": "निदान",
     "normalized": "निदान",
     "display": "निदान",
@@ -5010,6 +6853,25 @@
     ],
     "sourceIds": [
       "academic_018"
+    ]
+  },
+  {
+    "word": "निशानी",
+    "normalized": "निशानी",
+    "display": "निशानी",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "しるし、記念の品",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_019"
     ]
   },
   {
@@ -5345,6 +7207,25 @@
     ]
   },
   {
+    "word": "पुतली",
+    "normalized": "पुतली",
+    "display": "पुतली",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "瞳、瞳孔",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_019"
+    ]
+  },
+  {
     "word": "पुनर्मुद्रण",
     "normalized": "पुनर्मुद्रण",
     "display": "पुनर्मुद्रण",
@@ -5360,6 +7241,25 @@
     ],
     "sourceIds": [
       "academic_009"
+    ]
+  },
+  {
+    "word": "पुस्तिका",
+    "normalized": "पुस्तिका",
+    "display": "पुस्तिका",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "小冊子、冊子",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_021"
     ]
   },
   {
@@ -5382,6 +7282,25 @@
     ]
   },
   {
+    "word": "पोपला",
+    "normalized": "पोपला",
+    "display": "पोपले",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "歯の抜けた",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_019"
+    ]
+  },
+  {
     "word": "पोषित",
     "normalized": "पोषित",
     "display": "पोषित",
@@ -5398,6 +7317,25 @@
     ],
     "sourceIds": [
       "academic_017"
+    ]
+  },
+  {
+    "word": "प्रचलित",
+    "normalized": "प्रचलित",
+    "display": "प्रचलित",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "広く行われている、流通している",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_022"
     ]
   },
   {
@@ -5572,6 +7510,25 @@
     ]
   },
   {
+    "word": "प्रभावित",
+    "normalized": "प्रभावित",
+    "display": "प्रभावित",
+    "variants": [],
+    "pos": "形容詞・動詞",
+    "meaning_ja": "影響された、影響を受けた",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_021"
+    ]
+  },
+  {
     "word": "प्रयोक्‍ता",
     "normalized": "प्रयोक्ता",
     "display": "प्रयोक्‍ता",
@@ -5738,6 +7695,25 @@
     ],
     "sourceIds": [
       "academic_006"
+    ]
+  },
+  {
+    "word": "प्राणी",
+    "normalized": "प्राणी",
+    "display": "प्राणी",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "生き物、存在",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_022"
     ]
   },
   {
@@ -5925,6 +7901,27 @@
     ]
   },
   {
+    "word": "फिज़ूल",
+    "normalized": "फिजूल",
+    "display": "फिज़ूल",
+    "variants": [
+      "फिजूल"
+    ],
+    "pos": "形容詞",
+    "meaning_ja": "無駄な、くだらない",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_022"
+    ]
+  },
+  {
     "word": "बहाना",
     "normalized": "बहाना",
     "display": "बहाना",
@@ -6037,6 +8034,25 @@
     ]
   },
   {
+    "word": "बिगड़ना",
+    "normalized": "बिगड़ना",
+    "display": "बिगड़ गई",
+    "variants": [],
+    "pos": "自動詞",
+    "meaning_ja": "素行が悪くなる、道を踏み外す",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_021"
+    ]
+  },
+  {
     "word": "बौद्धिक",
     "normalized": "बौद्धिक",
     "display": "बौद्धिक",
@@ -6052,6 +8068,25 @@
     ],
     "sourceIds": [
       "academic_006"
+    ]
+  },
+  {
+    "word": "भंग",
+    "normalized": "भंग",
+    "display": "भंग",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "バング、大麻飲料",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_019"
     ]
   },
   {
@@ -6221,6 +8256,25 @@
     ]
   },
   {
+    "word": "मद्य विभाग",
+    "normalized": "मद्य विभाग",
+    "display": "मद्य विभाग",
+    "variants": [],
+    "pos": "名詞句",
+    "meaning_ja": "酒類取締部門、酒税・酒類関連部局",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_019"
+    ]
+  },
+  {
     "word": "मधुर",
     "normalized": "मधुर",
     "display": "मधुर",
@@ -6312,6 +8366,44 @@
     ]
   },
   {
+    "word": "मसूढ़ा",
+    "normalized": "मसूढ़ा",
+    "display": "मसूढ़ा",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "歯茎",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_019"
+    ]
+  },
+  {
+    "word": "महकना",
+    "normalized": "महकना",
+    "display": "महक रही थी",
+    "variants": [],
+    "pos": "自動詞",
+    "meaning_ja": "香る、匂う",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "犯罪・捜査"
+    ],
+    "sourceIds": [
+      "academic_020"
+    ]
+  },
+  {
     "word": "महत्त्व",
     "normalized": "महत्व",
     "display": "महत्व",
@@ -6347,6 +8439,25 @@
     ],
     "sourceIds": [
       "academic_008"
+    ]
+  },
+  {
+    "word": "महिला जाति",
+    "normalized": "महिला जाति",
+    "display": "महिला जाति",
+    "variants": [],
+    "pos": "名詞句",
+    "meaning_ja": "女性全体、女性という集団",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_022"
     ]
   },
   {
@@ -6498,6 +8609,44 @@
     ]
   },
   {
+    "word": "माहौल",
+    "normalized": "माहौल",
+    "display": "माहौल",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "雰囲気、環境",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_021"
+    ]
+  },
+  {
+    "word": "मुकद्दमा",
+    "normalized": "मुकद्दमा",
+    "display": "मुकद्दमे",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "事件、訴訟",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "犯罪・捜査"
+    ],
+    "sourceIds": [
+      "academic_020"
+    ]
+  },
+  {
     "word": "मुक्तक काव्य",
     "normalized": "मुक्तक काव्य",
     "display": "मुक्तक काव्य",
@@ -6514,6 +8663,44 @@
     ],
     "sourceIds": [
       "academic_012"
+    ]
+  },
+  {
+    "word": "मुड़ा-तुड़ा",
+    "normalized": "मुड़ा तुड़ा",
+    "display": "मुड़ा-तुड़ा",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "しわくちゃの、折れ曲がった",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_019"
+    ]
+  },
+  {
+    "word": "मुरझा जाएँगे",
+    "normalized": "मुरझाना",
+    "display": "मुरझाना",
+    "variants": [],
+    "pos": "自動詞",
+    "meaning_ja": "しおれる、萎れる",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_022"
     ]
   },
   {
@@ -6550,6 +8737,44 @@
     ],
     "sourceIds": [
       "academic_003BandarMagarmacch1"
+    ]
+  },
+  {
+    "word": "मैल",
+    "normalized": "मैल",
+    "display": "मैल",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "汚れ、垢",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_019"
+    ]
+  },
+  {
+    "word": "मैला",
+    "normalized": "मैला",
+    "display": "मैली",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "汚れた、濁った",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_019"
     ]
   },
   {
@@ -6774,6 +8999,27 @@
     ]
   },
   {
+    "word": "रोज़मर्रा",
+    "normalized": "रोजमर्रा",
+    "display": "रोज़मर्रा",
+    "variants": [
+      "रोजमर्रा"
+    ],
+    "pos": "名詞・形容詞",
+    "meaning_ja": "日常、日常的な",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_022"
+    ]
+  },
+  {
     "word": "लाभान्वित",
     "normalized": "लाभान्वित",
     "display": "लाभान्वित",
@@ -6807,6 +9053,44 @@
     ],
     "sourceIds": [
       "academic_004BandarMagarmacch2"
+    ]
+  },
+  {
+    "word": "लिपटना",
+    "normalized": "लिपटना",
+    "display": "लिपटा",
+    "variants": [],
+    "pos": "自動詞",
+    "meaning_ja": "巻きつく、絡みつく",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_019"
+    ]
+  },
+  {
+    "word": "लौ",
+    "normalized": "लौ",
+    "display": "लौ",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "耳たぶ、炎",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_019"
     ]
   },
   {
@@ -7196,6 +9480,25 @@
     ]
   },
   {
+    "word": "विस्तृत",
+    "normalized": "विस्तृत",
+    "display": "विस्तृत",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "詳しい、広範な",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_021"
+    ]
+  },
+  {
     "word": "वीरतापूर्ण",
     "normalized": "वीरतापूर्ण",
     "display": "वीरतापूर्ण",
@@ -7308,6 +9611,25 @@
     ]
   },
   {
+    "word": "शक",
+    "normalized": "शक",
+    "display": "शक",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "疑い、疑念",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_021"
+    ]
+  },
+  {
     "word": "शाखा",
     "normalized": "शाखा",
     "display": "शाखा",
@@ -7324,6 +9646,25 @@
     ],
     "sourceIds": [
       "academic_013"
+    ]
+  },
+  {
+    "word": "शाबाशी",
+    "normalized": "शाबाशी",
+    "display": "शाबाशियाँ",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "称賛、褒賞",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "犯罪・捜査"
+    ],
+    "sourceIds": [
+      "academic_020"
     ]
   },
   {
@@ -7364,6 +9705,25 @@
     ]
   },
   {
+    "word": "शृंगार",
+    "normalized": "शृंगार",
+    "display": "शृंगार",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "装い、化粧、飾り立て",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_022"
+    ]
+  },
+  {
     "word": "श्रेणी",
     "normalized": "श्रेणी",
     "display": "श्रेणी",
@@ -7379,6 +9739,25 @@
     ],
     "sourceIds": [
       "academic_007"
+    ]
+  },
+  {
+    "word": "श्रेष्ठ",
+    "normalized": "श्रेष्ठ",
+    "display": "श्रेष्ठ",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "優れた、上位の",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_022"
     ]
   },
   {
@@ -7643,6 +10022,25 @@
     ]
   },
   {
+    "word": "सच्चाई",
+    "normalized": "सच्चाई",
+    "display": "सच्चाई",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "真実、実情",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_022"
+    ]
+  },
+  {
     "word": "सत्संगति",
     "normalized": "सत्संगति",
     "display": "सत्संगति",
@@ -7769,6 +10167,25 @@
     ],
     "sourceIds": [
       "academic_009"
+    ]
+  },
+  {
+    "word": "समेटना",
+    "normalized": "समेटना",
+    "display": "समेटना",
+    "variants": [],
+    "pos": "他動詞",
+    "meaning_ja": "集める、まとめる、抱え込む",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_019"
     ]
   },
   {
@@ -7901,6 +10318,25 @@
     ]
   },
   {
+    "word": "सहारा",
+    "normalized": "सहारा",
+    "display": "सहारा",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "支え、助け",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_022"
+    ]
+  },
+  {
     "word": "सांख्यिकी",
     "normalized": "सांख्यिकी",
     "display": "सांख्यिकी",
@@ -8012,6 +10448,25 @@
     ]
   },
   {
+    "word": "सिक्ख",
+    "normalized": "सिक्ख",
+    "display": "सिक्ख",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "シク教徒",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "犯罪・捜査"
+    ],
+    "sourceIds": [
+      "academic_020"
+    ]
+  },
+  {
     "word": "सिद्ध",
     "normalized": "सिद्ध",
     "display": "सिद्ध",
@@ -8065,6 +10520,25 @@
     ],
     "sourceIds": [
       "academic_012"
+    ]
+  },
+  {
+    "word": "सिफारिश",
+    "normalized": "सिफारिश",
+    "display": "सिफारिश",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "推薦、推挙",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "犯罪・捜査"
+    ],
+    "sourceIds": [
+      "academic_020"
     ]
   },
   {
@@ -8160,6 +10634,25 @@
     ]
   },
   {
+    "word": "सुरमा",
+    "normalized": "सुरमा",
+    "display": "सुरमा",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "コール、目に入れる黒い化粧粉",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_019"
+    ]
+  },
+  {
     "word": "सूक्ति",
     "normalized": "सूक्ति",
     "display": "सूक्ति",
@@ -8175,6 +10668,25 @@
     ],
     "sourceIds": [
       "academic_006"
+    ]
+  },
+  {
+    "word": "सूटेड-बूटेड",
+    "normalized": "सूटेड बूटेड",
+    "display": "सूटेड-बूटेड",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "きちんとスーツを着た",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "犯罪・捜査"
+    ],
+    "sourceIds": [
+      "academic_020"
     ]
   },
   {
@@ -8401,6 +10913,25 @@
     ]
   },
   {
+    "word": "हाशिया",
+    "normalized": "हाशिया",
+    "display": "हाशिया",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "縁、余白、周辺",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_019"
+    ]
+  },
+  {
     "word": "अंतर",
     "normalized": "अंतर",
     "display": "अंतर",
@@ -8417,6 +10948,25 @@
     ],
     "sourceIds": [
       "academic_012"
+    ]
+  },
+  {
+    "word": "अटकना",
+    "normalized": "अटकना",
+    "display": "अटकना",
+    "variants": [],
+    "pos": "自動詞",
+    "meaning_ja": "引っかかる、止まる",
+    "importance": 3,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_019"
     ]
   },
   {
@@ -8529,6 +11079,25 @@
     ],
     "sourceIds": [
       "academic_012"
+    ]
+  },
+  {
+    "word": "आयताकार",
+    "normalized": "आयताकार",
+    "display": "आयताकार",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "長方形の",
+    "importance": 3,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_019"
     ]
   },
   {
@@ -8756,6 +11325,25 @@
     ]
   },
   {
+    "word": "गन्ना",
+    "normalized": "गन्ना",
+    "display": "गन्ने",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "サトウキビ",
+    "importance": 3,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "犯罪・捜査"
+    ],
+    "sourceIds": [
+      "academic_020"
+    ]
+  },
+  {
     "word": "गहरा",
     "normalized": "गहरा",
     "display": "गहरा",
@@ -8792,6 +11380,25 @@
     ]
   },
   {
+    "word": "छल्ला",
+    "normalized": "छल्ला",
+    "display": "छल्ला",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "輪、リング",
+    "importance": 3,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_019"
+    ]
+  },
+  {
     "word": "छेद",
     "normalized": "छेद",
     "display": "छेद",
@@ -8807,6 +11414,25 @@
     ],
     "sourceIds": [
       "academic_005BandarMagarmacch3"
+    ]
+  },
+  {
+    "word": "डब्बा",
+    "normalized": "डब्बा",
+    "display": "डब्बे",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "車両、箱",
+    "importance": 3,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "犯罪・捜査"
+    ],
+    "sourceIds": [
+      "academic_020"
     ]
   },
   {
@@ -8879,6 +11505,25 @@
     ],
     "sourceIds": [
       "academic_003BandarMagarmacch1"
+    ]
+  },
+  {
+    "word": "दर्जा",
+    "normalized": "दर्जा",
+    "display": "दर्जे",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "等級、クラス",
+    "importance": 3,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "犯罪・捜査"
+    ],
+    "sourceIds": [
+      "academic_020"
     ]
   },
   {
@@ -8957,6 +11602,44 @@
     ]
   },
   {
+    "word": "पंक्ति",
+    "normalized": "पंक्ति",
+    "display": "पंक्ति",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "列、行",
+    "importance": 3,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_019"
+    ]
+  },
+  {
+    "word": "पट्टा",
+    "normalized": "पट्टा",
+    "display": "पट्टा",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "房状の髪、帯状のもの",
+    "importance": 3,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_019"
+    ]
+  },
+  {
     "word": "पति",
     "normalized": "पति",
     "display": "पति",
@@ -9012,6 +11695,25 @@
     ]
   },
   {
+    "word": "परिचय",
+    "normalized": "परिचय",
+    "display": "परिचय",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "紹介、面識",
+    "importance": 3,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_019"
+    ]
+  },
+  {
     "word": "परिस्थिति",
     "normalized": "परिस्थिति",
     "display": "परिस्थिति",
@@ -9028,6 +11730,25 @@
     ],
     "sourceIds": [
       "academic_012"
+    ]
+  },
+  {
+    "word": "पारी",
+    "normalized": "पारी",
+    "display": "पारी",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "番、順番",
+    "importance": 3,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "犯罪・捜査"
+    ],
+    "sourceIds": [
+      "academic_020"
     ]
   },
   {
@@ -9252,6 +11973,27 @@
     ]
   },
   {
+    "word": "बरतन",
+    "normalized": "बरतन",
+    "display": "बरतन",
+    "variants": [
+      "बर्तन"
+    ],
+    "pos": "名詞（男）",
+    "meaning_ja": "器、容器",
+    "importance": 3,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_022"
+    ]
+  },
+  {
     "word": "बलवान",
     "normalized": "बलवान",
     "display": "बलवान",
@@ -9292,7 +12034,7 @@
     "normalized": "बीमारी",
     "display": "बीमारी",
     "variants": [],
-    "pos": "名詞（女・複）",
+    "pos": "名詞（女）",
     "meaning_ja": "病気",
     "importance": 3,
     "category": "academic",
@@ -9361,6 +12103,44 @@
     ]
   },
   {
+    "word": "महसूस",
+    "normalized": "महसूस",
+    "display": "महसूस",
+    "variants": [],
+    "pos": "形容詞・動詞",
+    "meaning_ja": "感じられた、感じること",
+    "importance": 3,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_021"
+    ]
+  },
+  {
+    "word": "मुंडा हुआ",
+    "normalized": "मुंडा हुआ",
+    "display": "मुंडा हुआ",
+    "variants": [],
+    "pos": "形容詞句",
+    "meaning_ja": "剃られた",
+    "importance": 3,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_019"
+    ]
+  },
+  {
     "word": "मुड़ना",
     "normalized": "मुड़ना",
     "display": "मुड़ना",
@@ -9376,6 +12156,25 @@
     ],
     "sourceIds": [
       "academic_005BandarMagarmacch3"
+    ]
+  },
+  {
+    "word": "मोती",
+    "normalized": "मोती",
+    "display": "मोती",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "真珠",
+    "importance": 3,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "犯罪・捜査"
+    ],
+    "sourceIds": [
+      "academic_020"
     ]
   },
   {
@@ -9413,6 +12212,25 @@
     ],
     "sourceIds": [
       "academic_012"
+    ]
+  },
+  {
+    "word": "राख",
+    "normalized": "राख",
+    "display": "राख",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "灰",
+    "importance": 3,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "犯罪・捜査"
+    ],
+    "sourceIds": [
+      "academic_020"
     ]
   },
   {
@@ -9745,6 +12563,25 @@
     ]
   },
   {
+    "word": "शोरबा",
+    "normalized": "शोरबा",
+    "display": "शोरबे",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "スープ、汁",
+    "importance": 3,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_019"
+    ]
+  },
+  {
     "word": "संकेत",
     "normalized": "संकेत",
     "display": "संकेत",
@@ -9886,6 +12723,25 @@
     ],
     "sourceIds": [
       "academic_001"
+    ]
+  },
+  {
+    "word": "हल्दी की गांठ",
+    "normalized": "हल्दी की गांठ",
+    "display": "हल्दी की गांठ",
+    "variants": [],
+    "pos": "名詞句",
+    "meaning_ja": "ターメリックの塊",
+    "importance": 3,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_019"
     ]
   },
   {

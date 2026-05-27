@@ -22,9 +22,9 @@ let wrongAnswers = [];
 let reviewModeEnabled = false;
 
 const MYLIST_STORAGE_KEY = "hindiQuizMyList";
-const MYLIST_MAX_ITEMS = 200;
+const MYLIST_MAX_ITEMS = 400;
 const KNOWN_STORAGE_KEY = "hindiQuizKnownVocab";
-const KNOWN_MAX_ITEMS = 300;
+const KNOWN_MAX_ITEMS = 800;
 const MYLIST_ELIGIBLE_MODES = new Set([
   "ch",
   "news",

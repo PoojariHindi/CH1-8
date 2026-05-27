@@ -1,9 +1,135 @@
 {
-  "generatedAt": "2026-05-26T01:56:47.019Z",
-  "count": 9,
+  "generatedAt": "2026-05-27T01:06:13.793Z",
+  "count": 12,
   "items": [
     {
+      "candidateIndex": 21,
+      "word": "छापा",
+      "display": "छापा",
+      "normalized": "छापा",
+      "compareKey": "छापा",
+      "variants": [],
+      "pos": "",
+      "meaning": "",
+      "meaning_ja": "",
+      "category": "事件・事故",
+      "originalCategory": "事件・事故",
+      "importance": 3,
+      "sourceId": "news033_DJ20260527_KhaliBaoli",
+      "sourceIds": [],
+      "raw": {
+        "word": "छापा",
+        "display": "छापा",
+        "normalized": "छापा",
+        "variants": [],
+        "meaning_ja": "",
+        "pos": "",
+        "category": "事件・事故",
+        "importance": 3,
+        "sourceId": "news033_DJ20260527_KhaliBaoli"
+      },
+      "checkStatus": "existing",
+      "reason": "strict key match",
+      "warnings": [
+        "missing meaning_ja",
+        "missing pos"
+      ],
+      "matchedMasterIndex": 623,
+      "matchedMaster": {
+        "index": 623,
+        "word": "छापा",
+        "display": "",
+        "normalized": "छापा"
+      },
+      "matchedMasterIndexes": [],
+      "matchedMasters": []
+    },
+    {
+      "candidateIndex": 24,
+      "word": "गिरफ्तार",
+      "display": "गिरफ्तार",
+      "normalized": "गिरफ्तार",
+      "compareKey": "गिरफ्तार",
+      "variants": [],
+      "pos": "",
+      "meaning": "",
+      "meaning_ja": "",
+      "category": "事件・事故",
+      "originalCategory": "事件・事故",
+      "importance": 3,
+      "sourceId": "news033_DJ20260527_KhaliBaoli",
+      "sourceIds": [],
+      "raw": {
+        "word": "गिरफ्तार",
+        "display": "गिरफ्तार",
+        "normalized": "गिरफ्तार",
+        "variants": [],
+        "meaning_ja": "",
+        "pos": "",
+        "category": "事件・事故",
+        "importance": 3,
+        "sourceId": "news033_DJ20260527_KhaliBaoli"
+      },
+      "checkStatus": "existing",
+      "reason": "strict key match",
+      "warnings": [
+        "missing meaning_ja",
+        "missing pos"
+      ],
+      "matchedMasterIndex": 134,
+      "matchedMaster": {
+        "index": 134,
+        "word": "गिरफ्तार",
+        "display": "",
+        "normalized": "गिरफ्तार"
+      },
+      "matchedMasterIndexes": [],
+      "matchedMasters": []
+    },
+    {
       "candidateIndex": 31,
+      "word": "योग्य",
+      "display": "योग्य",
+      "normalized": "योग्य",
+      "compareKey": "योग्य",
+      "variants": [],
+      "pos": "",
+      "meaning": "",
+      "meaning_ja": "",
+      "category": "事件・事故",
+      "originalCategory": "事件・事故",
+      "importance": 3,
+      "sourceId": "news033_DJ20260527_KhaliBaoli",
+      "sourceIds": [],
+      "raw": {
+        "word": "योग्य",
+        "display": "योग्य",
+        "normalized": "योग्य",
+        "variants": [],
+        "meaning_ja": "",
+        "pos": "",
+        "category": "事件・事故",
+        "importance": 3,
+        "sourceId": "news033_DJ20260527_KhaliBaoli"
+      },
+      "checkStatus": "existing",
+      "reason": "strict key match",
+      "warnings": [
+        "missing meaning_ja",
+        "missing pos"
+      ],
+      "matchedMasterIndex": 592,
+      "matchedMaster": {
+        "index": 592,
+        "word": "योग्य",
+        "display": "",
+        "normalized": "योग्य"
+      },
+      "matchedMasterIndexes": [],
+      "matchedMasters": []
+    },
+    {
+      "candidateIndex": 44,
       "word": "पुलिस",
       "display": "पुलिस",
       "normalized": "पुलिस",
@@ -15,7 +141,7 @@
       "category": "事件・事故",
       "originalCategory": "事件・事故",
       "importance": 3,
-      "sourceId": "news036_DJ20260526_Ropeway",
+      "sourceId": "news033_DJ20260527_KhaliBaoli",
       "sourceIds": [],
       "raw": {
         "word": "पुलिस",
@@ -26,7 +152,7 @@
         "pos": "",
         "category": "事件・事故",
         "importance": 3,
-        "sourceId": "news036_DJ20260526_Ropeway"
+        "sourceId": "news033_DJ20260527_KhaliBaoli"
       },
       "checkStatus": "existing",
       "reason": "strict key match",
@@ -45,11 +171,11 @@
       "matchedMasters": []
     },
     {
-      "candidateIndex": 37,
-      "word": "अभियान",
-      "display": "अभियान",
-      "normalized": "अभियान",
-      "compareKey": "अभियान",
+      "candidateIndex": 47,
+      "word": "हानिकारक",
+      "display": "हानिकारक",
+      "normalized": "हानिकारक",
+      "compareKey": "हानिकारक",
       "variants": [],
       "pos": "",
       "meaning": "",
@@ -57,18 +183,18 @@
       "category": "事件・事故",
       "originalCategory": "事件・事故",
       "importance": 3,
-      "sourceId": "news036_DJ20260526_Ropeway",
+      "sourceId": "news033_DJ20260527_KhaliBaoli",
       "sourceIds": [],
       "raw": {
-        "word": "अभियान",
-        "display": "अभियान",
-        "normalized": "अभियान",
+        "word": "हानिकारक",
+        "display": "हानिकारक",
+        "normalized": "हानिकारक",
         "variants": [],
         "meaning_ja": "",
         "pos": "",
         "category": "事件・事故",
         "importance": 3,
-        "sourceId": "news036_DJ20260526_Ropeway"
+        "sourceId": "news033_DJ20260527_KhaliBaoli"
       },
       "checkStatus": "existing",
       "reason": "strict key match",
@@ -76,22 +202,22 @@
         "missing meaning_ja",
         "missing pos"
       ],
-      "matchedMasterIndex": 91,
+      "matchedMasterIndex": 32,
       "matchedMaster": {
-        "index": 91,
-        "word": "अभियान",
+        "index": 32,
+        "word": "हानिकारक",
         "display": "",
-        "normalized": "अभियान"
+        "normalized": "हानिकारक"
       },
       "matchedMasterIndexes": [],
       "matchedMasters": []
     },
     {
-      "candidateIndex": 61,
-      "word": "निगरानी",
-      "display": "निगरानी",
-      "normalized": "निगरानी",
-      "compareKey": "निगरानी",
+      "candidateIndex": 51,
+      "word": "बरामद",
+      "display": "बरामद",
+      "normalized": "बरामद",
+      "compareKey": "बरामद",
       "variants": [],
       "pos": "",
       "meaning": "",
@@ -99,18 +225,18 @@
       "category": "事件・事故",
       "originalCategory": "事件・事故",
       "importance": 3,
-      "sourceId": "news036_DJ20260526_Ropeway",
+      "sourceId": "news033_DJ20260527_KhaliBaoli",
       "sourceIds": [],
       "raw": {
-        "word": "निगरानी",
-        "display": "निगरानी",
-        "normalized": "निगरानी",
+        "word": "बरामद",
+        "display": "बरामद",
+        "normalized": "बरामद",
         "variants": [],
         "meaning_ja": "",
         "pos": "",
         "category": "事件・事故",
         "importance": 3,
-        "sourceId": "news036_DJ20260526_Ropeway"
+        "sourceId": "news033_DJ20260527_KhaliBaoli"
       },
       "checkStatus": "existing",
       "reason": "strict key match",
@@ -118,22 +244,22 @@
         "missing meaning_ja",
         "missing pos"
       ],
-      "matchedMasterIndex": 56,
+      "matchedMasterIndex": 160,
       "matchedMaster": {
-        "index": 56,
-        "word": "निगरानी",
+        "index": 160,
+        "word": "बरामद",
         "display": "",
-        "normalized": "निगरानी"
+        "normalized": "बरामद"
       },
       "matchedMasterIndexes": [],
       "matchedMasters": []
     },
     {
-      "candidateIndex": 76,
-      "word": "जांच",
-      "display": "जांच",
-      "normalized": "जांच",
-      "compareKey": "जांच",
+      "candidateIndex": 57,
+      "word": "आरोपित",
+      "display": "आरोपित",
+      "normalized": "आरोपित",
+      "compareKey": "आरोपित",
       "variants": [],
       "pos": "",
       "meaning": "",
@@ -141,18 +267,18 @@
       "category": "事件・事故",
       "originalCategory": "事件・事故",
       "importance": 3,
-      "sourceId": "news036_DJ20260526_Ropeway",
+      "sourceId": "news033_DJ20260527_KhaliBaoli",
       "sourceIds": [],
       "raw": {
-        "word": "जांच",
-        "display": "जांच",
-        "normalized": "जांच",
+        "word": "आरोपित",
+        "display": "आरोपित",
+        "normalized": "आरोपित",
         "variants": [],
         "meaning_ja": "",
         "pos": "",
         "category": "事件・事故",
         "importance": 3,
-        "sourceId": "news036_DJ20260526_Ropeway"
+        "sourceId": "news033_DJ20260527_KhaliBaoli"
       },
       "checkStatus": "existing",
       "reason": "strict key match",
@@ -160,22 +286,22 @@
         "missing meaning_ja",
         "missing pos"
       ],
-      "matchedMasterIndex": 3,
+      "matchedMasterIndex": 391,
       "matchedMaster": {
-        "index": 3,
-        "word": "जांच",
-        "display": "",
-        "normalized": "जांच"
+        "index": 391,
+        "word": "आरोपित",
+        "display": "आरोपित",
+        "normalized": "आरोपित"
       },
       "matchedMasterIndexes": [],
       "matchedMasters": []
     },
     {
-      "candidateIndex": 77,
-      "word": "निर्देश",
-      "display": "निर्देश",
-      "normalized": "निर्देश",
-      "compareKey": "निर्देश",
+      "candidateIndex": 79,
+      "word": "आरोप",
+      "display": "आरोप",
+      "normalized": "आरोप",
+      "compareKey": "आरोप",
       "variants": [],
       "pos": "",
       "meaning": "",
@@ -183,18 +309,18 @@
       "category": "事件・事故",
       "originalCategory": "事件・事故",
       "importance": 3,
-      "sourceId": "news036_DJ20260526_Ropeway",
+      "sourceId": "news033_DJ20260527_KhaliBaoli",
       "sourceIds": [],
       "raw": {
-        "word": "निर्देश",
-        "display": "निर्देश",
-        "normalized": "निर्देश",
+        "word": "आरोप",
+        "display": "आरोप",
+        "normalized": "आरोप",
         "variants": [],
         "meaning_ja": "",
         "pos": "",
         "category": "事件・事故",
         "importance": 3,
-        "sourceId": "news036_DJ20260526_Ropeway"
+        "sourceId": "news033_DJ20260527_KhaliBaoli"
       },
       "checkStatus": "existing",
       "reason": "strict key match",
@@ -202,22 +328,22 @@
         "missing meaning_ja",
         "missing pos"
       ],
-      "matchedMasterIndex": 57,
+      "matchedMasterIndex": 405,
       "matchedMaster": {
-        "index": 57,
-        "word": "निर्देश",
+        "index": 405,
+        "word": "आरोप",
         "display": "",
-        "normalized": "निर्देश"
+        "normalized": "आरोप"
       },
       "matchedMasterIndexes": [],
       "matchedMasters": []
     },
     {
-      "candidateIndex": 105,
-      "word": "गंभीरता",
-      "display": "गंभीरता",
-      "normalized": "गंभीरता",
-      "compareKey": "गंभीरता",
+      "candidateIndex": 104,
+      "word": "कार्रवाई",
+      "display": "कार्रवाई",
+      "normalized": "कार्रवाई",
+      "compareKey": "कार्रवाई",
       "variants": [],
       "pos": "",
       "meaning": "",
@@ -225,18 +351,18 @@
       "category": "事件・事故",
       "originalCategory": "事件・事故",
       "importance": 3,
-      "sourceId": "news036_DJ20260526_Ropeway",
+      "sourceId": "news033_DJ20260527_KhaliBaoli",
       "sourceIds": [],
       "raw": {
-        "word": "गंभीरता",
-        "display": "गंभीरता",
-        "normalized": "गंभीरता",
+        "word": "कार्रवाई",
+        "display": "कार्रवाई",
+        "normalized": "कार्रवाई",
         "variants": [],
         "meaning_ja": "",
         "pos": "",
         "category": "事件・事故",
         "importance": 3,
-        "sourceId": "news036_DJ20260526_Ropeway"
+        "sourceId": "news033_DJ20260527_KhaliBaoli"
       },
       "checkStatus": "existing",
       "reason": "strict key match",
@@ -244,60 +370,18 @@
         "missing meaning_ja",
         "missing pos"
       ],
-      "matchedMasterIndex": 449,
+      "matchedMasterIndex": 616,
       "matchedMaster": {
-        "index": 449,
-        "word": "गंभीरता",
+        "index": 616,
+        "word": "कार्रवाई",
         "display": "",
-        "normalized": "गंभीरता"
+        "normalized": "कार्रवाई"
       },
       "matchedMasterIndexes": [],
       "matchedMasters": []
     },
     {
-      "candidateIndex": 109,
-      "word": "घटना",
-      "display": "घटना",
-      "normalized": "घटना",
-      "compareKey": "घटना",
-      "variants": [],
-      "pos": "",
-      "meaning": "",
-      "meaning_ja": "",
-      "category": "事件・事故",
-      "originalCategory": "事件・事故",
-      "importance": 3,
-      "sourceId": "news036_DJ20260526_Ropeway",
-      "sourceIds": [],
-      "raw": {
-        "word": "घटना",
-        "display": "घटना",
-        "normalized": "घटना",
-        "variants": [],
-        "meaning_ja": "",
-        "pos": "",
-        "category": "事件・事故",
-        "importance": 3,
-        "sourceId": "news036_DJ20260526_Ropeway"
-      },
-      "checkStatus": "existing",
-      "reason": "strict key match",
-      "warnings": [
-        "missing meaning_ja",
-        "missing pos"
-      ],
-      "matchedMasterIndex": 2,
-      "matchedMaster": {
-        "index": 2,
-        "word": "घटना",
-        "display": "",
-        "normalized": "घटना"
-      },
-      "matchedMasterIndexes": [],
-      "matchedMasters": []
-    },
-    {
-      "candidateIndex": 111,
+      "candidateIndex": 107,
       "word": "सुरक्षा",
       "display": "सुरक्षा",
       "normalized": "सुरक्षा",
@@ -309,7 +393,7 @@
       "category": "事件・事故",
       "originalCategory": "事件・事故",
       "importance": 3,
-      "sourceId": "news036_DJ20260526_Ropeway",
+      "sourceId": "news033_DJ20260527_KhaliBaoli",
       "sourceIds": [],
       "raw": {
         "word": "सुरक्षा",
@@ -320,7 +404,7 @@
         "pos": "",
         "category": "事件・事故",
         "importance": 3,
-        "sourceId": "news036_DJ20260526_Ropeway"
+        "sourceId": "news033_DJ20260527_KhaliBaoli"
       },
       "checkStatus": "existing",
       "reason": "strict key match",
@@ -339,11 +423,11 @@
       "matchedMasters": []
     },
     {
-      "candidateIndex": 112,
-      "word": "सुनिश्चित",
-      "display": "सुनिश्चित",
-      "normalized": "सुनिश्चित",
-      "compareKey": "सुनिश्चित",
+      "candidateIndex": 109,
+      "word": "विभाग",
+      "display": "विभाग",
+      "normalized": "विभाग",
+      "compareKey": "विभाग",
       "variants": [],
       "pos": "",
       "meaning": "",
@@ -351,18 +435,18 @@
       "category": "事件・事故",
       "originalCategory": "事件・事故",
       "importance": 3,
-      "sourceId": "news036_DJ20260526_Ropeway",
+      "sourceId": "news033_DJ20260527_KhaliBaoli",
       "sourceIds": [],
       "raw": {
-        "word": "सुनिश्चित",
-        "display": "सुनिश्चित",
-        "normalized": "सुनिश्चित",
+        "word": "विभाग",
+        "display": "विभाग",
+        "normalized": "विभाग",
         "variants": [],
         "meaning_ja": "",
         "pos": "",
         "category": "事件・事故",
         "importance": 3,
-        "sourceId": "news036_DJ20260526_Ropeway"
+        "sourceId": "news033_DJ20260527_KhaliBaoli"
       },
       "checkStatus": "existing",
       "reason": "strict key match",
@@ -370,12 +454,54 @@
         "missing meaning_ja",
         "missing pos"
       ],
-      "matchedMasterIndex": 551,
+      "matchedMasterIndex": 52,
       "matchedMaster": {
-        "index": 551,
-        "word": "सुनिश्चित",
+        "index": 52,
+        "word": "विभाग",
         "display": "",
-        "normalized": "सुनिश्चित"
+        "normalized": "विभाग"
+      },
+      "matchedMasterIndexes": [],
+      "matchedMasters": []
+    },
+    {
+      "candidateIndex": 134,
+      "word": "पूछताछ",
+      "display": "पूछताछ",
+      "normalized": "पूछताछ",
+      "compareKey": "पूछताछ",
+      "variants": [],
+      "pos": "",
+      "meaning": "",
+      "meaning_ja": "",
+      "category": "事件・事故",
+      "originalCategory": "事件・事故",
+      "importance": 3,
+      "sourceId": "news033_DJ20260527_KhaliBaoli",
+      "sourceIds": [],
+      "raw": {
+        "word": "पूछताछ",
+        "display": "पूछताछ",
+        "normalized": "पूछताछ",
+        "variants": [],
+        "meaning_ja": "",
+        "pos": "",
+        "category": "事件・事故",
+        "importance": 3,
+        "sourceId": "news033_DJ20260527_KhaliBaoli"
+      },
+      "checkStatus": "existing",
+      "reason": "strict key match",
+      "warnings": [
+        "missing meaning_ja",
+        "missing pos"
+      ],
+      "matchedMasterIndex": 390,
+      "matchedMaster": {
+        "index": 390,
+        "word": "पूछताछ",
+        "display": "पूछताछ",
+        "normalized": "पूछताछ"
       },
       "matchedMasterIndexes": [],
       "matchedMasters": []

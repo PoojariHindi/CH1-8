@@ -1,904 +1,1181 @@
 {
   "summary": {
-    "candidateFiles": 19,
-    "totalCandidates": 566,
-    "newCandidates": 37,
-    "existingCandidates": 529,
+    "candidateFiles": 23,
+    "totalCandidates": 726,
+    "newCandidates": 48,
+    "existingCandidates": 678,
     "duplicateCandidates": 0,
     "hardStopwords": 0,
     "softStopwordReviews": 0
   },
   "newCandidates": [
     {
-      "word": "आजीविका",
-      "display": "आजीविका",
-      "normalized": "आजीविका",
-      "variants": [],
-      "pos": "名詞（女）",
-      "meaning_ja": "生計、生活手段",
-      "importance": 5,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "社会科",
-        "経済",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_018"
-      ],
-      "sourceTitle": "उत्पादन के कारक",
-      "sourceGenre": "textbook",
-      "sourceRegister": "academic_prose",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "उत्पादन",
-      "display": "उत्पादन",
-      "normalized": "उत्पादन",
-      "variants": [],
-      "pos": "名詞（男）",
-      "meaning_ja": "生産",
-      "importance": 5,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "社会科",
-        "経済",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_018"
-      ],
-      "sourceTitle": "उत्पादन के कारक",
-      "sourceGenre": "textbook",
-      "sourceRegister": "academic_prose",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "उद्यम",
-      "display": "उद्यम",
-      "normalized": "उद्यम",
-      "variants": [],
-      "pos": "名詞（男）",
-      "meaning_ja": "事業、企業",
-      "importance": 5,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "社会科",
-        "経済",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_018"
-      ],
-      "sourceTitle": "उत्पादन के कारक",
-      "sourceGenre": "textbook",
-      "sourceRegister": "academic_prose",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "उद्यमिता",
-      "display": "उद्यमिता",
-      "normalized": "उद्यमिता",
-      "variants": [],
-      "pos": "名詞（女）",
-      "meaning_ja": "起業家精神、起業",
-      "importance": 5,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "社会科",
-        "経済",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_018"
-      ],
-      "sourceTitle": "उत्पादन के कारक",
-      "sourceGenre": "textbook",
-      "sourceRegister": "academic_prose",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "उद्यमी",
-      "display": "उद्यमी",
-      "normalized": "उद्यमी",
-      "variants": [],
-      "pos": "名詞（男）",
-      "meaning_ja": "起業家",
-      "importance": 5,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "社会科",
-        "経済",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_018"
-      ],
-      "sourceTitle": "उत्पादन के कारक",
-      "sourceGenre": "textbook",
-      "sourceRegister": "academic_prose",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "ऋण",
-      "display": "ऋण",
-      "normalized": "ऋण",
-      "variants": [],
-      "pos": "名詞（男）",
-      "meaning_ja": "借入金、ローン",
-      "importance": 5,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "社会科",
-        "経済",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_018"
-      ],
-      "sourceTitle": "उत्पादन के कारक",
-      "sourceGenre": "textbook",
-      "sourceRegister": "academic_prose",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "क्रय",
-      "display": "क्रय",
-      "normalized": "क्रय",
-      "variants": [],
-      "pos": "名詞（男）",
-      "meaning_ja": "購入",
-      "importance": 5,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "社会科",
-        "経済",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_018"
-      ],
-      "sourceTitle": "उत्पादन के कारक",
-      "sourceGenre": "textbook",
-      "sourceRegister": "academic_prose",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "जोखिम",
-      "display": "जोखिम",
-      "normalized": "जोखिम",
-      "variants": [],
-      "pos": "名詞（男）",
-      "meaning_ja": "リスク、危険",
-      "importance": 5,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "社会科",
-        "経済",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_018"
-      ],
-      "sourceTitle": "उत्पादन के कारक",
-      "sourceGenre": "textbook",
-      "sourceRegister": "academic_prose",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "पूँजी",
-      "display": "पूँजी",
-      "normalized": "पूंजी",
-      "variants": [
-        "पूंजी"
-      ],
-      "pos": "名詞（女）",
-      "meaning_ja": "資本",
-      "importance": 5,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "社会科",
-        "経済",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_018"
-      ],
-      "sourceTitle": "उत्पादन के कारक",
-      "sourceGenre": "textbook",
-      "sourceRegister": "academic_prose",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "ब्याज",
-      "display": "ब्याज",
-      "normalized": "ब्याज",
-      "variants": [],
-      "pos": "名詞（男）",
-      "meaning_ja": "利息",
-      "importance": 5,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "社会科",
-        "経済",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_018"
-      ],
-      "sourceTitle": "उत्पादन के कारक",
-      "sourceGenre": "textbook",
-      "sourceRegister": "academic_prose",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "मौद्रिक",
-      "display": "मौद्रिक",
-      "normalized": "मौद्रिक",
+      "word": "अपवित्र",
+      "display": "अपवित्र",
+      "normalized": "अपवित्र",
       "variants": [],
       "pos": "形容詞",
-      "meaning_ja": "貨幣の、金融の",
+      "meaning_ja": "不浄な、神聖でない",
       "importance": 5,
       "status": "active",
       "category": "academic",
       "tags": [
         "教科書",
-        "社会科",
-        "経済",
+        "性教育",
+        "社会",
         "抽象語"
       ],
       "sourceIds": [
-        "academic_018"
+        "academic_022"
       ],
-      "sourceTitle": "उत्पादन के कारक",
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
       "sourceGenre": "textbook",
-      "sourceRegister": "academic_prose",
+      "sourceRegister": "simple_narrative",
       "audit": "new_candidate"
     },
     {
-      "word": "रोजगार",
-      "display": "रोजगार",
-      "normalized": "रोजगार",
+      "word": "उर्वरता",
+      "display": "उर्वरता",
+      "normalized": "उर्वरता",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "肥沃さ、豊穣性",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_022"
+      ],
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "उलझन",
+      "display": "उलझन",
+      "normalized": "उलझन",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "混乱、困惑、もつれ",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_022"
+      ],
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "उल्लंघन",
+      "display": "उल्लंघन",
+      "normalized": "उल्लंघन",
       "variants": [],
       "pos": "名詞（男）",
-      "meaning_ja": "雇用、仕事",
+      "meaning_ja": "違反、侵犯、破ること",
       "importance": 5,
       "status": "active",
       "category": "academic",
       "tags": [
         "教科書",
-        "社会科",
-        "経済",
+        "性教育",
+        "社会",
         "抽象語"
       ],
       "sourceIds": [
-        "academic_018"
+        "academic_022"
       ],
-      "sourceTitle": "उत्पादन के कारक",
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
       "sourceGenre": "textbook",
-      "sourceRegister": "academic_prose",
+      "sourceRegister": "simple_narrative",
       "audit": "new_candidate"
     },
     {
-      "word": "लाभांश",
-      "display": "लाभांश",
-      "normalized": "लाभांश",
+      "word": "घृणा",
+      "display": "घृणा",
+      "normalized": "घृणा",
       "variants": [],
-      "pos": "名詞（男）",
-      "meaning_ja": "配当、利益配分",
+      "pos": "名詞（女）",
+      "meaning_ja": "嫌悪、憎悪",
       "importance": 5,
       "status": "active",
       "category": "academic",
       "tags": [
         "教科書",
-        "社会科",
-        "経済",
+        "性教育",
+        "社会",
         "抽象語"
       ],
       "sourceIds": [
-        "academic_018"
+        "academic_022"
       ],
-      "sourceTitle": "उत्पादन के कारक",
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
       "sourceGenre": "textbook",
-      "sourceRegister": "academic_prose",
+      "sourceRegister": "simple_narrative",
       "audit": "new_candidate"
     },
     {
-      "word": "विक्रय",
-      "display": "विक्रय",
-      "normalized": "विक्रय",
+      "word": "छवि",
+      "display": "छवि",
+      "normalized": "छवि",
       "variants": [],
-      "pos": "名詞（男）",
-      "meaning_ja": "販売",
+      "pos": "名詞（女）",
+      "meaning_ja": "イメージ、像",
       "importance": 5,
       "status": "active",
       "category": "academic",
       "tags": [
         "教科書",
-        "社会科",
-        "経済",
+        "性教育",
+        "社会",
         "抽象語"
       ],
       "sourceIds": [
-        "academic_018"
+        "academic_022"
       ],
-      "sourceTitle": "उत्पादन के कारक",
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
       "sourceGenre": "textbook",
-      "sourceRegister": "academic_prose",
+      "sourceRegister": "simple_narrative",
       "audit": "new_candidate"
     },
     {
-      "word": "वित्तीय पूँजी",
-      "display": "वित्तीय पूँजी",
-      "normalized": "वित्तीय पूंजी",
+      "word": "छुआ-छूत",
+      "display": "छुआ-छूत",
+      "normalized": "छुआछूत",
       "variants": [
-        "वित्तीय पूंजी"
+        "छुआछूत"
       ],
-      "pos": "名詞句",
-      "meaning_ja": "金融資本",
-      "importance": 5,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "社会科",
-        "経済",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_018"
-      ],
-      "sourceTitle": "उत्पादन के कारक",
-      "sourceGenre": "textbook",
-      "sourceRegister": "academic_prose",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "शेयर बाजार",
-      "display": "शेयर बाजार",
-      "normalized": "शेयर बाजार",
-      "variants": [],
-      "pos": "名詞句",
-      "meaning_ja": "株式市場",
-      "importance": 5,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "社会科",
-        "経済",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_018"
-      ],
-      "sourceTitle": "उत्पादन के कारक",
-      "sourceGenre": "textbook",
-      "sourceRegister": "academic_prose",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "संपत्ति",
-      "display": "संपत्ति",
-      "normalized": "संपत्ति",
-      "variants": [],
       "pos": "名詞（女）",
-      "meaning_ja": "財産、資産",
+      "meaning_ja": "不可触、接触忌避、触れることへの差別的禁忌",
       "importance": 5,
       "status": "active",
       "category": "academic",
       "tags": [
         "教科書",
-        "社会科",
-        "経済",
+        "性教育",
+        "社会",
         "抽象語"
       ],
       "sourceIds": [
-        "academic_018"
+        "academic_022"
       ],
-      "sourceTitle": "उत्पादन के कारक",
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
       "sourceGenre": "textbook",
-      "sourceRegister": "academic_prose",
+      "sourceRegister": "simple_narrative",
       "audit": "new_candidate"
     },
     {
-      "word": "सृजित",
-      "display": "सृजित",
-      "normalized": "सृजित",
-      "variants": [],
-      "pos": "形容詞・動詞",
-      "meaning_ja": "創出された、創り出すこと",
-      "importance": 5,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "社会科",
-        "経済",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_018"
-      ],
-      "sourceTitle": "उत्पादन के कारक",
-      "sourceGenre": "textbook",
-      "sourceRegister": "academic_prose",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "सेवा क्षेत्रक",
-      "display": "सेवा क्षेत्रक",
-      "normalized": "सेवा क्षेत्रक",
-      "variants": [],
-      "pos": "名詞句",
-      "meaning_ja": "サービス部門",
-      "importance": 5,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "社会科",
-        "経済",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_018"
-      ],
-      "sourceTitle": "उत्पादन के कारक",
-      "sourceGenre": "textbook",
-      "sourceRegister": "academic_prose",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "अनुभूति",
-      "display": "अनुभूति",
-      "normalized": "अनुभूति",
-      "variants": [],
-      "pos": "名詞（女）",
-      "meaning_ja": "実感、感覚、経験",
-      "importance": 4,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "社会科",
-        "経済",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_018"
-      ],
-      "sourceTitle": "उत्पादन के कारक",
-      "sourceGenre": "textbook",
-      "sourceRegister": "academic_prose",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "उद्देश्य",
-      "display": "उद्देश्य",
-      "normalized": "उद्देश्य",
-      "variants": [],
-      "pos": "名詞（男）",
-      "meaning_ja": "目的",
-      "importance": 4,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "社会科",
-        "経済",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_018"
-      ],
-      "sourceTitle": "उत्पादन के कारक",
-      "sourceGenre": "textbook",
-      "sourceRegister": "academic_prose",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "उपकरण",
-      "display": "उपकरण",
-      "normalized": "उपकरण",
-      "variants": [],
-      "pos": "名詞（男）",
-      "meaning_ja": "機器、装置",
-      "importance": 4,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "社会科",
-        "経済",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_018"
-      ],
-      "sourceTitle": "उत्पादन के कारक",
-      "sourceGenre": "textbook",
-      "sourceRegister": "academic_prose",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "उपार्जित",
-      "display": "उपार्जित",
-      "normalized": "उपार्जित",
-      "variants": [],
-      "pos": "形容詞・動詞",
-      "meaning_ja": "獲得された、得ること",
-      "importance": 4,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "社会科",
-        "経済",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_018"
-      ],
-      "sourceTitle": "उत्पादन के कारक",
-      "sourceGenre": "textbook",
-      "sourceRegister": "academic_prose",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "एकत्रित",
-      "display": "एकत्रित",
-      "normalized": "एकत्रित",
-      "variants": [],
-      "pos": "形容詞・動詞",
-      "meaning_ja": "集められた、集めること",
-      "importance": 4,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "社会科",
-        "経済",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_018"
-      ],
-      "sourceTitle": "उत्पादन के कारक",
-      "sourceGenre": "textbook",
-      "sourceRegister": "academic_prose",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "कारक",
-      "display": "कारक",
-      "normalized": "कारक",
-      "variants": [],
-      "pos": "名詞（男）",
-      "meaning_ja": "要因、要素",
-      "importance": 4,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "社会科",
-        "経済",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_018"
-      ],
-      "sourceTitle": "उत्पादन के कारक",
-      "sourceGenre": "textbook",
-      "sourceRegister": "academic_prose",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "टिकाऊ",
-      "display": "टिकाऊ",
-      "normalized": "टिकाऊ",
+      "word": "जटिल",
+      "display": "जटिल",
+      "normalized": "जटिल",
       "variants": [],
       "pos": "形容詞",
-      "meaning_ja": "耐久性のある、長持ちする",
-      "importance": 4,
+      "meaning_ja": "複雑な",
+      "importance": 5,
       "status": "active",
       "category": "academic",
       "tags": [
         "教科書",
-        "社会科",
-        "経済",
+        "性教育",
+        "社会",
         "抽象語"
       ],
       "sourceIds": [
-        "academic_018"
+        "academic_022"
       ],
-      "sourceTitle": "उत्पादन के कारक",
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
       "sourceGenre": "textbook",
-      "sourceRegister": "academic_prose",
+      "sourceRegister": "simple_narrative",
       "audit": "new_candidate"
     },
     {
-      "word": "धनराशि",
-      "display": "धनराशि",
-      "normalized": "धनराशि",
+      "word": "ढोना",
+      "display": "ढोना",
+      "normalized": "ढोना",
+      "variants": [],
+      "pos": "他動詞",
+      "meaning_ja": "背負う、運び続ける",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_022"
+      ],
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "दमन",
+      "display": "दमन",
+      "normalized": "दमन",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "抑圧、弾圧",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_022"
+      ],
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "दूषित",
+      "display": "दूषित",
+      "normalized": "दूषित",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "汚染された、不浄な",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_022"
+      ],
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "धारणा",
+      "display": "धारणा",
+      "normalized": "धारणा",
       "variants": [],
       "pos": "名詞（女）",
-      "meaning_ja": "金額、資金",
-      "importance": 4,
+      "meaning_ja": "考え、観念、認識",
+      "importance": 5,
       "status": "active",
       "category": "academic",
       "tags": [
         "教科書",
-        "社会科",
-        "経済",
+        "性教育",
+        "社会",
         "抽象語"
       ],
       "sourceIds": [
-        "academic_018"
+        "academic_022"
       ],
-      "sourceTitle": "उत्पादन के कारक",
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
       "sourceGenre": "textbook",
-      "sourceRegister": "academic_prose",
+      "sourceRegister": "simple_narrative",
       "audit": "new_candidate"
     },
     {
-      "word": "निर्माण इकाई",
-      "display": "निर्माण इकाई",
-      "normalized": "निर्माण इकाई",
+      "word": "नीचा दिखाना",
+      "display": "नीचा दिखाना",
+      "normalized": "नीचा दिखाना",
+      "variants": [],
+      "pos": "動詞句",
+      "meaning_ja": "低く見せる、貶める",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_022"
+      ],
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "परखना",
+      "display": "परखना",
+      "normalized": "परखना",
+      "variants": [],
+      "pos": "他動詞",
+      "meaning_ja": "検討する、見極める",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_022"
+      ],
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "पहलुओं",
+      "display": "पहलू",
+      "normalized": "पहलू",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "側面、観点",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_022"
+      ],
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "प्रजनन शक्ति",
+      "display": "प्रजनन शक्ति",
+      "normalized": "प्रजनन शक्ति",
       "variants": [],
       "pos": "名詞句",
-      "meaning_ja": "製造単位、製造部門",
-      "importance": 4,
+      "meaning_ja": "生殖能力",
+      "importance": 5,
       "status": "active",
       "category": "academic",
       "tags": [
         "教科書",
-        "社会科",
-        "経済",
+        "性教育",
+        "社会",
         "抽象語"
       ],
       "sourceIds": [
-        "academic_018"
+        "academic_022"
       ],
-      "sourceTitle": "उत्पादन के कारक",
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
       "sourceGenre": "textbook",
-      "sourceRegister": "academic_prose",
+      "sourceRegister": "simple_narrative",
       "audit": "new_candidate"
     },
     {
-      "word": "प्रणाली",
-      "display": "प्रणाली",
-      "normalized": "प्रणाली",
+      "word": "प्रतीक",
+      "display": "प्रतीक",
+      "normalized": "प्रतीक",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "象徴、シンボル",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_022"
+      ],
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "प्राकृतिक प्रक्रिया",
+      "display": "प्राकृतिक प्रक्रिया",
+      "normalized": "प्राकृतिक प्रक्रिया",
+      "variants": [],
+      "pos": "名詞句",
+      "meaning_ja": "自然な過程、自然なプロセス",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_022"
+      ],
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "बन्धन",
+      "display": "बंधन",
+      "normalized": "बंधन",
+      "variants": [
+        "बंधन",
+        "बन्धन"
+      ],
+      "pos": "名詞（男）",
+      "meaning_ja": "制約、束縛",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_022"
+      ],
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "बर्ताव",
+      "display": "बर्ताव",
+      "normalized": "बर्ताव",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "扱い、ふるまい",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_022"
+      ],
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "रक्त स्राव",
+      "display": "रक्त स्राव",
+      "normalized": "रक्त स्राव",
+      "variants": [],
+      "pos": "名詞句",
+      "meaning_ja": "出血、血の流出",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_022"
+      ],
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "रीति-रिवाज़",
+      "display": "रीति-रिवाज़",
+      "normalized": "रीति रिवाज",
+      "variants": [
+        "रीति रिवाज",
+        "रीति-रिवाज"
+      ],
+      "pos": "名詞（男）",
+      "meaning_ja": "慣習、しきたり",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_022"
+      ],
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "लादे गए",
+      "display": "लादना",
+      "normalized": "लादना",
+      "variants": [],
+      "pos": "他動詞",
+      "meaning_ja": "押しつける、背負わせる",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_022"
+      ],
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "विकृत",
+      "display": "विकृत",
+      "normalized": "विकृत",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "歪められた、歪んだ",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_022"
+      ],
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "विडम्बना",
+      "display": "विडम्बना",
+      "normalized": "विडंबना",
+      "variants": [
+        "विडंबना",
+        "विडम्बना"
+      ],
+      "pos": "名詞（女）",
+      "meaning_ja": "皮肉、矛盾した状況",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_022"
+      ],
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "विरोधाभास",
+      "display": "विरोधाभास",
+      "normalized": "विरोधाभास",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "矛盾、相反",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_022"
+      ],
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "विरोधाभासी",
+      "display": "विरोधाभासी",
+      "normalized": "विरोधाभासी",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "矛盾した、相反する",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_022"
+      ],
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "व्यक्तित्व",
+      "display": "व्यक्तित्व",
+      "normalized": "व्यक्तित्व",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "人格、個性",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_022"
+      ],
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "शोषण",
+      "display": "शोषण",
+      "normalized": "शोषण",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "搾取",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_022"
+      ],
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "हानिकारक",
+      "display": "हानिकारक",
+      "normalized": "हानिकारक",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "有害な",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_022"
+      ],
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "हीन",
+      "display": "हीन",
+      "normalized": "हीन",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "劣った、低い",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_022"
+      ],
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "उपाधियाँ",
+      "display": "उपाधि",
+      "normalized": "उपाधि",
       "variants": [],
       "pos": "名詞（女）",
-      "meaning_ja": "制度、システム",
+      "meaning_ja": "称号、肩書き",
       "importance": 4,
       "status": "active",
       "category": "academic",
       "tags": [
         "教科書",
-        "社会科",
-        "経済",
+        "性教育",
+        "社会",
         "抽象語"
       ],
       "sourceIds": [
-        "academic_018"
+        "academic_022"
       ],
-      "sourceTitle": "उत्पादन के कारक",
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
       "sourceGenre": "textbook",
-      "sourceRegister": "academic_prose",
+      "sourceRegister": "simple_narrative",
       "audit": "new_candidate"
     },
     {
-      "word": "प्राथमिक स्रोत",
-      "display": "प्राथमिक स्रोत",
-      "normalized": "प्राथमिक स्रोत",
+      "word": "एहसास",
+      "display": "एहसास",
+      "normalized": "एहसास",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "気づき、実感",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_022"
+      ],
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "घबराना",
+      "display": "घबराना",
+      "normalized": "घबराना",
+      "variants": [],
+      "pos": "自動詞",
+      "meaning_ja": "不安になる、慌てる",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_022"
+      ],
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "घोर",
+      "display": "घोर",
+      "normalized": "घोर",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "ひどい、深刻な、非常な",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_022"
+      ],
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "छिड़का",
+      "display": "छिड़कना",
+      "normalized": "छिड़कना",
+      "variants": [],
+      "pos": "他動詞",
+      "meaning_ja": "撒く、振りかける",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_022"
+      ],
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "जश्न",
+      "display": "जश्न",
+      "normalized": "जश्न",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "祝祭、祝い",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_022"
+      ],
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "प्रचलित",
+      "display": "प्रचलित",
+      "normalized": "प्रचलित",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "広く行われている、流通している",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_022"
+      ],
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "प्राणी",
+      "display": "प्राणी",
+      "normalized": "प्राणी",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "生き物、存在",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_022"
+      ],
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "फिज़ूल",
+      "display": "फिज़ूल",
+      "normalized": "फिजूल",
+      "variants": [
+        "फिजूल"
+      ],
+      "pos": "形容詞",
+      "meaning_ja": "無駄な、くだらない",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_022"
+      ],
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "महिला जाति",
+      "display": "महिला जाति",
+      "normalized": "महिला जाति",
       "variants": [],
       "pos": "名詞句",
-      "meaning_ja": "一次的な源、主要な供給源",
+      "meaning_ja": "女性全体、女性という集団",
       "importance": 4,
       "status": "active",
       "category": "academic",
       "tags": [
         "教科書",
-        "社会科",
-        "経済",
+        "性教育",
+        "社会",
         "抽象語"
       ],
       "sourceIds": [
-        "academic_018"
+        "academic_022"
       ],
-      "sourceTitle": "उत्पादन के कारक",
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
       "sourceGenre": "textbook",
-      "sourceRegister": "academic_prose",
+      "sourceRegister": "simple_narrative",
       "audit": "new_candidate"
     },
     {
-      "word": "भुगतान",
-      "display": "भुगतान",
-      "normalized": "भुगतान",
+      "word": "मुरझा जाएँगे",
+      "display": "मुरझाना",
+      "normalized": "मुरझाना",
+      "variants": [],
+      "pos": "自動詞",
+      "meaning_ja": "しおれる、萎れる",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_022"
+      ],
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "रोज़मर्रा",
+      "display": "रोज़मर्रा",
+      "normalized": "रोजमर्रा",
+      "variants": [
+        "रोजमर्रा"
+      ],
+      "pos": "名詞・形容詞",
+      "meaning_ja": "日常、日常的な",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_022"
+      ],
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "शृंगार",
+      "display": "शृंगार",
+      "normalized": "शृंगार",
       "variants": [],
       "pos": "名詞（男）",
-      "meaning_ja": "支払い",
+      "meaning_ja": "装い、化粧、飾り立て",
       "importance": 4,
       "status": "active",
       "category": "academic",
       "tags": [
         "教科書",
-        "社会科",
-        "経済",
+        "性教育",
+        "社会",
         "抽象語"
       ],
       "sourceIds": [
-        "academic_018"
+        "academic_022"
       ],
-      "sourceTitle": "उत्पादन के कारक",
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
       "sourceGenre": "textbook",
-      "sourceRegister": "academic_prose",
+      "sourceRegister": "simple_narrative",
       "audit": "new_candidate"
     },
     {
-      "word": "व्यक्तिगत बचत",
-      "display": "व्यक्तिगत बचत",
-      "normalized": "व्यक्तिगत बचत",
+      "word": "श्रेष्ठ",
+      "display": "श्रेष्ठ",
+      "normalized": "श्रेष्ठ",
       "variants": [],
-      "pos": "名詞句",
-      "meaning_ja": "個人貯蓄",
+      "pos": "形容詞",
+      "meaning_ja": "優れた、上位の",
       "importance": 4,
       "status": "active",
       "category": "academic",
       "tags": [
         "教科書",
-        "社会科",
-        "経済",
+        "性教育",
+        "社会",
         "抽象語"
       ],
       "sourceIds": [
-        "academic_018"
+        "academic_022"
       ],
-      "sourceTitle": "उत्पादन के कारक",
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
       "sourceGenre": "textbook",
-      "sourceRegister": "academic_prose",
+      "sourceRegister": "simple_narrative",
       "audit": "new_candidate"
     },
     {
-      "word": "व्यवसाय",
-      "display": "व्यवसाय",
-      "normalized": "व्यवसाय",
-      "variants": [],
-      "pos": "名詞（男）",
-      "meaning_ja": "事業、商売",
-      "importance": 4,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "社会科",
-        "経済",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_018"
-      ],
-      "sourceTitle": "उत्पादन के कारक",
-      "sourceGenre": "textbook",
-      "sourceRegister": "academic_prose",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "संचालन",
-      "display": "संचालन",
-      "normalized": "संचालन",
-      "variants": [],
-      "pos": "名詞（男）",
-      "meaning_ja": "運営、実施",
-      "importance": 4,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "社会科",
-        "経済",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_018"
-      ],
-      "sourceTitle": "उत्पादन के कारक",
-      "sourceGenre": "textbook",
-      "sourceRegister": "academic_prose",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "संतुष्टि",
-      "display": "संतुष्टि",
-      "normalized": "संतुष्टि",
+      "word": "सच्चाई",
+      "display": "सच्चाई",
+      "normalized": "सच्चाई",
       "variants": [],
       "pos": "名詞（女）",
-      "meaning_ja": "満足",
+      "meaning_ja": "真実、実情",
       "importance": 4,
       "status": "active",
       "category": "academic",
       "tags": [
         "教科書",
-        "社会科",
-        "経済",
+        "性教育",
+        "社会",
         "抽象語"
       ],
       "sourceIds": [
-        "academic_018"
+        "academic_022"
       ],
-      "sourceTitle": "उत्पादन के कारक",
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
       "sourceGenre": "textbook",
-      "sourceRegister": "academic_prose",
+      "sourceRegister": "simple_narrative",
       "audit": "new_candidate"
     },
     {
-      "word": "स्टार्टअप",
-      "display": "स्टार्टअप",
-      "normalized": "स्टार्टअप",
+      "word": "सहारा",
+      "display": "सहारा",
+      "normalized": "सहारा",
       "variants": [],
       "pos": "名詞（男）",
-      "meaning_ja": "スタートアップ、新興企業",
+      "meaning_ja": "支え、助け",
       "importance": 4,
       "status": "active",
       "category": "academic",
       "tags": [
         "教科書",
-        "社会科",
-        "経済",
+        "性教育",
+        "社会",
         "抽象語"
       ],
       "sourceIds": [
-        "academic_018"
+        "academic_022"
       ],
-      "sourceTitle": "उत्पादन के कारक",
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
       "sourceGenre": "textbook",
-      "sourceRegister": "academic_prose",
+      "sourceRegister": "simple_narrative",
       "audit": "new_candidate"
     },
     {
-      "word": "औजार",
-      "display": "औजार",
-      "normalized": "औजार",
-      "variants": [],
+      "word": "बरतन",
+      "display": "बरतन",
+      "normalized": "बरतन",
+      "variants": [
+        "बर्तन"
+      ],
       "pos": "名詞（男）",
-      "meaning_ja": "道具、工具",
+      "meaning_ja": "器、容器",
       "importance": 3,
       "status": "active",
       "category": "academic",
       "tags": [
         "教科書",
-        "社会科",
-        "経済",
+        "性教育",
+        "社会",
         "抽象語"
       ],
       "sourceIds": [
-        "academic_018"
+        "academic_022"
       ],
-      "sourceTitle": "उत्पादन के कारक",
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
       "sourceGenre": "textbook",
-      "sourceRegister": "academic_prose",
+      "sourceRegister": "simple_narrative",
       "audit": "new_candidate"
     }
   ],
@@ -1230,7 +1507,7 @@
       "display": "बीमारी",
       "normalized": "बीमारी",
       "variants": [],
-      "pos": "名詞（女・複）",
+      "pos": "名詞（女）",
       "meaning_ja": "病気",
       "importance": 3,
       "status": "active",
@@ -13310,6 +13587,464 @@
       "audit": "existing_in_master"
     },
     {
+      "word": "उत्पादन",
+      "display": "उत्पादन",
+      "normalized": "उत्पादन",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "生産",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "社会科",
+        "経済",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_018"
+      ],
+      "sourceTitle": "उत्पादन के कारक",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "कारक",
+      "display": "कारक",
+      "normalized": "कारक",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "要因、要素",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "社会科",
+        "経済",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_018"
+      ],
+      "sourceTitle": "उत्पादन के कारक",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "पूँजी",
+      "display": "पूँजी",
+      "normalized": "पूंजी",
+      "variants": [
+        "पूंजी"
+      ],
+      "pos": "名詞（女）",
+      "meaning_ja": "資本",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "社会科",
+        "経済",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_018"
+      ],
+      "sourceTitle": "उत्पादन के कारक",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "व्यवसाय",
+      "display": "व्यवसाय",
+      "normalized": "व्यवसाय",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "事業、商売",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "社会科",
+        "経済",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_018"
+      ],
+      "sourceTitle": "उत्पादन के कारक",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "संचालन",
+      "display": "संचालन",
+      "normalized": "संचालन",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "運営、実施",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "社会科",
+        "経済",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_018"
+      ],
+      "sourceTitle": "उत्पादन के कारक",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "मौद्रिक",
+      "display": "मौद्रिक",
+      "normalized": "मौद्रिक",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "貨幣の、金融の",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "社会科",
+        "経済",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_018"
+      ],
+      "sourceTitle": "उत्पादन के कारक",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "टिकाऊ",
+      "display": "टिकाऊ",
+      "normalized": "टिकाऊ",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "耐久性のある、長持ちする",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "社会科",
+        "経済",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_018"
+      ],
+      "sourceTitle": "उत्पादन के कारक",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "संपत्ति",
+      "display": "संपत्ति",
+      "normalized": "संपत्ति",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "財産、資産",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "社会科",
+        "経済",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_018"
+      ],
+      "sourceTitle": "उत्पादन के कारक",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "औजार",
+      "display": "औजार",
+      "normalized": "औजार",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "道具、工具",
+      "importance": 3,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "社会科",
+        "経済",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_018"
+      ],
+      "sourceTitle": "उत्पादन के कारक",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "उपकरण",
+      "display": "उपकरण",
+      "normalized": "उपकरण",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "機器、装置",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "社会科",
+        "経済",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_018"
+      ],
+      "sourceTitle": "उत्पादन के कारक",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "विक्रय",
+      "display": "विक्रय",
+      "normalized": "विक्रय",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "販売",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "社会科",
+        "経済",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_018"
+      ],
+      "sourceTitle": "उत्पादन के कारक",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "निर्माण इकाई",
+      "display": "निर्माण इकाई",
+      "normalized": "निर्माण इकाई",
+      "variants": [],
+      "pos": "名詞句",
+      "meaning_ja": "製造単位、製造部門",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "社会科",
+        "経済",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_018"
+      ],
+      "sourceTitle": "उत्पादन के कारक",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "सेवा क्षेत्रक",
+      "display": "सेवा क्षेत्रक",
+      "normalized": "सेवा क्षेत्रक",
+      "variants": [],
+      "pos": "名詞句",
+      "meaning_ja": "サービス部門",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "社会科",
+        "経済",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_018"
+      ],
+      "sourceTitle": "उत्पादन के कारक",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "उद्यम",
+      "display": "उद्यम",
+      "normalized": "उद्यम",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "事業、企業",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "社会科",
+        "経済",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_018"
+      ],
+      "sourceTitle": "उत्पादन के कारक",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "व्यक्तिगत बचत",
+      "display": "व्यक्तिगत बचत",
+      "normalized": "व्यक्तिगत बचत",
+      "variants": [],
+      "pos": "名詞句",
+      "meaning_ja": "個人貯蓄",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "社会科",
+        "経済",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_018"
+      ],
+      "sourceTitle": "उत्पादन के कारक",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "प्राथमिक स्रोत",
+      "display": "प्राथमिक स्रोत",
+      "normalized": "प्राथमिक स्रोत",
+      "variants": [],
+      "pos": "名詞句",
+      "meaning_ja": "一次的な源、主要な供給源",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "社会科",
+        "経済",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_018"
+      ],
+      "sourceTitle": "उत्पादन के कारक",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "ऋण",
+      "display": "ऋण",
+      "normalized": "ऋण",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "借入金、ローン",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "社会科",
+        "経済",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_018"
+      ],
+      "sourceTitle": "उत्पादन के कारक",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "ब्याज",
+      "display": "ब्याज",
+      "normalized": "ब्याज",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "利息",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "社会科",
+        "経済",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_018"
+      ],
+      "sourceTitle": "उत्पादन के कारक",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "भुगतान",
+      "display": "भुगतान",
+      "normalized": "भुगतान",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "支払い",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "社会科",
+        "経済",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_018"
+      ],
+      "sourceTitle": "उत्पादन के कारक",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
       "word": "विस्तार",
       "display": "विस्तार",
       "normalized": "विस्तार",
@@ -13334,12 +14069,302 @@
       "audit": "existing_in_master"
     },
     {
+      "word": "शेयर बाजार",
+      "display": "शेयर बाजार",
+      "normalized": "शेयर बाजार",
+      "variants": [],
+      "pos": "名詞句",
+      "meaning_ja": "株式市場",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "社会科",
+        "経済",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_018"
+      ],
+      "sourceTitle": "उत्पादन के कारक",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "एकत्रित",
+      "display": "एकत्रित",
+      "normalized": "एकत्रित",
+      "variants": [],
+      "pos": "形容詞・動詞",
+      "meaning_ja": "集められた、集めること",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "社会科",
+        "経済",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_018"
+      ],
+      "sourceTitle": "उत्पादन के कारक",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "क्रय",
+      "display": "क्रय",
+      "normalized": "क्रय",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "購入",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "社会科",
+        "経済",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_018"
+      ],
+      "sourceTitle": "उत्पादन के कारक",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "लाभांश",
+      "display": "लाभांश",
+      "normalized": "लाभांश",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "配当、利益配分",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "社会科",
+        "経済",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_018"
+      ],
+      "sourceTitle": "उत्पादन के कारक",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "धनराशि",
+      "display": "धनराशि",
+      "normalized": "धनराशि",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "金額、資金",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "社会科",
+        "経済",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_018"
+      ],
+      "sourceTitle": "उत्पादन के कारक",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "वित्तीय पूँजी",
+      "display": "वित्तीय पूँजी",
+      "normalized": "वित्तीय पूंजी",
+      "variants": [
+        "वित्तीय पूंजी"
+      ],
+      "pos": "名詞句",
+      "meaning_ja": "金融資本",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "社会科",
+        "経済",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_018"
+      ],
+      "sourceTitle": "उत्पादन के कारक",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "प्रणाली",
+      "display": "प्रणाली",
+      "normalized": "प्रणाली",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "制度、システム",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "社会科",
+        "経済",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_018"
+      ],
+      "sourceTitle": "उत्पादन के कारक",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "उद्यमिता",
+      "display": "उद्यमिता",
+      "normalized": "उद्यमिता",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "起業家精神、起業",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "社会科",
+        "経済",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_018"
+      ],
+      "sourceTitle": "उत्पादन के कारक",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
       "word": "तात्पर्य",
       "display": "तात्पर्य",
       "normalized": "तात्पर्य",
       "variants": [],
       "pos": "名詞（男）",
       "meaning_ja": "意味、趣旨",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "社会科",
+        "経済",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_018"
+      ],
+      "sourceTitle": "उत्पादन के कारक",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "उद्यमी",
+      "display": "उद्यमी",
+      "normalized": "उद्यमी",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "起業家",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "社会科",
+        "経済",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_018"
+      ],
+      "sourceTitle": "उत्पादन के कारक",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "जोखिम",
+      "display": "जोखिम",
+      "normalized": "जोखिम",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "リスク、危険",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "社会科",
+        "経済",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_018"
+      ],
+      "sourceTitle": "उत्पादन के कारक",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "स्टार्टअप",
+      "display": "स्टार्टअप",
+      "normalized": "स्टार्टअप",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "スタートアップ、新興企業",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "社会科",
+        "経済",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_018"
+      ],
+      "sourceTitle": "उत्पादन के कारक",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "उद्देश्य",
+      "display": "उद्देश्य",
+      "normalized": "उद्देश्य",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "目的",
       "importance": 4,
       "status": "active",
       "category": "academic",
@@ -13382,6 +14407,102 @@
       "audit": "existing_in_master"
     },
     {
+      "word": "रोजगार",
+      "display": "रोजगार",
+      "normalized": "रोजगार",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "雇用、仕事",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "社会科",
+        "経済",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_018"
+      ],
+      "sourceTitle": "उत्पादन के कारक",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "सृजित",
+      "display": "सृजित",
+      "normalized": "सृजित",
+      "variants": [],
+      "pos": "形容詞・動詞",
+      "meaning_ja": "創出された、創り出すこと",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "社会科",
+        "経済",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_018"
+      ],
+      "sourceTitle": "उत्पादन के कारक",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "आजीविका",
+      "display": "आजीविका",
+      "normalized": "आजीविका",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "生計、生活手段",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "社会科",
+        "経済",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_018"
+      ],
+      "sourceTitle": "उत्पादन के कारक",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "उपार्जित",
+      "display": "उपार्जित",
+      "normalized": "उपार्जित",
+      "variants": [],
+      "pos": "形容詞・動詞",
+      "meaning_ja": "獲得された、得ること",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "社会科",
+        "経済",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_018"
+      ],
+      "sourceTitle": "उत्पादन के कारक",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
       "word": "साकार",
       "display": "साकार",
       "normalized": "साकार",
@@ -13403,6 +14524,2753 @@
       "sourceTitle": "उत्पादन के कारक",
       "sourceGenre": "textbook",
       "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "संतुष्टि",
+      "display": "संतुष्टि",
+      "normalized": "संतुष्टि",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "満足",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "社会科",
+        "経済",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_018"
+      ],
+      "sourceTitle": "उत्पादन के कारक",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "अनुभूति",
+      "display": "अनुभूति",
+      "normalized": "अनुभूति",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "実感、感覚、経験",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "社会科",
+        "経済",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_018"
+      ],
+      "sourceTitle": "उत्पादन के कारक",
+      "sourceGenre": "textbook",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "मद्य विभाग",
+      "display": "मद्य विभाग",
+      "normalized": "मद्य विभाग",
+      "variants": [],
+      "pos": "名詞句",
+      "meaning_ja": "酒類取締部門、酒税・酒類関連部局",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "文学",
+        "小説",
+        "人物描写",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_019"
+      ],
+      "sourceTitle": "Mukhabir",
+      "sourceGenre": "novel",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "मुखबिर",
+      "display": "मुखबिर",
+      "normalized": "मुखबिर",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "密告者、情報提供者",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "文学",
+        "小説",
+        "人物描写",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_019"
+      ],
+      "sourceTitle": "Mukhabir",
+      "sourceGenre": "novel",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "परिचय",
+      "display": "परिचय",
+      "normalized": "परिचय",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "紹介、面識",
+      "importance": 3,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "文学",
+        "小説",
+        "人物描写",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_019"
+      ],
+      "sourceTitle": "Mukhabir",
+      "sourceGenre": "novel",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "मैला",
+      "display": "मैली",
+      "normalized": "मैला",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "汚れた、濁った",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "文学",
+        "小説",
+        "人物描写",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_019"
+      ],
+      "sourceTitle": "Mukhabir",
+      "sourceGenre": "novel",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "पंक्ति",
+      "display": "पंक्ति",
+      "normalized": "पंक्ति",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "列、行",
+      "importance": 3,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "文学",
+        "小説",
+        "人物描写",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_019"
+      ],
+      "sourceTitle": "Mukhabir",
+      "sourceGenre": "novel",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "निचोड़ना",
+      "display": "निचोड़ना",
+      "normalized": "निचोड़ना",
+      "variants": [],
+      "pos": "他動詞",
+      "meaning_ja": "絞る、絞り出す",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "文学",
+        "小説",
+        "人物描写",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_019"
+      ],
+      "sourceTitle": "Mukhabir",
+      "sourceGenre": "novel",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "मुड़ा-तुड़ा",
+      "display": "मुड़ा-तुड़ा",
+      "normalized": "मुड़ा तुड़ा",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "しわくちゃの、折れ曲がった",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "文学",
+        "小説",
+        "人物描写",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_019"
+      ],
+      "sourceTitle": "Mukhabir",
+      "sourceGenre": "novel",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "छिलका",
+      "display": "छिलका",
+      "normalized": "छिलका",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "皮、抜け殻",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "文学",
+        "小説",
+        "人物描写",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_019"
+      ],
+      "sourceTitle": "Mukhabir",
+      "sourceGenre": "novel",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "पट्टा",
+      "display": "पट्टा",
+      "normalized": "पट्टा",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "房状の髪、帯状のもの",
+      "importance": 3,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "文学",
+        "小説",
+        "人物描写",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_019"
+      ],
+      "sourceTitle": "Mukhabir",
+      "sourceGenre": "novel",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "ऐंठन",
+      "display": "ऐंठन",
+      "normalized": "ऐंठन",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "ねじれ、こわばり、ひきつり",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "文学",
+        "小説",
+        "人物描写",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_019"
+      ],
+      "sourceTitle": "Mukhabir",
+      "sourceGenre": "novel",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "आयताकार",
+      "display": "आयताकार",
+      "normalized": "आयताकार",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "長方形の",
+      "importance": 3,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "文学",
+        "小説",
+        "人物描写",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_019"
+      ],
+      "sourceTitle": "Mukhabir",
+      "sourceGenre": "novel",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "मुंडा हुआ",
+      "display": "मुंडा हुआ",
+      "normalized": "मुंडा हुआ",
+      "variants": [],
+      "pos": "形容詞句",
+      "meaning_ja": "剃られた",
+      "importance": 3,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "文学",
+        "小説",
+        "人物描写",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_019"
+      ],
+      "sourceTitle": "Mukhabir",
+      "sourceGenre": "novel",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "अटकना",
+      "display": "अटकना",
+      "normalized": "अटकना",
+      "variants": [],
+      "pos": "自動詞",
+      "meaning_ja": "引っかかる、止まる",
+      "importance": 3,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "文学",
+        "小説",
+        "人物描写",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_019"
+      ],
+      "sourceTitle": "Mukhabir",
+      "sourceGenre": "novel",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "लौ",
+      "display": "लौ",
+      "normalized": "लौ",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "耳たぶ、炎",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "文学",
+        "小説",
+        "人物描写",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_019"
+      ],
+      "sourceTitle": "Mukhabir",
+      "sourceGenre": "novel",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "छल्ला",
+      "display": "छल्ला",
+      "normalized": "छल्ला",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "輪、リング",
+      "importance": 3,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "文学",
+        "小説",
+        "人物描写",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_019"
+      ],
+      "sourceTitle": "Mukhabir",
+      "sourceGenre": "novel",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "निशानी",
+      "display": "निशानी",
+      "normalized": "निशानी",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "しるし、記念の品",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "文学",
+        "小説",
+        "人物描写",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_019"
+      ],
+      "sourceTitle": "Mukhabir",
+      "sourceGenre": "novel",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "भंग",
+      "display": "भंग",
+      "normalized": "भंग",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "バング、大麻飲料",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "文学",
+        "小説",
+        "人物描写",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_019"
+      ],
+      "sourceTitle": "Mukhabir",
+      "sourceGenre": "novel",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "नसेड़ी",
+      "display": "नसेड़ी",
+      "normalized": "नसेड़ी",
+      "variants": [],
+      "pos": "名詞・形容詞",
+      "meaning_ja": "薬物・酒におぼれた人、中毒者",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "文学",
+        "小説",
+        "人物描写",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_019"
+      ],
+      "sourceTitle": "Mukhabir",
+      "sourceGenre": "novel",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "सुरमा",
+      "display": "सुरमा",
+      "normalized": "सुरमा",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "コール、目に入れる黒い化粧粉",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "文学",
+        "小説",
+        "人物描写",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_019"
+      ],
+      "sourceTitle": "Mukhabir",
+      "sourceGenre": "novel",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "पुतली",
+      "display": "पुतली",
+      "normalized": "पुतली",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "瞳、瞳孔",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "文学",
+        "小説",
+        "人物描写",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_019"
+      ],
+      "sourceTitle": "Mukhabir",
+      "sourceGenre": "novel",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "गदला",
+      "display": "गदली-गदली",
+      "normalized": "गदला",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "濁った、くすんだ",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "文学",
+        "小説",
+        "人物描写",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_019"
+      ],
+      "sourceTitle": "Mukhabir",
+      "sourceGenre": "novel",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "समेटना",
+      "display": "समेटना",
+      "normalized": "समेटना",
+      "variants": [],
+      "pos": "他動詞",
+      "meaning_ja": "集める、まとめる、抱え込む",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "文学",
+        "小説",
+        "人物描写",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_019"
+      ],
+      "sourceTitle": "Mukhabir",
+      "sourceGenre": "novel",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "हल्दी की गांठ",
+      "display": "हल्दी की गांठ",
+      "normalized": "हल्दी की गांठ",
+      "variants": [],
+      "pos": "名詞句",
+      "meaning_ja": "ターメリックの塊",
+      "importance": 3,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "文学",
+        "小説",
+        "人物描写",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_019"
+      ],
+      "sourceTitle": "Mukhabir",
+      "sourceGenre": "novel",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "उभरना",
+      "display": "उभरना",
+      "normalized": "उभरना",
+      "variants": [],
+      "pos": "自動詞",
+      "meaning_ja": "浮き出る、現れる",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "文学",
+        "小説",
+        "人物描写",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_019"
+      ],
+      "sourceTitle": "Mukhabir",
+      "sourceGenre": "novel",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "तनना",
+      "display": "तनना",
+      "normalized": "तनना",
+      "variants": [],
+      "pos": "自動詞",
+      "meaning_ja": "張る、緊張する",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "文学",
+        "小説",
+        "人物描写",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_019"
+      ],
+      "sourceTitle": "Mukhabir",
+      "sourceGenre": "novel",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "रस्साकशी",
+      "display": "रस्साकशी",
+      "normalized": "रस्साकशी",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "綱引き、葛藤",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "文学",
+        "小説",
+        "人物描写",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_019"
+      ],
+      "sourceTitle": "Mukhabir",
+      "sourceGenre": "novel",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "मैल",
+      "display": "मैल",
+      "normalized": "मैल",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "汚れ、垢",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "文学",
+        "小説",
+        "人物描写",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_019"
+      ],
+      "sourceTitle": "Mukhabir",
+      "sourceGenre": "novel",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "तहबन्द",
+      "display": "तहबन्द",
+      "normalized": "तहबंद",
+      "variants": [
+        "तहबंद"
+      ],
+      "pos": "名詞（男）",
+      "meaning_ja": "腰布、下衣",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "文学",
+        "小説",
+        "人物描写",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_019"
+      ],
+      "sourceTitle": "Mukhabir",
+      "sourceGenre": "novel",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "शोरबा",
+      "display": "शोरबे",
+      "normalized": "शोरबा",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "スープ、汁",
+      "importance": 3,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "文学",
+        "小説",
+        "人物描写",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_019"
+      ],
+      "sourceTitle": "Mukhabir",
+      "sourceGenre": "novel",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "धब्बा",
+      "display": "धब्बा",
+      "normalized": "धब्बा",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "しみ、斑点、汚点",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "文学",
+        "小説",
+        "人物描写",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_019"
+      ],
+      "sourceTitle": "Mukhabir",
+      "sourceGenre": "novel",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "हाशिया",
+      "display": "हाशिया",
+      "normalized": "हाशिया",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "縁、余白、周辺",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "文学",
+        "小説",
+        "人物描写",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_019"
+      ],
+      "sourceTitle": "Mukhabir",
+      "sourceGenre": "novel",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "ज़ाहिर",
+      "display": "ज़ाहिर",
+      "normalized": "ज़ाहिर",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "明らかな、現れた",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "文学",
+        "小説",
+        "人物描写",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_019"
+      ],
+      "sourceTitle": "Mukhabir",
+      "sourceGenre": "novel",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "चीरना",
+      "display": "चीरना",
+      "normalized": "चीरना",
+      "variants": [],
+      "pos": "他動詞",
+      "meaning_ja": "切り裂く、割る",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "文学",
+        "小説",
+        "人物描写",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_019"
+      ],
+      "sourceTitle": "Mukhabir",
+      "sourceGenre": "novel",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "मसूढ़ा",
+      "display": "मसूढ़ा",
+      "normalized": "मसूढ़ा",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "歯茎",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "文学",
+        "小説",
+        "人物描写",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_019"
+      ],
+      "sourceTitle": "Mukhabir",
+      "sourceGenre": "novel",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "चरस",
+      "display": "चरस",
+      "normalized": "चरस",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "チャラス、大麻樹脂",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "文学",
+        "小説",
+        "人物描写",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_019"
+      ],
+      "sourceTitle": "Mukhabir",
+      "sourceGenre": "novel",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "पोपला",
+      "display": "पोपले",
+      "normalized": "पोपला",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "歯の抜けた",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "文学",
+        "小説",
+        "人物描写",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_019"
+      ],
+      "sourceTitle": "Mukhabir",
+      "sourceGenre": "novel",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "लिपटना",
+      "display": "लिपटा",
+      "normalized": "लिपटना",
+      "variants": [],
+      "pos": "自動詞",
+      "meaning_ja": "巻きつく、絡みつく",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "文学",
+        "小説",
+        "人物描写",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_019"
+      ],
+      "sourceTitle": "Mukhabir",
+      "sourceGenre": "novel",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "दरार",
+      "display": "दरार",
+      "normalized": "दरार",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "隙間、割れ目",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "文学",
+        "小説",
+        "人物描写",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_019"
+      ],
+      "sourceTitle": "Mukhabir",
+      "sourceGenre": "novel",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "सिक्ख",
+      "display": "सिक्ख",
+      "normalized": "सिक्ख",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "シク教徒",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "文学",
+        "小説",
+        "人物描写",
+        "犯罪・捜査"
+      ],
+      "sourceIds": [
+        "academic_020"
+      ],
+      "sourceTitle": "Mukhabir",
+      "sourceGenre": "novel",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "उचटती नज़र",
+      "display": "उचटती सी नजर",
+      "normalized": "उचटती नजर",
+      "variants": [],
+      "pos": "名詞句",
+      "meaning_ja": "落ち着かない視線、ちらりと見る視線",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "文学",
+        "小説",
+        "人物描写",
+        "犯罪・捜査"
+      ],
+      "sourceIds": [
+        "academic_020"
+      ],
+      "sourceTitle": "Mukhabir",
+      "sourceGenre": "novel",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "मुखबिरी",
+      "display": "मुखबिरी",
+      "normalized": "मुखबिरी",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "密告、情報提供",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "文学",
+        "小説",
+        "人物描写",
+        "犯罪・捜査"
+      ],
+      "sourceIds": [
+        "academic_020"
+      ],
+      "sourceTitle": "Mukhabir",
+      "sourceGenre": "novel",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "मुकद्दमा",
+      "display": "मुकद्दमे",
+      "normalized": "मुकद्दमा",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "事件、訴訟",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "文学",
+        "小説",
+        "人物描写",
+        "犯罪・捜査"
+      ],
+      "sourceIds": [
+        "academic_020"
+      ],
+      "sourceTitle": "Mukhabir",
+      "sourceGenre": "novel",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "इनाम",
+      "display": "इनाम",
+      "normalized": "इनाम",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "報酬、賞金",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "文学",
+        "小説",
+        "人物描写",
+        "犯罪・捜査"
+      ],
+      "sourceIds": [
+        "academic_020"
+      ],
+      "sourceTitle": "Mukhabir",
+      "sourceGenre": "novel",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "सिफारिश",
+      "display": "सिफारिश",
+      "normalized": "सिफारिश",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "推薦、推挙",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "文学",
+        "小説",
+        "人物描写",
+        "犯罪・捜査"
+      ],
+      "sourceIds": [
+        "academic_020"
+      ],
+      "sourceTitle": "Mukhabir",
+      "sourceGenre": "novel",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "निगहबान",
+      "display": "निगहबान",
+      "normalized": "निगहबान",
+      "variants": [],
+      "pos": "名詞・形容詞",
+      "meaning_ja": "守護者、見守る者",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "文学",
+        "小説",
+        "人物描写",
+        "犯罪・捜査"
+      ],
+      "sourceIds": [
+        "academic_020"
+      ],
+      "sourceTitle": "Mukhabir",
+      "sourceGenre": "novel",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "छिलड़",
+      "display": "छिलड़",
+      "normalized": "छिलड़",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "小銭、はした金",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "文学",
+        "小説",
+        "人物描写",
+        "犯罪・捜査"
+      ],
+      "sourceIds": [
+        "academic_020"
+      ],
+      "sourceTitle": "Mukhabir",
+      "sourceGenre": "novel",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "दुआ",
+      "display": "दुआएँ",
+      "normalized": "दुआ",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "祈り、祝福",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "文学",
+        "小説",
+        "人物描写",
+        "犯罪・捜査"
+      ],
+      "sourceIds": [
+        "academic_020"
+      ],
+      "sourceTitle": "Mukhabir",
+      "sourceGenre": "novel",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "गड़बड़ी",
+      "display": "गड़बड़ी",
+      "normalized": "गड़बड़ी",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "不具合、失敗、混乱",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "文学",
+        "小説",
+        "人物描写",
+        "犯罪・捜査"
+      ],
+      "sourceIds": [
+        "academic_020"
+      ],
+      "sourceTitle": "Mukhabir",
+      "sourceGenre": "novel",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "भट्टी",
+      "display": "भट्टियाँ",
+      "normalized": "भट्टी",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "蒸留釜、炉",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "文学",
+        "小説",
+        "人物描写",
+        "犯罪・捜査"
+      ],
+      "sourceIds": [
+        "academic_020"
+      ],
+      "sourceTitle": "Mukhabir",
+      "sourceGenre": "novel",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "पारी",
+      "display": "पारी",
+      "normalized": "पारी",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "番、順番",
+      "importance": 3,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "文学",
+        "小説",
+        "人物描写",
+        "犯罪・捜査"
+      ],
+      "sourceIds": [
+        "academic_020"
+      ],
+      "sourceTitle": "Mukhabir",
+      "sourceGenre": "novel",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "निशानदेही",
+      "display": "निशानदेही",
+      "normalized": "निशानदेही",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "場所の特定、指し示し",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "文学",
+        "小説",
+        "人物描写",
+        "犯罪・捜査"
+      ],
+      "sourceIds": [
+        "academic_020"
+      ],
+      "sourceTitle": "Mukhabir",
+      "sourceGenre": "novel",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "राख",
+      "display": "राख",
+      "normalized": "राख",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "灰",
+      "importance": 3,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "文学",
+        "小説",
+        "人物描写",
+        "犯罪・捜査"
+      ],
+      "sourceIds": [
+        "academic_020"
+      ],
+      "sourceTitle": "Mukhabir",
+      "sourceGenre": "novel",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "मेंढ",
+      "display": "मेंढ",
+      "normalized": "मेंढ",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "畑の畔",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "文学",
+        "小説",
+        "人物描写",
+        "犯罪・捜査"
+      ],
+      "sourceIds": [
+        "academic_020"
+      ],
+      "sourceTitle": "Mukhabir",
+      "sourceGenre": "novel",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "दरोगा",
+      "display": "दरोगे",
+      "normalized": "दरोगा",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "警部、巡査部長級の警官",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "文学",
+        "小説",
+        "人物描写",
+        "犯罪・捜査"
+      ],
+      "sourceIds": [
+        "academic_020"
+      ],
+      "sourceTitle": "Mukhabir",
+      "sourceGenre": "novel",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "खटिया",
+      "display": "खटिया",
+      "normalized": "खटिया",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "簡易ベッド、チャールパーイー",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "文学",
+        "小説",
+        "人物描写",
+        "犯罪・捜査"
+      ],
+      "sourceIds": [
+        "academic_020"
+      ],
+      "sourceTitle": "Mukhabir",
+      "sourceGenre": "novel",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "गन्ना",
+      "display": "गन्ने",
+      "normalized": "गन्ना",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "サトウキビ",
+      "importance": 3,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "文学",
+        "小説",
+        "人物描写",
+        "犯罪・捜査"
+      ],
+      "sourceIds": [
+        "academic_020"
+      ],
+      "sourceTitle": "Mukhabir",
+      "sourceGenre": "novel",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "झेंप",
+      "display": "झेंप",
+      "normalized": "झेंप",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "気まずさ、恥ずかしさ",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "文学",
+        "小説",
+        "人物描写",
+        "犯罪・捜査"
+      ],
+      "sourceIds": [
+        "academic_020"
+      ],
+      "sourceTitle": "Mukhabir",
+      "sourceGenre": "novel",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "डपटना",
+      "display": "डपट",
+      "normalized": "डपटना",
+      "variants": [],
+      "pos": "他動詞",
+      "meaning_ja": "叱りつける",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "文学",
+        "小説",
+        "人物描写",
+        "犯罪・捜査"
+      ],
+      "sourceIds": [
+        "academic_020"
+      ],
+      "sourceTitle": "Mukhabir",
+      "sourceGenre": "novel",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "ढब",
+      "display": "ढब",
+      "normalized": "ढब",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "やり方、様子、話しぶり",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "文学",
+        "小説",
+        "人物描写",
+        "犯罪・捜査"
+      ],
+      "sourceIds": [
+        "academic_020"
+      ],
+      "sourceTitle": "Mukhabir",
+      "sourceGenre": "novel",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "तोबा",
+      "display": "तोबा",
+      "normalized": "तोबा",
+      "variants": [],
+      "pos": "間投詞・名詞",
+      "meaning_ja": "なんということだ、悔悛",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "文学",
+        "小説",
+        "人物描写",
+        "犯罪・捜査"
+      ],
+      "sourceIds": [
+        "academic_020"
+      ],
+      "sourceTitle": "Mukhabir",
+      "sourceGenre": "novel",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "अफ़ीम",
+      "display": "अफीम",
+      "normalized": "अफीम",
+      "variants": [
+        "अफ़ीम"
+      ],
+      "pos": "名詞（女）",
+      "meaning_ja": "アヘン",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "文学",
+        "小説",
+        "人物描写",
+        "犯罪・捜査"
+      ],
+      "sourceIds": [
+        "academic_020"
+      ],
+      "sourceTitle": "Mukhabir",
+      "sourceGenre": "novel",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "सेर",
+      "display": "सेर",
+      "normalized": "सेर",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "セール（旧重量単位）",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "文学",
+        "小説",
+        "人物描写",
+        "犯罪・捜査"
+      ],
+      "sourceIds": [
+        "academic_020"
+      ],
+      "sourceTitle": "Mukhabir",
+      "sourceGenre": "novel",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "छटांक",
+      "display": "छटांक",
+      "normalized": "छटांक",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "チャターンク（旧重量単位）",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "文学",
+        "小説",
+        "人物描写",
+        "犯罪・捜査"
+      ],
+      "sourceIds": [
+        "academic_020"
+      ],
+      "sourceTitle": "Mukhabir",
+      "sourceGenre": "novel",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "शाबाशी",
+      "display": "शाबाशियाँ",
+      "normalized": "शाबाशी",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "称賛、褒賞",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "文学",
+        "小説",
+        "人物描写",
+        "犯罪・捜査"
+      ],
+      "sourceIds": [
+        "academic_020"
+      ],
+      "sourceTitle": "Mukhabir",
+      "sourceGenre": "novel",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "दिल्लगी",
+      "display": "दिल्लगी",
+      "normalized": "दिल्लगी",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "冗談半分、軽い遊び心",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "文学",
+        "小説",
+        "人物描写",
+        "犯罪・捜査"
+      ],
+      "sourceIds": [
+        "academic_020"
+      ],
+      "sourceTitle": "Mukhabir",
+      "sourceGenre": "novel",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "दर्जा",
+      "display": "दर्जे",
+      "normalized": "दर्जा",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "等級、クラス",
+      "importance": 3,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "文学",
+        "小説",
+        "人物描写",
+        "犯罪・捜査"
+      ],
+      "sourceIds": [
+        "academic_020"
+      ],
+      "sourceTitle": "Mukhabir",
+      "sourceGenre": "novel",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "डब्बा",
+      "display": "डब्बे",
+      "normalized": "डब्बा",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "車両、箱",
+      "importance": 3,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "文学",
+        "小説",
+        "人物描写",
+        "犯罪・捜査"
+      ],
+      "sourceIds": [
+        "academic_020"
+      ],
+      "sourceTitle": "Mukhabir",
+      "sourceGenre": "novel",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "सूटेड-बूटेड",
+      "display": "सूटेड-बूटेड",
+      "normalized": "सूटेड बूटेड",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "きちんとスーツを着た",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "文学",
+        "小説",
+        "人物描写",
+        "犯罪・捜査"
+      ],
+      "sourceIds": [
+        "academic_020"
+      ],
+      "sourceTitle": "Mukhabir",
+      "sourceGenre": "novel",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "घेरे में लेना",
+      "display": "घेरे में ले लिया",
+      "normalized": "घेरे में लेना",
+      "variants": [],
+      "pos": "動詞句",
+      "meaning_ja": "包囲する、取り囲む",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "文学",
+        "小説",
+        "人物描写",
+        "犯罪・捜査"
+      ],
+      "sourceIds": [
+        "academic_020"
+      ],
+      "sourceTitle": "Mukhabir",
+      "sourceGenre": "novel",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "तलाशी",
+      "display": "तलाशी",
+      "normalized": "तलाशी",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "捜索、検査",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "文学",
+        "小説",
+        "人物描写",
+        "犯罪・捜査"
+      ],
+      "sourceIds": [
+        "academic_020"
+      ],
+      "sourceTitle": "Mukhabir",
+      "sourceGenre": "novel",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "खुफ़िया",
+      "display": "खुफ़िया",
+      "normalized": "खुफिया",
+      "variants": [
+        "खुफ़िया"
+      ],
+      "pos": "形容詞",
+      "meaning_ja": "秘密の、隠された",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "文学",
+        "小説",
+        "人物描写",
+        "犯罪・捜査"
+      ],
+      "sourceIds": [
+        "academic_020"
+      ],
+      "sourceTitle": "Mukhabir",
+      "sourceGenre": "novel",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "पेन्दा",
+      "display": "पेन्दों",
+      "normalized": "पेन्दा",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "底部",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "文学",
+        "小説",
+        "人物描写",
+        "犯罪・捜査"
+      ],
+      "sourceIds": [
+        "academic_020"
+      ],
+      "sourceTitle": "Mukhabir",
+      "sourceGenre": "novel",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "महकना",
+      "display": "महक रही थी",
+      "normalized": "महकना",
+      "variants": [],
+      "pos": "自動詞",
+      "meaning_ja": "香る、匂う",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "文学",
+        "小説",
+        "人物描写",
+        "犯罪・捜査"
+      ],
+      "sourceIds": [
+        "academic_020"
+      ],
+      "sourceTitle": "Mukhabir",
+      "sourceGenre": "novel",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "धूम मचना",
+      "display": "धूम मच गई",
+      "normalized": "धूम मचना",
+      "variants": [],
+      "pos": "動詞句",
+      "meaning_ja": "大騒ぎになる",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "文学",
+        "小説",
+        "人物描写",
+        "犯罪・捜査"
+      ],
+      "sourceIds": [
+        "academic_020"
+      ],
+      "sourceTitle": "Mukhabir",
+      "sourceGenre": "novel",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "ईमानदार",
+      "display": "ईमानदार",
+      "normalized": "ईमानदार",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "誠実な、正直な",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "文学",
+        "小説",
+        "人物描写",
+        "犯罪・捜査"
+      ],
+      "sourceIds": [
+        "academic_020"
+      ],
+      "sourceTitle": "Mukhabir",
+      "sourceGenre": "novel",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "मोती",
+      "display": "मोती",
+      "normalized": "मोती",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "真珠",
+      "importance": 3,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "文学",
+        "小説",
+        "人物描写",
+        "犯罪・捜査"
+      ],
+      "sourceIds": [
+        "academic_020"
+      ],
+      "sourceTitle": "Mukhabir",
+      "sourceGenre": "novel",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "चंडूवाला",
+      "display": "चंडूवाले",
+      "normalized": "चंडूवाला",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "阿片常習者、阿片屋",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "文学",
+        "小説",
+        "人物描写",
+        "犯罪・捜査"
+      ],
+      "sourceIds": [
+        "academic_020"
+      ],
+      "sourceTitle": "Mukhabir",
+      "sourceGenre": "novel",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "ज़रूरत",
+      "display": "ज़रूरत",
+      "normalized": "जरूरत",
+      "variants": [
+        "जरूरत"
+      ],
+      "pos": "名詞（女）",
+      "meaning_ja": "必要、必要性",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_021"
+      ],
+      "sourceTitle": "यह पुस्तक क्यों?",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "महसूस",
+      "display": "महसूस",
+      "normalized": "महसूस",
+      "variants": [],
+      "pos": "形容詞・動詞",
+      "meaning_ja": "感じられた、感じること",
+      "importance": 3,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_021"
+      ],
+      "sourceTitle": "यह पुस्तक क्यों?",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "किशोरावस्था",
+      "display": "किशोरावस्था",
+      "normalized": "किशोरावस्था",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "思春期、青年期",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_021"
+      ],
+      "sourceTitle": "यह पुस्तक क्यों?",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "शारीरिक परिवर्तन",
+      "display": "शारीरिक परिवर्तन",
+      "normalized": "शारीरिक परिवर्तन",
+      "variants": [],
+      "pos": "名詞句",
+      "meaning_ja": "身体的変化",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_021"
+      ],
+      "sourceTitle": "यह पुस्तक क्यों?",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "बिगड़ना",
+      "display": "बिगड़ गई",
+      "normalized": "बिगड़ना",
+      "variants": [],
+      "pos": "自動詞",
+      "meaning_ja": "悪くなる、道を外れる",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_021"
+      ],
+      "sourceTitle": "यह पुस्तक क्यों?",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "माहवारी",
+      "display": "माहवारी",
+      "normalized": "माहवारी",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "月経、生理",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_021"
+      ],
+      "sourceTitle": "यह पुस्तक क्यों?",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "शक",
+      "display": "शक",
+      "normalized": "शक",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "疑い、疑念",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_021"
+      ],
+      "sourceTitle": "यह पुस्तक क्यों?",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "परिवेश",
+      "display": "परिवेश",
+      "normalized": "परिवेश",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "環境、周囲の状況",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_021"
+      ],
+      "sourceTitle": "यह पुस्तक क्यों?",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "शारीरिक विकास",
+      "display": "शारीरिक विकास",
+      "normalized": "शारीरिक विकास",
+      "variants": [],
+      "pos": "名詞句",
+      "meaning_ja": "身体的発達",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_021"
+      ],
+      "sourceTitle": "यह पुस्तक क्यों?",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "प्रजनन",
+      "display": "प्रजनन",
+      "normalized": "प्रजनन",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "生殖、繁殖",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_021"
+      ],
+      "sourceTitle": "यह पुस्तक क्यों?",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "चर्चा",
+      "display": "चर्चा",
+      "normalized": "चर्चा",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "議論、話し合い",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_021"
+      ],
+      "sourceTitle": "यह पुस्तक क्यों?",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "माहौल",
+      "display": "माहौल",
+      "normalized": "माहौल",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "雰囲気、環境",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_021"
+      ],
+      "sourceTitle": "यह पुस्तक क्यों?",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "अनौपचारिक",
+      "display": "अनौपचारिक",
+      "normalized": "अनौपचारिक",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "非公式の、形式ばらない",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_021"
+      ],
+      "sourceTitle": "यह पुस्तक क्यों?",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "पाठ्यक्रम",
+      "display": "पाठ्यक्रम",
+      "normalized": "पाठ्यक्रम",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "カリキュラム、課程",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_021"
+      ],
+      "sourceTitle": "यह पुस्तक क्यों?",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "विस्तृत",
+      "display": "विस्तृत",
+      "normalized": "विस्तृत",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "詳しい、広範な",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_021"
+      ],
+      "sourceTitle": "यह पुस्तक क्यों?",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "अभाव",
+      "display": "अभाव",
+      "normalized": "अभाव",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "不足、欠如",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_021"
+      ],
+      "sourceTitle": "यह पुस्तक क्यों?",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "झिझक",
+      "display": "झिझक",
+      "normalized": "झिझक",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "ためらい、気後れ",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_021"
+      ],
+      "sourceTitle": "यह पुस्तक क्यों?",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "शारीरिक बदलाव",
+      "display": "शारीरिक बदलाव",
+      "normalized": "शारीरिक बदलाव",
+      "variants": [],
+      "pos": "名詞句",
+      "meaning_ja": "身体の変化",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_021"
+      ],
+      "sourceTitle": "यह पुस्तक क्यों?",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "अनुभव",
+      "display": "अनुभव",
+      "normalized": "अनुभव",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "経験",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_021"
+      ],
+      "sourceTitle": "यह पुस्तक क्यों?",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "उभरना",
+      "display": "उभरा",
+      "normalized": "उभरना",
+      "variants": [],
+      "pos": "自動詞",
+      "meaning_ja": "浮かび上がる、生まれ出る",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_021"
+      ],
+      "sourceTitle": "यह पुस्तक क्यों?",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "मान्यता",
+      "display": "मान्यता",
+      "normalized": "मान्यता",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "通念、信念、社会的に認められた考え",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_021"
+      ],
+      "sourceTitle": "यह पुस्तक क्यों?",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "प्रभावित",
+      "display": "प्रभावित",
+      "normalized": "प्रभावित",
+      "variants": [],
+      "pos": "形容詞・動詞",
+      "meaning_ja": "影響された、影響を受けた",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_021"
+      ],
+      "sourceTitle": "यह पुस्तक क्यों?",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "प्रतिकूल",
+      "display": "प्रतिकूल",
+      "normalized": "प्रतिकूल",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "不利な、逆境の",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_021"
+      ],
+      "sourceTitle": "यह पुस्तक क्यों?",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "परिस्थिति",
+      "display": "परिस्थिति",
+      "normalized": "परिस्थिति",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "状況、環境",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_021"
+      ],
+      "sourceTitle": "यह पुस्तक क्यों?",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "जूझना",
+      "display": "जूझ रही हैं",
+      "normalized": "जूझना",
+      "variants": [],
+      "pos": "自動詞",
+      "meaning_ja": "闘う、苦闘する",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_021"
+      ],
+      "sourceTitle": "यह पुस्तक क्यों?",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "अन्धविश्वास",
+      "display": "अन्धविश्वासों",
+      "normalized": "अंधविश्वास",
+      "variants": [
+        "अंधविश्वास",
+        "अन्धविश्वास"
+      ],
+      "pos": "名詞（男）",
+      "meaning_ja": "迷信",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_021"
+      ],
+      "sourceTitle": "यह पुस्तक क्यों?",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "पुस्तिका",
+      "display": "पुस्तिका",
+      "normalized": "पुस्तिका",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "小冊子、冊子",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_021"
+      ],
+      "sourceTitle": "यह पुस्तक क्यों?",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "उद्देश्य",
+      "display": "उद्देश्य",
+      "normalized": "उद्देश्य",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "目的",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_021"
+      ],
+      "sourceTitle": "यह पुस्तक क्यों?",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "आदान-प्रदान",
+      "display": "आदान-प्रदान",
+      "normalized": "आदान प्रदान",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "やり取り、意見交換",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_021"
+      ],
+      "sourceTitle": "यह पुस्तक क्यों?",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "मान्यताएँ",
+      "display": "मान्यता",
+      "normalized": "मान्यता",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "通念、信念、社会的に認められた考え",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_022"
+      ],
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "पनपी",
+      "display": "पनपना",
+      "normalized": "पनपना",
+      "variants": [],
+      "pos": "自動詞",
+      "meaning_ja": "育つ、生じる、広がる",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_022"
+      ],
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "नकारती",
+      "display": "नकारना",
+      "normalized": "नकारना",
+      "variants": [],
+      "pos": "他動詞",
+      "meaning_ja": "否定する、拒む",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_022"
+      ],
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "रूढ़ियाँ",
+      "display": "रूढ़ि",
+      "normalized": "रूढ़ि",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "因習、固定化した慣習",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_022"
+      ],
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "दर्जा",
+      "display": "दर्जा",
+      "normalized": "दर्जा",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "地位、等級",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_022"
+      ],
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "दृष्टिकोण",
+      "display": "दृष्टिकोण",
+      "normalized": "दृष्टिकोण",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "視点、観点",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_022"
+      ],
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
       "audit": "existing_in_master"
     }
   ],

@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-05-25T00:22:52.987Z",
+  "generatedAt": "2026-05-27T01:27:10.051Z",
   "input": "data\\news\\vocab_master.json",
   "output": "data\\news\\vocab_master_with_quiz_weight.json",
-  "totalEntries": 650,
-  "changedCount": 124,
-  "unchangedCount": 526,
+  "totalEntries": 648,
+  "changedCount": 141,
+  "unchangedCount": 507,
   "quizWeightSummary": {
     "1": 0,
     "2": 4,
-    "3": 521,
-    "4": 89,
-    "5": 36
+    "3": 516,
+    "4": 90,
+    "5": 38
   },
   "categorySummary": {
     "事件・事故": {
-      "total": 65,
+      "total": 73,
       "quizWeight": {
         "1": 0,
         "2": 0,
-        "3": 48,
+        "3": 55,
         "4": 11,
-        "5": 6
+        "5": 7
       }
     },
     "労働・経済": {
-      "total": 88,
+      "total": 89,
       "quizWeight": {
         "1": 0,
         "2": 0,
-        "3": 75,
+        "3": 76,
         "4": 11,
         "5": 2
       }
     },
     "医療・健康": {
-      "total": 35,
+      "total": 38,
       "quizWeight": {
         "1": 0,
         "2": 0,
-        "3": 32,
+        "3": 35,
         "4": 3,
         "5": 0
       }
@@ -48,27 +48,27 @@
       "quizWeight": {
         "1": 0,
         "2": 0,
-        "3": 37,
-        "4": 1,
+        "3": 36,
+        "4": 2,
         "5": 3
       }
     },
     "行政・制度": {
-      "total": 106,
+      "total": 88,
       "quizWeight": {
         "1": 0,
         "2": 0,
-        "3": 87,
-        "4": 9,
+        "3": 70,
+        "4": 8,
         "5": 10
       }
     },
     "選挙・裁判": {
-      "total": 69,
+      "total": 70,
       "quizWeight": {
         "1": 0,
         "2": 0,
-        "3": 54,
+        "3": 55,
         "4": 9,
         "5": 6
       }
@@ -78,18 +78,18 @@
       "quizWeight": {
         "1": 0,
         "2": 2,
-        "3": 13,
-        "4": 1,
+        "3": 12,
+        "4": 2,
         "5": 1
       }
     },
     "都市・環境": {
-      "total": 59,
+      "total": 57,
       "quizWeight": {
         "1": 0,
         "2": 2,
-        "3": 51,
-        "4": 5,
+        "3": 48,
+        "4": 6,
         "5": 1
       }
     },
@@ -99,8 +99,8 @@
         "1": 0,
         "2": 0,
         "3": 0,
-        "4": 37,
-        "5": 5
+        "4": 36,
+        "5": 6
       }
     },
     "教育": {
@@ -124,11 +124,11 @@
       }
     },
     "文化・宗教": {
-      "total": 39,
+      "total": 42,
       "quizWeight": {
         "1": 0,
         "2": 0,
-        "3": 39,
+        "3": 42,
         "4": 0,
         "5": 0
       }
@@ -164,11 +164,11 @@
       }
     },
     "一般ニュース語彙": {
-      "total": 17,
+      "total": 19,
       "quizWeight": {
         "1": 0,
         "2": 0,
-        "3": 16,
+        "3": 18,
         "4": 0,
         "5": 1
       }
@@ -213,6 +213,22 @@
       "importance": 4,
       "sourceCount": 4,
       "frequency": 4,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 5,
+      "reason": [
+        "base_3",
+        "importance>=4 && sourceCount>=2:+1",
+        "sourceCount>=3:+1"
+      ]
+    },
+    {
+      "index": 6,
+      "word": "हिंसा",
+      "normalized": "हिंसा",
+      "category": "事件・事故",
+      "importance": 4,
+      "sourceCount": 3,
+      "frequency": 3,
       "oldQuizWeight": 4,
       "newQuizWeight": 5,
       "reason": [
@@ -535,6 +551,21 @@
       ]
     },
     {
+      "index": 91,
+      "word": "अभियान",
+      "normalized": "अभियान",
+      "category": "調査・データ",
+      "importance": 3,
+      "sourceCount": 3,
+      "frequency": 3,
+      "oldQuizWeight": 3,
+      "newQuizWeight": 4,
+      "reason": [
+        "base_3",
+        "sourceCount>=3:+1"
+      ]
+    },
+    {
       "index": 101,
       "word": "एजेंसी",
       "normalized": "एजेंसी",
@@ -570,8 +601,8 @@
       "normalized": "गिरफ्तार",
       "category": "事件・事故",
       "importance": 4,
-      "sourceCount": 3,
-      "frequency": 3,
+      "sourceCount": 4,
+      "frequency": 4,
       "oldQuizWeight": 3,
       "newQuizWeight": 5,
       "reason": [
@@ -704,6 +735,22 @@
       ]
     },
     {
+      "index": 290,
+      "word": "फंसना",
+      "normalized": "फंसना",
+      "category": "重要動詞",
+      "importance": 4,
+      "sourceCount": 2,
+      "frequency": 2,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 5,
+      "reason": [
+        "base_3",
+        "importance>=4 && sourceCount>=2:+1",
+        "category:重要動詞:+1"
+      ]
+    },
+    {
       "index": 329,
       "word": "कारोबारी",
       "normalized": "कारोबारी",
@@ -719,7 +766,7 @@
       ]
     },
     {
-      "index": 340,
+      "index": 339,
       "word": "अधिकतम",
       "normalized": "अधिकतम",
       "category": "労働・経済",
@@ -734,7 +781,7 @@
       ]
     },
     {
-      "index": 351,
+      "index": 350,
       "word": "आंधी",
       "normalized": "आंधी",
       "category": "都市・環境",
@@ -749,7 +796,7 @@
       ]
     },
     {
-      "index": 354,
+      "index": 353,
       "word": "मौसम विभाग",
       "normalized": "मौसम_विभाग",
       "category": "都市・環境",
@@ -764,7 +811,7 @@
       ]
     },
     {
-      "index": 355,
+      "index": 354,
       "word": "भीषण गर्मी",
       "normalized": "भीषण_गर्मी",
       "category": "都市・環境",
@@ -779,7 +826,7 @@
       ]
     },
     {
-      "index": 372,
+      "index": 371,
       "word": "रोजगारपरक",
       "normalized": "रोजगारपरक",
       "category": "教育",
@@ -793,7 +840,7 @@
       ]
     },
     {
-      "index": 373,
+      "index": 372,
       "word": "शैक्षणिक सत्र",
       "normalized": "शैक्षणिक_सत्र",
       "category": "教育",
@@ -807,7 +854,7 @@
       ]
     },
     {
-      "index": 376,
+      "index": 375,
       "word": "बहुभाषावाद",
       "normalized": "बहुभाषावाद",
       "category": "教育",
@@ -821,7 +868,7 @@
       ]
     },
     {
-      "index": 378,
+      "index": 377,
       "word": "भाषाई विविधता",
       "normalized": "भाषाई_विविधता",
       "category": "教育",
@@ -835,7 +882,7 @@
       ]
     },
     {
-      "index": 379,
+      "index": 378,
       "word": "कार्यात्मक ज्ञान",
       "normalized": "कार्यात्मक_ज्ञान",
       "category": "教育",
@@ -849,7 +896,7 @@
       ]
     },
     {
-      "index": 383,
+      "index": 382,
       "word": "भाषाई",
       "normalized": "भाषाई",
       "category": "教育",
@@ -863,7 +910,7 @@
       ]
     },
     {
-      "index": 384,
+      "index": 383,
       "word": "द्रविड़",
       "normalized": "द्रविड़",
       "category": "教育",
@@ -877,7 +924,7 @@
       ]
     },
     {
-      "index": 385,
+      "index": 384,
       "word": "विरोधी भावना",
       "normalized": "विरोधी_भावना",
       "category": "教育",
@@ -891,7 +938,7 @@
       ]
     },
     {
-      "index": 387,
+      "index": 386,
       "word": "संदिग्ध",
       "normalized": "संदिग्ध",
       "category": "事件・事故",
@@ -906,7 +953,7 @@
       ]
     },
     {
-      "index": 389,
+      "index": 388,
       "word": "प्रवेश पत्र",
       "normalized": "प्रवेश_पत्र",
       "category": "教育",
@@ -920,7 +967,7 @@
       ]
     },
     {
-      "index": 390,
+      "index": 389,
       "word": "पहचान पत्र",
       "normalized": "पहचान_पत्र",
       "category": "行政・制度",
@@ -934,7 +981,7 @@
       ]
     },
     {
-      "index": 393,
+      "index": 392,
       "word": "अध्ययनरत",
       "normalized": "अध्ययनरत",
       "category": "教育",
@@ -948,7 +995,7 @@
       ]
     },
     {
-      "index": 395,
+      "index": 394,
       "word": "चिकित्सा विज्ञान संस्थान",
       "normalized": "चिकित्सा_विज्ञान_संस्थान",
       "category": "教育",
@@ -962,7 +1009,7 @@
       ]
     },
     {
-      "index": 396,
+      "index": 395,
       "word": "कोचिंग संस्थान",
       "normalized": "कोचिंग_संस्थान",
       "category": "教育",
@@ -976,7 +1023,7 @@
       ]
     },
     {
-      "index": 397,
+      "index": 396,
       "word": "आधिकारिक बयान",
       "normalized": "आधिकारिक_बयान",
       "category": "行政・制度",
@@ -990,7 +1037,7 @@
       ]
     },
     {
-      "index": 403,
+      "index": 402,
       "word": "मुकदमा",
       "normalized": "मुकदमा",
       "category": "選挙・裁判",
@@ -1004,7 +1051,7 @@
       ]
     },
     {
-      "index": 410,
+      "index": 409,
       "word": "भटकना",
       "normalized": "भटकना",
       "category": "重要動詞",
@@ -1019,7 +1066,7 @@
       ]
     },
     {
-      "index": 412,
+      "index": 411,
       "word": "दायर करना",
       "normalized": "दायर_करना",
       "category": "重要動詞",
@@ -1034,7 +1081,7 @@
       ]
     },
     {
-      "index": 414,
+      "index": 413,
       "word": "खारिज करना",
       "normalized": "खारिज_करना",
       "category": "重要動詞",
@@ -1049,7 +1096,7 @@
       ]
     },
     {
-      "index": 415,
+      "index": 414,
       "word": "आर्टिफिशियल इंटेलिजेंस",
       "normalized": "आर्टिफिशियल_इंटेलिजेंस",
       "category": "科学・技術",
@@ -1063,7 +1110,7 @@
       ]
     },
     {
-      "index": 417,
+      "index": 416,
       "word": "एआइ",
       "normalized": "एआई",
       "category": "科学・技術",
@@ -1077,7 +1124,7 @@
       ]
     },
     {
-      "index": 419,
+      "index": 418,
       "word": "तकनीक",
       "normalized": "तकनीक",
       "category": "科学・技術",
@@ -1091,7 +1138,7 @@
       ]
     },
     {
-      "index": 423,
+      "index": 422,
       "word": "समझौता",
       "normalized": "समझौता",
       "category": "選挙・裁判",
@@ -1105,7 +1152,7 @@
       ]
     },
     {
-      "index": 425,
+      "index": 424,
       "word": "रेबीज",
       "normalized": "रेबीज",
       "category": "医療・健康",
@@ -1119,7 +1166,7 @@
       ]
     },
     {
-      "index": 426,
+      "index": 425,
       "word": "संक्रमित",
       "normalized": "संक्रमित",
       "category": "医療・健康",
@@ -1133,7 +1180,7 @@
       ]
     },
     {
-      "index": 430,
+      "index": 429,
       "word": "एसओपी",
       "normalized": "एसओपी",
       "category": "行政・制度",
@@ -1147,7 +1194,7 @@
       ]
     },
     {
-      "index": 435,
+      "index": 434,
       "word": "एबीसी रूल",
       "normalized": "एबीसी_रूल",
       "category": "行政・制度",
@@ -1161,7 +1208,7 @@
       ]
     },
     {
-      "index": 442,
+      "index": 441,
       "word": "पशु कल्याण संगठन",
       "normalized": "पशु_कल्याण_संगठन",
       "category": "社会・公共",
@@ -1175,7 +1222,7 @@
       ]
     },
     {
-      "index": 446,
+      "index": 445,
       "word": "अनुपालन रिपोर्ट",
       "normalized": "अनुपालन_रिपोर्ट",
       "category": "行政・制度",
@@ -1189,7 +1236,7 @@
       ]
     },
     {
-      "index": 447,
+      "index": 446,
       "word": "यूथनेशिया",
       "normalized": "यूथनेशिया",
       "category": "医療・健康",
@@ -1203,7 +1250,7 @@
       ]
     },
     {
-      "index": 448,
+      "index": 447,
       "word": "इम्यूनोग्लोबुलिन",
       "normalized": "इम्यूनोग्लोबुलिन",
       "category": "医療・健康",
@@ -1217,7 +1264,22 @@
       ]
     },
     {
-      "index": 452,
+      "index": 449,
+      "word": "गंभीरता",
+      "normalized": "गंभीरता",
+      "category": "社会・公共",
+      "importance": 4,
+      "sourceCount": 2,
+      "frequency": 2,
+      "oldQuizWeight": 3,
+      "newQuizWeight": 4,
+      "reason": [
+        "base_3",
+        "importance>=4 && sourceCount>=2:+1"
+      ]
+    },
+    {
+      "index": 451,
       "word": "सार्वजनिक",
       "normalized": "सार्वजनिक",
       "category": "行政・制度",
@@ -1231,7 +1293,7 @@
       ]
     },
     {
-      "index": 453,
+      "index": 452,
       "word": "नागरिक",
       "normalized": "नागरिक",
       "category": "行政・制度",
@@ -1245,7 +1307,7 @@
       ]
     },
     {
-      "index": 455,
+      "index": 454,
       "word": "राज्य",
       "normalized": "राज्य",
       "category": "行政・制度",
@@ -1259,7 +1321,7 @@
       ]
     },
     {
-      "index": 457,
+      "index": 456,
       "word": "प्रकोप",
       "normalized": "प्रकोप",
       "category": "調査・統計",
@@ -1273,7 +1335,7 @@
       ]
     },
     {
-      "index": 458,
+      "index": 457,
       "word": "तपिश",
       "normalized": "तपिश",
       "category": "調査・統計",
@@ -1287,7 +1349,7 @@
       ]
     },
     {
-      "index": 459,
+      "index": 458,
       "word": "आसार",
       "normalized": "आसार",
       "category": "調査・統計",
@@ -1301,7 +1363,7 @@
       ]
     },
     {
-      "index": 460,
+      "index": 459,
       "word": "पारा",
       "normalized": "पारा",
       "category": "調査・統計",
@@ -1315,7 +1377,7 @@
       ]
     },
     {
-      "index": 461,
+      "index": 460,
       "word": "डिग्री सेल्सियस",
       "normalized": "डिग्री सेल्सियस",
       "category": "調査・統計",
@@ -1329,13 +1391,13 @@
       ]
     },
     {
-      "index": 462,
+      "index": 461,
       "word": "लू",
       "normalized": "लू",
       "category": "調査・統計",
       "importance": 3,
-      "sourceCount": 1,
-      "frequency": 1,
+      "sourceCount": 2,
+      "frequency": 2,
       "oldQuizWeight": null,
       "newQuizWeight": 3,
       "reason": [
@@ -1343,7 +1405,7 @@
       ]
     },
     {
-      "index": 463,
+      "index": 462,
       "word": "नौतपा",
       "normalized": "नौतपा",
       "category": "調査・統計",
@@ -1358,7 +1420,7 @@
       ]
     },
     {
-      "index": 464,
+      "index": 463,
       "word": "कहर",
       "normalized": "कहर",
       "category": "調査・統計",
@@ -1372,7 +1434,7 @@
       ]
     },
     {
-      "index": 465,
+      "index": 464,
       "word": "तापमान",
       "normalized": "तापमान",
       "category": "調査・統計",
@@ -1386,7 +1448,7 @@
       ]
     },
     {
-      "index": 466,
+      "index": 465,
       "word": "अधिकतम तापमान",
       "normalized": "अधिकतम तापमान",
       "category": "調査・統計",
@@ -1400,7 +1462,7 @@
       ]
     },
     {
-      "index": 467,
+      "index": 466,
       "word": "सामान्य",
       "normalized": "सामान्य",
       "category": "調査・統計",
@@ -1414,7 +1476,7 @@
       ]
     },
     {
-      "index": 468,
+      "index": 467,
       "word": "एम्स",
       "normalized": "एम्स",
       "category": "医療・健康",
@@ -1429,7 +1491,7 @@
       ]
     },
     {
-      "index": 469,
+      "index": 468,
       "word": "दहेज",
       "normalized": "दहेज",
       "category": "事件・事故",
@@ -1443,7 +1505,7 @@
       ]
     },
     {
-      "index": 472,
+      "index": 471,
       "word": "हालत",
       "normalized": "हालत",
       "category": "事件・事故",
@@ -1457,7 +1519,7 @@
       ]
     },
     {
-      "index": 473,
+      "index": 472,
       "word": "युवती",
       "normalized": "युवती",
       "category": "事件・事故",
@@ -1471,7 +1533,7 @@
       ]
     },
     {
-      "index": 476,
+      "index": 475,
       "word": "सताना",
       "normalized": "सताना",
       "category": "重要動詞",
@@ -1486,7 +1548,7 @@
       ]
     },
     {
-      "index": 479,
+      "index": 478,
       "word": "आत्महत्या",
       "normalized": "आत्महत्या",
       "category": "事件・事故",
@@ -1500,7 +1562,7 @@
       ]
     },
     {
-      "index": 481,
+      "index": 480,
       "word": "ससुरालीजन",
       "normalized": "ससुरालीजन",
       "category": "社会・公共",
@@ -1514,7 +1576,7 @@
       ]
     },
     {
-      "index": 486,
+      "index": 485,
       "word": "दवा",
       "normalized": "दवा",
       "category": "医療・健康",
@@ -1528,7 +1590,7 @@
       ]
     },
     {
-      "index": 490,
+      "index": 489,
       "word": "मरीज",
       "normalized": "मरीज",
       "category": "医療・健康",
@@ -1542,7 +1604,7 @@
       ]
     },
     {
-      "index": 501,
+      "index": 500,
       "word": "अस्थायी छूट",
       "normalized": "अस्थायी_छूट",
       "category": "行政・制度",
@@ -1556,7 +1618,7 @@
       ]
     },
     {
-      "index": 507,
+      "index": 506,
       "word": "संचालित करना",
       "normalized": "संचालित_करना",
       "category": "重要動詞",
@@ -1571,7 +1633,7 @@
       ]
     },
     {
-      "index": 508,
+      "index": 507,
       "word": "जूझना",
       "normalized": "जूझना",
       "category": "重要動詞",
@@ -1586,7 +1648,7 @@
       ]
     },
     {
-      "index": 509,
+      "index": 508,
       "word": "बाधित होना",
       "normalized": "बाधित_होना",
       "category": "重要動詞",
@@ -1601,7 +1663,7 @@
       ]
     },
     {
-      "index": 512,
+      "index": 511,
       "word": "हड़ताल",
       "normalized": "हड़ताल",
       "category": "労働・経済",
@@ -1615,7 +1677,7 @@
       ]
     },
     {
-      "index": 515,
+      "index": 514,
       "word": "किराया",
       "normalized": "किराया",
       "category": "労働・経済",
@@ -1629,7 +1691,7 @@
       ]
     },
     {
-      "index": 518,
+      "index": 517,
       "word": "असर",
       "normalized": "असर",
       "category": "労働・経済",
@@ -1645,7 +1707,7 @@
       ]
     },
     {
-      "index": 519,
+      "index": 518,
       "word": "घोषणा",
       "normalized": "घोषणा",
       "category": "行政・制度",
@@ -1659,7 +1721,7 @@
       ]
     },
     {
-      "index": 520,
+      "index": 519,
       "word": "हालांकि",
       "normalized": "हालांकि",
       "category": "ニュース定型句",
@@ -1673,7 +1735,7 @@
       ]
     },
     {
-      "index": 522,
+      "index": 521,
       "word": "चालक शक्ति यूनियन",
       "normalized": "चालक_शक्ति_यूनियन",
       "category": "労働・経済",
@@ -1687,7 +1749,7 @@
       ]
     },
     {
-      "index": 534,
+      "index": 533,
       "word": "गुटखा",
       "normalized": "गुटखा",
       "category": "医療・健康",
@@ -1701,7 +1763,7 @@
       ]
     },
     {
-      "index": 535,
+      "index": 534,
       "word": "सूत",
       "normalized": "सूत",
       "category": "一般語彙",
@@ -1715,21 +1777,7 @@
       ]
     },
     {
-      "index": 549,
-      "word": "हिंसा",
-      "normalized": "हिंसा",
-      "category": "事件・事故",
-      "importance": 4,
-      "sourceCount": 1,
-      "frequency": 1,
-      "oldQuizWeight": 4,
-      "newQuizWeight": 3,
-      "reason": [
-        "base_3"
-      ]
-    },
-    {
-      "index": 550,
+      "index": 548,
       "word": "हथियार",
       "normalized": "हथियार",
       "category": "事件・事故",
@@ -1743,7 +1791,7 @@
       ]
     },
     {
-      "index": 551,
+      "index": 549,
       "word": "विकास",
       "normalized": "विकास",
       "category": "行政・制度",
@@ -1757,7 +1805,7 @@
       ]
     },
     {
-      "index": 555,
+      "index": 553,
       "word": "अभियान चलाना",
       "normalized": "अभियान_चलाना",
       "category": "重要動詞",
@@ -1772,7 +1820,7 @@
       ]
     },
     {
-      "index": 559,
+      "index": 557,
       "word": "जुटना",
       "normalized": "जुटना",
       "category": "重要動詞",
@@ -1787,7 +1835,7 @@
       ]
     },
     {
-      "index": 560,
+      "index": 558,
       "word": "बीतना",
       "normalized": "बीतना",
       "category": "重要動詞",
@@ -1802,7 +1850,7 @@
       ]
     },
     {
-      "index": 565,
+      "index": 561,
       "word": "सीमा",
       "normalized": "सीमा",
       "category": "行政・制度",
@@ -1816,36 +1864,7 @@
       ]
     },
     {
-      "index": 576,
-      "word": "निगरानी",
-      "normalized": "निगरानी",
-      "category": "行政・制度",
-      "importance": 4,
-      "sourceCount": 2,
-      "frequency": 2,
-      "oldQuizWeight": 3,
-      "newQuizWeight": 4,
-      "reason": [
-        "base_3",
-        "importance>=4 && sourceCount>=2:+1"
-      ]
-    },
-    {
-      "index": 582,
-      "word": "सीमा",
-      "normalized": "सीमा",
-      "category": "行政・制度",
-      "importance": 4,
-      "sourceCount": 1,
-      "frequency": 1,
-      "oldQuizWeight": 4,
-      "newQuizWeight": 3,
-      "reason": [
-        "base_3"
-      ]
-    },
-    {
-      "index": 602,
+      "index": 578,
       "word": "बूंदाबांदी",
       "normalized": "बूंदाबांदी",
       "category": "都市・環境",
@@ -1859,7 +1878,7 @@
       ]
     },
     {
-      "index": 603,
+      "index": 579,
       "word": "गिरावट",
       "normalized": "गिरावट",
       "category": "都市・環境",
@@ -1873,21 +1892,7 @@
       ]
     },
     {
-      "index": 605,
-      "word": "लू",
-      "normalized": "लू",
-      "category": "都市・環境",
-      "importance": 4,
-      "sourceCount": 1,
-      "frequency": 1,
-      "oldQuizWeight": 4,
-      "newQuizWeight": 3,
-      "reason": [
-        "base_3"
-      ]
-    },
-    {
-      "index": 611,
+      "index": 585,
       "word": "राहत",
       "normalized": "राहत",
       "category": "一般ニュース語彙",
@@ -1903,7 +1908,7 @@
       ]
     },
     {
-      "index": 612,
+      "index": 586,
       "word": "संभावना",
       "normalized": "संभावना",
       "category": "一般ニュース語彙",
@@ -1917,7 +1922,7 @@
       ]
     },
     {
-      "index": 616,
+      "index": 590,
       "word": "रिश्ता",
       "normalized": "रिश्ता",
       "category": "文化・宗教",
@@ -1931,7 +1936,7 @@
       ]
     },
     {
-      "index": 631,
+      "index": 605,
       "word": "कटौती",
       "normalized": "कटौती",
       "category": "都市・環境",
@@ -1945,7 +1950,22 @@
       ]
     },
     {
-      "index": 639,
+      "index": 606,
+      "word": "उमस",
+      "normalized": "उमस",
+      "category": "都市・環境",
+      "importance": 4,
+      "sourceCount": 2,
+      "frequency": 2,
+      "oldQuizWeight": 3,
+      "newQuizWeight": 4,
+      "reason": [
+        "base_3",
+        "importance>=4 && sourceCount>=2:+1"
+      ]
+    },
+    {
+      "index": 613,
       "word": "आफत",
       "normalized": "आफत",
       "category": "一般ニュース語彙",
@@ -1959,7 +1979,7 @@
       ]
     },
     {
-      "index": 642,
+      "index": 616,
       "word": "कार्रवाई",
       "normalized": "कार्रवाई",
       "category": "事件・事故",
@@ -1973,7 +1993,7 @@
       ]
     },
     {
-      "index": 643,
+      "index": 617,
       "word": "अवैध",
       "normalized": "अवैध",
       "category": "事件・事故",
@@ -1987,10 +2007,235 @@
       ]
     },
     {
-      "index": 648,
+      "index": 622,
       "word": "आरोपी",
       "normalized": "आरोपी",
       "category": "選挙・裁判",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 623,
+      "word": "छापा",
+      "normalized": "छापा",
+      "category": "事件・事故",
+      "importance": 4,
+      "sourceCount": 2,
+      "frequency": 2,
+      "oldQuizWeight": 3,
+      "newQuizWeight": 4,
+      "reason": [
+        "base_3",
+        "importance>=4 && sourceCount>=2:+1"
+      ]
+    },
+    {
+      "index": 624,
+      "word": "हादसा",
+      "normalized": "हादसा",
+      "category": "事件・事故",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 627,
+      "word": "बचाव",
+      "normalized": "बचाव",
+      "category": "事件・事故",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 629,
+      "word": "संचालन",
+      "normalized": "संचालन",
+      "category": "一般ニュース語彙",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 633,
+      "word": "पर्यटन",
+      "normalized": "पर्यटन",
+      "category": "文化・宗教",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 634,
+      "word": "पर्यटन स्थल",
+      "normalized": "पर्यटन_स्थल",
+      "category": "文化・宗教",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 635,
+      "word": "मिलावटी",
+      "normalized": "मिलावटी",
+      "category": "事件・事故",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 637,
+      "word": "घटिया",
+      "normalized": "घटिया",
+      "category": "事件・事故",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 638,
+      "word": "डंडी",
+      "normalized": "डंडी",
+      "category": "一般ニュース語彙",
+      "importance": 2,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 2,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 639,
+      "word": "डंठल",
+      "normalized": "डंठल",
+      "category": "一般ニュース語彙",
+      "importance": 2,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 2,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 642,
+      "word": "मुनाफा",
+      "normalized": "मुनाफा",
+      "category": "労働・経済",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 643,
+      "word": "भूतल",
+      "normalized": "भूतल",
+      "category": "一般ニュース語彙",
+      "importance": 2,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 2,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 644,
+      "word": "जब्त",
+      "normalized": "जब्त",
+      "category": "選挙・裁判",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 645,
+      "word": "खाद्य सुरक्षा विभाग",
+      "normalized": "खाद्य_सुरक्षा_विभाग",
+      "category": "医療・健康",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 646,
+      "word": "चावल का चूरा",
+      "normalized": "चावल_का_चूरा",
+      "category": "医療・健康",
+      "importance": 2,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 2,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 647,
+      "word": "हानिकारक",
+      "normalized": "हानिकारक",
+      "category": "医療・健康",
       "importance": 4,
       "sourceCount": 1,
       "frequency": 1,
@@ -2054,8 +2299,8 @@
       "normalized": "जांच",
       "category": "事件・事故",
       "importance": 4,
-      "sourceCount": 5,
-      "frequency": 5,
+      "sourceCount": 6,
+      "frequency": 6,
       "oldQuizWeight": 5,
       "newQuizWeight": 5,
       "reason": [
@@ -2101,13 +2346,14 @@
       "normalized": "हिंसा",
       "category": "事件・事故",
       "importance": 4,
-      "sourceCount": 2,
-      "frequency": 2,
+      "sourceCount": 3,
+      "frequency": 3,
       "oldQuizWeight": 4,
-      "newQuizWeight": 4,
+      "newQuizWeight": 5,
       "reason": [
         "base_3",
-        "importance>=4 && sourceCount>=2:+1"
+        "importance>=4 && sourceCount>=2:+1",
+        "sourceCount>=3:+1"
       ]
     },
     {
@@ -2524,8 +2770,8 @@
       "normalized": "सहमति",
       "category": "社会・公共",
       "importance": 3,
-      "sourceCount": 1,
-      "frequency": 1,
+      "sourceCount": 2,
+      "frequency": 2,
       "oldQuizWeight": 3,
       "newQuizWeight": 3,
       "reason": [
@@ -2838,8 +3084,8 @@
       "normalized": "निगरानी",
       "category": "行政・制度",
       "importance": 4,
-      "sourceCount": 5,
-      "frequency": 5,
+      "sourceCount": 7,
+      "frequency": 7,
       "oldQuizWeight": 5,
       "newQuizWeight": 5,
       "reason": [
@@ -2855,14 +3101,15 @@
       "normalized": "निर्देश",
       "category": "行政・制度",
       "importance": 4,
-      "sourceCount": 4,
-      "frequency": 4,
+      "sourceCount": 5,
+      "frequency": 5,
       "oldQuizWeight": 5,
       "newQuizWeight": 5,
       "reason": [
         "base_3",
         "importance>=4 && sourceCount>=2:+1",
-        "sourceCount>=3:+1"
+        "sourceCount>=3:+1",
+        "sourceCount>=5:+1"
       ]
     },
     {
@@ -3352,12 +3599,13 @@
       "normalized": "अभियान",
       "category": "調査・データ",
       "importance": 3,
-      "sourceCount": 2,
-      "frequency": 2,
+      "sourceCount": 3,
+      "frequency": 3,
       "oldQuizWeight": 3,
-      "newQuizWeight": 3,
+      "newQuizWeight": 4,
       "reason": [
-        "base_3"
+        "base_3",
+        "sourceCount>=3:+1"
       ]
     },
     {
@@ -3978,8 +4226,8 @@
       "normalized": "गिरफ्तार",
       "category": "事件・事故",
       "importance": 4,
-      "sourceCount": 3,
-      "frequency": 3,
+      "sourceCount": 4,
+      "frequency": 4,
       "oldQuizWeight": 3,
       "newQuizWeight": 5,
       "reason": [
@@ -5753,8 +6001,8 @@
       "normalized": "उपयोग_योग्य",
       "category": "行政・制度",
       "importance": 3,
-      "sourceCount": 1,
-      "frequency": 1,
+      "sourceCount": 2,
+      "frequency": 2,
       "oldQuizWeight": 3,
       "newQuizWeight": 3,
       "reason": [
@@ -6193,12 +6441,13 @@
       "normalized": "फंसना",
       "category": "重要動詞",
       "importance": 4,
-      "sourceCount": 1,
-      "frequency": 1,
+      "sourceCount": 2,
+      "frequency": 2,
       "oldQuizWeight": 4,
-      "newQuizWeight": 4,
+      "newQuizWeight": 5,
       "reason": [
         "base_3",
+        "importance>=4 && sourceCount>=2:+1",
         "category:重要動詞:+1"
       ]
     },
@@ -6779,20 +7028,6 @@
     },
     {
       "index": 332,
-      "word": "निर्माण",
-      "normalized": "निर्माण",
-      "category": "労働・経済",
-      "importance": 3,
-      "sourceCount": 1,
-      "frequency": 1,
-      "oldQuizWeight": 3,
-      "newQuizWeight": 3,
-      "reason": [
-        "base_3"
-      ]
-    },
-    {
-      "index": 333,
       "word": "कारीगर",
       "normalized": "कारीगर",
       "category": "労働・経済",
@@ -6806,7 +7041,7 @@
       ]
     },
     {
-      "index": 334,
+      "index": 333,
       "word": "जीवनयापन",
       "normalized": "जीवनयापन",
       "category": "労働・経済",
@@ -6820,7 +7055,7 @@
       ]
     },
     {
-      "index": 335,
+      "index": 334,
       "word": "अनुमान",
       "normalized": "अनुमान",
       "category": "労働・経済",
@@ -6834,7 +7069,7 @@
       ]
     },
     {
-      "index": 336,
+      "index": 335,
       "word": "आरबीआइ",
       "normalized": "आरबीआइ",
       "category": "労働・経済",
@@ -6848,7 +7083,7 @@
       ]
     },
     {
-      "index": 337,
+      "index": 336,
       "word": "प्रारूप",
       "normalized": "प्रारूप",
       "category": "労働・経済",
@@ -6862,7 +7097,7 @@
       ]
     },
     {
-      "index": 338,
+      "index": 337,
       "word": "संशोधन",
       "normalized": "संशोधन",
       "category": "労働・経済",
@@ -6876,7 +7111,7 @@
       ]
     },
     {
-      "index": 339,
+      "index": 338,
       "word": "खाता",
       "normalized": "खाता",
       "category": "労働・経済",
@@ -6890,7 +7125,7 @@
       ]
     },
     {
-      "index": 340,
+      "index": 339,
       "word": "अधिकतम",
       "normalized": "अधिकतम",
       "category": "労働・経済",
@@ -6905,7 +7140,7 @@
       ]
     },
     {
-      "index": 341,
+      "index": 340,
       "word": "सालाना",
       "normalized": "सालाना",
       "category": "労働・経済",
@@ -6919,7 +7154,7 @@
       ]
     },
     {
-      "index": 342,
+      "index": 341,
       "word": "नकद",
       "normalized": "नकद",
       "category": "労働・経済",
@@ -6933,7 +7168,7 @@
       ]
     },
     {
-      "index": 343,
+      "index": 342,
       "word": "घाटा",
       "normalized": "घाटा",
       "category": "労働・経済",
@@ -6947,7 +7182,7 @@
       ]
     },
     {
-      "index": 344,
+      "index": 343,
       "word": "कीमत",
       "normalized": "कीमत",
       "category": "労働・経済",
@@ -6961,7 +7196,7 @@
       ]
     },
     {
-      "index": 345,
+      "index": 344,
       "word": "मूल्यांकन",
       "normalized": "मूल्यांकन",
       "category": "教育",
@@ -6975,7 +7210,7 @@
       ]
     },
     {
-      "index": 346,
+      "index": 345,
       "word": "अवधारणात्मक",
       "normalized": "अवधारणात्मक",
       "category": "教育",
@@ -6989,7 +7224,7 @@
       ]
     },
     {
-      "index": 347,
+      "index": 346,
       "word": "पारदर्शी",
       "normalized": "पारदर्शी",
       "category": "教育",
@@ -7003,7 +7238,7 @@
       ]
     },
     {
-      "index": 348,
+      "index": 347,
       "word": "बोर्ड परीक्षा",
       "normalized": "बोर्ड_परीक्षा",
       "category": "教育",
@@ -7017,7 +7252,7 @@
       ]
     },
     {
-      "index": 349,
+      "index": 348,
       "word": "पास प्रतिशत",
       "normalized": "पास_प्रतिशत",
       "category": "教育",
@@ -7031,7 +7266,7 @@
       ]
     },
     {
-      "index": 350,
+      "index": 349,
       "word": "झमाझम बारिश",
       "normalized": "झमाझम_बारिश",
       "category": "都市・環境",
@@ -7045,7 +7280,7 @@
       ]
     },
     {
-      "index": 351,
+      "index": 350,
       "word": "आंधी",
       "normalized": "आंधी",
       "category": "都市・環境",
@@ -7060,7 +7295,7 @@
       ]
     },
     {
-      "index": 352,
+      "index": 351,
       "word": "तूफान",
       "normalized": "तूफान",
       "category": "都市・環境",
@@ -7074,7 +7309,7 @@
       ]
     },
     {
-      "index": 353,
+      "index": 352,
       "word": "चेतावनी",
       "normalized": "चेतावनी",
       "category": "都市・環境",
@@ -7088,7 +7323,7 @@
       ]
     },
     {
-      "index": 354,
+      "index": 353,
       "word": "मौसम विभाग",
       "normalized": "मौसम_विभाग",
       "category": "都市・環境",
@@ -7103,7 +7338,7 @@
       ]
     },
     {
-      "index": 355,
+      "index": 354,
       "word": "भीषण गर्मी",
       "normalized": "भीषण_गर्मी",
       "category": "都市・環境",
@@ -7118,7 +7353,7 @@
       ]
     },
     {
-      "index": 356,
+      "index": 355,
       "word": "रफ्तार",
       "normalized": "रफ्तार",
       "category": "都市・環境",
@@ -7132,7 +7367,7 @@
       ]
     },
     {
-      "index": 357,
+      "index": 356,
       "word": "गरज-चमक",
       "normalized": "गरज_चमक",
       "category": "都市・環境",
@@ -7146,7 +7381,7 @@
       ]
     },
     {
-      "index": 358,
+      "index": 357,
       "word": "कहर बरपाना",
       "normalized": "कहर_बरपाना",
       "category": "事件・事故",
@@ -7160,7 +7395,7 @@
       ]
     },
     {
-      "index": 359,
+      "index": 358,
       "word": "नुकसान",
       "normalized": "नुकसान",
       "category": "事件・事故",
@@ -7174,7 +7409,7 @@
       ]
     },
     {
-      "index": 360,
+      "index": 359,
       "word": "बर्फबारी",
       "normalized": "बर्फबारी",
       "category": "都市・環境",
@@ -7188,7 +7423,7 @@
       ]
     },
     {
-      "index": 361,
+      "index": 360,
       "word": "भूस्खलन",
       "normalized": "भूस्खलन",
       "category": "都市・環境",
@@ -7202,7 +7437,7 @@
       ]
     },
     {
-      "index": 362,
+      "index": 361,
       "word": "ओलावृष्टि",
       "normalized": "ओलावृष्टि",
       "category": "都市・環境",
@@ -7216,7 +7451,7 @@
       ]
     },
     {
-      "index": 363,
+      "index": 362,
       "word": "तबाही",
       "normalized": "तबाही",
       "category": "事件・事故",
@@ -7230,7 +7465,7 @@
       ]
     },
     {
-      "index": 364,
+      "index": 363,
       "word": "चक्रवाती परिसंचरण",
       "normalized": "चक्रवाती_परिसंचरण",
       "category": "都市・環境",
@@ -7244,7 +7479,7 @@
       ]
     },
     {
-      "index": 365,
+      "index": 364,
       "word": "पुरवा हवा",
       "normalized": "पुरवा_हवा",
       "category": "都市・環境",
@@ -7258,7 +7493,7 @@
       ]
     },
     {
-      "index": 366,
+      "index": 365,
       "word": "वज्रपात",
       "normalized": "वज्रपात",
       "category": "事件・事故",
@@ -7272,7 +7507,7 @@
       ]
     },
     {
-      "index": 367,
+      "index": 366,
       "word": "रेल यातायात",
       "normalized": "रेल_यातायात",
       "category": "都市・環境",
@@ -7286,7 +7521,7 @@
       ]
     },
     {
-      "index": 368,
+      "index": 367,
       "word": "बिजली आपूर्ति",
       "normalized": "बिजली_आपूर्ति",
       "category": "都市・環境",
@@ -7300,7 +7535,7 @@
       ]
     },
     {
-      "index": 369,
+      "index": 368,
       "word": "बाधित",
       "normalized": "बाधित",
       "category": "都市・環境",
@@ -7314,7 +7549,7 @@
       ]
     },
     {
-      "index": 370,
+      "index": 369,
       "word": "ब्लैकआउट",
       "normalized": "ब्लैकआउट",
       "category": "都市・環境",
@@ -7328,7 +7563,7 @@
       ]
     },
     {
-      "index": 371,
+      "index": 370,
       "word": "त्रि-भाषा फ़ॉर्मूला",
       "normalized": "त्रि_भाषा_फॉर्मूला",
       "category": "教育",
@@ -7342,7 +7577,7 @@
       ]
     },
     {
-      "index": 372,
+      "index": 371,
       "word": "रोजगारपरक",
       "normalized": "रोजगारपरक",
       "category": "教育",
@@ -7356,7 +7591,7 @@
       ]
     },
     {
-      "index": 373,
+      "index": 372,
       "word": "शैक्षणिक सत्र",
       "normalized": "शैक्षणिक_सत्र",
       "category": "教育",
@@ -7370,7 +7605,7 @@
       ]
     },
     {
-      "index": 374,
+      "index": 373,
       "word": "कौशल विकास",
       "normalized": "कौशल_विकास",
       "category": "教育",
@@ -7384,7 +7619,7 @@
       ]
     },
     {
-      "index": 375,
+      "index": 374,
       "word": "राष्ट्रीय शिक्षा नीति",
       "normalized": "राष्ट्रीय_शिक्षा_नीति",
       "category": "教育",
@@ -7398,7 +7633,7 @@
       ]
     },
     {
-      "index": 376,
+      "index": 375,
       "word": "बहुभाषावाद",
       "normalized": "बहुभाषावाद",
       "category": "教育",
@@ -7412,7 +7647,7 @@
       ]
     },
     {
-      "index": 377,
+      "index": 376,
       "word": "मातृभाषा",
       "normalized": "मातृभाषा",
       "category": "教育",
@@ -7426,7 +7661,7 @@
       ]
     },
     {
-      "index": 378,
+      "index": 377,
       "word": "भाषाई विविधता",
       "normalized": "भाषाई_विविधता",
       "category": "教育",
@@ -7440,7 +7675,7 @@
       ]
     },
     {
-      "index": 379,
+      "index": 378,
       "word": "कार्यात्मक ज्ञान",
       "normalized": "कार्यात्मक_ज्ञान",
       "category": "教育",
@@ -7454,7 +7689,7 @@
       ]
     },
     {
-      "index": 380,
+      "index": 379,
       "word": "पाठ्यपुस्तक",
       "normalized": "पाठ्यपुस्तक",
       "category": "教育",
@@ -7468,7 +7703,7 @@
       ]
     },
     {
-      "index": 381,
+      "index": 380,
       "word": "आधिकारिक भाषा",
       "normalized": "आधिकारिक_भाषा",
       "category": "教育",
@@ -7482,7 +7717,7 @@
       ]
     },
     {
-      "index": 382,
+      "index": 381,
       "word": "क्षेत्रीय भाषा",
       "normalized": "क्षेत्रीय_भाषा",
       "category": "教育",
@@ -7496,7 +7731,7 @@
       ]
     },
     {
-      "index": 383,
+      "index": 382,
       "word": "भाषाई",
       "normalized": "भाषाई",
       "category": "教育",
@@ -7510,7 +7745,7 @@
       ]
     },
     {
-      "index": 384,
+      "index": 383,
       "word": "द्रविड़",
       "normalized": "द्रविड़",
       "category": "教育",
@@ -7524,7 +7759,7 @@
       ]
     },
     {
-      "index": 385,
+      "index": 384,
       "word": "विरोधी भावना",
       "normalized": "विरोधी_भावना",
       "category": "教育",
@@ -7538,7 +7773,7 @@
       ]
     },
     {
-      "index": 386,
+      "index": 385,
       "word": "पेपर लीक",
       "normalized": "पेपर_लीक",
       "category": "教育",
@@ -7552,7 +7787,7 @@
       ]
     },
     {
-      "index": 387,
+      "index": 386,
       "word": "संदिग्ध",
       "normalized": "संदिग्ध",
       "category": "事件・事故",
@@ -7567,7 +7802,7 @@
       ]
     },
     {
-      "index": 388,
+      "index": 387,
       "word": "दस्तावेज",
       "normalized": "दस्तावेज",
       "category": "行政・制度",
@@ -7581,7 +7816,7 @@
       ]
     },
     {
-      "index": 389,
+      "index": 388,
       "word": "प्रवेश पत्र",
       "normalized": "प्रवेश_पत्र",
       "category": "教育",
@@ -7595,7 +7830,7 @@
       ]
     },
     {
-      "index": 390,
+      "index": 389,
       "word": "पहचान पत्र",
       "normalized": "पहचान_पत्र",
       "category": "行政・制度",
@@ -7609,7 +7844,7 @@
       ]
     },
     {
-      "index": 391,
+      "index": 390,
       "word": "पूछताछ",
       "normalized": "पूछताछ",
       "category": "事件・事故",
@@ -7623,7 +7858,7 @@
       ]
     },
     {
-      "index": 392,
+      "index": 391,
       "word": "आरोपित",
       "normalized": "आरोपित",
       "category": "事件・事故",
@@ -7637,7 +7872,7 @@
       ]
     },
     {
-      "index": 393,
+      "index": 392,
       "word": "अध्ययनरत",
       "normalized": "अध्ययनरत",
       "category": "教育",
@@ -7651,7 +7886,7 @@
       ]
     },
     {
-      "index": 394,
+      "index": 393,
       "word": "संकाय",
       "normalized": "संकाय",
       "category": "教育",
@@ -7665,7 +7900,7 @@
       ]
     },
     {
-      "index": 395,
+      "index": 394,
       "word": "चिकित्सा विज्ञान संस्थान",
       "normalized": "चिकित्सा_विज्ञान_संस्थान",
       "category": "教育",
@@ -7679,7 +7914,7 @@
       ]
     },
     {
-      "index": 396,
+      "index": 395,
       "word": "कोचिंग संस्थान",
       "normalized": "कोचिंग_संस्थान",
       "category": "教育",
@@ -7693,7 +7928,7 @@
       ]
     },
     {
-      "index": 397,
+      "index": 396,
       "word": "आधिकारिक बयान",
       "normalized": "आधिकारिक_बयान",
       "category": "行政・制度",
@@ -7707,7 +7942,7 @@
       ]
     },
     {
-      "index": 398,
+      "index": 397,
       "word": "पड़ताल",
       "normalized": "पड़ताल",
       "category": "事件・事故",
@@ -7721,7 +7956,7 @@
       ]
     },
     {
-      "index": 399,
+      "index": 398,
       "word": "सतर्क",
       "normalized": "सतर्क",
       "category": "事件・事故",
@@ -7735,7 +7970,7 @@
       ]
     },
     {
-      "index": 400,
+      "index": 399,
       "word": "प्रधानमंत्री",
       "normalized": "प्रधानमंत्री",
       "category": "行政・制度",
@@ -7749,7 +7984,7 @@
       ]
     },
     {
-      "index": 401,
+      "index": 400,
       "word": "अध्ययन",
       "normalized": "अध्ययन",
       "category": "教育",
@@ -7763,7 +7998,7 @@
       ]
     },
     {
-      "index": 402,
+      "index": 401,
       "word": "बढ़ावा",
       "normalized": "बढ़ावा",
       "category": "行政・制度",
@@ -7777,7 +8012,7 @@
       ]
     },
     {
-      "index": 403,
+      "index": 402,
       "word": "मुकदमा",
       "normalized": "मुकदमा",
       "category": "選挙・裁判",
@@ -7791,7 +8026,7 @@
       ]
     },
     {
-      "index": 404,
+      "index": 403,
       "word": "संघीय अदालत",
       "normalized": "संघीय_अदालत",
       "category": "選挙・裁判",
@@ -7805,7 +8040,7 @@
       ]
     },
     {
-      "index": 405,
+      "index": 404,
       "word": "जूरी",
       "normalized": "जूरी",
       "category": "選挙・裁判",
@@ -7819,7 +8054,7 @@
       ]
     },
     {
-      "index": 406,
+      "index": 405,
       "word": "आरोप",
       "normalized": "आरोप",
       "category": "選挙・裁判",
@@ -7834,7 +8069,7 @@
       ]
     },
     {
-      "index": 407,
+      "index": 406,
       "word": "जिम्मेदार",
       "normalized": "जिम्मेदार",
       "category": "選挙・裁判",
@@ -7848,7 +8083,7 @@
       ]
     },
     {
-      "index": 408,
+      "index": 407,
       "word": "मानवता",
       "normalized": "मानवता",
       "category": "科学・技術",
@@ -7862,7 +8097,7 @@
       ]
     },
     {
-      "index": 409,
+      "index": 408,
       "word": "मूल उद्देश्य",
       "normalized": "मूल_उद्देश्य",
       "category": "科学・技術",
@@ -7876,7 +8111,7 @@
       ]
     },
     {
-      "index": 410,
+      "index": 409,
       "word": "भटकना",
       "normalized": "भटकना",
       "category": "重要動詞",
@@ -7891,7 +8126,7 @@
       ]
     },
     {
-      "index": 411,
+      "index": 410,
       "word": "सर्वसम्मत फैसला",
       "normalized": "सर्वसम्मत_फैसला",
       "category": "選挙・裁判",
@@ -7905,7 +8140,7 @@
       ]
     },
     {
-      "index": 412,
+      "index": 411,
       "word": "दायर करना",
       "normalized": "दायर_करना",
       "category": "重要動詞",
@@ -7920,7 +8155,7 @@
       ]
     },
     {
-      "index": 413,
+      "index": 412,
       "word": "दावा",
       "normalized": "दावा",
       "category": "選挙・裁判",
@@ -7935,7 +8170,7 @@
       ]
     },
     {
-      "index": 414,
+      "index": 413,
       "word": "खारिज करना",
       "normalized": "खारिज_करना",
       "category": "重要動詞",
@@ -7950,7 +8185,7 @@
       ]
     },
     {
-      "index": 415,
+      "index": 414,
       "word": "आर्टिफिशियल इंटेलिजेंस",
       "normalized": "आर्टिफिशियल_इंटेलिजेंस",
       "category": "科学・技術",
@@ -7964,7 +8199,7 @@
       ]
     },
     {
-      "index": 416,
+      "index": 415,
       "word": "कृत्रिम बुद्धिमत्ता",
       "normalized": "कृत्रिम_बुद्धिमत्ता",
       "category": "科学・技術",
@@ -7978,7 +8213,7 @@
       ]
     },
     {
-      "index": 417,
+      "index": 416,
       "word": "एआइ",
       "normalized": "एआई",
       "category": "科学・技術",
@@ -7992,7 +8227,7 @@
       ]
     },
     {
-      "index": 418,
+      "index": 417,
       "word": "उद्योग",
       "normalized": "उद्योग",
       "category": "労働・経済",
@@ -8007,7 +8242,7 @@
       ]
     },
     {
-      "index": 419,
+      "index": 418,
       "word": "तकनीक",
       "normalized": "तकनीक",
       "category": "科学・技術",
@@ -8021,7 +8256,7 @@
       ]
     },
     {
-      "index": 420,
+      "index": 419,
       "word": "विश्वसनीयता",
       "normalized": "विश्वसनीयता",
       "category": "科学・技術",
@@ -8035,7 +8270,7 @@
       ]
     },
     {
-      "index": 421,
+      "index": 420,
       "word": "सार्वजनिक हित",
       "normalized": "सार्वजनिक_हित",
       "category": "行政・制度",
@@ -8049,7 +8284,7 @@
       ]
     },
     {
-      "index": 422,
+      "index": 421,
       "word": "जनहित",
       "normalized": "जनहित",
       "category": "行政・制度",
@@ -8063,7 +8298,7 @@
       ]
     },
     {
-      "index": 423,
+      "index": 422,
       "word": "समझौता",
       "normalized": "समझौता",
       "category": "選挙・裁判",
@@ -8077,7 +8312,7 @@
       ]
     },
     {
-      "index": 424,
+      "index": 423,
       "word": "निवेशक",
       "normalized": "निवेशक",
       "category": "労働・経済",
@@ -8091,7 +8326,7 @@
       ]
     },
     {
-      "index": 425,
+      "index": 424,
       "word": "रेबीज",
       "normalized": "रेबीज",
       "category": "医療・健康",
@@ -8105,7 +8340,7 @@
       ]
     },
     {
-      "index": 426,
+      "index": 425,
       "word": "संक्रमित",
       "normalized": "संक्रमित",
       "category": "医療・健康",
@@ -8119,7 +8354,7 @@
       ]
     },
     {
-      "index": 427,
+      "index": 426,
       "word": "आवारा",
       "normalized": "आवारा",
       "category": "都市・環境",
@@ -8133,7 +8368,7 @@
       ]
     },
     {
-      "index": 428,
+      "index": 427,
       "word": "सार्वजनिक स्थल",
       "normalized": "सार्वजनिक_स्थल",
       "category": "行政・制度",
@@ -8147,7 +8382,7 @@
       ]
     },
     {
-      "index": 429,
+      "index": 428,
       "word": "सार्वजनिक स्थान",
       "normalized": "सार्वजनिक_स्थान",
       "category": "行政・制度",
@@ -8161,7 +8396,7 @@
       ]
     },
     {
-      "index": 430,
+      "index": 429,
       "word": "एसओपी",
       "normalized": "एसओपी",
       "category": "行政・制度",
@@ -8175,7 +8410,7 @@
       ]
     },
     {
-      "index": 431,
+      "index": 430,
       "word": "अर्जी",
       "normalized": "अर्जी",
       "category": "選挙・裁判",
@@ -8189,7 +8424,7 @@
       ]
     },
     {
-      "index": 432,
+      "index": 431,
       "word": "लाइलाज",
       "normalized": "लाइलाज",
       "category": "医療・健康",
@@ -8203,7 +8438,7 @@
       ]
     },
     {
-      "index": 433,
+      "index": 432,
       "word": "बंध्याकरण",
       "normalized": "बंध्याकरण",
       "category": "医療・健康",
@@ -8217,7 +8452,7 @@
       ]
     },
     {
-      "index": 434,
+      "index": 433,
       "word": "स्वतः संज्ञान",
       "normalized": "स्वतः_संज्ञान",
       "category": "選挙・裁判",
@@ -8231,7 +8466,7 @@
       ]
     },
     {
-      "index": 435,
+      "index": 434,
       "word": "एबीसी रूल",
       "normalized": "एबीसी_रूल",
       "category": "行政・制度",
@@ -8245,7 +8480,7 @@
       ]
     },
     {
-      "index": 436,
+      "index": 435,
       "word": "वैधानिक",
       "normalized": "वैधानिक",
       "category": "選挙・裁判",
@@ -8259,7 +8494,7 @@
       ]
     },
     {
-      "index": 437,
+      "index": 436,
       "word": "जमीनी हकीकत",
       "normalized": "जमीनी_हकीकत",
       "category": "社会・公共",
@@ -8273,7 +8508,7 @@
       ]
     },
     {
-      "index": 438,
+      "index": 437,
       "word": "कानूनन",
       "normalized": "कानूनन",
       "category": "選挙・裁判",
@@ -8287,7 +8522,7 @@
       ]
     },
     {
-      "index": 439,
+      "index": 438,
       "word": "संवैधानिक दायित्व",
       "normalized": "संवैधानिक_दायित्व",
       "category": "選挙・裁判",
@@ -8301,7 +8536,7 @@
       ]
     },
     {
-      "index": 440,
+      "index": 439,
       "word": "मौलिक अधिकार",
       "normalized": "मौलिक_अधिकार",
       "category": "選挙・裁判",
@@ -8315,7 +8550,7 @@
       ]
     },
     {
-      "index": 441,
+      "index": 440,
       "word": "भलाई",
       "normalized": "भलाई",
       "category": "社会・公共",
@@ -8329,7 +8564,7 @@
       ]
     },
     {
-      "index": 442,
+      "index": 441,
       "word": "पशु कल्याण संगठन",
       "normalized": "पशु_कल्याण_संगठन",
       "category": "社会・公共",
@@ -8343,7 +8578,7 @@
       ]
     },
     {
-      "index": 443,
+      "index": 442,
       "word": "गैर-सरकारी संगठन",
       "normalized": "गैरसरकारी_संगठन",
       "category": "社会・公共",
@@ -8357,7 +8592,7 @@
       ]
     },
     {
-      "index": 444,
+      "index": 443,
       "word": "शपथपत्र",
       "normalized": "शपथपत्र",
       "category": "選挙・裁判",
@@ -8371,7 +8606,7 @@
       ]
     },
     {
-      "index": 445,
+      "index": 444,
       "word": "अनुपालन",
       "normalized": "अनुपालन",
       "category": "行政・制度",
@@ -8385,7 +8620,7 @@
       ]
     },
     {
-      "index": 446,
+      "index": 445,
       "word": "अनुपालन रिपोर्ट",
       "normalized": "अनुपालन_रिपोर्ट",
       "category": "行政・制度",
@@ -8399,7 +8634,7 @@
       ]
     },
     {
-      "index": 447,
+      "index": 446,
       "word": "यूथनेशिया",
       "normalized": "यूथनेशिया",
       "category": "医療・健康",
@@ -8413,7 +8648,7 @@
       ]
     },
     {
-      "index": 448,
+      "index": 447,
       "word": "इम्यूनोग्लोबुलिन",
       "normalized": "इम्यूनोग्लोबुलिन",
       "category": "医療・健康",
@@ -8427,7 +8662,7 @@
       ]
     },
     {
-      "index": 449,
+      "index": 448,
       "word": "एक्सप्रेस-वे",
       "normalized": "एक्सप्रेसवे",
       "category": "都市・環境",
@@ -8441,21 +8676,22 @@
       ]
     },
     {
-      "index": 450,
+      "index": 449,
       "word": "गंभीरता",
       "normalized": "गंभीरता",
       "category": "社会・公共",
       "importance": 4,
-      "sourceCount": 1,
-      "frequency": 1,
+      "sourceCount": 2,
+      "frequency": 2,
       "oldQuizWeight": 3,
-      "newQuizWeight": 3,
+      "newQuizWeight": 4,
       "reason": [
-        "base_3"
+        "base_3",
+        "importance>=4 && sourceCount>=2:+1"
       ]
     },
     {
-      "index": 451,
+      "index": 450,
       "word": "सुरक्षा",
       "normalized": "सुरक्षा",
       "category": "行政・制度",
@@ -8470,7 +8706,7 @@
       ]
     },
     {
-      "index": 452,
+      "index": 451,
       "word": "सार्वजनिक",
       "normalized": "सार्वजनिक",
       "category": "行政・制度",
@@ -8484,7 +8720,7 @@
       ]
     },
     {
-      "index": 453,
+      "index": 452,
       "word": "नागरिक",
       "normalized": "नागरिक",
       "category": "行政・制度",
@@ -8498,7 +8734,7 @@
       ]
     },
     {
-      "index": 454,
+      "index": 453,
       "word": "संवैधानिक",
       "normalized": "संवैधानिक",
       "category": "選挙・裁判",
@@ -8512,7 +8748,7 @@
       ]
     },
     {
-      "index": 455,
+      "index": 454,
       "word": "राज्य",
       "normalized": "राज्य",
       "category": "行政・制度",
@@ -8526,7 +8762,7 @@
       ]
     },
     {
-      "index": 456,
+      "index": 455,
       "word": "केंद्र शासित प्रदेश",
       "normalized": "केंद्र_शासित_प्रदेश",
       "category": "行政・制度",
@@ -8540,7 +8776,7 @@
       ]
     },
     {
-      "index": 457,
+      "index": 456,
       "word": "प्रकोप",
       "normalized": "प्रकोप",
       "category": "調査・統計",
@@ -8554,7 +8790,7 @@
       ]
     },
     {
-      "index": 458,
+      "index": 457,
       "word": "तपिश",
       "normalized": "तपिश",
       "category": "調査・統計",
@@ -8568,7 +8804,7 @@
       ]
     },
     {
-      "index": 459,
+      "index": 458,
       "word": "आसार",
       "normalized": "आसार",
       "category": "調査・統計",
@@ -8582,7 +8818,7 @@
       ]
     },
     {
-      "index": 460,
+      "index": 459,
       "word": "पारा",
       "normalized": "पारा",
       "category": "調査・統計",
@@ -8596,7 +8832,7 @@
       ]
     },
     {
-      "index": 461,
+      "index": 460,
       "word": "डिग्री सेल्सियस",
       "normalized": "डिग्री सेल्सियस",
       "category": "調査・統計",
@@ -8610,13 +8846,13 @@
       ]
     },
     {
-      "index": 462,
+      "index": 461,
       "word": "लू",
       "normalized": "लू",
       "category": "調査・統計",
       "importance": 3,
-      "sourceCount": 1,
-      "frequency": 1,
+      "sourceCount": 2,
+      "frequency": 2,
       "oldQuizWeight": null,
       "newQuizWeight": 3,
       "reason": [
@@ -8624,7 +8860,7 @@
       ]
     },
     {
-      "index": 463,
+      "index": 462,
       "word": "नौतपा",
       "normalized": "नौतपा",
       "category": "調査・統計",
@@ -8639,7 +8875,7 @@
       ]
     },
     {
-      "index": 464,
+      "index": 463,
       "word": "कहर",
       "normalized": "कहर",
       "category": "調査・統計",
@@ -8653,7 +8889,7 @@
       ]
     },
     {
-      "index": 465,
+      "index": 464,
       "word": "तापमान",
       "normalized": "तापमान",
       "category": "調査・統計",
@@ -8667,7 +8903,7 @@
       ]
     },
     {
-      "index": 466,
+      "index": 465,
       "word": "अधिकतम तापमान",
       "normalized": "अधिकतम तापमान",
       "category": "調査・統計",
@@ -8681,7 +8917,7 @@
       ]
     },
     {
-      "index": 467,
+      "index": 466,
       "word": "सामान्य",
       "normalized": "सामान्य",
       "category": "調査・統計",
@@ -8695,7 +8931,7 @@
       ]
     },
     {
-      "index": 468,
+      "index": 467,
       "word": "एम्स",
       "normalized": "एम्स",
       "category": "医療・健康",
@@ -8710,7 +8946,7 @@
       ]
     },
     {
-      "index": 469,
+      "index": 468,
       "word": "दहेज",
       "normalized": "दहेज",
       "category": "事件・事故",
@@ -8724,7 +8960,7 @@
       ]
     },
     {
-      "index": 470,
+      "index": 469,
       "word": "ससुराल",
       "normalized": "ससुराल",
       "category": "社会・公共",
@@ -8738,7 +8974,7 @@
       ]
     },
     {
-      "index": 471,
+      "index": 470,
       "word": "ससुरालवाले",
       "normalized": "ससुरालवाले",
       "category": "社会・公共",
@@ -8752,7 +8988,7 @@
       ]
     },
     {
-      "index": 472,
+      "index": 471,
       "word": "हालत",
       "normalized": "हालत",
       "category": "事件・事故",
@@ -8766,7 +9002,7 @@
       ]
     },
     {
-      "index": 473,
+      "index": 472,
       "word": "युवती",
       "normalized": "युवती",
       "category": "事件・事故",
@@ -8780,7 +9016,7 @@
       ]
     },
     {
-      "index": 474,
+      "index": 473,
       "word": "बिटिया",
       "normalized": "बिटिया",
       "category": "社会・公共",
@@ -8794,7 +9030,7 @@
       ]
     },
     {
-      "index": 475,
+      "index": 474,
       "word": "ससुर",
       "normalized": "ससुर",
       "category": "社会・公共",
@@ -8808,7 +9044,7 @@
       ]
     },
     {
-      "index": 476,
+      "index": 475,
       "word": "सताना",
       "normalized": "सताना",
       "category": "重要動詞",
@@ -8823,7 +9059,7 @@
       ]
     },
     {
-      "index": 477,
+      "index": 476,
       "word": "दहेज प्रताड़ना",
       "normalized": "दहेज_प्रताड़ना",
       "category": "事件・事故",
@@ -8837,7 +9073,7 @@
       ]
     },
     {
-      "index": 478,
+      "index": 477,
       "word": "घरेलू हिंसा",
       "normalized": "घरेलू_हिंसा",
       "category": "事件・事故",
@@ -8851,7 +9087,7 @@
       ]
     },
     {
-      "index": 479,
+      "index": 478,
       "word": "आत्महत्या",
       "normalized": "आत्महत्या",
       "category": "事件・事故",
@@ -8865,7 +9101,7 @@
       ]
     },
     {
-      "index": 480,
+      "index": 479,
       "word": "मायका",
       "normalized": "मायका",
       "category": "社会・公共",
@@ -8879,7 +9115,7 @@
       ]
     },
     {
-      "index": 481,
+      "index": 480,
       "word": "ससुरालीजन",
       "normalized": "ससुरालीजन",
       "category": "社会・公共",
@@ -8893,7 +9129,7 @@
       ]
     },
     {
-      "index": 482,
+      "index": 481,
       "word": "हिरासत",
       "normalized": "हिरासत",
       "category": "選挙・裁判",
@@ -8907,7 +9143,7 @@
       ]
     },
     {
-      "index": 483,
+      "index": 482,
       "word": "मानसिक प्रताड़ना",
       "normalized": "मानसिक_प्रताड़ना",
       "category": "事件・事故",
@@ -8921,7 +9157,7 @@
       ]
     },
     {
-      "index": 484,
+      "index": 483,
       "word": "फार्मेसी",
       "normalized": "फार्मेसी",
       "category": "医療・健康",
@@ -8935,7 +9171,7 @@
       ]
     },
     {
-      "index": 485,
+      "index": 484,
       "word": "ई-फार्मेसी",
       "normalized": "ईफार्मेसी",
       "category": "医療・健康",
@@ -8949,7 +9185,7 @@
       ]
     },
     {
-      "index": 486,
+      "index": 485,
       "word": "दवा",
       "normalized": "दवा",
       "category": "医療・健康",
@@ -8963,7 +9199,7 @@
       ]
     },
     {
-      "index": 487,
+      "index": 486,
       "word": "दवा विक्रेता",
       "normalized": "दवा_विक्रेता",
       "category": "医療・健康",
@@ -8977,7 +9213,7 @@
       ]
     },
     {
-      "index": 488,
+      "index": 487,
       "word": "स्वास्थ्य विभाग",
       "normalized": "स्वास्थ्य_विभाग",
       "category": "医療・健康",
@@ -8991,7 +9227,7 @@
       ]
     },
     {
-      "index": 489,
+      "index": 488,
       "word": "मधुमेह",
       "normalized": "मधुमेह",
       "category": "医療・健康",
@@ -9005,7 +9241,7 @@
       ]
     },
     {
-      "index": 490,
+      "index": 489,
       "word": "मरीज",
       "normalized": "मरीज",
       "category": "医療・健康",
@@ -9019,7 +9255,7 @@
       ]
     },
     {
-      "index": 491,
+      "index": 490,
       "word": "रक्तचाप",
       "normalized": "रक्तचाप",
       "category": "医療・健康",
@@ -9033,7 +9269,7 @@
       ]
     },
     {
-      "index": 492,
+      "index": 491,
       "word": "बुजुर्ग",
       "normalized": "बुजुर्ग",
       "category": "医療・健康",
@@ -9047,7 +9283,7 @@
       ]
     },
     {
-      "index": 493,
+      "index": 492,
       "word": "आपातकालीन",
       "normalized": "आपातकालीन",
       "category": "医療・健康",
@@ -9061,7 +9297,7 @@
       ]
     },
     {
-      "index": 494,
+      "index": 493,
       "word": "आनलाइन बिक्री",
       "normalized": "ऑनलाइन_बिक्री",
       "category": "労働・経済",
@@ -9075,7 +9311,7 @@
       ]
     },
     {
-      "index": 495,
+      "index": 494,
       "word": "विक्रेता",
       "normalized": "विक्रेता",
       "category": "労働・経済",
@@ -9089,7 +9325,7 @@
       ]
     },
     {
-      "index": 496,
+      "index": 495,
       "word": "वितरक",
       "normalized": "वितरक",
       "category": "労働・経済",
@@ -9103,7 +9339,7 @@
       ]
     },
     {
-      "index": 497,
+      "index": 496,
       "word": "खुदरा",
       "normalized": "खुदरा",
       "category": "労働・経済",
@@ -9117,7 +9353,7 @@
       ]
     },
     {
-      "index": 498,
+      "index": 497,
       "word": "थोक",
       "normalized": "थोक",
       "category": "労働・経済",
@@ -9131,7 +9367,7 @@
       ]
     },
     {
-      "index": 499,
+      "index": 498,
       "word": "राष्ट्रव्यापी बंद",
       "normalized": "राष्ट्रव्यापी_बंद",
       "category": "労働・経済",
@@ -9145,7 +9381,7 @@
       ]
     },
     {
-      "index": 500,
+      "index": 499,
       "word": "अस्थायी",
       "normalized": "अस्थायी",
       "category": "行政・制度",
@@ -9159,7 +9395,7 @@
       ]
     },
     {
-      "index": 501,
+      "index": 500,
       "word": "अस्थायी छूट",
       "normalized": "अस्थायी_छूट",
       "category": "行政・制度",
@@ -9173,7 +9409,7 @@
       ]
     },
     {
-      "index": 502,
+      "index": 501,
       "word": "सख्त",
       "normalized": "सख्त",
       "category": "行政・制度",
@@ -9187,7 +9423,7 @@
       ]
     },
     {
-      "index": 503,
+      "index": 502,
       "word": "सख्त नियम",
       "normalized": "सख्त_नियम",
       "category": "行政・制度",
@@ -9201,7 +9437,7 @@
       ]
     },
     {
-      "index": 504,
+      "index": 503,
       "word": "आह्वान",
       "normalized": "आह्वान",
       "category": "行政・制度",
@@ -9215,7 +9451,7 @@
       ]
     },
     {
-      "index": 505,
+      "index": 504,
       "word": "अध्यक्ष",
       "normalized": "अध्यक्ष",
       "category": "行政・制度",
@@ -9229,7 +9465,7 @@
       ]
     },
     {
-      "index": 506,
+      "index": 505,
       "word": "पदाधिकारी",
       "normalized": "पदाधिकारी",
       "category": "行政・制度",
@@ -9243,7 +9479,7 @@
       ]
     },
     {
-      "index": 507,
+      "index": 506,
       "word": "संचालित करना",
       "normalized": "संचालित_करना",
       "category": "重要動詞",
@@ -9258,7 +9494,7 @@
       ]
     },
     {
-      "index": 508,
+      "index": 507,
       "word": "जूझना",
       "normalized": "जूझना",
       "category": "重要動詞",
@@ -9273,7 +9509,7 @@
       ]
     },
     {
-      "index": 509,
+      "index": 508,
       "word": "बाधित होना",
       "normalized": "बाधित_होना",
       "category": "重要動詞",
@@ -9288,7 +9524,7 @@
       ]
     },
     {
-      "index": 510,
+      "index": 509,
       "word": "के खिलाफ",
       "normalized": "के_खिलाफ",
       "category": "ニュース定型句",
@@ -9302,7 +9538,7 @@
       ]
     },
     {
-      "index": 511,
+      "index": 510,
       "word": "सूत्रों के अनुसार",
       "normalized": "सूत्रों_के_अनुसार",
       "category": "ニュース定型句",
@@ -9316,7 +9552,7 @@
       ]
     },
     {
-      "index": 512,
+      "index": 511,
       "word": "हड़ताल",
       "normalized": "हड़ताल",
       "category": "労働・経済",
@@ -9330,7 +9566,7 @@
       ]
     },
     {
-      "index": 513,
+      "index": 512,
       "word": "दिक्कत",
       "normalized": "दिक्कत",
       "category": "労働・経済",
@@ -9344,7 +9580,7 @@
       ]
     },
     {
-      "index": 514,
+      "index": 513,
       "word": "सीएनजी",
       "normalized": "सीएनजी",
       "category": "労働・経済",
@@ -9358,7 +9594,7 @@
       ]
     },
     {
-      "index": 515,
+      "index": 514,
       "word": "किराया",
       "normalized": "किराया",
       "category": "労働・経済",
@@ -9372,7 +9608,7 @@
       ]
     },
     {
-      "index": 516,
+      "index": 515,
       "word": "चालक",
       "normalized": "चालक",
       "category": "労働・経済",
@@ -9386,7 +9622,7 @@
       ]
     },
     {
-      "index": 517,
+      "index": 516,
       "word": "एकजुट",
       "normalized": "एकजुट",
       "category": "労働・経済",
@@ -9400,7 +9636,7 @@
       ]
     },
     {
-      "index": 518,
+      "index": 517,
       "word": "असर",
       "normalized": "असर",
       "category": "労働・経済",
@@ -9416,7 +9652,7 @@
       ]
     },
     {
-      "index": 519,
+      "index": 518,
       "word": "घोषणा",
       "normalized": "घोषणा",
       "category": "行政・制度",
@@ -9430,7 +9666,7 @@
       ]
     },
     {
-      "index": 520,
+      "index": 519,
       "word": "हालांकि",
       "normalized": "हालांकि",
       "category": "ニュース定型句",
@@ -9444,7 +9680,7 @@
       ]
     },
     {
-      "index": 521,
+      "index": 520,
       "word": "शामिल होना",
       "normalized": "शामिल_होना",
       "category": "重要動詞",
@@ -9459,7 +9695,7 @@
       ]
     },
     {
-      "index": 522,
+      "index": 521,
       "word": "चालक शक्ति यूनियन",
       "normalized": "चालक_शक्ति_यूनियन",
       "category": "労働・経済",
@@ -9473,7 +9709,7 @@
       ]
     },
     {
-      "index": 523,
+      "index": 522,
       "word": "उपाध्यक्ष",
       "normalized": "उपाध्यक्ष",
       "category": "行政・制度",
@@ -9487,7 +9723,7 @@
       ]
     },
     {
-      "index": 524,
+      "index": 523,
       "word": "के तहत",
       "normalized": "के_तहत",
       "category": "行政・制度",
@@ -9501,7 +9737,7 @@
       ]
     },
     {
-      "index": 525,
+      "index": 524,
       "word": "पर्यावरण क्षतिपूर्ति शुल्क",
       "normalized": "पर्यावरण_क्षतिपूर्ति_शुल्क",
       "category": "行政・制度",
@@ -9515,7 +9751,7 @@
       ]
     },
     {
-      "index": 526,
+      "index": 525,
       "word": "दिवसीय",
       "normalized": "दिवसीय",
       "category": "ニュース定型句",
@@ -9529,7 +9765,7 @@
       ]
     },
     {
-      "index": 527,
+      "index": 526,
       "word": "सांकेतिक",
       "normalized": "सांकेतिक",
       "category": "労働・経済",
@@ -9543,7 +9779,7 @@
       ]
     },
     {
-      "index": 528,
+      "index": 527,
       "word": "चक्का जाम",
       "normalized": "चक्का_जाम",
       "category": "労働・経済",
@@ -9557,7 +9793,7 @@
       ]
     },
     {
-      "index": 529,
+      "index": 528,
       "word": "गुटका",
       "normalized": "गुटका",
       "category": "文化・宗教",
@@ -9571,7 +9807,7 @@
       ]
     },
     {
-      "index": 530,
+      "index": 529,
       "word": "गुटका साहिब",
       "normalized": "गुटका_साहिब",
       "category": "文化・宗教",
@@ -9585,7 +9821,7 @@
       ]
     },
     {
-      "index": 531,
+      "index": 530,
       "word": "गुरुबाणी",
       "normalized": "गुरुबाणी",
       "category": "文化・宗教",
@@ -9599,7 +9835,7 @@
       ]
     },
     {
-      "index": 532,
+      "index": 531,
       "word": "वचन",
       "normalized": "वचन",
       "category": "文化・宗教",
@@ -9613,7 +9849,7 @@
       ]
     },
     {
-      "index": 533,
+      "index": 532,
       "word": "संकलित",
       "normalized": "संकलित",
       "category": "文化・宗教",
@@ -9627,7 +9863,7 @@
       ]
     },
     {
-      "index": 534,
+      "index": 533,
       "word": "गुटखा",
       "normalized": "गुटखा",
       "category": "医療・健康",
@@ -9641,7 +9877,7 @@
       ]
     },
     {
-      "index": 535,
+      "index": 534,
       "word": "सूत",
       "normalized": "सूत",
       "category": "一般語彙",
@@ -9655,7 +9891,7 @@
       ]
     },
     {
-      "index": 536,
+      "index": 535,
       "word": "लकड़ी",
       "normalized": "लकडी",
       "category": "一般語彙",
@@ -9669,7 +9905,7 @@
       ]
     },
     {
-      "index": 537,
+      "index": 536,
       "word": "कंकड़",
       "normalized": "कंकड",
       "category": "一般語彙",
@@ -9683,7 +9919,7 @@
       ]
     },
     {
-      "index": 538,
+      "index": 537,
       "word": "माओवाद",
       "normalized": "माओवाद",
       "category": "選挙・裁判",
@@ -9697,7 +9933,7 @@
       ]
     },
     {
-      "index": 539,
+      "index": 538,
       "word": "माओवादी",
       "normalized": "माओवादी",
       "category": "選挙・裁判",
@@ -9711,7 +9947,7 @@
       ]
     },
     {
-      "index": 540,
+      "index": 539,
       "word": "नक्सल",
       "normalized": "नक्सल",
       "category": "選挙・裁判",
@@ -9725,7 +9961,7 @@
       ]
     },
     {
-      "index": 541,
+      "index": 540,
       "word": "नक्सलवाद",
       "normalized": "नक्सलवाद",
       "category": "選挙・裁判",
@@ -9739,7 +9975,7 @@
       ]
     },
     {
-      "index": 542,
+      "index": 541,
       "word": "उन्मूलन",
       "normalized": "उन्मूलन",
       "category": "選挙・裁判",
@@ -9753,7 +9989,7 @@
       ]
     },
     {
-      "index": 543,
+      "index": 542,
       "word": "उग्रवाद",
       "normalized": "उग्रवाद",
       "category": "選挙・裁判",
@@ -9767,7 +10003,7 @@
       ]
     },
     {
-      "index": 544,
+      "index": 543,
       "word": "सुरक्षा बल",
       "normalized": "सुरक्षा_बल",
       "category": "選挙・裁判",
@@ -9781,7 +10017,7 @@
       ]
     },
     {
-      "index": 545,
+      "index": 544,
       "word": "गृहमंत्री",
       "normalized": "गृहमंत्री",
       "category": "選挙・裁判",
@@ -9795,7 +10031,7 @@
       ]
     },
     {
-      "index": 546,
+      "index": 545,
       "word": "गैरकानूनी",
       "normalized": "गैरकानूनी",
       "category": "選挙・裁判",
@@ -9809,7 +10045,7 @@
       ]
     },
     {
-      "index": 547,
+      "index": 546,
       "word": "रणनीति",
       "normalized": "रणनीति",
       "category": "選挙・裁判",
@@ -9823,7 +10059,7 @@
       ]
     },
     {
-      "index": 548,
+      "index": 547,
       "word": "संगठन",
       "normalized": "संगठन",
       "category": "選挙・裁判",
@@ -9837,21 +10073,7 @@
       ]
     },
     {
-      "index": 549,
-      "word": "हिंसा",
-      "normalized": "हिंसा",
-      "category": "事件・事故",
-      "importance": 4,
-      "sourceCount": 1,
-      "frequency": 1,
-      "oldQuizWeight": 4,
-      "newQuizWeight": 3,
-      "reason": [
-        "base_3"
-      ]
-    },
-    {
-      "index": 550,
+      "index": 548,
       "word": "हथियार",
       "normalized": "हथियार",
       "category": "事件・事故",
@@ -9865,7 +10087,7 @@
       ]
     },
     {
-      "index": 551,
+      "index": 549,
       "word": "विकास",
       "normalized": "विकास",
       "category": "行政・制度",
@@ -9879,7 +10101,7 @@
       ]
     },
     {
-      "index": 552,
+      "index": 550,
       "word": "केंद्रीय",
       "normalized": "केंद्रीय",
       "category": "行政・制度",
@@ -9893,7 +10115,7 @@
       ]
     },
     {
-      "index": 553,
+      "index": 551,
       "word": "सुनिश्चित",
       "normalized": "सुनिश्चित",
       "category": "行政・制度",
@@ -9907,7 +10129,7 @@
       ]
     },
     {
-      "index": 554,
+      "index": 552,
       "word": "मुक्त",
       "normalized": "मुक्त",
       "category": "行政・制度",
@@ -9921,7 +10143,7 @@
       ]
     },
     {
-      "index": 555,
+      "index": 553,
       "word": "अभियान चलाना",
       "normalized": "अभियान_चलाना",
       "category": "重要動詞",
@@ -9936,7 +10158,7 @@
       ]
     },
     {
-      "index": 556,
+      "index": 554,
       "word": "निकालना",
       "normalized": "निकालना",
       "category": "重要動詞",
@@ -9951,7 +10173,7 @@
       ]
     },
     {
-      "index": 557,
+      "index": 555,
       "word": "पहुंचना",
       "normalized": "पहुंचना",
       "category": "重要動詞",
@@ -9966,7 +10188,7 @@
       ]
     },
     {
-      "index": 558,
+      "index": 556,
       "word": "बताना",
       "normalized": "बताना",
       "category": "重要動詞",
@@ -9981,7 +10203,7 @@
       ]
     },
     {
-      "index": 559,
+      "index": 557,
       "word": "जुटना",
       "normalized": "जुटना",
       "category": "重要動詞",
@@ -9996,7 +10218,7 @@
       ]
     },
     {
-      "index": 560,
+      "index": 558,
       "word": "बीतना",
       "normalized": "बीतना",
       "category": "重要動詞",
@@ -10011,7 +10233,7 @@
       ]
     },
     {
-      "index": 561,
+      "index": 559,
       "word": "प्रभावित क्षेत्र",
       "normalized": "प्रभावित_क्षेत्र",
       "category": "行政・制度",
@@ -10025,9 +10247,37 @@
       ]
     },
     {
+      "index": 560,
+      "word": "बीजीबी",
+      "normalized": "बीजीबी",
+      "category": "行政・制度",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 3,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 561,
+      "word": "सीमा",
+      "normalized": "सीमा",
+      "category": "行政・制度",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
       "index": 562,
-      "word": "तारबंदी",
-      "normalized": "तारबंदी",
+      "word": "फ्लैग मीटिंग",
+      "normalized": "फ्लैग_मीटिंग",
       "category": "行政・制度",
       "importance": 4,
       "sourceCount": 1,
@@ -10040,62 +10290,6 @@
     },
     {
       "index": 563,
-      "word": "बीएसएफ",
-      "normalized": "बीएसएफ",
-      "category": "行政・制度",
-      "importance": 4,
-      "sourceCount": 1,
-      "frequency": 1,
-      "oldQuizWeight": 3,
-      "newQuizWeight": 3,
-      "reason": [
-        "base_3"
-      ]
-    },
-    {
-      "index": 564,
-      "word": "बीजीबी",
-      "normalized": "बीजीबी",
-      "category": "行政・制度",
-      "importance": 4,
-      "sourceCount": 1,
-      "frequency": 1,
-      "oldQuizWeight": 3,
-      "newQuizWeight": 3,
-      "reason": [
-        "base_3"
-      ]
-    },
-    {
-      "index": 565,
-      "word": "सीमा",
-      "normalized": "सीमा",
-      "category": "行政・制度",
-      "importance": 4,
-      "sourceCount": 1,
-      "frequency": 1,
-      "oldQuizWeight": 4,
-      "newQuizWeight": 3,
-      "reason": [
-        "base_3"
-      ]
-    },
-    {
-      "index": 566,
-      "word": "फ्लैग मीटिंग",
-      "normalized": "फ्लैग_मीटिंग",
-      "category": "行政・制度",
-      "importance": 4,
-      "sourceCount": 1,
-      "frequency": 1,
-      "oldQuizWeight": 3,
-      "newQuizWeight": 3,
-      "reason": [
-        "base_3"
-      ]
-    },
-    {
-      "index": 567,
       "word": "घुसपैठ",
       "normalized": "घुसपैठ",
       "category": "行政・制度",
@@ -10109,7 +10303,7 @@
       ]
     },
     {
-      "index": 568,
+      "index": 564,
       "word": "गलियारा",
       "normalized": "गलियारा",
       "category": "行政・制度",
@@ -10123,7 +10317,7 @@
       ]
     },
     {
-      "index": 569,
+      "index": 565,
       "word": "कारिडोर",
       "normalized": "कारिडोर",
       "category": "行政・制度",
@@ -10137,7 +10331,7 @@
       ]
     },
     {
-      "index": 570,
+      "index": 566,
       "word": "कंटीले तार",
       "normalized": "कंटीले_तार",
       "category": "行政・制度",
@@ -10151,7 +10345,7 @@
       ]
     },
     {
-      "index": 571,
+      "index": 567,
       "word": "सीमा विवाद",
       "normalized": "सीमा_विवाद",
       "category": "行政・制度",
@@ -10165,7 +10359,7 @@
       ]
     },
     {
-      "index": 572,
+      "index": 568,
       "word": "सीमा क्षेत्र",
       "normalized": "सीमा_क्षेत्र",
       "category": "行政・制度",
@@ -10179,7 +10373,7 @@
       ]
     },
     {
-      "index": 573,
+      "index": 569,
       "word": "सीमा सुरक्षा",
       "normalized": "सीमा_सुरक्षा",
       "category": "行政・制度",
@@ -10193,7 +10387,7 @@
       ]
     },
     {
-      "index": 574,
+      "index": 570,
       "word": "संवाद",
       "normalized": "संवाद",
       "category": "行政・制度",
@@ -10207,7 +10401,7 @@
       ]
     },
     {
-      "index": 575,
+      "index": 571,
       "word": "सूत्र",
       "normalized": "सूत्र",
       "category": "行政・制度",
@@ -10221,36 +10415,7 @@
       ]
     },
     {
-      "index": 576,
-      "word": "निगरानी",
-      "normalized": "निगरानी",
-      "category": "行政・制度",
-      "importance": 4,
-      "sourceCount": 2,
-      "frequency": 2,
-      "oldQuizWeight": 3,
-      "newQuizWeight": 4,
-      "reason": [
-        "base_3",
-        "importance>=4 && sourceCount>=2:+1"
-      ]
-    },
-    {
-      "index": 577,
-      "word": "सहमति",
-      "normalized": "सहमति",
-      "category": "行政・制度",
-      "importance": 4,
-      "sourceCount": 1,
-      "frequency": 1,
-      "oldQuizWeight": 3,
-      "newQuizWeight": 3,
-      "reason": [
-        "base_3"
-      ]
-    },
-    {
-      "index": 578,
+      "index": 572,
       "word": "माहौल",
       "normalized": "माहौल",
       "category": "一般ニュース語彙",
@@ -10264,7 +10429,7 @@
       ]
     },
     {
-      "index": 579,
+      "index": 573,
       "word": "तारबंदी",
       "normalized": "तारबंदी",
       "category": "行政・制度",
@@ -10278,7 +10443,7 @@
       ]
     },
     {
-      "index": 580,
+      "index": 574,
       "word": "बीएसएफ",
       "normalized": "बीएसएफ",
       "category": "行政・制度",
@@ -10292,231 +10457,7 @@
       ]
     },
     {
-      "index": 581,
-      "word": "बीजीबी",
-      "normalized": "बीजीबी",
-      "category": "行政・制度",
-      "importance": 4,
-      "sourceCount": 1,
-      "frequency": 1,
-      "oldQuizWeight": 3,
-      "newQuizWeight": 3,
-      "reason": [
-        "base_3"
-      ]
-    },
-    {
-      "index": 582,
-      "word": "सीमा",
-      "normalized": "सीमा",
-      "category": "行政・制度",
-      "importance": 4,
-      "sourceCount": 1,
-      "frequency": 1,
-      "oldQuizWeight": 4,
-      "newQuizWeight": 3,
-      "reason": [
-        "base_3"
-      ]
-    },
-    {
-      "index": 583,
-      "word": "फ्लैग मीटिंग",
-      "normalized": "फ्लैग_मीटिंग",
-      "category": "行政・制度",
-      "importance": 4,
-      "sourceCount": 1,
-      "frequency": 1,
-      "oldQuizWeight": 3,
-      "newQuizWeight": 3,
-      "reason": [
-        "base_3"
-      ]
-    },
-    {
-      "index": 584,
-      "word": "घुसपैठ",
-      "normalized": "घुसपैठ",
-      "category": "行政・制度",
-      "importance": 4,
-      "sourceCount": 1,
-      "frequency": 1,
-      "oldQuizWeight": 3,
-      "newQuizWeight": 3,
-      "reason": [
-        "base_3"
-      ]
-    },
-    {
-      "index": 585,
-      "word": "गलियारा",
-      "normalized": "गलियारा",
-      "category": "行政・制度",
-      "importance": 3,
-      "sourceCount": 1,
-      "frequency": 1,
-      "oldQuizWeight": 3,
-      "newQuizWeight": 3,
-      "reason": [
-        "base_3"
-      ]
-    },
-    {
-      "index": 586,
-      "word": "कारिडोर",
-      "normalized": "कारिडोर",
-      "category": "行政・制度",
-      "importance": 3,
-      "sourceCount": 1,
-      "frequency": 1,
-      "oldQuizWeight": 3,
-      "newQuizWeight": 3,
-      "reason": [
-        "base_3"
-      ]
-    },
-    {
-      "index": 587,
-      "word": "कंटीले तार",
-      "normalized": "कंटीले_तार",
-      "category": "行政・制度",
-      "importance": 4,
-      "sourceCount": 1,
-      "frequency": 1,
-      "oldQuizWeight": 3,
-      "newQuizWeight": 3,
-      "reason": [
-        "base_3"
-      ]
-    },
-    {
-      "index": 588,
-      "word": "सीमा विवाद",
-      "normalized": "सीमा_विवाद",
-      "category": "行政・制度",
-      "importance": 4,
-      "sourceCount": 1,
-      "frequency": 1,
-      "oldQuizWeight": 3,
-      "newQuizWeight": 3,
-      "reason": [
-        "base_3"
-      ]
-    },
-    {
-      "index": 589,
-      "word": "सीमा क्षेत्र",
-      "normalized": "सीमा_क्षेत्र",
-      "category": "行政・制度",
-      "importance": 3,
-      "sourceCount": 1,
-      "frequency": 1,
-      "oldQuizWeight": 3,
-      "newQuizWeight": 3,
-      "reason": [
-        "base_3"
-      ]
-    },
-    {
-      "index": 590,
-      "word": "सीमा सुरक्षा",
-      "normalized": "सीमा_सुरक्षा",
-      "category": "行政・制度",
-      "importance": 4,
-      "sourceCount": 1,
-      "frequency": 1,
-      "oldQuizWeight": 3,
-      "newQuizWeight": 3,
-      "reason": [
-        "base_3"
-      ]
-    },
-    {
-      "index": 591,
-      "word": "संवाद",
-      "normalized": "संवाद",
-      "category": "行政・制度",
-      "importance": 3,
-      "sourceCount": 1,
-      "frequency": 1,
-      "oldQuizWeight": 3,
-      "newQuizWeight": 3,
-      "reason": [
-        "base_3"
-      ]
-    },
-    {
-      "index": 592,
-      "word": "सूत्र",
-      "normalized": "सूत्र",
-      "category": "行政・制度",
-      "importance": 4,
-      "sourceCount": 1,
-      "frequency": 1,
-      "oldQuizWeight": 3,
-      "newQuizWeight": 3,
-      "reason": [
-        "base_3"
-      ]
-    },
-    {
-      "index": 593,
-      "word": "निगरानी",
-      "normalized": "निगरानी",
-      "category": "行政・制度",
-      "importance": 4,
-      "sourceCount": 1,
-      "frequency": 1,
-      "oldQuizWeight": 3,
-      "newQuizWeight": 3,
-      "reason": [
-        "base_3"
-      ]
-    },
-    {
-      "index": 594,
-      "word": "सहमति",
-      "normalized": "सहमति",
-      "category": "行政・制度",
-      "importance": 4,
-      "sourceCount": 1,
-      "frequency": 1,
-      "oldQuizWeight": 3,
-      "newQuizWeight": 3,
-      "reason": [
-        "base_3"
-      ]
-    },
-    {
-      "index": 595,
-      "word": "माहौल",
-      "normalized": "माहौल",
-      "category": "一般ニュース語彙",
-      "importance": 3,
-      "sourceCount": 1,
-      "frequency": 1,
-      "oldQuizWeight": 3,
-      "newQuizWeight": 3,
-      "reason": [
-        "base_3"
-      ]
-    },
-    {
-      "index": 596,
-      "word": "जमीन",
-      "normalized": "जमीन",
-      "category": "一般ニュース語彙",
-      "importance": 3,
-      "sourceCount": 1,
-      "frequency": 1,
-      "oldQuizWeight": 3,
-      "newQuizWeight": 3,
-      "reason": [
-        "base_3"
-      ]
-    },
-    {
-      "index": 597,
+      "index": 575,
       "word": "रोक",
       "normalized": "रोक",
       "category": "一般ニュース語彙",
@@ -10530,13 +10471,13 @@
       ]
     },
     {
-      "index": 598,
+      "index": 576,
       "word": "निर्माण",
       "normalized": "निर्माण",
       "category": "一般ニュース語彙",
       "importance": 3,
-      "sourceCount": 1,
-      "frequency": 1,
+      "sourceCount": 2,
+      "frequency": 2,
       "oldQuizWeight": 3,
       "newQuizWeight": 3,
       "reason": [
@@ -10544,35 +10485,7 @@
       ]
     },
     {
-      "index": 599,
-      "word": "रोक",
-      "normalized": "रोक",
-      "category": "一般ニュース語彙",
-      "importance": 3,
-      "sourceCount": 1,
-      "frequency": 1,
-      "oldQuizWeight": 3,
-      "newQuizWeight": 3,
-      "reason": [
-        "base_3"
-      ]
-    },
-    {
-      "index": 600,
-      "word": "निर्माण",
-      "normalized": "निर्माण",
-      "category": "一般ニュース語彙",
-      "importance": 3,
-      "sourceCount": 1,
-      "frequency": 1,
-      "oldQuizWeight": 3,
-      "newQuizWeight": 3,
-      "reason": [
-        "base_3"
-      ]
-    },
-    {
-      "index": 601,
+      "index": 577,
       "word": "धूल",
       "normalized": "धूल",
       "category": "都市・環境",
@@ -10586,7 +10499,7 @@
       ]
     },
     {
-      "index": 602,
+      "index": 578,
       "word": "बूंदाबांदी",
       "normalized": "बूंदाबांदी",
       "category": "都市・環境",
@@ -10600,7 +10513,7 @@
       ]
     },
     {
-      "index": 603,
+      "index": 579,
       "word": "गिरावट",
       "normalized": "गिरावट",
       "category": "都市・環境",
@@ -10614,35 +10527,7 @@
       ]
     },
     {
-      "index": 604,
-      "word": "उमस",
-      "normalized": "उमस",
-      "category": "都市・環境",
-      "importance": 4,
-      "sourceCount": 1,
-      "frequency": 1,
-      "oldQuizWeight": 3,
-      "newQuizWeight": 3,
-      "reason": [
-        "base_3"
-      ]
-    },
-    {
-      "index": 605,
-      "word": "लू",
-      "normalized": "लू",
-      "category": "都市・環境",
-      "importance": 4,
-      "sourceCount": 1,
-      "frequency": 1,
-      "oldQuizWeight": 4,
-      "newQuizWeight": 3,
-      "reason": [
-        "base_3"
-      ]
-    },
-    {
-      "index": 606,
+      "index": 580,
       "word": "तापमान में गिरावट",
       "normalized": "तापमान_में_गिरावट",
       "category": "都市・環境",
@@ -10656,7 +10541,7 @@
       ]
     },
     {
-      "index": 607,
+      "index": 581,
       "word": "आर्द्रता",
       "normalized": "आर्द्रता",
       "category": "都市・環境",
@@ -10670,7 +10555,7 @@
       ]
     },
     {
-      "index": 608,
+      "index": 582,
       "word": "राजधानी",
       "normalized": "राजधानी",
       "category": "一般ニュース語彙",
@@ -10684,7 +10569,7 @@
       ]
     },
     {
-      "index": 609,
+      "index": 583,
       "word": "तुलना",
       "normalized": "तुलना",
       "category": "一般ニュース語彙",
@@ -10698,7 +10583,7 @@
       ]
     },
     {
-      "index": 610,
+      "index": 584,
       "word": "निगाह",
       "normalized": "निगाह",
       "category": "一般ニュース語彙",
@@ -10712,7 +10597,7 @@
       ]
     },
     {
-      "index": 611,
+      "index": 585,
       "word": "राहत",
       "normalized": "राहत",
       "category": "一般ニュース語彙",
@@ -10728,7 +10613,7 @@
       ]
     },
     {
-      "index": 612,
+      "index": 586,
       "word": "संभावना",
       "normalized": "संभावना",
       "category": "一般ニュース語彙",
@@ -10742,7 +10627,7 @@
       ]
     },
     {
-      "index": 613,
+      "index": 587,
       "word": "वैवाहिक",
       "normalized": "वैवाहिक",
       "category": "文化・宗教",
@@ -10756,7 +10641,7 @@
       ]
     },
     {
-      "index": 614,
+      "index": 588,
       "word": "वर",
       "normalized": "वर",
       "category": "文化・宗教",
@@ -10770,7 +10655,7 @@
       ]
     },
     {
-      "index": 615,
+      "index": 589,
       "word": "वधू",
       "normalized": "वधू",
       "category": "文化・宗教",
@@ -10784,7 +10669,7 @@
       ]
     },
     {
-      "index": 616,
+      "index": 590,
       "word": "रिश्ता",
       "normalized": "रिश्ता",
       "category": "文化・宗教",
@@ -10798,7 +10683,7 @@
       ]
     },
     {
-      "index": 617,
+      "index": 591,
       "word": "सुशील",
       "normalized": "सुशील",
       "category": "文化・宗教",
@@ -10812,7 +10697,7 @@
       ]
     },
     {
-      "index": 618,
+      "index": 592,
       "word": "योग्य",
       "normalized": "योग्य",
       "category": "文化・宗教",
@@ -10826,7 +10711,7 @@
       ]
     },
     {
-      "index": 619,
+      "index": 593,
       "word": "अविवाहित",
       "normalized": "अविवाहित",
       "category": "文化・宗教",
@@ -10840,7 +10725,7 @@
       ]
     },
     {
-      "index": 620,
+      "index": 594,
       "word": "तलाकशुदा",
       "normalized": "तलाकशुदा",
       "category": "文化・宗教",
@@ -10854,7 +10739,7 @@
       ]
     },
     {
-      "index": 621,
+      "index": 595,
       "word": "पुनर्विवाह",
       "normalized": "पुनर्विवाह",
       "category": "文化・宗教",
@@ -10868,7 +10753,7 @@
       ]
     },
     {
-      "index": 622,
+      "index": 596,
       "word": "कन्या",
       "normalized": "कन्या",
       "category": "文化・宗教",
@@ -10882,7 +10767,7 @@
       ]
     },
     {
-      "index": 623,
+      "index": 597,
       "word": "वरीयता",
       "normalized": "वरीयता",
       "category": "文化・宗教",
@@ -10896,7 +10781,7 @@
       ]
     },
     {
-      "index": 624,
+      "index": 598,
       "word": "सेवारत",
       "normalized": "सेवारत",
       "category": "文化・宗教",
@@ -10910,7 +10795,7 @@
       ]
     },
     {
-      "index": 625,
+      "index": 599,
       "word": "आवासीय",
       "normalized": "आवासीय",
       "category": "教育",
@@ -10924,7 +10809,7 @@
       ]
     },
     {
-      "index": 626,
+      "index": 600,
       "word": "प्रवक्ता",
       "normalized": "प्रवक्ता",
       "category": "教育",
@@ -10938,7 +10823,7 @@
       ]
     },
     {
-      "index": 627,
+      "index": 601,
       "word": "सरकारी",
       "normalized": "सरकारी",
       "category": "教育",
@@ -10952,7 +10837,7 @@
       ]
     },
     {
-      "index": 628,
+      "index": 602,
       "word": "हेतु",
       "normalized": "हेतु",
       "category": "一般語彙",
@@ -10966,7 +10851,7 @@
       ]
     },
     {
-      "index": 629,
+      "index": 603,
       "word": "बेदम",
       "normalized": "बेदम",
       "category": "都市・環境",
@@ -10980,7 +10865,7 @@
       ]
     },
     {
-      "index": 630,
+      "index": 604,
       "word": "अघोषित",
       "normalized": "अघोषित",
       "category": "都市・環境",
@@ -10994,7 +10879,7 @@
       ]
     },
     {
-      "index": 631,
+      "index": 605,
       "word": "कटौती",
       "normalized": "कटौती",
       "category": "都市・環境",
@@ -11008,21 +10893,22 @@
       ]
     },
     {
-      "index": 632,
+      "index": 606,
       "word": "उमस",
       "normalized": "उमस",
       "category": "都市・環境",
       "importance": 4,
-      "sourceCount": 1,
-      "frequency": 1,
+      "sourceCount": 2,
+      "frequency": 2,
       "oldQuizWeight": 3,
-      "newQuizWeight": 3,
+      "newQuizWeight": 4,
       "reason": [
-        "base_3"
+        "base_3",
+        "importance>=4 && sourceCount>=2:+1"
       ]
     },
     {
-      "index": 633,
+      "index": 607,
       "word": "जलापूर्ति",
       "normalized": "जलापूर्ति",
       "category": "都市・環境",
@@ -11036,7 +10922,7 @@
       ]
     },
     {
-      "index": 634,
+      "index": 608,
       "word": "जलभराव",
       "normalized": "जलभराव",
       "category": "都市・環境",
@@ -11050,7 +10936,7 @@
       ]
     },
     {
-      "index": 635,
+      "index": 609,
       "word": "किल्लत",
       "normalized": "किल्लत",
       "category": "都市・環境",
@@ -11064,7 +10950,7 @@
       ]
     },
     {
-      "index": 636,
+      "index": 610,
       "word": "कतार",
       "normalized": "कतार",
       "category": "一般ニュース語彙",
@@ -11078,7 +10964,7 @@
       ]
     },
     {
-      "index": 637,
+      "index": 611,
       "word": "सब्र",
       "normalized": "सब्र",
       "category": "一般ニュース語彙",
@@ -11092,7 +10978,7 @@
       ]
     },
     {
-      "index": 638,
+      "index": 612,
       "word": "इम्तिहान",
       "normalized": "इम्तिहान",
       "category": "一般ニュース語彙",
@@ -11106,7 +10992,7 @@
       ]
     },
     {
-      "index": 639,
+      "index": 613,
       "word": "आफत",
       "normalized": "आफत",
       "category": "一般ニュース語彙",
@@ -11120,7 +11006,7 @@
       ]
     },
     {
-      "index": 640,
+      "index": 614,
       "word": "मांझा",
       "normalized": "मांझा",
       "category": "事件・事故",
@@ -11134,7 +11020,7 @@
       ]
     },
     {
-      "index": 641,
+      "index": 615,
       "word": "प्रतिबंधित",
       "normalized": "प्रतिबंधित",
       "category": "事件・事故",
@@ -11148,7 +11034,7 @@
       ]
     },
     {
-      "index": 642,
+      "index": 616,
       "word": "कार्रवाई",
       "normalized": "कार्रवाई",
       "category": "事件・事故",
@@ -11162,7 +11048,7 @@
       ]
     },
     {
-      "index": 643,
+      "index": 617,
       "word": "अवैध",
       "normalized": "अवैध",
       "category": "事件・事故",
@@ -11176,7 +11062,7 @@
       ]
     },
     {
-      "index": 644,
+      "index": 618,
       "word": "परिसर",
       "normalized": "परिसर",
       "category": "事件・事故",
@@ -11190,7 +11076,7 @@
       ]
     },
     {
-      "index": 645,
+      "index": 619,
       "word": "पतंगबाजी",
       "normalized": "पतंगबाजी",
       "category": "文化・宗教",
@@ -11204,7 +11090,7 @@
       ]
     },
     {
-      "index": 646,
+      "index": 620,
       "word": "राहगीर",
       "normalized": "राहगीर",
       "category": "事件・事故",
@@ -11218,7 +11104,7 @@
       ]
     },
     {
-      "index": 647,
+      "index": 621,
       "word": "नेतृत्व",
       "normalized": "नेतृत्व",
       "category": "一般ニュース語彙",
@@ -11232,7 +11118,7 @@
       ]
     },
     {
-      "index": 648,
+      "index": 622,
       "word": "आरोपी",
       "normalized": "आरोपी",
       "category": "選挙・裁判",
@@ -11246,14 +11132,351 @@
       ]
     },
     {
-      "index": 649,
+      "index": 623,
       "word": "छापा",
       "normalized": "छापा",
       "category": "事件・事故",
       "importance": 4,
+      "sourceCount": 2,
+      "frequency": 2,
+      "oldQuizWeight": 3,
+      "newQuizWeight": 4,
+      "reason": [
+        "base_3",
+        "importance>=4 && sourceCount>=2:+1"
+      ]
+    },
+    {
+      "index": 624,
+      "word": "हादसा",
+      "normalized": "हादसा",
+      "category": "事件・事故",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 625,
+      "word": "सवार",
+      "normalized": "सवार",
+      "category": "事件・事故",
+      "importance": 3,
       "sourceCount": 1,
       "frequency": 1,
       "oldQuizWeight": 3,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 626,
+      "word": "लटकना",
+      "normalized": "लटकना",
+      "category": "事件・事故",
+      "importance": 3,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 3,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 627,
+      "word": "बचाव",
+      "normalized": "बचाव",
+      "category": "事件・事故",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 628,
+      "word": "सुरक्षित",
+      "normalized": "सुरक्षित",
+      "category": "事件・事故",
+      "importance": 3,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 3,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 629,
+      "word": "संचालन",
+      "normalized": "संचालन",
+      "category": "一般ニュース語彙",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 630,
+      "word": "फिलहाल",
+      "normalized": "फिलहाल",
+      "category": "一般ニュース語彙",
+      "importance": 3,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 3,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 631,
+      "word": "अटकना",
+      "normalized": "अटकना",
+      "category": "事件・事故",
+      "importance": 3,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 3,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 632,
+      "word": "पर्यटक",
+      "normalized": "पर्यटक",
+      "category": "文化・宗教",
+      "importance": 3,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 3,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 633,
+      "word": "पर्यटन",
+      "normalized": "पर्यटन",
+      "category": "文化・宗教",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 634,
+      "word": "पर्यटन स्थल",
+      "normalized": "पर्यटन_स्थल",
+      "category": "文化・宗教",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 635,
+      "word": "मिलावटी",
+      "normalized": "मिलावटी",
+      "category": "事件・事故",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 636,
+      "word": "मालिक",
+      "normalized": "मालिक",
+      "category": "事件・事故",
+      "importance": 3,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 3,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 637,
+      "word": "घटिया",
+      "normalized": "घटिया",
+      "category": "事件・事故",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 638,
+      "word": "डंडी",
+      "normalized": "डंडी",
+      "category": "一般ニュース語彙",
+      "importance": 2,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 2,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 639,
+      "word": "डंठल",
+      "normalized": "डंठल",
+      "category": "一般ニュース語彙",
+      "importance": 2,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 2,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 640,
+      "word": "साप्ताहिक",
+      "normalized": "साप्ताहिक",
+      "category": "一般ニュース語彙",
+      "importance": 3,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 3,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 641,
+      "word": "रेहड़ी",
+      "normalized": "रेहड़ी",
+      "category": "労働・経済",
+      "importance": 3,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 3,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 642,
+      "word": "मुनाफा",
+      "normalized": "मुनाफा",
+      "category": "労働・経済",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 643,
+      "word": "भूतल",
+      "normalized": "भूतल",
+      "category": "一般ニュース語彙",
+      "importance": 2,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 2,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 644,
+      "word": "जब्त",
+      "normalized": "जब्त",
+      "category": "選挙・裁判",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 645,
+      "word": "खाद्य सुरक्षा विभाग",
+      "normalized": "खाद्य_सुरक्षा_विभाग",
+      "category": "医療・健康",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 646,
+      "word": "चावल का चूरा",
+      "normalized": "चावल_का_चूरा",
+      "category": "医療・健康",
+      "importance": 2,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 2,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 647,
+      "word": "हानिकारक",
+      "normalized": "हानिकारक",
+      "category": "医療・健康",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
       "newQuizWeight": 3,
       "reason": [
         "base_3"

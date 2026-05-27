@@ -3,9 +3,9 @@
   "sourceId": "news023_DJ20260520_HotSummer",
   "title": "नौतपा से पहले गर्मी का कहर",
   "category": "調査・統計",
-  "generatedAt": "2026-05-20T01:58:44.851Z",
+  "generatedAt": "2026-05-27T01:04:39.653Z",
   "counts": {
-    "candidates": 62
+    "candidates": 60
   },
   "candidates": [
     {
@@ -482,17 +482,6 @@
       "sourceId": "news023_DJ20260520_HotSummer"
     },
     {
-      "word": "झांसी",
-      "display": "झांसी",
-      "normalized": "झांसी",
-      "variants": [],
-      "meaning_ja": "",
-      "pos": "",
-      "category": "調査・統計",
-      "importance": 3,
-      "sourceId": "news023_DJ20260520_HotSummer"
-    },
-    {
       "word": "गुरुग्राम",
       "display": "गुरुग्राम",
       "normalized": "गुरुग्राम",
@@ -606,17 +595,6 @@
       "word": "कठुआ",
       "display": "कठुआ",
       "normalized": "कठुआ",
-      "variants": [],
-      "meaning_ja": "",
-      "pos": "",
-      "category": "調査・統計",
-      "importance": 3,
-      "sourceId": "news023_DJ20260520_HotSummer"
-    },
-    {
-      "word": "जम्मू",
-      "display": "जम्मू",
-      "normalized": "जम्मू",
       "variants": [],
       "meaning_ja": "",
       "pos": "",

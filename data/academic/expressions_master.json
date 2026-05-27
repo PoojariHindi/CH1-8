@@ -21,6 +21,27 @@
     "sourceRegister": "academic_prose"
   },
   {
+    "text": "अल्लाह निगहबान हो",
+    "normalized": "अल्लाह निगहबान हो",
+    "meaning_ja": "アッラーの加護がありますように",
+    "type": "urdu_expression",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "犯罪・捜査"
+    ],
+    "sourceIds": [
+      "academic_020"
+    ],
+    "sourceTitle": "Mukhabir",
+    "sourceGenre": "novel",
+    "sourceRegister": "literary_prose"
+  },
+  {
     "text": "अविवेकपूर्ण मानवीय कृत्य",
     "normalized": "अविवेकपूर्ण मानवीय कृत्य",
     "meaning_ja": "無分別な人間の行為",
@@ -40,6 +61,27 @@
     "sourceTitle": "प्राकृतिक संसाधन एवं उनका उपयोग",
     "sourceGenre": "textbook",
     "sourceRegister": "academic_prose"
+  },
+  {
+    "text": "आदान-प्रदान कर पाने का माहौल बनाना",
+    "normalized": "आदान प्रदान कर पाने का माहौल बनाना",
+    "meaning_ja": "意見交換ができる環境を作る",
+    "type": "academic_expression",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_021"
+    ],
+    "sourceTitle": "यह पुस्तक क्यों?",
+    "sourceGenre": "textbook",
+    "sourceRegister": "simple_narrative"
   },
   {
     "text": "आर्थिक रूप से व्यवहार्य",
@@ -147,6 +189,48 @@
     "sourceRegister": "academic_prose"
   },
   {
+    "text": "औरत को नीचा दिखाने की कोशिश",
+    "normalized": "औरत को नीचा दिखाने की कोशिश",
+    "meaning_ja": "女性を低く見せようとする試み",
+    "type": "social_expression",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_022"
+    ],
+    "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
+    "sourceGenre": "textbook",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "text": "किशोरावस्था में होने वाले शारीरिक परिवर्तन",
+    "normalized": "किशोरावस्था में होने वाले शारीरिक परिवर्तन",
+    "meaning_ja": "思春期に起こる身体的変化",
+    "type": "academic_expression",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_021"
+    ],
+    "sourceTitle": "यह पुस्तक क्यों?",
+    "sourceGenre": "textbook",
+    "sourceRegister": "simple_narrative"
+  },
+  {
     "text": "जाति-पाँति के भेदभाव का विरोध",
     "normalized": "जाति पाँति के भेदभाव का विरोध",
     "meaning_ja": "カースト差別への反対",
@@ -187,6 +271,27 @@
     "sourceTitle": "Aamukh",
     "sourceGenre": "textbook",
     "sourceRegister": "Kendriya Hindi Sansthan"
+  },
+  {
+    "text": "दिमाग़ और दिल में रस्साकशी चल रही है",
+    "normalized": "दिमाग़ और दिल में रस्साकशी चल रही है",
+    "meaning_ja": "頭と心の間で綱引きが起きている",
+    "type": "metaphorical_expression",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_019"
+    ],
+    "sourceTitle": "Mukhabir",
+    "sourceGenre": "novel",
+    "sourceRegister": "literary_prose"
   },
   {
     "text": "पर्याप्त निष्पक्षता और संवेदनशीलता के साथ",
@@ -315,6 +420,69 @@
     "sourceRegister": "academic_prose"
   },
   {
+    "text": "प्रतिकूल परिस्थितियों से जूझ रही हैं",
+    "normalized": "प्रतिकूल परिस्थितियों से जूझ रही हैं",
+    "meaning_ja": "不利な状況と闘っている",
+    "type": "academic_expression",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_021"
+    ],
+    "sourceTitle": "यह पुस्तक क्यों?",
+    "sourceGenre": "textbook",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "text": "बन्धनों का उल्लंघन करने में घबराते हैं",
+    "normalized": "बन्धनों का उल्लंघन करने में घबराते हैं",
+    "meaning_ja": "制約を破ることに不安を覚える",
+    "type": "academic_expression",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_022"
+    ],
+    "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
+    "sourceGenre": "textbook",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "text": "बात का ढब बता रहा था",
+    "normalized": "बात का ढब बता रहा था",
+    "meaning_ja": "話しぶりが物語っていた",
+    "type": "literary_expression",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "犯罪・捜査"
+    ],
+    "sourceIds": [
+      "academic_020"
+    ],
+    "sourceTitle": "Mukhabir",
+    "sourceGenre": "novel",
+    "sourceRegister": "literary_prose"
+  },
+  {
     "text": "बिना पक्षपात किए अध्ययन करना चाहिए",
     "normalized": "बिना पक्षपात किए अध्ययन करना चाहिए",
     "meaning_ja": "偏見なしに研究すべきである",
@@ -336,6 +504,27 @@
     "sourceRegister": "academic_prose"
   },
   {
+    "text": "महिला की प्रजनन शक्ति का प्रतीक",
+    "normalized": "महिला की प्रजनन शक्ति का प्रतीक",
+    "meaning_ja": "女性の生殖能力の象徴",
+    "type": "academic_expression",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_022"
+    ],
+    "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
+    "sourceGenre": "textbook",
+    "sourceRegister": "simple_narrative"
+  },
+  {
     "text": "माया का पर्दा",
     "normalized": "माया का पर्दा",
     "meaning_ja": "幻影の幕、マーヤーによる隔たり",
@@ -355,6 +544,27 @@
     "sourceTitle": "Nirgun",
     "sourceGenre": "textbook",
     "sourceRegister": "academic_prose"
+  },
+  {
+    "text": "माहवारी से कई तरह की मान्यताएँ जुड़ी हैं",
+    "normalized": "माहवारी से कई तरह की मान्यताएं जुड़ी हैं",
+    "meaning_ja": "月経にはさまざまな通念が結びついている",
+    "type": "academic_expression",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_022"
+    ],
+    "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
+    "sourceGenre": "textbook",
+    "sourceRegister": "simple_narrative"
   },
   {
     "text": "राधाकृष्ण के युगल रूप की उपासना",
@@ -460,6 +670,27 @@
     "sourceTitle": "Dharmvir Bharti",
     "sourceGenre": "textbook",
     "sourceRegister": "literary_prose"
+  },
+  {
+    "text": "विरोधाभासी स्थिति कैसे पनपी",
+    "normalized": "विरोधाभासी स्थिति कैसे पनपी",
+    "meaning_ja": "矛盾した状況がどのように生じたのか",
+    "type": "academic_expression",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_022"
+    ],
+    "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
+    "sourceGenre": "textbook",
+    "sourceRegister": "simple_narrative"
   },
   {
     "text": "विश्वास की भी तो एक रचनात्मक भूमिका हो सकती है",
@@ -876,6 +1107,27 @@
     "sourceRegister": "academic_prose"
   },
   {
+    "text": "उचटती सी नजर से देखकर",
+    "normalized": "उचटती सी नजर से देखकर",
+    "meaning_ja": "ちらっとした視線で見て",
+    "type": "literary_expression",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "犯罪・捜査"
+    ],
+    "sourceIds": [
+      "academic_020"
+    ],
+    "sourceTitle": "Mukhabir",
+    "sourceGenre": "novel",
+    "sourceRegister": "literary_prose"
+  },
+  {
     "text": "उसका पति दुनिया का सबसे बड़ा मूर्ख है",
     "normalized": "उसका पति दुनिया का सबसे बड़ा मूर्ख है",
     "meaning_ja": "彼女の夫は世界一の愚か者だ",
@@ -916,6 +1168,27 @@
     "sourceRegister": "simple_narrative"
   },
   {
+    "text": "एक साथ ज़ाहिर हो गये",
+    "normalized": "एक साथ ज़ाहिर हो गये",
+    "meaning_ja": "一斉に現れた、あらわになった",
+    "type": "literary_expression",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_019"
+    ],
+    "sourceTitle": "Mukhabir",
+    "sourceGenre": "novel",
+    "sourceRegister": "literary_prose"
+  },
+  {
     "text": "ऐतिहासिक परिप्रेक्ष्य में विश्लेषण",
     "normalized": "ऐतिहासिक परिप्रेक्ष्य में विश्लेषण",
     "meaning_ja": "歴史的観点からの分析",
@@ -935,6 +1208,27 @@
     "sourceTitle": "Aamukh",
     "sourceGenre": "textbook",
     "sourceRegister": "Kendriya Hindi Sansthan"
+  },
+  {
+    "text": "काम आएगी",
+    "normalized": "काम आएगी",
+    "meaning_ja": "役に立つだろう",
+    "type": "common_expression",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_021"
+    ],
+    "sourceTitle": "यह पुस्तक क्यों?",
+    "sourceGenre": "textbook",
+    "sourceRegister": "simple_narrative"
   },
   {
     "text": "कितनी अच्छी बात है कि उन्होंने मुझे अपने घर बुलाया है",
@@ -1018,6 +1312,90 @@
     "sourceRegister": "literary_prose"
   },
   {
+    "text": "जानकारी के अभाव में",
+    "normalized": "जानकारी के अभाव में",
+    "meaning_ja": "情報の不足により",
+    "type": "academic_expression",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_021"
+    ],
+    "sourceTitle": "यह पुस्तक क्यों?",
+    "sourceGenre": "textbook",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "text": "जिला में धूम मच गई",
+    "normalized": "जिला में धूम मच गई",
+    "meaning_ja": "地区中で大騒ぎになった",
+    "type": "narrative_expression",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "犯罪・捜査"
+    ],
+    "sourceIds": [
+      "academic_020"
+    ],
+    "sourceTitle": "Mukhabir",
+    "sourceGenre": "novel",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "text": "जीते जागते इंसान के बजाये",
+    "normalized": "जीते जागते इंसान के बजाये",
+    "meaning_ja": "生きた人間というよりも",
+    "type": "literary_expression",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_019"
+    ],
+    "sourceTitle": "Mukhabir",
+    "sourceGenre": "novel",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "text": "झेंप मिटाने के लिये",
+    "normalized": "झेंप मिटाने के लिये",
+    "meaning_ja": "恥ずかしさをごまかすために",
+    "type": "literary_expression",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "犯罪・捜査"
+    ],
+    "sourceIds": [
+      "academic_020"
+    ],
+    "sourceTitle": "Mukhabir",
+    "sourceGenre": "novel",
+    "sourceRegister": "literary_prose"
+  },
+  {
     "text": "तकनीकी रूप से सुलभ होना चाहिए",
     "normalized": "तकनीकी रूप से सुलभ होना चाहिए",
     "meaning_ja": "技術的に利用可能でなければならない",
@@ -1037,6 +1415,27 @@
     "sourceTitle": "प्राकृतिक संसाधन एवं उनका उपयोग",
     "sourceGenre": "textbook",
     "sourceRegister": "academic_prose"
+  },
+  {
+    "text": "तीस की तीस सच्ची मुखबिरियाँ",
+    "normalized": "तीस की तीस सच्ची मुखबिरियाँ",
+    "meaning_ja": "三十件すべて本物の密告",
+    "type": "narrative_expression",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "犯罪・捜査"
+    ],
+    "sourceIds": [
+      "academic_020"
+    ],
+    "sourceTitle": "Mukhabir",
+    "sourceGenre": "novel",
+    "sourceRegister": "literary_prose"
   },
   {
     "text": "तुम्हारा स्वागत है",
@@ -1076,6 +1475,27 @@
     ],
     "sourceTitle": "बंदर और मगरमच्छ",
     "sourceGenre": "story",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "text": "दृष्टिकोण से परखना होगा",
+    "normalized": "दृष्टिकोण से परखना होगा",
+    "meaning_ja": "視点から検討しなければならない",
+    "type": "academic_expression",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_022"
+    ],
+    "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
+    "sourceGenre": "textbook",
     "sourceRegister": "simple_narrative"
   },
   {
@@ -1302,6 +1722,27 @@
     "sourceRegister": "simple_narrative"
   },
   {
+    "text": "बड़े से बड़े मुखबिर पर भी ऐसा वक़्त आ ही जाता है",
+    "normalized": "बड़े से बड़े मुखबिर पर भी ऐसा वक़्त आ ही जाता है",
+    "meaning_ja": "どんな大物の密告者にもそういう時は来る",
+    "type": "philosophical_statement",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "犯罪・捜査"
+    ],
+    "sourceIds": [
+      "academic_020"
+    ],
+    "sourceTitle": "Mukhabir",
+    "sourceGenre": "novel",
+    "sourceRegister": "literary_prose"
+  },
+  {
     "text": "बीमारियों का शिकार हो रहे हैं",
     "normalized": "बीमारियों का शिकार हो रहे हैं",
     "meaning_ja": "病気の犠牲になっている",
@@ -1446,6 +1887,27 @@
     "sourceRegister": "academic_prose"
   },
   {
+    "text": "मेरा मुँह छोटा हो गया",
+    "normalized": "मेरा मुँह छोटा हो गया",
+    "meaning_ja": "私は返す言葉を失った、気まずくなった",
+    "type": "idiomatic_expression",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_021"
+    ],
+    "sourceTitle": "यह पुस्तक क्यों?",
+    "sourceGenre": "textbook",
+    "sourceRegister": "simple_narrative"
+  },
+  {
     "text": "मैं अपने एकमात्र दोस्त को कैसे नुकसान पहुँचा सकता हूँ",
     "normalized": "मैं अपने एकमात्र दोस्त को कैसे नुकसान पहुँचा सकता हूँ",
     "meaning_ja": "私は唯一の友人にどうして危害を加えられるだろうか",
@@ -1504,6 +1966,27 @@
     "sourceTitle": "बंदर और मगरमच्छ",
     "sourceGenre": "story",
     "sourceRegister": "simple_narrative"
+  },
+  {
+    "text": "यूँ मालूम होता था",
+    "normalized": "यूँ मालूम होता था",
+    "meaning_ja": "このように思われた、〜のように見えた",
+    "type": "literary_expression",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_019"
+    ],
+    "sourceTitle": "Mukhabir",
+    "sourceGenre": "novel",
+    "sourceRegister": "literary_prose"
   },
   {
     "text": "लोक-प्रचलित विश्वास और विज्ञान के द्वंद्व",
@@ -1874,6 +2357,48 @@
     "sourceTitle": "Aadikaal",
     "sourceGenre": "textbook",
     "sourceRegister": "Kendriya Hindi Sansthan"
+  },
+  {
+    "text": "कोई निशान नज़र न आया",
+    "normalized": "कोई निशान नज़र न आया",
+    "meaning_ja": "何の跡も見えなかった",
+    "type": "narrative_expression",
+    "importance": 3,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_019"
+    ],
+    "sourceTitle": "Mukhabir",
+    "sourceGenre": "novel",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "text": "मेरा परिचय कराया",
+    "normalized": "मेरा परिचय कराया",
+    "meaning_ja": "私を紹介した",
+    "type": "narrative_expression",
+    "importance": 3,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_019"
+    ],
+    "sourceTitle": "Mukhabir",
+    "sourceGenre": "novel",
+    "sourceRegister": "literary_prose"
   },
   {
     "text": "मैं बहुत बीमार हूँ",

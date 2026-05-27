@@ -1,0 +1,903 @@
+[
+  {
+    "word": "सिक्ख",
+    "display": "सिक्ख",
+    "normalized": "सिक्ख",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "シク教徒",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "犯罪・捜査"
+    ],
+    "sourceIds": [
+      "academic_020"
+    ],
+    "sourceTitle": "Mukhabir",
+    "sourceGenre": "novel",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "word": "उचटती नज़र",
+    "display": "उचटती सी नजर",
+    "normalized": "उचटती नजर",
+    "variants": [],
+    "pos": "名詞句",
+    "meaning_ja": "落ち着かない視線、ちらりと見る視線",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "犯罪・捜査"
+    ],
+    "sourceIds": [
+      "academic_020"
+    ],
+    "sourceTitle": "Mukhabir",
+    "sourceGenre": "novel",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "word": "मुखबिरी",
+    "display": "मुखबिरी",
+    "normalized": "मुखबिरी",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "密告、情報提供",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "犯罪・捜査"
+    ],
+    "sourceIds": [
+      "academic_020"
+    ],
+    "sourceTitle": "Mukhabir",
+    "sourceGenre": "novel",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "word": "मुकद्दमा",
+    "display": "मुकद्दमे",
+    "normalized": "मुकद्दमा",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "事件、訴訟",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "犯罪・捜査"
+    ],
+    "sourceIds": [
+      "academic_020"
+    ],
+    "sourceTitle": "Mukhabir",
+    "sourceGenre": "novel",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "word": "इनाम",
+    "display": "इनाम",
+    "normalized": "इनाम",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "報酬、賞金",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "犯罪・捜査"
+    ],
+    "sourceIds": [
+      "academic_020"
+    ],
+    "sourceTitle": "Mukhabir",
+    "sourceGenre": "novel",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "word": "सिफारिश",
+    "display": "सिफारिश",
+    "normalized": "सिफारिश",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "推薦、推挙",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "犯罪・捜査"
+    ],
+    "sourceIds": [
+      "academic_020"
+    ],
+    "sourceTitle": "Mukhabir",
+    "sourceGenre": "novel",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "word": "निगहबान",
+    "display": "निगहबान",
+    "normalized": "निगहबान",
+    "variants": [],
+    "pos": "名詞・形容詞",
+    "meaning_ja": "守護者、見守る者",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "犯罪・捜査"
+    ],
+    "sourceIds": [
+      "academic_020"
+    ],
+    "sourceTitle": "Mukhabir",
+    "sourceGenre": "novel",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "word": "छिलड़",
+    "display": "छिलड़",
+    "normalized": "छिलड़",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "小銭、はした金",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "犯罪・捜査"
+    ],
+    "sourceIds": [
+      "academic_020"
+    ],
+    "sourceTitle": "Mukhabir",
+    "sourceGenre": "novel",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "word": "दुआ",
+    "display": "दुआएँ",
+    "normalized": "दुआ",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "祈り、祝福",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "犯罪・捜査"
+    ],
+    "sourceIds": [
+      "academic_020"
+    ],
+    "sourceTitle": "Mukhabir",
+    "sourceGenre": "novel",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "word": "गड़बड़ी",
+    "display": "गड़बड़ी",
+    "normalized": "गड़बड़ी",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "不具合、失敗、混乱",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "犯罪・捜査"
+    ],
+    "sourceIds": [
+      "academic_020"
+    ],
+    "sourceTitle": "Mukhabir",
+    "sourceGenre": "novel",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "word": "भट्टी",
+    "display": "भट्टियाँ",
+    "normalized": "भट्टी",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "蒸留釜、炉",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "犯罪・捜査"
+    ],
+    "sourceIds": [
+      "academic_020"
+    ],
+    "sourceTitle": "Mukhabir",
+    "sourceGenre": "novel",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "word": "पारी",
+    "display": "पारी",
+    "normalized": "पारी",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "番、順番",
+    "importance": 3,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "犯罪・捜査"
+    ],
+    "sourceIds": [
+      "academic_020"
+    ],
+    "sourceTitle": "Mukhabir",
+    "sourceGenre": "novel",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "word": "निशानदेही",
+    "display": "निशानदेही",
+    "normalized": "निशानदेही",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "場所の特定、指し示し",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "犯罪・捜査"
+    ],
+    "sourceIds": [
+      "academic_020"
+    ],
+    "sourceTitle": "Mukhabir",
+    "sourceGenre": "novel",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "word": "राख",
+    "display": "राख",
+    "normalized": "राख",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "灰",
+    "importance": 3,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "犯罪・捜査"
+    ],
+    "sourceIds": [
+      "academic_020"
+    ],
+    "sourceTitle": "Mukhabir",
+    "sourceGenre": "novel",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "word": "मेंढ",
+    "display": "मेंढ",
+    "normalized": "मेंढ",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "畑の畔",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "犯罪・捜査"
+    ],
+    "sourceIds": [
+      "academic_020"
+    ],
+    "sourceTitle": "Mukhabir",
+    "sourceGenre": "novel",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "word": "दरोगा",
+    "display": "दरोगे",
+    "normalized": "दरोगा",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "警部、巡査部長級の警官",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "犯罪・捜査"
+    ],
+    "sourceIds": [
+      "academic_020"
+    ],
+    "sourceTitle": "Mukhabir",
+    "sourceGenre": "novel",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "word": "खटिया",
+    "display": "खटिया",
+    "normalized": "खटिया",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "簡易ベッド、チャールパーイー",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "犯罪・捜査"
+    ],
+    "sourceIds": [
+      "academic_020"
+    ],
+    "sourceTitle": "Mukhabir",
+    "sourceGenre": "novel",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "word": "गन्ना",
+    "display": "गन्ने",
+    "normalized": "गन्ना",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "サトウキビ",
+    "importance": 3,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "犯罪・捜査"
+    ],
+    "sourceIds": [
+      "academic_020"
+    ],
+    "sourceTitle": "Mukhabir",
+    "sourceGenre": "novel",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "word": "झेंप",
+    "display": "झेंप",
+    "normalized": "झेंप",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "気まずさ、恥ずかしさ",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "犯罪・捜査"
+    ],
+    "sourceIds": [
+      "academic_020"
+    ],
+    "sourceTitle": "Mukhabir",
+    "sourceGenre": "novel",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "word": "डपटना",
+    "display": "डपट",
+    "normalized": "डपटना",
+    "variants": [],
+    "pos": "他動詞",
+    "meaning_ja": "叱りつける",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "犯罪・捜査"
+    ],
+    "sourceIds": [
+      "academic_020"
+    ],
+    "sourceTitle": "Mukhabir",
+    "sourceGenre": "novel",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "word": "ढब",
+    "display": "ढब",
+    "normalized": "ढब",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "やり方、様子、話しぶり",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "犯罪・捜査"
+    ],
+    "sourceIds": [
+      "academic_020"
+    ],
+    "sourceTitle": "Mukhabir",
+    "sourceGenre": "novel",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "word": "तोबा",
+    "display": "तोबा",
+    "normalized": "तोबा",
+    "variants": [],
+    "pos": "間投詞・名詞",
+    "meaning_ja": "なんということだ、悔悛",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "犯罪・捜査"
+    ],
+    "sourceIds": [
+      "academic_020"
+    ],
+    "sourceTitle": "Mukhabir",
+    "sourceGenre": "novel",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "word": "अफ़ीम",
+    "display": "अफीम",
+    "normalized": "अफीम",
+    "variants": [
+      "अफ़ीम"
+    ],
+    "pos": "名詞（女）",
+    "meaning_ja": "アヘン",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "犯罪・捜査"
+    ],
+    "sourceIds": [
+      "academic_020"
+    ],
+    "sourceTitle": "Mukhabir",
+    "sourceGenre": "novel",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "word": "सेर",
+    "display": "सेर",
+    "normalized": "सेर",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "セール（旧重量単位）",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "犯罪・捜査"
+    ],
+    "sourceIds": [
+      "academic_020"
+    ],
+    "sourceTitle": "Mukhabir",
+    "sourceGenre": "novel",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "word": "छटांक",
+    "display": "छटांक",
+    "normalized": "छटांक",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "チャターンク（旧重量単位）",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "犯罪・捜査"
+    ],
+    "sourceIds": [
+      "academic_020"
+    ],
+    "sourceTitle": "Mukhabir",
+    "sourceGenre": "novel",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "word": "शाबाशी",
+    "display": "शाबाशियाँ",
+    "normalized": "शाबाशी",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "称賛、褒賞",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "犯罪・捜査"
+    ],
+    "sourceIds": [
+      "academic_020"
+    ],
+    "sourceTitle": "Mukhabir",
+    "sourceGenre": "novel",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "word": "दिल्लगी",
+    "display": "दिल्लगी",
+    "normalized": "दिल्लगी",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "冗談半分、軽い遊び心",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "犯罪・捜査"
+    ],
+    "sourceIds": [
+      "academic_020"
+    ],
+    "sourceTitle": "Mukhabir",
+    "sourceGenre": "novel",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "word": "दर्जा",
+    "display": "दर्जे",
+    "normalized": "दर्जा",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "等級、クラス",
+    "importance": 3,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "犯罪・捜査"
+    ],
+    "sourceIds": [
+      "academic_020"
+    ],
+    "sourceTitle": "Mukhabir",
+    "sourceGenre": "novel",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "word": "डब्बा",
+    "display": "डब्बे",
+    "normalized": "डब्बा",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "車両、箱",
+    "importance": 3,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "犯罪・捜査"
+    ],
+    "sourceIds": [
+      "academic_020"
+    ],
+    "sourceTitle": "Mukhabir",
+    "sourceGenre": "novel",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "word": "सूटेड-बूटेड",
+    "display": "सूटेड-बूटेड",
+    "normalized": "सूटेड बूटेड",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "きちんとスーツを着た",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "犯罪・捜査"
+    ],
+    "sourceIds": [
+      "academic_020"
+    ],
+    "sourceTitle": "Mukhabir",
+    "sourceGenre": "novel",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "word": "घेरे में लेना",
+    "display": "घेरे में ले लिया",
+    "normalized": "घेरे में लेना",
+    "variants": [],
+    "pos": "動詞句",
+    "meaning_ja": "包囲する、取り囲む",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "犯罪・捜査"
+    ],
+    "sourceIds": [
+      "academic_020"
+    ],
+    "sourceTitle": "Mukhabir",
+    "sourceGenre": "novel",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "word": "तलाशी",
+    "display": "तलाशी",
+    "normalized": "तलाशी",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "捜索、検査",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "犯罪・捜査"
+    ],
+    "sourceIds": [
+      "academic_020"
+    ],
+    "sourceTitle": "Mukhabir",
+    "sourceGenre": "novel",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "word": "खुफ़िया",
+    "display": "खुफ़िया",
+    "normalized": "खुफिया",
+    "variants": [
+      "खुफ़िया"
+    ],
+    "pos": "形容詞",
+    "meaning_ja": "秘密の、隠された",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "犯罪・捜査"
+    ],
+    "sourceIds": [
+      "academic_020"
+    ],
+    "sourceTitle": "Mukhabir",
+    "sourceGenre": "novel",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "word": "पेन्दा",
+    "display": "पेन्दों",
+    "normalized": "पेन्दा",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "底部",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "犯罪・捜査"
+    ],
+    "sourceIds": [
+      "academic_020"
+    ],
+    "sourceTitle": "Mukhabir",
+    "sourceGenre": "novel",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "word": "महकना",
+    "display": "महक रही थी",
+    "normalized": "महकना",
+    "variants": [],
+    "pos": "自動詞",
+    "meaning_ja": "香る、匂う",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "犯罪・捜査"
+    ],
+    "sourceIds": [
+      "academic_020"
+    ],
+    "sourceTitle": "Mukhabir",
+    "sourceGenre": "novel",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "word": "धूम मचना",
+    "display": "धूम मच गई",
+    "normalized": "धूम मचना",
+    "variants": [],
+    "pos": "動詞句",
+    "meaning_ja": "大騒ぎになる",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "犯罪・捜査"
+    ],
+    "sourceIds": [
+      "academic_020"
+    ],
+    "sourceTitle": "Mukhabir",
+    "sourceGenre": "novel",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "word": "ईमानदार",
+    "display": "ईमानदार",
+    "normalized": "ईमानदार",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "誠実な、正直な",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "犯罪・捜査"
+    ],
+    "sourceIds": [
+      "academic_020"
+    ],
+    "sourceTitle": "Mukhabir",
+    "sourceGenre": "novel",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "word": "मोती",
+    "display": "मोती",
+    "normalized": "मोती",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "真珠",
+    "importance": 3,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "犯罪・捜査"
+    ],
+    "sourceIds": [
+      "academic_020"
+    ],
+    "sourceTitle": "Mukhabir",
+    "sourceGenre": "novel",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "word": "चंडूवाला",
+    "display": "चंडूवाले",
+    "normalized": "चंडूवाला",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "阿片常習者、阿片屋",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "犯罪・捜査"
+    ],
+    "sourceIds": [
+      "academic_020"
+    ],
+    "sourceTitle": "Mukhabir",
+    "sourceGenre": "novel",
+    "sourceRegister": "literary_prose"
+  }
+]

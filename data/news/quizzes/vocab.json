@@ -208,6 +208,19 @@
     "quizWeight": 13
   },
   {
+    "word": "गिरफ्तार",
+    "display": "गिरफ्तार",
+    "normalized": "गिरफ्तार",
+    "meaning_ja": "逮捕された",
+    "pos": "形容詞・分詞",
+    "category": "事件・事故",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 4,
+    "frequency": 4,
+    "quizWeight": 13
+  },
+  {
     "word": "गिरफ्तारी",
     "display": "गिरफ्तारी",
     "normalized": "गिरफ्तारी",
@@ -426,19 +439,6 @@
     "importance": 3,
     "sourceCount": 4,
     "frequency": 4,
-    "quizWeight": 12
-  },
-  {
-    "word": "गिरफ्तार",
-    "display": "गिरफ्तार",
-    "normalized": "गिरफ्तार",
-    "meaning_ja": "逮捕された",
-    "pos": "形容詞・分詞",
-    "category": "事件・事故",
-    "difficulty": 3,
-    "importance": 4,
-    "sourceCount": 3,
-    "frequency": 3,
     "quizWeight": 12
   },
   {
@@ -1196,6 +1196,19 @@
     "quizWeight": 11
   },
   {
+    "word": "फंसना",
+    "display": "फंसना",
+    "normalized": "फंसना",
+    "meaning_ja": "閉じ込められる、巻き込まれる、抜け出せなくなる",
+    "pos": "動詞",
+    "category": "重要動詞",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 2,
+    "frequency": 2,
+    "quizWeight": 11
+  },
+  {
     "word": "बढ़ोतरी",
     "display": "बढ़ोतरी",
     "normalized": "बढ़ोतरी",
@@ -1863,7 +1876,7 @@
     "display": "आसार",
     "normalized": "आसार",
     "meaning_ja": "兆候、見込み、可能性",
-    "pos": "名詞（男・複）",
+    "pos": "名詞（男）",
     "category": "調査・統計",
     "difficulty": 3,
     "importance": 4,
@@ -2184,6 +2197,19 @@
     "quizWeight": 10
   },
   {
+    "word": "घटिया",
+    "display": "घटिया",
+    "normalized": "घटिया",
+    "meaning_ja": "質の悪い、粗悪な",
+    "pos": "形容詞",
+    "category": "事件・事故",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 10
+  },
+  {
     "word": "घाटा",
     "display": "घाटा",
     "normalized": "घाटा",
@@ -2220,6 +2246,19 @@
     "importance": 4,
     "sourceCount": 1,
     "frequency": 1,
+    "quizWeight": 10
+  },
+  {
+    "word": "छापा",
+    "display": "छापा",
+    "normalized": "छापा",
+    "meaning_ja": "強制捜索、ガサ入れ",
+    "pos": "名詞（男）",
+    "category": "事件・事故",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 2,
+    "frequency": 2,
     "quizWeight": 10
   },
   {
@@ -2730,32 +2769,6 @@
     "quizWeight": 10
   },
   {
-    "word": "फंसना",
-    "display": "फंसना",
-    "normalized": "फंसना",
-    "meaning_ja": "はまり込む、巻き込まれる、抜け出せなくなる",
-    "pos": "動詞",
-    "category": "重要動詞",
-    "difficulty": 3,
-    "importance": 4,
-    "sourceCount": 1,
-    "frequency": 1,
-    "quizWeight": 10
-  },
-  {
-    "word": "फंसना",
-    "display": "फंसना",
-    "normalized": "फंसना",
-    "meaning_ja": "閉じ込められる、動けなくなる",
-    "pos": "自動詞",
-    "category": "事件・事故",
-    "difficulty": 3,
-    "importance": 4,
-    "sourceCount": 1,
-    "frequency": 1,
-    "quizWeight": 10
-  },
-  {
     "word": "फरार",
     "display": "फरार",
     "normalized": "फरार",
@@ -3048,6 +3061,19 @@
     "meaning_ja": "首謀者、黒幕",
     "pos": "名詞（男）",
     "category": "事件・事故",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 10
+  },
+  {
+    "word": "मुनाफा",
+    "display": "मुनाफा",
+    "normalized": "मुनाफा",
+    "meaning_ja": "利益、儲け",
+    "pos": "名詞（男）",
+    "category": "労働・経済",
     "difficulty": 3,
     "importance": 4,
     "sourceCount": 1,
@@ -3679,6 +3705,19 @@
     "quizWeight": 10
   },
   {
+    "word": "हानिकारक",
+    "display": "हानिकारक",
+    "normalized": "हानिकारक",
+    "meaning_ja": "有害な",
+    "pos": "形容詞",
+    "category": "医療・健康",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 10
+  },
+  {
     "word": "अंजाम देना",
     "display": "अंजाम देना",
     "normalized": "अंजाम_देना",
@@ -4030,6 +4069,19 @@
     "quizWeight": 9
   },
   {
+    "word": "उपयोग योग्य",
+    "display": "उपयोग योग्य",
+    "normalized": "उपयोग_योग्य",
+    "meaning_ja": "使用可能な、利用に適した",
+    "pos": "形容詞句",
+    "category": "行政・制度",
+    "difficulty": 3,
+    "importance": 3,
+    "sourceCount": 2,
+    "frequency": 2,
+    "quizWeight": 9
+  },
+  {
     "word": "ओलावृष्टि",
     "display": "ओलावृष्टि",
     "normalized": "ओलावृष्टि",
@@ -4193,6 +4245,19 @@
     "pos": "名詞（男）",
     "category": "行政・制度",
     "difficulty": 5,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "खाद्य सुरक्षा विभाग",
+    "display": "खाद्य सुरक्षा विभाग",
+    "normalized": "खाद्य_सुरक्षा_विभाग",
+    "meaning_ja": "食品安全局、食品安全部門",
+    "pos": "固定複合語",
+    "category": "医療・健康",
+    "difficulty": 4,
     "importance": 4,
     "sourceCount": 1,
     "frequency": 1,
@@ -4498,19 +4563,6 @@
     "quizWeight": 9
   },
   {
-    "word": "छापा",
-    "display": "छापा",
-    "normalized": "छापा",
-    "meaning_ja": "強制捜索、ガサ入れ",
-    "pos": "名詞（男）",
-    "category": "事件・事故",
-    "difficulty": 4,
-    "importance": 4,
-    "sourceCount": 1,
-    "frequency": 1,
-    "quizWeight": 9
-  },
-  {
     "word": "जबरदस्त",
     "display": "जबरदस्त",
     "normalized": "जबरदस्त",
@@ -4519,6 +4571,19 @@
     "category": "社会・公共",
     "difficulty": 2,
     "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "जब्त",
+    "display": "जब्त",
+    "normalized": "जब्त",
+    "meaning_ja": "押収",
+    "pos": "名詞（男）",
+    "category": "選挙・裁判",
+    "difficulty": 4,
+    "importance": 4,
     "sourceCount": 1,
     "frequency": 1,
     "quizWeight": 9
@@ -5499,6 +5564,19 @@
     "quizWeight": 9
   },
   {
+    "word": "मालिक",
+    "display": "मालिक",
+    "normalized": "मालिक",
+    "meaning_ja": "所有者、経営者",
+    "pos": "名詞（男）",
+    "category": "事件・事故",
+    "difficulty": 2,
+    "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
     "word": "माहौल",
     "display": "माहौल",
     "normalized": "माहौल",
@@ -5507,6 +5585,19 @@
     "category": "一般ニュース語彙",
     "difficulty": 2,
     "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "मिलावटी",
+    "display": "मिलावटी",
+    "normalized": "मिलावटी",
+    "meaning_ja": "混ぜ物をした、粗悪な",
+    "pos": "形容詞",
+    "category": "事件・事故",
+    "difficulty": 4,
+    "importance": 4,
     "sourceCount": 1,
     "frequency": 1,
     "quizWeight": 9
@@ -6435,19 +6526,6 @@
     "quizWeight": 8
   },
   {
-    "word": "उपयोग योग्य",
-    "display": "उपयोग योग्य",
-    "normalized": "उपयोग_योग्य",
-    "meaning_ja": "使用可能な、利用に適した",
-    "pos": "形容詞句",
-    "category": "行政・制度",
-    "difficulty": 3,
-    "importance": 3,
-    "sourceCount": 1,
-    "frequency": 1,
-    "quizWeight": 8
-  },
-  {
     "word": "एक्सप्रेस-वे",
     "display": "एक्सप्रेसवे",
     "normalized": "एक्सप्रेसवे",
@@ -7241,6 +7319,19 @@
     "quizWeight": 8
   },
   {
+    "word": "साप्ताहिक",
+    "display": "साप्ताहिक",
+    "normalized": "साप्ताहिक",
+    "meaning_ja": "毎週の、週刊の",
+    "pos": "形容詞",
+    "category": "一般ニュース語彙",
+    "difficulty": 3,
+    "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 8
+  },
+  {
     "word": "सार्वजनिक स्थान",
     "display": "सार्वजनिक स्थान",
     "normalized": "सार्वजनिक_स्थान",
@@ -7839,6 +7930,19 @@
     "quizWeight": 7
   },
   {
+    "word": "रेहड़ी",
+    "display": "रेहड़ी",
+    "normalized": "रेहड़ी",
+    "meaning_ja": "屋台、手押し車",
+    "pos": "名詞（女）",
+    "category": "労働・経済",
+    "difficulty": 4,
+    "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 7
+  },
+  {
     "word": "रोना-धोना",
     "display": "रोना-धोना",
     "normalized": "रोनाधोना",
@@ -8253,5 +8357,57 @@
     "sourceCount": 1,
     "frequency": 1,
     "quizWeight": 6
+  },
+  {
+    "word": "चावल का चूरा",
+    "display": "चावल का चूरा",
+    "normalized": "चावल_का_चूरा",
+    "meaning_ja": "米粉、砕いた米粉末",
+    "pos": "固定複合語",
+    "category": "医療・健康",
+    "difficulty": 4,
+    "importance": 2,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 5
+  },
+  {
+    "word": "डंठल",
+    "display": "डंठल",
+    "normalized": "डंठल",
+    "meaning_ja": "茎、へた",
+    "pos": "名詞（男）",
+    "category": "一般ニュース語彙",
+    "difficulty": 4,
+    "importance": 2,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 5
+  },
+  {
+    "word": "डंडी",
+    "display": "डंडी",
+    "normalized": "डंडी",
+    "meaning_ja": "茎、棒状部分",
+    "pos": "名詞（女）",
+    "category": "一般ニュース語彙",
+    "difficulty": 4,
+    "importance": 2,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 5
+  },
+  {
+    "word": "भूतल",
+    "display": "भूतल",
+    "normalized": "भूतल",
+    "meaning_ja": "地上階、1階",
+    "pos": "名詞（男）",
+    "category": "一般ニュース語彙",
+    "difficulty": 4,
+    "importance": 2,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 5
   }
 ]
