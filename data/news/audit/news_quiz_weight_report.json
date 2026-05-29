@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-05-27T23:29:01.680Z",
+  "generatedAt": "2026-05-29T01:08:36.978Z",
   "input": "data\\news\\vocab_master.json",
   "output": "data\\news\\vocab_master_with_quiz_weight.json",
-  "totalEntries": 659,
-  "changedCount": 144,
-  "unchangedCount": 515,
+  "totalEntries": 673,
+  "changedCount": 153,
+  "unchangedCount": 520,
   "quizWeightSummary": {
     "1": 0,
     "2": 4,
-    "3": 527,
+    "3": 541,
     "4": 90,
     "5": 38
   },
@@ -124,11 +124,11 @@
       }
     },
     "文化・宗教": {
-      "total": 43,
+      "total": 57,
       "quizWeight": {
         "1": 0,
         "2": 0,
-        "3": 43,
+        "3": 57,
         "4": 0,
         "5": 0
       }
@@ -2278,6 +2278,132 @@
       "word": "कथित तौर पर",
       "normalized": "कथित_तौर_पर",
       "category": "選挙・裁判",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 659,
+      "word": "शायर",
+      "normalized": "शायर",
+      "category": "文化・宗教",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 660,
+      "word": "शायरी",
+      "normalized": "शायरी",
+      "category": "文化・宗教",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 661,
+      "word": "महफिल",
+      "normalized": "महफिल",
+      "category": "文化・宗教",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 662,
+      "word": "अदबी",
+      "normalized": "अदबी",
+      "category": "文化・宗教",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 667,
+      "word": "जमीर",
+      "normalized": "ज़मीर",
+      "category": "文化・宗教",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 668,
+      "word": "सादगी",
+      "normalized": "सादगी",
+      "category": "文化・宗教",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 669,
+      "word": "अशआर",
+      "normalized": "अशआर",
+      "category": "文化・宗教",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 670,
+      "word": "अल्फाज",
+      "normalized": "अल्फ़ाज़",
+      "category": "文化・宗教",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 671,
+      "word": "झकझोरना",
+      "normalized": "झकझोरना",
+      "category": "文化・宗教",
       "importance": 4,
       "sourceCount": 1,
       "frequency": 1,
@@ -11673,6 +11799,202 @@
       "sourceCount": 1,
       "frequency": 1,
       "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 659,
+      "word": "शायर",
+      "normalized": "शायर",
+      "category": "文化・宗教",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 660,
+      "word": "शायरी",
+      "normalized": "शायरी",
+      "category": "文化・宗教",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 661,
+      "word": "महफिल",
+      "normalized": "महफिल",
+      "category": "文化・宗教",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 662,
+      "word": "अदबी",
+      "normalized": "अदबी",
+      "category": "文化・宗教",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 663,
+      "word": "कमसिन",
+      "normalized": "कमसिन",
+      "category": "文化・宗教",
+      "importance": 3,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 3,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 664,
+      "word": "अक्कासी",
+      "normalized": "अक्कासी",
+      "category": "文化・宗教",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 3,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 665,
+      "word": "आला",
+      "normalized": "आला",
+      "category": "文化・宗教",
+      "importance": 3,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 3,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 666,
+      "word": "माहिर",
+      "normalized": "माहिर",
+      "category": "文化・宗教",
+      "importance": 3,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 3,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 667,
+      "word": "जमीर",
+      "normalized": "ज़मीर",
+      "category": "文化・宗教",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 668,
+      "word": "सादगी",
+      "normalized": "सादगी",
+      "category": "文化・宗教",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 669,
+      "word": "अशआर",
+      "normalized": "अशआर",
+      "category": "文化・宗教",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 670,
+      "word": "अल्फाज",
+      "normalized": "अल्फ़ाज़",
+      "category": "文化・宗教",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 671,
+      "word": "झकझोरना",
+      "normalized": "झकझोरना",
+      "category": "文化・宗教",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 672,
+      "word": "भारी-भरकम",
+      "normalized": "भारी-भरकम",
+      "category": "文化・宗教",
+      "importance": 3,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 3,
       "newQuizWeight": 3,
       "reason": [
         "base_3"

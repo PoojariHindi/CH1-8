@@ -2,1183 +2,13 @@
   "summary": {
     "candidateFiles": 23,
     "totalCandidates": 726,
-    "newCandidates": 48,
-    "existingCandidates": 678,
+    "newCandidates": 0,
+    "existingCandidates": 726,
     "duplicateCandidates": 0,
     "hardStopwords": 0,
     "softStopwordReviews": 0
   },
-  "newCandidates": [
-    {
-      "word": "अपवित्र",
-      "display": "अपवित्र",
-      "normalized": "अपवित्र",
-      "variants": [],
-      "pos": "形容詞",
-      "meaning_ja": "不浄な、神聖でない",
-      "importance": 5,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "性教育",
-        "社会",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_022"
-      ],
-      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
-      "sourceGenre": "textbook",
-      "sourceRegister": "simple_narrative",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "उर्वरता",
-      "display": "उर्वरता",
-      "normalized": "उर्वरता",
-      "variants": [],
-      "pos": "名詞（女）",
-      "meaning_ja": "肥沃さ、豊穣性",
-      "importance": 5,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "性教育",
-        "社会",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_022"
-      ],
-      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
-      "sourceGenre": "textbook",
-      "sourceRegister": "simple_narrative",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "उलझन",
-      "display": "उलझन",
-      "normalized": "उलझन",
-      "variants": [],
-      "pos": "名詞（女）",
-      "meaning_ja": "混乱、困惑、もつれ",
-      "importance": 5,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "性教育",
-        "社会",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_022"
-      ],
-      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
-      "sourceGenre": "textbook",
-      "sourceRegister": "simple_narrative",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "उल्लंघन",
-      "display": "उल्लंघन",
-      "normalized": "उल्लंघन",
-      "variants": [],
-      "pos": "名詞（男）",
-      "meaning_ja": "違反、侵犯、破ること",
-      "importance": 5,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "性教育",
-        "社会",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_022"
-      ],
-      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
-      "sourceGenre": "textbook",
-      "sourceRegister": "simple_narrative",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "घृणा",
-      "display": "घृणा",
-      "normalized": "घृणा",
-      "variants": [],
-      "pos": "名詞（女）",
-      "meaning_ja": "嫌悪、憎悪",
-      "importance": 5,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "性教育",
-        "社会",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_022"
-      ],
-      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
-      "sourceGenre": "textbook",
-      "sourceRegister": "simple_narrative",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "छवि",
-      "display": "छवि",
-      "normalized": "छवि",
-      "variants": [],
-      "pos": "名詞（女）",
-      "meaning_ja": "イメージ、像",
-      "importance": 5,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "性教育",
-        "社会",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_022"
-      ],
-      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
-      "sourceGenre": "textbook",
-      "sourceRegister": "simple_narrative",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "छुआ-छूत",
-      "display": "छुआ-छूत",
-      "normalized": "छुआछूत",
-      "variants": [
-        "छुआछूत"
-      ],
-      "pos": "名詞（女）",
-      "meaning_ja": "不可触、接触忌避、触れることへの差別的禁忌",
-      "importance": 5,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "性教育",
-        "社会",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_022"
-      ],
-      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
-      "sourceGenre": "textbook",
-      "sourceRegister": "simple_narrative",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "जटिल",
-      "display": "जटिल",
-      "normalized": "जटिल",
-      "variants": [],
-      "pos": "形容詞",
-      "meaning_ja": "複雑な",
-      "importance": 5,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "性教育",
-        "社会",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_022"
-      ],
-      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
-      "sourceGenre": "textbook",
-      "sourceRegister": "simple_narrative",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "ढोना",
-      "display": "ढोना",
-      "normalized": "ढोना",
-      "variants": [],
-      "pos": "他動詞",
-      "meaning_ja": "背負う、運び続ける",
-      "importance": 5,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "性教育",
-        "社会",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_022"
-      ],
-      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
-      "sourceGenre": "textbook",
-      "sourceRegister": "simple_narrative",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "दमन",
-      "display": "दमन",
-      "normalized": "दमन",
-      "variants": [],
-      "pos": "名詞（男）",
-      "meaning_ja": "抑圧、弾圧",
-      "importance": 5,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "性教育",
-        "社会",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_022"
-      ],
-      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
-      "sourceGenre": "textbook",
-      "sourceRegister": "simple_narrative",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "दूषित",
-      "display": "दूषित",
-      "normalized": "दूषित",
-      "variants": [],
-      "pos": "形容詞",
-      "meaning_ja": "汚染された、不浄な",
-      "importance": 5,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "性教育",
-        "社会",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_022"
-      ],
-      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
-      "sourceGenre": "textbook",
-      "sourceRegister": "simple_narrative",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "धारणा",
-      "display": "धारणा",
-      "normalized": "धारणा",
-      "variants": [],
-      "pos": "名詞（女）",
-      "meaning_ja": "考え、観念、認識",
-      "importance": 5,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "性教育",
-        "社会",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_022"
-      ],
-      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
-      "sourceGenre": "textbook",
-      "sourceRegister": "simple_narrative",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "नीचा दिखाना",
-      "display": "नीचा दिखाना",
-      "normalized": "नीचा दिखाना",
-      "variants": [],
-      "pos": "動詞句",
-      "meaning_ja": "低く見せる、貶める",
-      "importance": 5,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "性教育",
-        "社会",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_022"
-      ],
-      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
-      "sourceGenre": "textbook",
-      "sourceRegister": "simple_narrative",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "परखना",
-      "display": "परखना",
-      "normalized": "परखना",
-      "variants": [],
-      "pos": "他動詞",
-      "meaning_ja": "検討する、見極める",
-      "importance": 5,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "性教育",
-        "社会",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_022"
-      ],
-      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
-      "sourceGenre": "textbook",
-      "sourceRegister": "simple_narrative",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "पहलुओं",
-      "display": "पहलू",
-      "normalized": "पहलू",
-      "variants": [],
-      "pos": "名詞（男）",
-      "meaning_ja": "側面、観点",
-      "importance": 5,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "性教育",
-        "社会",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_022"
-      ],
-      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
-      "sourceGenre": "textbook",
-      "sourceRegister": "simple_narrative",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "प्रजनन शक्ति",
-      "display": "प्रजनन शक्ति",
-      "normalized": "प्रजनन शक्ति",
-      "variants": [],
-      "pos": "名詞句",
-      "meaning_ja": "生殖能力",
-      "importance": 5,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "性教育",
-        "社会",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_022"
-      ],
-      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
-      "sourceGenre": "textbook",
-      "sourceRegister": "simple_narrative",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "प्रतीक",
-      "display": "प्रतीक",
-      "normalized": "प्रतीक",
-      "variants": [],
-      "pos": "名詞（男）",
-      "meaning_ja": "象徴、シンボル",
-      "importance": 5,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "性教育",
-        "社会",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_022"
-      ],
-      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
-      "sourceGenre": "textbook",
-      "sourceRegister": "simple_narrative",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "प्राकृतिक प्रक्रिया",
-      "display": "प्राकृतिक प्रक्रिया",
-      "normalized": "प्राकृतिक प्रक्रिया",
-      "variants": [],
-      "pos": "名詞句",
-      "meaning_ja": "自然な過程、自然なプロセス",
-      "importance": 5,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "性教育",
-        "社会",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_022"
-      ],
-      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
-      "sourceGenre": "textbook",
-      "sourceRegister": "simple_narrative",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "बन्धन",
-      "display": "बंधन",
-      "normalized": "बंधन",
-      "variants": [
-        "बंधन",
-        "बन्धन"
-      ],
-      "pos": "名詞（男）",
-      "meaning_ja": "制約、束縛",
-      "importance": 5,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "性教育",
-        "社会",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_022"
-      ],
-      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
-      "sourceGenre": "textbook",
-      "sourceRegister": "simple_narrative",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "बर्ताव",
-      "display": "बर्ताव",
-      "normalized": "बर्ताव",
-      "variants": [],
-      "pos": "名詞（男）",
-      "meaning_ja": "扱い、ふるまい",
-      "importance": 5,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "性教育",
-        "社会",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_022"
-      ],
-      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
-      "sourceGenre": "textbook",
-      "sourceRegister": "simple_narrative",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "रक्त स्राव",
-      "display": "रक्त स्राव",
-      "normalized": "रक्त स्राव",
-      "variants": [],
-      "pos": "名詞句",
-      "meaning_ja": "出血、血の流出",
-      "importance": 5,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "性教育",
-        "社会",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_022"
-      ],
-      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
-      "sourceGenre": "textbook",
-      "sourceRegister": "simple_narrative",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "रीति-रिवाज़",
-      "display": "रीति-रिवाज़",
-      "normalized": "रीति रिवाज",
-      "variants": [
-        "रीति रिवाज",
-        "रीति-रिवाज"
-      ],
-      "pos": "名詞（男）",
-      "meaning_ja": "慣習、しきたり",
-      "importance": 5,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "性教育",
-        "社会",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_022"
-      ],
-      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
-      "sourceGenre": "textbook",
-      "sourceRegister": "simple_narrative",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "लादे गए",
-      "display": "लादना",
-      "normalized": "लादना",
-      "variants": [],
-      "pos": "他動詞",
-      "meaning_ja": "押しつける、背負わせる",
-      "importance": 5,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "性教育",
-        "社会",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_022"
-      ],
-      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
-      "sourceGenre": "textbook",
-      "sourceRegister": "simple_narrative",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "विकृत",
-      "display": "विकृत",
-      "normalized": "विकृत",
-      "variants": [],
-      "pos": "形容詞",
-      "meaning_ja": "歪められた、歪んだ",
-      "importance": 5,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "性教育",
-        "社会",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_022"
-      ],
-      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
-      "sourceGenre": "textbook",
-      "sourceRegister": "simple_narrative",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "विडम्बना",
-      "display": "विडम्बना",
-      "normalized": "विडंबना",
-      "variants": [
-        "विडंबना",
-        "विडम्बना"
-      ],
-      "pos": "名詞（女）",
-      "meaning_ja": "皮肉、矛盾した状況",
-      "importance": 5,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "性教育",
-        "社会",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_022"
-      ],
-      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
-      "sourceGenre": "textbook",
-      "sourceRegister": "simple_narrative",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "विरोधाभास",
-      "display": "विरोधाभास",
-      "normalized": "विरोधाभास",
-      "variants": [],
-      "pos": "名詞（男）",
-      "meaning_ja": "矛盾、相反",
-      "importance": 5,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "性教育",
-        "社会",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_022"
-      ],
-      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
-      "sourceGenre": "textbook",
-      "sourceRegister": "simple_narrative",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "विरोधाभासी",
-      "display": "विरोधाभासी",
-      "normalized": "विरोधाभासी",
-      "variants": [],
-      "pos": "形容詞",
-      "meaning_ja": "矛盾した、相反する",
-      "importance": 5,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "性教育",
-        "社会",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_022"
-      ],
-      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
-      "sourceGenre": "textbook",
-      "sourceRegister": "simple_narrative",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "व्यक्तित्व",
-      "display": "व्यक्तित्व",
-      "normalized": "व्यक्तित्व",
-      "variants": [],
-      "pos": "名詞（男）",
-      "meaning_ja": "人格、個性",
-      "importance": 5,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "性教育",
-        "社会",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_022"
-      ],
-      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
-      "sourceGenre": "textbook",
-      "sourceRegister": "simple_narrative",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "शोषण",
-      "display": "शोषण",
-      "normalized": "शोषण",
-      "variants": [],
-      "pos": "名詞（男）",
-      "meaning_ja": "搾取",
-      "importance": 5,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "性教育",
-        "社会",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_022"
-      ],
-      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
-      "sourceGenre": "textbook",
-      "sourceRegister": "simple_narrative",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "हानिकारक",
-      "display": "हानिकारक",
-      "normalized": "हानिकारक",
-      "variants": [],
-      "pos": "形容詞",
-      "meaning_ja": "有害な",
-      "importance": 5,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "性教育",
-        "社会",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_022"
-      ],
-      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
-      "sourceGenre": "textbook",
-      "sourceRegister": "simple_narrative",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "हीन",
-      "display": "हीन",
-      "normalized": "हीन",
-      "variants": [],
-      "pos": "形容詞",
-      "meaning_ja": "劣った、低い",
-      "importance": 5,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "性教育",
-        "社会",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_022"
-      ],
-      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
-      "sourceGenre": "textbook",
-      "sourceRegister": "simple_narrative",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "उपाधियाँ",
-      "display": "उपाधि",
-      "normalized": "उपाधि",
-      "variants": [],
-      "pos": "名詞（女）",
-      "meaning_ja": "称号、肩書き",
-      "importance": 4,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "性教育",
-        "社会",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_022"
-      ],
-      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
-      "sourceGenre": "textbook",
-      "sourceRegister": "simple_narrative",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "एहसास",
-      "display": "एहसास",
-      "normalized": "एहसास",
-      "variants": [],
-      "pos": "名詞（男）",
-      "meaning_ja": "気づき、実感",
-      "importance": 4,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "性教育",
-        "社会",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_022"
-      ],
-      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
-      "sourceGenre": "textbook",
-      "sourceRegister": "simple_narrative",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "घबराना",
-      "display": "घबराना",
-      "normalized": "घबराना",
-      "variants": [],
-      "pos": "自動詞",
-      "meaning_ja": "不安になる、慌てる",
-      "importance": 4,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "性教育",
-        "社会",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_022"
-      ],
-      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
-      "sourceGenre": "textbook",
-      "sourceRegister": "simple_narrative",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "घोर",
-      "display": "घोर",
-      "normalized": "घोर",
-      "variants": [],
-      "pos": "形容詞",
-      "meaning_ja": "ひどい、深刻な、非常な",
-      "importance": 4,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "性教育",
-        "社会",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_022"
-      ],
-      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
-      "sourceGenre": "textbook",
-      "sourceRegister": "simple_narrative",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "छिड़का",
-      "display": "छिड़कना",
-      "normalized": "छिड़कना",
-      "variants": [],
-      "pos": "他動詞",
-      "meaning_ja": "撒く、振りかける",
-      "importance": 4,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "性教育",
-        "社会",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_022"
-      ],
-      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
-      "sourceGenre": "textbook",
-      "sourceRegister": "simple_narrative",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "जश्न",
-      "display": "जश्न",
-      "normalized": "जश्न",
-      "variants": [],
-      "pos": "名詞（男）",
-      "meaning_ja": "祝祭、祝い",
-      "importance": 4,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "性教育",
-        "社会",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_022"
-      ],
-      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
-      "sourceGenre": "textbook",
-      "sourceRegister": "simple_narrative",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "प्रचलित",
-      "display": "प्रचलित",
-      "normalized": "प्रचलित",
-      "variants": [],
-      "pos": "形容詞",
-      "meaning_ja": "広く行われている、流通している",
-      "importance": 4,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "性教育",
-        "社会",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_022"
-      ],
-      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
-      "sourceGenre": "textbook",
-      "sourceRegister": "simple_narrative",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "प्राणी",
-      "display": "प्राणी",
-      "normalized": "प्राणी",
-      "variants": [],
-      "pos": "名詞（男）",
-      "meaning_ja": "生き物、存在",
-      "importance": 4,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "性教育",
-        "社会",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_022"
-      ],
-      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
-      "sourceGenre": "textbook",
-      "sourceRegister": "simple_narrative",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "फिज़ूल",
-      "display": "फिज़ूल",
-      "normalized": "फिजूल",
-      "variants": [
-        "फिजूल"
-      ],
-      "pos": "形容詞",
-      "meaning_ja": "無駄な、くだらない",
-      "importance": 4,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "性教育",
-        "社会",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_022"
-      ],
-      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
-      "sourceGenre": "textbook",
-      "sourceRegister": "simple_narrative",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "महिला जाति",
-      "display": "महिला जाति",
-      "normalized": "महिला जाति",
-      "variants": [],
-      "pos": "名詞句",
-      "meaning_ja": "女性全体、女性という集団",
-      "importance": 4,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "性教育",
-        "社会",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_022"
-      ],
-      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
-      "sourceGenre": "textbook",
-      "sourceRegister": "simple_narrative",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "मुरझा जाएँगे",
-      "display": "मुरझाना",
-      "normalized": "मुरझाना",
-      "variants": [],
-      "pos": "自動詞",
-      "meaning_ja": "しおれる、萎れる",
-      "importance": 4,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "性教育",
-        "社会",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_022"
-      ],
-      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
-      "sourceGenre": "textbook",
-      "sourceRegister": "simple_narrative",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "रोज़मर्रा",
-      "display": "रोज़मर्रा",
-      "normalized": "रोजमर्रा",
-      "variants": [
-        "रोजमर्रा"
-      ],
-      "pos": "名詞・形容詞",
-      "meaning_ja": "日常、日常的な",
-      "importance": 4,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "性教育",
-        "社会",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_022"
-      ],
-      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
-      "sourceGenre": "textbook",
-      "sourceRegister": "simple_narrative",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "शृंगार",
-      "display": "शृंगार",
-      "normalized": "शृंगार",
-      "variants": [],
-      "pos": "名詞（男）",
-      "meaning_ja": "装い、化粧、飾り立て",
-      "importance": 4,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "性教育",
-        "社会",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_022"
-      ],
-      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
-      "sourceGenre": "textbook",
-      "sourceRegister": "simple_narrative",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "श्रेष्ठ",
-      "display": "श्रेष्ठ",
-      "normalized": "श्रेष्ठ",
-      "variants": [],
-      "pos": "形容詞",
-      "meaning_ja": "優れた、上位の",
-      "importance": 4,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "性教育",
-        "社会",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_022"
-      ],
-      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
-      "sourceGenre": "textbook",
-      "sourceRegister": "simple_narrative",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "सच्चाई",
-      "display": "सच्चाई",
-      "normalized": "सच्चाई",
-      "variants": [],
-      "pos": "名詞（女）",
-      "meaning_ja": "真実、実情",
-      "importance": 4,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "性教育",
-        "社会",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_022"
-      ],
-      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
-      "sourceGenre": "textbook",
-      "sourceRegister": "simple_narrative",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "सहारा",
-      "display": "सहारा",
-      "normalized": "सहारा",
-      "variants": [],
-      "pos": "名詞（男）",
-      "meaning_ja": "支え、助け",
-      "importance": 4,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "性教育",
-        "社会",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_022"
-      ],
-      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
-      "sourceGenre": "textbook",
-      "sourceRegister": "simple_narrative",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "बरतन",
-      "display": "बरतन",
-      "normalized": "बरतन",
-      "variants": [
-        "बर्तन"
-      ],
-      "pos": "名詞（男）",
-      "meaning_ja": "器、容器",
-      "importance": 3,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "性教育",
-        "社会",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_022"
-      ],
-      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
-      "sourceGenre": "textbook",
-      "sourceRegister": "simple_narrative",
-      "audit": "new_candidate"
-    }
-  ],
+  "newCandidates": [],
   "existingCandidates": [
     {
       "word": "सत्संगति",
@@ -1503,7 +333,7 @@
       "audit": "existing_in_master"
     },
     {
-      "word": "बीमारियाँ",
+      "word": "बीमारी",
       "display": "बीमारी",
       "normalized": "बीमारी",
       "variants": [],
@@ -15730,7 +14560,7 @@
     },
     {
       "word": "भट्टी",
-      "display": "भट्टियाँ",
+      "display": "भट्टी",
       "normalized": "भट्टी",
       "variants": [],
       "pos": "名詞（女）",
@@ -15898,7 +14728,7 @@
     },
     {
       "word": "गन्ना",
-      "display": "गन्ने",
+      "display": "गन्ना",
       "normalized": "गन्ना",
       "variants": [],
       "pos": "名詞（男）",
@@ -16092,7 +14922,7 @@
     },
     {
       "word": "शाबाशी",
-      "display": "शाबाशियाँ",
+      "display": "शाबाशी",
       "normalized": "शाबाशी",
       "variants": [],
       "pos": "名詞（女）",
@@ -16310,7 +15140,7 @@
     },
     {
       "word": "महकना",
-      "display": "महक रही थी",
+      "display": "महकना",
       "normalized": "महकना",
       "variants": [],
       "pos": "自動詞",
@@ -17178,6 +16008,469 @@
       "audit": "existing_in_master"
     },
     {
+      "word": "बरतन",
+      "display": "बरतन",
+      "normalized": "बरतन",
+      "variants": [
+        "बर्तन"
+      ],
+      "pos": "名詞（男）",
+      "meaning_ja": "器、容器",
+      "importance": 3,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_022"
+      ],
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "हीन",
+      "display": "हीन",
+      "normalized": "हीन",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "劣った、低い",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_022"
+      ],
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "अपवित्र",
+      "display": "अपवित्र",
+      "normalized": "अपवित्र",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "不浄な、神聖でない",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_022"
+      ],
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "प्राणी",
+      "display": "प्राणी",
+      "normalized": "प्राणी",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "生き物、存在",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_022"
+      ],
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "मुरझा जाएँगे",
+      "display": "मुरझाना",
+      "normalized": "मुरझाना",
+      "variants": [],
+      "pos": "自動詞",
+      "meaning_ja": "しおれる、萎れる",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_022"
+      ],
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "घोर",
+      "display": "घोर",
+      "normalized": "घोर",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "ひどい、深刻な、非常な",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_022"
+      ],
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "प्राकृतिक प्रक्रिया",
+      "display": "प्राकृतिक प्रक्रिया",
+      "normalized": "प्राकृतिक प्रक्रिया",
+      "variants": [],
+      "pos": "名詞句",
+      "meaning_ja": "自然な過程、自然なプロセス",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_022"
+      ],
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "छुआ-छूत",
+      "display": "छुआ-छूत",
+      "normalized": "छुआछूत",
+      "variants": [
+        "छुआछूत"
+      ],
+      "pos": "名詞（女）",
+      "meaning_ja": "不可触、接触忌避、触れることへの差別的禁忌",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_022"
+      ],
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "नीचा दिखाना",
+      "display": "नीचा दिखाना",
+      "normalized": "नीचा दिखाना",
+      "variants": [],
+      "pos": "動詞句",
+      "meaning_ja": "低く見せる、貶める",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_022"
+      ],
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "दूषित",
+      "display": "दूषित",
+      "normalized": "दूषित",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "汚染された、不浄な",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_022"
+      ],
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "बन्धन",
+      "display": "बंधन",
+      "normalized": "बंधन",
+      "variants": [
+        "बंधन",
+        "बन्धन"
+      ],
+      "pos": "名詞（男）",
+      "meaning_ja": "制約、束縛",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_022"
+      ],
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "उल्लंघन",
+      "display": "उल्लंघन",
+      "normalized": "उल्लंघन",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "違反、侵犯、破ること",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_022"
+      ],
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "घबराना",
+      "display": "घबराना",
+      "normalized": "घबराना",
+      "variants": [],
+      "pos": "自動詞",
+      "meaning_ja": "不安になる、慌てる",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_022"
+      ],
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "घृणा",
+      "display": "घृणा",
+      "normalized": "घृणा",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "嫌悪、憎悪",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_022"
+      ],
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "विकृत",
+      "display": "विकृत",
+      "normalized": "विकृत",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "歪められた、歪んだ",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_022"
+      ],
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "छवि",
+      "display": "छवि",
+      "normalized": "छवि",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "イメージ、像",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_022"
+      ],
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "ढोना",
+      "display": "ढोना",
+      "normalized": "ढोना",
+      "variants": [],
+      "pos": "他動詞",
+      "meaning_ja": "背負う、運び続ける",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_022"
+      ],
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "श्रेष्ठ",
+      "display": "श्रेष्ठ",
+      "normalized": "श्रेष्ठ",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "優れた、上位の",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_022"
+      ],
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "व्यक्तित्व",
+      "display": "व्यक्तित्व",
+      "normalized": "व्यक्तित्व",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "人格、個性",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_022"
+      ],
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
       "word": "नकारती",
       "display": "नकारना",
       "normalized": "नकारना",
@@ -17202,12 +16495,596 @@
       "audit": "existing_in_master"
     },
     {
-      "word": "रूढ़ियाँ",
+      "word": "महिला जाति",
+      "display": "महिला जाति",
+      "normalized": "महिला जाति",
+      "variants": [],
+      "pos": "名詞句",
+      "meaning_ja": "女性全体、女性という集団",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_022"
+      ],
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "सच्चाई",
+      "display": "सच्चाई",
+      "normalized": "सच्चाई",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "真実、実情",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_022"
+      ],
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "एहसास",
+      "display": "एहसास",
+      "normalized": "एहसास",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "気づき、実感",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_022"
+      ],
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "लादे गए",
+      "display": "लादना",
+      "normalized": "लादना",
+      "variants": [],
+      "pos": "他動詞",
+      "meaning_ja": "押しつける、背負わせる",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_022"
+      ],
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "रूढ़ि",
       "display": "रूढ़ि",
       "normalized": "रूढ़ि",
       "variants": [],
       "pos": "名詞（女）",
       "meaning_ja": "因習、固定化した慣習",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_022"
+      ],
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "रीति-रिवाज़",
+      "display": "रीति-रिवाज़",
+      "normalized": "रीति रिवाज",
+      "variants": [
+        "रीति रिवाज",
+        "रीति-रिवाज"
+      ],
+      "pos": "名詞（男）",
+      "meaning_ja": "慣習、しきたり",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_022"
+      ],
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "सहारा",
+      "display": "सहारा",
+      "normalized": "सहारा",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "支え、助け",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_022"
+      ],
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "विडम्बना",
+      "display": "विडम्बना",
+      "normalized": "विडंबना",
+      "variants": [
+        "विडंबना",
+        "विडम्बना"
+      ],
+      "pos": "名詞（女）",
+      "meaning_ja": "皮肉、矛盾した状況",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_022"
+      ],
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "प्रजनन शक्ति",
+      "display": "प्रजनन शक्ति",
+      "normalized": "प्रजनन शक्ति",
+      "variants": [],
+      "pos": "名詞句",
+      "meaning_ja": "生殖能力",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_022"
+      ],
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "प्रतीक",
+      "display": "प्रतीक",
+      "normalized": "प्रतीक",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "象徴、シンボル",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_022"
+      ],
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "जश्न",
+      "display": "जश्न",
+      "normalized": "जश्न",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "祝祭、祝い",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_022"
+      ],
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "रक्त स्राव",
+      "display": "रक्त स्राव",
+      "normalized": "रक्त स्राव",
+      "variants": [],
+      "pos": "名詞句",
+      "meaning_ja": "出血、血の流出",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_022"
+      ],
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "शृंगार",
+      "display": "शृंगार",
+      "normalized": "शृंगार",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "装い、化粧、飾り立て",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_022"
+      ],
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "छिड़का",
+      "display": "छिड़कना",
+      "normalized": "छिड़कना",
+      "variants": [],
+      "pos": "他動詞",
+      "meaning_ja": "撒く、振りかける",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_022"
+      ],
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "उर्वरता",
+      "display": "उर्वरता",
+      "normalized": "उर्वरता",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "肥沃さ、豊穣性",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_022"
+      ],
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "प्रचलित",
+      "display": "प्रचलित",
+      "normalized": "प्रचलित",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "広く行われている、流通している",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_022"
+      ],
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "जटिल",
+      "display": "जटिल",
+      "normalized": "जटिल",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "複雑な",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_022"
+      ],
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "विरोधाभासी",
+      "display": "विरोधाभासी",
+      "normalized": "विरोधाभासी",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "矛盾した、相反する",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_022"
+      ],
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "विरोधाभास",
+      "display": "विरोधाभास",
+      "normalized": "विरोधाभास",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "矛盾、相反",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_022"
+      ],
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "पहलुओं",
+      "display": "पहलू",
+      "normalized": "पहलू",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "側面、観点",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_022"
+      ],
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "उपाधि",
+      "display": "उपाधि",
+      "normalized": "उपाधि",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "称号、肩書き",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_022"
+      ],
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "शोषण",
+      "display": "शोषण",
+      "normalized": "शोषण",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "搾取",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_022"
+      ],
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "दमन",
+      "display": "दमन",
+      "normalized": "दमन",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "抑圧、弾圧",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_022"
+      ],
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "रोज़मर्रा",
+      "display": "रोज़मर्रा",
+      "normalized": "रोजमर्रा",
+      "variants": [
+        "रोजमर्रा"
+      ],
+      "pos": "名詞・形容詞",
+      "meaning_ja": "日常、日常的な",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_022"
+      ],
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "बर्ताव",
+      "display": "बर्ताव",
+      "normalized": "बर्ताव",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "扱い、ふるまい",
       "importance": 5,
       "status": "active",
       "category": "academic",
@@ -17256,6 +17133,128 @@
       "variants": [],
       "pos": "名詞（男）",
       "meaning_ja": "視点、観点",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_022"
+      ],
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "परखना",
+      "display": "परखना",
+      "normalized": "परखना",
+      "variants": [],
+      "pos": "他動詞",
+      "meaning_ja": "検討する、見極める",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_022"
+      ],
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "हानिकारक",
+      "display": "हानिकारक",
+      "normalized": "हानिकारक",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "有害な",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_022"
+      ],
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "धारणा",
+      "display": "धारणा",
+      "normalized": "धारणा",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "考え、観念、認識",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_022"
+      ],
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "फिज़ूल",
+      "display": "फिज़ूल",
+      "normalized": "फिजूल",
+      "variants": [
+        "फिजूल"
+      ],
+      "pos": "形容詞",
+      "meaning_ja": "無駄な、くだらない",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "性教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_022"
+      ],
+      "sourceTitle": "माहवारी से जुड़ी मान्यताएँ",
+      "sourceGenre": "textbook",
+      "sourceRegister": "simple_narrative",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "उलझन",
+      "display": "उलझन",
+      "normalized": "उलझन",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "混乱、困惑、もつれ",
       "importance": 5,
       "status": "active",
       "category": "academic",

@@ -11387,5 +11387,251 @@
     "frequency": 1,
     "notes": "報道・捜査記事頻出表現",
     "quizWeight": 4
+  },
+  {
+    "word": "शायर",
+    "normalized": "शायर",
+    "pos": "名詞（男）",
+    "meaning_ja": "詩人",
+    "category": "文化・宗教",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news038_NBT20260529_Badra"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "ウルドゥー詩・文学記事頻出",
+    "quizWeight": 4
+  },
+  {
+    "word": "शायरी",
+    "normalized": "शायरी",
+    "pos": "名詞（女）",
+    "meaning_ja": "詩作、詩歌",
+    "category": "文化・宗教",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news038_NBT20260529_Badra"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "ウルドゥー詩・文学記事頻出",
+    "quizWeight": 4
+  },
+  {
+    "word": "महफिल",
+    "normalized": "महफिल",
+    "pos": "名詞（女）",
+    "meaning_ja": "集い、宴席、文芸の集まり",
+    "category": "文化・宗教",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news038_NBT20260529_Badra"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "文学・音楽・ムシャーイラー文脈頻出",
+    "quizWeight": 4
+  },
+  {
+    "word": "अदबी",
+    "normalized": "अदबी",
+    "pos": "形容詞",
+    "meaning_ja": "文学的な、文芸の",
+    "category": "文化・宗教",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news038_NBT20260529_Badra"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "ウルドゥー文学・評論文脈",
+    "quizWeight": 4
+  },
+  {
+    "word": "कमसिन",
+    "normalized": "कमसिन",
+    "pos": "形容詞",
+    "meaning_ja": "うら若い、若々しい",
+    "category": "文化・宗教",
+    "difficulty": 4,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news038_NBT20260529_Badra"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "文学的表現",
+    "quizWeight": 3
+  },
+  {
+    "word": "अक्कासी",
+    "normalized": "अक्कासी",
+    "pos": "名詞（女）",
+    "meaning_ja": "描写、反映",
+    "category": "文化・宗教",
+    "difficulty": 5,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news038_NBT20260529_Badra"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "उर्दू系 साहित्यिक語彙。本文では「जमाने की अक्कासी」＝時代を映し出すこと",
+    "quizWeight": 3
+  },
+  {
+    "word": "आला",
+    "normalized": "आला",
+    "pos": "形容詞",
+    "meaning_ja": "一流の、高水準の、優れた",
+    "category": "文化・宗教",
+    "difficulty": 4,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news038_NBT20260529_Badra"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "本文では「आला दर्जे का」＝高水準の",
+    "quizWeight": 3
+  },
+  {
+    "word": "माहिर",
+    "normalized": "माहिर",
+    "pos": "形容詞",
+    "meaning_ja": "熟練した、達人の",
+    "category": "文化・宗教",
+    "difficulty": 4,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news038_NBT20260529_Badra"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "ウルドゥー系一般語彙",
+    "quizWeight": 3
+  },
+  {
+    "word": "जमीर",
+    "normalized": "ज़मीर",
+    "variants": [
+      "जमीर",
+      "ज़मीर"
+    ],
+    "pos": "名詞（男）",
+    "meaning_ja": "良心、良識",
+    "category": "文化・宗教",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news038_NBT20260529_Badra"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "ウルドゥー系倫理・文学語彙",
+    "quizWeight": 4
+  },
+  {
+    "word": "सादगी",
+    "normalized": "सादगी",
+    "pos": "名詞（女）",
+    "meaning_ja": "簡潔さ、素朴さ、飾り気のなさ",
+    "category": "文化・宗教",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news038_NBT20260529_Badra"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "文学・人柄描写で頻出",
+    "quizWeight": 4
+  },
+  {
+    "word": "अशआर",
+    "normalized": "अशआर",
+    "pos": "名詞（男・複）",
+    "meaning_ja": "詩句、連句（ウルドゥー語の शेर「詩句」の複数形）",
+    "category": "文化・宗教",
+    "difficulty": 5,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news038_NBT20260529_Badra"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "ウルドゥー詩特有語彙。単数 शेर",
+    "quizWeight": 4
+  },
+  {
+    "word": "अल्फाज",
+    "normalized": "अल्फ़ाज़",
+    "variants": [
+      "अल्फ़ाज़",
+      "अल्फाज"
+    ],
+    "pos": "名詞（男・複）",
+    "meaning_ja": "言葉、語句（ウルドゥー語の लफ़्ज़「語」の複数形）",
+    "category": "文化・宗教",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news038_NBT20260529_Badra"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "ウルドゥー文学・歌詞頻出語彙。単数 लफ़्ज़",
+    "quizWeight": 4
+  },
+  {
+    "word": "झकझोरना",
+    "normalized": "झकझोरना",
+    "pos": "他動詞",
+    "meaning_ja": "揺さぶる、強く心を打つ",
+    "category": "文化・宗教",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news038_NBT20260529_Badra"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "本文形：झकझोरते",
+    "quizWeight": 4
+  },
+  {
+    "word": "भारी-भरकम",
+    "normalized": "भारी-भरकम",
+    "pos": "形容詞",
+    "meaning_ja": "大げさな、難解な、重々しい",
+    "category": "文化・宗教",
+    "difficulty": 4,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news038_NBT20260529_Badra"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "本文では「भारी-भरकम अल्फाज」＝難解で大仰な言葉",
+    "quizWeight": 3
   }
 ]
