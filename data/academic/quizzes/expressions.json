@@ -18,6 +18,25 @@
     ]
   },
   {
+    "text": "अनायास ही आ गया",
+    "normalized": "अनायास ही आ गया",
+    "meaning": "自然に身についた",
+    "meaning_ja": "自然に身についた",
+    "type": "narrative_expression",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
+    ]
+  },
+  {
     "text": "अल्लाह निगहबान हो",
     "normalized": "अल्लाह निगहबान हो",
     "meaning": "アッラーの加護がありますように",
@@ -162,6 +181,24 @@
     ]
   },
   {
+    "text": "एक बार में थोड़े ही बच्चा ठहरता है",
+    "normalized": "एक बार में थोड़े ही बच्चा ठहरता है",
+    "meaning": "一度だけで妊娠するわけではない、という思い込み",
+    "meaning_ja": "一度だけで妊娠するわけではない、という思い込み",
+    "type": "belief_expression",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "健康",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_023"
+    ]
+  },
+  {
     "text": "औरत को नीचा दिखाने की कोशिश",
     "normalized": "औरत को नीचा दिखाने की कोशिश",
     "meaning": "女性を低く見せようとする試み",
@@ -195,6 +232,60 @@
     ],
     "sourceIds": [
       "academic_021"
+    ]
+  },
+  {
+    "text": "गर्भ गिराने की गोली",
+    "normalized": "गर्भ गिराने की गोली",
+    "meaning": "妊娠を中断するための薬",
+    "meaning_ja": "妊娠を中断するための薬",
+    "type": "health_expression",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "健康",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_023"
+    ]
+  },
+  {
+    "text": "गर्भनिरोध के बिना ही सेक्स सम्बन्ध बना लेते हैं",
+    "normalized": "गर्भनिरोध के बिना ही सेक्स सम्बन्ध बना लेते हैं",
+    "meaning": "避妊なしで性的関係を持ってしまう",
+    "meaning_ja": "避妊なしで性的関係を持ってしまう",
+    "type": "health_expression",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "健康",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_023"
+    ]
+  },
+  {
+    "text": "गर्भनिरोधक के इस्तेमाल के लिए ज़िम्मेदार हैं",
+    "normalized": "गर्भनिरोधक के इस्तेमाल के लिए ज़िम्मेदार हैं",
+    "meaning": "避妊具・避妊法の使用に責任がある",
+    "meaning_ja": "避妊具・避妊法の使用に責任がある",
+    "type": "health_statement",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "健康",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_023"
     ]
   },
   {
@@ -249,6 +340,24 @@
     ],
     "sourceIds": [
       "academic_019"
+    ]
+  },
+  {
+    "text": "दोस्तों के दबाव में आकर",
+    "normalized": "दोस्तों के दबाव में आकर",
+    "meaning": "友人からの圧力を受けて",
+    "meaning_ja": "友人からの圧力を受けて",
+    "type": "social_expression",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "健康",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_023"
     ]
   },
   {
@@ -375,6 +484,24 @@
     ],
     "sourceIds": [
       "academic_021"
+    ]
+  },
+  {
+    "text": "बच्चा रोकने में अपनाए जाने वाले साधन",
+    "normalized": "बच्चा रोकने में अपनाए जाने वाले साधन",
+    "meaning": "妊娠を防ぐために用いられる手段",
+    "meaning_ja": "妊娠を防ぐために用いられる手段",
+    "type": "definition",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "健康",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_023"
     ]
   },
   {
@@ -558,6 +685,25 @@
     ]
   },
   {
+    "text": "लड़कियों की शिक्षा के लिए",
+    "normalized": "लड़कियों की शिक्षा के लिए",
+    "meaning": "女子教育のために",
+    "meaning_ja": "女子教育のために",
+    "type": "social_expression",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
+    ]
+  },
+  {
     "text": "विज्ञान का अपना तर्क है और विश्वास का अपना सामर्थ्य",
     "normalized": "विज्ञान का अपना तर्क है और विश्वास का अपना सामर्थ्य",
     "meaning": "科学には科学の論理があり、信仰には信仰の力がある",
@@ -684,6 +830,43 @@
     ]
   },
   {
+    "text": "समाज-सुधारकों की जीवनियाँ प्रकाशित की थीं",
+    "normalized": "समाज सुधारकों की जीवनियां प्रकाशित की थीं",
+    "meaning": "社会改革者たちの伝記を出版していた",
+    "meaning_ja": "社会改革者たちの伝記を出版していた",
+    "type": "academic_expression",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
+    ]
+  },
+  {
+    "text": "सम्भोग के बाद योनि धोने से कोई फर्क नहीं पड़ता",
+    "normalized": "सम्भोग के बाद योनि धोने से कोई फर्क नहीं पड़ता",
+    "meaning": "性交後に膣を洗っても効果はない",
+    "meaning_ja": "性交後に膣を洗っても効果はない",
+    "type": "health_statement",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "健康",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_023"
+    ]
+  },
+  {
     "text": "सांस्कृतिक रूप से स्वीकार्य",
     "normalized": "सांस्कृतिक रूप से स्वीकार्य",
     "meaning": "文化的に受容可能な",
@@ -735,6 +918,25 @@
     ],
     "sourceIds": [
       "academic_015"
+    ]
+  },
+  {
+    "text": "स्कूली जीवन की सुखद स्मृतियाँ",
+    "normalized": "स्कूली जीवन की सुखद स्मृतियां",
+    "meaning": "学校生活の楽しい思い出",
+    "meaning_ja": "学校生活の楽しい思い出",
+    "type": "literary_expression",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
     ]
   },
   {
@@ -1036,6 +1238,25 @@
     ]
   },
   {
+    "text": "कान खड़े हुए",
+    "normalized": "कान खड़े हुए",
+    "meaning": "警戒した、気になって注意を向けた",
+    "meaning_ja": "警戒した、気になって注意を向けた",
+    "type": "idiomatic_expression",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
+    ]
+  },
+  {
     "text": "काम आएगी",
     "normalized": "काम आएगी",
     "meaning": "役に立つだろう",
@@ -1102,6 +1323,25 @@
     ],
     "sourceIds": [
       "academic_001"
+    ]
+  },
+  {
+    "text": "घर-घर जाकर आग्रह किया",
+    "normalized": "घर घर जाकर आग्रह किया",
+    "meaning": "家々を回って頼み込んだ",
+    "meaning_ja": "家々を回って頼み込んだ",
+    "type": "narrative_expression",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
     ]
   },
   {
@@ -1698,6 +1938,25 @@
     ],
     "sourceIds": [
       "academic_019"
+    ]
+  },
+  {
+    "text": "रुचि बिगड़ जाएगी",
+    "normalized": "रुचि बिगड़ जाएगी",
+    "meaning": "趣味・好みが悪くなるだろう",
+    "meaning_ja": "趣味・好みが悪くなるだろう",
+    "type": "narrative_expression",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
     ]
   },
   {

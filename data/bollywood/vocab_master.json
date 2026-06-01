@@ -2284,7 +2284,12 @@
   },
   {
     "word": "यक़ीं",
+    "display": "यकीन",
     "normalized": "यकीं",
+    "variants": [
+      "यकीं",
+      "यकीन"
+    ],
     "pos": "名詞（男）",
     "meaning_ja": "確信・信頼",
     "importance": 4,
@@ -6356,7 +6361,7 @@
     "pos": "名詞（女）",
     "meaning_ja": "高み、高貴さ",
     "importance": 4,
-    "status": "active",
+    "status": "inactive",
     "sourceSongIds": [
       "bolly_035"
     ],

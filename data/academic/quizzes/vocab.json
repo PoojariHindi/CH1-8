@@ -57,6 +57,26 @@
     ]
   },
   {
+    "word": "अनायास",
+    "display": "अनायास",
+    "normalized": "अनायास",
+    "variants": [],
+    "pos": "副詞",
+    "meaning_ja": "自然に、思いがけず",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
+    ]
+  },
+  {
     "word": "अनावृष्टि",
     "display": "अनावृष्टि",
     "normalized": "अनावृष्टि",
@@ -287,6 +307,27 @@
     ]
   },
   {
+    "word": "असरदारक",
+    "display": "असरदार",
+    "normalized": "असरदार",
+    "variants": [
+      "असरदारक"
+    ],
+    "pos": "形容詞",
+    "meaning_ja": "効果的な、効き目のある",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "健康",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_023"
+    ]
+  },
+  {
     "word": "अस्तित्व",
     "display": "अस्तित्व",
     "normalized": "अस्तित्व",
@@ -322,6 +363,26 @@
     ],
     "sourceIds": [
       "academic_011"
+    ]
+  },
+  {
+    "word": "आग्रह",
+    "display": "आग्रह",
+    "normalized": "आग्रह",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "強い依頼、要請",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
     ]
   },
   {
@@ -417,6 +478,66 @@
     ],
     "sourceIds": [
       "academic_016"
+    ]
+  },
+  {
+    "word": "आयात",
+    "display": "आयात",
+    "normalized": "आयात",
+    "variants": [],
+    "pos": "名詞・動詞",
+    "meaning_ja": "輸入、持ち込み",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
+    ]
+  },
+  {
+    "word": "आर्यसमाजी",
+    "display": "आर्यसमाजी",
+    "normalized": "आर्यसमाजी",
+    "variants": [],
+    "pos": "名詞・形容詞",
+    "meaning_ja": "アーリヤ・サマージの信奉者、アーリヤ・サマージ的な",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
+    ]
+  },
+  {
+    "word": "आस्थावान",
+    "display": "आस्थावान",
+    "normalized": "आस्थावान",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "信仰心のある、信念を持った",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
     ]
   },
   {
@@ -550,6 +671,26 @@
     ],
     "sourceIds": [
       "academic_017"
+    ]
+  },
+  {
+    "word": "उपदेशात्मक",
+    "display": "उपदेशात्मक",
+    "normalized": "उपदेशात्मक",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "教訓的な、説教調の",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
     ]
   },
   {
@@ -705,6 +846,26 @@
     ]
   },
   {
+    "word": "कट्टर",
+    "display": "कट्टर",
+    "normalized": "कट्टर",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "頑固な、熱狂的な、原理主義的な",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
+    ]
+  },
+  {
     "word": "कट्टरता",
     "display": "कट्टरता",
     "normalized": "कट्टरता",
@@ -778,6 +939,25 @@
     ],
     "sourceIds": [
       "academic_017"
+    ]
+  },
+  {
+    "word": "किशोर",
+    "display": "किशोर",
+    "normalized": "किशोर",
+    "variants": [],
+    "pos": "名詞・形容詞",
+    "meaning_ja": "思春期の少年、十代の若者",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "健康",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_023"
     ]
   },
   {
@@ -897,6 +1077,140 @@
     ]
   },
   {
+    "word": "गरिष्ठ",
+    "display": "गरिष्ठ",
+    "normalized": "गरिष्ठ",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "重たい、難解でとっつきにくい",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
+    ]
+  },
+  {
+    "word": "गर्भ",
+    "display": "गर्भ",
+    "normalized": "गर्भ",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "妊娠、胎内の子",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "健康",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_023"
+    ]
+  },
+  {
+    "word": "गर्भ गिराना",
+    "display": "गर्भ गिराना",
+    "normalized": "गर्भ गिराना",
+    "variants": [],
+    "pos": "動詞句",
+    "meaning_ja": "妊娠を中断する、堕胎する",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "健康",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_023"
+    ]
+  },
+  {
+    "word": "गर्भनिरोध",
+    "display": "गर्भनिरोध",
+    "normalized": "गर्भनिरोध",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "避妊、妊娠予防",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "健康",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_023"
+    ]
+  },
+  {
+    "word": "गर्भनिरोधक",
+    "display": "गर्भनिरोधक",
+    "normalized": "गर्भनिरोधक",
+    "variants": [],
+    "pos": "名詞・形容詞",
+    "meaning_ja": "避妊具、避妊法、避妊の",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "健康",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_023"
+    ]
+  },
+  {
+    "word": "गर्भवती",
+    "display": "गर्भवती",
+    "normalized": "गर्भवती",
+    "variants": [],
+    "pos": "形容詞・名詞",
+    "meaning_ja": "妊娠した、妊婦",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "健康",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_023"
+    ]
+  },
+  {
+    "word": "गर्भाशय",
+    "display": "गर्भाशय",
+    "normalized": "गर्भाशय",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "子宮",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "健康",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_023"
+    ]
+  },
+  {
     "word": "घटनाक्रम",
     "display": "घटनाक्रम",
     "normalized": "घटनाक्रम",
@@ -951,6 +1265,26 @@
     ],
     "sourceIds": [
       "academic_020"
+    ]
+  },
+  {
+    "word": "चरितावली",
+    "display": "चरितावली",
+    "normalized": "चरितावली",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "伝記集、人物伝集",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
     ]
   },
   {
@@ -1127,6 +1461,27 @@
     ]
   },
   {
+    "word": "जल्दबाज़ी",
+    "display": "जल्दबाज़ी",
+    "normalized": "जल्दबाजी",
+    "variants": [
+      "जल्दबाजी"
+    ],
+    "pos": "名詞（女）",
+    "meaning_ja": "焦り、早まった行動",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "健康",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_023"
+    ]
+  },
+  {
     "word": "जाति-पाँति",
     "display": "जाति-पाँति",
     "normalized": "जाति पाँति",
@@ -1146,6 +1501,25 @@
     ]
   },
   {
+    "word": "जिज्ञासा",
+    "display": "जिज्ञासा",
+    "normalized": "जिज्ञासा",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "好奇心、知りたい気持ち",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "健康",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_023"
+    ]
+  },
+  {
     "word": "जीव",
     "display": "जीव",
     "normalized": "जीव",
@@ -1162,6 +1536,26 @@
     ],
     "sourceIds": [
       "academic_014"
+    ]
+  },
+  {
+    "word": "जीवनी",
+    "display": "जीवनी",
+    "normalized": "जीवनी",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "伝記",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
     ]
   },
   {
@@ -1279,6 +1673,27 @@
     ]
   },
   {
+    "word": "डाक्टर की पर्ची",
+    "display": "डाक्टर की पर्ची",
+    "normalized": "डाक्टर की पर्ची",
+    "variants": [
+      "डॉक्टर की पर्ची"
+    ],
+    "pos": "名詞句",
+    "meaning_ja": "医師の処方箋",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "健康",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_023"
+    ]
+  },
+  {
     "word": "ढब",
     "display": "ढब",
     "normalized": "ढब",
@@ -1352,6 +1767,25 @@
     ],
     "sourceIds": [
       "academic_016"
+    ]
+  },
+  {
+    "word": "दबाव",
+    "display": "दबाव",
+    "normalized": "दबाव",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "圧力、プレッシャー",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "健康",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_023"
     ]
   },
   {
@@ -1754,6 +2188,26 @@
     ]
   },
   {
+    "word": "नीरस-कर्कश",
+    "display": "नीरस-कर्कश",
+    "normalized": "नीरस कर्कश",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "味気なく耳障りな",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
+    ]
+  },
+  {
     "word": "नृजातीय",
     "display": "नृजातीय",
     "normalized": "नृजातीय",
@@ -1789,6 +2243,26 @@
     ],
     "sourceIds": [
       "academic_017"
+    ]
+  },
+  {
+    "word": "पद पंकज",
+    "display": "पद पंकज",
+    "normalized": "पद पंकज",
+    "variants": [],
+    "pos": "名詞句",
+    "meaning_ja": "蓮華のような御足",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
     ]
   },
   {
@@ -2174,6 +2648,26 @@
     ]
   },
   {
+    "word": "प्रलोभन",
+    "display": "प्रलोभन",
+    "normalized": "प्रलोभन",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "誘惑、誘い",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
+    ]
+  },
+  {
     "word": "प्राकृतिक प्रक्रिया",
     "display": "प्राकृतिक प्रक्रिया",
     "normalized": "प्राकृतिक प्रक्रिया",
@@ -2209,6 +2703,28 @@
     ],
     "sourceIds": [
       "academic_016"
+    ]
+  },
+  {
+    "word": "बन्दगी",
+    "display": "बंदगी",
+    "normalized": "बंदगी",
+    "variants": [
+      "बन्दगी"
+    ],
+    "pos": "名詞（女）",
+    "meaning_ja": "敬礼、挨拶、礼拝",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
     ]
   },
   {
@@ -2269,6 +2785,26 @@
     ],
     "sourceIds": [
       "academic_017"
+    ]
+  },
+  {
+    "word": "बलिहारी",
+    "display": "बलिहारी",
+    "normalized": "बलिहारी",
+    "variants": [],
+    "pos": "名詞・形容詞",
+    "meaning_ja": "身を捧げるほど敬愛すること、賛嘆",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
     ]
   },
   {
@@ -2576,6 +3112,26 @@
     ]
   },
   {
+    "word": "मूर्ति-पूजा",
+    "display": "मूर्ति-पूजा",
+    "normalized": "मूर्ति पूजा",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "偶像崇拝、神像礼拝",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
+    ]
+  },
+  {
     "word": "मृदा",
     "display": "मृदा",
     "normalized": "मृदा",
@@ -2652,6 +3208,66 @@
     ]
   },
   {
+    "word": "योनि",
+    "display": "योनि",
+    "normalized": "योनि",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "膣、女性器",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "健康",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_023"
+    ]
+  },
+  {
+    "word": "यौन इच्छा",
+    "display": "यौन इच्छा",
+    "normalized": "यौन इच्छा",
+    "variants": [],
+    "pos": "名詞句",
+    "meaning_ja": "性的欲求",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "健康",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_023"
+    ]
+  },
+  {
+    "word": "यौन सम्बन्ध",
+    "display": "यौन सम्बन्ध",
+    "normalized": "यौन संबंध",
+    "variants": [
+      "यौन संबंध",
+      "यौन सम्बन्ध"
+    ],
+    "pos": "名詞句",
+    "meaning_ja": "性的関係、性交渉",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "健康",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_023"
+    ]
+  },
+  {
     "word": "रक्त स्राव",
     "display": "रक्त स्राव",
     "normalized": "रक्त स्राव",
@@ -2687,6 +3303,26 @@
     ],
     "sourceIds": [
       "academic_017"
+    ]
+  },
+  {
+    "word": "रस",
+    "display": "रस",
+    "normalized": "रस",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "興味、味わい、情趣",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
     ]
   },
   {
@@ -2845,6 +3481,28 @@
     ]
   },
   {
+    "word": "वज़ीफ़ा",
+    "display": "वज़ीफ़ा",
+    "normalized": "वजीफा",
+    "variants": [
+      "वजीफा"
+    ],
+    "pos": "名詞（男）",
+    "meaning_ja": "奨学金、手当",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
+    ]
+  },
+  {
     "word": "वनों की कटाई",
     "display": "वनों की कटाई",
     "normalized": "वनों की कटाई",
@@ -2861,6 +3519,25 @@
     ],
     "sourceIds": [
       "academic_016"
+    ]
+  },
+  {
+    "word": "वयस्क",
+    "display": "वयस्क",
+    "normalized": "वयस्क",
+    "variants": [],
+    "pos": "形容詞・名詞",
+    "meaning_ja": "成人の、大人",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "健康",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_023"
     ]
   },
   {
@@ -3021,6 +3698,26 @@
     ]
   },
   {
+    "word": "विधिवत्",
+    "display": "विधिवत्",
+    "normalized": "विधिवत्",
+    "variants": [],
+    "pos": "副詞",
+    "meaning_ja": "正式に、規定どおりに",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
+    ]
+  },
+  {
     "word": "विरोधाभास",
     "display": "विरोधाभास",
     "normalized": "विरोधाभास",
@@ -3097,6 +3794,25 @@
     ]
   },
   {
+    "word": "वीर्य",
+    "display": "वीर्य",
+    "normalized": "वीर्य",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "精液",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "健康",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_023"
+    ]
+  },
+  {
     "word": "व्यक्तित्व",
     "display": "व्यक्तित्व",
     "normalized": "व्यक्तित्व",
@@ -3132,6 +3848,26 @@
     ],
     "sourceIds": [
       "academic_016"
+    ]
+  },
+  {
+    "word": "शरणागत",
+    "display": "शरणागत",
+    "normalized": "शरणागत",
+    "variants": [],
+    "pos": "名詞・形容詞",
+    "meaning_ja": "庇護を求めて身を寄せた者、帰依した",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
     ]
   },
   {
@@ -3208,6 +3944,25 @@
     ],
     "sourceIds": [
       "academic_015"
+    ]
+  },
+  {
+    "word": "शुक्राणु",
+    "display": "शुक्राणु",
+    "normalized": "शुक्राणु",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "精子",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "健康",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_023"
     ]
   },
   {
@@ -3363,6 +4118,26 @@
     ]
   },
   {
+    "word": "सनातनी",
+    "display": "सनातनी",
+    "normalized": "सनातनी",
+    "variants": [],
+    "pos": "名詞・形容詞",
+    "meaning_ja": "サナータナ・ダルマを信奉する人、伝統的ヒンドゥーの",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
+    ]
+  },
+  {
     "word": "समग्रता",
     "display": "समग्रता",
     "normalized": "समग्रता",
@@ -3398,6 +4173,48 @@
     ],
     "sourceIds": [
       "academic_015"
+    ]
+  },
+  {
+    "word": "समाज-सुधारक",
+    "display": "समाज-सुधारक",
+    "normalized": "समाज सुधारक",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "社会改革者",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
+    ]
+  },
+  {
+    "word": "सम्भोग",
+    "display": "सम्भोग",
+    "normalized": "संभोग",
+    "variants": [
+      "संभोग",
+      "सम्भोग"
+    ],
+    "pos": "名詞（男）",
+    "meaning_ja": "性交",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "健康",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_023"
     ]
   },
   {
@@ -3458,6 +4275,26 @@
     ]
   },
   {
+    "word": "सुखद स्मृतियाँ",
+    "display": "सुखद स्मृति",
+    "normalized": "सुखद स्मृति",
+    "variants": [],
+    "pos": "名詞句",
+    "meaning_ja": "楽しい思い出",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
+    ]
+  },
+  {
     "word": "सृजित",
     "display": "सृजित",
     "normalized": "सृजित",
@@ -3496,6 +4333,26 @@
     ]
   },
   {
+    "word": "सेवक मंडली",
+    "display": "सेवक मंडली",
+    "normalized": "सेवक मंडली",
+    "variants": [],
+    "pos": "名詞句",
+    "meaning_ja": "奉仕団、奉仕者の集まり",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
+    ]
+  },
+  {
     "word": "सेवा क्षेत्रक",
     "display": "सेवा क्षेत्रक",
     "normalized": "सेवा क्षेत्रक",
@@ -3531,6 +4388,65 @@
     ],
     "sourceIds": [
       "academic_015"
+    ]
+  },
+  {
+    "word": "स्थापना",
+    "display": "स्थापना",
+    "normalized": "स्थापना",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "設立、創設",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
+    ]
+  },
+  {
+    "word": "हड़बड़ी",
+    "display": "हड़बड़ी",
+    "normalized": "हड़बड़ी",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "慌ただしさ、焦り",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "健康",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_023"
+    ]
+  },
+  {
+    "word": "हरूफ",
+    "display": "हरूफ",
+    "normalized": "हरूफ",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "文字、字母",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
     ]
   },
   {
@@ -3588,6 +4504,28 @@
     ],
     "sourceIds": [
       "academic_022"
+    ]
+  },
+  {
+    "word": "अन्तरंग सभा",
+    "display": "अंतरंग सभा",
+    "normalized": "अंतरंग सभा",
+    "variants": [
+      "अन्तरंग सभा"
+    ],
+    "pos": "名詞句",
+    "meaning_ja": "内部委員会、親密な会合",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
     ]
   },
   {
@@ -4293,6 +5231,28 @@
     ]
   },
   {
+    "word": "आनन्दमय",
+    "display": "आनन्दमय",
+    "normalized": "आनंदमय",
+    "variants": [
+      "आनंदमय",
+      "आनन्दमय"
+    ],
+    "pos": "形容詞",
+    "meaning_ja": "喜びに満ちた、楽しい",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "健康",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_023"
+    ]
+  },
+  {
     "word": "आभास",
     "display": "आभास",
     "normalized": "आभास",
@@ -4402,6 +5362,26 @@
     ],
     "sourceIds": [
       "academic_020"
+    ]
+  },
+  {
+    "word": "ईश्वर-प्रार्थना",
+    "display": "ईश्वर-प्रार्थना",
+    "normalized": "ईश्वर प्रार्थना",
+    "variants": [],
+    "pos": "名詞句",
+    "meaning_ja": "神への祈り",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
     ]
   },
   {
@@ -4855,6 +5835,26 @@
     ]
   },
   {
+    "word": "उलटने-पुलटने",
+    "display": "उलटना-पुलटना",
+    "normalized": "उलटना पुलटना",
+    "variants": [],
+    "pos": "動詞句",
+    "meaning_ja": "あれこれめくる、ひっくり返して見る",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
+    ]
+  },
+  {
     "word": "उल्लेख",
     "display": "उल्लेख",
     "normalized": "उल्लेख",
@@ -5188,6 +6188,46 @@
     ]
   },
   {
+    "word": "कृपाल",
+    "display": "कृपाल",
+    "normalized": "कृपाल",
+    "variants": [],
+    "pos": "形容詞・名詞",
+    "meaning_ja": "慈悲深い、慈悲深い方",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
+    ]
+  },
+  {
+    "word": "कोठरी",
+    "display": "कोठरी",
+    "normalized": "कोठरी",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "小部屋、物置部屋",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
+    ]
+  },
+  {
     "word": "क्रमबद्ध",
     "display": "क्रमबद्ध",
     "normalized": "क्रमबद्ध",
@@ -5469,6 +6509,25 @@
     ]
   },
   {
+    "word": "घट जाना",
+    "display": "घट जाना",
+    "normalized": "घट जाना",
+    "variants": [],
+    "pos": "動詞句",
+    "meaning_ja": "減少する、下がる",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "健康",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_023"
+    ]
+  },
+  {
     "word": "घबराना",
     "display": "घबराना",
     "normalized": "घबराना",
@@ -5523,6 +6582,28 @@
     ],
     "sourceIds": [
       "academic_022"
+    ]
+  },
+  {
+    "word": "चन्दा",
+    "display": "चंदा",
+    "normalized": "चंदा",
+    "variants": [
+      "चन्दा"
+    ],
+    "pos": "名詞（男）",
+    "meaning_ja": "寄付金、募金",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
     ]
   },
   {
@@ -5925,6 +7006,25 @@
     ]
   },
   {
+    "word": "टालना",
+    "display": "टालना",
+    "normalized": "टालना",
+    "variants": [],
+    "pos": "他動詞",
+    "meaning_ja": "延期する、避ける",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "健康",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_023"
+    ]
+  },
+  {
     "word": "टिकाऊ",
     "display": "टिकाऊ",
     "normalized": "टिकाऊ",
@@ -6183,6 +7283,26 @@
     ],
     "sourceIds": [
       "academic_019"
+    ]
+  },
+  {
+    "word": "दाई",
+    "display": "दाई",
+    "normalized": "दाई",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "乳母、世話係の女性、助産婦",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
     ]
   },
   {
@@ -6668,6 +7788,28 @@
     ]
   },
   {
+    "word": "नाराज़गी",
+    "display": "नाराज़गी",
+    "normalized": "नाराजगी",
+    "variants": [
+      "नाराजगी"
+    ],
+    "pos": "名詞（女）",
+    "meaning_ja": "不満、怒り、不機嫌",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
+    ]
+  },
+  {
     "word": "नि:शुल्क",
     "display": "नि:शुल्क",
     "normalized": "निशुल्क",
@@ -7001,6 +8143,26 @@
     ]
   },
   {
+    "word": "पट्टी",
+    "display": "पट्टी",
+    "normalized": "पट्टी",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "書字板、板、細長い布・板状のもの",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
+    ]
+  },
+  {
     "word": "पनपना",
     "display": "पनपना",
     "normalized": "पनपना",
@@ -7188,6 +8350,26 @@
     ]
   },
   {
+    "word": "पाठशाला",
+    "display": "पाठशाला",
+    "normalized": "पाठशाला",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "学校、学び舎",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
+    ]
+  },
+  {
     "word": "पीर",
     "display": "पीर",
     "normalized": "पीर",
@@ -7244,6 +8426,26 @@
     ]
   },
   {
+    "word": "पुरोहित",
+    "display": "पुरोहित",
+    "normalized": "पुरोहित",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "祭司、僧侶",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
+    ]
+  },
+  {
     "word": "पुस्तिका",
     "display": "पुस्तिका",
     "normalized": "पुस्तिका",
@@ -7260,6 +8462,25 @@
     ],
     "sourceIds": [
       "academic_021"
+    ]
+  },
+  {
+    "word": "पूर्ति",
+    "display": "पूर्ति",
+    "normalized": "पूर्ति",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "充足、満たすこと",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "健康",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_023"
     ]
   },
   {
@@ -7317,6 +8538,26 @@
     ],
     "sourceIds": [
       "academic_017"
+    ]
+  },
+  {
+    "word": "प्रकाशित",
+    "display": "प्रकाशित",
+    "normalized": "प्रकाशित",
+    "variants": [],
+    "pos": "形容詞・動詞",
+    "meaning_ja": "出版された、公表された",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
     ]
   },
   {
@@ -7433,6 +8674,26 @@
     ]
   },
   {
+    "word": "प्रथम पृष्ठ",
+    "display": "प्रथम पृष्ठ",
+    "normalized": "प्रथम पृष्ठ",
+    "variants": [],
+    "pos": "名詞句",
+    "meaning_ja": "第一ページ、表紙",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
+    ]
+  },
+  {
     "word": "प्रथमत:",
     "display": "प्रथमत:",
     "normalized": "प्रथमत",
@@ -7492,6 +8753,26 @@
     ]
   },
   {
+    "word": "प्रबंध",
+    "display": "प्रबंध",
+    "normalized": "प्रबंध",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "手配、管理、仕組み",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
+    ]
+  },
+  {
     "word": "प्रभावशाली",
     "display": "प्रभावशाली",
     "normalized": "प्रभावशाली",
@@ -7526,6 +8807,26 @@
     ],
     "sourceIds": [
       "academic_021"
+    ]
+  },
+  {
+    "word": "प्रयत्न",
+    "display": "प्रयत्न",
+    "normalized": "प्रयत्न",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "努力、試み",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
     ]
   },
   {
@@ -7919,6 +9220,30 @@
     ],
     "sourceIds": [
       "academic_022"
+    ]
+  },
+  {
+    "word": "बर्तन-भाँड़े",
+    "display": "बर्तन-भाँड़ा",
+    "normalized": "बर्तन भांड़ा",
+    "variants": [
+      "बर्तन-भांड़ा",
+      "बर्तन भाँड़ा",
+      "बर्तन भांड़ा"
+    ],
+    "pos": "名詞（男）",
+    "meaning_ja": "鍋釜、食器類",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
     ]
   },
   {
@@ -8366,6 +9691,26 @@
     ]
   },
   {
+    "word": "मनोरंजक",
+    "display": "मनोरंजक",
+    "normalized": "मनोरंजक",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "面白い、楽しませる",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
+    ]
+  },
+  {
     "word": "मसूढ़ा",
     "display": "मसूढ़ा",
     "normalized": "मसूढ़ा",
@@ -8606,6 +9951,26 @@
     ],
     "sourceIds": [
       "academic_013"
+    ]
+  },
+  {
+    "word": "मासिक पत्रिका",
+    "display": "मासिक पत्रिका",
+    "normalized": "मासिक पत्रिका",
+    "variants": [],
+    "pos": "名詞句",
+    "meaning_ja": "月刊誌",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
     ]
   },
   {
@@ -9056,6 +10421,26 @@
     ]
   },
   {
+    "word": "लिखित",
+    "display": "लिखित",
+    "normalized": "लिखित",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "書かれた、文書による",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
+    ]
+  },
+  {
     "word": "लिपटना",
     "display": "लिपटा",
     "normalized": "लिपटना",
@@ -9072,6 +10457,26 @@
     ],
     "sourceIds": [
       "academic_019"
+    ]
+  },
+  {
+    "word": "लिवा",
+    "display": "लिवाना",
+    "normalized": "लिवाना",
+    "variants": [],
+    "pos": "他動詞",
+    "meaning_ja": "連れて行かせる、連れて来る",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
     ]
   },
   {
@@ -9165,6 +10570,28 @@
     ],
     "sourceIds": [
       "academic_017"
+    ]
+  },
+  {
+    "word": "वार्षिक फ़ाइल",
+    "display": "वार्षिक फ़ाइल",
+    "normalized": "वार्षिक फाइल",
+    "variants": [
+      "वार्षिक फाइल"
+    ],
+    "pos": "名詞句",
+    "meaning_ja": "年ごとに綴じた保存ファイル",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
     ]
   },
   {
@@ -9779,6 +11206,26 @@
     ]
   },
   {
+    "word": "संग्रह",
+    "display": "संग्रह",
+    "normalized": "संग्रह",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "収集、集成、コレクション",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
+    ]
+  },
+  {
     "word": "संचालन",
     "display": "संचालन",
     "normalized": "संचालन",
@@ -9851,6 +11298,28 @@
     ],
     "sourceIds": [
       "academic_006"
+    ]
+  },
+  {
+    "word": "सम्पर्क",
+    "display": "संपर्क",
+    "normalized": "संपर्क",
+    "variants": [
+      "सम्पर्क"
+    ],
+    "pos": "名詞（男）",
+    "meaning_ja": "接触、関わり",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
     ]
   },
   {
@@ -10019,6 +11488,26 @@
     ],
     "sourceIds": [
       "academic_015"
+    ]
+  },
+  {
+    "word": "सगी",
+    "display": "सगा",
+    "normalized": "सगा",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "実の、血のつながった",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
     ]
   },
   {
@@ -10631,6 +12120,25 @@
     ],
     "sourceIds": [
       "academic_007"
+    ]
+  },
+  {
+    "word": "सुरक्षा",
+    "display": "सुरक्षा",
+    "normalized": "सुरक्षा",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "安全、防護、保護",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "健康",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_023"
     ]
   },
   {
@@ -11377,6 +12885,26 @@
     ],
     "sourceIds": [
       "academic_003BandarMagarmacch1"
+    ]
+  },
+  {
+    "word": "चचेरी",
+    "display": "चचेरा",
+    "normalized": "चचेरा",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "父方のおじ・おばの子にあたる",
+    "importance": 3,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
     ]
   },
   {

@@ -1,0 +1,1292 @@
+[
+  {
+    "word": "प्रयत्न",
+    "display": "प्रयत्न",
+    "normalized": "प्रयत्न",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "努力、試み",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
+    ],
+    "sourceTitle": "भाग 1",
+    "sourceGenre": "essay",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "आग्रह",
+    "display": "आग्रह",
+    "normalized": "आग्रह",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "強い依頼、要請",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
+    ],
+    "sourceTitle": "भाग 1",
+    "sourceGenre": "essay",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "पाठशाला",
+    "display": "पाठशाला",
+    "normalized": "पाठशाला",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "学校、学び舎",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
+    ],
+    "sourceTitle": "भाग 1",
+    "sourceGenre": "essay",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "चचेरी",
+    "display": "चचेरा",
+    "normalized": "चचेरा",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "父方のおじ・おばの子にあたる",
+    "importance": 3,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
+    ],
+    "sourceTitle": "भाग 1",
+    "sourceGenre": "essay",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "सगी",
+    "display": "सगा",
+    "normalized": "सगा",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "実の、血のつながった",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
+    ],
+    "sourceTitle": "भाग 1",
+    "sourceGenre": "essay",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "दाई",
+    "display": "दाई",
+    "normalized": "दाई",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "乳母、世話係の女性、助産婦",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
+    ],
+    "sourceTitle": "भाग 1",
+    "sourceGenre": "essay",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "लिवा",
+    "display": "लिवाना",
+    "normalized": "लिवाना",
+    "variants": [],
+    "pos": "他動詞",
+    "meaning_ja": "連れて行かせる、連れて来る",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
+    ],
+    "sourceTitle": "भाग 1",
+    "sourceGenre": "essay",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "मासिक पत्रिका",
+    "display": "मासिक पत्रिका",
+    "normalized": "मासिक पत्रिका",
+    "variants": [],
+    "pos": "名詞句",
+    "meaning_ja": "月刊誌",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
+    ],
+    "sourceTitle": "भाग 1",
+    "sourceGenre": "essay",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "प्रथम पृष्ठ",
+    "display": "प्रथम पृष्ठ",
+    "normalized": "प्रथम पृष्ठ",
+    "variants": [],
+    "pos": "名詞句",
+    "meaning_ja": "第一ページ、表紙",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
+    ],
+    "sourceTitle": "भाग 1",
+    "sourceGenre": "essay",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "लिखित",
+    "display": "लिखित",
+    "normalized": "लिखित",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "書かれた、文書による",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
+    ],
+    "sourceTitle": "भाग 1",
+    "sourceGenre": "essay",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "ईश्वर-प्रार्थना",
+    "display": "ईश्वर-प्रार्थना",
+    "normalized": "ईश्वर प्रार्थना",
+    "variants": [],
+    "pos": "名詞句",
+    "meaning_ja": "神への祈り",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
+    ],
+    "sourceTitle": "भाग 1",
+    "sourceGenre": "essay",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "शरणागत",
+    "display": "शरणागत",
+    "normalized": "शरणागत",
+    "variants": [],
+    "pos": "名詞・形容詞",
+    "meaning_ja": "庇護を求めて身を寄せた者、帰依した",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
+    ],
+    "sourceTitle": "भाग 1",
+    "sourceGenre": "essay",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "कृपाल",
+    "display": "कृपाल",
+    "normalized": "कृपाल",
+    "variants": [],
+    "pos": "形容詞・名詞",
+    "meaning_ja": "慈悲深い、慈悲深い方",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
+    ],
+    "sourceTitle": "भाग 1",
+    "sourceGenre": "essay",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "पद पंकज",
+    "display": "पद पंकज",
+    "normalized": "पद पंकज",
+    "variants": [],
+    "pos": "名詞句",
+    "meaning_ja": "蓮華のような御足",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
+    ],
+    "sourceTitle": "भाग 1",
+    "sourceGenre": "essay",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "बलिहारी",
+    "display": "बलिहारी",
+    "normalized": "बलिहारी",
+    "variants": [],
+    "pos": "名詞・形容詞",
+    "meaning_ja": "身を捧げるほど敬愛すること、賛嘆",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
+    ],
+    "sourceTitle": "भाग 1",
+    "sourceGenre": "essay",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "मनोरंजक",
+    "display": "मनोरंजक",
+    "normalized": "मनोरंजक",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "面白い、楽しませる",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
+    ],
+    "sourceTitle": "भाग 1",
+    "sourceGenre": "essay",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "उपदेशात्मक",
+    "display": "उपदेशात्मक",
+    "normalized": "उपदेशात्मक",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "教訓的な、説教調の",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
+    ],
+    "sourceTitle": "भाग 1",
+    "sourceGenre": "essay",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "वार्षिक फ़ाइल",
+    "display": "वार्षिक फ़ाइल",
+    "normalized": "वार्षिक फाइल",
+    "variants": [
+      "वार्षिक फाइल"
+    ],
+    "pos": "名詞句",
+    "meaning_ja": "年ごとに綴じた保存ファイル",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
+    ],
+    "sourceTitle": "भाग 1",
+    "sourceGenre": "essay",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "उलटने-पुलटने",
+    "display": "उलटना-पुलटना",
+    "normalized": "उलटना पुलटना",
+    "variants": [],
+    "pos": "動詞句",
+    "meaning_ja": "あれこれめくる、ひっくり返して見る",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
+    ],
+    "sourceTitle": "भाग 1",
+    "sourceGenre": "essay",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "चरितावली",
+    "display": "चरितावली",
+    "normalized": "चरितावली",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "伝記集、人物伝集",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
+    ],
+    "sourceTitle": "भाग 1",
+    "sourceGenre": "essay",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "समाज-सुधारक",
+    "display": "समाज-सुधारक",
+    "normalized": "समाज सुधारक",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "社会改革者",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
+    ],
+    "sourceTitle": "भाग 1",
+    "sourceGenre": "essay",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "जीवनी",
+    "display": "जीवनी",
+    "normalized": "जीवनी",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "伝記",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
+    ],
+    "sourceTitle": "भाग 1",
+    "sourceGenre": "essay",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "प्रकाशित",
+    "display": "प्रकाशित",
+    "normalized": "प्रकाशित",
+    "variants": [],
+    "pos": "形容詞・動詞",
+    "meaning_ja": "出版された、公表された",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
+    ],
+    "sourceTitle": "भाग 1",
+    "sourceGenre": "essay",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "सेवक मंडली",
+    "display": "सेवक मंडली",
+    "normalized": "सेवक मंडली",
+    "variants": [],
+    "pos": "名詞句",
+    "meaning_ja": "奉仕団、奉仕者の集まり",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
+    ],
+    "sourceTitle": "भाग 1",
+    "sourceGenre": "essay",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "स्थापना",
+    "display": "स्थापना",
+    "normalized": "स्थापना",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "設立、創設",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
+    ],
+    "sourceTitle": "भाग 1",
+    "sourceGenre": "essay",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "चन्दा",
+    "display": "चंदा",
+    "normalized": "चंदा",
+    "variants": [
+      "चन्दा"
+    ],
+    "pos": "名詞（男）",
+    "meaning_ja": "寄付金、募金",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
+    ],
+    "sourceTitle": "भाग 1",
+    "sourceGenre": "essay",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "वज़ीफ़ा",
+    "display": "वज़ीफ़ा",
+    "normalized": "वजीफा",
+    "variants": [
+      "वजीफा"
+    ],
+    "pos": "名詞（男）",
+    "meaning_ja": "奨学金、手当",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
+    ],
+    "sourceTitle": "भाग 1",
+    "sourceGenre": "essay",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "प्रबंध",
+    "display": "प्रबंध",
+    "normalized": "प्रबंध",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "手配、管理、仕組み",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
+    ],
+    "sourceTitle": "भाग 1",
+    "sourceGenre": "essay",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "अन्तरंग सभा",
+    "display": "अंतरंग सभा",
+    "normalized": "अंतरंग सभा",
+    "variants": [
+      "अन्तरंग सभा"
+    ],
+    "pos": "名詞句",
+    "meaning_ja": "内部委員会、親密な会合",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
+    ],
+    "sourceTitle": "भाग 1",
+    "sourceGenre": "essay",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "कट्टर",
+    "display": "कट्टर",
+    "normalized": "कट्टर",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "頑固な、熱狂的な、原理主義的な",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
+    ],
+    "sourceTitle": "भाग 1",
+    "sourceGenre": "essay",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "आस्थावान",
+    "display": "आस्थावान",
+    "normalized": "आस्थावान",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "信仰心のある、信念を持った",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
+    ],
+    "sourceTitle": "भाग 1",
+    "sourceGenre": "essay",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "सनातनी",
+    "display": "सनातनी",
+    "normalized": "सनातनी",
+    "variants": [],
+    "pos": "名詞・形容詞",
+    "meaning_ja": "サナータナ・ダルマを信奉する人、伝統的ヒンドゥーの",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
+    ],
+    "sourceTitle": "भाग 1",
+    "sourceGenre": "essay",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "गरिष्ठ",
+    "display": "गरिष्ठ",
+    "normalized": "गरिष्ठ",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "重たい、難解でとっつきにくい",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
+    ],
+    "sourceTitle": "भाग 1",
+    "sourceGenre": "essay",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "आर्यसमाजी",
+    "display": "आर्यसमाजी",
+    "normalized": "आर्यसमाजी",
+    "variants": [],
+    "pos": "名詞・形容詞",
+    "meaning_ja": "アーリヤ・サマージの信奉者、アーリヤ・サマージ的な",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
+    ],
+    "sourceTitle": "भाग 1",
+    "sourceGenre": "essay",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "आयात",
+    "display": "आयात",
+    "normalized": "आयात",
+    "variants": [],
+    "pos": "名詞・動詞",
+    "meaning_ja": "輸入、持ち込み",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
+    ],
+    "sourceTitle": "भाग 1",
+    "sourceGenre": "essay",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "मूर्ति-पूजा",
+    "display": "मूर्ति-पूजा",
+    "normalized": "मूर्ति पूजा",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "偶像崇拝、神像礼拝",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
+    ],
+    "sourceTitle": "भाग 1",
+    "sourceGenre": "essay",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "अवतार",
+    "display": "अवतार",
+    "normalized": "अवतार",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "化身、神の降臨",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
+    ],
+    "sourceTitle": "भाग 1",
+    "sourceGenre": "essay",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "संग्रह",
+    "display": "संग्रह",
+    "normalized": "संग्रह",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "収集、集成、コレクション",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
+    ],
+    "sourceTitle": "भाग 1",
+    "sourceGenre": "essay",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "नीरस-कर्कश",
+    "display": "नीरस-कर्कश",
+    "normalized": "नीरस कर्कश",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "味気なく耳障りな",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
+    ],
+    "sourceTitle": "भाग 1",
+    "sourceGenre": "essay",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "रुचि",
+    "display": "रुचि",
+    "normalized": "रुचि",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "趣味、好み、関心",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
+    ],
+    "sourceTitle": "भाग 1",
+    "sourceGenre": "essay",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "प्रलोभन",
+    "display": "प्रलोभन",
+    "normalized": "प्रलोभन",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "誘惑、誘い",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
+    ],
+    "sourceTitle": "भाग 1",
+    "sourceGenre": "essay",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "रस",
+    "display": "रस",
+    "normalized": "रस",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "興味、味わい、情趣",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
+    ],
+    "sourceTitle": "भाग 1",
+    "sourceGenre": "essay",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "नाराज़गी",
+    "display": "नाराज़गी",
+    "normalized": "नाराजगी",
+    "variants": [
+      "नाराजगी"
+    ],
+    "pos": "名詞（女）",
+    "meaning_ja": "不満、怒り、不機嫌",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
+    ],
+    "sourceTitle": "भाग 1",
+    "sourceGenre": "essay",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "कोठरी",
+    "display": "कोठरी",
+    "normalized": "कोठरी",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "小部屋、物置部屋",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
+    ],
+    "sourceTitle": "भाग 1",
+    "sourceGenre": "essay",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "बर्तन-भाँड़े",
+    "display": "बर्तन-भाँड़ा",
+    "normalized": "बर्तन भांड़ा",
+    "variants": [
+      "बर्तन-भांड़ा",
+      "बर्तन भाँड़ा",
+      "बर्तन भांड़ा"
+    ],
+    "pos": "名詞（男）",
+    "meaning_ja": "鍋釜、食器類",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
+    ],
+    "sourceTitle": "भाग 1",
+    "sourceGenre": "essay",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "सुखद स्मृतियाँ",
+    "display": "सुखद स्मृति",
+    "normalized": "सुखद स्मृति",
+    "variants": [],
+    "pos": "名詞句",
+    "meaning_ja": "楽しい思い出",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
+    ],
+    "sourceTitle": "भाग 1",
+    "sourceGenre": "essay",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "सम्पर्क",
+    "display": "संपर्क",
+    "normalized": "संपर्क",
+    "variants": [
+      "सम्पर्क"
+    ],
+    "pos": "名詞（男）",
+    "meaning_ja": "接触、関わり",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
+    ],
+    "sourceTitle": "भाग 1",
+    "sourceGenre": "essay",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "अनायास",
+    "display": "अनायास",
+    "normalized": "अनायास",
+    "variants": [],
+    "pos": "副詞",
+    "meaning_ja": "自然に、思いがけず",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
+    ],
+    "sourceTitle": "भाग 1",
+    "sourceGenre": "essay",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "हरूफ",
+    "display": "हरूफ",
+    "normalized": "हरूफ",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "文字、字母",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
+    ],
+    "sourceTitle": "भाग 1",
+    "sourceGenre": "essay",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "विधिवत्",
+    "display": "विधिवत्",
+    "normalized": "विधिवत्",
+    "variants": [],
+    "pos": "副詞",
+    "meaning_ja": "正式に、規定どおりに",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
+    ],
+    "sourceTitle": "भाग 1",
+    "sourceGenre": "essay",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "पुरोहित",
+    "display": "पुरोहित",
+    "normalized": "पुरोहित",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "祭司、僧侶",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
+    ],
+    "sourceTitle": "भाग 1",
+    "sourceGenre": "essay",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "पट्टी",
+    "display": "पट्टी",
+    "normalized": "पट्टी",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "書字板、板、細長い布・板状のもの",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
+    ],
+    "sourceTitle": "भाग 1",
+    "sourceGenre": "essay",
+    "sourceRegister": "academic_prose"
+  },
+  {
+    "word": "बन्दगी",
+    "display": "बंदगी",
+    "normalized": "बंदगी",
+    "variants": [
+      "बन्दगी"
+    ],
+    "pos": "名詞（女）",
+    "meaning_ja": "敬礼、挨拶、礼拝",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
+    ],
+    "sourceTitle": "भाग 1",
+    "sourceGenre": "essay",
+    "sourceRegister": "academic_prose"
+  }
+]

@@ -1,0 +1,591 @@
+[
+  {
+    "word": "गर्भनिरोध",
+    "display": "गर्भनिरोध",
+    "normalized": "गर्भनिरोध",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "避妊、妊娠予防",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "健康",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_023"
+    ],
+    "sourceTitle": "गर्भनिरोध",
+    "sourceGenre": "textbook",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "word": "यौन सम्बन्ध",
+    "display": "यौन संबंध",
+    "normalized": "यौन संबंध",
+    "variants": [
+      "यौन संबंध",
+      "यौन सम्बन्ध"
+    ],
+    "pos": "名詞句",
+    "meaning_ja": "性的関係、性交渉",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "健康",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_023"
+    ],
+    "sourceTitle": "गर्भनिरोध",
+    "sourceGenre": "textbook",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "word": "सुरक्षा",
+    "display": "सुरक्षा",
+    "normalized": "सुरक्षा",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "安全、防護、保護",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "健康",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_023"
+    ],
+    "sourceTitle": "गर्भनिरोध",
+    "sourceGenre": "textbook",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "word": "गर्भ",
+    "display": "गर्भ",
+    "normalized": "गर्भ",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "妊娠、胎内の子",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "健康",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_023"
+    ],
+    "sourceTitle": "गर्भनिरोध",
+    "sourceGenre": "textbook",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "word": "गर्भ गिराना",
+    "display": "गर्भ गिराना",
+    "normalized": "गर्भ गिराना",
+    "variants": [],
+    "pos": "動詞句",
+    "meaning_ja": "妊娠を中断する、堕胎する",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "健康",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_023"
+    ],
+    "sourceTitle": "गर्भनिरोध",
+    "sourceGenre": "textbook",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "word": "वयस्क",
+    "display": "वयस्क",
+    "normalized": "वयस्क",
+    "variants": [],
+    "pos": "形容詞・名詞",
+    "meaning_ja": "成人の、大人",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "健康",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_023"
+    ],
+    "sourceTitle": "गर्भनिरोध",
+    "sourceGenre": "textbook",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "word": "डाक्टर की पर्ची",
+    "display": "डॉक्टर की पर्ची",
+    "normalized": "डाक्टर की पर्ची",
+    "variants": [
+      "डॉक्टर की पर्ची",
+      "डाक्टर की पर्ची"
+    ],
+    "pos": "名詞句",
+    "meaning_ja": "医師の処方箋",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "健康",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_023"
+    ],
+    "sourceTitle": "गर्भनिरोध",
+    "sourceGenre": "textbook",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "word": "जिज्ञासा",
+    "display": "जिज्ञासा",
+    "normalized": "जिज्ञासा",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "好奇心、知りたい気持ち",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "健康",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_023"
+    ],
+    "sourceTitle": "गर्भनिरोध",
+    "sourceGenre": "textbook",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "word": "यौन इच्छा",
+    "display": "यौन इच्छा",
+    "normalized": "यौन इच्छा",
+    "variants": [],
+    "pos": "名詞句",
+    "meaning_ja": "性的欲求",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "健康",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_023"
+    ],
+    "sourceTitle": "गर्भनिरोध",
+    "sourceGenre": "textbook",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "word": "पूर्ति",
+    "display": "पूर्ति",
+    "normalized": "पूर्ति",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "充足、満たすこと",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "健康",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_023"
+    ],
+    "sourceTitle": "गर्भनिरोध",
+    "sourceGenre": "textbook",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "word": "दबाव",
+    "display": "दबाव",
+    "normalized": "दबाव",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "圧力、プレッシャー",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "健康",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_023"
+    ],
+    "sourceTitle": "गर्भनिरोध",
+    "sourceGenre": "textbook",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "word": "किशोर",
+    "display": "किशोर",
+    "normalized": "किशोर",
+    "variants": [],
+    "pos": "名詞・形容詞",
+    "meaning_ja": "思春期の少年、十代の若者",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "健康",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_023"
+    ],
+    "sourceTitle": "गर्भनिरोध",
+    "sourceGenre": "textbook",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "word": "हड़बड़ी",
+    "display": "हड़बड़ी",
+    "normalized": "हड़बड़ी",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "慌ただしさ、焦り",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "健康",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_023"
+    ],
+    "sourceTitle": "गर्भनिरोध",
+    "sourceGenre": "textbook",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "word": "धारणा",
+    "display": "धारणा",
+    "normalized": "धारणा",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "考え、思い込み、観念",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "健康",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_023"
+    ],
+    "sourceTitle": "गर्भनिरोध",
+    "sourceGenre": "textbook",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "word": "सम्भोग",
+    "display": "संभोग",
+    "normalized": "संभोग",
+    "variants": [
+      "संभोग",
+      "सम्भोग"
+    ],
+    "pos": "名詞（男）",
+    "meaning_ja": "性交",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "健康",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_023"
+    ],
+    "sourceTitle": "गर्भनिरोध",
+    "sourceGenre": "textbook",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "word": "योनि",
+    "display": "योनि",
+    "normalized": "योनि",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "膣、女性器",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "健康",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_023"
+    ],
+    "sourceTitle": "गर्भनिरोध",
+    "sourceGenre": "textbook",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "word": "गर्भवती",
+    "display": "गर्भवती",
+    "normalized": "गर्भवती",
+    "variants": [],
+    "pos": "形容詞・名詞",
+    "meaning_ja": "妊娠した、妊婦",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "健康",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_023"
+    ],
+    "sourceTitle": "गर्भनिरोध",
+    "sourceGenre": "textbook",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "word": "वीर्य",
+    "display": "वीर्य",
+    "normalized": "वीर्य",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "精液",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "健康",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_023"
+    ],
+    "sourceTitle": "गर्भनिरोध",
+    "sourceGenre": "textbook",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "word": "शुक्राणु",
+    "display": "शुक्राणु",
+    "normalized": "शुक्राणु",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "精子",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "健康",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_023"
+    ],
+    "sourceTitle": "गर्भनिरोध",
+    "sourceGenre": "textbook",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "word": "गर्भाशय",
+    "display": "गर्भाशय",
+    "normalized": "गर्भाशय",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "子宮",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "健康",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_023"
+    ],
+    "sourceTitle": "गर्भनिरोध",
+    "sourceGenre": "textbook",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "word": "गर्भनिरोधक",
+    "display": "गर्भनिरोधक",
+    "normalized": "गर्भनिरोधक",
+    "variants": [],
+    "pos": "名詞・形容詞",
+    "meaning_ja": "避妊具、避妊法、避妊の",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "健康",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_023"
+    ],
+    "sourceTitle": "गर्भनिरोध",
+    "sourceGenre": "textbook",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "word": "टालना",
+    "display": "टालना",
+    "normalized": "टालना",
+    "variants": [],
+    "pos": "他動詞",
+    "meaning_ja": "延期する、避ける",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "健康",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_023"
+    ],
+    "sourceTitle": "गर्भनिरोध",
+    "sourceGenre": "textbook",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "word": "जल्दबाज़ी",
+    "display": "जल्दबाज़ी",
+    "normalized": "जल्दबाजी",
+    "variants": [
+      "जल्दबाजी"
+    ],
+    "pos": "名詞（女）",
+    "meaning_ja": "焦り、早まった行動",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "健康",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_023"
+    ],
+    "sourceTitle": "गर्भनिरोध",
+    "sourceGenre": "textbook",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "word": "आनन्दमय",
+    "display": "आनंदमय",
+    "normalized": "आनंदमय",
+    "variants": [
+      "आनंदमय",
+      "आनन्दमय"
+    ],
+    "pos": "形容詞",
+    "meaning_ja": "喜びに満ちた、楽しい",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "健康",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_023"
+    ],
+    "sourceTitle": "गर्भनिरोध",
+    "sourceGenre": "textbook",
+    "sourceRegister": "simple_narrative"
+  },
+  {
+    "word": "घट जाना",
+    "display": "घट जाना",
+    "normalized": "घट जाना",
+    "variants": [],
+    "pos": "動詞句",
+    "meaning_ja": "減少する、下がる",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "性教育",
+      "健康",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_023"
+    ],
+    "sourceTitle": "गर्भनिरोध",
+    "sourceGenre": "textbook",
+    "sourceRegister": "simple_narrative"
+  }
+]
