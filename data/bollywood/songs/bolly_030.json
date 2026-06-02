@@ -282,17 +282,17 @@
       "status": "active"
     },
     {
-      "word": "बलाएँ",
+      "word": "बला",
       "normalized": "बला",
-      "pos": "名詞（女・複）",
+      "pos": "名詞（女）",
       "meaning_ja": "災い、悪運（取り払う対象）",
       "importance": 3,
       "status": "active"
     },
     {
-      "word": "दुआएँ",
+      "word": "दुआ",
       "normalized": "दुआ",
-      "pos": "名詞（女・複）",
+      "pos": "名詞（女）",
       "meaning_ja": "祈り、祝福",
       "importance": 4,
       "status": "active"

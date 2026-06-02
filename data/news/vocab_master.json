@@ -204,23 +204,6 @@
     "quizWeight": 3
   },
   {
-    "word": "साज़िश",
-    "normalized": "साज़िश",
-    "pos": "名詞（女）",
-    "meaning_ja": "陰謀、企み",
-    "category": "事件・事故",
-    "difficulty": 3,
-    "importance": 4,
-    "status": "active",
-    "sourceArticleIds": [
-      "news_vocab_02"
-    ],
-    "sourceCount": 1,
-    "frequency": 1,
-    "notes": "",
-    "quizWeight": 3
-  },
-  {
     "word": "हिंसक",
     "normalized": "हिंसक",
     "pos": "形容詞",
@@ -1706,10 +1689,11 @@
     "status": "active",
     "sourceArticleIds": [
       "news_vocab_01",
-      "news_013"
+      "news_013",
+      "news040_DJ20260602_Goldmedal"
     ],
-    "sourceCount": 2,
-    "frequency": 2,
+    "sourceCount": 3,
+    "frequency": 3,
     "notes": "",
     "quizWeight": 3
   },
@@ -1850,10 +1834,11 @@
     "sourceArticleIds": [
       "news_vocab_01",
       "news_vocab_02",
-      "news020DJ20260518_NeetLeak"
+      "news020DJ20260518_NeetLeak",
+      "news039_DJ20260602_Atanki"
     ],
-    "sourceCount": 3,
-    "frequency": 3,
+    "sourceCount": 4,
+    "frequency": 4,
     "notes": "",
     "quizWeight": 3
   },
@@ -2430,10 +2415,11 @@
       "news_20260429_bengal_chunaw",
       "news020DJ20260518_NeetLeak",
       "news024_NBT20260520_Dahej",
-      "news033_DJ20260527_KhaliBaoli"
+      "news033_DJ20260527_KhaliBaoli",
+      "news039_DJ20260602_Atanki"
     ],
-    "sourceCount": 4,
-    "frequency": 4,
+    "sourceCount": 5,
+    "frequency": 5,
     "notes": "गिरफ्तारी は名詞「逮捕」。これは分詞・形容詞として別登録。",
     "quizWeight": 3
   },
@@ -3654,10 +3640,11 @@
     "sourceArticleIds": [
       "news_010",
       "news_014",
-      "news027_NBT20260519_Gutka"
+      "news027_NBT20260519_Gutka",
+      "news040_DJ20260602_Goldmedal"
     ],
-    "sourceCount": 3,
-    "frequency": 3,
+    "sourceCount": 4,
+    "frequency": 4,
     "notes": "",
     "quizWeight": 3
   },
@@ -4661,10 +4648,11 @@
     "importance": 4,
     "status": "active",
     "sourceArticleIds": [
-      "news_014"
+      "news_014",
+      "news040_DJ20260602_Goldmedal"
     ],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 2,
+    "frequency": 2,
     "notes": "",
     "quizWeight": 3
   },
@@ -5778,10 +5766,11 @@
     "importance": 4,
     "status": "active",
     "sourceArticleIds": [
-      "news016DJ20260513_GoldScheme"
+      "news016DJ20260513_GoldScheme",
+      "news040_DJ20260602_Goldmedal"
     ],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 2,
+    "frequency": 2,
     "quizWeight": 3
   },
   {
@@ -6762,10 +6751,11 @@
     "importance": 4,
     "status": "active",
     "sourceArticleIds": [
-      "news020DJ20260518_NeetLeak"
+      "news020DJ20260518_NeetLeak",
+      "news039_DJ20260602_Atanki"
     ],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 2,
+    "frequency": 2,
     "notes": "",
     "quizWeight": 3
   },
@@ -7808,10 +7798,11 @@
     "status": "active",
     "sourceArticleIds": [
       "news022DJ20260520_Rabies",
-      "news029_DJ20260523_Maoism"
+      "news029_DJ20260523_Maoism",
+      "news039_DJ20260602_Atanki"
     ],
-    "sourceCount": 2,
-    "frequency": 2,
+    "sourceCount": 3,
+    "frequency": 3,
     "notes": "公共安全・治安文脈で頻出",
     "quizWeight": 4
   },
@@ -10685,10 +10676,11 @@
     "importance": 3,
     "status": "active",
     "sourceArticleIds": [
-      "news035_NBT20260525_Manjha"
+      "news035_NBT20260525_Manjha",
+      "news040_DJ20260602_Goldmedal"
     ],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 2,
+    "frequency": 2,
     "notes": "学校・施設文脈でも頻出",
     "quizWeight": 3
   },
@@ -11634,5 +11626,320 @@
     "frequency": 1,
     "notes": "本文では「भारी-भरकम अल्फाज」＝難解で大仰な言葉",
     "quizWeight": 3
+  },
+  {
+    "word": "आतंकी",
+    "normalized": "आतंकी",
+    "pos": "名詞（男）",
+    "meaning_ja": "テロリスト",
+    "category": "事件・事故",
+    "difficulty": 3,
+    "importance": 5,
+    "status": "active",
+    "sourceArticleIds": [
+      "news039_DJ20260602_Atanki"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "आतंकवादी の短縮形としてニュースで頻出",
+    "quizWeight": 5
+  },
+  {
+    "word": "बेनकाब",
+    "normalized": "बेनकाब",
+    "pos": "形容詞",
+    "meaning_ja": "暴露された、正体を明かされた",
+    "category": "事件・事故",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news039_DJ20260602_Atanki"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "犯罪・捜査報道で頻出",
+    "quizWeight": 4
+  },
+  {
+    "word": "खुफिया",
+    "normalized": "खुफिया",
+    "pos": "形容詞",
+    "meaning_ja": "諜報の、秘密の",
+    "category": "事件・事故",
+    "difficulty": 4,
+    "importance": 5,
+    "status": "active",
+    "sourceArticleIds": [
+      "news039_DJ20260602_Atanki"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "安全保障・諜報関連ニュース頻出",
+    "quizWeight": 5
+  },
+  {
+    "word": "गुर्गा",
+    "normalized": "गुर्गा",
+    "pos": "名詞（男）",
+    "meaning_ja": "手下、配下",
+    "category": "事件・事故",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news039_DJ20260602_Atanki"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "犯罪組織・マフィア関連語彙",
+    "quizWeight": 4
+  },
+  {
+    "word": "भड़कना",
+    "normalized": "भड़कना",
+    "pos": "自動詞",
+    "meaning_ja": "激怒する、煽られる",
+    "category": "事件・事故",
+    "difficulty": 4,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news039_DJ20260602_Atanki"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "感情・暴動・対立報道で頻出",
+    "quizWeight": 3
+  },
+  {
+    "word": "तिलमिलाना",
+    "normalized": "तिलमिलाना",
+    "pos": "自動詞",
+    "meaning_ja": "苛立つ、激しく憤る",
+    "category": "事件・事故",
+    "difficulty": 4,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news039_DJ20260602_Atanki"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "感情描写で使用される文学的語彙",
+    "quizWeight": 3
+  },
+  {
+    "word": "पर्दाफाश",
+    "normalized": "पर्दाफाश",
+    "pos": "名詞（男）",
+    "meaning_ja": "暴露、摘発",
+    "category": "事件・事故",
+    "difficulty": 4,
+    "importance": 5,
+    "status": "active",
+    "sourceArticleIds": [
+      "news039_DJ20260602_Atanki"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "犯罪・汚職・捜査報道で頻出",
+    "quizWeight": 5
+  },
+  {
+    "word": "ठिकाना",
+    "normalized": "ठिकाना",
+    "pos": "名詞（男）",
+    "meaning_ja": "隠れ家、拠点、居場所",
+    "category": "事件・事故",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news039_DJ20260602_Atanki"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "犯罪・捜査記事で頻出",
+    "quizWeight": 4
+  },
+  {
+    "word": "खुफिया एजेंसी",
+    "display": "खुफिया एजेंसी",
+    "normalized": "खुफिया_एजेंसी",
+    "pos": "固定複合語",
+    "meaning_ja": "諜報機関",
+    "category": "事件・事故",
+    "difficulty": 4,
+    "importance": 5,
+    "status": "active",
+    "sourceArticleIds": [
+      "news039_DJ20260602_Atanki"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "国家安全保障・諜報分野の重要語",
+    "quizWeight": 5
+  },
+  {
+    "word": "जिहादी ब्रिगेड",
+    "display": "जिहादी ब्रिगेड",
+    "normalized": "जिहादी_ब्रिगेड",
+    "pos": "固定複合語",
+    "meaning_ja": "ジハード部隊",
+    "category": "事件・事故",
+    "difficulty": 5,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news039_DJ20260602_Atanki"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "テロ組織関連報道で使用",
+    "quizWeight": 4
+  },
+  {
+    "word": "साज़िश",
+    "display": "साज़िश",
+    "normalized": "साजिश",
+    "variants": [
+      "साजिश",
+      "साज़िश",
+      "साज़िश"
+    ],
+    "pos": "名詞（女）",
+    "meaning_ja": "陰謀、策略",
+    "category": "事件・事故",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news039_DJ20260602_Atanki"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "捜査・テロ・政治報道で頻出",
+    "quizWeight": 4
+  },
+  {
+    "word": "स्वर्ण पदक विजेता",
+    "display": "स्वर्ण पदक विजेता",
+    "normalized": "स्वर्ण_पदक_विजेता",
+    "pos": "固定複合語",
+    "meaning_ja": "金メダル獲得者",
+    "category": "教育",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news040_DJ20260602_Goldmedal"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "スポーツ・教育記事で使用",
+    "quizWeight": 4
+  },
+  {
+    "word": "प्रोत्साहन",
+    "normalized": "प्रोत्साहन",
+    "pos": "名詞（男）",
+    "meaning_ja": "奨励、激励、支援",
+    "category": "労働・経済",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news040_DJ20260602_Goldmedal"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "行政支援・教育・スポーツ記事で頻出",
+    "quizWeight": 4
+  },
+  {
+    "word": "दिव्यांग",
+    "normalized": "दिव्यांग",
+    "pos": "名詞（男）",
+    "meaning_ja": "障がい者",
+    "category": "医療・健康",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news040_DJ20260602_Goldmedal"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "障害者を指す現代インドの行政・社会福祉用語",
+    "quizWeight": 4
+  },
+  {
+    "word": "जीविका",
+    "normalized": "जीविका",
+    "pos": "名詞（女）",
+    "meaning_ja": "生計、生業",
+    "category": "労働・経済",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news040_DJ20260602_Goldmedal"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "生活・雇用・貧困関連ニュース頻出",
+    "quizWeight": 4
+  },
+  {
+    "word": "प्रतियोगिता",
+    "normalized": "प्रतियोगिता",
+    "pos": "名詞（女）",
+    "meaning_ja": "競技会、大会、コンテスト",
+    "category": "教育",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news040_DJ20260602_Goldmedal"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "スポーツ・教育記事頻出",
+    "quizWeight": 4
+  },
+  {
+    "word": "प्रतिनिधित्व",
+    "normalized": "प्रतिनिधित्व",
+    "pos": "名詞（男）",
+    "meaning_ja": "代表、代表すること",
+    "category": "一般ニュース語彙",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news040_DJ20260602_Goldmedal"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "政治・社会・スポーツ記事で頻出",
+    "quizWeight": 4
+  },
+  {
+    "word": "विधिवत",
+    "normalized": "विधिवत",
+    "pos": "副詞",
+    "meaning_ja": "正式に、正規に、体系的に",
+    "category": "一般ニュース語彙",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news040_DJ20260602_Goldmedal"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "正式な手続きや正規の方法に従って行われることを表す",
+    "quizWeight": 4
   }
 ]

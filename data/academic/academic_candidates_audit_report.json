@@ -5328,9 +5328,9 @@
       "audit": "existing_in_master"
     },
     {
-      "word": "विराम चिन्ह",
-      "display": "विराम चिन्ह",
-      "normalized": "विराम_चिन्ह",
+      "word": "विराम चिह्न",
+      "display": "विराम चिह्न",
+      "normalized": "विराम_चिह्न",
       "variants": [],
       "pos": "名詞句",
       "meaning_ja": "句読点、約物",
@@ -15180,7 +15180,7 @@
     },
     {
       "word": "गदला",
-      "display": "गदली-गदली",
+      "display": "गदला",
       "normalized": "गदला",
       "variants": [],
       "pos": "形容詞",
@@ -15806,7 +15806,7 @@
     },
     {
       "word": "दुआ",
-      "display": "दुआएँ",
+      "display": "दुआ",
       "normalized": "दुआ",
       "variants": [],
       "pos": "名詞（女）",
@@ -16070,7 +16070,7 @@
     },
     {
       "word": "डपटना",
-      "display": "डपट",
+      "display": "डपटना",
       "normalized": "डपटना",
       "variants": [],
       "pos": "他動詞",
@@ -16652,7 +16652,7 @@
     },
     {
       "word": "बिगड़ना",
-      "display": "बिगड़ गई",
+      "display": "बिगड़ना",
       "normalized": "बिगड़ना",
       "variants": [],
       "pos": "自動詞",
@@ -17132,7 +17132,7 @@
     },
     {
       "word": "जूझना",
-      "display": "जूझ रही हैं",
+      "display": "जूझना",
       "normalized": "जूझना",
       "variants": [],
       "pos": "自動詞",
@@ -17961,7 +17961,7 @@
     },
     {
       "word": "विडम्बना",
-      "display": "विडम्बना",
+      "display": "विडंबना",
       "normalized": "विडंबना",
       "variants": [
         "विडंबना",

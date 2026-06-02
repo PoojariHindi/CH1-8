@@ -91,6 +91,19 @@
     "quizWeight": 15
   },
   {
+    "word": "गिरफ्तार",
+    "display": "गिरफ्तार",
+    "normalized": "गिरफ्तार",
+    "meaning_ja": "逮捕された",
+    "pos": "形容詞・分詞",
+    "category": "事件・事故",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 5,
+    "frequency": 5,
+    "quizWeight": 14
+  },
+  {
     "word": "निर्देश",
     "display": "निर्देश",
     "normalized": "निर्देश",
@@ -195,6 +208,19 @@
     "quizWeight": 13
   },
   {
+    "word": "एजेंसी",
+    "display": "एजेंसी",
+    "normalized": "एजेंसी",
+    "meaning_ja": "機関、エージェンシー",
+    "pos": "名詞（女）",
+    "category": "都市・環境",
+    "difficulty": 1,
+    "importance": 3,
+    "sourceCount": 4,
+    "frequency": 4,
+    "quizWeight": 13
+  },
+  {
     "word": "कमी",
     "display": "कमी",
     "normalized": "कमी",
@@ -205,19 +231,6 @@
     "importance": 4,
     "sourceCount": 2,
     "frequency": 2,
-    "quizWeight": 13
-  },
-  {
-    "word": "गिरफ्तार",
-    "display": "गिरफ्तार",
-    "normalized": "गिरफ्तार",
-    "meaning_ja": "逮捕された",
-    "pos": "形容詞・分詞",
-    "category": "事件・事故",
-    "difficulty": 3,
-    "importance": 4,
-    "sourceCount": 4,
-    "frequency": 4,
     "quizWeight": 13
   },
   {
@@ -312,6 +325,19 @@
     "quizWeight": 13
   },
   {
+    "word": "सुरक्षा",
+    "display": "सुरक्षा",
+    "normalized": "सुरक्षा",
+    "meaning_ja": "安全、保護",
+    "pos": "名詞（女）",
+    "category": "行政・制度",
+    "difficulty": 2,
+    "importance": 4,
+    "sourceCount": 3,
+    "frequency": 3,
+    "quizWeight": 13
+  },
+  {
     "word": "हिंसा",
     "display": "हिंसा",
     "normalized": "हिंसा",
@@ -348,6 +374,19 @@
     "importance": 4,
     "sourceCount": 2,
     "frequency": 2,
+    "quizWeight": 12
+  },
+  {
+    "word": "आतंकी",
+    "display": "आतंकी",
+    "normalized": "आतंकी",
+    "meaning_ja": "テロリスト",
+    "pos": "名詞（男）",
+    "category": "事件・事故",
+    "difficulty": 3,
+    "importance": 5,
+    "sourceCount": 1,
+    "frequency": 1,
     "quizWeight": 12
   },
   {
@@ -400,19 +439,6 @@
     "importance": 4,
     "sourceCount": 1,
     "frequency": 1,
-    "quizWeight": 12
-  },
-  {
-    "word": "एजेंसी",
-    "display": "एजेंसी",
-    "normalized": "एजेंसी",
-    "meaning_ja": "機関、エージェンシー",
-    "pos": "名詞（女）",
-    "category": "都市・環境",
-    "difficulty": 1,
-    "importance": 3,
-    "sourceCount": 3,
-    "frequency": 3,
     "quizWeight": 12
   },
   {
@@ -543,6 +569,19 @@
     "importance": 3,
     "sourceCount": 3,
     "frequency": 3,
+    "quizWeight": 12
+  },
+  {
+    "word": "पहचान",
+    "display": "पहचान",
+    "normalized": "पहचान",
+    "meaning_ja": "身元確認、識別",
+    "pos": "名詞（女）",
+    "category": "事件・事故",
+    "difficulty": 2,
+    "importance": 3,
+    "sourceCount": 4,
+    "frequency": 4,
     "quizWeight": 12
   },
   {
@@ -699,19 +738,6 @@
     "importance": 4,
     "sourceCount": 3,
     "frequency": 3,
-    "quizWeight": 12
-  },
-  {
-    "word": "सुरक्षा",
-    "display": "सुरक्षा",
-    "normalized": "सुरक्षा",
-    "meaning_ja": "安全、保護",
-    "pos": "名詞（女）",
-    "category": "行政・制度",
-    "difficulty": 2,
-    "importance": 4,
-    "sourceCount": 2,
-    "frequency": 2,
     "quizWeight": 12
   },
   {
@@ -923,6 +949,32 @@
     "quizWeight": 11
   },
   {
+    "word": "खुफिया",
+    "display": "खुफिया",
+    "normalized": "खुफिया",
+    "meaning_ja": "諜報の、秘密の",
+    "pos": "形容詞",
+    "category": "事件・事故",
+    "difficulty": 4,
+    "importance": 5,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 11
+  },
+  {
+    "word": "खुफिया एजेंसी",
+    "display": "खुफिया एजेंसी",
+    "normalized": "खुफिया_एजेंसी",
+    "meaning_ja": "諜報機関",
+    "pos": "固定複合語",
+    "category": "事件・事故",
+    "difficulty": 4,
+    "importance": 5,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 11
+  },
+  {
     "word": "गंभीरता",
     "display": "गंभीरता",
     "normalized": "गंभीरता",
@@ -985,6 +1037,19 @@
     "importance": 4,
     "sourceCount": 1,
     "frequency": 1,
+    "quizWeight": 11
+  },
+  {
+    "word": "जीवनयापन",
+    "display": "जीवनयापन",
+    "normalized": "जीवनयापन",
+    "meaning_ja": "生計維持、生活",
+    "pos": "名詞（男）",
+    "category": "労働・経済",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 2,
+    "frequency": 2,
     "quizWeight": 11
   },
   {
@@ -1118,16 +1183,16 @@
     "quizWeight": 11
   },
   {
-    "word": "पहचान",
-    "display": "पहचान",
-    "normalized": "पहचान",
-    "meaning_ja": "身元確認、識別",
-    "pos": "名詞（女）",
+    "word": "पर्दाफाश",
+    "display": "पर्दाफाश",
+    "normalized": "पर्दाफाश",
+    "meaning_ja": "暴露、摘発",
+    "pos": "名詞（男）",
     "category": "事件・事故",
-    "difficulty": 2,
-    "importance": 3,
-    "sourceCount": 3,
-    "frequency": 3,
+    "difficulty": 4,
+    "importance": 5,
+    "sourceCount": 1,
+    "frequency": 1,
     "quizWeight": 11
   },
   {
@@ -1170,6 +1235,19 @@
     "quizWeight": 11
   },
   {
+    "word": "पूछताछ",
+    "display": "पूछताछ",
+    "normalized": "पूछताछ",
+    "meaning_ja": "取り調べ、事情聴取",
+    "pos": "名詞（女）",
+    "category": "事件・事故",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 2,
+    "frequency": 2,
+    "quizWeight": 11
+  },
+  {
     "word": "पोस्टमॉर्टम",
     "display": "पोस्टमॉर्टम",
     "normalized": "पोस्टमॉर्टम",
@@ -1189,6 +1267,19 @@
     "meaning_ja": "デモ、抗議行動、示威行動",
     "pos": "名詞（男）",
     "category": "事件・事故",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 2,
+    "frequency": 2,
+    "quizWeight": 11
+  },
+  {
+    "word": "प्रशिक्षण",
+    "display": "प्रशिक्षण",
+    "normalized": "प्रशिक्षण",
+    "meaning_ja": "研修、訓練、トレーニング",
+    "pos": "名詞（男）",
+    "category": "教育",
     "difficulty": 3,
     "importance": 4,
     "sourceCount": 2,
@@ -1648,6 +1739,19 @@
     "importance": 4,
     "sourceCount": 1,
     "frequency": 1,
+    "quizWeight": 11
+  },
+  {
+    "word": "स्तर",
+    "display": "स्तर",
+    "normalized": "स्तर",
+    "meaning_ja": "水準; レベル",
+    "pos": "名詞（男）",
+    "category": "調査・データ",
+    "difficulty": 2,
+    "importance": 3,
+    "sourceCount": 3,
+    "frequency": 3,
     "quizWeight": 11
   },
   {
@@ -2301,19 +2405,6 @@
     "quizWeight": 10
   },
   {
-    "word": "जीवनयापन",
-    "display": "जीवनयापन",
-    "normalized": "जीवनयापन",
-    "meaning_ja": "生計維持、生活",
-    "pos": "名詞（男）",
-    "category": "労働・経済",
-    "difficulty": 3,
-    "importance": 4,
-    "sourceCount": 1,
-    "frequency": 1,
-    "quizWeight": 10
-  },
-  {
     "word": "जुटना",
     "display": "जुटना",
     "normalized": "जुटना",
@@ -2346,6 +2437,19 @@
     "meaning_ja": "激しい雨、ざあざあ降る雨",
     "pos": "名詞（女）",
     "category": "都市・環境",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 10
+  },
+  {
+    "word": "ठिकाना",
+    "display": "ठिकाना",
+    "normalized": "ठिकाना",
+    "meaning_ja": "隠れ家、拠点、居場所",
+    "pos": "名詞（男）",
+    "category": "事件・事故",
     "difficulty": 3,
     "importance": 4,
     "sourceCount": 1,
@@ -2652,19 +2756,6 @@
     "quizWeight": 10
   },
   {
-    "word": "पूछताछ",
-    "display": "पूछताछ",
-    "normalized": "पूछताछ",
-    "meaning_ja": "取り調べ、事情聴取",
-    "pos": "名詞（女）",
-    "category": "事件・事故",
-    "difficulty": 3,
-    "importance": 4,
-    "sourceCount": 1,
-    "frequency": 1,
-    "quizWeight": 10
-  },
-  {
     "word": "पेपर लीक",
     "display": "पेपर लीक",
     "normalized": "पेपर_लीक",
@@ -2697,6 +2788,19 @@
     "meaning_ja": "猛威、深刻な被害、災厄の広がり",
     "pos": "名詞（男）",
     "category": "調査・統計",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 10
+  },
+  {
+    "word": "प्रतियोगिता",
+    "display": "प्रतियोगिता",
+    "normalized": "प्रतियोगिता",
+    "meaning_ja": "競技会、大会、コンテスト",
+    "pos": "名詞（女）",
+    "category": "教育",
     "difficulty": 3,
     "importance": 4,
     "sourceCount": 1,
@@ -2743,19 +2847,6 @@
     "quizWeight": 10
   },
   {
-    "word": "प्रशिक्षण",
-    "display": "प्रशिक्षण",
-    "normalized": "प्रशिक्षण",
-    "meaning_ja": "研修、訓練、トレーニング",
-    "pos": "名詞（男）",
-    "category": "教育",
-    "difficulty": 3,
-    "importance": 4,
-    "sourceCount": 1,
-    "frequency": 1,
-    "quizWeight": 10
-  },
-  {
     "word": "प्राधिकरण",
     "display": "प्राधिकरण",
     "normalized": "प्राधिकरण",
@@ -2766,6 +2857,19 @@
     "importance": 4,
     "sourceCount": 2,
     "frequency": 2,
+    "quizWeight": 10
+  },
+  {
+    "word": "प्रोत्साहन",
+    "display": "प्रोत्साहन",
+    "normalized": "प्रोत्साहन",
+    "meaning_ja": "奨励、激励、支援",
+    "pos": "名詞（男）",
+    "category": "労働・経済",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
     "quizWeight": 10
   },
   {
@@ -3564,8 +3668,8 @@
   {
     "word": "साज़िश",
     "display": "साज़िश",
-    "normalized": "साज़िश",
-    "meaning_ja": "陰謀、企み",
+    "normalized": "साजिश",
+    "meaning_ja": "陰謀、策略",
     "pos": "名詞（女）",
     "category": "事件・事故",
     "difficulty": 3,
@@ -3640,19 +3744,6 @@
     "quizWeight": 10
   },
   {
-    "word": "स्तर",
-    "display": "स्तर",
-    "normalized": "स्तर",
-    "meaning_ja": "水準; レベル",
-    "pos": "名詞（男）",
-    "category": "調査・データ",
-    "difficulty": 2,
-    "importance": 3,
-    "sourceCount": 2,
-    "frequency": 2,
-    "quizWeight": 10
-  },
-  {
     "word": "स्थापित करना",
     "display": "स्थापित करना",
     "normalized": "स्थापित_करना",
@@ -3672,6 +3763,19 @@
     "meaning_ja": "国産の、自国製の",
     "pos": "形容詞",
     "category": "行政・制度",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 10
+  },
+  {
+    "word": "स्वर्ण पदक विजेता",
+    "display": "स्वर्ण पदक विजेता",
+    "normalized": "स्वर्ण_पदक_विजेता",
+    "meaning_ja": "金メダル獲得者",
+    "pos": "固定複合語",
+    "category": "教育",
     "difficulty": 3,
     "importance": 4,
     "sourceCount": 1,
@@ -4524,6 +4628,19 @@
     "quizWeight": 9
   },
   {
+    "word": "गुर्गा",
+    "display": "गुर्गा",
+    "normalized": "गुर्गा",
+    "meaning_ja": "手下、配下",
+    "pos": "名詞（男）",
+    "category": "事件・事故",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
     "word": "गृह मंत्रालय",
     "display": "गृह मंत्रालय",
     "normalized": "गृह_मंत्रालय",
@@ -4797,6 +4914,32 @@
     "quizWeight": 9
   },
   {
+    "word": "जिहादी ब्रिगेड",
+    "display": "जिहादी ब्रिगेड",
+    "normalized": "जिहादी_ब्रिगेड",
+    "meaning_ja": "ジハード部隊",
+    "pos": "固定複合語",
+    "category": "事件・事故",
+    "difficulty": 5,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "जीविका",
+    "display": "जीविका",
+    "normalized": "जीविका",
+    "meaning_ja": "生計、生業",
+    "pos": "名詞（女）",
+    "category": "労働・経済",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
     "word": "जूझना",
     "display": "जूझना",
     "normalized": "जूझना",
@@ -5024,6 +5167,19 @@
     "meaning_ja": "昼夜を問わず必死に働く",
     "pos": "動詞句",
     "category": "重要動詞",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "दिव्यांग",
+    "display": "दिव्यांग",
+    "normalized": "दिव्यांग",
+    "meaning_ja": "障がい者",
+    "pos": "名詞（男）",
+    "category": "医療・健康",
     "difficulty": 4,
     "importance": 4,
     "sourceCount": 1,
@@ -5382,6 +5538,19 @@
     "quizWeight": 9
   },
   {
+    "word": "प्रतिनिधित्व",
+    "display": "प्रतिनिधित्व",
+    "normalized": "प्रतिनिधित्व",
+    "meaning_ja": "代表、代表すること",
+    "pos": "名詞（男）",
+    "category": "一般ニュース語彙",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
     "word": "प्रतिबंधित",
     "display": "प्रतिबंधित",
     "normalized": "प्रतिबंधित",
@@ -5611,6 +5780,19 @@
     "category": "医療・健康",
     "difficulty": 2,
     "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "बेनकाब",
+    "display": "बेनकाब",
+    "normalized": "बेनकाब",
+    "meaning_ja": "暴露された、正体を明かされた",
+    "pos": "形容詞",
+    "category": "事件・事故",
+    "difficulty": 4,
+    "importance": 4,
     "sourceCount": 1,
     "frequency": 1,
     "quizWeight": 9
@@ -6090,6 +6272,19 @@
     "meaning_ja": "儀礼規定、定め、方式",
     "pos": "名詞（男）",
     "category": "文化・宗教",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "विधिवत",
+    "display": "विधिवत",
+    "normalized": "विधिवत",
+    "meaning_ja": "正式に、正規に、体系的に",
+    "pos": "副詞",
+    "category": "一般ニュース語彙",
     "difficulty": 4,
     "importance": 4,
     "sourceCount": 1,
@@ -7111,6 +7306,19 @@
     "quizWeight": 8
   },
   {
+    "word": "परिसर",
+    "display": "परिसर",
+    "normalized": "परिसर",
+    "meaning_ja": "敷地、構内",
+    "pos": "名詞（男）",
+    "category": "事件・事故",
+    "difficulty": 4,
+    "importance": 3,
+    "sourceCount": 2,
+    "frequency": 2,
+    "quizWeight": 8
+  },
+  {
     "word": "पर्यटक",
     "display": "पर्यटक",
     "normalized": "पर्यटक",
@@ -7917,6 +8125,19 @@
     "quizWeight": 7
   },
   {
+    "word": "तिलमिलाना",
+    "display": "तिलमिलाना",
+    "normalized": "तिलमिलाना",
+    "meaning_ja": "苛立つ、激しく憤る",
+    "pos": "自動詞",
+    "category": "事件・事故",
+    "difficulty": 4,
+    "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 7
+  },
+  {
     "word": "दबोचना",
     "display": "दबोचना",
     "normalized": "दबोचना",
@@ -8001,19 +8222,6 @@
     "meaning_ja": "凧揚げ",
     "pos": "名詞（女）",
     "category": "文化・宗教",
-    "difficulty": 4,
-    "importance": 3,
-    "sourceCount": 1,
-    "frequency": 1,
-    "quizWeight": 7
-  },
-  {
-    "word": "परिसर",
-    "display": "परिसर",
-    "normalized": "परिसर",
-    "meaning_ja": "敷地、構内",
-    "pos": "名詞（男）",
-    "category": "事件・事故",
     "difficulty": 4,
     "importance": 3,
     "sourceCount": 1,
@@ -8170,6 +8378,19 @@
     "meaning_ja": "闇取引、ブラックマーケット化",
     "pos": "名詞（女）",
     "category": "労働・経済",
+    "difficulty": 4,
+    "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 7
+  },
+  {
+    "word": "भड़कना",
+    "display": "भड़कना",
+    "normalized": "भड़कना",
+    "meaning_ja": "激怒する、煽られる",
+    "pos": "自動詞",
+    "category": "事件・事故",
     "difficulty": 4,
     "importance": 3,
     "sourceCount": 1,

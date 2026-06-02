@@ -1060,7 +1060,7 @@
   {
     "word": "गदला",
     "normalized": "गदला",
-    "display": "गदली-गदली",
+    "display": "गदला",
     "variants": [],
     "pos": "形容詞",
     "meaning_ja": "濁った、くすんだ",
@@ -1599,7 +1599,7 @@
   {
     "word": "जूझना",
     "normalized": "जूझना",
-    "display": "जूझ रही हैं",
+    "display": "जूझना",
     "variants": [],
     "pos": "自動詞",
     "meaning_ja": "闘う、苦闘する",
@@ -3657,7 +3657,7 @@
   {
     "word": "विडम्बना",
     "normalized": "विडंबना",
-    "display": "विडम्बना",
+    "display": "विडंबना",
     "variants": [
       "विडंबना",
       "विडम्बना"
@@ -7046,7 +7046,7 @@
   {
     "word": "डपटना",
     "normalized": "डपटना",
-    "display": "डपट",
+    "display": "डपटना",
     "variants": [],
     "pos": "他動詞",
     "meaning_ja": "叱りつける",
@@ -7363,7 +7363,7 @@
   {
     "word": "दुआ",
     "normalized": "दुआ",
-    "display": "दुआएँ",
+    "display": "दुआ",
     "variants": [],
     "pos": "名詞（女）",
     "meaning_ja": "祈り、祝福",
@@ -9361,7 +9361,7 @@
   {
     "word": "बिगड़ना",
     "normalized": "बिगड़ना",
-    "display": "बिगड़ गई",
+    "display": "बिगड़ना",
     "variants": [],
     "pos": "自動詞",
     "meaning_ja": "素行が悪くなる、道を踏み外す",
@@ -10779,9 +10779,9 @@
     ]
   },
   {
-    "word": "विराम चिन्ह",
-    "normalized": "विराम_चिन्ह",
-    "display": "विराम चिन्ह",
+    "word": "विराम चिह्न",
+    "normalized": "विराम_चिह्न",
+    "display": "विराम चिह्न",
     "variants": [],
     "pos": "名詞句",
     "meaning_ja": "句読点、約物",

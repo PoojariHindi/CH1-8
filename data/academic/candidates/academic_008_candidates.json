@@ -440,9 +440,9 @@
     "sourceRegister": "academic_prose"
   },
   {
-    "word": "विराम चिन्ह",
-    "display": "विराम चिन्ह",
-    "normalized": "विराम_चिन्ह",
+    "word": "विराम चिह्न",
+    "display": "विराम चिह्न",
+    "normalized": "विराम_चिह्न",
     "variants": [],
     "pos": "名詞句",
     "meaning_ja": "句読点、約物",
