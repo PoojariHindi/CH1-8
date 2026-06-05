@@ -1,34 +1,34 @@
 {
-  "generatedAt": "2026-06-02T11:32:19.582Z",
+  "generatedAt": "2026-06-05T00:20:44.949Z",
   "input": "data\\news\\vocab_master.json",
   "output": "data\\news\\vocab_master_with_quiz_weight.json",
-  "totalEntries": 690,
-  "changedCount": 174,
-  "unchangedCount": 516,
+  "totalEntries": 716,
+  "changedCount": 198,
+  "unchangedCount": 518,
   "quizWeightSummary": {
     "1": 0,
     "2": 4,
-    "3": 554,
+    "3": 580,
     "4": 91,
     "5": 41
   },
   "categorySummary": {
     "事件・事故": {
-      "total": 84,
+      "total": 93,
       "quizWeight": {
         "1": 0,
         "2": 0,
-        "3": 65,
+        "3": 74,
         "4": 11,
         "5": 8
       }
     },
     "労働・経済": {
-      "total": 91,
+      "total": 92,
       "quizWeight": {
         "1": 0,
         "2": 0,
-        "3": 77,
+        "3": 78,
         "4": 12,
         "5": 2
       }
@@ -54,21 +54,21 @@
       }
     },
     "行政・制度": {
-      "total": 88,
+      "total": 95,
       "quizWeight": {
         "1": 0,
         "2": 0,
-        "3": 70,
+        "3": 77,
         "4": 7,
         "5": 11
       }
     },
     "選挙・裁判": {
-      "total": 74,
+      "total": 75,
       "quizWeight": {
         "1": 0,
         "2": 0,
-        "3": 59,
+        "3": 60,
         "4": 9,
         "5": 6
       }
@@ -84,11 +84,11 @@
       }
     },
     "都市・環境": {
-      "total": 57,
+      "total": 59,
       "quizWeight": {
         "1": 0,
         "2": 2,
-        "3": 48,
+        "3": 50,
         "4": 5,
         "5": 2
       }
@@ -114,11 +114,11 @@
       }
     },
     "調査・統計": {
-      "total": 13,
+      "total": 14,
       "quizWeight": {
         "1": 0,
         "2": 0,
-        "3": 12,
+        "3": 13,
         "4": 1,
         "5": 0
       }
@@ -164,11 +164,11 @@
       }
     },
     "一般ニュース語彙": {
-      "total": 25,
+      "total": 30,
       "quizWeight": {
         "1": 0,
         "2": 0,
-        "3": 24,
+        "3": 29,
         "4": 0,
         "5": 1
       }
@@ -2711,6 +2711,342 @@
       "sourceCount": 1,
       "frequency": 1,
       "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 690,
+      "word": "डीडीए",
+      "normalized": "डीडीए",
+      "category": "行政・制度",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 691,
+      "word": "एमसीडी",
+      "normalized": "एमसीडी",
+      "category": "行政・制度",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 692,
+      "word": "जवाबदेही",
+      "normalized": "जवाबदेही",
+      "category": "行政・制度",
+      "importance": 5,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 5,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 693,
+      "word": "एकीकृत",
+      "normalized": "एकीकृत",
+      "category": "行政・制度",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 694,
+      "word": "राजनीतिकरण",
+      "normalized": "राजनीतिकरण",
+      "category": "行政・制度",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 695,
+      "word": "अकर्मण्यता",
+      "normalized": "अकर्मण्यता",
+      "category": "事件・事故",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 696,
+      "word": "भ्रष्टाचार",
+      "normalized": "भ्रष्टाचार",
+      "category": "事件・事故",
+      "importance": 5,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 5,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 697,
+      "word": "लापरवाही",
+      "normalized": "लापरवाही",
+      "category": "事件・事故",
+      "importance": 5,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 5,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 698,
+      "word": "सीधे तौर पर",
+      "normalized": "सीधे_तौर_पर",
+      "category": "一般ニュース語彙",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 699,
+      "word": "नियोजित",
+      "normalized": "नियोजित",
+      "category": "一般ニュース語彙",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 700,
+      "word": "कड़ा प्रहार",
+      "normalized": "कड़ा_प्रहार",
+      "category": "事件・事故",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 701,
+      "word": "लचर",
+      "normalized": "लचर",
+      "category": "事件・事故",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 702,
+      "word": "आपराधिक",
+      "normalized": "आपराधिक",
+      "category": "事件・事故",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 704,
+      "word": "अनुपात",
+      "normalized": "अनुपात",
+      "category": "調査・統計",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 705,
+      "word": "चूक",
+      "normalized": "चूक",
+      "category": "事件・事故",
+      "importance": 5,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 5,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 706,
+      "word": "ढहना",
+      "normalized": "ढहना",
+      "category": "事件・事故",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 707,
+      "word": "व्यावसायिक",
+      "normalized": "व्यावसायिक",
+      "category": "労働・経済",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 708,
+      "word": "रिहायशी",
+      "normalized": "रिहायशी",
+      "category": "都市・環境",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 709,
+      "word": "वैध",
+      "normalized": "वैध",
+      "category": "選挙・裁判",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 710,
+      "word": "बहुमंजिला",
+      "normalized": "बहुमंजिला",
+      "category": "都市・環境",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 711,
+      "word": "निलंबित",
+      "normalized": "निलंबित",
+      "category": "行政・制度",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 712,
+      "word": "पल्ला झाड़ना",
+      "normalized": "पल्ला_झाड़ना",
+      "category": "一般ニュース語彙",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 713,
+      "word": "धड़ल्ले से",
+      "normalized": "धड़ल्ले_से",
+      "category": "一般ニュース語彙",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 714,
+      "word": "अग्निशमन विभाग",
+      "normalized": "अग्निशमन_विभाग",
+      "category": "事件・事故",
+      "importance": 5,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 5,
       "newQuizWeight": 3,
       "reason": [
         "base_3"
@@ -12544,6 +12880,370 @@
       "sourceCount": 1,
       "frequency": 1,
       "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 690,
+      "word": "डीडीए",
+      "normalized": "डीडीए",
+      "category": "行政・制度",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 691,
+      "word": "एमसीडी",
+      "normalized": "एमसीडी",
+      "category": "行政・制度",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 692,
+      "word": "जवाबदेही",
+      "normalized": "जवाबदेही",
+      "category": "行政・制度",
+      "importance": 5,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 5,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 693,
+      "word": "एकीकृत",
+      "normalized": "एकीकृत",
+      "category": "行政・制度",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 694,
+      "word": "राजनीतिकरण",
+      "normalized": "राजनीतिकरण",
+      "category": "行政・制度",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 695,
+      "word": "अकर्मण्यता",
+      "normalized": "अकर्मण्यता",
+      "category": "事件・事故",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 696,
+      "word": "भ्रष्टाचार",
+      "normalized": "भ्रष्टाचार",
+      "category": "事件・事故",
+      "importance": 5,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 5,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 697,
+      "word": "लापरवाही",
+      "normalized": "लापरवाही",
+      "category": "事件・事故",
+      "importance": 5,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 5,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 698,
+      "word": "सीधे तौर पर",
+      "normalized": "सीधे_तौर_पर",
+      "category": "一般ニュース語彙",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 699,
+      "word": "नियोजित",
+      "normalized": "नियोजित",
+      "category": "一般ニュース語彙",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 700,
+      "word": "कड़ा प्रहार",
+      "normalized": "कड़ा_प्रहार",
+      "category": "事件・事故",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 701,
+      "word": "लचर",
+      "normalized": "लचर",
+      "category": "事件・事故",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 702,
+      "word": "आपराधिक",
+      "normalized": "आपराधिक",
+      "category": "事件・事故",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 703,
+      "word": "योजनाकार",
+      "normalized": "योजनाकार",
+      "category": "行政・制度",
+      "importance": 3,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 3,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 704,
+      "word": "अनुपात",
+      "normalized": "अनुपात",
+      "category": "調査・統計",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 705,
+      "word": "चूक",
+      "normalized": "चूक",
+      "category": "事件・事故",
+      "importance": 5,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 5,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 706,
+      "word": "ढहना",
+      "normalized": "ढहना",
+      "category": "事件・事故",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 707,
+      "word": "व्यावसायिक",
+      "normalized": "व्यावसायिक",
+      "category": "労働・経済",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 708,
+      "word": "रिहायशी",
+      "normalized": "रिहायशी",
+      "category": "都市・環境",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 709,
+      "word": "वैध",
+      "normalized": "वैध",
+      "category": "選挙・裁判",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 710,
+      "word": "बहुमंजिला",
+      "normalized": "बहुमंजिला",
+      "category": "都市・環境",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 711,
+      "word": "निलंबित",
+      "normalized": "निलंबित",
+      "category": "行政・制度",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 712,
+      "word": "पल्ला झाड़ना",
+      "normalized": "पल्ला_झाड़ना",
+      "category": "一般ニュース語彙",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 713,
+      "word": "धड़ल्ले से",
+      "normalized": "धड़ल्ले_से",
+      "category": "一般ニュース語彙",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 714,
+      "word": "अग्निशमन विभाग",
+      "normalized": "अग्निशमन_विभाग",
+      "category": "事件・事故",
+      "importance": 5,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 5,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 715,
+      "word": "वाकिफ",
+      "normalized": "वाकिफ",
+      "category": "一般ニュース語彙",
+      "importance": 3,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 3,
       "newQuizWeight": 3,
       "reason": [
         "base_3"

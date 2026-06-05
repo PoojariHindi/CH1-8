@@ -11952,5 +11952,452 @@
     "frequency": 1,
     "notes": "正式な手続きや正規の方法に従って行われることを表す",
     "quizWeight": 3
+  },
+  {
+    "word": "डीडीए",
+    "normalized": "डीडीए",
+    "pos": "略語・固有名詞",
+    "meaning_ja": "DDA（Delhi Development Authority、デリー開発公社）",
+    "category": "行政・制度",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "nes041_DJ20260604_Fire"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "デリーの都市開発行政機関",
+    "quizWeight": 3
+  },
+  {
+    "word": "एमसीडी",
+    "normalized": "एमसीडी",
+    "pos": "略語・固有名詞",
+    "meaning_ja": "MCD（Municipal Corporation of Delhi、デリー市政公社）",
+    "category": "行政・制度",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "nes041_DJ20260604_Fire"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "デリーの市政・自治体行政機関",
+    "quizWeight": 3
+  },
+  {
+    "word": "जवाबदेही",
+    "normalized": "जवाबदेही",
+    "pos": "名詞（女）",
+    "meaning_ja": "説明責任、責任の所在",
+    "category": "行政・制度",
+    "difficulty": 4,
+    "importance": 5,
+    "status": "active",
+    "sourceArticleIds": [
+      "nes041_DJ20260604_Fire"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "行政・政治・制度批判文脈で頻出",
+    "quizWeight": 3
+  },
+  {
+    "word": "एकीकृत",
+    "normalized": "एकीकृत",
+    "pos": "形容詞",
+    "meaning_ja": "統合された、一元化された",
+    "category": "行政・制度",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "nes041_DJ20260604_Fire"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "行政組織・制度設計文脈で頻出",
+    "quizWeight": 3
+  },
+  {
+    "word": "राजनीतिकरण",
+    "normalized": "राजनीतिकरण",
+    "pos": "名詞（男）",
+    "meaning_ja": "政治化、政治的介入",
+    "category": "行政・制度",
+    "difficulty": 5,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "nes041_DJ20260604_Fire"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "行政・組織運営批判で使用",
+    "quizWeight": 3
+  },
+  {
+    "word": "अकर्मण्यता",
+    "normalized": "अकर्मण्यता",
+    "pos": "名詞（女）",
+    "meaning_ja": "怠慢、不作為",
+    "category": "事件・事故",
+    "difficulty": 5,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "nes041_DJ20260604_Fire"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "行政・組織の不作為を批判する語",
+    "quizWeight": 3
+  },
+  {
+    "word": "भ्रष्टाचार",
+    "normalized": "भ्रष्टाचार",
+    "pos": "名詞（男）",
+    "meaning_ja": "汚職、腐敗",
+    "category": "事件・事故",
+    "difficulty": 4,
+    "importance": 5,
+    "status": "active",
+    "sourceArticleIds": [
+      "nes041_DJ20260604_Fire"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "政治・行政・事件記事頻出",
+    "quizWeight": 3
+  },
+  {
+    "word": "लापरवाही",
+    "normalized": "लापरवाही",
+    "pos": "名詞（女）",
+    "meaning_ja": "不注意、怠慢、過失",
+    "category": "事件・事故",
+    "difficulty": 4,
+    "importance": 5,
+    "status": "active",
+    "sourceArticleIds": [
+      "nes041_DJ20260604_Fire"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "事故・行政責任・医療過誤などで頻出",
+    "quizWeight": 3
+  },
+  {
+    "word": "सीधे तौर पर",
+    "display": "सीधे तौर पर",
+    "normalized": "सीधे_तौर_पर",
+    "pos": "固定表現",
+    "meaning_ja": "直接的に",
+    "category": "一般ニュース語彙",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "nes041_DJ20260604_Fire"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "因果関係や責任を明示する文脈で頻出",
+    "quizWeight": 3
+  },
+  {
+    "word": "नियोजित",
+    "normalized": "नियोजित",
+    "pos": "形容詞",
+    "meaning_ja": "計画的な、計画された",
+    "category": "一般ニュース語彙",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "nes041_DJ20260604_Fire"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "本文では नियोजित विकास",
+    "quizWeight": 3
+  },
+  {
+    "word": "कड़ा प्रहार",
+    "display": "कड़ा प्रहार",
+    "normalized": "कड़ा_प्रहार",
+    "pos": "固定表現",
+    "meaning_ja": "厳しい取り締まり、強い打撃",
+    "category": "事件・事故",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "nes041_DJ20260604_Fire"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "本文では「अवैध निर्माण पर कड़ा प्रहार」",
+    "quizWeight": 3
+  },
+  {
+    "word": "लचर",
+    "normalized": "लचर",
+    "pos": "形容詞",
+    "meaning_ja": "ずさんな、弱い、不十分な",
+    "category": "事件・事故",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "nes041_DJ20260604_Fire"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "本文では लचर टाउन प्लानिंग",
+    "quizWeight": 3
+  },
+  {
+    "word": "आपराधिक",
+    "normalized": "आपराधिक",
+    "pos": "形容詞",
+    "meaning_ja": "犯罪の、刑事上の",
+    "category": "事件・事故",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "nes041_DJ20260604_Fire"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "法律・事件記事頻出",
+    "quizWeight": 3
+  },
+  {
+    "word": "योजनाकार",
+    "normalized": "योजनाकार",
+    "pos": "名詞（男）",
+    "meaning_ja": "計画立案者、都市計画者",
+    "category": "行政・制度",
+    "difficulty": 4,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "nes041_DJ20260604_Fire"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "本文では शहरी योजनाकार",
+    "quizWeight": 3
+  },
+  {
+    "word": "अनुपात",
+    "normalized": "अनुपात",
+    "pos": "名詞（男）",
+    "meaning_ja": "比率、割合",
+    "category": "調査・統計",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "nes041_DJ20260604_Fire"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "本文では आबादी के अनुपात में",
+    "quizWeight": 3
+  },
+  {
+    "word": "चूक",
+    "normalized": "चूक",
+    "pos": "名詞（女）",
+    "meaning_ja": "失策、手落ち、不備",
+    "category": "事件・事故",
+    "difficulty": 4,
+    "importance": 5,
+    "status": "active",
+    "sourceArticleIds": [
+      "nes041_DJ20260604_Fire"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "事故・行政責任・捜査文脈で頻出",
+    "quizWeight": 3
+  },
+  {
+    "word": "ढहना",
+    "normalized": "ढहना",
+    "pos": "自動詞",
+    "meaning_ja": "倒壊する、崩壊する",
+    "category": "事件・事故",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "nes041_DJ20260604_Fire"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "本文形：ढहने。建物事故文脈",
+    "quizWeight": 3
+  },
+  {
+    "word": "व्यावसायिक",
+    "normalized": "व्यावसायिक",
+    "pos": "形容詞",
+    "meaning_ja": "商業用の、営業用の",
+    "category": "労働・経済",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "nes041_DJ20260604_Fire"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "本文では व्यावसायिक स्पेस",
+    "quizWeight": 3
+  },
+  {
+    "word": "रिहायशी",
+    "normalized": "रिहायशी",
+    "pos": "形容詞",
+    "meaning_ja": "居住用の、住宅用の",
+    "category": "都市・環境",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "nes041_DJ20260604_Fire"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "都市計画・不動産記事頻出",
+    "quizWeight": 3
+  },
+  {
+    "word": "वैध",
+    "normalized": "वैध",
+    "pos": "形容詞",
+    "meaning_ja": "合法の、正規の",
+    "category": "選挙・裁判",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "nes041_DJ20260604_Fire"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "法律・行政記事頻出",
+    "quizWeight": 3
+  },
+  {
+    "word": "बहुमंजिला",
+    "normalized": "बहुमंजिला",
+    "pos": "形容詞",
+    "meaning_ja": "多層階の、高層の",
+    "category": "都市・環境",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "nes041_DJ20260604_Fire"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "建物・都市事故記事頻出",
+    "quizWeight": 3
+  },
+  {
+    "word": "निलंबित",
+    "normalized": "निलंबित",
+    "pos": "形容詞",
+    "meaning_ja": "停職処分の、停止された",
+    "category": "行政・制度",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "nes041_DJ20260604_Fire"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "行政処分・組織内処分の記事で頻出",
+    "quizWeight": 3
+  },
+  {
+    "word": "पल्ला झाड़ना",
+    "display": "पल्ला झाड़ना",
+    "normalized": "पल्ला_झाड़ना",
+    "pos": "慣用表現",
+    "meaning_ja": "責任逃れをする、関与を否定する",
+    "category": "一般ニュース語彙",
+    "difficulty": 5,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "nes041_DJ20260604_Fire"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "本文形：अपना पल्ला झाड़ लेती है",
+    "quizWeight": 3
+  },
+  {
+    "word": "धड़ल्ले से",
+    "display": "धड़ल्ले से",
+    "normalized": "धड़ल्ले_से",
+    "pos": "副詞句",
+    "meaning_ja": "大っぴらに、堂々と、平然と",
+    "category": "一般ニュース語彙",
+    "difficulty": 5,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "nes041_DJ20260604_Fire"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "違法行為・慣行が堂々と行われる文脈で頻出",
+    "quizWeight": 3
+  },
+  {
+    "word": "अग्निशमन विभाग",
+    "display": "अग्निशमन विभाग",
+    "normalized": "अग्निशमन_विभाग",
+    "pos": "固定複合語",
+    "meaning_ja": "消防局、消防部門",
+    "category": "事件・事故",
+    "difficulty": 4,
+    "importance": 5,
+    "status": "active",
+    "sourceArticleIds": [
+      "nes041_DJ20260604_Fire"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "火災・防災記事頻出",
+    "quizWeight": 3
+  },
+  {
+    "word": "वाकिफ",
+    "normalized": "वाकिफ",
+    "pos": "形容詞",
+    "meaning_ja": "知っている、精通している",
+    "category": "一般ニュース語彙",
+    "difficulty": 4,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "nes041_DJ20260604_Fire"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "本文では सभी वाकिफ हैं",
+    "quizWeight": 3
   }
 ]

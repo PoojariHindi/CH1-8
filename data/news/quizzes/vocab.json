@@ -754,6 +754,19 @@
     "quizWeight": 12
   },
   {
+    "word": "अग्निशमन विभाग",
+    "display": "अग्निशमन विभाग",
+    "normalized": "अग्निशमन_विभाग",
+    "meaning_ja": "消防局、消防部門",
+    "pos": "固定複合語",
+    "category": "事件・事故",
+    "difficulty": 4,
+    "importance": 5,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 11
+  },
+  {
     "word": "अधिकार",
     "display": "अधिकार",
     "normalized": "अधिकार",
@@ -1035,6 +1048,32 @@
     "category": "重要動詞",
     "difficulty": 2,
     "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 11
+  },
+  {
+    "word": "चूक",
+    "display": "चूक",
+    "normalized": "चूक",
+    "meaning_ja": "失策、手落ち、不備",
+    "pos": "名詞（女）",
+    "category": "事件・事故",
+    "difficulty": 4,
+    "importance": 5,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 11
+  },
+  {
+    "word": "जवाबदेही",
+    "display": "जवाबदेही",
+    "normalized": "जवाबदेही",
+    "meaning_ja": "説明責任、責任の所在",
+    "pos": "名詞（女）",
+    "category": "行政・制度",
+    "difficulty": 4,
+    "importance": 5,
     "sourceCount": 1,
     "frequency": 1,
     "quizWeight": 11
@@ -1352,6 +1391,19 @@
     "quizWeight": 11
   },
   {
+    "word": "भ्रष्टाचार",
+    "display": "भ्रष्टाचार",
+    "normalized": "भ्रष्टाचार",
+    "meaning_ja": "汚職、腐敗",
+    "pos": "名詞（男）",
+    "category": "事件・事故",
+    "difficulty": 4,
+    "importance": 5,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 11
+  },
+  {
     "word": "मंजूर करना",
     "display": "मंजूर करना",
     "normalized": "मंजूर_करना",
@@ -1518,6 +1570,19 @@
     "importance": 4,
     "sourceCount": 2,
     "frequency": 2,
+    "quizWeight": 11
+  },
+  {
+    "word": "लापरवाही",
+    "display": "लापरवाही",
+    "normalized": "लापरवाही",
+    "meaning_ja": "不注意、怠慢、過失",
+    "pos": "名詞（女）",
+    "category": "事件・事故",
+    "difficulty": 4,
+    "importance": 5,
+    "sourceCount": 1,
+    "frequency": 1,
     "quizWeight": 11
   },
   {
@@ -3679,6 +3744,19 @@
     "quizWeight": 10
   },
   {
+    "word": "सीधे तौर पर",
+    "display": "सीधे तौर पर",
+    "normalized": "सीधे_तौर_पर",
+    "meaning_ja": "直接的に",
+    "pos": "固定表現",
+    "category": "一般ニュース語彙",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 10
+  },
+  {
     "word": "सीबीआइ",
     "display": "सीबीआई",
     "normalized": "सीबीआई",
@@ -3887,6 +3965,19 @@
     "quizWeight": 9
   },
   {
+    "word": "अकर्मण्यता",
+    "display": "अकर्मण्यता",
+    "normalized": "अकर्मण्यता",
+    "meaning_ja": "怠慢、不作為",
+    "pos": "名詞（女）",
+    "category": "事件・事故",
+    "difficulty": 5,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
     "word": "अक्कासी",
     "display": "अक्कासी",
     "normalized": "अक्कासी",
@@ -3945,6 +4036,19 @@
     "meaning_ja": "条文、条項、憲法の条",
     "pos": "名詞（男）",
     "category": "選挙・裁判",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "अनुपात",
+    "display": "अनुपात",
+    "normalized": "अनुपात",
+    "meaning_ja": "比率、割合",
+    "pos": "名詞（男）",
+    "category": "調査・統計",
     "difficulty": 4,
     "importance": 4,
     "sourceCount": 1,
@@ -4101,6 +4205,19 @@
     "meaning_ja": "災害管理",
     "pos": "名詞（男）",
     "category": "行政・制度",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "आपराधिक",
+    "display": "आपराधिक",
+    "normalized": "आपराधिक",
+    "meaning_ja": "犯罪の、刑事上の",
+    "pos": "形容詞",
+    "category": "事件・事故",
     "difficulty": 4,
     "importance": 4,
     "sourceCount": 1,
@@ -4290,6 +4407,32 @@
     "quizWeight": 9
   },
   {
+    "word": "एकीकृत",
+    "display": "एकीकृत",
+    "normalized": "एकीकृत",
+    "meaning_ja": "統合された、一元化された",
+    "pos": "形容詞",
+    "category": "行政・制度",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "एमसीडी",
+    "display": "एमसीडी",
+    "normalized": "एमसीडी",
+    "meaning_ja": "MCD（Municipal Corporation of Delhi、デリー市政公社）",
+    "pos": "略語・固有名詞",
+    "category": "行政・制度",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
     "word": "ओलावृष्टि",
     "display": "ओलावृष्टि",
     "normalized": "ओलावृष्टि",
@@ -4309,6 +4452,19 @@
     "meaning_ja": "有刺鉄線",
     "pos": "名詞（男）",
     "category": "行政・制度",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "कड़ा प्रहार",
+    "display": "कड़ा प्रहार",
+    "normalized": "कड़ा_प्रहार",
+    "meaning_ja": "厳しい取り締まり、強い打撃",
+    "pos": "固定表現",
+    "category": "事件・事故",
     "difficulty": 4,
     "importance": 4,
     "sourceCount": 1,
@@ -5005,6 +5161,32 @@
     "quizWeight": 9
   },
   {
+    "word": "डीडीए",
+    "display": "डीडीए",
+    "normalized": "डीडीए",
+    "meaning_ja": "DDA（Delhi Development Authority、デリー開発公社）",
+    "pos": "略語・固有名詞",
+    "category": "行政・制度",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "ढहना",
+    "display": "ढहना",
+    "normalized": "ढहना",
+    "meaning_ja": "倒壊する、崩壊する",
+    "pos": "自動詞",
+    "category": "事件・事故",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
     "word": "तबाही",
     "display": "तबाही",
     "normalized": "तबाही",
@@ -5200,6 +5382,19 @@
     "quizWeight": 9
   },
   {
+    "word": "धड़ल्ले से",
+    "display": "धड़ल्ले से",
+    "normalized": "धड़ल्ले_से",
+    "meaning_ja": "大っぴらに、堂々と、平然と",
+    "pos": "副詞句",
+    "category": "一般ニュース語彙",
+    "difficulty": 5,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
     "word": "धूल",
     "display": "धूल",
     "normalized": "धूल",
@@ -5278,6 +5473,19 @@
     "quizWeight": 9
   },
   {
+    "word": "नियोजित",
+    "display": "नियोजित",
+    "normalized": "नियोजित",
+    "meaning_ja": "計画的な、計画された",
+    "pos": "形容詞",
+    "category": "一般ニュース語彙",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
     "word": "निर्णायक",
     "display": "निर्णायक",
     "normalized": "निर्णायक",
@@ -5314,6 +5522,19 @@
     "importance": 3,
     "sourceCount": 2,
     "frequency": 2,
+    "quizWeight": 9
+  },
+  {
+    "word": "निलंबित",
+    "display": "निलंबित",
+    "normalized": "निलंबित",
+    "meaning_ja": "停職処分の、停止された",
+    "pos": "形容詞",
+    "category": "行政・制度",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
     "quizWeight": 9
   },
   {
@@ -5427,6 +5648,19 @@
     "meaning_ja": "環境補償料金",
     "pos": "名詞（男）",
     "category": "行政・制度",
+    "difficulty": 5,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "पल्ला झाड़ना",
+    "display": "पल्ला झाड़ना",
+    "normalized": "पल्ला_झाड़ना",
+    "meaning_ja": "責任逃れをする、関与を否定する",
+    "pos": "慣用表現",
+    "category": "一般ニュース語彙",
     "difficulty": 5,
     "importance": 4,
     "sourceCount": 1,
@@ -5688,6 +5922,19 @@
     "pos": "名詞（男）",
     "category": "医療・健康",
     "difficulty": 5,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "बहुमंजिला",
+    "display": "बहुमंजिला",
+    "normalized": "बहुमंजिला",
+    "meaning_ja": "多層階の、高層の",
+    "pos": "形容詞",
+    "category": "都市・環境",
+    "difficulty": 4,
     "importance": 4,
     "sourceCount": 1,
     "frequency": 1,
@@ -6123,6 +6370,19 @@
     "quizWeight": 9
   },
   {
+    "word": "राजनीतिकरण",
+    "display": "राजनीतिकरण",
+    "normalized": "राजनीतिकरण",
+    "meaning_ja": "政治化、政治的介入",
+    "pos": "名詞（男）",
+    "category": "行政・制度",
+    "difficulty": 5,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
     "word": "राष्ट्रव्यापी बंद",
     "display": "राष्ट्रव्यापी बंद",
     "normalized": "राष्ट्रव्यापी_बंद",
@@ -6143,6 +6403,19 @@
     "pos": "名詞（女）",
     "category": "都市・環境",
     "difficulty": 5,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "रिहायशी",
+    "display": "रिहायशी",
+    "normalized": "रिहायशी",
+    "meaning_ja": "居住用の、住宅用の",
+    "pos": "形容詞",
+    "category": "都市・環境",
+    "difficulty": 4,
     "importance": 4,
     "sourceCount": 1,
     "frequency": 1,
@@ -6170,6 +6443,19 @@
     "category": "一般語彙",
     "difficulty": 2,
     "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "लचर",
+    "display": "लचर",
+    "normalized": "लचर",
+    "meaning_ja": "ずさんな、弱い、不十分な",
+    "pos": "形容詞",
+    "category": "事件・事故",
+    "difficulty": 4,
+    "importance": 4,
     "sourceCount": 1,
     "frequency": 1,
     "quizWeight": 9
@@ -6331,6 +6617,19 @@
     "quizWeight": 9
   },
   {
+    "word": "वैध",
+    "display": "वैध",
+    "normalized": "वैध",
+    "meaning_ja": "合法の、正規の",
+    "pos": "形容詞",
+    "category": "選挙・裁判",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
     "word": "वैधानिक",
     "display": "वैधानिक",
     "normalized": "वैधानिक",
@@ -6350,6 +6649,19 @@
     "meaning_ja": "結婚の、婚姻の",
     "pos": "形容詞",
     "category": "文化・宗教",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "व्यावसायिक",
+    "display": "व्यावसायिक",
+    "normalized": "व्यावसायिक",
+    "meaning_ja": "商業用の、営業用の",
+    "pos": "形容詞",
+    "category": "労働・経済",
     "difficulty": 4,
     "importance": 4,
     "sourceCount": 1,
@@ -8450,6 +8762,19 @@
     "quizWeight": 7
   },
   {
+    "word": "योजनाकार",
+    "display": "योजनाकार",
+    "normalized": "योजनाकार",
+    "meaning_ja": "計画立案者、都市計画者",
+    "pos": "名詞（男）",
+    "category": "行政・制度",
+    "difficulty": 4,
+    "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 7
+  },
+  {
     "word": "राहगीर",
     "display": "राहगीर",
     "normalized": "राहगीर",
@@ -8521,6 +8846,19 @@
     "meaning_ja": "優先、優遇",
     "pos": "名詞（女）",
     "category": "文化・宗教",
+    "difficulty": 4,
+    "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 7
+  },
+  {
+    "word": "वाकिफ",
+    "display": "वाकिफ",
+    "normalized": "वाकिफ",
+    "meaning_ja": "知っている、精通している",
+    "pos": "形容詞",
+    "category": "一般ニュース語彙",
     "difficulty": 4,
     "importance": 3,
     "sourceCount": 1,
