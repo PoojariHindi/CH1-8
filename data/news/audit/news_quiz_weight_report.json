@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-06-05T00:20:44.949Z",
+  "generatedAt": "2026-06-06T06:49:11.900Z",
   "input": "data\\news\\vocab_master.json",
   "output": "data\\news\\vocab_master_with_quiz_weight.json",
-  "totalEntries": 716,
-  "changedCount": 198,
-  "unchangedCount": 518,
+  "totalEntries": 748,
+  "changedCount": 225,
+  "unchangedCount": 523,
   "quizWeightSummary": {
     "1": 0,
     "2": 4,
-    "3": 580,
-    "4": 91,
+    "3": 609,
+    "4": 94,
     "5": 41
   },
   "categorySummary": {
     "事件・事故": {
-      "total": 93,
+      "total": 103,
       "quizWeight": {
         "1": 0,
         "2": 0,
-        "3": 74,
-        "4": 11,
+        "3": 81,
+        "4": 14,
         "5": 8
       }
     },
     "労働・経済": {
-      "total": 92,
+      "total": 93,
       "quizWeight": {
         "1": 0,
         "2": 0,
-        "3": 78,
+        "3": 79,
         "4": 12,
         "5": 2
       }
     },
     "医療・健康": {
-      "total": 40,
+      "total": 41,
       "quizWeight": {
         "1": 0,
         "2": 0,
-        "3": 37,
+        "3": 38,
         "4": 3,
         "5": 0
       }
@@ -64,11 +64,11 @@
       }
     },
     "選挙・裁判": {
-      "total": 75,
+      "total": 76,
       "quizWeight": {
         "1": 0,
         "2": 0,
-        "3": 60,
+        "3": 61,
         "4": 9,
         "5": 6
       }
@@ -124,11 +124,11 @@
       }
     },
     "文化・宗教": {
-      "total": 57,
+      "total": 68,
       "quizWeight": {
         "1": 0,
         "2": 0,
-        "3": 57,
+        "3": 68,
         "4": 0,
         "5": 0
       }
@@ -164,13 +164,23 @@
       }
     },
     "一般ニュース語彙": {
-      "total": 30,
+      "total": 36,
       "quizWeight": {
         "1": 0,
         "2": 0,
-        "3": 29,
+        "3": 35,
         "4": 0,
         "5": 1
+      }
+    },
+    "社会・生活": {
+      "total": 2,
+      "quizWeight": {
+        "1": 0,
+        "2": 0,
+        "3": 2,
+        "4": 0,
+        "5": 0
       }
     }
   },
@@ -633,6 +643,21 @@
       "word": "समर्थन",
       "normalized": "समर्थन",
       "category": "選挙・裁判",
+      "importance": 4,
+      "sourceCount": 2,
+      "frequency": 2,
+      "oldQuizWeight": 3,
+      "newQuizWeight": 4,
+      "reason": [
+        "base_3",
+        "importance>=4 && sourceCount>=2:+1"
+      ]
+    },
+    {
+      "index": 154,
+      "word": "लूट",
+      "normalized": "लूट",
+      "category": "事件・事故",
       "importance": 4,
       "sourceCount": 2,
       "frequency": 2,
@@ -1584,20 +1609,6 @@
       ]
     },
     {
-      "index": 470,
-      "word": "हालत",
-      "normalized": "हालत",
-      "category": "事件・事故",
-      "importance": 4,
-      "sourceCount": 1,
-      "frequency": 1,
-      "oldQuizWeight": 4,
-      "newQuizWeight": 3,
-      "reason": [
-        "base_3"
-      ]
-    },
-    {
       "index": 471,
       "word": "युवती",
       "normalized": "युवती",
@@ -1850,20 +1861,6 @@
       "sourceCount": 1,
       "frequency": 1,
       "oldQuizWeight": 2,
-      "newQuizWeight": 3,
-      "reason": [
-        "base_3"
-      ]
-    },
-    {
-      "index": 547,
-      "word": "हथियार",
-      "normalized": "हथियार",
-      "category": "事件・事故",
-      "importance": 4,
-      "sourceCount": 1,
-      "frequency": 1,
-      "oldQuizWeight": 4,
       "newQuizWeight": 3,
       "reason": [
         "base_3"
@@ -3047,6 +3044,398 @@
       "sourceCount": 1,
       "frequency": 1,
       "oldQuizWeight": 5,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 716,
+      "word": "बेरहमी",
+      "normalized": "बेरहमी",
+      "category": "事件・事故",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 717,
+      "word": "लथपथ",
+      "normalized": "लथपथ",
+      "category": "事件・事故",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 718,
+      "word": "शव",
+      "normalized": "शव",
+      "category": "事件・事故",
+      "importance": 5,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 5,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 719,
+      "word": "निर्मम",
+      "normalized": "निर्मम",
+      "category": "事件・事故",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 720,
+      "word": "हमलावर",
+      "normalized": "हमलावर",
+      "category": "事件・事故",
+      "importance": 5,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 5,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 721,
+      "word": "धारदार",
+      "normalized": "धारदार",
+      "category": "事件・事故",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 723,
+      "word": "नकदी",
+      "normalized": "नकदी",
+      "category": "労働・経済",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 724,
+      "word": "इरादा",
+      "normalized": "इरादा",
+      "category": "一般ニュース語彙",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 725,
+      "word": "जबरन",
+      "normalized": "जबरन",
+      "category": "事件・事故",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 726,
+      "word": "आशंका",
+      "normalized": "आशंका",
+      "category": "一般ニュース語彙",
+      "importance": 5,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 5,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 727,
+      "word": "अंजाम देना",
+      "normalized": "अंजाम_देना",
+      "category": "事件・事故",
+      "importance": 5,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 5,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 728,
+      "word": "अंदेशा",
+      "normalized": "अंदेशा",
+      "category": "一般ニュース語彙",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 729,
+      "word": "के चलते",
+      "normalized": "के_चलते",
+      "category": "一般ニュース語彙",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 730,
+      "word": "तलाक",
+      "normalized": "तलाक",
+      "category": "社会・生活",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 731,
+      "word": "लंबित",
+      "normalized": "लंबित",
+      "category": "選挙・裁判",
+      "importance": 5,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 5,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 732,
+      "word": "अनहोनी",
+      "normalized": "अनहोनी",
+      "category": "事件・事故",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 733,
+      "word": "घरेलू सहायिका",
+      "normalized": "घरेलू_सहायिका",
+      "category": "社会・生活",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 734,
+      "word": "खंगालना",
+      "normalized": "खंगालना",
+      "category": "事件・事故",
+      "importance": 5,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 5,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 735,
+      "word": "रहने वाला",
+      "normalized": "रहने_वाला",
+      "category": "一般ニュース語彙",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 738,
+      "word": "थाप",
+      "normalized": "थाप",
+      "category": "文化・宗教",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 739,
+      "word": "आदान-प्रदान",
+      "normalized": "आदान_प्रदान",
+      "category": "文化・宗教",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 740,
+      "word": "शुभारंभ",
+      "normalized": "शुभारंभ",
+      "category": "文化・宗教",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 741,
+      "word": "प्रख्यात",
+      "normalized": "प्रख्यात",
+      "category": "文化・宗教",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 742,
+      "word": "समृद्ध",
+      "normalized": "समृद्ध",
+      "category": "文化・宗教",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 743,
+      "word": "रूबरू",
+      "normalized": "रूबरू",
+      "category": "文化・宗教",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 744,
+      "word": "विरासत",
+      "normalized": "विरासत",
+      "category": "文化・宗教",
+      "importance": 5,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 5,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 746,
+      "word": "नृत्यांगना",
+      "normalized": "नृत्यांगना",
+      "category": "文化・宗教",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 747,
+      "word": "मंत्रमुग्ध",
+      "normalized": "मंत्रमुग्ध",
+      "category": "文化・宗教",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
       "newQuizWeight": 3,
       "reason": [
         "base_3"
@@ -5322,12 +5711,13 @@
       "normalized": "लूट",
       "category": "事件・事故",
       "importance": 4,
-      "sourceCount": 1,
-      "frequency": 1,
+      "sourceCount": 2,
+      "frequency": 2,
       "oldQuizWeight": 3,
-      "newQuizWeight": 3,
+      "newQuizWeight": 4,
       "reason": [
-        "base_3"
+        "base_3",
+        "importance>=4 && sourceCount>=2:+1"
       ]
     },
     {
@@ -9794,12 +10184,13 @@
       "normalized": "हालत",
       "category": "事件・事故",
       "importance": 4,
-      "sourceCount": 1,
-      "frequency": 1,
+      "sourceCount": 2,
+      "frequency": 2,
       "oldQuizWeight": 4,
-      "newQuizWeight": 3,
+      "newQuizWeight": 4,
       "reason": [
-        "base_3"
+        "base_3",
+        "importance>=4 && sourceCount>=2:+1"
       ]
     },
     {
@@ -10879,12 +11270,13 @@
       "normalized": "हथियार",
       "category": "事件・事故",
       "importance": 4,
-      "sourceCount": 1,
-      "frequency": 1,
+      "sourceCount": 2,
+      "frequency": 2,
       "oldQuizWeight": 4,
-      "newQuizWeight": 3,
+      "newQuizWeight": 4,
       "reason": [
-        "base_3"
+        "base_3",
+        "importance>=4 && sourceCount>=2:+1"
       ]
     },
     {
@@ -12009,8 +12401,8 @@
       "normalized": "सुरक्षित",
       "category": "事件・事故",
       "importance": 3,
-      "sourceCount": 1,
-      "frequency": 1,
+      "sourceCount": 2,
+      "frequency": 2,
       "oldQuizWeight": 3,
       "newQuizWeight": 3,
       "reason": [
@@ -13244,6 +13636,454 @@
       "sourceCount": 1,
       "frequency": 1,
       "oldQuizWeight": 3,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 716,
+      "word": "बेरहमी",
+      "normalized": "बेरहमी",
+      "category": "事件・事故",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 717,
+      "word": "लथपथ",
+      "normalized": "लथपथ",
+      "category": "事件・事故",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 718,
+      "word": "शव",
+      "normalized": "शव",
+      "category": "事件・事故",
+      "importance": 5,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 5,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 719,
+      "word": "निर्मम",
+      "normalized": "निर्मम",
+      "category": "事件・事故",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 720,
+      "word": "हमलावर",
+      "normalized": "हमलावर",
+      "category": "事件・事故",
+      "importance": 5,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 5,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 721,
+      "word": "धारदार",
+      "normalized": "धारदार",
+      "category": "事件・事故",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 722,
+      "word": "नस",
+      "normalized": "नस",
+      "category": "医療・健康",
+      "importance": 3,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 3,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 723,
+      "word": "नकदी",
+      "normalized": "नकदी",
+      "category": "労働・経済",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 724,
+      "word": "इरादा",
+      "normalized": "इरादा",
+      "category": "一般ニュース語彙",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 725,
+      "word": "जबरन",
+      "normalized": "जबरन",
+      "category": "事件・事故",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 726,
+      "word": "आशंका",
+      "normalized": "आशंका",
+      "category": "一般ニュース語彙",
+      "importance": 5,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 5,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 727,
+      "word": "अंजाम देना",
+      "normalized": "अंजाम_देना",
+      "category": "事件・事故",
+      "importance": 5,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 5,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 728,
+      "word": "अंदेशा",
+      "normalized": "अंदेशा",
+      "category": "一般ニュース語彙",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 729,
+      "word": "के चलते",
+      "normalized": "के_चलते",
+      "category": "一般ニュース語彙",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 730,
+      "word": "तलाक",
+      "normalized": "तलाक",
+      "category": "社会・生活",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 731,
+      "word": "लंबित",
+      "normalized": "लंबित",
+      "category": "選挙・裁判",
+      "importance": 5,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 5,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 732,
+      "word": "अनहोनी",
+      "normalized": "अनहोनी",
+      "category": "事件・事故",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 733,
+      "word": "घरेलू सहायिका",
+      "normalized": "घरेलू_सहायिका",
+      "category": "社会・生活",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 734,
+      "word": "खंगालना",
+      "normalized": "खंगालना",
+      "category": "事件・事故",
+      "importance": 5,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 5,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 735,
+      "word": "रहने वाला",
+      "normalized": "रहने_वाला",
+      "category": "一般ニュース語彙",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 736,
+      "word": "बिखरना",
+      "normalized": "बिखरना",
+      "category": "文化・宗教",
+      "importance": 3,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 3,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 737,
+      "word": "संवाददाता",
+      "normalized": "संवाददाता",
+      "category": "一般ニュース語彙",
+      "importance": 3,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 3,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 738,
+      "word": "थाप",
+      "normalized": "थाप",
+      "category": "文化・宗教",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 739,
+      "word": "आदान-प्रदान",
+      "normalized": "आदान_प्रदान",
+      "category": "文化・宗教",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 740,
+      "word": "शुभारंभ",
+      "normalized": "शुभारंभ",
+      "category": "文化・宗教",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 741,
+      "word": "प्रख्यात",
+      "normalized": "प्रख्यात",
+      "category": "文化・宗教",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 742,
+      "word": "समृद्ध",
+      "normalized": "समृद्ध",
+      "category": "文化・宗教",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 743,
+      "word": "रूबरू",
+      "normalized": "रूबरू",
+      "category": "文化・宗教",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 744,
+      "word": "विरासत",
+      "normalized": "विरासत",
+      "category": "文化・宗教",
+      "importance": 5,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 5,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 745,
+      "word": "प्रदर्शित",
+      "normalized": "प्रदर्शित",
+      "category": "文化・宗教",
+      "importance": 3,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 3,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 746,
+      "word": "नृत्यांगना",
+      "normalized": "नृत्यांगना",
+      "category": "文化・宗教",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 747,
+      "word": "मंत्रमुग्ध",
+      "normalized": "मंत्रमुग्ध",
+      "category": "文化・宗教",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
       "newQuizWeight": 3,
       "reason": [
         "base_3"

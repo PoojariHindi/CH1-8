@@ -2742,10 +2742,11 @@
     "importance": 4,
     "status": "active",
     "sourceArticleIds": [
-      "news_006"
+      "news_006",
+      "news042_DJ20260605_DUkilling"
     ],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 2,
+    "frequency": 2,
     "notes": "",
     "quizWeight": 3
   },
@@ -8155,10 +8156,11 @@
     "importance": 4,
     "status": "active",
     "sourceArticleIds": [
-      "news024_NBT20260520_Dahej"
+      "news024_NBT20260520_Dahej",
+      "news042_DJ20260605_DUkilling"
     ],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 2,
+    "frequency": 2,
     "notes": "ニュース頻出",
     "quizWeight": 4
   },
@@ -9477,10 +9479,11 @@
     "importance": 4,
     "status": "active",
     "sourceArticleIds": [
-      "news029_DJ20260523_Maoism"
+      "news029_DJ20260523_Maoism",
+      "news042_DJ20260605_DUkilling"
     ],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 2,
+    "frequency": 2,
     "notes": "",
     "quizWeight": 4
   },
@@ -10848,10 +10851,11 @@
     "importance": 3,
     "status": "active",
     "sourceArticleIds": [
-      "news036_DJ20260526_Ropeway"
+      "news036_DJ20260526_Ropeway",
+      "news042_DJ20260605_DUkilling"
     ],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 2,
+    "frequency": 2,
     "notes": "一般ニュース頻出",
     "quizWeight": 3
   },
@@ -12388,5 +12392,554 @@
     "frequency": 1,
     "notes": "本文では सभी वाकिफ हैं",
     "quizWeight": 3
+  },
+  {
+    "word": "बेरहमी",
+    "normalized": "बेरहमी",
+    "pos": "名詞（女）",
+    "meaning_ja": "残虐さ、無慈悲さ",
+    "category": "事件・事故",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news042_DJ20260605_DUkilling"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "凶悪事件・暴力事件記事で頻出",
+    "quizWeight": 4
+  },
+  {
+    "word": "लथपथ",
+    "normalized": "लथपथ",
+    "pos": "形容詞",
+    "meaning_ja": "～まみれの、びっしょり覆われた",
+    "category": "事件・事故",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news042_DJ20260605_DUkilling"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "खून से लथपथ（血まみれの）の形で頻出",
+    "quizWeight": 4
+  },
+  {
+    "word": "शव",
+    "normalized": "शव",
+    "pos": "名詞（男）",
+    "meaning_ja": "遺体、死体",
+    "category": "事件・事故",
+    "difficulty": 3,
+    "importance": 5,
+    "status": "active",
+    "sourceArticleIds": [
+      "news042_DJ20260605_DUkilling"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "事件・事故報道頻出",
+    "quizWeight": 5
+  },
+  {
+    "word": "निर्मम",
+    "normalized": "निर्मम",
+    "pos": "形容詞",
+    "meaning_ja": "残忍な、無慈悲な",
+    "category": "事件・事故",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news042_DJ20260605_DUkilling"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "凶悪犯罪記事で頻出",
+    "quizWeight": 4
+  },
+  {
+    "word": "हमलावर",
+    "normalized": "हमलावर",
+    "pos": "名詞（男）",
+    "meaning_ja": "襲撃者、加害者",
+    "category": "事件・事故",
+    "difficulty": 4,
+    "importance": 5,
+    "status": "active",
+    "sourceArticleIds": [
+      "news042_DJ20260605_DUkilling"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "本文形：हमलावरों",
+    "quizWeight": 5
+  },
+  {
+    "word": "धारदार",
+    "normalized": "धारदार",
+    "pos": "形容詞",
+    "meaning_ja": "刃の鋭い、鋭利な",
+    "category": "事件・事故",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news042_DJ20260605_DUkilling"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "धारदार हथियार の形で頻出",
+    "quizWeight": 4
+  },
+  {
+    "word": "नस",
+    "normalized": "नस",
+    "pos": "名詞（女）",
+    "meaning_ja": "血管、神経",
+    "category": "医療・健康",
+    "difficulty": 3,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news042_DJ20260605_DUkilling"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "नकदी",
+    "normalized": "नकदी",
+    "pos": "名詞（女）",
+    "meaning_ja": "現金",
+    "category": "労働・経済",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news042_DJ20260605_DUkilling"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "経済・犯罪記事頻出",
+    "quizWeight": 4
+  },
+  {
+    "word": "इरादा",
+    "normalized": "इरादा",
+    "pos": "名詞（男）",
+    "meaning_ja": "意図、意向、決意",
+    "category": "一般ニュース語彙",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news042_DJ20260605_DUkilling"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 4
+  },
+  {
+    "word": "जबरन",
+    "normalized": "जबरन",
+    "pos": "副詞",
+    "meaning_ja": "無理やり、強制的に",
+    "category": "事件・事故",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news042_DJ20260605_DUkilling"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 4
+  },
+  {
+    "word": "आशंका",
+    "normalized": "आशंका",
+    "pos": "名詞（女）",
+    "meaning_ja": "懸念、恐れ",
+    "category": "一般ニュース語彙",
+    "difficulty": 4,
+    "importance": 5,
+    "status": "active",
+    "sourceArticleIds": [
+      "news042_DJ20260605_DUkilling"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "ニュース記事で極めて頻出",
+    "quizWeight": 5
+  },
+  {
+    "word": "अंजाम देना",
+    "display": "अंजाम देना",
+    "normalized": "अंजाम_देना",
+    "pos": "固定表現",
+    "meaning_ja": "実行する、引き起こす",
+    "category": "事件・事故",
+    "difficulty": 4,
+    "importance": 5,
+    "status": "active",
+    "sourceArticleIds": [
+      "news042_DJ20260605_DUkilling"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "अपराध को अंजाम देना の形で頻出",
+    "quizWeight": 5
+  },
+  {
+    "word": "अंदेशा",
+    "normalized": "अंदेशा",
+    "pos": "名詞（男）",
+    "meaning_ja": "懸念、危惧",
+    "category": "一般ニュース語彙",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news042_DJ20260605_DUkilling"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 4
+  },
+  {
+    "word": "के चलते",
+    "display": "के चलते",
+    "normalized": "के_चलते",
+    "pos": "固定表現",
+    "meaning_ja": "～のために、～が原因で",
+    "category": "一般ニュース語彙",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news042_DJ20260605_DUkilling"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "原因・理由を表すニュース頻出表現",
+    "quizWeight": 4
+  },
+  {
+    "word": "तलाक",
+    "normalized": "तलाक",
+    "pos": "名詞（男）",
+    "meaning_ja": "離婚",
+    "category": "社会・生活",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news042_DJ20260605_DUkilling"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 4
+  },
+  {
+    "word": "लंबित",
+    "normalized": "लंबित",
+    "pos": "形容詞",
+    "meaning_ja": "係争中の、未決の、保留中の",
+    "category": "選挙・裁判",
+    "difficulty": 4,
+    "importance": 5,
+    "status": "active",
+    "sourceArticleIds": [
+      "news042_DJ20260605_DUkilling"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "裁判・行政記事頻出",
+    "quizWeight": 5
+  },
+  {
+    "word": "अनहोनी",
+    "normalized": "अनहोनी",
+    "pos": "名詞（女）",
+    "meaning_ja": "不測の事態、不幸な出来事",
+    "category": "事件・事故",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news042_DJ20260605_DUkilling"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 4
+  },
+  {
+    "word": "घरेलू सहायिका",
+    "display": "घरेलू सहायिका",
+    "normalized": "घरेलू_सहायिका",
+    "pos": "固定複合語",
+    "meaning_ja": "家事使用人、家政婦",
+    "category": "社会・生活",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news042_DJ20260605_DUkilling"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 4
+  },
+  {
+    "word": "खंगालना",
+    "normalized": "खंगालना",
+    "pos": "他動詞",
+    "meaning_ja": "徹底的に調べる、洗い出す",
+    "category": "事件・事故",
+    "difficulty": 4,
+    "importance": 5,
+    "status": "active",
+    "sourceArticleIds": [
+      "news042_DJ20260605_DUkilling"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "捜査・監査記事で頻出",
+    "quizWeight": 5
+  },
+  {
+    "word": "रहने वाला",
+    "display": "रहने वाला",
+    "normalized": "रहने_वाला",
+    "pos": "固定表現",
+    "meaning_ja": "～に住んでいる、～在住の、～出身の",
+    "category": "一般ニュース語彙",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news042_DJ20260605_DUkilling"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "『दिल्ली का रहने वाला』『बंगाल की रहने वाली』の形で頻出",
+    "quizWeight": 4
+  },
+  {
+    "word": "बिखरना",
+    "normalized": "बिखरना",
+    "pos": "自動詞",
+    "meaning_ja": "広がる、繰り広げられる、散りばめられる",
+    "category": "文化・宗教",
+    "difficulty": 4,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news043_DJ20260605_Triveni"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "本文形：बिखरे。舞台・色彩・雰囲気が広がる文脈",
+    "quizWeight": 3
+  },
+  {
+    "word": "संवाददाता",
+    "normalized": "संवाददाता",
+    "pos": "名詞（男）",
+    "meaning_ja": "特派員、記者",
+    "category": "一般ニュース語彙",
+    "difficulty": 3,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news043_DJ20260605_Triveni"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "新聞記事の署名・報道文脈で頻出",
+    "quizWeight": 3
+  },
+  {
+    "word": "थाप",
+    "normalized": "थाप",
+    "pos": "名詞（女）",
+    "meaning_ja": "リズムの打音、拍子",
+    "category": "文化・宗教",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news043_DJ20260605_Triveni"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "舞踊・音楽文脈で使用",
+    "quizWeight": 4
+  },
+  {
+    "word": "आदान-प्रदान",
+    "display": "आदान-प्रदान",
+    "normalized": "आदान_प्रदान",
+    "pos": "名詞（男）",
+    "meaning_ja": "交流、交換",
+    "category": "文化・宗教",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news043_DJ20260605_Triveni"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "文化交流・外交・教育文脈で頻出",
+    "quizWeight": 4
+  },
+  {
+    "word": "शुभारंभ",
+    "normalized": "शुभारंभ",
+    "pos": "名詞（男）",
+    "meaning_ja": "開幕、開始、開会",
+    "category": "文化・宗教",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news043_DJ20260605_Triveni"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "式典・イベント記事頻出",
+    "quizWeight": 4
+  },
+  {
+    "word": "प्रख्यात",
+    "normalized": "प्रख्यात",
+    "pos": "形容詞",
+    "meaning_ja": "著名な、高名な",
+    "category": "文化・宗教",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news043_DJ20260605_Triveni"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "人物紹介・文化記事で頻出",
+    "quizWeight": 4
+  },
+  {
+    "word": "समृद्ध",
+    "normalized": "समृद्ध",
+    "pos": "形容詞",
+    "meaning_ja": "豊かな、豊富な",
+    "category": "文化・宗教",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news043_DJ20260605_Triveni"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "文化・歴史・経済文脈で頻出",
+    "quizWeight": 4
+  },
+  {
+    "word": "रूबरू",
+    "normalized": "रूबरू",
+    "pos": "副詞・形容詞",
+    "meaning_ja": "直接に、面と向かって",
+    "category": "文化・宗教",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news043_DJ20260605_Triveni"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "本文では रूबरू कराया＝直接触れさせた、紹介した",
+    "quizWeight": 4
+  },
+  {
+    "word": "विरासत",
+    "normalized": "विरासत",
+    "pos": "名詞（女）",
+    "meaning_ja": "遺産、文化遺産",
+    "category": "文化・宗教",
+    "difficulty": 4,
+    "importance": 5,
+    "status": "active",
+    "sourceArticleIds": [
+      "news043_DJ20260605_Triveni"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "文化・歴史・伝統記事頻出",
+    "quizWeight": 5
+  },
+  {
+    "word": "प्रदर्शित",
+    "normalized": "प्रदर्शित",
+    "pos": "形容詞",
+    "meaning_ja": "展示された、披露された、示された",
+    "category": "文化・宗教",
+    "difficulty": 4,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news043_DJ20260605_Triveni"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "本文では विरासत को प्रदर्शित करते हुए",
+    "quizWeight": 3
+  },
+  {
+    "word": "नृत्यांगना",
+    "normalized": "नृत्यांगना",
+    "pos": "名詞（女）",
+    "meaning_ja": "女性舞踊家、女性ダンサー",
+    "category": "文化・宗教",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news043_DJ20260605_Triveni"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "舞踊・芸術記事頻出",
+    "quizWeight": 4
+  },
+  {
+    "word": "मंत्रमुग्ध",
+    "normalized": "मंत्रमुग्ध",
+    "pos": "形容詞",
+    "meaning_ja": "魅了された、うっとりした",
+    "category": "文化・宗教",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news043_DJ20260605_Triveni"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "舞台・芸術鑑賞記事で頻出",
+    "quizWeight": 4
   }
 ]

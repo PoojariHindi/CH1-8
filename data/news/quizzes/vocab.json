@@ -689,6 +689,19 @@
     "quizWeight": 12
   },
   {
+    "word": "लूट",
+    "display": "लूट",
+    "normalized": "लूट",
+    "meaning_ja": "強奪、略奪",
+    "pos": "名詞（女）",
+    "category": "事件・事故",
+    "difficulty": 2,
+    "importance": 4,
+    "sourceCount": 2,
+    "frequency": 2,
+    "quizWeight": 12
+  },
+  {
     "word": "व्यवस्था",
     "display": "व्यवस्था",
     "normalized": "व्यवस्था",
@@ -699,6 +712,19 @@
     "importance": 4,
     "sourceCount": 3,
     "frequency": 3,
+    "quizWeight": 12
+  },
+  {
+    "word": "शव",
+    "display": "शव",
+    "normalized": "शव",
+    "meaning_ja": "遺体、死体",
+    "pos": "名詞（男）",
+    "category": "事件・事故",
+    "difficulty": 3,
+    "importance": 5,
+    "sourceCount": 1,
+    "frequency": 1,
     "quizWeight": 12
   },
   {
@@ -741,6 +767,19 @@
     "quizWeight": 12
   },
   {
+    "word": "हालत",
+    "display": "हालत",
+    "normalized": "हालत",
+    "meaning_ja": "状態、容体",
+    "pos": "名詞（女）",
+    "category": "事件・事故",
+    "difficulty": 2,
+    "importance": 4,
+    "sourceCount": 2,
+    "frequency": 2,
+    "quizWeight": 12
+  },
+  {
     "word": "हिंसक",
     "display": "हिंसक",
     "normalized": "हिंसक",
@@ -752,6 +791,19 @@
     "sourceCount": 3,
     "frequency": 3,
     "quizWeight": 12
+  },
+  {
+    "word": "अंजाम देना",
+    "display": "अंजाम देना",
+    "normalized": "अंजाम_देना",
+    "meaning_ja": "実行する、引き起こす",
+    "pos": "固定表現",
+    "category": "事件・事故",
+    "difficulty": 4,
+    "importance": 5,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 11
   },
   {
     "word": "अग्निशमन विभाग",
@@ -827,6 +879,19 @@
     "category": "科学・技術",
     "difficulty": 2,
     "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 11
+  },
+  {
+    "word": "आशंका",
+    "display": "आशंका",
+    "normalized": "आशंका",
+    "meaning_ja": "懸念、恐れ",
+    "pos": "名詞（女）",
+    "category": "一般ニュース語彙",
+    "difficulty": 4,
+    "importance": 5,
     "sourceCount": 1,
     "frequency": 1,
     "quizWeight": 11
@@ -957,6 +1022,19 @@
     "category": "労働・経済",
     "difficulty": 2,
     "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 11
+  },
+  {
+    "word": "खंगालना",
+    "display": "खंगालना",
+    "normalized": "खंगालना",
+    "meaning_ja": "徹底的に調べる、洗い出す",
+    "pos": "他動詞",
+    "category": "事件・事故",
+    "difficulty": 4,
+    "importance": 5,
     "sourceCount": 1,
     "frequency": 1,
     "quizWeight": 11
@@ -1560,6 +1638,19 @@
     "quizWeight": 11
   },
   {
+    "word": "लंबित",
+    "display": "लंबित",
+    "normalized": "लंबित",
+    "meaning_ja": "係争中の、未決の、保留中の",
+    "pos": "形容詞",
+    "category": "選挙・裁判",
+    "difficulty": 4,
+    "importance": 5,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 11
+  },
+  {
     "word": "लागू करना",
     "display": "लागू करना",
     "normalized": "लागू_करना",
@@ -1586,19 +1677,6 @@
     "quizWeight": 11
   },
   {
-    "word": "लूट",
-    "display": "लूट",
-    "normalized": "लूट",
-    "meaning_ja": "強奪、略奪",
-    "pos": "名詞（女）",
-    "category": "事件・事故",
-    "difficulty": 2,
-    "importance": 4,
-    "sourceCount": 1,
-    "frequency": 1,
-    "quizWeight": 11
-  },
-  {
     "word": "विकसित करना",
     "display": "विकसित करना",
     "normalized": "विकसित_करना",
@@ -1620,6 +1698,19 @@
     "category": "行政・制度",
     "difficulty": 2,
     "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 11
+  },
+  {
+    "word": "विरासत",
+    "display": "विरासत",
+    "normalized": "विरासत",
+    "meaning_ja": "遺産、文化遺産",
+    "pos": "名詞（女）",
+    "category": "文化・宗教",
+    "difficulty": 4,
+    "importance": 5,
     "sourceCount": 1,
     "frequency": 1,
     "quizWeight": 11
@@ -1820,14 +1911,27 @@
     "quizWeight": 11
   },
   {
-    "word": "हालत",
-    "display": "हालत",
-    "normalized": "हालत",
-    "meaning_ja": "状態、容体",
-    "pos": "名詞（女）",
+    "word": "हथियार",
+    "display": "हथियार",
+    "normalized": "हथियार",
+    "meaning_ja": "武器",
+    "pos": "名詞（男）",
     "category": "事件・事故",
-    "difficulty": 2,
+    "difficulty": 3,
     "importance": 4,
+    "sourceCount": 2,
+    "frequency": 2,
+    "quizWeight": 11
+  },
+  {
+    "word": "हमलावर",
+    "display": "हमलावर",
+    "normalized": "हमलावर",
+    "meaning_ja": "襲撃者、加害者",
+    "pos": "名詞（男）",
+    "category": "事件・事故",
+    "difficulty": 4,
+    "importance": 5,
     "sourceCount": 1,
     "frequency": 1,
     "quizWeight": 11
@@ -2080,6 +2184,19 @@
     "quizWeight": 10
   },
   {
+    "word": "इरादा",
+    "display": "इरादा",
+    "normalized": "इरादा",
+    "meaning_ja": "意図、意向、決意",
+    "pos": "名詞（男）",
+    "category": "一般ニュース語彙",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 10
+  },
+  {
     "word": "उपचुनाव",
     "display": "उपचुनाव",
     "normalized": "उपचुनाव",
@@ -2229,6 +2346,19 @@
     "meaning_ja": "〜に対して、〜に反対して",
     "pos": "後置詞句",
     "category": "ニュース定型句",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 10
+  },
+  {
+    "word": "के चलते",
+    "display": "के चलते",
+    "normalized": "के_चलते",
+    "meaning_ja": "～のために、～が原因で",
+    "pos": "固定表現",
+    "category": "一般ニュース語彙",
     "difficulty": 3,
     "importance": 4,
     "sourceCount": 1,
@@ -2444,6 +2574,19 @@
     "quizWeight": 10
   },
   {
+    "word": "जबरन",
+    "display": "जबरन",
+    "normalized": "जबरन",
+    "meaning_ja": "無理やり、強制的に",
+    "pos": "副詞",
+    "category": "事件・事故",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 10
+  },
+  {
     "word": "जमाकर्ता",
     "display": "जमाकर्ता",
     "normalized": "जमाकर्ता",
@@ -2574,6 +2717,19 @@
     "quizWeight": 10
   },
   {
+    "word": "तलाक",
+    "display": "तलाक",
+    "normalized": "तलाक",
+    "meaning_ja": "離婚",
+    "pos": "名詞（男）",
+    "category": "社会・生活",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 10
+  },
+  {
     "word": "त्रि-भाषा फ़ॉर्मूला",
     "display": "त्रि-भाषा फ़ॉर्मूला",
     "normalized": "त्रि_भाषा_फॉर्मूला",
@@ -2645,6 +2801,19 @@
     "meaning_ja": "有罪の者、犯人",
     "pos": "名詞・形容詞",
     "category": "選挙・裁判",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 10
+  },
+  {
+    "word": "नकदी",
+    "display": "नकदी",
+    "normalized": "नकदी",
+    "meaning_ja": "現金",
+    "pos": "名詞（女）",
+    "category": "労働・経済",
     "difficulty": 3,
     "importance": 4,
     "sourceCount": 1,
@@ -3276,6 +3445,19 @@
     "quizWeight": 10
   },
   {
+    "word": "रहने वाला",
+    "display": "रहने वाला",
+    "normalized": "रहने_वाला",
+    "meaning_ja": "～に住んでいる、～在住の、～出身の",
+    "pos": "固定表現",
+    "category": "一般ニュース語彙",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 10
+  },
+  {
     "word": "राष्ट्रीय शिक्षा नीति",
     "display": "राष्ट्रीय शिक्षा नीति",
     "normalized": "राष्ट्रीय_शिक्षा_नीति",
@@ -3679,6 +3861,19 @@
     "quizWeight": 10
   },
   {
+    "word": "समृद्ध",
+    "display": "समृद्ध",
+    "normalized": "समृद्ध",
+    "meaning_ja": "豊かな、豊富な",
+    "pos": "形容詞",
+    "category": "文化・宗教",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 10
+  },
+  {
     "word": "सराफा",
     "display": "सराफा",
     "normalized": "सराफा",
@@ -3809,6 +4004,19 @@
     "quizWeight": 10
   },
   {
+    "word": "सुरक्षित",
+    "display": "सुरक्षित",
+    "normalized": "सुरक्षित",
+    "meaning_ja": "安全な、無事な",
+    "pos": "形容詞",
+    "category": "事件・事故",
+    "difficulty": 2,
+    "importance": 3,
+    "sourceCount": 2,
+    "frequency": 2,
+    "quizWeight": 10
+  },
+  {
     "word": "सूत्र",
     "display": "सूत्र",
     "normalized": "सूत्र",
@@ -3900,19 +4108,6 @@
     "quizWeight": 10
   },
   {
-    "word": "हथियार",
-    "display": "हथियार",
-    "normalized": "हथियार",
-    "meaning_ja": "武器",
-    "pos": "名詞（男）",
-    "category": "事件・事故",
-    "difficulty": 3,
-    "importance": 4,
-    "sourceCount": 1,
-    "frequency": 1,
-    "quizWeight": 10
-  },
-  {
     "word": "हल निकालना",
     "display": "हल निकालना",
     "normalized": "हल_निकालना",
@@ -3945,6 +4140,19 @@
     "meaning_ja": "実行する、遂行する",
     "pos": "動詞句",
     "category": "重要動詞",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "अंदेशा",
+    "display": "अंदेशा",
+    "normalized": "अंदेशा",
+    "meaning_ja": "懸念、危惧",
+    "pos": "名詞（男）",
+    "category": "一般ニュース語彙",
     "difficulty": 4,
     "importance": 4,
     "sourceCount": 1,
@@ -4023,6 +4231,19 @@
     "meaning_ja": "法律、法令",
     "pos": "名詞（男）",
     "category": "行政・制度",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "अनहोनी",
+    "display": "अनहोनी",
+    "normalized": "अनहोनी",
+    "meaning_ja": "不測の事態、不幸な出来事",
+    "pos": "名詞（女）",
+    "category": "事件・事故",
     "difficulty": 4,
     "importance": 4,
     "sourceCount": 1,
@@ -4192,6 +4413,19 @@
     "meaning_ja": "不安定さ",
     "pos": "名詞（女）",
     "category": "労働・経済",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "आदान-प्रदान",
+    "display": "आदान-प्रदान",
+    "normalized": "आदान_प्रदान",
+    "meaning_ja": "交流、交換",
+    "pos": "名詞（男）",
+    "category": "文化・宗教",
     "difficulty": 4,
     "importance": 4,
     "sourceCount": 1,
@@ -4888,6 +5122,19 @@
     "quizWeight": 9
   },
   {
+    "word": "घरेलू सहायिका",
+    "display": "घरेलू सहायिका",
+    "normalized": "घरेलू_सहायिका",
+    "meaning_ja": "家事使用人、家政婦",
+    "pos": "固定複合語",
+    "category": "社会・生活",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
     "word": "घरेलू हिंसा",
     "display": "घरेलू हिंसा",
     "normalized": "घरेलू_हिंसा",
@@ -5278,6 +5525,19 @@
     "quizWeight": 9
   },
   {
+    "word": "थाप",
+    "display": "थाप",
+    "normalized": "थाप",
+    "meaning_ja": "リズムの打音、拍子",
+    "pos": "名詞（女）",
+    "category": "文化・宗教",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
     "word": "दत्तक ग्रहण",
     "display": "दत्तक ग्रहण",
     "normalized": "दत्तक_ग्रहण",
@@ -5389,6 +5649,19 @@
     "pos": "副詞句",
     "category": "一般ニュース語彙",
     "difficulty": 5,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "धारदार",
+    "display": "धारदार",
+    "normalized": "धारदार",
+    "meaning_ja": "刃の鋭い、鋭利な",
+    "pos": "形容詞",
+    "category": "事件・事故",
+    "difficulty": 4,
     "importance": 4,
     "sourceCount": 1,
     "frequency": 1,
@@ -5512,6 +5785,19 @@
     "quizWeight": 9
   },
   {
+    "word": "निर्मम",
+    "display": "निर्मम",
+    "normalized": "निर्मम",
+    "meaning_ja": "残忍な、無慈悲な",
+    "pos": "形容詞",
+    "category": "事件・事故",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
     "word": "निर्माण",
     "display": "निर्माण",
     "normalized": "निर्माण",
@@ -5557,6 +5843,19 @@
     "meaning_ja": "NITI Aayog（インド国家政策委員会）",
     "pos": "名詞（男）",
     "category": "行政・制度",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "नृत्यांगना",
+    "display": "नृत्यांगना",
+    "normalized": "नृत्यांगना",
+    "meaning_ja": "女性舞踊家、女性ダンサー",
+    "pos": "名詞（女）",
+    "category": "文化・宗教",
     "difficulty": 4,
     "importance": 4,
     "sourceCount": 1,
@@ -5750,6 +6049,19 @@
     "display": "पौराणिक",
     "normalized": "पौराणिक",
     "meaning_ja": "神話・プラーナに関する",
+    "pos": "形容詞",
+    "category": "文化・宗教",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "प्रख्यात",
+    "display": "प्रख्यात",
+    "normalized": "प्रख्यात",
+    "meaning_ja": "著名な、高名な",
     "pos": "形容詞",
     "category": "文化・宗教",
     "difficulty": 4,
@@ -6045,6 +6357,19 @@
     "quizWeight": 9
   },
   {
+    "word": "बेरहमी",
+    "display": "बेरहमी",
+    "normalized": "बेरहमी",
+    "meaning_ja": "残虐さ、無慈悲さ",
+    "pos": "名詞（女）",
+    "category": "事件・事故",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
     "word": "ब्रह्मचर्य",
     "display": "ब्रह्मचर्य",
     "normalized": "ब्रह्मचर्य",
@@ -6078,6 +6403,19 @@
     "pos": "名詞（男）",
     "category": "都市・環境",
     "difficulty": 5,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "मंत्रमुग्ध",
+    "display": "मंत्रमुग्ध",
+    "normalized": "मंत्रमुग्ध",
+    "meaning_ja": "魅了された、うっとりした",
+    "pos": "形容詞",
+    "category": "文化・宗教",
+    "difficulty": 4,
     "importance": 4,
     "sourceCount": 1,
     "frequency": 1,
@@ -6422,6 +6760,19 @@
     "quizWeight": 9
   },
   {
+    "word": "रूबरू",
+    "display": "रूबरू",
+    "normalized": "रूबरू",
+    "meaning_ja": "直接に、面と向かって",
+    "pos": "副詞・形容詞",
+    "category": "文化・宗教",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
     "word": "रोक",
     "display": "रोक",
     "normalized": "रोक",
@@ -6452,6 +6803,19 @@
     "display": "लचर",
     "normalized": "लचर",
     "meaning_ja": "ずさんな、弱い、不十分な",
+    "pos": "形容詞",
+    "category": "事件・事故",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "लथपथ",
+    "display": "लथपथ",
+    "normalized": "लथपथ",
+    "meaning_ja": "～まみれの、びっしょり覆われた",
     "pos": "形容詞",
     "category": "事件・事故",
     "difficulty": 4,
@@ -6676,6 +7040,19 @@
     "pos": "名詞（男）",
     "category": "選挙・裁判",
     "difficulty": 5,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "शुभारंभ",
+    "display": "शुभारंभ",
+    "normalized": "शुभारंभ",
+    "meaning_ja": "開幕、開始、開会",
+    "pos": "名詞（男）",
+    "category": "文化・宗教",
+    "difficulty": 4,
     "importance": 4,
     "sourceCount": 1,
     "frequency": 1,
@@ -6989,19 +7366,6 @@
     "category": "選挙・裁判",
     "difficulty": 4,
     "importance": 4,
-    "sourceCount": 1,
-    "frequency": 1,
-    "quizWeight": 9
-  },
-  {
-    "word": "सुरक्षित",
-    "display": "सुरक्षित",
-    "normalized": "सुरक्षित",
-    "meaning_ja": "安全な、無事な",
-    "pos": "形容詞",
-    "category": "事件・事故",
-    "difficulty": 2,
-    "importance": 3,
     "sourceCount": 1,
     "frequency": 1,
     "quizWeight": 9
@@ -7579,6 +7943,19 @@
     "quizWeight": 8
   },
   {
+    "word": "नस",
+    "display": "नस",
+    "normalized": "नस",
+    "meaning_ja": "血管、神経",
+    "pos": "名詞（女）",
+    "category": "医療・健康",
+    "difficulty": 3,
+    "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 8
+  },
+  {
     "word": "निंदा",
     "display": "निंदा",
     "normalized": "निंदा",
@@ -8027,6 +8404,19 @@
     "meaning_ja": "対話、協議",
     "pos": "名詞（男）",
     "category": "行政・制度",
+    "difficulty": 3,
+    "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 8
+  },
+  {
+    "word": "संवाददाता",
+    "display": "संवाददाता",
+    "normalized": "संवाददाता",
+    "meaning_ja": "特派員、記者",
+    "pos": "名詞（男）",
+    "category": "一般ニュース語彙",
     "difficulty": 3,
     "importance": 3,
     "sourceCount": 1,
@@ -8606,6 +8996,19 @@
     "quizWeight": 7
   },
   {
+    "word": "प्रदर्शित",
+    "display": "प्रदर्शित",
+    "normalized": "प्रदर्शित",
+    "meaning_ja": "展示された、披露された、示された",
+    "pos": "形容詞",
+    "category": "文化・宗教",
+    "difficulty": 4,
+    "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 7
+  },
+  {
     "word": "प्रवक्ता",
     "display": "प्रवक्ता",
     "normalized": "प्रवक्ता",
@@ -8651,6 +9054,19 @@
     "meaning_ja": "妨げられた、停止した、支障が出た",
     "pos": "形容詞",
     "category": "都市・環境",
+    "difficulty": 4,
+    "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 7
+  },
+  {
+    "word": "बिखरना",
+    "display": "बिखरना",
+    "normalized": "बिखरना",
+    "meaning_ja": "広がる、繰り広げられる、散りばめられる",
+    "pos": "自動詞",
+    "category": "文化・宗教",
     "difficulty": 4,
     "importance": 3,
     "sourceCount": 1,
