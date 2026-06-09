@@ -1066,15 +1066,15 @@
     "sourceRegister": "academic_prose"
   },
   {
-    "word": "बर्तन-भाँड़े",
+    "word": "बर्तन-भाँड़ा",
     "display": "बर्तन-भाँड़ा",
-    "normalized": "बर्तन भांड़ा",
+    "normalized": "बर्तन भांडे",
     "variants": [
-      "बर्तन-भांड़ा",
-      "बर्तन भाँड़ा",
-      "बर्तन भांड़ा"
+      "बर्तन-भांड़े",
+      "बर्तन भाँड़े",
+      "बर्तन भांड़े"
     ],
-    "pos": "名詞（男）",
+    "pos": "名詞（男・複）",
     "meaning_ja": "鍋釜、食器類",
     "importance": 4,
     "status": "active",
@@ -1168,12 +1168,12 @@
     "sourceRegister": "academic_prose"
   },
   {
-    "word": "हरूफ",
-    "display": "हरूफ",
+    "word": "हरूफ़",
+    "display": "हरूफ़",
     "normalized": "हरूफ",
     "variants": [],
     "pos": "名詞（男）",
-    "meaning_ja": "文字、字母",
+    "meaning_ja": "文字、字母（ウルドゥー語）",
     "importance": 5,
     "status": "active",
     "category": "academic",

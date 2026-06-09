@@ -481,6 +481,25 @@
     ]
   },
   {
+    "word": "आनंद-विभोर",
+    "display": "आनंद-विभोर",
+    "normalized": "आनंद विभोर",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "歓喜に浸った、喜びに満ちた",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "評論",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_025"
+    ]
+  },
+  {
     "word": "आयात",
     "display": "आयात",
     "normalized": "आयात",
@@ -557,6 +576,25 @@
     ],
     "sourceIds": [
       "academic_020"
+    ]
+  },
+  {
+    "word": "उच्छ्वसित",
+    "display": "उच्छ्वसित",
+    "normalized": "उच्छ्वसित",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "歓喜に満ちた、心躍る",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "評論",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_025"
     ]
   },
   {
@@ -767,6 +805,25 @@
     ],
     "sourceIds": [
       "academic_022"
+    ]
+  },
+  {
+    "word": "उषा",
+    "display": "उषा",
+    "normalized": "उषा",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "夜明け、暁",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "評論",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_025"
     ]
   },
   {
@@ -1015,6 +1072,25 @@
     ],
     "sourceIds": [
       "academic_018"
+    ]
+  },
+  {
+    "word": "क्षुधा",
+    "display": "क्षुधा",
+    "normalized": "क्षुधा",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "飢え、空腹",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "評論",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_025"
     ]
   },
   {
@@ -1304,6 +1380,25 @@
     ],
     "sourceIds": [
       "academic_012"
+    ]
+  },
+  {
+    "word": "चेष्टा",
+    "display": "चेष्टा",
+    "normalized": "चेष्टा",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "努力、試み、行為",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "評論",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_025"
     ]
   },
   {
@@ -1732,6 +1827,44 @@
     ]
   },
   {
+    "word": "तपस्या",
+    "display": "तपस्या",
+    "normalized": "तपस्या",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "苦行、修行",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "評論",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_025"
+    ]
+  },
+  {
+    "word": "तरजीह",
+    "display": "तरजीह",
+    "normalized": "तरजीह",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "優先、重視",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "評論",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_025"
+    ]
+  },
+  {
     "word": "तर्कशील",
     "display": "तर्कशील",
     "normalized": "तर्कशील",
@@ -1767,6 +1900,25 @@
     ],
     "sourceIds": [
       "academic_016"
+    ]
+  },
+  {
+    "word": "तृप्त",
+    "display": "तृप्त",
+    "normalized": "तृप्त",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "満たされた、満足した",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "評論",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_025"
     ]
   },
   {
@@ -2033,6 +2185,25 @@
     ],
     "sourceIds": [
       "academic_017"
+    ]
+  },
+  {
+    "word": "नारकीय",
+    "display": "नारकीय",
+    "normalized": "नारकीय",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "地獄のような",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "評論",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_025"
     ]
   },
   {
@@ -2418,6 +2589,25 @@
     ]
   },
   {
+    "word": "पिपासा",
+    "display": "पिपासा",
+    "normalized": "पिपासा",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "渇き、渇望",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "評論",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_025"
+    ]
+  },
+  {
     "word": "पुनरावृत्ति",
     "display": "पुनरावृत्ति",
     "normalized": "पुनरावृत्ति",
@@ -2475,6 +2665,25 @@
     ]
   },
   {
+    "word": "पुष्टि",
+    "display": "पुष्टि",
+    "normalized": "पुष्टि",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "栄養補給、養い、確認",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "評論",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_025"
+    ]
+  },
+  {
     "word": "पूँजी",
     "display": "पूँजी",
     "normalized": "पूंजी",
@@ -2512,6 +2721,25 @@
     ],
     "sourceIds": [
       "academic_013"
+    ]
+  },
+  {
+    "word": "पेट-पूजा",
+    "display": "पेट-पूजा",
+    "normalized": "पेट पूजा",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "腹ごしらえ、食べること",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "評論",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_025"
     ]
   },
   {
@@ -2665,6 +2893,25 @@
     ],
     "sourceIds": [
       "academic_024"
+    ]
+  },
+  {
+    "word": "प्रस्फुटित",
+    "display": "प्रस्फुटित",
+    "normalized": "प्रस्फुटित",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "開花した、現れ出た",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "評論",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_025"
     ]
   },
   {
@@ -3036,6 +3283,25 @@
     ]
   },
   {
+    "word": "मानस",
+    "display": "मानस",
+    "normalized": "मानस",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "精神、心",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "評論",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_025"
+    ]
+  },
+  {
     "word": "माया",
     "display": "माया",
     "normalized": "माया",
@@ -3205,6 +3471,25 @@
     ],
     "sourceIds": [
       "academic_018"
+    ]
+  },
+  {
+    "word": "यंत्रणाएँ",
+    "display": "यंत्रणा",
+    "normalized": "यंत्रणा",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "苦痛、責め苦",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "評論",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_025"
     ]
   },
   {
@@ -3813,6 +4098,25 @@
     ]
   },
   {
+    "word": "वृत्तियों",
+    "display": "वृत्ति",
+    "normalized": "वृत्ति",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "傾向、性向、精神的働き",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "評論",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_025"
+    ]
+  },
+  {
     "word": "व्यक्तित्व",
     "display": "व्यक्तित्व",
     "normalized": "व्यक्तित्व",
@@ -3848,6 +4152,44 @@
     ],
     "sourceIds": [
       "academic_016"
+    ]
+  },
+  {
+    "word": "व्रत",
+    "display": "व्रत",
+    "normalized": "व्रत",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "誓願、宗教的断食",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "評論",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_025"
+    ]
+  },
+  {
+    "word": "शनैः-शनैः",
+    "display": "शनैः-शनैः",
+    "normalized": "शनै शनै",
+    "variants": [],
+    "pos": "副詞",
+    "meaning_ja": "徐々に、ゆっくりと",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "評論",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_025"
     ]
   },
   {
@@ -4004,6 +4346,25 @@
     ]
   },
   {
+    "word": "श्रम",
+    "display": "श्रम",
+    "normalized": "श्रम",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "労働、労苦",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "評論",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_025"
+    ]
+  },
+  {
     "word": "संपत्ति",
     "display": "संपत्ति",
     "normalized": "संपत्ति",
@@ -4157,6 +4518,25 @@
     ]
   },
   {
+    "word": "समतुलन",
+    "display": "समतुलन",
+    "normalized": "समतुलन",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "均衡、バランス",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "評論",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_025"
+    ]
+  },
+  {
     "word": "समन्वय",
     "display": "समन्वय",
     "normalized": "समन्वय",
@@ -4193,6 +4573,25 @@
     ],
     "sourceIds": [
       "academic_024"
+    ]
+  },
+  {
+    "word": "समिधा",
+    "display": "समिधा",
+    "normalized": "समिधा",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "祭火にくべる薪、供木",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "評論",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_025"
     ]
   },
   {
@@ -4388,6 +4787,25 @@
     ],
     "sourceIds": [
       "academic_015"
+    ]
+  },
+  {
+    "word": "सौंदर्य-बोध",
+    "display": "सौंदर्य-बोध",
+    "normalized": "सौंदर्य बोध",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "美意識、美の感覚",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "評論",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_025"
     ]
   },
   {
@@ -5610,6 +6028,25 @@
     ]
   },
   {
+    "word": "उपजाओ",
+    "display": "उपजाना",
+    "normalized": "उपजाना",
+    "variants": [],
+    "pos": "他動詞",
+    "meaning_ja": "生産する、栽培する",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "評論",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_025"
+    ]
+  },
+  {
     "word": "उपभोग",
     "display": "उपभोग",
     "normalized": "उपभोग",
@@ -5682,6 +6119,25 @@
     ],
     "sourceIds": [
       "academic_008"
+    ]
+  },
+  {
+    "word": "उपवास",
+    "display": "उपवास",
+    "normalized": "उपवास",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "断食、斎戒",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "評論",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_025"
     ]
   },
   {
@@ -5835,6 +6291,25 @@
     ]
   },
   {
+    "word": "उमड़े",
+    "display": "उमड़ना",
+    "normalized": "उमड़ना",
+    "variants": [],
+    "pos": "自動詞",
+    "meaning_ja": "湧き上がる、押し寄せる",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "評論",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_025"
+    ]
+  },
+  {
     "word": "उलटने-पुलटने",
     "display": "उलटना-पुलटना",
     "normalized": "उलटना पुलटना",
@@ -5870,6 +6345,25 @@
     ],
     "sourceIds": [
       "academic_007"
+    ]
+  },
+  {
+    "word": "ऊखल",
+    "display": "ऊखल",
+    "normalized": "ऊखल",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "臼",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "評論",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_025"
     ]
   },
   {
@@ -6095,6 +6589,25 @@
     ]
   },
   {
+    "word": "काफिला",
+    "display": "काफिला",
+    "normalized": "काफिला",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "隊列、一団、行列",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "評論",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_025"
+    ]
+  },
+  {
     "word": "कारक",
     "display": "कारक",
     "normalized": "कारक",
@@ -6130,6 +6643,25 @@
     ],
     "sourceIds": [
       "academic_012"
+    ]
+  },
+  {
+    "word": "कीट",
+    "display": "कीट",
+    "normalized": "कीट",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "昆虫",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "評論",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_025"
     ]
   },
   {
@@ -6988,6 +7520,25 @@
     ]
   },
   {
+    "word": "झकझोरा",
+    "display": "झकझोरना",
+    "normalized": "झकझोरना",
+    "variants": [],
+    "pos": "他動詞",
+    "meaning_ja": "激しく揺さぶる",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "評論",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_025"
+    ]
+  },
+  {
     "word": "टंकण",
     "display": "टंकण",
     "normalized": "टंकण",
@@ -7228,6 +7779,25 @@
     ],
     "sourceIds": [
       "academic_007"
+    ]
+  },
+  {
+    "word": "तुरही",
+    "display": "तुरही",
+    "normalized": "तुरही",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "ラッパ、角笛",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "評論",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_025"
     ]
   },
   {
@@ -8160,6 +8730,25 @@
     ],
     "sourceIds": [
       "academic_024"
+    ]
+  },
+  {
+    "word": "पतवार",
+    "display": "पतवार",
+    "normalized": "पतवार",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "櫂、オール",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "評論",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_025"
     ]
   },
   {
@@ -9223,13 +9812,56 @@
     ]
   },
   {
-    "word": "बर्तन-भाँड़े",
+    "word": "बनाम",
+    "display": "बनाम",
+    "normalized": "बनाम",
+    "variants": [],
+    "pos": "前置詞・後置詞",
+    "meaning_ja": "〜対〜、〜に対して",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "評論",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_025"
+    ]
+  },
+  {
+    "word": "बर्तन-भाँड़ा",
     "display": "बर्तन-भाँड़ा",
     "normalized": "बर्तन भांड़ा",
     "variants": [
       "बर्तन-भांड़ा",
       "बर्तन भाँड़ा",
       "बर्तन भांड़ा"
+    ],
+    "pos": "名詞（男）",
+    "meaning_ja": "鍋釜、食器類",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "自伝",
+      "教育",
+      "社会",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_024"
+    ]
+  },
+  {
+    "word": "बर्तन-भाँड़े",
+    "display": "बर्तन-भाँड़े",
+    "normalized": "बर्तन भांडे",
+    "variants": [
+      "बर्तन-भांड़े",
+      "बर्तन भाँड़े",
+      "बर्तन भांड़े"
     ],
     "pos": "名詞（男）",
     "meaning_ja": "鍋釜、食器類",
@@ -10385,6 +11017,25 @@
     ]
   },
   {
+    "word": "लाचार",
+    "display": "लाचार",
+    "normalized": "लाचार",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "やむを得ない、どうしようもない",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "評論",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_025"
+    ]
+  },
+  {
     "word": "लाभान्वित",
     "display": "लाभान्वित",
     "normalized": "लाभान्वित",
@@ -10418,6 +11069,25 @@
     ],
     "sourceIds": [
       "academic_004BandarMagarmacch2"
+    ]
+  },
+  {
+    "word": "लालिमा",
+    "display": "लालिमा",
+    "normalized": "लालिमा",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "赤み、紅色",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "評論",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_025"
     ]
   },
   {
@@ -11826,6 +12496,25 @@
     ]
   },
   {
+    "word": "सहूलियत",
+    "display": "सहूलियत",
+    "normalized": "सहूलियत",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "便宜、都合のよさ",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "評論",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_025"
+    ]
+  },
+  {
     "word": "सांख्यिकी",
     "display": "सांख्यिकी",
     "normalized": "सांख्यिकी",
@@ -11860,6 +12549,25 @@
     ],
     "sourceIds": [
       "academic_016"
+    ]
+  },
+  {
+    "word": "सानंद",
+    "display": "सानंद",
+    "normalized": "सानंद",
+    "variants": [],
+    "pos": "副詞・形容詞",
+    "meaning_ja": "喜んで、喜びに満ちて",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "評論",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_025"
     ]
   },
   {
@@ -12047,6 +12755,25 @@
     ],
     "sourceIds": [
       "academic_012"
+    ]
+  },
+  {
+    "word": "सिसकियाँ",
+    "display": "सिसकी",
+    "normalized": "सिसकी",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "すすり泣き",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "評論",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_025"
     ]
   },
   {

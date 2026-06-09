@@ -2802,23 +2802,6 @@
     "quizWeight": 3
   },
   {
-    "word": "अंजाम देना",
-    "normalized": "अंजाम_देना",
-    "pos": "動詞句",
-    "meaning_ja": "実行する、遂行する",
-    "category": "重要動詞",
-    "difficulty": 4,
-    "importance": 4,
-    "status": "active",
-    "sourceArticleIds": [
-      "news_006"
-    ],
-    "sourceCount": 1,
-    "frequency": 1,
-    "notes": "अपराध / वारदात के संदर्भ में頻出。",
-    "quizWeight": 4
-  },
-  {
     "word": "बरामद",
     "normalized": "बरामद",
     "pos": "形容詞・分詞",
@@ -3301,23 +3284,6 @@
     "frequency": 2,
     "notes": "",
     "quizWeight": 4
-  },
-  {
-    "word": "शुभारंभ",
-    "normalized": "शुभारंभ",
-    "pos": "名詞（男）",
-    "meaning_ja": "開始、発足",
-    "category": "行政・制度",
-    "difficulty": 4,
-    "importance": 3,
-    "status": "active",
-    "sourceArticleIds": [
-      "news_008"
-    ],
-    "sourceCount": 1,
-    "frequency": 1,
-    "notes": "",
-    "quizWeight": 3
   },
   {
     "word": "स्वदेशी",
@@ -12602,12 +12568,13 @@
     "importance": 5,
     "status": "active",
     "sourceArticleIds": [
-      "news042_DJ20260605_DUkilling"
+      "news042_DJ20260605_DUkilling",
+      "news_006"
     ],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 2,
+    "frequency": 2,
     "notes": "अपराध को अंजाम देना の形で頻出",
-    "quizWeight": 3
+    "quizWeight": 4
   },
   {
     "word": "अंदेशा",
@@ -12827,12 +12794,13 @@
     "importance": 4,
     "status": "active",
     "sourceArticleIds": [
-      "news043_DJ20260605_Triveni"
+      "news043_DJ20260605_Triveni",
+      "news_008"
     ],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 2,
+    "frequency": 2,
     "notes": "式典・イベント記事頻出",
-    "quizWeight": 3
+    "quizWeight": 4
   },
   {
     "word": "प्रख्यात",
@@ -12951,6 +12919,312 @@
     "sourceCount": 1,
     "frequency": 1,
     "notes": "舞台・芸術鑑賞記事で頻出",
+    "quizWeight": 3
+  },
+  {
+    "word": "अध्यात्म",
+    "normalized": "अध्यात्म",
+    "pos": "名詞（男）",
+    "meaning_ja": "精神性、霊性、スピリチュアリティ",
+    "category": "文化・宗教",
+    "difficulty": 4,
+    "importance": 5,
+    "status": "active",
+    "sourceArticleIds": [
+      "news044_NBT20260609_AdhikMaas"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "宗教・哲学記事頻出",
+    "quizWeight": 3
+  },
+  {
+    "word": "कालखंड",
+    "normalized": "कालखंड",
+    "pos": "名詞（男）",
+    "meaning_ja": "時期、時代、期間",
+    "category": "文化・宗教",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news044_NBT20260609_AdhikMaas"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "歴史・暦・文化記事で使用",
+    "quizWeight": 3
+  },
+  {
+    "word": "ज्योतिषीय",
+    "normalized": "ज्योतिषीय",
+    "pos": "形容詞",
+    "meaning_ja": "占星術の、暦学上の",
+    "category": "文化・宗教",
+    "difficulty": 5,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news044_NBT20260609_AdhikMaas"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "本文では ज्योतिषीय परंपरा",
+    "quizWeight": 3
+  },
+  {
+    "word": "आत्मशुद्धि",
+    "normalized": "आत्मशुद्धि",
+    "pos": "名詞（女）",
+    "meaning_ja": "魂の浄化、自己浄化",
+    "category": "文化・宗教",
+    "difficulty": 5,
+    "importance": 5,
+    "status": "active",
+    "sourceArticleIds": [
+      "news044_NBT20260609_AdhikMaas"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "宗教・修行文脈",
+    "quizWeight": 3
+  },
+  {
+    "word": "धर्मनिष्ठ",
+    "normalized": "धर्मनिष्ठ",
+    "pos": "形容詞",
+    "meaning_ja": "信仰深い、宗教的義務を守る",
+    "category": "文化・宗教",
+    "difficulty": 5,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news044_NBT20260609_AdhikMaas"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "本文では धर्मनिष्ठ जीवन",
+    "quizWeight": 3
+  },
+  {
+    "word": "नक्षत्र",
+    "normalized": "नक्षत्र",
+    "pos": "名詞（男）",
+    "meaning_ja": "ナクシャトラ、星宿、月宿",
+    "category": "文化・宗教",
+    "difficulty": 5,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news044_NBT20260609_AdhikMaas"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "インド暦・占星術の基本要素",
+    "quizWeight": 3
+  },
+  {
+    "word": "ऋतुचक्र",
+    "normalized": "ऋतुचक्र",
+    "pos": "名詞（男）",
+    "meaning_ja": "季節の循環、季節サイクル",
+    "category": "文化・宗教",
+    "difficulty": 5,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news044_NBT20260609_AdhikMaas"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "暦法・季節・文化記事で使用",
+    "quizWeight": 3
+  },
+  {
+    "word": "कालगणना",
+    "normalized": "कालगणना",
+    "pos": "名詞（女）",
+    "meaning_ja": "暦法、時間計算",
+    "category": "文化・宗教",
+    "difficulty": 5,
+    "importance": 5,
+    "status": "active",
+    "sourceArticleIds": [
+      "news044_NBT20260609_AdhikMaas"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "本文では भारतीय कालगणना",
+    "quizWeight": 3
+  },
+  {
+    "word": "समावेश",
+    "normalized": "समावेश",
+    "pos": "名詞（男）",
+    "meaning_ja": "組み入れ、包含、導入",
+    "category": "一般ニュース語彙",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news044_NBT20260609_AdhikMaas"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "制度・教育・社会文脈でも使用",
+    "quizWeight": 3
+  },
+  {
+    "word": "वैज्ञानिकता",
+    "normalized": "वैज्ञानिकता",
+    "pos": "名詞（女）",
+    "meaning_ja": "科学性、科学的であること",
+    "category": "文化・宗教",
+    "difficulty": 5,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news044_NBT20260609_AdhikMaas"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "本文では पंचांग की वैज्ञानिकता",
+    "quizWeight": 3
+  },
+  {
+    "word": "अधिपति",
+    "normalized": "अधिपति",
+    "pos": "名詞（男）",
+    "meaning_ja": "支配神、主宰者、守護者",
+    "category": "文化・宗教",
+    "difficulty": 5,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news044_NBT20260609_AdhikMaas"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "本文では अधिक मास के अधिपति भगवान विष्णु",
+    "quizWeight": 3
+  },
+  {
+    "word": "भगवत्स्मरण",
+    "normalized": "भगवत्स्मरण",
+    "pos": "名詞（男）",
+    "meaning_ja": "神への想念、神を思い起こすこと",
+    "category": "文化・宗教",
+    "difficulty": 5,
+    "importance": 5,
+    "status": "active",
+    "sourceArticleIds": [
+      "news044_NBT20260609_AdhikMaas"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "भक्ति・宗教修行文脈",
+    "quizWeight": 3
+  },
+  {
+    "word": "अनुष्ठान",
+    "normalized": "अनुष्ठान",
+    "pos": "名詞（男）",
+    "meaning_ja": "儀式、祭式、宗教的実践",
+    "category": "文化・宗教",
+    "difficulty": 4,
+    "importance": 5,
+    "status": "active",
+    "sourceArticleIds": [
+      "news044_NBT20260609_AdhikMaas"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "宗教行事・儀礼記事頻出",
+    "quizWeight": 3
+  },
+  {
+    "word": "मांगलिक",
+    "normalized": "मांगलिक",
+    "pos": "形容詞",
+    "meaning_ja": "吉祥の、慶事の",
+    "category": "文化・宗教",
+    "difficulty": 5,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news044_NBT20260609_AdhikMaas"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "本文では मांगलिक संस्कार",
+    "quizWeight": 3
+  },
+  {
+    "word": "फलदायी",
+    "normalized": "फलदायी",
+    "pos": "形容詞",
+    "meaning_ja": "実りある、効果をもたらす、功徳のある",
+    "category": "文化・宗教",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news044_NBT20260609_AdhikMaas"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "本文では जप ... फलदायी बताया गया",
+    "quizWeight": 3
+  },
+  {
+    "word": "पुरुषोत्तम",
+    "normalized": "पुरुषोत्तम",
+    "pos": "名詞（男）",
+    "meaning_ja": "プルショーッタマ、至高の人、ヴィシュヌの別名",
+    "category": "文化・宗教",
+    "difficulty": 5,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news044_NBT20260609_AdhikMaas"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "भगवान विष्णु の別名。本文では पुरुषोत्तम मास",
+    "quizWeight": 3
+  },
+  {
+    "word": "आंकना",
+    "normalized": "आंकना",
+    "pos": "他動詞",
+    "meaning_ja": "評価する、見積もる、判断する",
+    "category": "一般ニュース語彙",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news044_NBT20260609_AdhikMaas"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "本文では महत्ता को कम आंकना＝重要性を過小評価する",
+    "quizWeight": 3
+  },
+  {
+    "word": "खगोलीय",
+    "normalized": "खगोलीय",
+    "pos": "形容詞",
+    "meaning_ja": "天文学的な、天体の",
+    "category": "科学・技術",
+    "difficulty": 5,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news044_NBT20260609_AdhikMaas"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "本文では खगोलीय गणना",
     "quizWeight": 3
   }
 ]

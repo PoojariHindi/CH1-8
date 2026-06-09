@@ -1,9 +1,9 @@
 {
   "topic": "academic_fill_blanks",
-  "generatedAt": "2026-06-01T05:33:20.924Z",
+  "generatedAt": "2026-06-08T03:41:16.977Z",
   "counts": {
-    "sources": 24,
-    "fillBlanks": 139
+    "sources": 25,
+    "fillBlanks": 144
   },
   "fillBlanks": [
     {
@@ -807,31 +807,6 @@
       ]
     },
     {
-      "id": "academic_021::expr::5::blank::25",
-      "type": "fill_blank",
-      "sourceId": "academic_021",
-      "title": "यह पुस्तक क्यों?",
-      "genre": "textbook",
-      "category": "読解",
-      "sourceText": "प्रतिकूल परिस्थितियों से जूझ रही हैं",
-      "prompt": "प्रतिकूल परिस्थितियों से _____",
-      "answer": "जूझ रही हैं",
-      "meaning": "闘う、苦闘する",
-      "expressionMeaning": "不利な状況と闘っている",
-      "pos": "自動詞",
-      "word": "जूझना",
-      "display": "जूझ रही हैं",
-      "normalized": "जूझना",
-      "importance": 5,
-      "difficulty": 1,
-      "tags": [
-        "教科書",
-        "性教育",
-        "社会",
-        "抽象語"
-      ]
-    },
-    {
       "id": "academic_021::expr::6::blank::29",
       "type": "fill_blank",
       "sourceId": "academic_021",
@@ -1205,6 +1180,156 @@
         "自伝",
         "教育",
         "社会",
+        "抽象語"
+      ]
+    },
+    {
+      "id": "academic_025::expr::1::blank::2",
+      "type": "fill_blank",
+      "sourceId": "academic_025",
+      "title": "गेहूँ बनाम गुलाब",
+      "genre": "academic_prose",
+      "category": "読解",
+      "sourceText": "एक से शरीर की पुष्टि होती है, दूसरे से हमारा मानस तृप्त होता है",
+      "prompt": "एक से शरीर की _____ होती है, दूसरे से हमारा मानस तृप्त होता है",
+      "answer": "पुष्टि",
+      "meaning": "栄養補給、養い、確認",
+      "expressionMeaning": "一方は身体を養い、もう一方は精神を満たす",
+      "pos": "名詞（女）",
+      "word": "पुष्टि",
+      "display": "पुष्टि",
+      "normalized": "पुष्टि",
+      "importance": 5,
+      "difficulty": 1,
+      "tags": [
+        "教科書",
+        "文学",
+        "評論",
+        "抽象語"
+      ]
+    },
+    {
+      "id": "academic_025::expr::1::blank::3",
+      "type": "fill_blank",
+      "sourceId": "academic_025",
+      "title": "गेहूँ बनाम गुलाब",
+      "genre": "academic_prose",
+      "category": "読解",
+      "sourceText": "एक से शरीर की पुष्टि होती है, दूसरे से हमारा मानस तृप्त होता है",
+      "prompt": "एक से शरीर की पुष्टि होती है, दूसरे से हमारा _____ तृप्त होता है",
+      "answer": "मानस",
+      "meaning": "精神、心",
+      "expressionMeaning": "一方は身体を養い、もう一方は精神を満たす",
+      "pos": "名詞（男）",
+      "word": "मानस",
+      "display": "मानस",
+      "normalized": "मानस",
+      "importance": 5,
+      "difficulty": 1,
+      "tags": [
+        "教科書",
+        "文学",
+        "評論",
+        "抽象語"
+      ]
+    },
+    {
+      "id": "academic_025::expr::1::blank::4",
+      "type": "fill_blank",
+      "sourceId": "academic_025",
+      "title": "गेहूँ बनाम गुलाब",
+      "genre": "academic_prose",
+      "category": "読解",
+      "sourceText": "एक से शरीर की पुष्टि होती है, दूसरे से हमारा मानस तृप्त होता है",
+      "prompt": "एक से शरीर की पुष्टि होती है, दूसरे से हमारा मानस _____ होता है",
+      "answer": "तृप्त",
+      "meaning": "満たされた、満足した",
+      "expressionMeaning": "一方は身体を養い、もう一方は精神を満たす",
+      "pos": "形容詞",
+      "word": "तृप्त",
+      "display": "तृप्त",
+      "normalized": "तृप्त",
+      "importance": 5,
+      "difficulty": 1,
+      "tags": [
+        "教科書",
+        "文学",
+        "評論",
+        "抽象語"
+      ]
+    },
+    {
+      "id": "academic_025::expr::2::blank::13",
+      "type": "fill_blank",
+      "sourceId": "academic_025",
+      "title": "गेहूँ बनाम गुलाब",
+      "genre": "academic_prose",
+      "category": "読解",
+      "sourceText": "शरीर की आवश्यकताओं पर मानसिक वृत्तियों को तरजीह दी",
+      "prompt": "शरीर की आवश्यकताओं पर मानसिक वृत्तियों को _____ दी",
+      "answer": "तरजीह",
+      "meaning": "優先、重視",
+      "expressionMeaning": "身体的欲求より精神的傾向を優先した",
+      "pos": "名詞（女）",
+      "word": "तरजीह",
+      "display": "तरजीह",
+      "normalized": "तरजीह",
+      "importance": 5,
+      "difficulty": 1,
+      "tags": [
+        "教科書",
+        "文学",
+        "評論",
+        "抽象語"
+      ]
+    },
+    {
+      "id": "academic_025::expr::3::blank::3",
+      "type": "fill_blank",
+      "sourceId": "academic_025",
+      "title": "गेहूँ बनाम गुलाब",
+      "genre": "academic_prose",
+      "category": "読解",
+      "sourceText": "मानस ने उसके पेट पर विजय की घोषणा की",
+      "prompt": "_____ ने उसके पेट पर विजय की घोषणा की",
+      "answer": "मानस",
+      "meaning": "精神、心",
+      "expressionMeaning": "精神が本能に対する勝利を宣言した",
+      "pos": "名詞（男）",
+      "word": "मानस",
+      "display": "मानस",
+      "normalized": "मानस",
+      "importance": 5,
+      "difficulty": 1,
+      "tags": [
+        "教科書",
+        "文学",
+        "評論",
+        "抽象語"
+      ]
+    },
+    {
+      "id": "academic_025::expr::4::blank::29",
+      "type": "fill_blank",
+      "sourceId": "academic_025",
+      "title": "गेहूँ बनाम गुलाब",
+      "genre": "academic_prose",
+      "category": "読解",
+      "sourceText": "गेहूँ और गुलाब का समतुलन",
+      "prompt": "गेहूँ और गुलाब का _____",
+      "answer": "समतुलन",
+      "meaning": "均衡、バランス",
+      "expressionMeaning": "物質的生活と精神的生活の均衡",
+      "pos": "名詞（男）",
+      "word": "समतुलन",
+      "display": "समतुलन",
+      "normalized": "समतुलन",
+      "importance": 5,
+      "difficulty": 1,
+      "tags": [
+        "教科書",
+        "文学",
+        "評論",
         "抽象語"
       ]
     },

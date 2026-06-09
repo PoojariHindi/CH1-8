@@ -199,6 +199,24 @@
     ]
   },
   {
+    "text": "एक से शरीर की पुष्टि होती है, दूसरे से हमारा मानस तृप्त होता है",
+    "normalized": "एक से शरीर की पुष्टि होती है दूसरे से हमारा मानस तृप्त होता है",
+    "meaning": "一方は身体を養い、もう一方は精神を満たす",
+    "meaning_ja": "一方は身体を養い、もう一方は精神を満たす",
+    "type": "philosophical_statement",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "評論",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_025"
+    ]
+  },
+  {
     "text": "औरत को नीचा दिखाने की कोशिश",
     "normalized": "औरत को नीचा दिखाने की कोशिश",
     "meaning": "女性を低く見せようとする試み",
@@ -286,6 +304,24 @@
     ],
     "sourceIds": [
       "academic_023"
+    ]
+  },
+  {
+    "text": "गेहूँ और गुलाब का समतुलन",
+    "normalized": "गेहूँ और गुलाब का समतुलन",
+    "meaning": "物質的生活と精神的生活の均衡",
+    "meaning_ja": "物質的生活と精神的生活の均衡",
+    "type": "symbolic_expression",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "評論",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_025"
     ]
   },
   {
@@ -577,6 +613,24 @@
     ]
   },
   {
+    "text": "मानस ने उसके पेट पर विजय की घोषणा की",
+    "normalized": "मानस ने उसके पेट पर विजय की घोषणा की",
+    "meaning": "精神が本能に対する勝利を宣言した",
+    "meaning_ja": "精神が本能に対する勝利を宣言した",
+    "type": "philosophical_statement",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "評論",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_025"
+    ]
+  },
+  {
     "text": "माया का पर्दा",
     "normalized": "माया का पर्दा",
     "meaning": "幻影の幕、マーヤーによる隔たり",
@@ -755,6 +809,24 @@
     ],
     "sourceIds": [
       "academic_010"
+    ]
+  },
+  {
+    "text": "शरीर की आवश्यकताओं पर मानसिक वृत्तियों को तरजीह दी",
+    "normalized": "शरीर की आवश्यकताओं पर मानसिक वृत्तियों को तरजीह दी",
+    "meaning": "身体的欲求より精神的傾向を優先した",
+    "meaning_ja": "身体的欲求より精神的傾向を優先した",
+    "type": "academic_expression",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "評論",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_025"
     ]
   },
   {

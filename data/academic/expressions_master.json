@@ -232,6 +232,27 @@
     "sourceRegister": "simple_narrative"
   },
   {
+    "text": "एक से शरीर की पुष्टि होती है, दूसरे से हमारा मानस तृप्त होता है",
+    "normalized": "एक से शरीर की पुष्टि होती है दूसरे से हमारा मानस तृप्त होता है",
+    "meaning_ja": "一方は身体を養い、もう一方は精神を満たす",
+    "type": "philosophical_statement",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "評論",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_025"
+    ],
+    "sourceTitle": "गेहूँ बनाम गुलाब",
+    "sourceGenre": "academic_prose",
+    "sourceRegister": "textbook"
+  },
+  {
     "text": "औरत को नीचा दिखाने की कोशिश",
     "normalized": "औरत को नीचा दिखाने की कोशिश",
     "meaning_ja": "女性を低く見せようとする試み",
@@ -335,6 +356,27 @@
     "sourceTitle": "गर्भनिरोध",
     "sourceGenre": "textbook",
     "sourceRegister": "simple_narrative"
+  },
+  {
+    "text": "गेहूँ और गुलाब का समतुलन",
+    "normalized": "गेहूँ और गुलाब का समतुलन",
+    "meaning_ja": "物質的生活と精神的生活の均衡",
+    "type": "symbolic_expression",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "評論",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_025"
+    ],
+    "sourceTitle": "गेहूँ बनाम गुलाब",
+    "sourceGenre": "academic_prose",
+    "sourceRegister": "textbook"
   },
   {
     "text": "जाति-पाँति के भेदभाव का विरोध",
@@ -673,6 +715,27 @@
     "sourceRegister": "simple_narrative"
   },
   {
+    "text": "मानस ने उसके पेट पर विजय की घोषणा की",
+    "normalized": "मानस ने उसके पेट पर विजय की घोषणा की",
+    "meaning_ja": "精神が本能に対する勝利を宣言した",
+    "type": "philosophical_statement",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "評論",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_025"
+    ],
+    "sourceTitle": "गेहूँ बनाम गुलाब",
+    "sourceGenre": "academic_prose",
+    "sourceRegister": "textbook"
+  },
+  {
     "text": "माया का पर्दा",
     "normalized": "माया का पर्दा",
     "meaning_ja": "幻影の幕、マーヤーによる隔たり",
@@ -882,6 +945,27 @@
     "sourceTitle": "Dharmvir Bharti",
     "sourceGenre": "textbook",
     "sourceRegister": "literary_prose"
+  },
+  {
+    "text": "शरीर की आवश्यकताओं पर मानसिक वृत्तियों को तरजीह दी",
+    "normalized": "शरीर की आवश्यकताओं पर मानसिक वृत्तियों को तरजीह दी",
+    "meaning_ja": "身体的欲求より精神的傾向を優先した",
+    "type": "academic_expression",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "教科書",
+      "文学",
+      "評論",
+      "抽象語"
+    ],
+    "sourceIds": [
+      "academic_025"
+    ],
+    "sourceTitle": "गेहूँ बनाम गुलाब",
+    "sourceGenre": "academic_prose",
+    "sourceRegister": "textbook"
   },
   {
     "text": "शेयरों का क्रय एवं विक्रय",

@@ -351,6 +351,19 @@
     "quizWeight": 13
   },
   {
+    "word": "अंजाम देना",
+    "display": "अंजाम देना",
+    "normalized": "अंजाम_देना",
+    "meaning_ja": "実行する、引き起こす",
+    "pos": "固定表現",
+    "category": "事件・事故",
+    "difficulty": 4,
+    "importance": 5,
+    "sourceCount": 2,
+    "frequency": 2,
+    "quizWeight": 12
+  },
+  {
     "word": "अदालत",
     "display": "अदालत",
     "normalized": "अदालत",
@@ -793,19 +806,6 @@
     "quizWeight": 12
   },
   {
-    "word": "अंजाम देना",
-    "display": "अंजाम देना",
-    "normalized": "अंजाम_देना",
-    "meaning_ja": "実行する、引き起こす",
-    "pos": "固定表現",
-    "category": "事件・事故",
-    "difficulty": 4,
-    "importance": 5,
-    "sourceCount": 1,
-    "frequency": 1,
-    "quizWeight": 11
-  },
-  {
     "word": "अग्निशमन विभाग",
     "display": "अग्निशमन विभाग",
     "normalized": "अग्निशमन_विभाग",
@@ -832,6 +832,32 @@
     "quizWeight": 11
   },
   {
+    "word": "अध्यात्म",
+    "display": "अध्यात्म",
+    "normalized": "अध्यात्म",
+    "meaning_ja": "精神性、霊性、スピリチュアリティ",
+    "pos": "名詞（男）",
+    "category": "文化・宗教",
+    "difficulty": 4,
+    "importance": 5,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 11
+  },
+  {
+    "word": "अनुष्ठान",
+    "display": "अनुष्ठान",
+    "normalized": "अनुष्ठान",
+    "meaning_ja": "儀式、祭式、宗教的実践",
+    "pos": "名詞（男）",
+    "category": "文化・宗教",
+    "difficulty": 4,
+    "importance": 5,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 11
+  },
+  {
     "word": "अभियान",
     "display": "अभियान",
     "normalized": "अभियान",
@@ -842,6 +868,19 @@
     "importance": 3,
     "sourceCount": 3,
     "frequency": 3,
+    "quizWeight": 11
+  },
+  {
+    "word": "आत्मशुद्धि",
+    "display": "आत्मशुद्धि",
+    "normalized": "आत्मशुद्धि",
+    "meaning_ja": "魂の浄化、自己浄化",
+    "pos": "名詞（女）",
+    "category": "文化・宗教",
+    "difficulty": 5,
+    "importance": 5,
+    "sourceCount": 1,
+    "frequency": 1,
     "quizWeight": 11
   },
   {
@@ -1011,6 +1050,19 @@
     "importance": 4,
     "sourceCount": 2,
     "frequency": 2,
+    "quizWeight": 11
+  },
+  {
+    "word": "कालगणना",
+    "display": "कालगणना",
+    "normalized": "कालगणना",
+    "meaning_ja": "暦法、時間計算",
+    "pos": "名詞（女）",
+    "category": "文化・宗教",
+    "difficulty": 5,
+    "importance": 5,
+    "sourceCount": 1,
+    "frequency": 1,
     "quizWeight": 11
   },
   {
@@ -1451,6 +1503,19 @@
     "category": "教育",
     "difficulty": 2,
     "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 11
+  },
+  {
+    "word": "भगवत्स्मरण",
+    "display": "भगवत्स्मरण",
+    "normalized": "भगवत्स्मरण",
+    "meaning_ja": "神への想念、神を思い起こすこと",
+    "pos": "名詞（男）",
+    "category": "文化・宗教",
+    "difficulty": 5,
+    "importance": 5,
     "sourceCount": 1,
     "frequency": 1,
     "quizWeight": 11
@@ -3692,6 +3757,19 @@
     "quizWeight": 10
   },
   {
+    "word": "शुभारंभ",
+    "display": "शुभारंभ",
+    "normalized": "शुभारंभ",
+    "meaning_ja": "開幕、開始、開会",
+    "pos": "名詞（男）",
+    "category": "文化・宗教",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 2,
+    "frequency": 2,
+    "quizWeight": 10
+  },
+  {
     "word": "संकाय",
     "display": "संकाय",
     "normalized": "संकाय",
@@ -4134,19 +4212,6 @@
     "quizWeight": 10
   },
   {
-    "word": "अंजाम देना",
-    "display": "अंजाम देना",
-    "normalized": "अंजाम_देना",
-    "meaning_ja": "実行する、遂行する",
-    "pos": "動詞句",
-    "category": "重要動詞",
-    "difficulty": 4,
-    "importance": 4,
-    "sourceCount": 1,
-    "frequency": 1,
-    "quizWeight": 9
-  },
-  {
     "word": "अंदेशा",
     "display": "अंदेशा",
     "normalized": "अंदेशा",
@@ -4232,6 +4297,19 @@
     "pos": "名詞（男）",
     "category": "行政・制度",
     "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "अधिपति",
+    "display": "अधिपति",
+    "normalized": "अधिपति",
+    "meaning_ja": "支配神、主宰者、守護者",
+    "pos": "名詞（男）",
+    "category": "文化・宗教",
+    "difficulty": 5,
     "importance": 4,
     "sourceCount": 1,
     "frequency": 1,
@@ -4413,6 +4491,19 @@
     "meaning_ja": "不安定さ",
     "pos": "名詞（女）",
     "category": "労働・経済",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "आंकना",
+    "display": "आंकना",
+    "normalized": "आंकना",
+    "meaning_ja": "評価する、見積もる、判断する",
+    "pos": "他動詞",
+    "category": "一般ニュース語彙",
     "difficulty": 4,
     "importance": 4,
     "sourceCount": 1,
@@ -4641,6 +4732,19 @@
     "quizWeight": 9
   },
   {
+    "word": "ऋतुचक्र",
+    "display": "ऋतुचक्र",
+    "normalized": "ऋतुचक्र",
+    "meaning_ja": "季節の循環、季節サイクル",
+    "pos": "名詞（男）",
+    "category": "文化・宗教",
+    "difficulty": 5,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
     "word": "एकीकृत",
     "display": "एकीकृत",
     "normalized": "एकीकृत",
@@ -4784,6 +4888,19 @@
     "quizWeight": 9
   },
   {
+    "word": "कालखंड",
+    "display": "कालखंड",
+    "normalized": "कालखंड",
+    "meaning_ja": "時期、時代、期間",
+    "pos": "名詞（男）",
+    "category": "文化・宗教",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
     "word": "किल्लत",
     "display": "किल्लत",
     "normalized": "किल्लत",
@@ -4868,6 +4985,19 @@
     "meaning_ja": "実施、施行",
     "pos": "名詞（男）",
     "category": "行政・制度",
+    "difficulty": 5,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "खगोलीय",
+    "display": "खगोलीय",
+    "normalized": "खगोलीय",
+    "meaning_ja": "天文学的な、天体の",
+    "pos": "形容詞",
+    "category": "科学・技術",
     "difficulty": 5,
     "importance": 4,
     "sourceCount": 1,
@@ -5382,6 +5512,19 @@
     "quizWeight": 9
   },
   {
+    "word": "ज्योतिषीय",
+    "display": "ज्योतिषीय",
+    "normalized": "ज्योतिषीय",
+    "meaning_ja": "占星術の、暦学上の",
+    "pos": "形容詞",
+    "category": "文化・宗教",
+    "difficulty": 5,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
     "word": "झकझोरना",
     "display": "झकझोरना",
     "normalized": "झकझोरना",
@@ -5655,6 +5798,19 @@
     "quizWeight": 9
   },
   {
+    "word": "धर्मनिष्ठ",
+    "display": "धर्मनिष्ठ",
+    "normalized": "धर्मनिष्ठ",
+    "meaning_ja": "信仰深い、宗教的義務を守る",
+    "pos": "形容詞",
+    "category": "文化・宗教",
+    "difficulty": 5,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
     "word": "धारदार",
     "display": "धारदार",
     "normalized": "धारदार",
@@ -5676,6 +5832,19 @@
     "category": "都市・環境",
     "difficulty": 2,
     "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "नक्षत्र",
+    "display": "नक्षत्र",
+    "normalized": "नक्षत्र",
+    "meaning_ja": "ナクシャトラ、星宿、月宿",
+    "pos": "名詞（男）",
+    "category": "文化・宗教",
+    "difficulty": 5,
+    "importance": 4,
     "sourceCount": 1,
     "frequency": 1,
     "quizWeight": 9
@@ -6019,6 +6188,19 @@
     "quizWeight": 9
   },
   {
+    "word": "पुरुषोत्तम",
+    "display": "पुरुषोत्तम",
+    "normalized": "पुरुषोत्तम",
+    "meaning_ja": "プルショーッタマ、至高の人、ヴィシュヌの別名",
+    "pos": "名詞（男）",
+    "category": "文化・宗教",
+    "difficulty": 5,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
     "word": "पूरक",
     "display": "पूरक",
     "normalized": "पूरक",
@@ -6181,6 +6363,19 @@
     "meaning_ja": "規定、条項",
     "pos": "名詞（男）",
     "category": "行政・制度",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "फलदायी",
+    "display": "फलदायी",
+    "normalized": "फलदायी",
+    "meaning_ja": "実りある、効果をもたらす、功徳のある",
+    "pos": "形容詞",
+    "category": "文化・宗教",
     "difficulty": 4,
     "importance": 4,
     "sourceCount": 1,
@@ -6468,6 +6663,19 @@
     "pos": "名詞（女）",
     "category": "文化・宗教",
     "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "मांगलिक",
+    "display": "मांगलिक",
+    "normalized": "मांगलिक",
+    "meaning_ja": "吉祥の、慶事の",
+    "pos": "形容詞",
+    "category": "文化・宗教",
+    "difficulty": 5,
     "importance": 4,
     "sourceCount": 1,
     "frequency": 1,
@@ -6981,6 +7189,19 @@
     "quizWeight": 9
   },
   {
+    "word": "वैज्ञानिकता",
+    "display": "वैज्ञानिकता",
+    "normalized": "वैज्ञानिकता",
+    "meaning_ja": "科学性、科学的であること",
+    "pos": "名詞（女）",
+    "category": "文化・宗教",
+    "difficulty": 5,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
     "word": "वैध",
     "display": "वैध",
     "normalized": "वैध",
@@ -7040,19 +7261,6 @@
     "pos": "名詞（男）",
     "category": "選挙・裁判",
     "difficulty": 5,
-    "importance": 4,
-    "sourceCount": 1,
-    "frequency": 1,
-    "quizWeight": 9
-  },
-  {
-    "word": "शुभारंभ",
-    "display": "शुभारंभ",
-    "normalized": "शुभारंभ",
-    "meaning_ja": "開幕、開始、開会",
-    "pos": "名詞（男）",
-    "category": "文化・宗教",
-    "difficulty": 4,
     "importance": 4,
     "sourceCount": 1,
     "frequency": 1,
@@ -7208,6 +7416,19 @@
     "meaning_ja": "検証する、確認する",
     "pos": "動詞句",
     "category": "重要動詞",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "समावेश",
+    "display": "समावेश",
+    "normalized": "समावेश",
+    "meaning_ja": "組み入れ、包含、導入",
+    "pos": "名詞（男）",
+    "category": "一般ニュース語彙",
     "difficulty": 4,
     "importance": 4,
     "sourceCount": 1,
@@ -9288,19 +9509,6 @@
     "meaning_ja": "信頼性",
     "pos": "名詞（女）",
     "category": "科学・技術",
-    "difficulty": 4,
-    "importance": 3,
-    "sourceCount": 1,
-    "frequency": 1,
-    "quizWeight": 7
-  },
-  {
-    "word": "शुभारंभ",
-    "display": "शुभारंभ",
-    "normalized": "शुभारंभ",
-    "meaning_ja": "開始、発足",
-    "pos": "名詞（男）",
-    "category": "行政・制度",
     "difficulty": 4,
     "importance": 3,
     "sourceCount": 1,
