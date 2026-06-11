@@ -47,12 +47,13 @@
     "status": "active",
     "sourceArticleIds": [
       "news_vocab_02",
-      "news_010"
+      "news_010",
+      "news045_NBT20260611_Bismil"
     ],
-    "sourceCount": 2,
-    "frequency": 2,
+    "sourceCount": 3,
+    "frequency": 3,
     "notes": "",
-    "quizWeight": 4
+    "quizWeight": 5
   },
   {
     "word": "जांच",
@@ -69,10 +70,11 @@
       "news_010",
       "news020DJ20260518_NeetLeak",
       "news024_NBT20260520_Dahej",
-      "news036_DJ20260526_Ropeway"
+      "news036_DJ20260526_Ropeway",
+      "news046_NBT20260611IVF"
     ],
-    "sourceCount": 6,
-    "frequency": 6,
+    "sourceCount": 7,
+    "frequency": 7,
     "notes": "",
     "quizWeight": 5
   },
@@ -393,10 +395,11 @@
       "news_vocab_02",
       "news020DJ20260518_NeetLeak",
       "news024_NBT20260520_Dahej",
-      "news026_NBT20260521_Auto"
+      "news026_NBT20260521_Auto",
+      "news046_NBT20260611IVF"
     ],
-    "sourceCount": 4,
-    "frequency": 4,
+    "sourceCount": 5,
+    "frequency": 5,
     "notes": "",
     "quizWeight": 5
   },
@@ -532,12 +535,13 @@
     "status": "active",
     "sourceArticleIds": [
       "news_vocab_01",
-      "news_014"
+      "news_014",
+      "news045_NBT20260611_Bismil"
     ],
-    "sourceCount": 2,
-    "frequency": 2,
+    "sourceCount": 3,
+    "frequency": 3,
     "notes": "",
-    "quizWeight": 3
+    "quizWeight": 4
   },
   {
     "word": "अंगदान",
@@ -587,10 +591,11 @@
       "news_vocab_02",
       "news_008",
       "news023_DJ20260520_HotSummer",
-      "news034_NBT20260525_Pani"
+      "news034_NBT20260525_Pani",
+      "news046_NBT20260611IVF"
     ],
-    "sourceCount": 4,
-    "frequency": 4,
+    "sourceCount": 5,
+    "frequency": 5,
     "notes": "",
     "quizWeight": 5
   },
@@ -932,12 +937,13 @@
     "status": "active",
     "sourceArticleIds": [
       "news_vocab_02",
-      "news016DJ20260513_GoldScheme"
+      "news016DJ20260513_GoldScheme",
+      "news045_NBT20260611_Bismil"
     ],
-    "sourceCount": 2,
-    "frequency": 2,
+    "sourceCount": 3,
+    "frequency": 3,
     "notes": "",
-    "quizWeight": 4
+    "quizWeight": 5
   },
   {
     "word": "विभाग",
@@ -1208,12 +1214,13 @@
     "status": "active",
     "sourceArticleIds": [
       "news_vocab_02",
-      "news022DJ20260520_Rabies"
+      "news022DJ20260520_Rabies",
+      "news046_NBT20260611IVF"
     ],
-    "sourceCount": 2,
-    "frequency": 2,
+    "sourceCount": 3,
+    "frequency": 3,
     "notes": "",
-    "quizWeight": 4
+    "quizWeight": 5
   },
   {
     "word": "अधिकार",
@@ -1244,10 +1251,11 @@
     "sourceArticleIds": [
       "news_vocab_02",
       "news016DJ20260513_GoldScheme",
-      "news026_NBT20260521_Auto"
+      "news026_NBT20260521_Auto",
+      "news046_NBT20260611IVF"
     ],
-    "sourceCount": 3,
-    "frequency": 3,
+    "sourceCount": 4,
+    "frequency": 4,
     "notes": "",
     "quizWeight": 5
   },
@@ -3800,12 +3808,13 @@
     "importance": 4,
     "status": "active",
     "sourceArticleIds": [
-      "news_011"
+      "news_011",
+      "news046_NBT20260611IVF"
     ],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 2,
+    "frequency": 2,
     "notes": "",
-    "quizWeight": 3
+    "quizWeight": 4
   },
   {
     "word": "पीड़िता",
@@ -4564,12 +4573,13 @@
     "status": "active",
     "sourceArticleIds": [
       "news_014",
-      "news030_DJ20260524_BengalBorder"
+      "news030_DJ20260524_BengalBorder",
+      "news045_NBT20260611_Bismil"
     ],
-    "sourceCount": 2,
-    "frequency": 2,
+    "sourceCount": 3,
+    "frequency": 3,
     "notes": "",
-    "quizWeight": 4
+    "quizWeight": 5
   },
   {
     "word": "मानसिक स्वास्थ्य",
@@ -5094,12 +5104,13 @@
     "importance": 4,
     "status": "active",
     "sourceArticleIds": [
-      "news015DJ20260512_Vrat"
+      "news015DJ20260512_Vrat",
+      "news044_NBT20260609_AdhikMaas"
     ],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 2,
+    "frequency": 2,
     "notes": "",
-    "quizWeight": 3
+    "quizWeight": 4
   },
   {
     "word": "प्रदक्षिणा",
@@ -7106,12 +7117,13 @@
     "status": "active",
     "sourceArticleIds": [
       "news021DJ20260519_OpenAI",
-      "news025_DJ20260521_Dawa"
+      "news025_DJ20260521_Dawa",
+      "news046_NBT20260611IVF"
     ],
-    "sourceCount": 2,
-    "frequency": 2,
+    "sourceCount": 3,
+    "frequency": 3,
     "notes": "",
-    "quizWeight": 4
+    "quizWeight": 5
   },
   {
     "word": "खारिज करना",
@@ -10829,12 +10841,13 @@
     "status": "active",
     "sourceArticleIds": [
       "news036_DJ20260526_Ropeway",
-      "news042_DJ20260605_DUkilling"
+      "news042_DJ20260605_DUkilling",
+      "news046_NBT20260611IVF"
     ],
-    "sourceCount": 2,
-    "frequency": 2,
+    "sourceCount": 3,
+    "frequency": 3,
     "notes": "一般ニュース頻出",
-    "quizWeight": 3
+    "quizWeight": 4
   },
   {
     "word": "संचालन",
@@ -13126,23 +13139,6 @@
     "quizWeight": 3
   },
   {
-    "word": "अनुष्ठान",
-    "normalized": "अनुष्ठान",
-    "pos": "名詞（男）",
-    "meaning_ja": "儀式、祭式、宗教的実践",
-    "category": "文化・宗教",
-    "difficulty": 4,
-    "importance": 5,
-    "status": "active",
-    "sourceArticleIds": [
-      "news044_NBT20260609_AdhikMaas"
-    ],
-    "sourceCount": 1,
-    "frequency": 1,
-    "notes": "宗教行事・儀礼記事頻出",
-    "quizWeight": 3
-  },
-  {
     "word": "मांगलिक",
     "normalized": "मांगलिक",
     "pos": "形容詞",
@@ -13225,6 +13221,295 @@
     "sourceCount": 1,
     "frequency": 1,
     "notes": "本文では खगोलीय गणना",
+    "quizWeight": 3
+  },
+  {
+    "word": "पीड़ा",
+    "normalized": "पीडा",
+    "pos": "女性名詞",
+    "meaning_ja": "苦痛、苦悩",
+    "category": "文化・宗教",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news045_NBT20260611_Bismil"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "精神的・身体的苦しみ",
+    "quizWeight": 3
+  },
+  {
+    "word": "आत्मसंयम",
+    "normalized": "आत्मसंयम",
+    "pos": "男性名詞",
+    "meaning_ja": "自制、自律",
+    "category": "文化・宗教",
+    "difficulty": 4,
+    "importance": 5,
+    "status": "active",
+    "sourceArticleIds": [
+      "news045_NBT20260611_Bismil"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "欲望や感情を抑制すること",
+    "quizWeight": 3
+  },
+  {
+    "word": "प्रतिशोध",
+    "normalized": "प्रतिशोध",
+    "pos": "男性名詞",
+    "meaning_ja": "復讐、報復",
+    "category": "文化・宗教",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news045_NBT20260611_Bismil"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "प्रेरक",
+    "normalized": "प्रेरक",
+    "pos": "形容詞",
+    "meaning_ja": "啓発的な、励みになる",
+    "category": "文化・宗教",
+    "difficulty": 4,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news045_NBT20260611_Bismil"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "inspiring の意味で頻出",
+    "quizWeight": 3
+  },
+  {
+    "word": "व्यक्तिगत",
+    "normalized": "व्यक्तिगत",
+    "pos": "形容詞",
+    "meaning_ja": "個人的な",
+    "category": "文化・宗教",
+    "difficulty": 3,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news045_NBT20260611_Bismil"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "भ्रूण",
+    "normalized": "भ्रूण",
+    "pos": "男性名詞",
+    "meaning_ja": "胚、受精卵",
+    "category": "医療・健康",
+    "difficulty": 4,
+    "importance": 5,
+    "status": "active",
+    "sourceArticleIds": [
+      "news046_NBT20260611IVF"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "IVFや妊娠関連の記事で頻出",
+    "quizWeight": 3
+  },
+  {
+    "word": "शिकायतकर्ता",
+    "normalized": "शिकायतकर्ता",
+    "pos": "男性名詞",
+    "meaning_ja": "申立人、告訴人、苦情申立者",
+    "category": "選挙・裁判",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news046_NBT20260611IVF"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "कथित",
+    "normalized": "कथित",
+    "pos": "形容詞",
+    "meaning_ja": "とされる、疑惑の、いわゆる",
+    "category": "一般ニュース語彙",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news046_NBT20260611IVF"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "ニュース記事で頻出",
+    "quizWeight": 3
+  },
+  {
+    "word": "खुलासा",
+    "normalized": "खुलासा",
+    "pos": "男性名詞",
+    "meaning_ja": "暴露、新事実の公表",
+    "category": "一般ニュース語彙",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news046_NBT20260611IVF"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "निष्पक्ष",
+    "normalized": "निष्पक्ष",
+    "pos": "形容詞",
+    "meaning_ja": "公平な、公正な、偏りのない",
+    "category": "選挙・裁判",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news046_NBT20260611IVF"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "मूल दस्तावेज",
+    "normalized": "मूल_दस्तावेज",
+    "pos": "男性名詞",
+    "meaning_ja": "原本書類、原資料",
+    "category": "行政・制度",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news046_NBT20260611IVF"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "नामी",
+    "normalized": "नामी",
+    "pos": "形容詞",
+    "meaning_ja": "有名な、名高い",
+    "category": "一般ニュース語彙",
+    "difficulty": 3,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news046_NBT20260611IVF"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "अदला-बदली",
+    "normalized": "अदला_बदली",
+    "pos": "女性名詞",
+    "meaning_ja": "取り違え、入れ替え、交換",
+    "category": "医療・健康",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news046_NBT20260611IVF"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "दंपती",
+    "normalized": "दंपती",
+    "pos": "男性名詞",
+    "meaning_ja": "夫婦、夫妻",
+    "category": "社会・生活",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news046_NBT20260611IVF"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "परिजन",
+    "normalized": "परिजन",
+    "pos": "男性名詞",
+    "meaning_ja": "家族、親族、遺族",
+    "category": "一般ニュース語彙",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news046_NBT20260611IVF"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "तूल पकड़ना",
+    "normalized": "तूल_पकड़ना",
+    "pos": "複合動詞",
+    "meaning_ja": "問題が大きくなる、騒ぎが拡大する",
+    "category": "ニュース定型句",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news046_NBT20260611IVF"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "ニュース記事で頻出する慣用表現",
+    "quizWeight": 3
+  },
+  {
+    "word": "तथ्य",
+    "normalized": "तथ्य",
+    "pos": "男性名詞",
+    "meaning_ja": "事実、事実関係",
+    "category": "一般ニュース語彙",
+    "difficulty": 3,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news046_NBT20260611IVF"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
     "quizWeight": 3
   }
 ]

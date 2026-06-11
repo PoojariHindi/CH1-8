@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-06-09T06:09:37.883Z",
+  "generatedAt": "2026-06-11T03:52:49.493Z",
   "input": "data\\news\\vocab_master.json",
   "output": "data\\news\\vocab_master_with_quiz_weight.json",
-  "totalEntries": 764,
-  "changedCount": 242,
-  "unchangedCount": 522,
+  "totalEntries": 780,
+  "changedCount": 262,
+  "unchangedCount": 518,
   "quizWeightSummary": {
     "1": 0,
     "2": 4,
-    "3": 624,
-    "4": 95,
-    "5": 41
+    "3": 636,
+    "4": 94,
+    "5": 46
   },
   "categorySummary": {
     "事件・事故": {
@@ -18,9 +18,9 @@
       "quizWeight": {
         "1": 0,
         "2": 0,
-        "3": 80,
+        "3": 79,
         "4": 15,
-        "5": 8
+        "5": 9
       }
     },
     "労働・経済": {
@@ -34,13 +34,13 @@
       }
     },
     "医療・健康": {
-      "total": 41,
+      "total": 43,
       "quizWeight": {
         "1": 0,
         "2": 0,
         "3": 38,
-        "4": 3,
-        "5": 0
+        "4": 4,
+        "5": 1
       }
     },
     "社会・公共": {
@@ -54,23 +54,23 @@
       }
     },
     "行政・制度": {
-      "total": 94,
+      "total": 95,
       "quizWeight": {
         "1": 0,
         "2": 0,
-        "3": 76,
-        "4": 7,
-        "5": 11
+        "3": 77,
+        "4": 6,
+        "5": 12
       }
     },
     "選挙・裁判": {
-      "total": 76,
+      "total": 78,
       "quizWeight": {
         "1": 0,
         "2": 0,
-        "3": 61,
-        "4": 9,
-        "5": 6
+        "3": 63,
+        "4": 7,
+        "5": 8
       }
     },
     "調査・データ": {
@@ -124,12 +124,12 @@
       }
     },
     "文化・宗教": {
-      "total": 83,
+      "total": 87,
       "quizWeight": {
         "1": 0,
         "2": 0,
-        "3": 82,
-        "4": 1,
+        "3": 85,
+        "4": 2,
         "5": 0
       }
     },
@@ -144,11 +144,11 @@
       }
     },
     "ニュース定型句": {
-      "total": 4,
+      "total": 5,
       "quizWeight": {
         "1": 0,
         "2": 0,
-        "3": 4,
+        "3": 5,
         "4": 0,
         "5": 0
       }
@@ -164,21 +164,21 @@
       }
     },
     "一般ニュース語彙": {
-      "total": 38,
+      "total": 43,
       "quizWeight": {
         "1": 0,
         "2": 0,
-        "3": 37,
+        "3": 42,
         "4": 0,
         "5": 1
       }
     },
     "社会・生活": {
-      "total": 2,
+      "total": 3,
       "quizWeight": {
         "1": 0,
         "2": 0,
-        "3": 2,
+        "3": 3,
         "4": 0,
         "5": 0
       }
@@ -203,6 +203,22 @@
       "index": 1,
       "word": "गिरफ्तारी",
       "normalized": "गिरफ्तारी",
+      "category": "事件・事故",
+      "importance": 4,
+      "sourceCount": 3,
+      "frequency": 3,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 5,
+      "reason": [
+        "base_3",
+        "importance>=4 && sourceCount>=2:+1",
+        "sourceCount>=3:+1"
+      ]
+    },
+    {
+      "index": 2,
+      "word": "घटना",
+      "normalized": "घटना",
       "category": "事件・事故",
       "importance": 4,
       "sourceCount": 3,
@@ -284,13 +300,29 @@
       "normalized": "मांग",
       "category": "労働・経済",
       "importance": 4,
-      "sourceCount": 4,
-      "frequency": 4,
+      "sourceCount": 5,
+      "frequency": 5,
       "oldQuizWeight": 3,
       "newQuizWeight": 5,
       "reason": [
         "base_3",
         "importance>=4 && sourceCount>=2:+1",
+        "sourceCount>=3:+1",
+        "sourceCount>=5:+1"
+      ]
+    },
+    {
+      "index": 29,
+      "word": "स्वास्थ्य",
+      "normalized": "स्वास्थ्य",
+      "category": "医療・健康",
+      "importance": 3,
+      "sourceCount": 3,
+      "frequency": 3,
+      "oldQuizWeight": 3,
+      "newQuizWeight": 4,
+      "reason": [
+        "base_3",
         "sourceCount>=3:+1"
       ]
     },
@@ -300,13 +332,14 @@
       "normalized": "गंभीर",
       "category": "社会・公共",
       "importance": 3,
-      "sourceCount": 4,
-      "frequency": 4,
+      "sourceCount": 5,
+      "frequency": 5,
       "oldQuizWeight": 3,
       "newQuizWeight": 5,
       "reason": [
         "base_3",
         "sourceCount>=3:+1",
+        "sourceCount>=5:+1",
         "importance3 && sourceCount>=4:+0.5"
       ]
     },
@@ -389,6 +422,22 @@
       ]
     },
     {
+      "index": 50,
+      "word": "योजना",
+      "normalized": "योजना",
+      "category": "行政・制度",
+      "importance": 4,
+      "sourceCount": 3,
+      "frequency": 3,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 5,
+      "reason": [
+        "base_3",
+        "importance>=4 && sourceCount>=2:+1",
+        "sourceCount>=3:+1"
+      ]
+    },
+    {
       "index": 51,
       "word": "विभाग",
       "normalized": "विभाग",
@@ -457,13 +506,14 @@
       "normalized": "अदालत",
       "category": "選挙・裁判",
       "importance": 4,
-      "sourceCount": 2,
-      "frequency": 2,
+      "sourceCount": 3,
+      "frequency": 3,
       "oldQuizWeight": 3,
-      "newQuizWeight": 4,
+      "newQuizWeight": 5,
       "reason": [
         "base_3",
-        "importance>=4 && sourceCount>=2:+1"
+        "importance>=4 && sourceCount>=2:+1",
+        "sourceCount>=3:+1"
       ]
     },
     {
@@ -472,8 +522,8 @@
       "normalized": "अपील",
       "category": "選挙・裁判",
       "importance": 4,
-      "sourceCount": 3,
-      "frequency": 3,
+      "sourceCount": 4,
+      "frequency": 4,
       "oldQuizWeight": 4,
       "newQuizWeight": 5,
       "reason": [
@@ -763,9 +813,9 @@
       ]
     },
     {
-      "index": 259,
-      "word": "तनाव",
-      "normalized": "तनाव",
+      "index": 215,
+      "word": "नवजात",
+      "normalized": "नवजात",
       "category": "医療・健康",
       "importance": 4,
       "sourceCount": 2,
@@ -775,6 +825,22 @@
       "reason": [
         "base_3",
         "importance>=4 && sourceCount>=2:+1"
+      ]
+    },
+    {
+      "index": 259,
+      "word": "तनाव",
+      "normalized": "तनाव",
+      "category": "医療・健康",
+      "importance": 4,
+      "sourceCount": 3,
+      "frequency": 3,
+      "oldQuizWeight": 3,
+      "newQuizWeight": 5,
+      "reason": [
+        "base_3",
+        "importance>=4 && sourceCount>=2:+1",
+        "sourceCount>=3:+1"
       ]
     },
     {
@@ -806,6 +872,21 @@
         "base_3",
         "importance>=4 && sourceCount>=2:+1",
         "category:重要動詞:+1"
+      ]
+    },
+    {
+      "index": 290,
+      "word": "अनुष्ठान",
+      "normalized": "अनुष्ठान",
+      "category": "文化・宗教",
+      "importance": 4,
+      "sourceCount": 2,
+      "frequency": 2,
+      "oldQuizWeight": 3,
+      "newQuizWeight": 4,
+      "reason": [
+        "base_3",
+        "importance>=4 && sourceCount>=2:+1"
       ]
     },
     {
@@ -1166,6 +1247,22 @@
       "reason": [
         "base_3",
         "category:重要動詞:+1"
+      ]
+    },
+    {
+      "index": 409,
+      "word": "दावा",
+      "normalized": "दावा",
+      "category": "選挙・裁判",
+      "importance": 4,
+      "sourceCount": 3,
+      "frequency": 3,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 5,
+      "reason": [
+        "base_3",
+        "importance>=4 && sourceCount>=2:+1",
+        "sourceCount>=3:+1"
       ]
     },
     {
@@ -2137,6 +2234,21 @@
       "newQuizWeight": 3,
       "reason": [
         "base_3"
+      ]
+    },
+    {
+      "index": 625,
+      "word": "सुरक्षित",
+      "normalized": "सुरक्षित",
+      "category": "事件・事故",
+      "importance": 3,
+      "sourceCount": 3,
+      "frequency": 3,
+      "oldQuizWeight": 3,
+      "newQuizWeight": 4,
+      "reason": [
+        "base_3",
+        "sourceCount>=3:+1"
       ]
     },
     {
@@ -3598,20 +3710,6 @@
     },
     {
       "index": 758,
-      "word": "अनुष्ठान",
-      "normalized": "अनुष्ठान",
-      "category": "文化・宗教",
-      "importance": 5,
-      "sourceCount": 1,
-      "frequency": 1,
-      "oldQuizWeight": 5,
-      "newQuizWeight": 3,
-      "reason": [
-        "base_3"
-      ]
-    },
-    {
-      "index": 759,
       "word": "मांगलिक",
       "normalized": "मांगलिक",
       "category": "文化・宗教",
@@ -3625,7 +3723,7 @@
       ]
     },
     {
-      "index": 760,
+      "index": 759,
       "word": "फलदायी",
       "normalized": "फलदायी",
       "category": "文化・宗教",
@@ -3639,7 +3737,7 @@
       ]
     },
     {
-      "index": 761,
+      "index": 760,
       "word": "पुरुषोत्तम",
       "normalized": "पुरुषोत्तम",
       "category": "文化・宗教",
@@ -3653,7 +3751,7 @@
       ]
     },
     {
-      "index": 762,
+      "index": 761,
       "word": "आंकना",
       "normalized": "आंकना",
       "category": "一般ニュース語彙",
@@ -3667,10 +3765,206 @@
       ]
     },
     {
-      "index": 763,
+      "index": 762,
       "word": "खगोलीय",
       "normalized": "खगोलीय",
       "category": "科学・技術",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 763,
+      "word": "पीड़ा",
+      "normalized": "पीडा",
+      "category": "文化・宗教",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 764,
+      "word": "आत्मसंयम",
+      "normalized": "आत्मसंयम",
+      "category": "文化・宗教",
+      "importance": 5,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 5,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 765,
+      "word": "प्रतिशोध",
+      "normalized": "प्रतिशोध",
+      "category": "文化・宗教",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 768,
+      "word": "भ्रूण",
+      "normalized": "भ्रूण",
+      "category": "医療・健康",
+      "importance": 5,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 5,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 769,
+      "word": "शिकायतकर्ता",
+      "normalized": "शिकायतकर्ता",
+      "category": "選挙・裁判",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 770,
+      "word": "कथित",
+      "normalized": "कथित",
+      "category": "一般ニュース語彙",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 771,
+      "word": "खुलासा",
+      "normalized": "खुलासा",
+      "category": "一般ニュース語彙",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 772,
+      "word": "निष्पक्ष",
+      "normalized": "निष्पक्ष",
+      "category": "選挙・裁判",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 773,
+      "word": "मूल दस्तावेज",
+      "normalized": "मूल_दस्तावेज",
+      "category": "行政・制度",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 775,
+      "word": "अदला-बदली",
+      "normalized": "अदला_बदली",
+      "category": "医療・健康",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 776,
+      "word": "दंपती",
+      "normalized": "दंपती",
+      "category": "社会・生活",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 777,
+      "word": "परिजन",
+      "normalized": "परिजन",
+      "category": "一般ニュース語彙",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 778,
+      "word": "तूल पकड़ना",
+      "normalized": "तूल_पकड़ना",
+      "category": "ニュース定型句",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 779,
+      "word": "तथ्य",
+      "normalized": "तथ्य",
+      "category": "一般ニュース語彙",
       "importance": 4,
       "sourceCount": 1,
       "frequency": 1,
@@ -3719,13 +4013,14 @@
       "normalized": "घटना",
       "category": "事件・事故",
       "importance": 4,
-      "sourceCount": 2,
-      "frequency": 2,
+      "sourceCount": 3,
+      "frequency": 3,
       "oldQuizWeight": 4,
-      "newQuizWeight": 4,
+      "newQuizWeight": 5,
       "reason": [
         "base_3",
-        "importance>=4 && sourceCount>=2:+1"
+        "importance>=4 && sourceCount>=2:+1",
+        "sourceCount>=3:+1"
       ]
     },
     {
@@ -3734,8 +4029,8 @@
       "normalized": "जांच",
       "category": "事件・事故",
       "importance": 4,
-      "sourceCount": 6,
-      "frequency": 6,
+      "sourceCount": 7,
+      "frequency": 7,
       "oldQuizWeight": 5,
       "newQuizWeight": 5,
       "reason": [
@@ -4003,14 +4298,15 @@
       "normalized": "मांग",
       "category": "労働・経済",
       "importance": 4,
-      "sourceCount": 4,
-      "frequency": 4,
+      "sourceCount": 5,
+      "frequency": 5,
       "oldQuizWeight": 3,
       "newQuizWeight": 5,
       "reason": [
         "base_3",
         "importance>=4 && sourceCount>=2:+1",
-        "sourceCount>=3:+1"
+        "sourceCount>=3:+1",
+        "sourceCount>=5:+1"
       ]
     },
     {
@@ -4119,12 +4415,13 @@
       "normalized": "स्वास्थ्य",
       "category": "医療・健康",
       "importance": 3,
-      "sourceCount": 2,
-      "frequency": 2,
+      "sourceCount": 3,
+      "frequency": 3,
       "oldQuizWeight": 3,
-      "newQuizWeight": 3,
+      "newQuizWeight": 4,
       "reason": [
-        "base_3"
+        "base_3",
+        "sourceCount>=3:+1"
       ]
     },
     {
@@ -4161,13 +4458,14 @@
       "normalized": "गंभीर",
       "category": "社会・公共",
       "importance": 3,
-      "sourceCount": 4,
-      "frequency": 4,
+      "sourceCount": 5,
+      "frequency": 5,
       "oldQuizWeight": 3,
       "newQuizWeight": 5,
       "reason": [
         "base_3",
         "sourceCount>=3:+1",
+        "sourceCount>=5:+1",
         "importance3 && sourceCount>=4:+0.5"
       ]
     },
@@ -4429,13 +4727,14 @@
       "normalized": "योजना",
       "category": "行政・制度",
       "importance": 4,
-      "sourceCount": 2,
-      "frequency": 2,
+      "sourceCount": 3,
+      "frequency": 3,
       "oldQuizWeight": 4,
-      "newQuizWeight": 4,
+      "newQuizWeight": 5,
       "reason": [
         "base_3",
-        "importance>=4 && sourceCount>=2:+1"
+        "importance>=4 && sourceCount>=2:+1",
+        "sourceCount>=3:+1"
       ]
     },
     {
@@ -4655,13 +4954,14 @@
       "normalized": "अदालत",
       "category": "選挙・裁判",
       "importance": 4,
-      "sourceCount": 2,
-      "frequency": 2,
+      "sourceCount": 3,
+      "frequency": 3,
       "oldQuizWeight": 3,
-      "newQuizWeight": 4,
+      "newQuizWeight": 5,
       "reason": [
         "base_3",
-        "importance>=4 && sourceCount>=2:+1"
+        "importance>=4 && sourceCount>=2:+1",
+        "sourceCount>=3:+1"
       ]
     },
     {
@@ -4684,8 +4984,8 @@
       "normalized": "अपील",
       "category": "選挙・裁判",
       "importance": 4,
-      "sourceCount": 3,
-      "frequency": 3,
+      "sourceCount": 4,
+      "frequency": 4,
       "oldQuizWeight": 4,
       "newQuizWeight": 5,
       "reason": [
@@ -6820,12 +7120,13 @@
       "normalized": "नवजात",
       "category": "医療・健康",
       "importance": 4,
-      "sourceCount": 1,
-      "frequency": 1,
+      "sourceCount": 2,
+      "frequency": 2,
       "oldQuizWeight": 3,
-      "newQuizWeight": 3,
+      "newQuizWeight": 4,
       "reason": [
-        "base_3"
+        "base_3",
+        "importance>=4 && sourceCount>=2:+1"
       ]
     },
     {
@@ -7440,13 +7741,14 @@
       "normalized": "तनाव",
       "category": "医療・健康",
       "importance": 4,
-      "sourceCount": 2,
-      "frequency": 2,
+      "sourceCount": 3,
+      "frequency": 3,
       "oldQuizWeight": 3,
-      "newQuizWeight": 4,
+      "newQuizWeight": 5,
       "reason": [
         "base_3",
-        "importance>=4 && sourceCount>=2:+1"
+        "importance>=4 && sourceCount>=2:+1",
+        "sourceCount>=3:+1"
       ]
     },
     {
@@ -7883,12 +8185,13 @@
       "normalized": "अनुष्ठान",
       "category": "文化・宗教",
       "importance": 4,
-      "sourceCount": 1,
-      "frequency": 1,
+      "sourceCount": 2,
+      "frequency": 2,
       "oldQuizWeight": 3,
-      "newQuizWeight": 3,
+      "newQuizWeight": 4,
       "reason": [
-        "base_3"
+        "base_3",
+        "importance>=4 && sourceCount>=2:+1"
       ]
     },
     {
@@ -9560,13 +9863,14 @@
       "normalized": "दावा",
       "category": "選挙・裁判",
       "importance": 4,
-      "sourceCount": 2,
-      "frequency": 2,
+      "sourceCount": 3,
+      "frequency": 3,
       "oldQuizWeight": 4,
-      "newQuizWeight": 4,
+      "newQuizWeight": 5,
       "reason": [
         "base_3",
-        "importance>=4 && sourceCount>=2:+1"
+        "importance>=4 && sourceCount>=2:+1",
+        "sourceCount>=3:+1"
       ]
     },
     {
@@ -12611,12 +12915,13 @@
       "normalized": "सुरक्षित",
       "category": "事件・事故",
       "importance": 3,
-      "sourceCount": 2,
-      "frequency": 2,
+      "sourceCount": 3,
+      "frequency": 3,
       "oldQuizWeight": 3,
-      "newQuizWeight": 3,
+      "newQuizWeight": 4,
       "reason": [
-        "base_3"
+        "base_3",
+        "sourceCount>=3:+1"
       ]
     },
     {
@@ -14471,20 +14776,6 @@
     },
     {
       "index": 758,
-      "word": "अनुष्ठान",
-      "normalized": "अनुष्ठान",
-      "category": "文化・宗教",
-      "importance": 5,
-      "sourceCount": 1,
-      "frequency": 1,
-      "oldQuizWeight": 5,
-      "newQuizWeight": 3,
-      "reason": [
-        "base_3"
-      ]
-    },
-    {
-      "index": 759,
       "word": "मांगलिक",
       "normalized": "मांगलिक",
       "category": "文化・宗教",
@@ -14498,7 +14789,7 @@
       ]
     },
     {
-      "index": 760,
+      "index": 759,
       "word": "फलदायी",
       "normalized": "फलदायी",
       "category": "文化・宗教",
@@ -14512,7 +14803,7 @@
       ]
     },
     {
-      "index": 761,
+      "index": 760,
       "word": "पुरुषोत्तम",
       "normalized": "पुरुषोत्तम",
       "category": "文化・宗教",
@@ -14526,7 +14817,7 @@
       ]
     },
     {
-      "index": 762,
+      "index": 761,
       "word": "आंकना",
       "normalized": "आंकना",
       "category": "一般ニュース語彙",
@@ -14540,10 +14831,248 @@
       ]
     },
     {
-      "index": 763,
+      "index": 762,
       "word": "खगोलीय",
       "normalized": "खगोलीय",
       "category": "科学・技術",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 763,
+      "word": "पीड़ा",
+      "normalized": "पीडा",
+      "category": "文化・宗教",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 764,
+      "word": "आत्मसंयम",
+      "normalized": "आत्मसंयम",
+      "category": "文化・宗教",
+      "importance": 5,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 5,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 765,
+      "word": "प्रतिशोध",
+      "normalized": "प्रतिशोध",
+      "category": "文化・宗教",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 766,
+      "word": "प्रेरक",
+      "normalized": "प्रेरक",
+      "category": "文化・宗教",
+      "importance": 3,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 3,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 767,
+      "word": "व्यक्तिगत",
+      "normalized": "व्यक्तिगत",
+      "category": "文化・宗教",
+      "importance": 3,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 3,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 768,
+      "word": "भ्रूण",
+      "normalized": "भ्रूण",
+      "category": "医療・健康",
+      "importance": 5,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 5,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 769,
+      "word": "शिकायतकर्ता",
+      "normalized": "शिकायतकर्ता",
+      "category": "選挙・裁判",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 770,
+      "word": "कथित",
+      "normalized": "कथित",
+      "category": "一般ニュース語彙",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 771,
+      "word": "खुलासा",
+      "normalized": "खुलासा",
+      "category": "一般ニュース語彙",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 772,
+      "word": "निष्पक्ष",
+      "normalized": "निष्पक्ष",
+      "category": "選挙・裁判",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 773,
+      "word": "मूल दस्तावेज",
+      "normalized": "मूल_दस्तावेज",
+      "category": "行政・制度",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 774,
+      "word": "नामी",
+      "normalized": "नामी",
+      "category": "一般ニュース語彙",
+      "importance": 3,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 3,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 775,
+      "word": "अदला-बदली",
+      "normalized": "अदला_बदली",
+      "category": "医療・健康",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 776,
+      "word": "दंपती",
+      "normalized": "दंपती",
+      "category": "社会・生活",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 777,
+      "word": "परिजन",
+      "normalized": "परिजन",
+      "category": "一般ニュース語彙",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 778,
+      "word": "तूल पकड़ना",
+      "normalized": "तूल_पकड़ना",
+      "category": "ニュース定型句",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 779,
+      "word": "तथ्य",
+      "normalized": "तथ्य",
+      "category": "一般ニュース語彙",
       "importance": 4,
       "sourceCount": 1,
       "frequency": 1,
