@@ -25,6 +25,8 @@ const MYLIST_STORAGE_KEY = "hindiQuizMyList";
 const MYLIST_MAX_ITEMS = 400;
 const KNOWN_STORAGE_KEY = "hindiQuizKnownVocab";
 const KNOWN_MAX_ITEMS = 800;
+const RECENT_STORAGE_KEY = "hindiQuizRecentVocab";
+const RECENT_MAX_ITEMS = 100;
 const MYLIST_ELIGIBLE_MODES = new Set([
   "ch",
   "news",
@@ -33,6 +35,11 @@ const MYLIST_ELIGIBLE_MODES = new Set([
   "mylist"
 ]);
 const KNOWN_ELIGIBLE_MODES = new Set([
+  "news",
+  "academic_vocab",
+  "bollywood_vocab"
+]);
+const RECENT_FILTER_MODES = new Set([
   "news",
   "academic_vocab",
   "bollywood_vocab"
@@ -266,6 +273,40 @@ function loadKnown() {
   }
 }
 
+function loadRecent() {
+  try {
+    const raw = localStorage.getItem(RECENT_STORAGE_KEY);
+    const items = raw ? JSON.parse(raw) : [];
+
+    return Array.isArray(items) ? items : [];
+  } catch (error) {
+    console.warn("Failed to load recent:", error);
+    return [];
+  }
+}
+
+function saveRecent(items) {
+  localStorage.setItem(RECENT_STORAGE_KEY, JSON.stringify(items));
+}
+
+function isRecent(entry) {
+  const key = getKnownKey(entry);
+  if (!key) return false;
+
+  return loadRecent().some((item) => getKnownKey(item) === key);
+}
+
+function addToRecent(entry) {
+  const key = getKnownKey(entry);
+  if (!key) return;
+
+  const items = loadRecent();
+  const withoutSame = items.filter((item) => getKnownKey(item) !== key);
+
+  withoutSame.unshift(sanitizeKnownEntry(entry));
+
+  saveRecent(withoutSame.slice(0, RECENT_MAX_ITEMS));
+}
 
 function saveMyList(items) {
   localStorage.setItem(MYLIST_STORAGE_KEY, JSON.stringify(items));
@@ -734,6 +775,10 @@ function handleAnswerClick(event) {
     feedback.innerHTML = `<p>❌ 不正解です。正解: ${escapeHtml(currentQuiz.correctAnswer)}</p>`;
   }
 
+  if (currentQuiz.type === "vocab" && RECENT_FILTER_MODES.has(getMode())) {
+  addToRecent(currentQuiz.entry);
+  }
+
   nextBtn.style.display = "inline-block";
 
   const myListBtn = document.getElementById("myListToggleBtn");
@@ -801,6 +846,12 @@ function excludeKnownItems(pool) {
   return pool.filter((entry) => !isInKnown(entry));
 }
 
+function excludeRecentItems(pool) {
+  if (!Array.isArray(pool)) return [];
+
+  return pool.filter((entry) => !isRecent(entry));
+}
+
 function getCurrentPool() {
   if (reviewModeEnabled) {
     return [...wrongAnswers];
@@ -822,16 +873,22 @@ function getCurrentPool() {
   }
 
   if (mode === "news") {
-  return excludeKnownItems([...newsVocab]);
-  }
+  return excludeRecentItems(
+    excludeKnownItems([...newsVocab])
+  );
+ }
 
-  if (mode === "bollywood_vocab") {
-  return excludeKnownItems([...bollywoodVocab]);
-  }
+ if (mode === "bollywood_vocab") {
+  return excludeRecentItems(
+    excludeKnownItems([...bollywoodVocab])
+  );
+ }
 
-  if (mode === "academic_vocab") {
-  return excludeKnownItems([...academicVocab]);
-  }
+ if (mode === "academic_vocab") {
+  return excludeRecentItems(
+    excludeKnownItems([...academicVocab])
+  );
+ }
 
   if (mode === "academic_expressions") {
     return [...academicExpressions];
