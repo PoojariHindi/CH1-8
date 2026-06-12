@@ -1092,10 +1092,11 @@
     "sourceArticleIds": [
       "news_vocab_01",
       "news_vocab_02",
-      "news022DJ20260520_Rabies"
+      "news022DJ20260520_Rabies",
+      "news047_NBT20260612_Kamal"
     ],
-    "sourceCount": 3,
-    "frequency": 3,
+    "sourceCount": 4,
+    "frequency": 4,
     "notes": "",
     "quizWeight": 4
   },
@@ -3616,10 +3617,11 @@
       "news_010",
       "news_014",
       "news027_NBT20260519_Gutka",
-      "news040_DJ20260602_Goldmedal"
+      "news040_DJ20260602_Goldmedal",
+      "news047_NBT20260612_Kamal"
     ],
-    "sourceCount": 4,
-    "frequency": 4,
+    "sourceCount": 5,
+    "frequency": 5,
     "notes": "",
     "quizWeight": 3
   },
@@ -9475,10 +9477,11 @@
     "importance": 4,
     "status": "active",
     "sourceArticleIds": [
-      "news029_DJ20260523_Maoism"
+      "news029_DJ20260523_Maoism",
+      "news047_NBT20260612_Kamal"
     ],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 2,
+    "frequency": 2,
     "notes": "行政・経済文脈頻出",
     "quizWeight": 4
   },
@@ -13500,5 +13503,396 @@
     "frequency": 1,
     "notes": "",
     "quizWeight": 4
+  },
+  {
+    "word": "आत्मबल",
+    "normalized": "आत्मबल",
+    "pos": "男性名詞",
+    "meaning_ja": "精神力、内なる力",
+    "category": "文化・宗教",
+    "difficulty": 4,
+    "importance": 5,
+    "status": "active",
+    "sourceArticleIds": [
+      "news047_NBT20260612_Kamal"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 5
+  },
+  {
+    "word": "आध्यात्मिकता",
+    "normalized": "आध्यात्मिकता",
+    "pos": "女性名詞",
+    "meaning_ja": "精神性、霊性",
+    "category": "文化・宗教",
+    "difficulty": 4,
+    "importance": 5,
+    "status": "active",
+    "sourceArticleIds": [
+      "news047_NBT20260612_Kamal"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 5
+  },
+  {
+    "word": "आत्म-विकास",
+    "normalized": "आत्म_विकास",
+    "pos": "男性名詞",
+    "meaning_ja": "自己成長、自己啓発",
+    "category": "文化・宗教",
+    "difficulty": 4,
+    "importance": 5,
+    "status": "active",
+    "sourceArticleIds": [
+      "news047_NBT20260612_Kamal"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 5
+  },
+  {
+    "word": "सार्थक",
+    "normalized": "सार्थक",
+    "pos": "形容詞",
+    "meaning_ja": "有意義な、価値ある",
+    "category": "文化・宗教",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news047_NBT20260612_Kamal"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 4
+  },
+  {
+    "word": "संतुलित",
+    "normalized": "संतुलित",
+    "pos": "形容詞",
+    "meaning_ja": "均衡の取れた、バランスの取れた",
+    "category": "文化・宗教",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news047_NBT20260612_Kamal"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 4
+  },
+  {
+    "word": "निखारना",
+    "normalized": "निखारना",
+    "pos": "他動詞",
+    "meaning_ja": "磨く、向上させる",
+    "category": "文化・宗教",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news047_NBT20260612_Kamal"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 4
+  },
+  {
+    "word": "धैर्य",
+    "normalized": "धैर्य",
+    "pos": "男性名詞",
+    "meaning_ja": "忍耐、辛抱",
+    "category": "文化・宗教",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news047_NBT20260612_Kamal"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 4
+  },
+  {
+    "word": "आकांक्षा",
+    "normalized": "आकांक्षा",
+    "pos": "女性名詞",
+    "meaning_ja": "願望、志、熱望",
+    "category": "文化・宗教",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news047_NBT20260612_Kamal"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 4
+  },
+  {
+    "word": "मतभेद",
+    "normalized": "मतभेद",
+    "pos": "男性名詞",
+    "meaning_ja": "意見の相違、対立",
+    "category": "文化・宗教",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news047_NBT20260612_Kamal"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 4
+  },
+  {
+    "word": "कीचड़",
+    "normalized": "कीचड",
+    "pos": "男性名詞",
+    "meaning_ja": "泥、ぬかるみ",
+    "category": "文化・宗教",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news047_NBT20260612_Kamal"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 4
+  },
+  {
+    "word": "हालात",
+    "normalized": "हालात",
+    "pos": "男性名詞",
+    "meaning_ja": "状況、情勢",
+    "category": "文化・宗教",
+    "difficulty": 3,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news047_NBT20260612_Kamal"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "ウルドゥー系語彙",
+    "quizWeight": 3
+  },
+  {
+    "word": "भाग्य",
+    "normalized": "भाग्य",
+    "pos": "男性名詞",
+    "meaning_ja": "運命、宿命",
+    "category": "文化・宗教",
+    "difficulty": 3,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news047_NBT20260612_Kamal"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "सजगता",
+    "normalized": "सजगता",
+    "pos": "女性名詞",
+    "meaning_ja": "注意深さ、覚醒した意識",
+    "category": "文化・宗教",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news047_NBT20260612_Kamal"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 4
+  },
+  {
+    "word": "बाधा",
+    "normalized": "बाधा",
+    "pos": "女性名詞",
+    "meaning_ja": "障害、妨げ",
+    "category": "文化・宗教",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news047_NBT20260612_Kamal"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 4
+  },
+  {
+    "word": "अछूता",
+    "normalized": "अछूता",
+    "pos": "形容詞",
+    "meaning_ja": "影響を受けない、汚されていない",
+    "category": "文化・宗教",
+    "difficulty": 3,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news047_NBT20260612_Kamal"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "सतह",
+    "normalized": "सतह",
+    "pos": "女性名詞",
+    "meaning_ja": "表面、水面",
+    "category": "文化・宗教",
+    "difficulty": 3,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news047_NBT20260612_Kamal"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "सौंदर्य",
+    "normalized": "सौंदर्य",
+    "pos": "男性名詞",
+    "meaning_ja": "美しさ、美",
+    "category": "文化・宗教",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news047_NBT20260612_Kamal"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 4
+  },
+  {
+    "word": "विपरीत",
+    "normalized": "विपरीत",
+    "pos": "形容詞",
+    "meaning_ja": "反対の、逆境の",
+    "category": "文化・宗教",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news047_NBT20260612_Kamal"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 4
+  },
+  {
+    "word": "पृष्ठभूमि",
+    "normalized": "पृष्ठभूमि",
+    "pos": "女性名詞",
+    "meaning_ja": "背景、バックグラウンド",
+    "category": "文化・宗教",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news047_NBT20260612_Kamal"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 4
+  },
+  {
+    "word": "हलचल",
+    "normalized": "हलचल",
+    "pos": "女性名詞",
+    "meaning_ja": "騒動、ざわめき、混乱",
+    "category": "文化・宗教",
+    "difficulty": 3,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news047_NBT20260612_Kamal"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "विलाप",
+    "normalized": "विलाप",
+    "pos": "男性名詞",
+    "meaning_ja": "嘆き、悲嘆",
+    "category": "文化・宗教",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news047_NBT20260612_Kamal"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 4
+  },
+  {
+    "word": "अहंकार",
+    "normalized": "अहंकार",
+    "pos": "男性名詞",
+    "meaning_ja": "傲慢、自我執着",
+    "category": "文化・宗教",
+    "difficulty": 4,
+    "importance": 5,
+    "status": "active",
+    "sourceArticleIds": [
+      "news047_NBT20260612_Kamal"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 5
+  },
+  {
+    "word": "भले ही",
+    "normalized": "भले_ही",
+    "pos": "接続表現",
+    "meaning_ja": "たとえ〜でも、〜とはいえ",
+    "category": "文化・宗教",
+    "difficulty": 3,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news047_NBT20260612_Kamal"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
   }
 ]

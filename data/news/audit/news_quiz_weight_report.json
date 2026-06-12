@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-11T03:52:49.493Z",
+  "generatedAt": "2026-06-12T03:37:52.852Z",
   "input": "data\\news\\vocab_master.json",
   "output": "data\\news\\vocab_master_with_quiz_weight.json",
-  "totalEntries": 780,
-  "changedCount": 262,
-  "unchangedCount": 518,
+  "totalEntries": 803,
+  "changedCount": 278,
+  "unchangedCount": 525,
   "quizWeightSummary": {
     "1": 0,
     "2": 4,
-    "3": 636,
-    "4": 94,
+    "3": 658,
+    "4": 95,
     "5": 46
   },
   "categorySummary": {
@@ -58,8 +58,8 @@
       "quizWeight": {
         "1": 0,
         "2": 0,
-        "3": 77,
-        "4": 6,
+        "3": 76,
+        "4": 7,
         "5": 12
       }
     },
@@ -124,11 +124,11 @@
       }
     },
     "文化・宗教": {
-      "total": 87,
+      "total": 110,
       "quizWeight": {
         "1": 0,
         "2": 0,
-        "3": 85,
+        "3": 108,
         "4": 2,
         "5": 0
       }
@@ -490,8 +490,8 @@
       "normalized": "व्यवस्था",
       "category": "行政・制度",
       "importance": 4,
-      "sourceCount": 3,
-      "frequency": 3,
+      "sourceCount": 4,
+      "frequency": 4,
       "oldQuizWeight": 4,
       "newQuizWeight": 5,
       "reason": [
@@ -802,13 +802,14 @@
       "normalized": "पहचान",
       "category": "事件・事故",
       "importance": 3,
-      "sourceCount": 4,
-      "frequency": 4,
+      "sourceCount": 5,
+      "frequency": 5,
       "oldQuizWeight": 3,
       "newQuizWeight": 5,
       "reason": [
         "base_3",
         "sourceCount>=3:+1",
+        "sourceCount>=5:+1",
         "importance3 && sourceCount>=4:+0.5"
       ]
     },
@@ -1958,20 +1959,6 @@
       "sourceCount": 1,
       "frequency": 1,
       "oldQuizWeight": 2,
-      "newQuizWeight": 3,
-      "reason": [
-        "base_3"
-      ]
-    },
-    {
-      "index": 546,
-      "word": "विकास",
-      "normalized": "विकास",
-      "category": "行政・制度",
-      "importance": 4,
-      "sourceCount": 1,
-      "frequency": 1,
-      "oldQuizWeight": 4,
       "newQuizWeight": 3,
       "reason": [
         "base_3"
@@ -3973,6 +3960,244 @@
       "reason": [
         "base_3"
       ]
+    },
+    {
+      "index": 780,
+      "word": "आत्मबल",
+      "normalized": "आत्मबल",
+      "category": "文化・宗教",
+      "importance": 5,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 5,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 781,
+      "word": "आध्यात्मिकता",
+      "normalized": "आध्यात्मिकता",
+      "category": "文化・宗教",
+      "importance": 5,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 5,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 782,
+      "word": "आत्म-विकास",
+      "normalized": "आत्म_विकास",
+      "category": "文化・宗教",
+      "importance": 5,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 5,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 783,
+      "word": "सार्थक",
+      "normalized": "सार्थक",
+      "category": "文化・宗教",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 784,
+      "word": "संतुलित",
+      "normalized": "संतुलित",
+      "category": "文化・宗教",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 785,
+      "word": "निखारना",
+      "normalized": "निखारना",
+      "category": "文化・宗教",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 786,
+      "word": "धैर्य",
+      "normalized": "धैर्य",
+      "category": "文化・宗教",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 787,
+      "word": "आकांक्षा",
+      "normalized": "आकांक्षा",
+      "category": "文化・宗教",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 788,
+      "word": "मतभेद",
+      "normalized": "मतभेद",
+      "category": "文化・宗教",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 789,
+      "word": "कीचड़",
+      "normalized": "कीचड",
+      "category": "文化・宗教",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 792,
+      "word": "सजगता",
+      "normalized": "सजगता",
+      "category": "文化・宗教",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 793,
+      "word": "बाधा",
+      "normalized": "बाधा",
+      "category": "文化・宗教",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 796,
+      "word": "सौंदर्य",
+      "normalized": "सौंदर्य",
+      "category": "文化・宗教",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 797,
+      "word": "विपरीत",
+      "normalized": "विपरीत",
+      "category": "文化・宗教",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 798,
+      "word": "पृष्ठभूमि",
+      "normalized": "पृष्ठभूमि",
+      "category": "文化・宗教",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 800,
+      "word": "विलाप",
+      "normalized": "विलाप",
+      "category": "文化・宗教",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 801,
+      "word": "अहंकार",
+      "normalized": "अहंकार",
+      "category": "文化・宗教",
+      "importance": 5,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 5,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
     }
   ],
   "auditItems": [
@@ -4852,8 +5077,8 @@
       "normalized": "व्यवस्था",
       "category": "行政・制度",
       "importance": 4,
-      "sourceCount": 3,
-      "frequency": 3,
+      "sourceCount": 4,
+      "frequency": 4,
       "oldQuizWeight": 4,
       "newQuizWeight": 5,
       "reason": [
@@ -6964,13 +7189,14 @@
       "normalized": "पहचान",
       "category": "事件・事故",
       "importance": 3,
-      "sourceCount": 4,
-      "frequency": 4,
+      "sourceCount": 5,
+      "frequency": 5,
       "oldQuizWeight": 3,
       "newQuizWeight": 5,
       "reason": [
         "base_3",
         "sourceCount>=3:+1",
+        "sourceCount>=5:+1",
         "importance3 && sourceCount>=4:+0.5"
       ]
     },
@@ -11799,12 +12025,13 @@
       "normalized": "विकास",
       "category": "行政・制度",
       "importance": 4,
-      "sourceCount": 1,
-      "frequency": 1,
+      "sourceCount": 2,
+      "frequency": 2,
       "oldQuizWeight": 4,
-      "newQuizWeight": 3,
+      "newQuizWeight": 4,
       "reason": [
-        "base_3"
+        "base_3",
+        "importance>=4 && sourceCount>=2:+1"
       ]
     },
     {
@@ -15077,6 +15304,328 @@
       "sourceCount": 1,
       "frequency": 1,
       "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 780,
+      "word": "आत्मबल",
+      "normalized": "आत्मबल",
+      "category": "文化・宗教",
+      "importance": 5,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 5,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 781,
+      "word": "आध्यात्मिकता",
+      "normalized": "आध्यात्मिकता",
+      "category": "文化・宗教",
+      "importance": 5,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 5,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 782,
+      "word": "आत्म-विकास",
+      "normalized": "आत्म_विकास",
+      "category": "文化・宗教",
+      "importance": 5,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 5,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 783,
+      "word": "सार्थक",
+      "normalized": "सार्थक",
+      "category": "文化・宗教",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 784,
+      "word": "संतुलित",
+      "normalized": "संतुलित",
+      "category": "文化・宗教",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 785,
+      "word": "निखारना",
+      "normalized": "निखारना",
+      "category": "文化・宗教",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 786,
+      "word": "धैर्य",
+      "normalized": "धैर्य",
+      "category": "文化・宗教",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 787,
+      "word": "आकांक्षा",
+      "normalized": "आकांक्षा",
+      "category": "文化・宗教",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 788,
+      "word": "मतभेद",
+      "normalized": "मतभेद",
+      "category": "文化・宗教",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 789,
+      "word": "कीचड़",
+      "normalized": "कीचड",
+      "category": "文化・宗教",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 790,
+      "word": "हालात",
+      "normalized": "हालात",
+      "category": "文化・宗教",
+      "importance": 3,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 3,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 791,
+      "word": "भाग्य",
+      "normalized": "भाग्य",
+      "category": "文化・宗教",
+      "importance": 3,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 3,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 792,
+      "word": "सजगता",
+      "normalized": "सजगता",
+      "category": "文化・宗教",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 793,
+      "word": "बाधा",
+      "normalized": "बाधा",
+      "category": "文化・宗教",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 794,
+      "word": "अछूता",
+      "normalized": "अछूता",
+      "category": "文化・宗教",
+      "importance": 3,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 3,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 795,
+      "word": "सतह",
+      "normalized": "सतह",
+      "category": "文化・宗教",
+      "importance": 3,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 3,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 796,
+      "word": "सौंदर्य",
+      "normalized": "सौंदर्य",
+      "category": "文化・宗教",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 797,
+      "word": "विपरीत",
+      "normalized": "विपरीत",
+      "category": "文化・宗教",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 798,
+      "word": "पृष्ठभूमि",
+      "normalized": "पृष्ठभूमि",
+      "category": "文化・宗教",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 799,
+      "word": "हलचल",
+      "normalized": "हलचल",
+      "category": "文化・宗教",
+      "importance": 3,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 3,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 800,
+      "word": "विलाप",
+      "normalized": "विलाप",
+      "category": "文化・宗教",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 801,
+      "word": "अहंकार",
+      "normalized": "अहंकार",
+      "category": "文化・宗教",
+      "importance": 5,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 5,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 802,
+      "word": "भले ही",
+      "normalized": "भले_ही",
+      "category": "文化・宗教",
+      "importance": 3,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 3,
       "newQuizWeight": 3,
       "reason": [
         "base_3"

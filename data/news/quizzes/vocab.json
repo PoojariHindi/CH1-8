@@ -325,6 +325,19 @@
     "quizWeight": 13
   },
   {
+    "word": "पहचान",
+    "display": "पहचान",
+    "normalized": "पहचान",
+    "meaning_ja": "身元確認、識別",
+    "pos": "名詞（女）",
+    "category": "事件・事故",
+    "difficulty": 2,
+    "importance": 3,
+    "sourceCount": 5,
+    "frequency": 5,
+    "quizWeight": 13
+  },
+  {
     "word": "फंड",
     "display": "फंड",
     "normalized": "फंड",
@@ -387,6 +400,19 @@
     "importance": 4,
     "sourceCount": 2,
     "frequency": 2,
+    "quizWeight": 13
+  },
+  {
+    "word": "व्यवस्था",
+    "display": "व्यवस्था",
+    "normalized": "व्यवस्था",
+    "meaning_ja": "体制; 仕組み",
+    "pos": "名詞（女）",
+    "category": "行政・制度",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 4,
+    "frequency": 4,
     "quizWeight": 13
   },
   {
@@ -598,19 +624,6 @@
     "quizWeight": 12
   },
   {
-    "word": "पहचान",
-    "display": "पहचान",
-    "normalized": "पहचान",
-    "meaning_ja": "身元確認、識別",
-    "pos": "名詞（女）",
-    "category": "事件・事故",
-    "difficulty": 2,
-    "importance": 3,
-    "sourceCount": 4,
-    "frequency": 4,
-    "quizWeight": 12
-  },
-  {
     "word": "पहुंचना",
     "display": "पहुंचना",
     "normalized": "पहुंचना",
@@ -715,16 +728,16 @@
     "quizWeight": 12
   },
   {
-    "word": "व्यवस्था",
-    "display": "व्यवस्था",
-    "normalized": "व्यवस्था",
-    "meaning_ja": "体制; 仕組み",
-    "pos": "名詞（女）",
+    "word": "विकास",
+    "display": "विकास",
+    "normalized": "विकास",
+    "meaning_ja": "発展、開発",
+    "pos": "名詞（男）",
     "category": "行政・制度",
-    "difficulty": 3,
+    "difficulty": 2,
     "importance": 4,
-    "sourceCount": 3,
-    "frequency": 3,
+    "sourceCount": 2,
+    "frequency": 2,
     "quizWeight": 12
   },
   {
@@ -858,6 +871,45 @@
     "quizWeight": 11
   },
   {
+    "word": "अहंकार",
+    "display": "अहंकार",
+    "normalized": "अहंकार",
+    "meaning_ja": "傲慢、自我執着",
+    "pos": "男性名詞",
+    "category": "文化・宗教",
+    "difficulty": 4,
+    "importance": 5,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 11
+  },
+  {
+    "word": "आत्म-विकास",
+    "display": "आत्म-विकास",
+    "normalized": "आत्म_विकास",
+    "meaning_ja": "自己成長、自己啓発",
+    "pos": "男性名詞",
+    "category": "文化・宗教",
+    "difficulty": 4,
+    "importance": 5,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 11
+  },
+  {
+    "word": "आत्मबल",
+    "display": "आत्मबल",
+    "normalized": "आत्मबल",
+    "meaning_ja": "精神力、内なる力",
+    "pos": "男性名詞",
+    "category": "文化・宗教",
+    "difficulty": 4,
+    "importance": 5,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 11
+  },
+  {
     "word": "आत्मशुद्धि",
     "display": "आत्मशुद्धि",
     "normalized": "आत्मशुद्धि",
@@ -876,6 +928,19 @@
     "normalized": "आत्मसंयम",
     "meaning_ja": "自制、自律",
     "pos": "男性名詞",
+    "category": "文化・宗教",
+    "difficulty": 4,
+    "importance": 5,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 11
+  },
+  {
+    "word": "आध्यात्मिकता",
+    "display": "आध्यात्मिकता",
+    "normalized": "आध्यात्मिकता",
+    "meaning_ja": "精神性、霊性",
+    "pos": "女性名詞",
     "category": "文化・宗教",
     "difficulty": 4,
     "importance": 5,
@@ -1765,19 +1830,6 @@
     "importance": 4,
     "sourceCount": 2,
     "frequency": 2,
-    "quizWeight": 11
-  },
-  {
-    "word": "विकास",
-    "display": "विकास",
-    "normalized": "विकास",
-    "meaning_ja": "発展、開発",
-    "pos": "名詞（男）",
-    "category": "行政・制度",
-    "difficulty": 2,
-    "importance": 4,
-    "sourceCount": 1,
-    "frequency": 1,
     "quizWeight": 11
   },
   {
@@ -4589,6 +4641,19 @@
     "quizWeight": 9
   },
   {
+    "word": "आकांक्षा",
+    "display": "आकांक्षा",
+    "normalized": "आकांक्षा",
+    "meaning_ja": "願望、志、熱望",
+    "pos": "女性名詞",
+    "category": "文化・宗教",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
     "word": "आदान-प्रदान",
     "display": "आदान-प्रदान",
     "normalized": "आदान_प्रदान",
@@ -4998,6 +5063,19 @@
     "meaning_ja": "不足、欠乏",
     "pos": "名詞（女）",
     "category": "都市・環境",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "कीचड़",
+    "display": "कीचड़",
+    "normalized": "कीचड",
+    "meaning_ja": "泥、ぬかるみ",
+    "pos": "男性名詞",
+    "category": "文化・宗教",
     "difficulty": 4,
     "importance": 4,
     "sourceCount": 1,
@@ -5954,6 +6032,19 @@
     "quizWeight": 9
   },
   {
+    "word": "धैर्य",
+    "display": "धैर्य",
+    "normalized": "धैर्य",
+    "meaning_ja": "忍耐、辛抱",
+    "pos": "男性名詞",
+    "category": "文化・宗教",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
     "word": "नक्षत्र",
     "display": "नक्षत्र",
     "normalized": "नक्षत्र",
@@ -5999,6 +6090,19 @@
     "meaning_ja": "未成年の、未成年者",
     "pos": "形容詞・名詞",
     "category": "選挙・裁判",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "निखारना",
+    "display": "निखारना",
+    "normalized": "निखारना",
+    "meaning_ja": "磨く、向上させる",
+    "pos": "他動詞",
+    "category": "文化・宗教",
     "difficulty": 4,
     "importance": 4,
     "sourceCount": 1,
@@ -6357,6 +6461,19 @@
     "quizWeight": 9
   },
   {
+    "word": "पृष्ठभूमि",
+    "display": "पृष्ठभूमि",
+    "normalized": "पृष्ठभूमि",
+    "meaning_ja": "背景、バックグラウンド",
+    "pos": "女性名詞",
+    "category": "文化・宗教",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
     "word": "पौराणिक",
     "display": "पौराणिक",
     "normalized": "पौराणिक",
@@ -6604,6 +6721,19 @@
     "quizWeight": 9
   },
   {
+    "word": "बाधा",
+    "display": "बाधा",
+    "normalized": "बाधा",
+    "meaning_ja": "障害、妨げ",
+    "pos": "女性名詞",
+    "category": "文化・宗教",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
     "word": "बाधित होना",
     "display": "बाधित होना",
     "normalized": "बाधित_होना",
@@ -6766,6 +6896,19 @@
     "meaning_ja": "有権者名簿",
     "pos": "名詞（女）",
     "category": "選挙・裁判",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "मतभेद",
+    "display": "मतभेद",
+    "normalized": "मतभेद",
+    "meaning_ja": "意見の相違、対立",
+    "pos": "男性名詞",
+    "category": "文化・宗教",
     "difficulty": 4,
     "importance": 4,
     "sourceCount": 1,
@@ -7319,6 +7462,32 @@
     "quizWeight": 9
   },
   {
+    "word": "विपरीत",
+    "display": "विपरीत",
+    "normalized": "विपरीत",
+    "meaning_ja": "反対の、逆境の",
+    "pos": "形容詞",
+    "category": "文化・宗教",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "विलाप",
+    "display": "विलाप",
+    "normalized": "विलाप",
+    "meaning_ja": "嘆き、悲嘆",
+    "pos": "男性名詞",
+    "category": "文化・宗教",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
     "word": "विसर्जन",
     "display": "विसर्जन",
     "normalized": "विसर्जन",
@@ -7527,6 +7696,19 @@
     "quizWeight": 9
   },
   {
+    "word": "संतुलित",
+    "display": "संतुलित",
+    "normalized": "संतुलित",
+    "meaning_ja": "均衡の取れた、バランスの取れた",
+    "pos": "形容詞",
+    "category": "文化・宗教",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
     "word": "संरक्षण",
     "display": "संरक्षण",
     "normalized": "संरक्षण",
@@ -7574,6 +7756,19 @@
     "category": "行政・制度",
     "difficulty": 2,
     "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "सजगता",
+    "display": "सजगता",
+    "normalized": "सजगता",
+    "meaning_ja": "注意深さ、覚醒した意識",
+    "pos": "女性名詞",
+    "category": "文化・宗教",
+    "difficulty": 4,
+    "importance": 4,
     "sourceCount": 1,
     "frequency": 1,
     "quizWeight": 9
@@ -7696,6 +7891,19 @@
     "quizWeight": 9
   },
   {
+    "word": "सार्थक",
+    "display": "सार्थक",
+    "normalized": "सार्थक",
+    "meaning_ja": "有意義な、価値ある",
+    "pos": "形容詞",
+    "category": "文化・宗教",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
     "word": "सिलिंडर",
     "display": "सिलिंडर",
     "normalized": "सिलिंडर",
@@ -7774,6 +7982,19 @@
     "quizWeight": 9
   },
   {
+    "word": "सौंदर्य",
+    "display": "सौंदर्य",
+    "normalized": "सौंदर्य",
+    "meaning_ja": "美しさ、美",
+    "pos": "男性名詞",
+    "category": "文化・宗教",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
     "word": "स्कीम",
     "display": "स्कीम",
     "normalized": "स्कीम",
@@ -7845,6 +8066,19 @@
     "meaning_ja": "最終段階、最後の局面",
     "pos": "名詞（男）",
     "category": "社会・公共",
+    "difficulty": 3,
+    "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 8
+  },
+  {
+    "word": "अछूता",
+    "display": "अछूता",
+    "normalized": "अछूता",
+    "meaning_ja": "影響を受けない、汚されていない",
+    "pos": "形容詞",
+    "category": "文化・宗教",
     "difficulty": 3,
     "importance": 3,
     "sourceCount": 1,
@@ -8619,6 +8853,32 @@
     "quizWeight": 8
   },
   {
+    "word": "भले ही",
+    "display": "भले ही",
+    "normalized": "भले_ही",
+    "meaning_ja": "たとえ〜でも、〜とはいえ",
+    "pos": "接続表現",
+    "category": "文化・宗教",
+    "difficulty": 3,
+    "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 8
+  },
+  {
+    "word": "भाग्य",
+    "display": "भाग्य",
+    "normalized": "भाग्य",
+    "meaning_ja": "運命、宿命",
+    "pos": "男性名詞",
+    "category": "文化・宗教",
+    "difficulty": 3,
+    "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 8
+  },
+  {
     "word": "भाषाई",
     "display": "भाषाई",
     "normalized": "भाषाई",
@@ -8840,6 +9100,19 @@
     "quizWeight": 8
   },
   {
+    "word": "सतह",
+    "display": "सतह",
+    "normalized": "सतह",
+    "meaning_ja": "表面、水面",
+    "pos": "女性名詞",
+    "category": "文化・宗教",
+    "difficulty": 3,
+    "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 8
+  },
+  {
     "word": "सवार",
     "display": "सवार",
     "normalized": "सवार",
@@ -8918,6 +9191,19 @@
     "quizWeight": 8
   },
   {
+    "word": "हलचल",
+    "display": "हलचल",
+    "normalized": "हलचल",
+    "meaning_ja": "騒動、ざわめき、混乱",
+    "pos": "女性名詞",
+    "category": "文化・宗教",
+    "difficulty": 3,
+    "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 8
+  },
+  {
     "word": "हानिकारक",
     "display": "हानिकारक",
     "normalized": "हानिकारक",
@@ -8928,6 +9214,19 @@
     "importance": 3,
     "sourceCount": 2,
     "frequency": 2,
+    "quizWeight": 8
+  },
+  {
+    "word": "हालात",
+    "display": "हालात",
+    "normalized": "हालात",
+    "meaning_ja": "状況、情勢",
+    "pos": "男性名詞",
+    "category": "文化・宗教",
+    "difficulty": 3,
+    "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
     "quizWeight": 8
   },
   {
