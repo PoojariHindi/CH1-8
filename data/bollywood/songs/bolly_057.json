@@ -1,0 +1,272 @@
+{
+  "id": "bolly_057",
+  "schema_version": 2,
+
+  "title": "Yeh Raat Aur Yeh Doorie",
+  "film": "Andaz Apna Apna",
+  "year": 1994,
+
+  "singer": [
+    "Asha Bhosle",
+    "S. P. Balasubramaniam"
+  ],
+
+  "lyricist": [
+    "Majrooh Sultanpuri"
+  ],
+
+  "composer": [
+    "Tushar Bhatia"
+  ],
+
+  "notes": [
+    "アーミル"
+  ],
+
+  "tags": [
+    "恋愛",
+    "神"
+  ],
+
+  "emotion": "longing_romantic",
+  "register": "romantic_poetic",
+
+  "key_phrase": "ये रात और ये दूरी तेरा मिलना है ज़रूरी",
+
+  "expressions": [
+    {
+      "text": "तेरा मिलना है ज़रूरी",
+      "normalized": "तेरा मिलना है जरूरी",
+      "meaning_ja": "君に会うことがどうしても必要だ",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "दिल मेरा धक धक बोले",
+      "normalized": "दिल मेरा धक धक बोले",
+      "meaning_ja": "私の心はドキドキと鳴っている",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "दीवाना लिये जाये हिचकोले",
+      "normalized": "दीवाना लिये जाये हिचकोले",
+      "meaning_ja": "恋する者は揺れ動いてしまう",
+      "type": "poetic",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "इस हसरत में",
+      "normalized": "इस हसरत में",
+      "meaning_ja": "この切なる願いの中で",
+      "type": "expression",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "कितनी रातें काटीं",
+      "normalized": "कितनी रातें काटीं",
+      "meaning_ja": "どれほど多くの夜を過ごしたことか",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "झलक दिखला भी जा",
+      "normalized": "झलक दिखला भी जा",
+      "meaning_ja": "ちらりと姿を見せておくれ",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "हाल है जो तेरा वही हाल मेरा",
+      "normalized": "हाल है जो तेरा वही हाल मेरा",
+      "meaning_ja": "君の状態がそのまま私の状態でもある",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "पिया हाल वही है मेरा",
+      "normalized": "पिया हाल वही है मेरा",
+      "meaning_ja": "愛しい人よ、私も同じ気持ちだ",
+      "type": "poetic",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "प्यार चोरी चोरी",
+      "normalized": "प्यार चोरी चोरी",
+      "meaning_ja": "人目を避けた恋",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "इतनी मजबूरी",
+      "normalized": "इतनी मजबूरी",
+      "meaning_ja": "これほどのやむを得ない事情",
+      "type": "expression",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "ख़्वाबों की शहज़ादी",
+      "normalized": "ख्वाबों की शहजादी",
+      "meaning_ja": "夢の中のお姫様",
+      "type": "poetic",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "आवाज़ें देता है",
+      "normalized": "आवाजें देता है",
+      "meaning_ja": "呼びかけ続けている",
+      "type": "expression",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "कब से फ़रियादी",
+      "normalized": "कब से फरियादी",
+      "meaning_ja": "ずっと嘆願者のままでいる",
+      "type": "poetic",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "सितमगर आ भी जा",
+      "normalized": "सितमगर आ भी जा",
+      "meaning_ja": "つれない人よ、どうか来ておくれ",
+      "type": "poetic",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "करम फ़रमा भी जा",
+      "normalized": "करम फरमा भी जा",
+      "meaning_ja": "どうか情けをかけておくれ",
+      "type": "poetic",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "दर्द वही है मेरा",
+      "normalized": "दर्द वही है मेरा",
+      "meaning_ja": "私の痛みも同じだ",
+      "type": "expression",
+      "importance": 3,
+      "status": "active"
+    }
+  ],
+
+  "vocab_candidates": [
+    {
+      "word": "दूरी",
+      "normalized": "दूरी",
+      "pos": "名詞（女）",
+      "meaning_ja": "距離、隔たり",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "धकधक",
+      "normalized": "धकधक",
+      "pos": "名詞（女）",
+      "meaning_ja": "ドキドキする鼓動",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "हिचकोला",
+      "normalized": "हिचकोला",
+      "pos": "名詞（男）",
+      "meaning_ja": "揺れ動き、揺さぶり",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "हसरत",
+      "normalized": "हसरत",
+      "pos": "名詞（女）",
+      "meaning_ja": "切なる願い、憧れ",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "झलक",
+      "normalized": "झलक",
+      "pos": "名詞（女）",
+      "meaning_ja": "ちらりと見える姿、一瞥",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "हाल",
+      "normalized": "हाल",
+      "pos": "名詞（男）",
+      "meaning_ja": "状態、様子",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "मजबूरी",
+      "normalized": "मजबूरी",
+      "pos": "名詞（女）",
+      "meaning_ja": "やむを得ない事情",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "शहज़ादी",
+      "normalized": "शहजादी",
+      "pos": "名詞（女）",
+      "meaning_ja": "王女、お姫様",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "फ़रियादी",
+      "normalized": "फरियादी",
+      "pos": "名詞（男）",
+      "meaning_ja": "嘆願者、訴える人",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "सितमगर",
+      "normalized": "सितमगर",
+      "pos": "名詞（男）",
+      "meaning_ja": "つれない人、苦しめる人",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "करम",
+      "normalized": "करम",
+      "pos": "名詞（男）",
+      "meaning_ja": "慈悲、情け",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "फ़रमाना",
+      "normalized": "फरमाना",
+      "pos": "他動詞",
+      "meaning_ja": "お与えになる、仰せになる",
+      "importance": 4,
+      "status": "active"
+    }
+  ],
+
+  "meta": {
+    "copyright_safe": true,
+    "lyrics_included": false,
+    "source_type": "manual_curated",
+    "dedupe_ready": true
+  }
+}

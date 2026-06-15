@@ -1542,7 +1542,7 @@
     "normalized": "जल सुरक्षा",
     "variants": [],
     "pos": "名詞句",
-    "meaning_ja": "水の安全保障",
+    "meaning_ja": "水の安定確保",
     "importance": 5,
     "category": "academic",
     "tags": [
@@ -7441,7 +7441,7 @@
   },
   {
     "word": "ज़िन्दगी",
-    "display": "ज़िन्दगी",
+    "display": "जिंदगी",
     "normalized": "जिंदगी",
     "variants": [
       "ज़िन्दगी",
@@ -9856,7 +9856,7 @@
   },
   {
     "word": "बर्तन-भाँड़े",
-    "display": "बर्तन-भाँड़े",
+    "display": "बर्तन-भाँड़ा",
     "normalized": "बर्तन भांडे",
     "variants": [
       "बर्तन-भांड़े",
@@ -13673,7 +13673,7 @@
   },
   {
     "word": "डब्बा",
-    "display": "डब्बे",
+    "display": "डब्बा",
     "normalized": "डब्बा",
     "variants": [],
     "pos": "名詞（男）",

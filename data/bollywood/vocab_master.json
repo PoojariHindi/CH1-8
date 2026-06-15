@@ -643,16 +643,17 @@
     "normalized": "दूरी",
     "pos": "名詞（女）",
     "meaning_ja": "距離",
-    "importance": 3,
+    "importance": 4,
     "status": "active",
     "sourceSongIds": [
       "bolly_003",
       "bolly_007",
       "bolly_020",
-      "bolly_021"
+      "bolly_021",
+      "bolly_057"
     ],
-    "sourceCount": 4,
-    "frequency": 4,
+    "sourceCount": 5,
+    "frequency": 5,
     "tags": [
       "関係"
     ],
@@ -1433,10 +1434,11 @@
     "status": "active",
     "sourceSongIds": [
       "bolly_013",
-      "bolly_018"
+      "bolly_018",
+      "bolly_057"
     ],
-    "sourceCount": 2,
-    "frequency": 2,
+    "sourceCount": 3,
+    "frequency": 3,
     "tags": [],
     "notes": ""
   },
@@ -3374,13 +3376,14 @@
     "normalized": "मजबूरी",
     "pos": "名詞（女）",
     "meaning_ja": "どうしようもなさ、やむを得ない事情",
-    "importance": 3,
+    "importance": 4,
     "status": "active",
     "sourceSongIds": [
-      "bolly_020"
+      "bolly_020",
+      "bolly_057"
     ],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 2,
+    "frequency": 2,
     "tags": [],
     "notes": ""
   },
@@ -5912,10 +5915,11 @@
     "sourceSongIds": [
       "bolly_032",
       "bolly_037",
-      "bolly_044"
+      "bolly_044",
+      "bolly_057"
     ],
-    "sourceCount": 3,
-    "frequency": 3
+    "sourceCount": 4,
+    "frequency": 4
   },
   {
     "word": "आह",
@@ -10833,6 +10837,128 @@
     "sourceSongIds": [
       "bolly_056"
     ],
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "हिचकोला",
+    "normalized": "हिचकोला",
+    "display": "हिचकोला",
+    "variants": [
+      "हिचकोला"
+    ],
+    "pos": "名詞（男）",
+    "meaning_ja": "揺れ動き、揺さぶり",
+    "importance": 4,
+    "sourceSongIds": [
+      "bolly_057"
+    ],
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "हसरत",
+    "normalized": "हसरत",
+    "display": "हसरत",
+    "variants": [
+      "हसरत"
+    ],
+    "pos": "名詞（女）",
+    "meaning_ja": "切なる願い、憧れ",
+    "importance": 4,
+    "sourceSongIds": [
+      "bolly_057"
+    ],
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "झलक",
+    "normalized": "झलक",
+    "display": "झलक",
+    "variants": [
+      "झलक"
+    ],
+    "pos": "名詞（女）",
+    "meaning_ja": "ちらりと見える姿、一瞥",
+    "importance": 4,
+    "sourceSongIds": [
+      "bolly_057"
+    ],
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "शहज़ादी",
+    "normalized": "शहजादी",
+    "display": "शहज़ादी",
+    "variants": [
+      "शहज़ादी",
+      "शहजादी"
+    ],
+    "pos": "名詞（女）",
+    "meaning_ja": "王女、お姫様",
+    "importance": 4,
+    "sourceSongIds": [
+      "bolly_057"
+    ],
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "फ़रियादी",
+    "normalized": "फरियादी",
+    "display": "फ़रियादी",
+    "variants": [
+      "फ़रियादी",
+      "फरियादी"
+    ],
+    "pos": "名詞（男）",
+    "meaning_ja": "嘆願者、訴える人",
+    "importance": 4,
+    "sourceSongIds": [
+      "bolly_057"
+    ],
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "सितमगर",
+    "normalized": "सितमगर",
+    "display": "सितमगर",
+    "variants": [
+      "सितमगर"
+    ],
+    "pos": "名詞（男）",
+    "meaning_ja": "つれない人、苦しめる人",
+    "importance": 4,
+    "sourceSongIds": [
+      "bolly_057"
+    ],
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "फ़रमाना",
+    "normalized": "फरमाना",
+    "display": "फ़रमाना",
+    "variants": [
+      "फ़रमाना",
+      "फरमाना"
+    ],
+    "pos": "他動詞",
+    "meaning_ja": "お与えになる、仰せになる",
+    "importance": 4,
+    "sourceSongIds": [
+      "bolly_057"
+    ],
+    "status": "active",
     "sourceCount": 1,
     "frequency": 1
   }

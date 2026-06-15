@@ -195,6 +195,13 @@
     min-height: 22px;
   }
 
+  .recall-answer {
+   text-align: center;
+   font-size: 1.5rem;
+   font-weight: 600;
+   margin: 16px 0 20px;
+   color: #1f4f7a;
+  }
 
   .mylist-action-btn {
     margin-top: 8px;
@@ -416,7 +423,7 @@
 <body>
   <div class="quiz-box">
     <h2 class="app-title">Hindi Quiz</h2>
-    <div class="update-info">2026年6月12日更新 : 3070 words</div>
+    <div class="update-info">2026年6月15日更新 : 3077 words</div>
 
     <div class="controls">
       <div class="control-group">
@@ -463,6 +470,14 @@
           <option value="hi2jp">ヒン→日</option>
           <option value="jp2hi">日→ヒン</option>
         </select>
+      </div>
+
+      <div class="control-group">
+        <label for="quizModeSelect">出題形式</label>
+        <select id="quizModeSelect">
+         <option value="choice">四択モード</option>
+         <option value="recall">याद モード</option>
+       </select>
       </div>
 
       <button id="startQuizBtn" class="start-btn">開始</button>

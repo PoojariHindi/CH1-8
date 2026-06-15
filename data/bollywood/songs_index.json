@@ -1368,5 +1368,30 @@
     ],
     "key_phrase": "सपने रे सपने रे सपने मेरे, सच हो जाना रे",
     "status": "processed"
+  },
+  {
+    "id": "bolly_057",
+    "title": "Yeh Raat Aur Yeh Doorie",
+    "film": "Andaz Apna Apna",
+    "year": 1994,
+    "singer": [
+      "Asha Bhosle",
+      "S. P. Balasubramaniam"
+    ],
+    "lyricist": [
+      "Majrooh Sultanpuri"
+    ],
+    "composer": [
+      "Tushar Bhatia"
+    ],
+    "notes": [
+      "アーミル"
+    ],
+    "tags": [
+      "恋愛",
+      "神"
+    ],
+    "key_phrase": "ये रात और ये दूरी तेरा मिलना है ज़रूरी",
+    "status": "processed"
   }
 ]

@@ -45,6 +45,14 @@ const RECENT_FILTER_MODES = new Set([
   "bollywood_vocab"
 ]);
 
+const RECALL_ELIGIBLE_MODES = new Set([
+  "mylist",
+  "ch",
+  "news",
+  "academic_vocab",
+  "bollywood_vocab"
+]);
+
 async function loadJson(path) {
   const response = await fetch(path);
   if (!response.ok) {
@@ -211,6 +219,14 @@ function getDirection() {
 
 function getMode() {
   return document.getElementById("modeSelect").value;
+}
+
+function getQuizMode() {
+  return document.getElementById("quizModeSelect")?.value || "choice";
+}
+
+function isRecallEligibleMode() {
+  return RECALL_ELIGIBLE_MODES.has(getMode());
 }
 
 function isVocabularyMode(mode) {
@@ -469,14 +485,26 @@ function removeFromKnown(entry) {
 }
 
 function isMyListEligibleQuiz() {
-  if (!currentQuiz || currentQuiz.type !== "vocab") return false;
+  if (
+    !currentQuiz ||
+    (currentQuiz.type !== "vocab" &&
+     currentQuiz.type !== "recall_vocab")
+  ) {
+    return false;
+  }
 
   const mode = getMode();
   return MYLIST_ELIGIBLE_MODES.has(mode);
 }
 
 function isKnownEligibleQuiz() {
-  if (!currentQuiz || currentQuiz.type !== "vocab") return false;
+  if (
+    !currentQuiz ||
+    (currentQuiz.type !== "vocab" &&
+     currentQuiz.type !== "recall_vocab")
+  ) {
+    return false;
+  }
 
   const mode = getMode();
   return KNOWN_ELIGIBLE_MODES.has(mode);
@@ -550,6 +578,39 @@ function createQuizQuestion(vocabPool, direction) {
     question,
     correctAnswer,
     choices,
+    entry: correct,
+    meta: {
+      source: correct.source,
+      lesson: correct.lesson || null,
+      pos: correct.pos || "",
+      songTitle: "",
+      film: ""
+    }
+  };
+}
+
+function createRecallQuestion(vocabPool, direction) {
+  if (!Array.isArray(vocabPool) || vocabPool.length < 1) return null;
+
+  const correct = pickRandom(vocabPool, 1)[0];
+  if (!correct) return null;
+
+  let question = "";
+  let correctAnswer = "";
+
+  if (direction === "hi2jp") {
+    question = getDisplayWord(correct);
+    correctAnswer = getMeaning(correct);
+  } else {
+    question = getMeaning(correct);
+    correctAnswer = getDisplayWord(correct);
+  }
+
+  return {
+    type: "recall_vocab",
+    question,
+    correctAnswer,
+    choices: [],
     entry: correct,
     meta: {
       source: correct.source,
@@ -733,6 +794,68 @@ function renderQuiz(quiz) {
     .addEventListener("click", startQuiz);
 }
 
+function renderRecallQuiz(quiz) {
+  const quizArea = document.getElementById("quizArea");
+
+  if (!quiz) {
+    quizArea.innerHTML = "<p>問題を作成できませんでした。</p>";
+    return;
+  }
+
+  const metaParts = [];
+  if (quiz.meta.lesson) {
+    metaParts.push(`<span>L${escapeHtml(quiz.meta.lesson)}</span>`);
+  }
+  if (quiz.meta.pos) {
+    metaParts.push(`<span>${escapeHtml(quiz.meta.pos)}</span>`);
+  }
+
+  const metaRow = `
+    <div class="quiz-meta-row">
+      ${metaParts.join("")}
+    </div>
+  `;
+
+  quizArea.innerHTML = `
+    <div class="quiz-card">
+      ${metaRow}
+      <h2 class="quiz-question">${escapeHtml(quiz.question)}</h2>
+
+      <div id="recallAnswer" class="recall-answer" style="display:none;">
+        ${escapeHtml(quiz.correctAnswer)}
+      </div>
+
+      <div id="quizFeedback" class="quiz-feedback"></div>
+
+      <button id="showRecallAnswerBtn" class="next-btn" type="button">
+        答えを見る
+      </button>
+
+      <button id="nextQuestionBtn" class="next-btn" style="display:none;">
+        次の問題
+      </button>
+
+      <div class="quiz-action-row">
+        <button id="myListToggleBtn" class="mylist-btn" style="display:none;">
+          マイリストに追加
+        </button>
+
+        <button id="knownToggleBtn" class="mylist-btn known-btn" style="display:none;">
+          覚えたリストに追加
+        </button>
+      </div>
+    </div>
+  `;
+
+  document
+    .getElementById("showRecallAnswerBtn")
+    .addEventListener("click", handleRecallAnswerClick);
+
+  document
+    .getElementById("nextQuestionBtn")
+    .addEventListener("click", startQuiz);
+}
+
 function addWrongAnswer(entry) {
   const mode = getMode();
 
@@ -840,6 +963,90 @@ if (knownBtn && isKnownEligibleQuiz()) {
 }
 }
 
+function handleRecallAnswerClick() {
+  if (!currentQuiz) return;
+
+  const answer = document.getElementById("recallAnswer");
+  const showBtn = document.getElementById("showRecallAnswerBtn");
+  const nextBtn = document.getElementById("nextQuestionBtn");
+  const feedback = document.getElementById("quizFeedback");
+
+  if (answer) {
+    answer.style.display = "block";
+  }
+
+  if (showBtn) {
+    showBtn.style.display = "none";
+  }
+
+  if (nextBtn) {
+    nextBtn.style.display = "inline-block";
+  }
+
+  if (currentQuiz.type === "recall_vocab" && RECENT_FILTER_MODES.has(getMode())) {
+    addToRecent(currentQuiz.entry);
+  }
+
+  const myListBtn = document.getElementById("myListToggleBtn");
+
+  if (myListBtn && isMyListEligibleQuiz()) {
+    const inMyList = isInMyList(currentQuiz.entry);
+
+    myListBtn.style.display = "inline-block";
+    myListBtn.textContent = inMyList
+      ? "マイリストから削除"
+      : "マイリストに追加";
+
+    myListBtn.onclick = () => {
+      const before = isInMyList(currentQuiz.entry);
+
+      const result = before
+        ? removeFromMyList(currentQuiz.entry)
+        : addToMyList(currentQuiz.entry);
+
+      const after = isInMyList(currentQuiz.entry);
+
+      myListBtn.textContent = after
+        ? "マイリストから削除"
+        : "マイリストに追加";
+
+      if (feedback && result.message) {
+        feedback.innerHTML += `<p style="font-size:13px;">${escapeHtml(result.message)}</p>`;
+      }
+    };
+  }
+
+  const knownBtn = document.getElementById("knownToggleBtn");
+
+  if (knownBtn && isKnownEligibleQuiz()) {
+    const inKnown = isInKnown(currentQuiz.entry);
+
+    knownBtn.style.display = "inline-block";
+    knownBtn.textContent = inKnown
+      ? "覚えたリストから削除"
+      : "覚えたリストに追加";
+
+    knownBtn.onclick = () => {
+      const before = isInKnown(currentQuiz.entry);
+
+      const result = before
+        ? removeFromKnown(currentQuiz.entry)
+        : addToKnown(currentQuiz.entry);
+
+      const after = isInKnown(currentQuiz.entry);
+
+      knownBtn.textContent = after
+        ? "覚えたリストから削除"
+        : "覚えたリストに追加";
+
+      if (feedback && result.message) {
+        feedback.innerHTML += `<p style="font-size:13px;">${escapeHtml(result.message)}</p>`;
+      }
+    };
+  }
+}
+
+
 function excludeKnownItems(pool) {
   if (!Array.isArray(pool)) return [];
 
@@ -939,19 +1146,24 @@ function startQuiz() {
 
   return;
 }
+  if (getQuizMode() === "recall" && isRecallEligibleMode()) {
+  currentQuiz = createRecallQuestion(pool, direction);
+  renderRecallQuiz(currentQuiz);
+  return;
+}
 
   if (mode === "bollywood_fill" || mode === "academic_fill") {
-    currentQuiz = createFillQuestion(pool);
-  } else if (
-    mode === "bollywood_expressions" ||
-    mode === "academic_expressions"
-  ) {
-    currentQuiz = createExpressionQuestion(pool, direction);
-  } else {
-    currentQuiz = createQuizQuestion(pool, direction);
-  }
+  currentQuiz = createFillQuestion(pool);
+} else if (
+  mode === "bollywood_expressions" ||
+  mode === "academic_expressions"
+) {
+  currentQuiz = createExpressionQuestion(pool, direction);
+} else {
+  currentQuiz = createQuizQuestion(pool, direction);
+}
 
-  renderQuiz(currentQuiz);
+renderQuiz(currentQuiz);
 }
 
 function startReviewMode() {

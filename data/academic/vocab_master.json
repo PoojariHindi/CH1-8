@@ -1542,7 +1542,7 @@
     "display": "जल सुरक्षा",
     "variants": [],
     "pos": "名詞句",
-    "meaning_ja": "水の安全保障",
+    "meaning_ja": "水の安定確保",
     "importance": 5,
     "category": "academic",
     "tags": [
@@ -7442,7 +7442,7 @@
   {
     "word": "ज़िन्दगी",
     "normalized": "जिंदगी",
-    "display": "ज़िन्दगी",
+    "display": "जिंदगी",
     "variants": [
       "ज़िन्दगी",
       "जिन्दगी"
@@ -13674,7 +13674,7 @@
   {
     "word": "डब्बा",
     "normalized": "डब्बा",
-    "display": "डब्बे",
+    "display": "डब्बा",
     "variants": [],
     "pos": "名詞（男）",
     "meaning_ja": "車両、箱",
