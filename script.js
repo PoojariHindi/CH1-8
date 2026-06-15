@@ -816,12 +816,17 @@ function renderRecallQuiz(quiz) {
     </div>
   `;
 
+  const answerClass =
+  getDirection() === "jp2hi"
+    ? "recall-answer recall-answer-hi"
+    : "recall-answer";
+
   quizArea.innerHTML = `
     <div class="quiz-card">
       ${metaRow}
       <h2 class="quiz-question">${escapeHtml(quiz.question)}</h2>
 
-      <div id="recallAnswer" class="recall-answer" style="display:none;">
+      <div id="recallAnswer" class="${answerClass}" style="display:none;">
         ${escapeHtml(quiz.correctAnswer)}
       </div>
 
