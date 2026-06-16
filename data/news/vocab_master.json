@@ -13894,5 +13894,158 @@
     "frequency": 1,
     "notes": "",
     "quizWeight": 3
+  },
+  {
+    "word": "युद्ध",
+    "normalized": "युद्ध",
+    "pos": "男性名詞",
+    "meaning_ja": "戦争",
+    "category": "国際・外交",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news048_DJ20260616_Ceasefire"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 4
+  },
+  {
+    "word": "कूटनीतिक",
+    "normalized": "कूटनीतिक",
+    "pos": "形容詞",
+    "meaning_ja": "外交上の",
+    "category": "国際・外交",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news048_DJ20260616_Ceasefire"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 4
+  },
+  {
+    "word": "वैश्विक",
+    "normalized": "वैश्विक",
+    "pos": "形容詞",
+    "meaning_ja": "世界的な",
+    "category": "国際・外交",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news048_DJ20260616_Ceasefire"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 4
+  },
+  {
+    "word": "औपचारिक",
+    "normalized": "औपचारिक",
+    "pos": "形容詞",
+    "meaning_ja": "正式な",
+    "category": "国際・外交",
+    "difficulty": 3,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news048_DJ20260616_Ceasefire"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "प्रस्तावित",
+    "normalized": "प्रस्तावित",
+    "pos": "形容詞",
+    "meaning_ja": "提案された",
+    "category": "国際・外交",
+    "difficulty": 3,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news048_DJ20260616_Ceasefire"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "मसौदा",
+    "normalized": "मसौदा",
+    "pos": "男性名詞",
+    "meaning_ja": "草案",
+    "category": "国際・外交",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news048_DJ20260616_Ceasefire"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "条約・合意文書・法案などの草案",
+    "quizWeight": 4
+  },
+  {
+    "word": "हस्ताक्षर",
+    "normalized": "हस्ताक्षर",
+    "pos": "男性名詞",
+    "meaning_ja": "署名",
+    "category": "国際・外交",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news048_DJ20260616_Ceasefire"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 4
+  },
+  {
+    "word": "अगुआई",
+    "normalized": "अगुआई",
+    "pos": "女性名詞",
+    "meaning_ja": "主導、指揮",
+    "category": "国際・外交",
+    "difficulty": 3,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news048_DJ20260616_Ceasefire"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 3
+  },
+  {
+    "word": "समुद्री",
+    "normalized": "समुद्री",
+    "pos": "形容詞",
+    "meaning_ja": "海上の、海洋の",
+    "category": "国際・外交",
+    "difficulty": 3,
+    "importance": 3,
+    "status": "active",
+    "sourceArticleIds": [
+      "news048_DJ20260616_Ceasefire"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "海運・海峡・海洋安全保障などで頻出",
+    "quizWeight": 3
   }
 ]

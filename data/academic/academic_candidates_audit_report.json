@@ -15310,7 +15310,7 @@
     },
     {
       "word": "मुकद्दमा",
-      "display": "मुकद्दमे",
+      "display": "मुकद्दमा",
       "normalized": "मुकद्दमा",
       "variants": [],
       "pos": "名詞（男）",
@@ -15598,7 +15598,7 @@
     },
     {
       "word": "दरोगा",
-      "display": "दरोगे",
+      "display": "दरोगा",
       "normalized": "दरोगा",
       "variants": [],
       "pos": "名詞（男）",
@@ -15888,7 +15888,7 @@
     },
     {
       "word": "दर्जा",
-      "display": "दर्जे",
+      "display": "दर्जा",
       "normalized": "दर्जा",
       "variants": [],
       "pos": "名詞（男）",
@@ -16033,10 +16033,10 @@
       "audit": "existing_in_master"
     },
     {
-      "word": "पेन्दा",
-      "display": "पेन्दों",
-      "normalized": "पेन्दा",
-      "variants": [],
+      "word": "पेंदा",
+      "display": "पेंदा",
+      "normalized": "पेंदा",
+      "variants": ["पेन्दा","पेंदा"],
       "pos": "名詞（男）",
       "meaning_ja": "底部",
       "importance": 5,
@@ -16082,7 +16082,7 @@
     },
     {
       "word": "धूम मचना",
-      "display": "धूम मच गई",
+      "display": "धूम मचना",
       "normalized": "धूम मचना",
       "variants": [],
       "pos": "動詞句",
@@ -16154,7 +16154,7 @@
     },
     {
       "word": "चंडूवाला",
-      "display": "चंडूवाले",
+      "display": "चंडूवाला",
       "normalized": "चंडूवाला",
       "variants": [],
       "pos": "名詞（男）",

@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-06-12T03:37:52.852Z",
+  "generatedAt": "2026-06-16T04:04:56.705Z",
   "input": "data\\news\\vocab_master.json",
   "output": "data\\news\\vocab_master_with_quiz_weight.json",
-  "totalEntries": 803,
-  "changedCount": 278,
-  "unchangedCount": 525,
+  "totalEntries": 812,
+  "changedCount": 283,
+  "unchangedCount": 529,
   "quizWeightSummary": {
     "1": 0,
     "2": 4,
-    "3": 658,
+    "3": 667,
     "4": 95,
     "5": 46
   },
@@ -179,6 +179,16 @@
         "1": 0,
         "2": 0,
         "3": 3,
+        "4": 0,
+        "5": 0
+      }
+    },
+    "国際・外交": {
+      "total": 9,
+      "quizWeight": {
+        "1": 0,
+        "2": 0,
+        "3": 9,
         "4": 0,
         "5": 0
       }
@@ -4194,6 +4204,76 @@
       "sourceCount": 1,
       "frequency": 1,
       "oldQuizWeight": 5,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 803,
+      "word": "युद्ध",
+      "normalized": "युद्ध",
+      "category": "国際・外交",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 804,
+      "word": "कूटनीतिक",
+      "normalized": "कूटनीतिक",
+      "category": "国際・外交",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 805,
+      "word": "वैश्विक",
+      "normalized": "वैश्विक",
+      "category": "国際・外交",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 808,
+      "word": "मसौदा",
+      "normalized": "मसौदा",
+      "category": "国際・外交",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 809,
+      "word": "हस्ताक्षर",
+      "normalized": "हस्ताक्षर",
+      "category": "国際・外交",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
       "newQuizWeight": 3,
       "reason": [
         "base_3"
@@ -15622,6 +15702,132 @@
       "word": "भले ही",
       "normalized": "भले_ही",
       "category": "文化・宗教",
+      "importance": 3,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 3,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 803,
+      "word": "युद्ध",
+      "normalized": "युद्ध",
+      "category": "国際・外交",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 804,
+      "word": "कूटनीतिक",
+      "normalized": "कूटनीतिक",
+      "category": "国際・外交",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 805,
+      "word": "वैश्विक",
+      "normalized": "वैश्विक",
+      "category": "国際・外交",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 806,
+      "word": "औपचारिक",
+      "normalized": "औपचारिक",
+      "category": "国際・外交",
+      "importance": 3,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 3,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 807,
+      "word": "प्रस्तावित",
+      "normalized": "प्रस्तावित",
+      "category": "国際・外交",
+      "importance": 3,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 3,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 808,
+      "word": "मसौदा",
+      "normalized": "मसौदा",
+      "category": "国際・外交",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 809,
+      "word": "हस्ताक्षर",
+      "normalized": "हस्ताक्षर",
+      "category": "国際・外交",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 810,
+      "word": "अगुआई",
+      "normalized": "अगुआई",
+      "category": "国際・外交",
+      "importance": 3,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 3,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 811,
+      "word": "समुद्री",
+      "normalized": "समुद्री",
+      "category": "国際・外交",
       "importance": 3,
       "sourceCount": 1,
       "frequency": 1,

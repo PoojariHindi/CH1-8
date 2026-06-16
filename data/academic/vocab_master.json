@@ -1327,7 +1327,7 @@
   {
     "word": "चंडूवाला",
     "normalized": "चंडूवाला",
-    "display": "चंडूवाले",
+    "display": "चंडूवाला",
     "variants": [],
     "pos": "名詞（男）",
     "meaning_ja": "阿片常習者、阿片屋",
@@ -1962,7 +1962,7 @@
   {
     "word": "दरोगा",
     "normalized": "दरोगा",
-    "display": "दरोगे",
+    "display": "दरोगा",
     "variants": [],
     "pos": "名詞（男）",
     "meaning_ja": "警部、巡査部長級の警官",
@@ -2743,10 +2743,10 @@
     ]
   },
   {
-    "word": "पेन्दा",
-    "normalized": "पेन्दा",
-    "display": "पेन्दों",
-    "variants": [],
+    "word": "पेंदा",
+    "normalized": "पेंदा",
+    "display": "पेंदा",
+    "variants":  ["पेन्दा","पेंदा"],
     "pos": "名詞（男）",
     "meaning_ja": "底部",
     "importance": 5,
@@ -8229,7 +8229,7 @@
   {
     "word": "धूम मचना",
     "normalized": "धूम मचना",
-    "display": "धूम मच गई",
+    "display": "धूम मचना",
     "variants": [],
     "pos": "動詞句",
     "meaning_ja": "大騒ぎになる",
@@ -10627,7 +10627,7 @@
   {
     "word": "मुकद्दमा",
     "normalized": "मुकद्दमा",
-    "display": "मुकद्दमे",
+    "display": "मुकद्दमा",
     "variants": [],
     "pos": "名詞（男）",
     "meaning_ja": "事件、訴訟",
@@ -13765,7 +13765,7 @@
   {
     "word": "दर्जा",
     "normalized": "दर्जा",
-    "display": "दर्जे",
+    "display": "दर्जा",
     "variants": [],
     "pos": "名詞（男）",
     "meaning_ja": "等級、クラス",
