@@ -1,5 +1,20 @@
 [
   {
+    "text": "अंगूठी के समान रहना चाहते हैं",
+    "normalized": "अंगूठी के समान रहना चाहते हैं",
+    "meaning": "指輪のように調和しながら共存したい",
+    "meaning_ja": "指輪のように調和しながら共存したい",
+    "type": "symbolic_expression",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "文学"
+    ],
+    "sourceIds": [
+      "academic_026"
+    ]
+  },
+  {
     "text": "अतीत हमारे साथ रहकर हमारे वर्तमान को आकार देता है",
     "normalized": "अतीत हमारे साथ रहकर हमारे वर्तमान को आकार देता है",
     "meaning": "過去は私たちと共にあり、現在を形づくる",
@@ -34,6 +49,21 @@
     ],
     "sourceIds": [
       "academic_024"
+    ]
+  },
+  {
+    "text": "अपना अनोखा अस्तित्व बनाये रखना",
+    "normalized": "अपना अनोखा अस्तित्व बनाये रखना",
+    "meaning": "自らの独自の存在を保ち続ける",
+    "meaning_ja": "自らの独自の存在を保ち続ける",
+    "type": "academic_expression",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "文学"
+    ],
+    "sourceIds": [
+      "academic_026"
     ]
   },
   {
@@ -253,6 +283,21 @@
     ]
   },
   {
+    "text": "किसी की दखलबाजी नहीं चाहते हैं",
+    "normalized": "किसी की दखलबाजी नहीं चाहते हैं",
+    "meaning": "誰かの干渉を望まない",
+    "meaning_ja": "誰かの干渉を望まない",
+    "type": "academic_expression",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "文学"
+    ],
+    "sourceIds": [
+      "academic_026"
+    ]
+  },
+  {
     "text": "गर्भ गिराने की गोली",
     "normalized": "गर्भ गिराने की गोली",
     "meaning": "妊娠を中断するための薬",
@@ -325,6 +370,21 @@
     ]
   },
   {
+    "text": "छल-कपटरहित राज्य में शांति से",
+    "normalized": "छल कपटरहित राज्य में शांति से",
+    "meaning": "欺きや偽りのない国で平和に",
+    "meaning_ja": "欺きや偽りのない国で平和に",
+    "type": "literary_expression",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "文学"
+    ],
+    "sourceIds": [
+      "academic_026"
+    ]
+  },
+  {
     "text": "जाति-पाँति के भेदभाव का विरोध",
     "normalized": "जाति पाँति के भेदभाव का विरोध",
     "meaning": "カースト差別への反対",
@@ -376,6 +436,21 @@
     ],
     "sourceIds": [
       "academic_019"
+    ]
+  },
+  {
+    "text": "दूध के समान ही नेक इरादे",
+    "normalized": "दूध के समान ही नेक इरादे",
+    "meaning": "牛乳のように純粋で善良な意図",
+    "meaning_ja": "牛乳のように純粋で善良な意図",
+    "type": "literary_expression",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "文学"
+    ],
+    "sourceIds": [
+      "academic_026"
     ]
   },
   {

@@ -1,0 +1,482 @@
+[
+  {
+    "word": "परदेसी",
+    "display": "परदेसी",
+    "normalized": "परदेसी",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "異国から来た人、よそ者",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学"
+    ],
+    "sourceIds": [
+      "academic_026"
+    ],
+    "sourceTitle": "Sanjan Ki Kahaniyan",
+    "sourceGenre": "story",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "word": "छावनी",
+    "display": "छावनी",
+    "normalized": "छावनी",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "宿営地、駐屯地",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学"
+    ],
+    "sourceIds": [
+      "academic_026"
+    ],
+    "sourceTitle": "Sanjan Ki Kahaniyan",
+    "sourceGenre": "story",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "word": "नेक",
+    "display": "नेक",
+    "normalized": "नेक",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "善良な、誠実な",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学"
+    ],
+    "sourceIds": [
+      "academic_026"
+    ],
+    "sourceTitle": "Sanjan Ki Kahaniyan",
+    "sourceGenre": "story",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "word": "इरादा",
+    "display": "इरादा",
+    "normalized": "इरादा",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "意図、意思",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学"
+    ],
+    "sourceIds": [
+      "academic_026"
+    ],
+    "sourceTitle": "Sanjan Ki Kahaniyan",
+    "sourceGenre": "story",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "word": "नीयत",
+    "display": "नीयत",
+    "normalized": "नीयत",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "意図、心根",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学"
+    ],
+    "sourceIds": [
+      "academic_026"
+    ],
+    "sourceTitle": "Sanjan Ki Kahaniyan",
+    "sourceGenre": "story",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "word": "आपत्ति",
+    "display": "आपत्ति",
+    "normalized": "आपत्ति",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "異議、反対",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学"
+    ],
+    "sourceIds": [
+      "academic_026"
+    ],
+    "sourceTitle": "Sanjan Ki Kahaniyan",
+    "sourceGenre": "story",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "word": "हथियारबंद",
+    "display": "हथियारबंद",
+    "normalized": "हथियारबंद",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "武装した",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学"
+    ],
+    "sourceIds": [
+      "academic_026"
+    ],
+    "sourceTitle": "Sanjan Ki Kahaniyan",
+    "sourceGenre": "story",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "word": "सावधान",
+    "display": "सावधान",
+    "normalized": "सावधान",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "用心深い、警戒した",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学"
+    ],
+    "sourceIds": [
+      "academic_026"
+    ],
+    "sourceTitle": "Sanjan Ki Kahaniyan",
+    "sourceGenre": "story",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "word": "भंग",
+    "display": "भंग",
+    "normalized": "भंग",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "破壊、中断",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学"
+    ],
+    "sourceIds": [
+      "academic_026"
+    ],
+    "sourceTitle": "Sanjan Ki Kahaniyan",
+    "sourceGenre": "story",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "word": "पारसी",
+    "display": "पारसी",
+    "normalized": "पारसी",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "パールシー教徒",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学"
+    ],
+    "sourceIds": [
+      "academic_026"
+    ],
+    "sourceTitle": "Sanjan Ki Kahaniyan",
+    "sourceGenre": "story",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "word": "ज्ञानी",
+    "display": "ज्ञानी",
+    "normalized": "ज्ञानी",
+    "variants": [],
+    "pos": "名詞・形容詞",
+    "meaning_ja": "賢者、知識のある",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学"
+    ],
+    "sourceIds": [
+      "academic_026"
+    ],
+    "sourceTitle": "Sanjan Ki Kahaniyan",
+    "sourceGenre": "story",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "word": "वयोवृद्ध",
+    "display": "वयोवृद्ध",
+    "normalized": "वयोवृद्ध",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "高齢の、年長の",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学"
+    ],
+    "sourceIds": [
+      "academic_026"
+    ],
+    "sourceTitle": "Sanjan Ki Kahaniyan",
+    "sourceGenre": "story",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "word": "धर्मगुरु",
+    "display": "धर्मगुरु",
+    "normalized": "धर्मगुरु",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "宗教指導者",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学"
+    ],
+    "sourceIds": [
+      "academic_026"
+    ],
+    "sourceTitle": "Sanjan Ki Kahaniyan",
+    "sourceGenre": "story",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "word": "अनुभवी",
+    "display": "अनुभवी",
+    "normalized": "अनुभवी",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "経験豊富な",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学"
+    ],
+    "sourceIds": [
+      "academic_026"
+    ],
+    "sourceTitle": "Sanjan Ki Kahaniyan",
+    "sourceGenre": "story",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "word": "अंगूठी",
+    "display": "अंगूठी",
+    "normalized": "अंगूठी",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "指輪",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学"
+    ],
+    "sourceIds": [
+      "academic_026"
+    ],
+    "sourceTitle": "Sanjan Ki Kahaniyan",
+    "sourceGenre": "story",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "word": "निर्मल",
+    "display": "निर्मल",
+    "normalized": "निर्मल",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "清らかな、純粋な",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学"
+    ],
+    "sourceIds": [
+      "academic_026"
+    ],
+    "sourceTitle": "Sanjan Ki Kahaniyan",
+    "sourceGenre": "story",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "word": "छल-कपट",
+    "display": "छल-कपट",
+    "normalized": "छल कपट",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "欺瞞、偽り",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学"
+    ],
+    "sourceIds": [
+      "academic_026"
+    ],
+    "sourceTitle": "Sanjan Ki Kahaniyan",
+    "sourceGenre": "story",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "word": "कीमती",
+    "display": "कीमती",
+    "normalized": "कीमती",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "貴重な、価値のある",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学"
+    ],
+    "sourceIds": [
+      "academic_026"
+    ],
+    "sourceTitle": "Sanjan Ki Kahaniyan",
+    "sourceGenre": "story",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "word": "अस्तित्व",
+    "display": "अस्तित्व",
+    "normalized": "अस्तित्व",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "存在、独自性",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学"
+    ],
+    "sourceIds": [
+      "academic_026"
+    ],
+    "sourceTitle": "Sanjan Ki Kahaniyan",
+    "sourceGenre": "story",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "word": "प्राणप्रिय",
+    "display": "प्राणप्रिय",
+    "normalized": "प्राणप्रिय",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "何よりも大切な、最愛の",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学"
+    ],
+    "sourceIds": [
+      "academic_026"
+    ],
+    "sourceTitle": "Sanjan Ki Kahaniyan",
+    "sourceGenre": "story",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "word": "दखलबाजी",
+    "display": "दखलबाजी",
+    "normalized": "दखलबाजी",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "干渉、おせっかいな介入",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学"
+    ],
+    "sourceIds": [
+      "academic_026"
+    ],
+    "sourceTitle": "Sanjan Ki Kahaniyan",
+    "sourceGenre": "story",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "word": "दरबार",
+    "display": "दरबार",
+    "normalized": "दरबार",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "宮廷、王の謁見の場",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学"
+    ],
+    "sourceIds": [
+      "academic_026"
+    ],
+    "sourceTitle": "Sanjan Ki Kahaniyan",
+    "sourceGenre": "story",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "word": "पधारना",
+    "display": "पधारना",
+    "normalized": "पधारना",
+    "variants": [],
+    "pos": "自動詞",
+    "meaning_ja": "お越しになる",
+    "importance": 4,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学"
+    ],
+    "sourceIds": [
+      "academic_026"
+    ],
+    "sourceTitle": "Sanjan Ki Kahaniyan",
+    "sourceGenre": "story",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "word": "आमंत्रण",
+    "display": "आमंत्रण",
+    "normalized": "आमंत्रण",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "招待、招請",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学"
+    ],
+    "sourceIds": [
+      "academic_026"
+    ],
+    "sourceTitle": "Sanjan Ki Kahaniyan",
+    "sourceGenre": "story",
+    "sourceRegister": "literary_prose"
+  }
+]

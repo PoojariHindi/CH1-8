@@ -1,929 +1,498 @@
 {
   "summary": {
-    "candidateFiles": 26,
-    "totalCandidates": 841,
-    "newCandidates": 38,
-    "existingCandidates": 803,
+    "candidateFiles": 27,
+    "totalCandidates": 865,
+    "newCandidates": 23,
+    "existingCandidates": 842,
     "duplicateCandidates": 0,
     "hardStopwords": 0,
     "softStopwordReviews": 0
   },
   "newCandidates": [
     {
-      "word": "आनंद-विभोर",
-      "display": "आनंद-विभोर",
-      "normalized": "आनंद विभोर",
-      "variants": [],
-      "pos": "形容詞",
-      "meaning_ja": "歓喜に浸った、喜びに満ちた",
-      "importance": 5,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "文学",
-        "評論",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_025"
-      ],
-      "sourceTitle": "गेहूँ बनाम गुलाब",
-      "sourceGenre": "academic_prose",
-      "sourceRegister": "textbook",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "उच्छ्वसित",
-      "display": "उच्छ्वसित",
-      "normalized": "उच्छ्वसित",
-      "variants": [],
-      "pos": "形容詞",
-      "meaning_ja": "歓喜に満ちた、心躍る",
-      "importance": 5,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "文学",
-        "評論",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_025"
-      ],
-      "sourceTitle": "गेहूँ बनाम गुलाब",
-      "sourceGenre": "academic_prose",
-      "sourceRegister": "textbook",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "उषा",
-      "display": "उषा",
-      "normalized": "उषा",
+      "word": "आपत्ति",
+      "display": "आपत्ति",
+      "normalized": "आपत्ति",
       "variants": [],
       "pos": "名詞（女）",
-      "meaning_ja": "夜明け、暁",
+      "meaning_ja": "異議、反対",
       "importance": 5,
       "status": "active",
       "category": "academic",
       "tags": [
-        "教科書",
-        "文学",
-        "評論",
-        "抽象語"
+        "文学"
       ],
       "sourceIds": [
-        "academic_025"
+        "academic_026"
       ],
-      "sourceTitle": "गेहूँ बनाम गुलाब",
-      "sourceGenre": "academic_prose",
-      "sourceRegister": "textbook",
+      "sourceTitle": "Sanjan Ki Kahaniyan",
+      "sourceGenre": "story",
+      "sourceRegister": "literary_prose",
       "audit": "new_candidate"
     },
     {
-      "word": "क्षुधा",
-      "display": "क्षुधा",
-      "normalized": "क्षुधा",
-      "variants": [],
-      "pos": "名詞（女）",
-      "meaning_ja": "飢え、空腹",
-      "importance": 5,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "文学",
-        "評論",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_025"
-      ],
-      "sourceTitle": "गेहूँ बनाम गुलाब",
-      "sourceGenre": "academic_prose",
-      "sourceRegister": "textbook",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "चेष्टा",
-      "display": "चेष्टा",
-      "normalized": "चेष्टा",
-      "variants": [],
-      "pos": "名詞（女）",
-      "meaning_ja": "努力、試み、行為",
-      "importance": 5,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "文学",
-        "評論",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_025"
-      ],
-      "sourceTitle": "गेहूँ बनाम गुलाब",
-      "sourceGenre": "academic_prose",
-      "sourceRegister": "textbook",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "तपस्या",
-      "display": "तपस्या",
-      "normalized": "तपस्या",
-      "variants": [],
-      "pos": "名詞（女）",
-      "meaning_ja": "苦行、修行",
-      "importance": 5,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "文学",
-        "評論",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_025"
-      ],
-      "sourceTitle": "गेहूँ बनाम गुलाब",
-      "sourceGenre": "academic_prose",
-      "sourceRegister": "textbook",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "तरजीह",
-      "display": "तरजीह",
-      "normalized": "तरजीह",
-      "variants": [],
-      "pos": "名詞（女）",
-      "meaning_ja": "優先、重視",
-      "importance": 5,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "文学",
-        "評論",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_025"
-      ],
-      "sourceTitle": "गेहूँ बनाम गुलाब",
-      "sourceGenre": "academic_prose",
-      "sourceRegister": "textbook",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "तृप्त",
-      "display": "तृप्त",
-      "normalized": "तृप्त",
-      "variants": [],
-      "pos": "形容詞",
-      "meaning_ja": "満たされた、満足した",
-      "importance": 5,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "文学",
-        "評論",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_025"
-      ],
-      "sourceTitle": "गेहूँ बनाम गुलाब",
-      "sourceGenre": "academic_prose",
-      "sourceRegister": "textbook",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "नारकीय",
-      "display": "नारकीय",
-      "normalized": "नारकीय",
-      "variants": [],
-      "pos": "形容詞",
-      "meaning_ja": "地獄のような",
-      "importance": 5,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "文学",
-        "評論",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_025"
-      ],
-      "sourceTitle": "गेहूँ बनाम गुलाब",
-      "sourceGenre": "academic_prose",
-      "sourceRegister": "textbook",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "पिपासा",
-      "display": "पिपासा",
-      "normalized": "पिपासा",
-      "variants": [],
-      "pos": "名詞（女）",
-      "meaning_ja": "渇き、渇望",
-      "importance": 5,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "文学",
-        "評論",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_025"
-      ],
-      "sourceTitle": "गेहूँ बनाम गुलाब",
-      "sourceGenre": "academic_prose",
-      "sourceRegister": "textbook",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "पुष्टि",
-      "display": "पुष्टि",
-      "normalized": "पुष्टि",
-      "variants": [],
-      "pos": "名詞（女）",
-      "meaning_ja": "栄養補給、養い、確認",
-      "importance": 5,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "文学",
-        "評論",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_025"
-      ],
-      "sourceTitle": "गेहूँ बनाम गुलाब",
-      "sourceGenre": "academic_prose",
-      "sourceRegister": "textbook",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "पेट-पूजा",
-      "display": "पेट-पूजा",
-      "normalized": "पेट पूजा",
-      "variants": [],
-      "pos": "名詞（女）",
-      "meaning_ja": "腹ごしらえ、食べること",
-      "importance": 5,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "文学",
-        "評論",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_025"
-      ],
-      "sourceTitle": "गेहूँ बनाम गुलाब",
-      "sourceGenre": "academic_prose",
-      "sourceRegister": "textbook",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "प्रस्फुटित",
-      "display": "प्रस्फुटित",
-      "normalized": "प्रस्फुटित",
-      "variants": [],
-      "pos": "形容詞",
-      "meaning_ja": "開花した、現れ出た",
-      "importance": 5,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "文学",
-        "評論",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_025"
-      ],
-      "sourceTitle": "गेहूँ बनाम गुलाब",
-      "sourceGenre": "academic_prose",
-      "sourceRegister": "textbook",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "मानस",
-      "display": "मानस",
-      "normalized": "मानस",
+      "word": "आमंत्रण",
+      "display": "आमंत्रण",
+      "normalized": "आमंत्रण",
       "variants": [],
       "pos": "名詞（男）",
-      "meaning_ja": "精神、心",
+      "meaning_ja": "招待、招請",
       "importance": 5,
       "status": "active",
       "category": "academic",
       "tags": [
-        "教科書",
-        "文学",
-        "評論",
-        "抽象語"
+        "文学"
       ],
       "sourceIds": [
-        "academic_025"
+        "academic_026"
       ],
-      "sourceTitle": "गेहूँ बनाम गुलाब",
-      "sourceGenre": "academic_prose",
-      "sourceRegister": "textbook",
+      "sourceTitle": "Sanjan Ki Kahaniyan",
+      "sourceGenre": "story",
+      "sourceRegister": "literary_prose",
       "audit": "new_candidate"
     },
     {
-      "word": "यंत्रणाएँ",
-      "display": "यंत्रणा",
-      "normalized": "यंत्रणा",
+      "word": "इरादा",
+      "display": "इरादा",
+      "normalized": "इरादा",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "意図、意思",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "文学"
+      ],
+      "sourceIds": [
+        "academic_026"
+      ],
+      "sourceTitle": "Sanjan Ki Kahaniyan",
+      "sourceGenre": "story",
+      "sourceRegister": "literary_prose",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "छल-कपट",
+      "display": "छल-कपट",
+      "normalized": "छल कपट",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "欺瞞、偽り",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "文学"
+      ],
+      "sourceIds": [
+        "academic_026"
+      ],
+      "sourceTitle": "Sanjan Ki Kahaniyan",
+      "sourceGenre": "story",
+      "sourceRegister": "literary_prose",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "दखलबाजी",
+      "display": "दखलबाजी",
+      "normalized": "दखलबाजी",
       "variants": [],
       "pos": "名詞（女）",
-      "meaning_ja": "苦痛、責め苦",
+      "meaning_ja": "干渉、おせっかいな介入",
       "importance": 5,
       "status": "active",
       "category": "academic",
       "tags": [
-        "教科書",
-        "文学",
-        "評論",
-        "抽象語"
+        "文学"
       ],
       "sourceIds": [
-        "academic_025"
+        "academic_026"
       ],
-      "sourceTitle": "गेहूँ बनाम गुलाब",
-      "sourceGenre": "academic_prose",
-      "sourceRegister": "textbook",
+      "sourceTitle": "Sanjan Ki Kahaniyan",
+      "sourceGenre": "story",
+      "sourceRegister": "literary_prose",
       "audit": "new_candidate"
     },
     {
-      "word": "वृत्तियों",
-      "display": "वृत्ति",
-      "normalized": "वृत्ति",
+      "word": "धर्मगुरु",
+      "display": "धर्मगुरु",
+      "normalized": "धर्मगुरु",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "宗教指導者",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "文学"
+      ],
+      "sourceIds": [
+        "academic_026"
+      ],
+      "sourceTitle": "Sanjan Ki Kahaniyan",
+      "sourceGenre": "story",
+      "sourceRegister": "literary_prose",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "निर्मल",
+      "display": "निर्मल",
+      "normalized": "निर्मल",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "清らかな、純粋な",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "文学"
+      ],
+      "sourceIds": [
+        "academic_026"
+      ],
+      "sourceTitle": "Sanjan Ki Kahaniyan",
+      "sourceGenre": "story",
+      "sourceRegister": "literary_prose",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "नीयत",
+      "display": "नीयत",
+      "normalized": "नीयत",
       "variants": [],
       "pos": "名詞（女）",
-      "meaning_ja": "傾向、性向、精神的働き",
+      "meaning_ja": "意図、心根",
       "importance": 5,
       "status": "active",
       "category": "academic",
       "tags": [
-        "教科書",
-        "文学",
-        "評論",
-        "抽象語"
+        "文学"
       ],
       "sourceIds": [
-        "academic_025"
+        "academic_026"
       ],
-      "sourceTitle": "गेहूँ बनाम गुलाब",
-      "sourceGenre": "academic_prose",
-      "sourceRegister": "textbook",
+      "sourceTitle": "Sanjan Ki Kahaniyan",
+      "sourceGenre": "story",
+      "sourceRegister": "literary_prose",
       "audit": "new_candidate"
     },
     {
-      "word": "व्रत",
-      "display": "व्रत",
-      "normalized": "व्रत",
+      "word": "नेक",
+      "display": "नेक",
+      "normalized": "नेक",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "善良な、誠実な",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "文学"
+      ],
+      "sourceIds": [
+        "academic_026"
+      ],
+      "sourceTitle": "Sanjan Ki Kahaniyan",
+      "sourceGenre": "story",
+      "sourceRegister": "literary_prose",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "परदेसी",
+      "display": "परदेसी",
+      "normalized": "परदेसी",
       "variants": [],
       "pos": "名詞（男）",
-      "meaning_ja": "誓願、宗教的断食",
+      "meaning_ja": "異国から来た人、よそ者",
       "importance": 5,
       "status": "active",
       "category": "academic",
       "tags": [
-        "教科書",
-        "文学",
-        "評論",
-        "抽象語"
+        "文学"
       ],
       "sourceIds": [
-        "academic_025"
+        "academic_026"
       ],
-      "sourceTitle": "गेहूँ बनाम गुलाब",
-      "sourceGenre": "academic_prose",
-      "sourceRegister": "textbook",
+      "sourceTitle": "Sanjan Ki Kahaniyan",
+      "sourceGenre": "story",
+      "sourceRegister": "literary_prose",
       "audit": "new_candidate"
     },
     {
-      "word": "शनैः-शनैः",
-      "display": "शनैः-शनैः",
-      "normalized": "शनै शनै",
-      "variants": [],
-      "pos": "副詞",
-      "meaning_ja": "徐々に、ゆっくりと",
-      "importance": 5,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "文学",
-        "評論",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_025"
-      ],
-      "sourceTitle": "गेहूँ बनाम गुलाब",
-      "sourceGenre": "academic_prose",
-      "sourceRegister": "textbook",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "श्रम",
-      "display": "श्रम",
-      "normalized": "श्रम",
+      "word": "पारसी",
+      "display": "पारसी",
+      "normalized": "पारसी",
       "variants": [],
       "pos": "名詞（男）",
-      "meaning_ja": "労働、労苦",
+      "meaning_ja": "パールシー教徒",
       "importance": 5,
       "status": "active",
       "category": "academic",
       "tags": [
-        "教科書",
-        "文学",
-        "評論",
-        "抽象語"
+        "文学"
       ],
       "sourceIds": [
-        "academic_025"
+        "academic_026"
       ],
-      "sourceTitle": "गेहूँ बनाम गुलाब",
-      "sourceGenre": "academic_prose",
-      "sourceRegister": "textbook",
+      "sourceTitle": "Sanjan Ki Kahaniyan",
+      "sourceGenre": "story",
+      "sourceRegister": "literary_prose",
       "audit": "new_candidate"
     },
     {
-      "word": "समतुलन",
-      "display": "समतुलन",
-      "normalized": "समतुलन",
+      "word": "पेन्दा",
+      "display": "पेन्दा",
+      "normalized": "पेन्दा",
       "variants": [],
       "pos": "名詞（男）",
-      "meaning_ja": "均衡、バランス",
+      "meaning_ja": "底部",
       "importance": 5,
       "status": "active",
       "category": "academic",
       "tags": [
-        "教科書",
         "文学",
-        "評論",
-        "抽象語"
+        "小説",
+        "人物描写",
+        "犯罪・捜査"
       ],
       "sourceIds": [
-        "academic_025"
+        "academic_020"
       ],
-      "sourceTitle": "गेहूँ बनाम गुलाब",
-      "sourceGenre": "academic_prose",
-      "sourceRegister": "textbook",
+      "sourceTitle": "Mukhabir",
+      "sourceGenre": "novel",
+      "sourceRegister": "literary_prose",
       "audit": "new_candidate"
     },
     {
-      "word": "समिधा",
-      "display": "समिधा",
-      "normalized": "समिधा",
+      "word": "प्राणप्रिय",
+      "display": "प्राणप्रिय",
+      "normalized": "प्राणप्रिय",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "何よりも大切な、最愛の",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "文学"
+      ],
+      "sourceIds": [
+        "academic_026"
+      ],
+      "sourceTitle": "Sanjan Ki Kahaniyan",
+      "sourceGenre": "story",
+      "sourceRegister": "literary_prose",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "वयोवृद्ध",
+      "display": "वयोवृद्ध",
+      "normalized": "वयोवृद्ध",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "高齢の、年長の",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "文学"
+      ],
+      "sourceIds": [
+        "academic_026"
+      ],
+      "sourceTitle": "Sanjan Ki Kahaniyan",
+      "sourceGenre": "story",
+      "sourceRegister": "literary_prose",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "अंगूठी",
+      "display": "अंगूठी",
+      "normalized": "अंगूठी",
       "variants": [],
       "pos": "名詞（女）",
-      "meaning_ja": "祭火にくべる薪、供木",
-      "importance": 5,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "文学",
-        "評論",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_025"
-      ],
-      "sourceTitle": "गेहूँ बनाम गुलाब",
-      "sourceGenre": "academic_prose",
-      "sourceRegister": "textbook",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "सौंदर्य-बोध",
-      "display": "सौंदर्य-बोध",
-      "normalized": "सौंदर्य बोध",
-      "variants": [],
-      "pos": "名詞（男）",
-      "meaning_ja": "美意識、美の感覚",
-      "importance": 5,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "文学",
-        "評論",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_025"
-      ],
-      "sourceTitle": "गेहूँ बनाम गुलाब",
-      "sourceGenre": "academic_prose",
-      "sourceRegister": "textbook",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "उपजाओ",
-      "display": "उपजाना",
-      "normalized": "उपजाना",
-      "variants": [],
-      "pos": "他動詞",
-      "meaning_ja": "生産する、栽培する",
+      "meaning_ja": "指輪",
       "importance": 4,
       "status": "active",
       "category": "academic",
       "tags": [
-        "教科書",
-        "文学",
-        "評論",
-        "抽象語"
+        "文学"
       ],
       "sourceIds": [
-        "academic_025"
+        "academic_026"
       ],
-      "sourceTitle": "गेहूँ बनाम गुलाब",
-      "sourceGenre": "academic_prose",
-      "sourceRegister": "textbook",
+      "sourceTitle": "Sanjan Ki Kahaniyan",
+      "sourceGenre": "story",
+      "sourceRegister": "literary_prose",
       "audit": "new_candidate"
     },
     {
-      "word": "उपवास",
-      "display": "उपवास",
-      "normalized": "उपवास",
+      "word": "अनुभवी",
+      "display": "अनुभवी",
+      "normalized": "अनुभवी",
       "variants": [],
-      "pos": "名詞（男）",
-      "meaning_ja": "断食、斎戒",
+      "pos": "形容詞",
+      "meaning_ja": "経験豊富な",
       "importance": 4,
       "status": "active",
       "category": "academic",
       "tags": [
-        "教科書",
-        "文学",
-        "評論",
-        "抽象語"
+        "文学"
       ],
       "sourceIds": [
-        "academic_025"
+        "academic_026"
       ],
-      "sourceTitle": "गेहूँ बनाम गुलाब",
-      "sourceGenre": "academic_prose",
-      "sourceRegister": "textbook",
+      "sourceTitle": "Sanjan Ki Kahaniyan",
+      "sourceGenre": "story",
+      "sourceRegister": "literary_prose",
       "audit": "new_candidate"
     },
     {
-      "word": "उमड़े",
-      "display": "उमड़ना",
-      "normalized": "उमड़ना",
+      "word": "कीमती",
+      "display": "कीमती",
+      "normalized": "कीमती",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "貴重な、価値のある",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "文学"
+      ],
+      "sourceIds": [
+        "academic_026"
+      ],
+      "sourceTitle": "Sanjan Ki Kahaniyan",
+      "sourceGenre": "story",
+      "sourceRegister": "literary_prose",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "छावनी",
+      "display": "छावनी",
+      "normalized": "छावनी",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "宿営地、駐屯地",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "文学"
+      ],
+      "sourceIds": [
+        "academic_026"
+      ],
+      "sourceTitle": "Sanjan Ki Kahaniyan",
+      "sourceGenre": "story",
+      "sourceRegister": "literary_prose",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "ज्ञानी",
+      "display": "ज्ञानी",
+      "normalized": "ज्ञानी",
+      "variants": [],
+      "pos": "名詞・形容詞",
+      "meaning_ja": "賢者、知識のある",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "文学"
+      ],
+      "sourceIds": [
+        "academic_026"
+      ],
+      "sourceTitle": "Sanjan Ki Kahaniyan",
+      "sourceGenre": "story",
+      "sourceRegister": "literary_prose",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "दरबार",
+      "display": "दरबार",
+      "normalized": "दरबार",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "宮廷、王の謁見の場",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "文学"
+      ],
+      "sourceIds": [
+        "academic_026"
+      ],
+      "sourceTitle": "Sanjan Ki Kahaniyan",
+      "sourceGenre": "story",
+      "sourceRegister": "literary_prose",
+      "audit": "new_candidate"
+    },
+    {
+      "word": "पधारना",
+      "display": "पधारना",
+      "normalized": "पधारना",
       "variants": [],
       "pos": "自動詞",
-      "meaning_ja": "湧き上がる、押し寄せる",
+      "meaning_ja": "お越しになる",
       "importance": 4,
       "status": "active",
       "category": "academic",
       "tags": [
-        "教科書",
-        "文学",
-        "評論",
-        "抽象語"
+        "文学"
       ],
       "sourceIds": [
-        "academic_025"
+        "academic_026"
       ],
-      "sourceTitle": "गेहूँ बनाम गुलाब",
-      "sourceGenre": "academic_prose",
-      "sourceRegister": "textbook",
+      "sourceTitle": "Sanjan Ki Kahaniyan",
+      "sourceGenre": "story",
+      "sourceRegister": "literary_prose",
       "audit": "new_candidate"
     },
     {
-      "word": "ऊखल",
-      "display": "ऊखल",
-      "normalized": "ऊखल",
-      "variants": [],
-      "pos": "名詞（男）",
-      "meaning_ja": "臼",
-      "importance": 4,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "文学",
-        "評論",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_025"
-      ],
-      "sourceTitle": "गेहूँ बनाम गुलाब",
-      "sourceGenre": "academic_prose",
-      "sourceRegister": "textbook",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "काफिला",
-      "display": "काफिला",
-      "normalized": "काफिला",
-      "variants": [],
-      "pos": "名詞（男）",
-      "meaning_ja": "隊列、一団、行列",
-      "importance": 4,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "文学",
-        "評論",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_025"
-      ],
-      "sourceTitle": "गेहूँ बनाम गुलाब",
-      "sourceGenre": "academic_prose",
-      "sourceRegister": "textbook",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "कीट",
-      "display": "कीट",
-      "normalized": "कीट",
-      "variants": [],
-      "pos": "名詞（男）",
-      "meaning_ja": "昆虫",
-      "importance": 4,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "文学",
-        "評論",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_025"
-      ],
-      "sourceTitle": "गेहूँ बनाम गुलाब",
-      "sourceGenre": "academic_prose",
-      "sourceRegister": "textbook",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "झकझोरा",
-      "display": "झकझोरना",
-      "normalized": "झकझोरना",
-      "variants": [],
-      "pos": "他動詞",
-      "meaning_ja": "激しく揺さぶる",
-      "importance": 4,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "文学",
-        "評論",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_025"
-      ],
-      "sourceTitle": "गेहूँ बनाम गुलाब",
-      "sourceGenre": "academic_prose",
-      "sourceRegister": "textbook",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "तुरही",
-      "display": "तुरही",
-      "normalized": "तुरही",
-      "variants": [],
-      "pos": "名詞（女）",
-      "meaning_ja": "ラッパ、角笛",
-      "importance": 4,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "文学",
-        "評論",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_025"
-      ],
-      "sourceTitle": "गेहूँ बनाम गुलाब",
-      "sourceGenre": "academic_prose",
-      "sourceRegister": "textbook",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "पतवार",
-      "display": "पतवार",
-      "normalized": "पतवार",
-      "variants": [],
-      "pos": "名詞（女）",
-      "meaning_ja": "櫂、オール",
-      "importance": 4,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "文学",
-        "評論",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_025"
-      ],
-      "sourceTitle": "गेहूँ बनाम गुलाब",
-      "sourceGenre": "academic_prose",
-      "sourceRegister": "textbook",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "बनाम",
-      "display": "बनाम",
-      "normalized": "बनाम",
-      "variants": [],
-      "pos": "前置詞・後置詞",
-      "meaning_ja": "〜対〜、〜に対して",
-      "importance": 4,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "文学",
-        "評論",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_025"
-      ],
-      "sourceTitle": "गेहूँ बनाम गुलाब",
-      "sourceGenre": "academic_prose",
-      "sourceRegister": "textbook",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "बर्तन-भाँड़े",
-      "display": "बर्तन-भाँड़ा",
-      "normalized": "बर्तन भांडे",
-      "variants": [
-        "बर्तन-भांड़े",
-        "बर्तन भाँड़े",
-        "बर्तन भांड़े"
-      ],
-      "pos": "名詞（男）",
-      "meaning_ja": "鍋釜、食器類",
-      "importance": 4,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "文学",
-        "自伝",
-        "教育",
-        "社会",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_024"
-      ],
-      "sourceTitle": "भाग 1",
-      "sourceGenre": "essay",
-      "sourceRegister": "academic_prose",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "लाचार",
-      "display": "लाचार",
-      "normalized": "लाचार",
+      "word": "सावधान",
+      "display": "सावधान",
+      "normalized": "सावधान",
       "variants": [],
       "pos": "形容詞",
-      "meaning_ja": "やむを得ない、どうしようもない",
+      "meaning_ja": "用心深い、警戒した",
       "importance": 4,
       "status": "active",
       "category": "academic",
       "tags": [
-        "教科書",
-        "文学",
-        "評論",
-        "抽象語"
+        "文学"
       ],
       "sourceIds": [
-        "academic_025"
+        "academic_026"
       ],
-      "sourceTitle": "गेहूँ बनाम गुलाब",
-      "sourceGenre": "academic_prose",
-      "sourceRegister": "textbook",
+      "sourceTitle": "Sanjan Ki Kahaniyan",
+      "sourceGenre": "story",
+      "sourceRegister": "literary_prose",
       "audit": "new_candidate"
     },
     {
-      "word": "लालिमा",
-      "display": "लालिमा",
-      "normalized": "लालिमा",
+      "word": "हथियारबंद",
+      "display": "हथियारबंद",
+      "normalized": "हथियारबंद",
       "variants": [],
-      "pos": "名詞（女）",
-      "meaning_ja": "赤み、紅色",
+      "pos": "形容詞",
+      "meaning_ja": "武装した",
       "importance": 4,
       "status": "active",
       "category": "academic",
       "tags": [
-        "教科書",
-        "文学",
-        "評論",
-        "抽象語"
+        "文学"
       ],
       "sourceIds": [
-        "academic_025"
+        "academic_026"
       ],
-      "sourceTitle": "गेहूँ बनाम गुलाब",
-      "sourceGenre": "academic_prose",
-      "sourceRegister": "textbook",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "सहूलियत",
-      "display": "सहूलियत",
-      "normalized": "सहूलियत",
-      "variants": [],
-      "pos": "名詞（女）",
-      "meaning_ja": "便宜、都合のよさ",
-      "importance": 4,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "文学",
-        "評論",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_025"
-      ],
-      "sourceTitle": "गेहूँ बनाम गुलाब",
-      "sourceGenre": "academic_prose",
-      "sourceRegister": "textbook",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "सानंद",
-      "display": "सानंद",
-      "normalized": "सानंद",
-      "variants": [],
-      "pos": "副詞・形容詞",
-      "meaning_ja": "喜んで、喜びに満ちて",
-      "importance": 4,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "文学",
-        "評論",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_025"
-      ],
-      "sourceTitle": "गेहूँ बनाम गुलाब",
-      "sourceGenre": "academic_prose",
-      "sourceRegister": "textbook",
-      "audit": "new_candidate"
-    },
-    {
-      "word": "सिसकियाँ",
-      "display": "सिसकी",
-      "normalized": "सिसकी",
-      "variants": [],
-      "pos": "名詞（女）",
-      "meaning_ja": "すすり泣き",
-      "importance": 4,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "教科書",
-        "文学",
-        "評論",
-        "抽象語"
-      ],
-      "sourceIds": [
-        "academic_025"
-      ],
-      "sourceTitle": "गेहूँ बनाम गुलाब",
-      "sourceGenre": "academic_prose",
-      "sourceRegister": "textbook",
+      "sourceTitle": "Sanjan Ki Kahaniyan",
+      "sourceGenre": "story",
+      "sourceRegister": "literary_prose",
       "audit": "new_candidate"
     }
   ],
@@ -2316,7 +1885,7 @@
     },
     {
       "word": "ज़िन्दगी",
-      "display": "जिंदगी",
+      "display": "ज़िन्दगी",
       "normalized": "जिंदगी",
       "variants": [
         "ज़िन्दगी",
@@ -14972,7 +14541,7 @@
     },
     {
       "word": "तहबन्द",
-      "display": "तहबन्द",
+      "display": "तहबंद",
       "normalized": "तहबंद",
       "variants": [
         "तहबंद"
@@ -14998,7 +14567,7 @@
     },
     {
       "word": "शोरबा",
-      "display": "शोरबे",
+      "display": "शोरबा",
       "normalized": "शोरबा",
       "variants": [],
       "pos": "名詞（男）",
@@ -16015,30 +15584,6 @@
       ],
       "pos": "形容詞",
       "meaning_ja": "秘密の、隠された",
-      "importance": 5,
-      "status": "active",
-      "category": "academic",
-      "tags": [
-        "文学",
-        "小説",
-        "人物描写",
-        "犯罪・捜査"
-      ],
-      "sourceIds": [
-        "academic_020"
-      ],
-      "sourceTitle": "Mukhabir",
-      "sourceGenre": "novel",
-      "sourceRegister": "literary_prose",
-      "audit": "existing_in_master"
-    },
-    {
-      "word": "पेंदा",
-      "display": "पेंदा",
-      "normalized": "पेंदा",
-      "variants": ["पेन्दा","पेंदा"],
-      "pos": "名詞（男）",
-      "meaning_ja": "底部",
       "importance": 5,
       "status": "active",
       "category": "academic",
@@ -19915,6 +19460,35 @@
       "audit": "existing_in_master"
     },
     {
+      "word": "बर्तन-भाँड़ा",
+      "display": "बर्तन-भाँड़ा",
+      "normalized": "बर्तन भांडे",
+      "variants": [
+        "बर्तन-भांड़े",
+        "बर्तन भाँड़े",
+        "बर्तन भांड़े"
+      ],
+      "pos": "名詞（男・複）",
+      "meaning_ja": "鍋釜、食器類",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "文学",
+        "自伝",
+        "教育",
+        "社会",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_024"
+      ],
+      "sourceTitle": "भाग 1",
+      "sourceGenre": "essay",
+      "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
       "word": "सुखद स्मृतियाँ",
       "display": "सुखद स्मृति",
       "normalized": "सुखद स्मृति",
@@ -20116,6 +19690,936 @@
       "sourceTitle": "भाग 1",
       "sourceGenre": "essay",
       "sourceRegister": "academic_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "बनाम",
+      "display": "बनाम",
+      "normalized": "बनाम",
+      "variants": [],
+      "pos": "前置詞・後置詞",
+      "meaning_ja": "〜対〜、〜に対して",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学",
+        "評論",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_025"
+      ],
+      "sourceTitle": "गेहूँ बनाम गुलाब",
+      "sourceGenre": "academic_prose",
+      "sourceRegister": "textbook",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "पुष्टि",
+      "display": "पुष्टि",
+      "normalized": "पुष्टि",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "栄養補給、養い、確認",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学",
+        "評論",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_025"
+      ],
+      "sourceTitle": "गेहूँ बनाम गुलाब",
+      "sourceGenre": "academic_prose",
+      "sourceRegister": "textbook",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "मानस",
+      "display": "मानस",
+      "normalized": "मानस",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "精神、心",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学",
+        "評論",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_025"
+      ],
+      "sourceTitle": "गेहूँ बनाम गुलाब",
+      "sourceGenre": "academic_prose",
+      "sourceRegister": "textbook",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "तृप्त",
+      "display": "तृप्त",
+      "normalized": "तृप्त",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "満たされた、満足した",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学",
+        "評論",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_025"
+      ],
+      "sourceTitle": "गेहूँ बनाम गुलाब",
+      "sourceGenre": "academic_prose",
+      "sourceRegister": "textbook",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "क्षुधा",
+      "display": "क्षुधा",
+      "normalized": "क्षुधा",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "飢え、空腹",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学",
+        "評論",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_025"
+      ],
+      "sourceTitle": "गेहूँ बनाम गुलाब",
+      "sourceGenre": "academic_prose",
+      "sourceRegister": "textbook",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "पिपासा",
+      "display": "पिपासा",
+      "normalized": "पिपासा",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "渇き、渇望",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学",
+        "評論",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_025"
+      ],
+      "sourceTitle": "गेहूँ बनाम गुलाब",
+      "sourceGenre": "academic_prose",
+      "sourceRegister": "textbook",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "झकझोरा",
+      "display": "झकझोरना",
+      "normalized": "झकझोरना",
+      "variants": [],
+      "pos": "他動詞",
+      "meaning_ja": "激しく揺さぶる",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学",
+        "評論",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_025"
+      ],
+      "sourceTitle": "गेहूँ बनाम गुलाब",
+      "sourceGenre": "academic_prose",
+      "sourceRegister": "textbook",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "कीट",
+      "display": "कीट",
+      "normalized": "कीट",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "昆虫",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学",
+        "評論",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_025"
+      ],
+      "sourceTitle": "गेहूँ बनाम गुलाब",
+      "sourceGenre": "academic_prose",
+      "sourceRegister": "textbook",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "काफिला",
+      "display": "काफिला",
+      "normalized": "काफिला",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "隊列、一団、行列",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学",
+        "評論",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_025"
+      ],
+      "sourceTitle": "गेहूँ बनाम गुलाब",
+      "sourceGenre": "academic_prose",
+      "sourceRegister": "textbook",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "उपजाना",
+      "display": "उपजाना",
+      "normalized": "उपजाना",
+      "variants": [],
+      "pos": "他動詞",
+      "meaning_ja": "生産する、栽培する",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学",
+        "評論",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_025"
+      ],
+      "sourceTitle": "गेहूँ बनाम गुलाब",
+      "sourceGenre": "academic_prose",
+      "sourceRegister": "textbook",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "सिसकी",
+      "display": "सिसकी",
+      "normalized": "सिसकी",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "すすり泣き",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学",
+        "評論",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_025"
+      ],
+      "sourceTitle": "गेहूँ बनाम गुलाब",
+      "sourceGenre": "academic_prose",
+      "sourceRegister": "textbook",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "वृत्ति",
+      "display": "वृत्ति",
+      "normalized": "वृत्ति",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "傾向、性向、精神的働き",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学",
+        "評論",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_025"
+      ],
+      "sourceTitle": "गेहूँ बनाम गुलाब",
+      "sourceGenre": "academic_prose",
+      "sourceRegister": "textbook",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "तरजीह",
+      "display": "तरजीह",
+      "normalized": "तरजीह",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "優先、重視",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学",
+        "評論",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_025"
+      ],
+      "sourceTitle": "गेहूँ बनाम गुलाब",
+      "sourceGenre": "academic_prose",
+      "sourceRegister": "textbook",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "ऊखल",
+      "display": "ऊखल",
+      "normalized": "ऊखल",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "臼",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学",
+        "評論",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_025"
+      ],
+      "sourceTitle": "गेहूँ बनाम गुलाब",
+      "sourceGenre": "academic_prose",
+      "sourceRegister": "textbook",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "तुरही",
+      "display": "तुरही",
+      "normalized": "तुरही",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "ラッパ、角笛",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学",
+        "評論",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_025"
+      ],
+      "sourceTitle": "गेहूँ बनाम गुलाब",
+      "sourceGenre": "academic_prose",
+      "sourceRegister": "textbook",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "पतवार",
+      "display": "पतवार",
+      "normalized": "पतवार",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "櫂、オール",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学",
+        "評論",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_025"
+      ],
+      "sourceTitle": "गेहूँ बनाम गुलाब",
+      "sourceGenre": "academic_prose",
+      "sourceRegister": "textbook",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "उच्छ्वसित",
+      "display": "उच्छ्वसित",
+      "normalized": "उच्छ्वसित",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "歓喜に満ちた、心躍る",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学",
+        "評論",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_025"
+      ],
+      "sourceTitle": "गेहूँ बनाम गुलाब",
+      "sourceGenre": "academic_prose",
+      "sourceRegister": "textbook",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "पेट-पूजा",
+      "display": "पेट-पूजा",
+      "normalized": "पेट पूजा",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "腹ごしらえ、食べること",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学",
+        "評論",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_025"
+      ],
+      "sourceTitle": "गेहूँ बनाम गुलाब",
+      "sourceGenre": "academic_prose",
+      "sourceRegister": "textbook",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "समिधा",
+      "display": "समिधा",
+      "normalized": "समिधा",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "祭火にくべる薪、供木",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学",
+        "評論",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_025"
+      ],
+      "sourceTitle": "गेहूँ बनाम गुलाब",
+      "sourceGenre": "academic_prose",
+      "sourceRegister": "textbook",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "सहूलियत",
+      "display": "सहूलियत",
+      "normalized": "सहूलियत",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "便宜、都合のよさ",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学",
+        "評論",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_025"
+      ],
+      "sourceTitle": "गेहूँ बनाम गुलाब",
+      "sourceGenre": "academic_prose",
+      "sourceRegister": "textbook",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "आनंद-विभोर",
+      "display": "आनंद-विभोर",
+      "normalized": "आनंद विभोर",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "歓喜に浸った、喜びに満ちた",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学",
+        "評論",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_025"
+      ],
+      "sourceTitle": "गेहूँ बनाम गुलाब",
+      "sourceGenre": "academic_prose",
+      "sourceRegister": "textbook",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "उषा",
+      "display": "उषा",
+      "normalized": "उषा",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "夜明け、暁",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学",
+        "評論",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_025"
+      ],
+      "sourceTitle": "गेहूँ बनाम गुलाब",
+      "sourceGenre": "academic_prose",
+      "sourceRegister": "textbook",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "लालिमा",
+      "display": "लालिमा",
+      "normalized": "लालिमा",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "赤み、紅色",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学",
+        "評論",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_025"
+      ],
+      "sourceTitle": "गेहूँ बनाम गुलाब",
+      "sourceGenre": "academic_prose",
+      "sourceRegister": "textbook",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "शनैः-शनैः",
+      "display": "शनैः-शनैः",
+      "normalized": "शनै शनै",
+      "variants": [],
+      "pos": "副詞",
+      "meaning_ja": "徐々に、ゆっくりと",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学",
+        "評論",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_025"
+      ],
+      "sourceTitle": "गेहूँ बनाम गुलाब",
+      "sourceGenre": "academic_prose",
+      "sourceRegister": "textbook",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "प्रस्फुटित",
+      "display": "प्रस्फुटित",
+      "normalized": "प्रस्फुटित",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "開花した、現れ出た",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学",
+        "評論",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_025"
+      ],
+      "sourceTitle": "गेहूँ बनाम गुलाब",
+      "sourceGenre": "academic_prose",
+      "sourceRegister": "textbook",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "उमड़ना",
+      "display": "उमड़ना",
+      "normalized": "उमड़ना",
+      "variants": [],
+      "pos": "自動詞",
+      "meaning_ja": "湧き上がる、押し寄せる",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学",
+        "評論",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_025"
+      ],
+      "sourceTitle": "गेहूँ बनाम गुलाब",
+      "sourceGenre": "academic_prose",
+      "sourceRegister": "textbook",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "सौंदर्य-बोध",
+      "display": "सौंदर्य-बोध",
+      "normalized": "सौंदर्य बोध",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "美意識、美の感覚",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学",
+        "評論",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_025"
+      ],
+      "sourceTitle": "गेहूँ बनाम गुलाब",
+      "sourceGenre": "academic_prose",
+      "sourceRegister": "textbook",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "लाचार",
+      "display": "लाचार",
+      "normalized": "लाचार",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "やむを得ない、どうしようもない",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学",
+        "評論",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_025"
+      ],
+      "sourceTitle": "गेहूँ बनाम गुलाब",
+      "sourceGenre": "academic_prose",
+      "sourceRegister": "textbook",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "समतुलन",
+      "display": "समतुलन",
+      "normalized": "समतुलन",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "均衡、バランス",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学",
+        "評論",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_025"
+      ],
+      "sourceTitle": "गेहूँ बनाम गुलाब",
+      "sourceGenre": "academic_prose",
+      "sourceRegister": "textbook",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "चेष्टा",
+      "display": "चेष्टा",
+      "normalized": "चेष्टा",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "努力、試み、行為",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学",
+        "評論",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_025"
+      ],
+      "sourceTitle": "गेहूँ बनाम गुलाब",
+      "sourceGenre": "academic_prose",
+      "sourceRegister": "textbook",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "उपवास",
+      "display": "उपवास",
+      "normalized": "उपवास",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "断食、斎戒",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学",
+        "評論",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_025"
+      ],
+      "sourceTitle": "गेहूँ बनाम गुलाब",
+      "sourceGenre": "academic_prose",
+      "sourceRegister": "textbook",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "व्रत",
+      "display": "व्रत",
+      "normalized": "व्रत",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "誓願、宗教的断食",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学",
+        "評論",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_025"
+      ],
+      "sourceTitle": "गेहूँ बनाम गुलाब",
+      "sourceGenre": "academic_prose",
+      "sourceRegister": "textbook",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "तपस्या",
+      "display": "तपस्या",
+      "normalized": "तपस्या",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "苦行、修行",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学",
+        "評論",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_025"
+      ],
+      "sourceTitle": "गेहूँ बनाम गुलाब",
+      "sourceGenre": "academic_prose",
+      "sourceRegister": "textbook",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "सानंद",
+      "display": "सानंद",
+      "normalized": "सानंद",
+      "variants": [],
+      "pos": "副詞・形容詞",
+      "meaning_ja": "喜んで、喜びに満ちて",
+      "importance": 4,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学",
+        "評論",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_025"
+      ],
+      "sourceTitle": "गेहूँ बनाम गुलाब",
+      "sourceGenre": "academic_prose",
+      "sourceRegister": "textbook",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "श्रम",
+      "display": "श्रम",
+      "normalized": "श्रम",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "労働、労苦",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学",
+        "評論",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_025"
+      ],
+      "sourceTitle": "गेहूँ बनाम गुलाब",
+      "sourceGenre": "academic_prose",
+      "sourceRegister": "textbook",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "नारकीय",
+      "display": "नारकीय",
+      "normalized": "नारकीय",
+      "variants": [],
+      "pos": "形容詞",
+      "meaning_ja": "地獄のような",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学",
+        "評論",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_025"
+      ],
+      "sourceTitle": "गेहूँ बनाम गुलाब",
+      "sourceGenre": "academic_prose",
+      "sourceRegister": "textbook",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "यंत्रणाएँ",
+      "display": "यंत्रणा",
+      "normalized": "यंत्रणा",
+      "variants": [],
+      "pos": "名詞（女）",
+      "meaning_ja": "苦痛、責め苦",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "教科書",
+        "文学",
+        "評論",
+        "抽象語"
+      ],
+      "sourceIds": [
+        "academic_025"
+      ],
+      "sourceTitle": "गेहूँ बनाम गुलाब",
+      "sourceGenre": "academic_prose",
+      "sourceRegister": "textbook",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "भंग",
+      "display": "भंग",
+      "normalized": "भंग",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "破壊、中断",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "文学"
+      ],
+      "sourceIds": [
+        "academic_026"
+      ],
+      "sourceTitle": "Sanjan Ki Kahaniyan",
+      "sourceGenre": "story",
+      "sourceRegister": "literary_prose",
+      "audit": "existing_in_master"
+    },
+    {
+      "word": "अस्तित्व",
+      "display": "अस्तित्व",
+      "normalized": "अस्तित्व",
+      "variants": [],
+      "pos": "名詞（男）",
+      "meaning_ja": "存在、独自性",
+      "importance": 5,
+      "status": "active",
+      "category": "academic",
+      "tags": [
+        "文学"
+      ],
+      "sourceIds": [
+        "academic_026"
+      ],
+      "sourceTitle": "Sanjan Ki Kahaniyan",
+      "sourceGenre": "story",
+      "sourceRegister": "literary_prose",
       "audit": "existing_in_master"
     }
   ],

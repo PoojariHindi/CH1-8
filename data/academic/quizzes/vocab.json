@@ -332,18 +332,15 @@
     "display": "अस्तित्व",
     "normalized": "अस्तित्व",
     "variants": [],
-    "pos": "名詞（男）",
-    "meaning_ja": "存在",
+    "pos": "noun_m",
+    "meaning_ja": "存在、独自性",
     "importance": 5,
     "category": "academic",
     "tags": [
-      "教科書",
-      "社会科",
-      "環境",
-      "抽象語"
+      "literature"
     ],
     "sourceIds": [
-      "academic_016"
+      "academic_026"
     ]
   },
   {
@@ -500,6 +497,40 @@
     ]
   },
   {
+    "word": "आपत्ति",
+    "display": "आपत्ति",
+    "normalized": "आपत्ति",
+    "variants": [],
+    "pos": "noun_f",
+    "meaning_ja": "異議、反対",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "literature",
+      "文学"
+    ],
+    "sourceIds": [
+      "academic_026"
+    ]
+  },
+  {
+    "word": "आमंत्रण",
+    "display": "आमंत्रण",
+    "normalized": "आमंत्रण",
+    "variants": [],
+    "pos": "noun_m",
+    "meaning_ja": "招待、招請",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "literature",
+      "文学"
+    ],
+    "sourceIds": [
+      "academic_026"
+    ]
+  },
+  {
     "word": "आयात",
     "display": "आयात",
     "normalized": "आयात",
@@ -557,6 +588,22 @@
     ],
     "sourceIds": [
       "academic_024"
+    ]
+  },
+  {
+    "word": "इरादा",
+    "display": "इरादा",
+    "normalized": "इरादा",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "意図、意思",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "文学"
+    ],
+    "sourceIds": [
+      "academic_026"
     ]
   },
   {
@@ -1421,6 +1468,23 @@
     ]
   },
   {
+    "word": "छल-कपट",
+    "display": "छल-कपट",
+    "normalized": "छल कपट",
+    "variants": [],
+    "pos": "noun_m",
+    "meaning_ja": "欺瞞、偽り",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "literature",
+      "文学"
+    ],
+    "sourceIds": [
+      "academic_026"
+    ]
+  },
+  {
     "word": "छवि",
     "display": "छवि",
     "normalized": "छवि",
@@ -1922,6 +1986,23 @@
     ]
   },
   {
+    "word": "दखलबाजी",
+    "display": "दखलबाजी",
+    "normalized": "दखलबाजी",
+    "variants": [],
+    "pos": "noun_f",
+    "meaning_ja": "干渉、おせっかいな介入",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "literature",
+      "文学"
+    ],
+    "sourceIds": [
+      "academic_026"
+    ]
+  },
+  {
     "word": "दबाव",
     "display": "दबाव",
     "normalized": "दबाव",
@@ -2090,6 +2171,24 @@
     ],
     "sourceIds": [
       "academic_010"
+    ]
+  },
+  {
+    "word": "धर्मगुरु",
+    "display": "धर्मगुरु",
+    "normalized": "धर्मगुरु",
+    "variants": [],
+    "pos": "noun_m",
+    "meaning_ja": "宗教指導者",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "religion",
+      "literature",
+      "文学"
+    ],
+    "sourceIds": [
+      "academic_026"
     ]
   },
   {
@@ -2264,6 +2363,23 @@
     ]
   },
   {
+    "word": "निर्मल",
+    "display": "निर्मल",
+    "normalized": "निर्मल",
+    "variants": [],
+    "pos": "adj",
+    "meaning_ja": "清らかな、純粋な",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "literature",
+      "文学"
+    ],
+    "sourceIds": [
+      "academic_026"
+    ]
+  },
+  {
     "word": "निर्मूलित",
     "display": "निर्मूलित",
     "normalized": "निर्मूलित",
@@ -2359,6 +2475,23 @@
     ]
   },
   {
+    "word": "नीयत",
+    "display": "नीयत",
+    "normalized": "नीयत",
+    "variants": [],
+    "pos": "noun_f",
+    "meaning_ja": "意図、心根",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "literature",
+      "文学"
+    ],
+    "sourceIds": [
+      "academic_026"
+    ]
+  },
+  {
     "word": "नीरस-कर्कश",
     "display": "नीरस-कर्कश",
     "normalized": "नीरस कर्कश",
@@ -2395,6 +2528,22 @@
     ],
     "sourceIds": [
       "academic_017"
+    ]
+  },
+  {
+    "word": "नेक",
+    "display": "नेक",
+    "normalized": "नेक",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "善良な、誠実な",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "文学"
+    ],
+    "sourceIds": [
+      "academic_026"
     ]
   },
   {
@@ -2453,6 +2602,22 @@
     ],
     "sourceIds": [
       "academic_022"
+    ]
+  },
+  {
+    "word": "परदेसी",
+    "display": "परदेसी",
+    "normalized": "परदेसी",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "異国から来た人、よそ者",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "文学"
+    ],
+    "sourceIds": [
+      "academic_026"
     ]
   },
   {
@@ -2567,6 +2732,22 @@
     ],
     "sourceIds": [
       "academic_021"
+    ]
+  },
+  {
+    "word": "पारसी",
+    "display": "पारसी",
+    "normalized": "पारसी",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "パールシー教徒",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "文学"
+    ],
+    "sourceIds": [
+      "academic_026"
     ]
   },
   {
@@ -2724,6 +2905,28 @@
     ]
   },
   {
+    "word": "पेंदा",
+    "display": "पेंदा",
+    "normalized": "पेंदा",
+    "variants": [
+      "पेन्दा",
+      "पेंदा"
+    ],
+    "pos": "名詞（男）",
+    "meaning_ja": "底部",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "文学",
+      "小説",
+      "人物描写",
+      "犯罪・捜査"
+    ],
+    "sourceIds": [
+      "academic_020"
+    ]
+  },
+  {
     "word": "पेट-पूजा",
     "display": "पेट-पूजा",
     "normalized": "पेट पूजा",
@@ -2743,10 +2946,10 @@
     ]
   },
   {
-    "word": "पेंदा",
-    "display": "पेंदा",
-    "normalized": "पेंदा",
-    "variants":  ["पेन्दा","पेंदा"],
+    "word": "पेन्दा",
+    "display": "पेन्दा",
+    "normalized": "पेन्दा",
+    "variants": [],
     "pos": "名詞（男）",
     "meaning_ja": "底部",
     "importance": 5,
@@ -2953,6 +3156,23 @@
     ]
   },
   {
+    "word": "प्राणप्रिय",
+    "display": "प्राणप्रिय",
+    "normalized": "प्राणप्रिय",
+    "variants": [],
+    "pos": "adj",
+    "meaning_ja": "何よりも大切な、最愛の",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "literature",
+      "文学"
+    ],
+    "sourceIds": [
+      "academic_026"
+    ]
+  },
+  {
     "word": "बन्दगी",
     "display": "बंदगी",
     "normalized": "बंदगी",
@@ -3090,6 +3310,22 @@
     ],
     "sourceIds": [
       "academic_018"
+    ]
+  },
+  {
+    "word": "भंग",
+    "display": "भंग",
+    "normalized": "भंग",
+    "variants": [],
+    "pos": "noun_m",
+    "meaning_ja": "破壊、中断",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "literature"
+    ],
+    "sourceIds": [
+      "academic_026"
     ]
   },
   {
@@ -3823,6 +4059,23 @@
     ],
     "sourceIds": [
       "academic_023"
+    ]
+  },
+  {
+    "word": "वयोवृद्ध",
+    "display": "वयोवृद्ध",
+    "normalized": "वयोवृद्ध",
+    "variants": [],
+    "pos": "adj",
+    "meaning_ja": "高齢の、年長の",
+    "importance": 5,
+    "category": "academic",
+    "tags": [
+      "literature",
+      "文学"
+    ],
+    "sourceIds": [
+      "academic_026"
     ]
   },
   {
@@ -4925,6 +5178,22 @@
     ]
   },
   {
+    "word": "अंगूठी",
+    "display": "अंगूठी",
+    "normalized": "अंगूठी",
+    "variants": [],
+    "pos": "名詞（女）",
+    "meaning_ja": "指輪",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "文学"
+    ],
+    "sourceIds": [
+      "academic_026"
+    ]
+  },
+  {
     "word": "अन्तरंग सभा",
     "display": "अंतरंग सभा",
     "normalized": "अंतरंग सभा",
@@ -5239,6 +5508,22 @@
     ],
     "sourceIds": [
       "academic_021"
+    ]
+  },
+  {
+    "word": "अनुभवी",
+    "display": "अनुभवी",
+    "normalized": "अनुभवी",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "経験豊富な",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "文学"
+    ],
+    "sourceIds": [
+      "academic_026"
     ]
   },
   {
@@ -6665,6 +6950,22 @@
     ]
   },
   {
+    "word": "कीमती",
+    "display": "कीमती",
+    "normalized": "कीमती",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "貴重な、価値のある",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "文学"
+    ],
+    "sourceIds": [
+      "academic_026"
+    ]
+  },
+  {
     "word": "कुसंगति",
     "display": "कुसंगति",
     "normalized": "कुसंगति",
@@ -7307,6 +7608,23 @@
     ]
   },
   {
+    "word": "छावनी",
+    "display": "छावनी",
+    "normalized": "छावनी",
+    "variants": [],
+    "pos": "noun_f",
+    "meaning_ja": "宿営地、駐屯地",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "literature",
+      "文学"
+    ],
+    "sourceIds": [
+      "academic_026"
+    ]
+  },
+  {
     "word": "छिड़का",
     "display": "छिड़कना",
     "normalized": "छिड़कना",
@@ -7520,6 +7838,23 @@
     ]
   },
   {
+    "word": "ज्ञानी",
+    "display": "ज्ञानी",
+    "normalized": "ज्ञानी",
+    "variants": [],
+    "pos": "adj_noun",
+    "meaning_ja": "賢者、知識のある",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "literature",
+      "文学"
+    ],
+    "sourceIds": [
+      "academic_026"
+    ]
+  },
+  {
     "word": "झकझोरा",
     "display": "झकझोरना",
     "normalized": "झकझोरना",
@@ -7725,7 +8060,7 @@
   },
   {
     "word": "तहबन्द",
-    "display": "तहबन्द",
+    "display": "तहबंद",
     "normalized": "तहबंद",
     "variants": [
       "तहबंद"
@@ -7834,6 +8169,22 @@
     ],
     "sourceIds": [
       "academic_001"
+    ]
+  },
+  {
+    "word": "दरबार",
+    "display": "दरबार",
+    "normalized": "दरबार",
+    "variants": [],
+    "pos": "名詞（男）",
+    "meaning_ja": "宮廷、王の謁見の場",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "文学"
+    ],
+    "sourceIds": [
+      "academic_026"
     ]
   },
   {
@@ -8749,6 +9100,24 @@
     ],
     "sourceIds": [
       "academic_025"
+    ]
+  },
+  {
+    "word": "पधारना",
+    "display": "पधारना",
+    "normalized": "पधारना",
+    "variants": [],
+    "pos": "verb",
+    "meaning_ja": "お越しになる",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "literature",
+      "honorific",
+      "文学"
+    ],
+    "sourceIds": [
+      "academic_026"
     ]
   },
   {
@@ -9856,7 +10225,7 @@
   },
   {
     "word": "बर्तन-भाँड़े",
-    "display": "बर्तन-भाँड़ा",
+    "display": "बर्तन-भाँड़े",
     "normalized": "बर्तन भांडे",
     "variants": [
       "बर्तन-भांड़े",
@@ -10025,25 +10394,6 @@
     ],
     "sourceIds": [
       "academic_006"
-    ]
-  },
-  {
-    "word": "भंग",
-    "display": "भंग",
-    "normalized": "भंग",
-    "variants": [],
-    "pos": "名詞（女）",
-    "meaning_ja": "バング、大麻飲料",
-    "importance": 4,
-    "category": "academic",
-    "tags": [
-      "文学",
-      "小説",
-      "人物描写",
-      "抽象語"
-    ],
-    "sourceIds": [
-      "academic_019"
     ]
   },
   {
@@ -12645,6 +12995,22 @@
     ]
   },
   {
+    "word": "सावधान",
+    "display": "सावधान",
+    "normalized": "सावधान",
+    "variants": [],
+    "pos": "形容詞",
+    "meaning_ja": "用心深い、警戒した",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "文学"
+    ],
+    "sourceIds": [
+      "academic_026"
+    ]
+  },
+  {
     "word": "सिक्ख",
     "display": "सिक्ख",
     "normalized": "सिक्ख",
@@ -13108,6 +13474,23 @@
     ],
     "sourceIds": [
       "academic_010"
+    ]
+  },
+  {
+    "word": "हथियारबंद",
+    "display": "हथियारबंद",
+    "normalized": "हथियारबंद",
+    "variants": [],
+    "pos": "adj",
+    "meaning_ja": "武装した",
+    "importance": 4,
+    "category": "academic",
+    "tags": [
+      "literature",
+      "文学"
+    ],
+    "sourceIds": [
+      "academic_026"
     ]
   },
   {
@@ -14819,7 +15202,7 @@
   },
   {
     "word": "शोरबा",
-    "display": "शोरबे",
+    "display": "शोरबा",
     "normalized": "शोरबा",
     "variants": [],
     "pos": "名詞（男）",

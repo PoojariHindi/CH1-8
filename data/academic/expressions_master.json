@@ -1,5 +1,23 @@
 [
   {
+    "text": "अंगूठी के समान रहना चाहते हैं",
+    "normalized": "अंगूठी के समान रहना चाहते हैं",
+    "meaning_ja": "指輪のように調和しながら共存したい",
+    "type": "symbolic_expression",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学"
+    ],
+    "sourceIds": [
+      "academic_026"
+    ],
+    "sourceTitle": "Sanjan Ki Kahaniyan",
+    "sourceGenre": "story",
+    "sourceRegister": "literary_prose"
+  },
+  {
     "text": "अतीत हमारे साथ रहकर हमारे वर्तमान को आकार देता है",
     "normalized": "अतीत हमारे साथ रहकर हमारे वर्तमान को आकार देता है",
     "meaning_ja": "過去は私たちと共にあり、現在を形づくる",
@@ -41,6 +59,24 @@
     "sourceTitle": "भाग 1",
     "sourceGenre": "essay",
     "sourceRegister": "academic_prose"
+  },
+  {
+    "text": "अपना अनोखा अस्तित्व बनाये रखना",
+    "normalized": "अपना अनोखा अस्तित्व बनाये रखना",
+    "meaning_ja": "自らの独自の存在を保ち続ける",
+    "type": "academic_expression",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学"
+    ],
+    "sourceIds": [
+      "academic_026"
+    ],
+    "sourceTitle": "Sanjan Ki Kahaniyan",
+    "sourceGenre": "story",
+    "sourceRegister": "literary_prose"
   },
   {
     "text": "अल्लाह निगहबान हो",
@@ -295,6 +331,24 @@
     "sourceRegister": "simple_narrative"
   },
   {
+    "text": "किसी की दखलबाजी नहीं चाहते हैं",
+    "normalized": "किसी की दखलबाजी नहीं चाहते हैं",
+    "meaning_ja": "誰かの干渉を望まない",
+    "type": "academic_expression",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学"
+    ],
+    "sourceIds": [
+      "academic_026"
+    ],
+    "sourceTitle": "Sanjan Ki Kahaniyan",
+    "sourceGenre": "story",
+    "sourceRegister": "literary_prose"
+  },
+  {
     "text": "गर्भ गिराने की गोली",
     "normalized": "गर्भ गिराने की गोली",
     "meaning_ja": "妊娠を中断するための薬",
@@ -379,6 +433,24 @@
     "sourceRegister": "textbook"
   },
   {
+    "text": "छल-कपटरहित राज्य में शांति से",
+    "normalized": "छल कपटरहित राज्य में शांति से",
+    "meaning_ja": "欺きや偽りのない国で平和に",
+    "type": "literary_expression",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学"
+    ],
+    "sourceIds": [
+      "academic_026"
+    ],
+    "sourceTitle": "Sanjan Ki Kahaniyan",
+    "sourceGenre": "story",
+    "sourceRegister": "literary_prose"
+  },
+  {
     "text": "जाति-पाँति के भेदभाव का विरोध",
     "normalized": "जाति पाँति के भेदभाव का विरोध",
     "meaning_ja": "カースト差別への反対",
@@ -439,6 +511,24 @@
     ],
     "sourceTitle": "Mukhabir",
     "sourceGenre": "novel",
+    "sourceRegister": "literary_prose"
+  },
+  {
+    "text": "दूध के समान ही नेक इरादे",
+    "normalized": "दूध के समान ही नेक इरादे",
+    "meaning_ja": "牛乳のように純粋で善良な意図",
+    "type": "literary_expression",
+    "importance": 5,
+    "status": "active",
+    "category": "academic",
+    "tags": [
+      "文学"
+    ],
+    "sourceIds": [
+      "academic_026"
+    ],
+    "sourceTitle": "Sanjan Ki Kahaniyan",
+    "sourceGenre": "story",
     "sourceRegister": "literary_prose"
   },
   {

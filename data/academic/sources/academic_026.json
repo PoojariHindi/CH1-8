@@ -1,0 +1,290 @@
+{
+  "id": "academic_026",
+  "schema_version": 1,
+
+  "title": "Sanjan Ki Kahaniyan",
+  "author": "Heramjardinyar Dalal",
+  "source": "Hindustani Prachar Sabha",
+  "year": 1981,
+
+  "genre": "story",
+  "register": "literary_prose",
+
+  "category": "読解",
+
+  "tags": [
+    "文学"
+  ],
+
+  "key_phrase": "अंगूठी के समान रहना चाहते हैं",
+
+  "text": "उसने परदेसियों के आने का मतलब जानने के लिए दूध से भरा एक घड़ा उनकी छावनी में पहुंचाया । उसका मतलब था कि दूध के समान ही नेक इरादे यदि उन परदेसियों के होंगे, तो वे प्रेम से दूध स्वीकार करेंगे । साफ नीयतवालों को राज्य में बसाने में राजा को कोई आपत्ति नहीं थी । हथियारबंद परदेसियों से सावधान रहना भी जरूरी था । राजा चाहता था कि उस छोटे से राज्य की शांति भंग न हो । पारसियों में भी कुछ ज्ञानी लोग थे । उनके वयोवृद्ध धर्मगुरु बड़े अनुभवी थे । राजा का संदेश समझने में उन्हें देर न लगी । उन्होंने अपनी सोने की अंगूठी उस दूध के घड़े में डाल दी और घड़ा वापस भेज दिया। राजा भी इस जवाब का मतलब समझ गया । वे परदेशी दूध के समान निर्मल, छल-कपटरहित राज्य में शांति से नीचे बैठी अंगूठी के समान रहना चाहते हैं । सोने की अंगूठी दूध में डालने का मतलब यह था कि वे उनसे राज्य छीनने नहीं आये हैं बल्कि जो हो सके, वह चाहे जितना भी कीमती हो, देना ही चाहेंगे । वे उनसे हिल-मिलकर तो रहेंगे, मगर साथ ही अपना अनोखा अस्तित्व, अपना प्राणप्रिय धर्म बनाये भी रखेंगे । वे उसमें किसी की दखलबाजी नहीं चाहते हैं । राजा ने परदेसियों को अपने दरबार में पधारने का आमंत्रण भेजा । राज्य के नागरिकों को भी आने की सूचना दी गयी ।",
+
+  "expressions": [
+    {
+      "text": "दूध के समान ही नेक इरादे",
+      "normalized": "दूध के समान ही नेक इरादे",
+      "meaning_ja": "牛乳のように純粋で善良な意図",
+      "type": "literary_expression",
+      "importance": 5,
+      "status": "active"
+    },
+    {
+      "text": "छल-कपटरहित राज्य में शांति से",
+      "normalized": "छल कपटरहित राज्य में शांति से",
+      "meaning_ja": "欺きや偽りのない国で平和に",
+      "type": "literary_expression",
+      "importance": 5,
+      "status": "active"
+    },
+    {
+      "text": "अंगूठी के समान रहना चाहते हैं",
+      "normalized": "अंगूठी के समान रहना चाहते हैं",
+      "meaning_ja": "指輪のように調和しながら共存したい",
+      "type": "symbolic_expression",
+      "importance": 5,
+      "status": "active"
+    },
+    {
+      "text": "अपना अनोखा अस्तित्व बनाये रखना",
+      "normalized": "अपना अनोखा अस्तित्व बनाये रखना",
+      "meaning_ja": "自らの独自の存在を保ち続ける",
+      "type": "academic_expression",
+      "importance": 5,
+      "status": "active"
+    },
+    {
+      "text": "किसी की दखलबाजी नहीं चाहते हैं",
+      "normalized": "किसी की दखलबाजी नहीं चाहते हैं",
+      "meaning_ja": "誰かの干渉を望まない",
+      "type": "academic_expression",
+      "importance": 5,
+      "status": "active"
+    }
+  ],
+
+  "vocab_candidates": [
+        {
+      "word": "परदेसी",
+      "display": "परदेसी",
+      "normalized": "परदेसी",
+      "pos": "名詞（男）",
+      "meaning_ja": "異国から来た人、よそ者",
+      "importance": 5,
+      "status": "active"
+    },
+    {
+      "word": "छावनी",
+      "display": "छावनी",
+      "normalized": "छावनी",
+      "pos": "名詞（女）",
+      "meaning_ja": "宿営地、駐屯地",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "नेक",
+      "display": "नेक",
+      "normalized": "नेक",
+      "pos": "形容詞",
+      "meaning_ja": "善良な、誠実な",
+      "importance": 5,
+      "status": "active"
+    },
+    {
+      "word": "इरादा",
+      "display": "इरादा",
+      "normalized": "इरादा",
+      "pos": "名詞（男）",
+      "meaning_ja": "意図、意思",
+      "importance": 5,
+      "status": "active"
+    },
+    {
+      "word": "नीयत",
+      "display": "नीयत",
+      "normalized": "नीयत",
+      "pos": "名詞（女）",
+      "meaning_ja": "意図、心根",
+      "importance": 5,
+      "status": "active"
+    },
+    {
+      "word": "आपत्ति",
+      "display": "आपत्ति",
+      "normalized": "आपत्ति",
+      "pos": "名詞（女）",
+      "meaning_ja": "異議、反対",
+      "importance": 5,
+      "status": "active"
+    },
+    {
+      "word": "हथियारबंद",
+      "display": "हथियारबंद",
+      "normalized": "हथियारबंद",
+      "pos": "形容詞",
+      "meaning_ja": "武装した",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "सावधान",
+      "display": "सावधान",
+      "normalized": "सावधान",
+      "pos": "形容詞",
+      "meaning_ja": "用心深い、警戒した",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "भंग",
+      "display": "भंग",
+      "normalized": "भंग",
+      "pos": "名詞（男）",
+      "meaning_ja": "破壊、中断",
+      "importance": 5,
+      "status": "active"
+    },
+    {
+      "word": "पारसी",
+      "display": "पारसी",
+      "normalized": "पारसी",
+      "pos": "名詞（男）",
+      "meaning_ja": "パールシー教徒",
+      "importance": 5,
+      "status": "active"
+    },
+    {
+      "word": "ज्ञानी",
+      "display": "ज्ञानी",
+      "normalized": "ज्ञानी",
+      "pos": "名詞・形容詞",
+      "meaning_ja": "賢者、知識のある",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "वयोवृद्ध",
+      "display": "वयोवृद्ध",
+      "normalized": "वयोवृद्ध",
+      "pos": "形容詞",
+      "meaning_ja": "高齢の、年長の",
+      "importance": 5,
+      "status": "active"
+    },
+    {
+      "word": "धर्मगुरु",
+      "display": "धर्मगुरु",
+      "normalized": "धर्मगुरु",
+      "pos": "名詞（男）",
+      "meaning_ja": "宗教指導者",
+      "importance": 5,
+      "status": "active"
+    },
+    {
+      "word": "अनुभवी",
+      "display": "अनुभवी",
+      "normalized": "अनुभवी",
+      "pos": "形容詞",
+      "meaning_ja": "経験豊富な",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "अंगूठी",
+      "display": "अंगूठी",
+      "normalized": "अंगूठी",
+      "pos": "名詞（女）",
+      "meaning_ja": "指輪",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "निर्मल",
+      "display": "निर्मल",
+      "normalized": "निर्मल",
+      "pos": "形容詞",
+      "meaning_ja": "清らかな、純粋な",
+      "importance": 5,
+      "status": "active"
+    },
+    {
+      "word": "छल-कपट",
+      "display": "छल-कपट",
+      "normalized": "छल कपट",
+      "pos": "名詞（男）",
+      "meaning_ja": "欺瞞、偽り",
+      "importance": 5,
+      "status": "active"
+    },
+    {
+      "word": "कीमती",
+      "display": "कीमती",
+      "normalized": "कीमती",
+      "pos": "形容詞",
+      "meaning_ja": "貴重な、価値のある",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "अस्तित्व",
+      "display": "अस्तित्व",
+      "normalized": "अस्तित्व",
+      "pos": "名詞（男）",
+      "meaning_ja": "存在、独自性",
+      "importance": 5,
+      "status": "active"
+    },
+    {
+      "word": "प्राणप्रिय",
+      "display": "प्राणप्रिय",
+      "normalized": "प्राणप्रिय",
+      "pos": "形容詞",
+      "meaning_ja": "何よりも大切な、最愛の",
+      "importance": 5,
+      "status": "active"
+    },
+    {
+      "word": "दखलबाजी",
+      "display": "दखलबाजी",
+      "normalized": "दखलबाजी",
+      "pos": "名詞（女）",
+      "meaning_ja": "干渉、おせっかいな介入",
+      "importance": 5,
+      "status": "active"
+    },
+    {
+      "word": "दरबार",
+      "display": "दरबार",
+      "normalized": "दरबार",
+      "pos": "名詞（男）",
+      "meaning_ja": "宮廷、王の謁見の場",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "पधारना",
+      "display": "पधारना",
+      "normalized": "पधारना",
+      "pos": "自動詞",
+      "meaning_ja": "お越しになる",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "आमंत्रण",
+      "display": "आमंत्रण",
+      "normalized": "आमंत्रण",
+      "pos": "名詞（男）",
+      "meaning_ja": "招待、招請",
+      "importance": 5,
+      "status": "active"
+    }
+  ],
+
+  "meta": {
+    "source_type": "manual_curated",
+    "reading_genre": "academic",
+    "dedupe_ready": true
+  }
+}

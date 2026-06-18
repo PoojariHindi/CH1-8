@@ -1,9 +1,9 @@
 {
   "topic": "academic_fill_blanks_candidates",
-  "generatedAt": "2026-06-08T03:41:16.976Z",
+  "generatedAt": "2026-06-18T01:20:55.910Z",
   "counts": {
-    "sources": 25,
-    "candidates": 144
+    "sources": 26,
+    "candidates": 147
   },
   "items": [
     {
@@ -1599,6 +1599,87 @@
       ]
     },
     {
+      "id": "academic_026::expr::1::blank::3",
+      "type": "fill_blank",
+      "status": "active",
+      "sourceId": "academic_026",
+      "title": "Sanjan Ki Kahaniyan",
+      "genre": "story",
+      "register": "literary_prose",
+      "category": "読解",
+      "sourceText": "दूध के समान ही नेक इरादे",
+      "prompt": "दूध के समान ही _____ इरादे",
+      "answer": "नेक",
+      "matchedForm": "नेक",
+      "meaning": "善良な、誠実な",
+      "expressionMeaning": "牛乳のように純粋で善良な意図",
+      "pos": "形容詞",
+      "word": "नेक",
+      "display": "नेक",
+      "normalized": "नेक",
+      "expressionType": "literary_expression",
+      "importance": 5,
+      "expressionImportance": 5,
+      "difficulty": 1,
+      "tags": [
+        "文学"
+      ]
+    },
+    {
+      "id": "academic_026::expr::4::blank::19",
+      "type": "fill_blank",
+      "status": "active",
+      "sourceId": "academic_026",
+      "title": "Sanjan Ki Kahaniyan",
+      "genre": "story",
+      "register": "literary_prose",
+      "category": "読解",
+      "sourceText": "अपना अनोखा अस्तित्व बनाये रखना",
+      "prompt": "अपना अनोखा _____ बनाये रखना",
+      "answer": "अस्तित्व",
+      "matchedForm": "अस्तित्व",
+      "meaning": "存在、独自性",
+      "expressionMeaning": "自らの独自の存在を保ち続ける",
+      "pos": "名詞（男）",
+      "word": "अस्तित्व",
+      "display": "अस्तित्व",
+      "normalized": "अस्तित्व",
+      "expressionType": "academic_expression",
+      "importance": 5,
+      "expressionImportance": 5,
+      "difficulty": 1,
+      "tags": [
+        "文学"
+      ]
+    },
+    {
+      "id": "academic_026::expr::5::blank::21",
+      "type": "fill_blank",
+      "status": "active",
+      "sourceId": "academic_026",
+      "title": "Sanjan Ki Kahaniyan",
+      "genre": "story",
+      "register": "literary_prose",
+      "category": "読解",
+      "sourceText": "किसी की दखलबाजी नहीं चाहते हैं",
+      "prompt": "किसी की _____ नहीं चाहते हैं",
+      "answer": "दखलबाजी",
+      "matchedForm": "दखलबाजी",
+      "meaning": "干渉、おせっかいな介入",
+      "expressionMeaning": "誰かの干渉を望まない",
+      "pos": "名詞（女）",
+      "word": "दखलबाजी",
+      "display": "दखलबाजी",
+      "normalized": "दखलबाजी",
+      "expressionType": "academic_expression",
+      "importance": 5,
+      "expressionImportance": 5,
+      "difficulty": 1,
+      "tags": [
+        "文学"
+      ]
+    },
+    {
       "id": "academic_010::expr::2::blank::15",
       "type": "fill_blank",
       "status": "active",
@@ -2559,6 +2640,33 @@
         "教育",
         "社会",
         "抽象語"
+      ]
+    },
+    {
+      "id": "academic_026::expr::3::blank::15",
+      "type": "fill_blank",
+      "status": "active",
+      "sourceId": "academic_026",
+      "title": "Sanjan Ki Kahaniyan",
+      "genre": "story",
+      "register": "literary_prose",
+      "category": "読解",
+      "sourceText": "अंगूठी के समान रहना चाहते हैं",
+      "prompt": "_____ के समान रहना चाहते हैं",
+      "answer": "अंगूठी",
+      "matchedForm": "अंगूठी",
+      "meaning": "指輪",
+      "expressionMeaning": "指輪のように調和しながら共存したい",
+      "pos": "名詞（女）",
+      "word": "अंगूठी",
+      "display": "अंगूठी",
+      "normalized": "अंगूठी",
+      "expressionType": "symbolic_expression",
+      "importance": 4,
+      "expressionImportance": 5,
+      "difficulty": 1,
+      "tags": [
+        "文学"
       ]
     },
     {
@@ -3995,36 +4103,6 @@
         "小説",
         "人物描写",
         "抽象語"
-      ]
-    },
-    {
-      "id": "academic_020::expr::7::blank::36",
-      "type": "fill_blank",
-      "status": "active",
-      "sourceId": "academic_020",
-      "title": "Mukhabir",
-      "genre": "novel",
-      "register": "literary_prose",
-      "category": "読解",
-      "sourceText": "जिला में धूम मच गई",
-      "prompt": "जिला में _____",
-      "answer": "धूम मच गई",
-      "matchedForm": "धूम मच गई",
-      "meaning": "大騒ぎになる",
-      "expressionMeaning": "地区中で大騒ぎになった",
-      "pos": "動詞句",
-      "word": "धूम मचना",
-      "display": "sमच गई",
-      "normalized": "धूम मचना",
-      "expressionType": "narrative_expression",
-      "importance": 4,
-      "expressionImportance": 4,
-      "difficulty": 1,
-      "tags": [
-        "文学",
-        "小説",
-        "人物描写",
-        "犯罪・捜査"
       ]
     },
     {
