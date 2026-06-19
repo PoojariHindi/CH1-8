@@ -71,10 +71,11 @@
       "news020DJ20260518_NeetLeak",
       "news024_NBT20260520_Dahej",
       "news036_DJ20260526_Ropeway",
-      "news046_NBT20260611IVF"
+      "news046_NBT20260611IVF",
+      "news050_DJ20260619_ArtificialRain"
     ],
-    "sourceCount": 7,
-    "frequency": 7,
+    "sourceCount": 8,
+    "frequency": 8,
     "notes": "",
     "quizWeight": 5
   },
@@ -838,10 +839,11 @@
       "news021DJ20260519_OpenAI",
       "news022DJ20260520_Rabies",
       "news030_DJ20260524_BengalBorder",
-      "news032_DJ20260524_MatrimonialAd"
+      "news032_DJ20260524_MatrimonialAd",
+      "news050_DJ20260619_ArtificialRain"
     ],
-    "sourceCount": 7,
-    "frequency": 7,
+    "sourceCount": 8,
+    "frequency": 8,
     "notes": "",
     "quizWeight": 5
   },
@@ -859,10 +861,11 @@
       "news_011",
       "news019DJ20260518_3Bhasha",
       "news022DJ20260520_Rabies",
-      "news025_DJ20260521_Dawa"
+      "news025_DJ20260521_Dawa",
+      "news050_DJ20260619_ArtificialRain"
     ],
-    "sourceCount": 5,
-    "frequency": 5,
+    "sourceCount": 6,
+    "frequency": 6,
     "notes": "",
     "quizWeight": 4
   },
@@ -938,10 +941,11 @@
     "sourceArticleIds": [
       "news_vocab_02",
       "news016DJ20260513_GoldScheme",
-      "news045_NBT20260611_Bismil"
+      "news045_NBT20260611_Bismil",
+      "news050_DJ20260619_ArtificialRain"
     ],
-    "sourceCount": 3,
-    "frequency": 3,
+    "sourceCount": 4,
+    "frequency": 4,
     "notes": "",
     "quizWeight": 4
   },
@@ -958,10 +962,11 @@
       "news_vocab_02",
       "news_014",
       "news022DJ20260520_Rabies",
-      "news030_DJ20260524_BengalBorder"
+      "news030_DJ20260524_BengalBorder",
+      "news050_DJ20260619_ArtificialRain"
     ],
-    "sourceCount": 4,
-    "frequency": 4,
+    "sourceCount": 5,
+    "frequency": 5,
     "notes": "",
     "quizWeight": 4
   },
@@ -1093,10 +1098,11 @@
       "news_vocab_01",
       "news_vocab_02",
       "news022DJ20260520_Rabies",
-      "news047_NBT20260612_Kamal"
+      "news047_NBT20260612_Kamal",
+      "news050_DJ20260619_ArtificialRain"
     ],
-    "sourceCount": 4,
-    "frequency": 4,
+    "sourceCount": 5,
+    "frequency": 5,
     "notes": "",
     "quizWeight": 4
   },
@@ -1327,10 +1333,11 @@
     "status": "active",
     "sourceArticleIds": [
       "news_vocab_01",
-      "news_vocab_02"
+      "news_vocab_02",
+      "news050_DJ20260619_ArtificialRain"
     ],
-    "sourceCount": 2,
-    "frequency": 2,
+    "sourceCount": 3,
+    "frequency": 3,
     "notes": "",
     "quizWeight": 4
   },
@@ -1662,10 +1669,11 @@
     "sourceArticleIds": [
       "news_vocab_02",
       "news029_DJ20260523_Maoism",
-      "news036_DJ20260526_Ropeway"
+      "news036_DJ20260526_Ropeway",
+      "news050_DJ20260619_ArtificialRain"
     ],
-    "sourceCount": 3,
-    "frequency": 3,
+    "sourceCount": 4,
+    "frequency": 4,
     "notes": "",
     "quizWeight": 3
   },
@@ -1699,10 +1707,11 @@
     "sourceArticleIds": [
       "news_vocab_01",
       "news_013",
-      "news040_DJ20260602_Goldmedal"
+      "news040_DJ20260602_Goldmedal",
+      "news050_DJ20260619_ArtificialRain"
     ],
-    "sourceCount": 3,
-    "frequency": 3,
+    "sourceCount": 4,
+    "frequency": 4,
     "notes": "",
     "quizWeight": 3
   },
@@ -9683,10 +9692,11 @@
     "importance": 4,
     "status": "active",
     "sourceArticleIds": [
-      "news030_DJ20260524_BengalBorder"
+      "news030_DJ20260524_BengalBorder",
+      "news050_DJ20260619_ArtificialRain"
     ],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 2,
+    "frequency": 2,
     "notes": "国境・地理文脈頻出",
     "quizWeight": 4
   },
@@ -10043,10 +10053,11 @@
     "importance": 3,
     "status": "active",
     "sourceArticleIds": [
-      "news031_DJ20260524_Bundabandi"
+      "news031_DJ20260524_Bundabandi",
+      "news050_DJ20260619_ArtificialRain"
     ],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 2,
+    "frequency": 2,
     "notes": "",
     "quizWeight": 3
   },
@@ -11216,10 +11227,11 @@
     "importance": 3,
     "status": "active",
     "sourceArticleIds": [
-      "news037_DJ20260526_Twisha"
+      "news037_DJ20260526_Twisha",
+      "news050_DJ20260619_ArtificialRain"
     ],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 2,
+    "frequency": 2,
     "notes": "社会・歴史・ニュース文脈頻出",
     "quizWeight": 3
   },
@@ -13973,10 +13985,11 @@
     "importance": 3,
     "status": "active",
     "sourceArticleIds": [
-      "news048_DJ20260616_Ceasefire"
+      "news048_DJ20260616_Ceasefire",
+      "news050_DJ20260619_ArtificialRain"
     ],
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 2,
+    "frequency": 2,
     "notes": "",
     "quizWeight": 3
   },
@@ -14047,5 +14060,329 @@
     "frequency": 1,
     "notes": "海運・海峡・海洋安全保障などで頻出",
     "quizWeight": 3
+  },
+  {
+    "word": "कृत्रिम बारिश",
+    "normalized": "कृत्रिम_बारिश",
+    "pos": "名詞句",
+    "meaning_ja": "人工降雨",
+    "category": "都市・環境",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news050_DJ20260619_ArtificialRain"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "variant: कृत्रिम वर्षा",
+    "quizWeight": 4
+  },
+  {
+    "word": "क्लाउड सीडिंग",
+    "normalized": "क्लाउड_सीडिंग",
+    "pos": "名詞句",
+    "meaning_ja": "クラウドシーディング、人工降雨技術",
+    "category": "都市・環境",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news050_DJ20260619_ArtificialRain"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 4
+  },
+  {
+    "word": "परिचालन",
+    "normalized": "परिचालन",
+    "pos": "男性名詞",
+    "meaning_ja": "運用、運行、実施",
+    "category": "都市・環境",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news050_DJ20260619_ArtificialRain"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "行政・技術プロジェクトの運用面を指す",
+    "quizWeight": 4
+  },
+  {
+    "word": "गुंजाइश",
+    "normalized": "गुंजाइश",
+    "pos": "女性名詞",
+    "meaning_ja": "余地、可能性、見込み",
+    "category": "一般ニュース語彙",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news050_DJ20260619_ArtificialRain"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "否定形『कोई गुंजाइश नहीं』でも頻出",
+    "quizWeight": 4
+  },
+  {
+    "word": "तालमेल",
+    "normalized": "तालमेल",
+    "pos": "男性名詞",
+    "meaning_ja": "連携、調整、足並み",
+    "category": "一般ニュース語彙",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news050_DJ20260619_ArtificialRain"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "複数組織間の調整・連携",
+    "quizWeight": 4
+  },
+  {
+    "word": "प्रशासनिक",
+    "normalized": "प्रशासनिक",
+    "pos": "形容詞",
+    "meaning_ja": "行政上の、行政的な",
+    "category": "行政・制度",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news050_DJ20260619_ArtificialRain"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 4
+  },
+  {
+    "word": "रोड़ा",
+    "normalized": "रोडा",
+    "pos": "男性名詞",
+    "meaning_ja": "障害、妨げ",
+    "category": "一般ニュース語彙",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news050_DJ20260619_ArtificialRain"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "『रोड़ा बनना』の形で、障害になる・妨げになる",
+    "quizWeight": 4
+  },
+  {
+    "word": "वरिष्ठ",
+    "normalized": "वरिष्ठ",
+    "pos": "形容詞",
+    "meaning_ja": "上級の、上席の、シニアの",
+    "category": "行政・制度",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news050_DJ20260619_ArtificialRain"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "वरिष्ठ अधिकारी などの形で頻出",
+    "quizWeight": 4
+  },
+  {
+    "word": "अनुसंधान",
+    "normalized": "अनुसंधान",
+    "pos": "男性名詞",
+    "meaning_ja": "研究、調査",
+    "category": "科学・技術",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news050_DJ20260619_ArtificialRain"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "科学・学術・政策調査文脈で頻出",
+    "quizWeight": 4
+  },
+  {
+    "word": "पर्यावरण विभाग",
+    "normalized": "पर्यावरण_विभाग",
+    "pos": "名詞句",
+    "meaning_ja": "環境局、環境部門",
+    "category": "都市・環境",
+    "difficulty": 4,
+    "importance": 4,
+    "status": "active",
+    "sourceArticleIds": [
+      "news050_DJ20260619_ArtificialRain"
+    ],
+    "sourceCount": 1,
+    "frequency": 1,
+    "notes": "",
+    "quizWeight": 4
+  },
+  {
+    "word": "अलख",
+    "normalized": "अलख",
+    "pos": "女性名詞",
+    "meaning_ja": "精神的な灯火、機運、覚醒の気運",
+    "category": "文化・宗教",
+    "importance": 4,
+    "sourceArticleIds": [],
+    "sourceCount": 0,
+    "frequency": 0
+  },
+  {
+    "word": "नौनिहाल",
+    "normalized": "नौनिहाल",
+    "pos": "男性名詞",
+    "meaning_ja": "子どもたち、若い世代",
+    "category": "教育",
+    "importance": 4,
+    "sourceArticleIds": [],
+    "sourceCount": 0,
+    "frequency": 0
+  },
+  {
+    "word": "आभासी",
+    "normalized": "आभासी",
+    "pos": "形容詞",
+    "meaning_ja": "仮想の、バーチャルな",
+    "category": "科学・技術",
+    "importance": 4,
+    "sourceArticleIds": [],
+    "sourceCount": 0,
+    "frequency": 0
+  },
+  {
+    "word": "साधिका",
+    "normalized": "साधिका",
+    "pos": "女性名詞",
+    "meaning_ja": "女性の修行者、実践者",
+    "category": "文化・宗教",
+    "importance": 4,
+    "sourceArticleIds": [],
+    "sourceCount": 0,
+    "frequency": 0
+  },
+  {
+    "word": "चंद",
+    "normalized": "चंद",
+    "pos": "形容詞",
+    "meaning_ja": "わずかな、いくつかの",
+    "category": "教育",
+    "importance": 3,
+    "sourceArticleIds": [],
+    "sourceCount": 0,
+    "frequency": 0
+  },
+  {
+    "word": "कड़ा",
+    "normalized": "कड़ा",
+    "pos": "形容詞",
+    "meaning_ja": "厳しい、強い、激しい",
+    "category": "教育",
+    "importance": 3,
+    "sourceArticleIds": [],
+    "sourceCount": 0,
+    "frequency": 0
+  },
+  {
+    "word": "महज",
+    "normalized": "महज",
+    "pos": "副詞",
+    "meaning_ja": "単に、たった、わずかに",
+    "category": "教育",
+    "importance": 3,
+    "sourceArticleIds": [],
+    "sourceCount": 0,
+    "frequency": 0
+  },
+  {
+    "word": "रजत",
+    "normalized": "रजत",
+    "pos": "男性名詞",
+    "meaning_ja": "銀、銀メダル",
+    "category": "教育",
+    "importance": 4,
+    "sourceArticleIds": [],
+    "sourceCount": 0,
+    "frequency": 0
+  },
+  {
+    "word": "कांस्य",
+    "normalized": "कांस्य",
+    "pos": "男性名詞",
+    "meaning_ja": "銅、銅メダル",
+    "category": "教育",
+    "importance": 4,
+    "sourceArticleIds": [],
+    "sourceCount": 0,
+    "frequency": 0
+  },
+  {
+    "word": "प्रेरणादायक",
+    "normalized": "प्रेरणादायक",
+    "pos": "形容詞",
+    "meaning_ja": "励みになる、感動を与える",
+    "category": "教育",
+    "importance": 4,
+    "sourceArticleIds": [],
+    "sourceCount": 0,
+    "frequency": 0
+  },
+  {
+    "word": "शुमार",
+    "normalized": "शुमार",
+    "pos": "男性名詞",
+    "meaning_ja": "数に入ること、〜に含まれること",
+    "category": "教育",
+    "importance": 4,
+    "sourceArticleIds": [],
+    "sourceCount": 0,
+    "frequency": 0
+  },
+  {
+    "word": "खिताब",
+    "normalized": "खिताब",
+    "pos": "男性名詞",
+    "meaning_ja": "タイトル、栄冠、称号",
+    "category": "教育",
+    "importance": 4,
+    "sourceArticleIds": [],
+    "sourceCount": 0,
+    "frequency": 0
+  },
+  {
+    "word": "ललक",
+    "normalized": "ललक",
+    "pos": "女性名詞",
+    "meaning_ja": "強い憧れ、熱望",
+    "category": "教育",
+    "importance": 4,
+    "sourceArticleIds": [],
+    "sourceCount": 0,
+    "frequency": 0
+  },
+  {
+    "word": "धूल चटाना",
+    "normalized": "धूल_चटाना",
+    "pos": "複合動詞",
+    "meaning_ja": "完膚なきまでに打ち負かす、圧勝する",
+    "category": "教育",
+    "importance": 4,
+    "sourceArticleIds": [],
+    "sourceCount": 0,
+    "frequency": 0
   }
 ]

@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-06-16T04:04:56.705Z",
+  "generatedAt": "2026-06-19T01:41:31.525Z",
   "input": "data\\news\\vocab_master.json",
   "output": "data\\news\\vocab_master_with_quiz_weight.json",
-  "totalEntries": 812,
-  "changedCount": 283,
+  "totalEntries": 836,
+  "changedCount": 307,
   "unchangedCount": 529,
   "quizWeightSummary": {
     "1": 0,
     "2": 4,
-    "3": 667,
-    "4": 95,
-    "5": 46
+    "3": 690,
+    "4": 93,
+    "5": 49
   },
   "categorySummary": {
     "事件・事故": {
@@ -54,12 +54,12 @@
       }
     },
     "行政・制度": {
-      "total": 95,
+      "total": 97,
       "quizWeight": {
         "1": 0,
         "2": 0,
-        "3": 76,
-        "4": 7,
+        "3": 77,
+        "4": 8,
         "5": 12
       }
     },
@@ -69,8 +69,8 @@
         "1": 0,
         "2": 0,
         "3": 63,
-        "4": 7,
-        "5": 8
+        "4": 6,
+        "5": 9
       }
     },
     "調査・データ": {
@@ -79,16 +79,16 @@
         "1": 0,
         "2": 2,
         "3": 11,
-        "4": 3,
-        "5": 1
+        "4": 1,
+        "5": 3
       }
     },
     "都市・環境": {
-      "total": 59,
+      "total": 63,
       "quizWeight": {
         "1": 0,
         "2": 2,
-        "3": 50,
+        "3": 54,
         "4": 5,
         "5": 2
       }
@@ -104,11 +104,11 @@
       }
     },
     "教育": {
-      "total": 46,
+      "total": 57,
       "quizWeight": {
         "1": 0,
         "2": 0,
-        "3": 43,
+        "3": 54,
         "4": 2,
         "5": 1
       }
@@ -124,21 +124,21 @@
       }
     },
     "文化・宗教": {
-      "total": 110,
+      "total": 112,
       "quizWeight": {
         "1": 0,
         "2": 0,
-        "3": 108,
+        "3": 110,
         "4": 2,
         "5": 0
       }
     },
     "科学・技術": {
-      "total": 8,
+      "total": 10,
       "quizWeight": {
         "1": 0,
         "2": 0,
-        "3": 8,
+        "3": 10,
         "4": 0,
         "5": 0
       }
@@ -164,11 +164,11 @@
       }
     },
     "一般ニュース語彙": {
-      "total": 43,
+      "total": 46,
       "quizWeight": {
         "1": 0,
         "2": 0,
-        "3": 42,
+        "3": 45,
         "4": 0,
         "5": 1
       }
@@ -389,8 +389,8 @@
       "normalized": "अनुमति",
       "category": "行政・制度",
       "importance": 4,
-      "sourceCount": 5,
-      "frequency": 5,
+      "sourceCount": 6,
+      "frequency": 6,
       "oldQuizWeight": 4,
       "newQuizWeight": 5,
       "reason": [
@@ -437,8 +437,8 @@
       "normalized": "योजना",
       "category": "行政・制度",
       "importance": 4,
-      "sourceCount": 3,
-      "frequency": 3,
+      "sourceCount": 4,
+      "frequency": 4,
       "oldQuizWeight": 4,
       "newQuizWeight": 5,
       "reason": [
@@ -453,14 +453,15 @@
       "normalized": "विभाग",
       "category": "行政・制度",
       "importance": 4,
-      "sourceCount": 4,
-      "frequency": 4,
+      "sourceCount": 5,
+      "frequency": 5,
       "oldQuizWeight": 4,
       "newQuizWeight": 5,
       "reason": [
         "base_3",
         "importance>=4 && sourceCount>=2:+1",
-        "sourceCount>=3:+1"
+        "sourceCount>=3:+1",
+        "sourceCount>=5:+1"
       ]
     },
     {
@@ -500,14 +501,15 @@
       "normalized": "व्यवस्था",
       "category": "行政・制度",
       "importance": 4,
-      "sourceCount": 4,
-      "frequency": 4,
+      "sourceCount": 5,
+      "frequency": 5,
       "oldQuizWeight": 4,
       "newQuizWeight": 5,
       "reason": [
         "base_3",
         "importance>=4 && sourceCount>=2:+1",
-        "sourceCount>=3:+1"
+        "sourceCount>=3:+1",
+        "sourceCount>=5:+1"
       ]
     },
     {
@@ -574,6 +576,22 @@
       ]
     },
     {
+      "index": 71,
+      "word": "मंजूरी",
+      "normalized": "मंजूरी",
+      "category": "選挙・裁判",
+      "importance": 4,
+      "sourceCount": 3,
+      "frequency": 3,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 5,
+      "reason": [
+        "base_3",
+        "importance>=4 && sourceCount>=2:+1",
+        "sourceCount>=3:+1"
+      ]
+    },
+    {
       "index": 75,
       "word": "सुनवाई",
       "normalized": "सुनवाई",
@@ -626,13 +644,14 @@
       "normalized": "अभियान",
       "category": "調査・データ",
       "importance": 3,
-      "sourceCount": 3,
-      "frequency": 3,
+      "sourceCount": 4,
+      "frequency": 4,
       "oldQuizWeight": 3,
-      "newQuizWeight": 4,
+      "newQuizWeight": 5,
       "reason": [
         "base_3",
-        "sourceCount>=3:+1"
+        "sourceCount>=3:+1",
+        "importance3 && sourceCount>=4:+0.5"
       ]
     },
     {
@@ -641,13 +660,14 @@
       "normalized": "स्तर",
       "category": "調査・データ",
       "importance": 3,
-      "sourceCount": 3,
-      "frequency": 3,
+      "sourceCount": 4,
+      "frequency": 4,
       "oldQuizWeight": 3,
-      "newQuizWeight": 4,
+      "newQuizWeight": 5,
       "reason": [
         "base_3",
-        "sourceCount>=3:+1"
+        "sourceCount>=3:+1",
+        "importance3 && sourceCount>=4:+0.5"
       ]
     },
     {
@@ -2017,20 +2037,6 @@
       "reason": [
         "base_3",
         "category:重要動詞:+1"
-      ]
-    },
-    {
-      "index": 558,
-      "word": "सीमा",
-      "normalized": "सीमा",
-      "category": "行政・制度",
-      "importance": 4,
-      "sourceCount": 1,
-      "frequency": 1,
-      "oldQuizWeight": 4,
-      "newQuizWeight": 3,
-      "reason": [
-        "base_3"
       ]
     },
     {
@@ -4278,6 +4284,342 @@
       "reason": [
         "base_3"
       ]
+    },
+    {
+      "index": 812,
+      "word": "कृत्रिम बारिश",
+      "normalized": "कृत्रिम_बारिश",
+      "category": "都市・環境",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 813,
+      "word": "क्लाउड सीडिंग",
+      "normalized": "क्लाउड_सीडिंग",
+      "category": "都市・環境",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 814,
+      "word": "परिचालन",
+      "normalized": "परिचालन",
+      "category": "都市・環境",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 815,
+      "word": "गुंजाइश",
+      "normalized": "गुंजाइश",
+      "category": "一般ニュース語彙",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 816,
+      "word": "तालमेल",
+      "normalized": "तालमेल",
+      "category": "一般ニュース語彙",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 817,
+      "word": "प्रशासनिक",
+      "normalized": "प्रशासनिक",
+      "category": "行政・制度",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 818,
+      "word": "रोड़ा",
+      "normalized": "रोडा",
+      "category": "一般ニュース語彙",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 819,
+      "word": "वरिष्ठ",
+      "normalized": "वरिष्ठ",
+      "category": "行政・制度",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 820,
+      "word": "अनुसंधान",
+      "normalized": "अनुसंधान",
+      "category": "科学・技術",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 821,
+      "word": "पर्यावरण विभाग",
+      "normalized": "पर्यावरण_विभाग",
+      "category": "都市・環境",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 822,
+      "word": "अलख",
+      "normalized": "अलख",
+      "category": "文化・宗教",
+      "importance": 4,
+      "sourceCount": 0,
+      "frequency": 0,
+      "oldQuizWeight": null,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 823,
+      "word": "नौनिहाल",
+      "normalized": "नौनिहाल",
+      "category": "教育",
+      "importance": 4,
+      "sourceCount": 0,
+      "frequency": 0,
+      "oldQuizWeight": null,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 824,
+      "word": "आभासी",
+      "normalized": "आभासी",
+      "category": "科学・技術",
+      "importance": 4,
+      "sourceCount": 0,
+      "frequency": 0,
+      "oldQuizWeight": null,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 825,
+      "word": "साधिका",
+      "normalized": "साधिका",
+      "category": "文化・宗教",
+      "importance": 4,
+      "sourceCount": 0,
+      "frequency": 0,
+      "oldQuizWeight": null,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 826,
+      "word": "चंद",
+      "normalized": "चंद",
+      "category": "教育",
+      "importance": 3,
+      "sourceCount": 0,
+      "frequency": 0,
+      "oldQuizWeight": null,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 827,
+      "word": "कड़ा",
+      "normalized": "कड़ा",
+      "category": "教育",
+      "importance": 3,
+      "sourceCount": 0,
+      "frequency": 0,
+      "oldQuizWeight": null,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 828,
+      "word": "महज",
+      "normalized": "महज",
+      "category": "教育",
+      "importance": 3,
+      "sourceCount": 0,
+      "frequency": 0,
+      "oldQuizWeight": null,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 829,
+      "word": "रजत",
+      "normalized": "रजत",
+      "category": "教育",
+      "importance": 4,
+      "sourceCount": 0,
+      "frequency": 0,
+      "oldQuizWeight": null,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 830,
+      "word": "कांस्य",
+      "normalized": "कांस्य",
+      "category": "教育",
+      "importance": 4,
+      "sourceCount": 0,
+      "frequency": 0,
+      "oldQuizWeight": null,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 831,
+      "word": "प्रेरणादायक",
+      "normalized": "प्रेरणादायक",
+      "category": "教育",
+      "importance": 4,
+      "sourceCount": 0,
+      "frequency": 0,
+      "oldQuizWeight": null,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 832,
+      "word": "शुमार",
+      "normalized": "शुमार",
+      "category": "教育",
+      "importance": 4,
+      "sourceCount": 0,
+      "frequency": 0,
+      "oldQuizWeight": null,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 833,
+      "word": "खिताब",
+      "normalized": "खिताब",
+      "category": "教育",
+      "importance": 4,
+      "sourceCount": 0,
+      "frequency": 0,
+      "oldQuizWeight": null,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 834,
+      "word": "ललक",
+      "normalized": "ललक",
+      "category": "教育",
+      "importance": 4,
+      "sourceCount": 0,
+      "frequency": 0,
+      "oldQuizWeight": null,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 835,
+      "word": "धूल चटाना",
+      "normalized": "धूल_चटाना",
+      "category": "教育",
+      "importance": 4,
+      "sourceCount": 0,
+      "frequency": 0,
+      "oldQuizWeight": null,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
     }
   ],
   "auditItems": [
@@ -4334,8 +4676,8 @@
       "normalized": "जांच",
       "category": "事件・事故",
       "importance": 4,
-      "sourceCount": 7,
-      "frequency": 7,
+      "sourceCount": 8,
+      "frequency": 8,
       "oldQuizWeight": 5,
       "newQuizWeight": 5,
       "reason": [
@@ -4953,8 +5295,8 @@
       "normalized": "अधिकारी",
       "category": "行政・制度",
       "importance": 4,
-      "sourceCount": 7,
-      "frequency": 7,
+      "sourceCount": 8,
+      "frequency": 8,
       "oldQuizWeight": 5,
       "newQuizWeight": 5,
       "reason": [
@@ -4970,8 +5312,8 @@
       "normalized": "अनुमति",
       "category": "行政・制度",
       "importance": 4,
-      "sourceCount": 5,
-      "frequency": 5,
+      "sourceCount": 6,
+      "frequency": 6,
       "oldQuizWeight": 4,
       "newQuizWeight": 5,
       "reason": [
@@ -5032,8 +5374,8 @@
       "normalized": "योजना",
       "category": "行政・制度",
       "importance": 4,
-      "sourceCount": 3,
-      "frequency": 3,
+      "sourceCount": 4,
+      "frequency": 4,
       "oldQuizWeight": 4,
       "newQuizWeight": 5,
       "reason": [
@@ -5048,14 +5390,15 @@
       "normalized": "विभाग",
       "category": "行政・制度",
       "importance": 4,
-      "sourceCount": 4,
-      "frequency": 4,
+      "sourceCount": 5,
+      "frequency": 5,
       "oldQuizWeight": 4,
       "newQuizWeight": 5,
       "reason": [
         "base_3",
         "importance>=4 && sourceCount>=2:+1",
-        "sourceCount>=3:+1"
+        "sourceCount>=3:+1",
+        "sourceCount>=5:+1"
       ]
     },
     {
@@ -5157,14 +5500,15 @@
       "normalized": "व्यवस्था",
       "category": "行政・制度",
       "importance": 4,
-      "sourceCount": 4,
-      "frequency": 4,
+      "sourceCount": 5,
+      "frequency": 5,
       "oldQuizWeight": 4,
       "newQuizWeight": 5,
       "reason": [
         "base_3",
         "importance>=4 && sourceCount>=2:+1",
-        "sourceCount>=3:+1"
+        "sourceCount>=3:+1",
+        "sourceCount>=5:+1"
       ]
     },
     {
@@ -5352,13 +5696,14 @@
       "normalized": "मंजूरी",
       "category": "選挙・裁判",
       "importance": 4,
-      "sourceCount": 2,
-      "frequency": 2,
+      "sourceCount": 3,
+      "frequency": 3,
       "oldQuizWeight": 4,
-      "newQuizWeight": 4,
+      "newQuizWeight": 5,
       "reason": [
         "base_3",
-        "importance>=4 && sourceCount>=2:+1"
+        "importance>=4 && sourceCount>=2:+1",
+        "sourceCount>=3:+1"
       ]
     },
     {
@@ -5625,13 +5970,14 @@
       "normalized": "अभियान",
       "category": "調査・データ",
       "importance": 3,
-      "sourceCount": 3,
-      "frequency": 3,
+      "sourceCount": 4,
+      "frequency": 4,
       "oldQuizWeight": 3,
-      "newQuizWeight": 4,
+      "newQuizWeight": 5,
       "reason": [
         "base_3",
-        "sourceCount>=3:+1"
+        "sourceCount>=3:+1",
+        "importance3 && sourceCount>=4:+0.5"
       ]
     },
     {
@@ -5654,13 +6000,14 @@
       "normalized": "स्तर",
       "category": "調査・データ",
       "importance": 3,
-      "sourceCount": 3,
-      "frequency": 3,
+      "sourceCount": 4,
+      "frequency": 4,
       "oldQuizWeight": 3,
-      "newQuizWeight": 4,
+      "newQuizWeight": 5,
       "reason": [
         "base_3",
-        "sourceCount>=3:+1"
+        "sourceCount>=3:+1",
+        "importance3 && sourceCount>=4:+0.5"
       ]
     },
     {
@@ -12280,12 +12627,13 @@
       "normalized": "सीमा",
       "category": "行政・制度",
       "importance": 4,
-      "sourceCount": 1,
-      "frequency": 1,
+      "sourceCount": 2,
+      "frequency": 2,
       "oldQuizWeight": 4,
-      "newQuizWeight": 3,
+      "newQuizWeight": 4,
       "reason": [
-        "base_3"
+        "base_3",
+        "importance>=4 && sourceCount>=2:+1"
       ]
     },
     {
@@ -12574,8 +12922,8 @@
       "normalized": "राजधानी",
       "category": "一般ニュース語彙",
       "importance": 3,
-      "sourceCount": 1,
-      "frequency": 1,
+      "sourceCount": 2,
+      "frequency": 2,
       "oldQuizWeight": 3,
       "newQuizWeight": 3,
       "reason": [
@@ -13531,8 +13879,8 @@
       "normalized": "दौर",
       "category": "一般ニュース語彙",
       "importance": 3,
-      "sourceCount": 1,
-      "frequency": 1,
+      "sourceCount": 2,
+      "frequency": 2,
       "oldQuizWeight": 3,
       "newQuizWeight": 3,
       "reason": [
@@ -15773,8 +16121,8 @@
       "normalized": "प्रस्तावित",
       "category": "国際・外交",
       "importance": 3,
-      "sourceCount": 1,
-      "frequency": 1,
+      "sourceCount": 2,
+      "frequency": 2,
       "oldQuizWeight": 3,
       "newQuizWeight": 3,
       "reason": [
@@ -15832,6 +16180,342 @@
       "sourceCount": 1,
       "frequency": 1,
       "oldQuizWeight": 3,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 812,
+      "word": "कृत्रिम बारिश",
+      "normalized": "कृत्रिम_बारिश",
+      "category": "都市・環境",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 813,
+      "word": "क्लाउड सीडिंग",
+      "normalized": "क्लाउड_सीडिंग",
+      "category": "都市・環境",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 814,
+      "word": "परिचालन",
+      "normalized": "परिचालन",
+      "category": "都市・環境",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 815,
+      "word": "गुंजाइश",
+      "normalized": "गुंजाइश",
+      "category": "一般ニュース語彙",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 816,
+      "word": "तालमेल",
+      "normalized": "तालमेल",
+      "category": "一般ニュース語彙",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 817,
+      "word": "प्रशासनिक",
+      "normalized": "प्रशासनिक",
+      "category": "行政・制度",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 818,
+      "word": "रोड़ा",
+      "normalized": "रोडा",
+      "category": "一般ニュース語彙",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 819,
+      "word": "वरिष्ठ",
+      "normalized": "वरिष्ठ",
+      "category": "行政・制度",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 820,
+      "word": "अनुसंधान",
+      "normalized": "अनुसंधान",
+      "category": "科学・技術",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 821,
+      "word": "पर्यावरण विभाग",
+      "normalized": "पर्यावरण_विभाग",
+      "category": "都市・環境",
+      "importance": 4,
+      "sourceCount": 1,
+      "frequency": 1,
+      "oldQuizWeight": 4,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 822,
+      "word": "अलख",
+      "normalized": "अलख",
+      "category": "文化・宗教",
+      "importance": 4,
+      "sourceCount": 0,
+      "frequency": 0,
+      "oldQuizWeight": null,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 823,
+      "word": "नौनिहाल",
+      "normalized": "नौनिहाल",
+      "category": "教育",
+      "importance": 4,
+      "sourceCount": 0,
+      "frequency": 0,
+      "oldQuizWeight": null,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 824,
+      "word": "आभासी",
+      "normalized": "आभासी",
+      "category": "科学・技術",
+      "importance": 4,
+      "sourceCount": 0,
+      "frequency": 0,
+      "oldQuizWeight": null,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 825,
+      "word": "साधिका",
+      "normalized": "साधिका",
+      "category": "文化・宗教",
+      "importance": 4,
+      "sourceCount": 0,
+      "frequency": 0,
+      "oldQuizWeight": null,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 826,
+      "word": "चंद",
+      "normalized": "चंद",
+      "category": "教育",
+      "importance": 3,
+      "sourceCount": 0,
+      "frequency": 0,
+      "oldQuizWeight": null,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 827,
+      "word": "कड़ा",
+      "normalized": "कड़ा",
+      "category": "教育",
+      "importance": 3,
+      "sourceCount": 0,
+      "frequency": 0,
+      "oldQuizWeight": null,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 828,
+      "word": "महज",
+      "normalized": "महज",
+      "category": "教育",
+      "importance": 3,
+      "sourceCount": 0,
+      "frequency": 0,
+      "oldQuizWeight": null,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 829,
+      "word": "रजत",
+      "normalized": "रजत",
+      "category": "教育",
+      "importance": 4,
+      "sourceCount": 0,
+      "frequency": 0,
+      "oldQuizWeight": null,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 830,
+      "word": "कांस्य",
+      "normalized": "कांस्य",
+      "category": "教育",
+      "importance": 4,
+      "sourceCount": 0,
+      "frequency": 0,
+      "oldQuizWeight": null,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 831,
+      "word": "प्रेरणादायक",
+      "normalized": "प्रेरणादायक",
+      "category": "教育",
+      "importance": 4,
+      "sourceCount": 0,
+      "frequency": 0,
+      "oldQuizWeight": null,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 832,
+      "word": "शुमार",
+      "normalized": "शुमार",
+      "category": "教育",
+      "importance": 4,
+      "sourceCount": 0,
+      "frequency": 0,
+      "oldQuizWeight": null,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 833,
+      "word": "खिताब",
+      "normalized": "खिताब",
+      "category": "教育",
+      "importance": 4,
+      "sourceCount": 0,
+      "frequency": 0,
+      "oldQuizWeight": null,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 834,
+      "word": "ललक",
+      "normalized": "ललक",
+      "category": "教育",
+      "importance": 4,
+      "sourceCount": 0,
+      "frequency": 0,
+      "oldQuizWeight": null,
+      "newQuizWeight": 3,
+      "reason": [
+        "base_3"
+      ]
+    },
+    {
+      "index": 835,
+      "word": "धूल चटाना",
+      "normalized": "धूल_चटाना",
+      "category": "教育",
+      "importance": 4,
+      "sourceCount": 0,
+      "frequency": 0,
+      "oldQuizWeight": null,
       "newQuizWeight": 3,
       "reason": [
         "base_3"

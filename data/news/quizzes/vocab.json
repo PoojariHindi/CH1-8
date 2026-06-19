@@ -8,9 +8,9 @@
     "category": "行政・制度",
     "difficulty": 2,
     "importance": 4,
-    "sourceCount": 7,
-    "frequency": 7,
-    "quizWeight": 17
+    "sourceCount": 8,
+    "frequency": 8,
+    "quizWeight": 18
   },
   {
     "word": "जांच",
@@ -21,9 +21,22 @@
     "category": "事件・事故",
     "difficulty": 2,
     "importance": 4,
-    "sourceCount": 7,
-    "frequency": 7,
-    "quizWeight": 17
+    "sourceCount": 8,
+    "frequency": 8,
+    "quizWeight": 18
+  },
+  {
+    "word": "अनुमति",
+    "display": "अनुमति",
+    "normalized": "अनुमति",
+    "meaning_ja": "許可",
+    "pos": "名詞（女）",
+    "category": "行政・制度",
+    "difficulty": 2,
+    "importance": 4,
+    "sourceCount": 6,
+    "frequency": 6,
+    "quizWeight": 16
   },
   {
     "word": "निगरानी",
@@ -65,12 +78,12 @@
     "quizWeight": 16
   },
   {
-    "word": "अनुमति",
-    "display": "अनुमति",
-    "normalized": "अनुमति",
-    "meaning_ja": "許可",
+    "word": "मांग",
+    "display": "मांग",
+    "normalized": "मांग",
+    "meaning_ja": "要求、需要",
     "pos": "名詞（女）",
-    "category": "行政・制度",
+    "category": "労働・経済",
     "difficulty": 2,
     "importance": 4,
     "sourceCount": 5,
@@ -78,12 +91,12 @@
     "quizWeight": 15
   },
   {
-    "word": "मांग",
-    "display": "मांग",
-    "normalized": "मांग",
-    "meaning_ja": "要求、需要",
-    "pos": "名詞（女）",
-    "category": "労働・経済",
+    "word": "विभाग",
+    "display": "विभाग",
+    "normalized": "विभाग",
+    "meaning_ja": "部門、部署",
+    "pos": "名詞（男）",
+    "category": "行政・制度",
     "difficulty": 2,
     "importance": 4,
     "sourceCount": 5,
@@ -169,16 +182,29 @@
     "quizWeight": 14
   },
   {
-    "word": "विभाग",
-    "display": "विभाग",
-    "normalized": "विभाग",
-    "meaning_ja": "部門、部署",
-    "pos": "名詞（男）",
+    "word": "योजना",
+    "display": "योजना",
+    "normalized": "योजना",
+    "meaning_ja": "計画",
+    "pos": "名詞（女）",
     "category": "行政・制度",
     "difficulty": 2,
     "importance": 4,
     "sourceCount": 4,
     "frequency": 4,
+    "quizWeight": 14
+  },
+  {
+    "word": "व्यवस्था",
+    "display": "व्यवस्था",
+    "normalized": "व्यवस्था",
+    "meaning_ja": "体制; 仕組み",
+    "pos": "名詞（女）",
+    "category": "行政・制度",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 5,
+    "frequency": 5,
     "quizWeight": 14
   },
   {
@@ -364,19 +390,6 @@
     "quizWeight": 13
   },
   {
-    "word": "योजना",
-    "display": "योजना",
-    "normalized": "योजना",
-    "meaning_ja": "計画",
-    "pos": "名詞（女）",
-    "category": "行政・制度",
-    "difficulty": 2,
-    "importance": 4,
-    "sourceCount": 3,
-    "frequency": 3,
-    "quizWeight": 13
-  },
-  {
     "word": "राहत",
     "display": "राहत",
     "normalized": "राहत",
@@ -400,19 +413,6 @@
     "importance": 4,
     "sourceCount": 2,
     "frequency": 2,
-    "quizWeight": 13
-  },
-  {
-    "word": "व्यवस्था",
-    "display": "व्यवस्था",
-    "normalized": "व्यवस्था",
-    "meaning_ja": "体制; 仕組み",
-    "pos": "名詞（女）",
-    "category": "行政・制度",
-    "difficulty": 3,
-    "importance": 4,
-    "sourceCount": 4,
-    "frequency": 4,
     "quizWeight": 13
   },
   {
@@ -465,6 +465,19 @@
     "importance": 5,
     "sourceCount": 2,
     "frequency": 2,
+    "quizWeight": 12
+  },
+  {
+    "word": "अभियान",
+    "display": "अभियान",
+    "normalized": "अभियान",
+    "meaning_ja": "キャンペーン、活動",
+    "pos": "名詞（男）",
+    "category": "調査・データ",
+    "difficulty": 2,
+    "importance": 3,
+    "sourceCount": 4,
+    "frequency": 4,
     "quizWeight": 12
   },
   {
@@ -689,6 +702,19 @@
     "quizWeight": 12
   },
   {
+    "word": "मंजूरी",
+    "display": "मंजूरी",
+    "normalized": "मंजूरी",
+    "meaning_ja": "承認、認可",
+    "pos": "名詞（女）",
+    "category": "選挙・裁判",
+    "difficulty": 3,
+    "importance": 4,
+    "sourceCount": 3,
+    "frequency": 3,
+    "quizWeight": 12
+  },
+  {
     "word": "मज़दूर",
     "display": "मज़दूर",
     "normalized": "मजदूर",
@@ -780,6 +806,19 @@
     "quizWeight": 12
   },
   {
+    "word": "सीमा",
+    "display": "सीमा",
+    "normalized": "सीमा",
+    "meaning_ja": "国境、境界",
+    "pos": "名詞（女）",
+    "category": "行政・制度",
+    "difficulty": 2,
+    "importance": 4,
+    "sourceCount": 2,
+    "frequency": 2,
+    "quizWeight": 12
+  },
+  {
     "word": "सुनवाई",
     "display": "सुनवाई",
     "normalized": "सुनवाई",
@@ -790,6 +829,19 @@
     "importance": 4,
     "sourceCount": 3,
     "frequency": 3,
+    "quizWeight": 12
+  },
+  {
+    "word": "स्तर",
+    "display": "स्तर",
+    "normalized": "स्तर",
+    "meaning_ja": "水準; レベル",
+    "pos": "名詞（男）",
+    "category": "調査・データ",
+    "difficulty": 2,
+    "importance": 3,
+    "sourceCount": 4,
+    "frequency": 4,
     "quizWeight": 12
   },
   {
@@ -855,19 +907,6 @@
     "importance": 5,
     "sourceCount": 1,
     "frequency": 1,
-    "quizWeight": 11
-  },
-  {
-    "word": "अभियान",
-    "display": "अभियान",
-    "normalized": "अभियान",
-    "meaning_ja": "キャンペーン、活動",
-    "pos": "名詞（男）",
-    "category": "調査・データ",
-    "difficulty": 2,
-    "importance": 3,
-    "sourceCount": 3,
-    "frequency": 3,
     "quizWeight": 11
   },
   {
@@ -1638,19 +1677,6 @@
     "quizWeight": 11
   },
   {
-    "word": "मंजूरी",
-    "display": "मंजूरी",
-    "normalized": "मंजूरी",
-    "meaning_ja": "承認、認可",
-    "pos": "名詞（女）",
-    "category": "選挙・裁判",
-    "difficulty": 3,
-    "importance": 4,
-    "sourceCount": 2,
-    "frequency": 2,
-    "quizWeight": 11
-  },
-  {
     "word": "मतदाता",
     "display": "मतदाता",
     "normalized": "मतदाता",
@@ -1976,19 +2002,6 @@
     "quizWeight": 11
   },
   {
-    "word": "सीमा",
-    "display": "सीमा",
-    "normalized": "सीमा",
-    "meaning_ja": "国境、境界",
-    "pos": "名詞（女）",
-    "category": "行政・制度",
-    "difficulty": 2,
-    "importance": 4,
-    "sourceCount": 1,
-    "frequency": 1,
-    "quizWeight": 11
-  },
-  {
     "word": "सुधार",
     "display": "सुधार",
     "normalized": "सुधार",
@@ -2038,19 +2051,6 @@
     "importance": 4,
     "sourceCount": 1,
     "frequency": 1,
-    "quizWeight": 11
-  },
-  {
-    "word": "स्तर",
-    "display": "स्तर",
-    "normalized": "स्तर",
-    "meaning_ja": "水準; レベル",
-    "pos": "名詞（男）",
-    "category": "調査・データ",
-    "difficulty": 2,
-    "importance": 3,
-    "sourceCount": 3,
-    "frequency": 3,
     "quizWeight": 11
   },
   {
@@ -3679,6 +3679,19 @@
     "quizWeight": 10
   },
   {
+    "word": "राजधानी",
+    "display": "राजधानी",
+    "normalized": "राजधानी",
+    "meaning_ja": "首都",
+    "pos": "名詞（女）",
+    "category": "一般ニュース語彙",
+    "difficulty": 2,
+    "importance": 3,
+    "sourceCount": 2,
+    "frequency": 2,
+    "quizWeight": 10
+  },
+  {
     "word": "राष्ट्रीय शिक्षा नीति",
     "display": "राष्ट्रीय शिक्षा नीति",
     "normalized": "राष्ट्रीय_शिक्षा_नीति",
@@ -4511,6 +4524,19 @@
     "quizWeight": 9
   },
   {
+    "word": "अनुसंधान",
+    "display": "अनुसंधान",
+    "normalized": "अनुसंधान",
+    "meaning_ja": "研究、調査",
+    "pos": "男性名詞",
+    "category": "科学・技術",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
     "word": "अपीलीय",
     "display": "अपीलीय",
     "normalized": "अपीलीय",
@@ -5096,6 +5122,19 @@
     "quizWeight": 9
   },
   {
+    "word": "कृत्रिम बारिश",
+    "display": "कृत्रिम बारिश",
+    "normalized": "कृत्रिम_बारिश",
+    "meaning_ja": "人工降雨",
+    "pos": "名詞句",
+    "category": "都市・環境",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
     "word": "कृत्रिम बुद्धिमत्ता",
     "display": "कृत्रिम बुद्धिमत्ता",
     "normalized": "कृत्रिम_बुद्धिमत्ता",
@@ -5168,6 +5207,19 @@
     "pos": "名詞（男）",
     "category": "行政・制度",
     "difficulty": 5,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "क्लाउड सीडिंग",
+    "display": "क्लाउड सीडिंग",
+    "normalized": "क्लाउड_सीडिंग",
+    "meaning_ja": "クラウドシーディング、人工降雨技術",
+    "pos": "名詞句",
+    "category": "都市・環境",
+    "difficulty": 4,
     "importance": 4,
     "sourceCount": 1,
     "frequency": 1,
@@ -5285,6 +5337,19 @@
     "pos": "名詞（女）",
     "category": "医療・健康",
     "difficulty": 5,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "गुंजाइश",
+    "display": "गुंजाइश",
+    "normalized": "गुंजाइश",
+    "meaning_ja": "余地、可能性、見込み",
+    "pos": "女性名詞",
+    "category": "一般ニュース語彙",
+    "difficulty": 4,
     "importance": 4,
     "sourceCount": 1,
     "frequency": 1,
@@ -5837,6 +5902,19 @@
     "quizWeight": 9
   },
   {
+    "word": "तालमेल",
+    "display": "तालमेल",
+    "normalized": "तालमेल",
+    "meaning_ja": "連携、調整、足並み",
+    "pos": "男性名詞",
+    "category": "一般ニュース語彙",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
     "word": "तुलना",
     "display": "तुलना",
     "normalized": "तुलना",
@@ -5990,6 +6068,19 @@
     "importance": 4,
     "sourceCount": 1,
     "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "दौर",
+    "display": "दौर",
+    "normalized": "दौर",
+    "meaning_ja": "時期、段階",
+    "pos": "名詞（男）",
+    "category": "一般ニュース語彙",
+    "difficulty": 3,
+    "importance": 3,
+    "sourceCount": 2,
+    "frequency": 2,
     "quizWeight": 9
   },
   {
@@ -6331,6 +6422,19 @@
     "quizWeight": 9
   },
   {
+    "word": "परिचालन",
+    "display": "परिचालन",
+    "normalized": "परिचालन",
+    "meaning_ja": "運用、運行、実施",
+    "pos": "男性名詞",
+    "category": "都市・環境",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
     "word": "परिषद",
     "display": "परिषद",
     "normalized": "परिषद",
@@ -6351,6 +6455,19 @@
     "pos": "名詞（男）",
     "category": "行政・制度",
     "difficulty": 5,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "पर्यावरण विभाग",
+    "display": "पर्यावरण विभाग",
+    "normalized": "पर्यावरण_विभाग",
+    "meaning_ja": "環境局、環境部門",
+    "pos": "名詞句",
+    "category": "都市・環境",
+    "difficulty": 4,
     "importance": 4,
     "sourceCount": 1,
     "frequency": 1,
@@ -6614,6 +6731,32 @@
     "importance": 3,
     "sourceCount": 1,
     "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "प्रशासनिक",
+    "display": "प्रशासनिक",
+    "normalized": "प्रशासनिक",
+    "meaning_ja": "行政上の、行政的な",
+    "pos": "形容詞",
+    "category": "行政・制度",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "प्रस्तावित",
+    "display": "प्रस्तावित",
+    "normalized": "प्रस्तावित",
+    "meaning_ja": "提案された",
+    "pos": "形容詞",
+    "category": "国際・外交",
+    "difficulty": 3,
+    "importance": 3,
+    "sourceCount": 2,
+    "frequency": 2,
     "quizWeight": 9
   },
   {
@@ -7241,19 +7384,6 @@
     "quizWeight": 9
   },
   {
-    "word": "राजधानी",
-    "display": "राजधानी",
-    "normalized": "राजधानी",
-    "meaning_ja": "首都",
-    "pos": "名詞（女）",
-    "category": "一般ニュース語彙",
-    "difficulty": 2,
-    "importance": 3,
-    "sourceCount": 1,
-    "frequency": 1,
-    "quizWeight": 9
-  },
-  {
     "word": "राजनीतिकरण",
     "display": "राजनीतिकरण",
     "normalized": "राजनीतिकरण",
@@ -7327,6 +7457,19 @@
     "category": "一般ニュース語彙",
     "difficulty": 2,
     "importance": 3,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "रोड़ा",
+    "display": "रोड़ा",
+    "normalized": "रोडा",
+    "meaning_ja": "障害、妨げ",
+    "pos": "男性名詞",
+    "category": "一般ニュース語彙",
+    "difficulty": 4,
+    "importance": 4,
     "sourceCount": 1,
     "frequency": 1,
     "quizWeight": 9
@@ -7442,6 +7585,19 @@
     "meaning_ja": "花婿、新郎",
     "pos": "名詞（男）",
     "category": "文化・宗教",
+    "difficulty": 4,
+    "importance": 4,
+    "sourceCount": 1,
+    "frequency": 1,
+    "quizWeight": 9
+  },
+  {
+    "word": "वरिष्ठ",
+    "display": "वरिष्ठ",
+    "normalized": "वरिष्ठ",
+    "meaning_ja": "上級の、上席の、シニアの",
+    "pos": "形容詞",
+    "category": "行政・制度",
     "difficulty": 4,
     "importance": 4,
     "sourceCount": 1,
@@ -8619,19 +8775,6 @@
     "quizWeight": 8
   },
   {
-    "word": "दौर",
-    "display": "दौर",
-    "normalized": "दौर",
-    "meaning_ja": "時期、段階",
-    "pos": "名詞（男）",
-    "category": "一般ニュース語彙",
-    "difficulty": 3,
-    "importance": 3,
-    "sourceCount": 1,
-    "frequency": 1,
-    "quizWeight": 8
-  },
-  {
     "word": "नकद",
     "display": "नकद",
     "normalized": "नकद",
@@ -8807,19 +8950,6 @@
     "meaning_ja": "受験票、入場許可証",
     "pos": "名詞（男）",
     "category": "教育",
-    "difficulty": 3,
-    "importance": 3,
-    "sourceCount": 1,
-    "frequency": 1,
-    "quizWeight": 8
-  },
-  {
-    "word": "प्रस्तावित",
-    "display": "प्रस्तावित",
-    "normalized": "प्रस्तावित",
-    "meaning_ja": "提案された",
-    "pos": "形容詞",
-    "category": "国際・外交",
     "difficulty": 3,
     "importance": 3,
     "sourceCount": 1,
