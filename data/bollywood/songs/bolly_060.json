@@ -1,0 +1,287 @@
+{
+  "id": "bolly_060",
+  "schema_version": 2,
+
+  "title": "Aaja Nachle",
+  "film": "Aaja Nachle",
+  "year": 2007,
+
+  "singer": [
+    "Sunidhi Chauhan"
+  ],
+
+  "lyricist": [
+    "Piyush Mishra"
+  ],
+
+  "composer": [
+    "Salim Merchant",
+    "Sulaiman Merchant"
+  ],
+
+  "notes": [
+    "マードゥリー"
+  ],
+
+  "tags": [
+    "ダンス"
+  ],
+
+  "emotion": "festive_dance",
+  "register": "folk_bollywood",
+
+  "key_phrase": "ओ नचले नचले मेरे यार तू नचले",
+
+  "expressions": [
+    {
+      "text": "झुमका उठा के लाया",
+      "normalized": "झुमका उठा के लाया",
+      "meaning_ja": "落とした耳飾りを拾って持ってきた",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "बरेली के बाज़ार में",
+      "normalized": "बरेली के बाजार में",
+      "meaning_ja": "バレーリーの市場で",
+      "type": "cultural",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "ठुमका लगाना",
+      "normalized": "ठुमका लगाना",
+      "meaning_ja": "腰を振って踊る",
+      "type": "dance",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "घुँघरू बाँध देना",
+      "normalized": "घुंघरू बांध देना",
+      "meaning_ja": "足鈴を結びつける",
+      "type": "dance",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "झनक झनक झंकार",
+      "normalized": "झनक झनक झंकार",
+      "meaning_ja": "チリンチリンと鳴り響く音",
+      "type": "onomatopoeia",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "सबको भुला के",
+      "normalized": "सबको भुला के",
+      "meaning_ja": "すべてを忘れて",
+      "type": "expression",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "झट से उठा के",
+      "normalized": "झट से उठा के",
+      "meaning_ja": "さっと持ち上げて",
+      "type": "expression",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "नथनी पड़ी थी",
+      "normalized": "नथनी पड़ी थी",
+      "meaning_ja": "鼻飾りが置かれていた",
+      "type": "expression",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "अटरिया पे आ गई",
+      "normalized": "अटरिया पे आ गई",
+      "meaning_ja": "屋上の小部屋に上がってきた",
+      "type": "folk",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "मोची भी खुद को सोनार है",
+      "normalized": "मोची भी खुद को सोनार है",
+      "meaning_ja": "靴職人まで自分を金細工師だと思っている",
+      "type": "humorous",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "कमसिन कली",
+      "normalized": "कमसिन कली",
+      "meaning_ja": "若く可憐な娘",
+      "type": "poetic",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "तन के चली थी",
+      "normalized": "तन के चली थी",
+      "meaning_ja": "胸を張って歩いていた",
+      "type": "expression",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "गली पे बलखा गई",
+      "normalized": "गली पे बलखा गई",
+      "meaning_ja": "通りでしなやかに身をくねらせた",
+      "type": "poetic",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "जाने जवानी कब आ गई",
+      "normalized": "जाने जवानी कब आ गई",
+      "meaning_ja": "いつの間にか青春が訪れていた",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "मेरे सदके",
+      "normalized": "मेरे सदके",
+      "meaning_ja": "私のために、私に免じて",
+      "type": "urdu_poetic",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "उधारी देना",
+      "normalized": "उधारी देना",
+      "meaning_ja": "つけで売る",
+      "type": "expression",
+      "importance": 3,
+      "status": "active"
+    }
+  ],
+
+  "vocab_candidates": [
+    {
+      "word": "झुमका",
+      "normalized": "झुमका",
+      "pos": "名詞（男）",
+      "meaning_ja": "吊り下げ型の耳飾り",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "ठुमका",
+      "normalized": "ठुमका",
+      "pos": "名詞（男）",
+      "meaning_ja": "腰を振る踊りの動作",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "घुँघरू",
+      "normalized": "घुंघरू",
+      "pos": "名詞（男）",
+      "meaning_ja": "足鈴",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "झंकार",
+      "normalized": "झंकार",
+      "pos": "名詞（女）",
+      "meaning_ja": "鈴や弦の響き",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "नथनी",
+      "normalized": "नथनी",
+      "pos": "名詞（女）",
+      "meaning_ja": "鼻飾り",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "अटरिया",
+      "normalized": "अटरिया",
+      "pos": "名詞（女）",
+      "meaning_ja": "屋上の小部屋、屋根裏部屋",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "मोची",
+      "normalized": "मोची",
+      "pos": "名詞（男）",
+      "meaning_ja": "靴職人",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "सोनार",
+      "normalized": "सोनार",
+      "pos": "名詞（男）",
+      "meaning_ja": "金細工師",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "कमसिन",
+      "normalized": "कमसिन",
+      "pos": "形容詞",
+      "meaning_ja": "若い、うら若い",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "कली",
+      "normalized": "कली",
+      "pos": "名詞（女）",
+      "meaning_ja": "花のつぼみ",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "बलखाना",
+      "normalized": "बलखाना",
+      "pos": "自動詞",
+      "meaning_ja": "しなやかに身をくねらせる",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "सदके",
+      "normalized": "सदके",
+      "pos": "名詞（男）・慣用",
+      "meaning_ja": "献身、捧げる気持ち",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "उधारी",
+      "normalized": "उधारी",
+      "pos": "名詞（女）",
+      "meaning_ja": "掛け売り、つけ",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "हलवाई",
+      "normalized": "हलवाई",
+      "pos": "名詞（男）",
+      "meaning_ja": "菓子職人、 मिठाई屋",
+      "importance": 4,
+      "status": "active"
+    }
+  ],
+
+  "meta": {
+    "copyright_safe": true,
+    "lyrics_included": false,
+    "source_type": "manual_curated",
+    "dedupe_ready": true
+  }
+}

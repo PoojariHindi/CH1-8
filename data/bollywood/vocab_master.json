@@ -157,10 +157,11 @@
       "bolly_022",
       "bolly_026",
       "bolly_037",
-      "bolly_041"
+      "bolly_041",
+      "bolly_059"
     ],
-    "sourceCount": 6,
-    "frequency": 6,
+    "sourceCount": 7,
+    "frequency": 7,
     "tags": [],
     "notes": ""
   },
@@ -196,10 +197,11 @@
       "bolly_030",
       "bolly_031",
       "bolly_039",
-      "bolly_046"
+      "bolly_046",
+      "bolly_062"
     ],
-    "sourceCount": 6,
-    "frequency": 6,
+    "sourceCount": 7,
+    "frequency": 7,
     "tags": [
       "感情"
     ],
@@ -993,15 +995,16 @@
       "bolly_025",
       "bolly_037",
       "bolly_041",
-      "bolly_042"
+      "bolly_042",
+      "bolly_058"
     ],
     "tags": [],
     "notes": "",
     "layer": "A",
     "difficulty": 2,
     "category": "abstract",
-    "sourceCount": 6,
-    "frequency": 6
+    "sourceCount": 7,
+    "frequency": 7
   },
   {
     "word": "मन",
@@ -1448,7 +1451,7 @@
     "meaning_ja": "酔ったような、夢中になった",
     "pos": "形容詞",
     "importance": 4,
-    "status": "active",
+    "status": "inactive",
     "sourceSongIds": [
       "bolly_015"
     ],
@@ -1513,10 +1516,11 @@
     "normalized": "जुदा",
     "meaning_ja": "異なる、離れた",
     "pos": "形容詞",
-    "importance": 3,
+    "importance": 4,
     "status": "active",
     "sourceSongIds": [
-      "bolly_015"
+      "bolly_015",
+      "bolly_062"
     ],
     "tags": [
       "恋愛",
@@ -1525,8 +1529,8 @@
     "layer": "B",
     "difficulty": 2,
     "category": "description",
-    "sourceCount": 1,
-    "frequency": 1,
+    "sourceCount": 2,
+    "frequency": 2,
     "notes": ""
   },
   {
@@ -1714,12 +1718,14 @@
     "status": "active",
     "sourceSongIds": [
       "bolly_001",
-      "bolly_002"
+      "bolly_002",
+      "bolly_058",
+      "bolly_059"
     ],
     "tags": [],
     "notes": "",
-    "sourceCount": 2,
-    "frequency": 2
+    "sourceCount": 4,
+    "frequency": 4
   },
   {
     "word": "ख़ामोशी",
@@ -1960,12 +1966,13 @@
       "bolly_003",
       "bolly_033",
       "bolly_037",
-      "bolly_038"
+      "bolly_038",
+      "bolly_058"
     ],
     "tags": [],
     "notes": "",
-    "sourceCount": 4,
-    "frequency": 4
+    "sourceCount": 5,
+    "frequency": 5
   },
   {
     "word": "भीगना",
@@ -2277,12 +2284,13 @@
       "bolly_007",
       "bolly_021",
       "bolly_027",
-      "bolly_031"
+      "bolly_031",
+      "bolly_062"
     ],
     "tags": [],
     "notes": "",
-    "sourceCount": 4,
-    "frequency": 4
+    "sourceCount": 5,
+    "frequency": 5
   },
   {
     "word": "यक़ीं",
@@ -2683,12 +2691,13 @@
     "sourceSongIds": [
       "bolly_014",
       "bolly_020",
-      "bolly_024"
+      "bolly_024",
+      "bolly_059"
     ],
     "tags": [],
     "notes": "",
-    "sourceCount": 3,
-    "frequency": 3
+    "sourceCount": 4,
+    "frequency": 4
   },
   {
     "word": "तरन्नुम",
@@ -3181,10 +3190,11 @@
     "sourceSongIds": [
       "bolly_019",
       "bolly_049",
-      "bolly_051"
+      "bolly_051",
+      "bolly_059"
     ],
-    "sourceCount": 3,
-    "frequency": 3,
+    "sourceCount": 4,
+    "frequency": 4,
     "tags": [],
     "notes": ""
   },
@@ -4373,10 +4383,11 @@
     "importance": 4,
     "status": "active",
     "sourceSongIds": [
-      "bolly_025"
+      "bolly_025",
+      "bolly_062"
     ],
-    "sourceCount": 1,
-    "frequency": 1
+    "sourceCount": 2,
+    "frequency": 2
   },
   {
     "word": "कामिल",
@@ -4886,10 +4897,11 @@
     "status": "active",
     "sourceSongIds": [
       "bolly_028",
-      "bolly_053"
+      "bolly_053",
+      "bolly_061"
     ],
-    "sourceCount": 2,
-    "frequency": 2
+    "sourceCount": 3,
+    "frequency": 3
   },
   {
     "word": "नखरा",
@@ -5213,10 +5225,11 @@
     "importance": 4,
     "status": "active",
     "sourceSongIds": [
-      "bolly_029"
+      "bolly_029",
+      "bolly_060"
     ],
-    "sourceCount": 1,
-    "frequency": 1
+    "sourceCount": 2,
+    "frequency": 2
   },
   {
     "word": "झमकना",
@@ -5266,10 +5279,11 @@
     "importance": 3,
     "status": "active",
     "sourceSongIds": [
-      "bolly_029"
+      "bolly_029",
+      "bolly_059"
     ],
-    "sourceCount": 1,
-    "frequency": 1
+    "sourceCount": 2,
+    "frequency": 2
   },
   {
     "word": "मद्धम",
@@ -6485,10 +6499,11 @@
     "importance": 4,
     "status": "active",
     "sourceSongIds": [
-      "bolly_037"
+      "bolly_037",
+      "bolly_058"
     ],
-    "sourceCount": 1,
-    "frequency": 1
+    "sourceCount": 2,
+    "frequency": 2
   },
   {
     "word": "ठिकाना",
@@ -6804,7 +6819,7 @@
     "sourceCount": 1
   },
   {
-    "word": "बुनते",
+    "word": "बुनना",
     "normalized": "बुनना",
     "pos": "他動詞",
     "meaning_ja": "織る、編む、紡ぐ",
@@ -7303,11 +7318,12 @@
     "meaning_ja": "つぼみ",
     "importance": 3,
     "sourceSongIds": [
-      "bolly_041"
+      "bolly_041",
+      "bolly_060"
     ],
-    "frequency": 1,
+    "frequency": 2,
     "status": "active",
-    "sourceCount": 1
+    "sourceCount": 2
   },
   {
     "word": "किरण",
@@ -8928,10 +8944,11 @@
     "importance": 4,
     "status": "active",
     "sourceSongIds": [
-      "bolly_047"
+      "bolly_047",
+      "bolly_060"
     ],
-    "sourceCount": 1,
-    "frequency": 1
+    "sourceCount": 2,
+    "frequency": 2
   },
   {
     "word": "पायल",
@@ -9524,11 +9541,12 @@
       "bolly_016",
       "bolly_020",
       "bolly_025",
-      "bolly_051"
+      "bolly_051",
+      "bolly_059"
     ],
     "status": "active",
-    "sourceCount": 5,
-    "frequency": 5
+    "sourceCount": 6,
+    "frequency": 6
   },
   {
     "word": "रग",
@@ -10957,6 +10975,607 @@
     "importance": 4,
     "sourceSongIds": [
       "bolly_057"
+    ],
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "खुमार",
+    "normalized": "खुमार",
+    "display": "खुमार",
+    "variants": [
+      "खुमार"
+    ],
+    "pos": "名詞（男）",
+    "meaning_ja": "酔い心地、陶酔感",
+    "importance": 4,
+    "sourceSongIds": [
+      "bolly_058"
+    ],
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "बहकना",
+    "normalized": "बहकना",
+    "display": "बहकना",
+    "variants": [
+      "बहकना"
+    ],
+    "pos": "自動詞",
+    "meaning_ja": "惑う、道を外れる、酔いしれる",
+    "importance": 3,
+    "sourceSongIds": [
+      "bolly_058"
+    ],
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "माथा",
+    "normalized": "माथा",
+    "display": "माथा",
+    "variants": [
+      "माथा"
+    ],
+    "pos": "名詞（男）",
+    "meaning_ja": "額、頭",
+    "importance": 3,
+    "sourceSongIds": [
+      "bolly_058"
+    ],
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "मुस्कन",
+    "normalized": "मुस्कन",
+    "display": "मुस्कन",
+    "variants": [
+      "मुस्कन"
+    ],
+    "pos": "名詞（女）",
+    "meaning_ja": "微笑み",
+    "importance": 3,
+    "sourceSongIds": [
+      "bolly_058"
+    ],
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "छब",
+    "normalized": "छब",
+    "display": "छब",
+    "variants": [
+      "छब"
+    ],
+    "pos": "名詞（女）",
+    "meaning_ja": "美しさ、面影",
+    "importance": 4,
+    "sourceSongIds": [
+      "bolly_058"
+    ],
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "ग़ज़ब",
+    "normalized": "गजब",
+    "display": "ग़ज़ब",
+    "variants": [
+      "ग़ज़ब",
+      "गजब"
+    ],
+    "pos": "名詞（男）",
+    "meaning_ja": "驚異、ものすごさ",
+    "importance": 4,
+    "sourceSongIds": [
+      "bolly_058"
+    ],
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "क़ुर्बान",
+    "normalized": "कुर्बान",
+    "display": "क़ुर्बान",
+    "variants": [
+      "क़ुर्बान",
+      "कुर्बान"
+    ],
+    "pos": "形容詞",
+    "meaning_ja": "身を捧げた、犠牲になった",
+    "importance": 4,
+    "sourceSongIds": [
+      "bolly_058"
+    ],
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "गौर",
+    "normalized": "गौर",
+    "display": "गौर",
+    "variants": [
+      "गौर"
+    ],
+    "pos": "名詞（男）",
+    "meaning_ja": "注意、熟考",
+    "importance": 4,
+    "sourceSongIds": [
+      "bolly_058"
+    ],
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "दिलकश",
+    "display": "दिलकश",
+    "normalized": "दिलकश",
+    "pos": "形容詞",
+    "meaning_ja": "魅力的な、心を奪う",
+    "importance": 4,
+    "sourceSongIds": [
+      "bolly_059"
+    ],
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "रहज़न",
+    "display": "रहज़न",
+    "normalized": "रहजन",
+    "pos": "名詞（男）",
+    "meaning_ja": "盗賊、追いはぎ",
+    "importance": 4,
+    "sourceSongIds": [
+      "bolly_059"
+    ],
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "रहबर",
+    "display": "रहबर",
+    "normalized": "रहबर",
+    "pos": "名詞（男）",
+    "meaning_ja": "案内人、導き手",
+    "importance": 4,
+    "sourceSongIds": [
+      "bolly_059"
+    ],
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "इल्ज़ाम",
+    "display": "इल्ज़ाम",
+    "normalized": "इलजाम",
+    "pos": "名詞（男）",
+    "meaning_ja": "非難、容疑、責任",
+    "importance": 4,
+    "sourceSongIds": [
+      "bolly_059"
+    ],
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "हंगामाखेज",
+    "display": "हंगामाखेज",
+    "normalized": "हंगामाखेज",
+    "pos": "形容詞",
+    "meaning_ja": "騒動を引き起こすような",
+    "importance": 4,
+    "sourceSongIds": [
+      "bolly_059"
+    ],
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "राज़",
+    "display": "राज़",
+    "normalized": "राज",
+    "pos": "名詞（男）",
+    "meaning_ja": "秘密",
+    "importance": 3,
+    "sourceSongIds": [
+      "bolly_059"
+    ],
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "ठुमका",
+    "normalized": "ठुमका",
+    "display": "ठुमका",
+    "variants": [
+      "ठुमका"
+    ],
+    "pos": "名詞（男）",
+    "meaning_ja": "腰を振る踊りの動作",
+    "importance": 4,
+    "sourceSongIds": [
+      "bolly_060"
+    ],
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "झंकार",
+    "normalized": "झंकार",
+    "display": "झंकार",
+    "variants": [
+      "झंकार"
+    ],
+    "pos": "名詞（女）",
+    "meaning_ja": "鈴や弦の響き",
+    "importance": 4,
+    "sourceSongIds": [
+      "bolly_060"
+    ],
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "नथनी",
+    "normalized": "नथनी",
+    "display": "नथनी",
+    "variants": [
+      "नथनी"
+    ],
+    "pos": "名詞（女）",
+    "meaning_ja": "鼻飾り",
+    "importance": 4,
+    "sourceSongIds": [
+      "bolly_060"
+    ],
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "अटरिया",
+    "normalized": "अटरिया",
+    "display": "अटरिया",
+    "variants": [
+      "अटरिया"
+    ],
+    "pos": "名詞（女）",
+    "meaning_ja": "屋上の小部屋、屋根裏部屋",
+    "importance": 4,
+    "sourceSongIds": [
+      "bolly_060"
+    ],
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "मोची",
+    "normalized": "मोची",
+    "display": "मोची",
+    "variants": [
+      "मोची"
+    ],
+    "pos": "名詞（男）",
+    "meaning_ja": "靴職人",
+    "importance": 3,
+    "sourceSongIds": [
+      "bolly_060"
+    ],
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "सोनार",
+    "normalized": "सोनार",
+    "display": "सोनार",
+    "variants": [
+      "सोनार"
+    ],
+    "pos": "名詞（男）",
+    "meaning_ja": "金細工師",
+    "importance": 3,
+    "sourceSongIds": [
+      "bolly_060"
+    ],
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "कमसिन",
+    "normalized": "कमसिन",
+    "display": "कमसिन",
+    "variants": [
+      "कमसिन"
+    ],
+    "pos": "形容詞",
+    "meaning_ja": "若い、うら若い",
+    "importance": 4,
+    "sourceSongIds": [
+      "bolly_060"
+    ],
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "बलखाना",
+    "normalized": "बलखाना",
+    "display": "बलखाना",
+    "variants": [
+      "बलखाना"
+    ],
+    "pos": "自動詞",
+    "meaning_ja": "しなやかに身をくねらせる",
+    "importance": 4,
+    "sourceSongIds": [
+      "bolly_060"
+    ],
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "सदका",
+    "normalized": "सदका",
+    "display": "सदका",
+    "variants": [
+      "सदका",
+      "सदके"
+    ],
+    "pos": "名詞（男）",
+    "meaning_ja": "捧げもの、献身、犠牲",
+    "importance": 4,
+    "sourceSongIds": [
+      "bolly_060"
+    ],
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "उधारी",
+    "normalized": "उधारी",
+    "display": "उधारी",
+    "variants": [
+      "उधारी"
+    ],
+    "pos": "名詞（女）",
+    "meaning_ja": "掛け売り、つけ",
+    "importance": 3,
+    "sourceSongIds": [
+      "bolly_060"
+    ],
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "हलवाई",
+    "normalized": "हलवाई",
+    "display": "हलवाई",
+    "variants": [
+      "हलवाई"
+    ],
+    "pos": "名詞（男）",
+    "meaning_ja": "菓子職人",
+    "importance": 4,
+    "sourceSongIds": [
+      "bolly_060"
+    ],
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "मशवरा",
+    "normalized": "मशवरा",
+    "display": "मशवरा",
+    "variants": [
+      "मशवरा"
+    ],
+    "pos": "名詞（男）",
+    "meaning_ja": "助言、アドバイス",
+    "importance": 4,
+    "sourceSongIds": [
+      "bolly_061"
+    ],
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "अजमाना",
+    "normalized": "अजमाना",
+    "display": "अजमाना",
+    "variants": [
+      "अजमाना"
+    ],
+    "pos": "他動詞",
+    "meaning_ja": "試す",
+    "importance": 4,
+    "sourceSongIds": [
+      "bolly_061"
+    ],
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "मसल",
+    "normalized": "मसल",
+    "display": "मसल",
+    "variants": [
+      "मसल"
+    ],
+    "pos": "名詞（女）",
+    "meaning_ja": "筋肉",
+    "importance": 3,
+    "sourceSongIds": [
+      "bolly_061"
+    ],
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "फसल",
+    "normalized": "फसल",
+    "display": "फसल",
+    "variants": [
+      "फसल"
+    ],
+    "pos": "名詞（女）",
+    "meaning_ja": "作物、収穫",
+    "importance": 3,
+    "sourceSongIds": [
+      "bolly_061"
+    ],
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "स्टबल",
+    "normalized": "स्टबल",
+    "display": "स्टबल",
+    "variants": [
+      "स्टबल",
+      "stubble"
+    ],
+    "pos": "名詞（男）",
+    "meaning_ja": "無精ひげ",
+    "importance": 4,
+    "sourceSongIds": [
+      "bolly_061"
+    ],
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "मर्दानी",
+    "normalized": "मर्दानी",
+    "display": "मर्दानी",
+    "variants": [
+      "मर्दानी"
+    ],
+    "pos": "形容詞",
+    "meaning_ja": "男らしい",
+    "importance": 4,
+    "sourceSongIds": [
+      "bolly_061"
+    ],
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "वजूद",
+    "normalized": "वजूद",
+    "display": "वजूद",
+    "variants": [
+      "वजूद"
+    ],
+    "pos": "名詞（男）",
+    "meaning_ja": "存在",
+    "importance": 4,
+    "sourceSongIds": [
+      "bolly_062"
+    ],
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "गँवारा",
+    "normalized": "गंवारा",
+    "display": "गँवारा",
+    "variants": [
+      "गँवारा",
+      "गंवारा"
+    ],
+    "pos": "形容詞",
+    "meaning_ja": "受け入れられる、耐えられる",
+    "importance": 4,
+    "sourceSongIds": [
+      "bolly_062"
+    ],
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "वफ़ा",
+    "normalized": "वफा",
+    "display": "वफ़ा",
+    "variants": [
+      "वफ़ा",
+      "वफा"
+    ],
+    "pos": "名詞（女）",
+    "meaning_ja": "誠実さ、忠誠",
+    "importance": 4,
+    "sourceSongIds": [
+      "bolly_062"
+    ],
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "नसीब",
+    "normalized": "नसीब",
+    "display": "नसीब",
+    "variants": [
+      "नसीब"
+    ],
+    "pos": "名詞（男）",
+    "meaning_ja": "運命、宿命",
+    "importance": 4,
+    "sourceSongIds": [
+      "bolly_062"
+    ],
+    "status": "active",
+    "sourceCount": 1,
+    "frequency": 1
+  },
+  {
+    "word": "आशिक़ी",
+    "normalized": "आशिकी",
+    "display": "आशिक़ी",
+    "variants": [
+      "आशिक़ी",
+      "आशिकी"
+    ],
+    "pos": "名詞（女）",
+    "meaning_ja": "恋愛、恋い慕う気持ち",
+    "importance": 4,
+    "sourceSongIds": [
+      "bolly_062"
     ],
     "status": "active",
     "sourceCount": 1,

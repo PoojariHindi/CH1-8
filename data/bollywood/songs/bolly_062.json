@@ -1,0 +1,223 @@
+{
+  "id": "bolly_062",
+  "schema_version": 2,
+
+  "title": "Tum Hi Ho",
+  "film": "Aashiqui 2",
+  "year": 2013,
+
+  "singer": [
+    "Arijit Singh"
+  ],
+
+  "lyricist": [
+    "Mithoon"
+  ],
+
+  "composer": [
+    "Mithoon"
+  ],
+
+  "notes": [
+    "アーディティヤ・ロイ・カプール"
+  ],
+
+  "tags": [
+    "恋愛",
+    "運命"
+  ],
+
+  "emotion": "intense_romantic",
+  "register": "urdu_poetic",
+
+  "key_phrase": "क्यूँकि तुम ही हो, अब तुम ही हो, ज़िन्दगी अब तुम ही हो",
+
+  "expressions": [
+    {
+      "text": "वजूद मेरा",
+      "normalized": "वजूद मेरा",
+      "meaning_ja": "私の存在",
+      "type": "urdu_poetic",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "ख़ुद से ही हो जायेंगे जुदा",
+      "normalized": "खुद से ही हो जायेंगे जुदा",
+      "meaning_ja": "自分自身からも切り離されてしまう",
+      "type": "poetic",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "इक पल दूर गँवारा नहीं",
+      "normalized": "इक पल दूर गंवारा नहीं",
+      "meaning_ja": "一瞬たりとも離れていることは耐えられない",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "हर रोज़ है जीते",
+      "normalized": "हर रोज है जीते",
+      "meaning_ja": "毎日あなたのために生きている",
+      "type": "expression",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "वक़्त सभी",
+      "normalized": "वक्त सभी",
+      "meaning_ja": "すべての時間",
+      "type": "expression",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "हर साँस पे नाम तेरा",
+      "normalized": "हर सांस पे नाम तेरा",
+      "meaning_ja": "一呼吸ごとに君の名がある",
+      "type": "poetic",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "खुद को जो यूँ दे दिया है",
+      "normalized": "खुद को जो यूं दे दिया है",
+      "meaning_ja": "自分自身を捧げてしまった",
+      "type": "poetic",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "वफ़ा ने मुझको संभाला",
+      "normalized": "वफा ने मुझको संभाला",
+      "meaning_ja": "君の誠実さが私を支えてくれた",
+      "type": "poetic",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "ग़मों को दिल से निकाला",
+      "normalized": "गमों को दिल से निकाला",
+      "meaning_ja": "悲しみを心から追い出した",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "नसीब जुड़ा",
+      "normalized": "नसीब जुड़ा",
+      "meaning_ja": "運命が結ばれている",
+      "type": "poetic",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "तुझे पाके",
+      "normalized": "तुझे पाके",
+      "meaning_ja": "君を得て",
+      "type": "expression",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "अधूरा ना रहा",
+      "normalized": "अधूरा ना रहा",
+      "meaning_ja": "もはや不完全ではなくなった",
+      "type": "poetic",
+      "importance": 4,
+      "status": "active"
+    }
+  ],
+
+  "vocab_candidates": [
+    {
+      "word": "वजूद",
+      "normalized": "वजूद",
+      "pos": "名詞（男）",
+      "meaning_ja": "存在",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "जुदा",
+      "normalized": "जुदा",
+      "pos": "形容詞",
+      "meaning_ja": "離れた、別れた",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "गँवारा",
+      "normalized": "गंवारा",
+      "pos": "形容詞",
+      "meaning_ja": "受け入れられる、耐えられる",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "साँस",
+      "normalized": "सांस",
+      "pos": "名詞（女）",
+      "meaning_ja": "呼吸、息",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "वफ़ा",
+      "normalized": "वफा",
+      "pos": "名詞（女）",
+      "meaning_ja": "誠実さ、忠誠",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "ग़म",
+      "normalized": "गम",
+      "pos": "名詞（男）",
+      "meaning_ja": "悲しみ、憂い",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "नसीब",
+      "normalized": "नसीब",
+      "pos": "名詞（男）",
+      "meaning_ja": "運命、宿命",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "आशिक़ी",
+      "normalized": "आशिकी",
+      "display": "आशिक़ी",
+      "variants": [
+       "आशिक़ी",
+       "आशिकी"
+      ],
+      "pos": "名詞（女）",
+      "meaning_ja": "恋愛、恋い慕う気持ち",
+      "importance": 4,
+      "sourceSongIds": [
+    "bolly_062"
+    ],
+  "status": "active"
+    },
+    {
+      "word": "अधूरा",
+      "normalized": "अधूरा",
+      "pos": "形容詞",
+      "meaning_ja": "不完全な、満たされていない",
+      "importance": 4,
+      "status": "active"
+    }
+  ],
+
+  "meta": {
+    "copyright_safe": true,
+    "lyrics_included": false,
+    "source_type": "manual_curated",
+    "dedupe_ready": true
+  }
+}

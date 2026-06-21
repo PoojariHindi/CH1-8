@@ -1,0 +1,268 @@
+{
+  "id": "bolly_059",
+  "schema_version": 2,
+
+  "title": "Deewangi Deewangi",
+  "film": "Om Shanti Om",
+  "year": 2007,
+
+  "singer": [
+    "Shaan",
+    "Udit Narayan",
+    "Shreya Ghoshal",
+    "Sunidhi Chauhan",
+    "Rahul Saxena"
+  ],
+
+  "lyricist": [
+    "Javed Akhtar"
+  ],
+
+  "composer": [
+    "Vishal Dadlani",
+    "Shekhar Ravjiani"
+  ],
+
+  "notes": [
+    "シャールク"
+  ],
+
+  "tags": [
+    "恋愛",
+    "ダンス"
+  ],
+
+  "emotion": "celebratory_romantic",
+  "register": "bollywood_poetic",
+
+  "key_phrase": "बस दीवानगी दीवानगी दीवानगी है",
+
+  "expressions": [
+    {
+      "text": "शाम बड़ी दीवानी",
+      "normalized": "शाम बड़ी दीवानी",
+      "meaning_ja": "この夕べはすっかり狂おしい",
+      "type": "poetic",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "बन जाए ना कोई कहानी",
+      "normalized": "बन जाए ना कोई कहानी",
+      "meaning_ja": "ひとつの物語になってしまいそうだ",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "दिलकश नज़ारे",
+      "normalized": "दिलकश नजारे",
+      "meaning_ja": "心を奪う景色",
+      "type": "urdu_poetic",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "ज़मीन पर उतरे सितारे",
+      "normalized": "जमीन पर उतरे सितारे",
+      "meaning_ja": "地上に降り立った星たち",
+      "type": "metaphor",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "ना कोई रहज़न ना रहबर",
+      "normalized": "ना कोई रहजन ना रहबर",
+      "meaning_ja": "盗賊も導き手もいない",
+      "type": "urdu_poetic",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "इल्ज़ाम लगे किस पर",
+      "normalized": "इलजाम लगे किस पर",
+      "meaning_ja": "誰に責任を負わせればよいのか",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "हंगामा खेज",
+      "normalized": "हंगामा खेज",
+      "meaning_ja": "騒ぎを巻き起こすような",
+      "type": "urdu_poetic",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "नशा गहरा है",
+      "normalized": "नशा गहरा है",
+      "meaning_ja": "陶酔が深い",
+      "type": "expression",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "ज़ुल्फ़ खुली है",
+      "normalized": "जुल्फ खुली है",
+      "meaning_ja": "髪がほどかれている",
+      "type": "poetic",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "रेशम रेशम",
+      "normalized": "रेशम रेशम",
+      "meaning_ja": "絹のようになめらか",
+      "type": "poetic",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "साँस घुली है",
+      "normalized": "सांस घुली है",
+      "meaning_ja": "吐息が溶け合っている",
+      "type": "poetic",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "सारा सुकून",
+      "normalized": "सारा सुकून",
+      "meaning_ja": "すべての安らぎ",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "दिल को जुनून है",
+      "normalized": "दिल को जुनून है",
+      "meaning_ja": "心は情熱に取り憑かれている",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "ख़्वाब सजा दे",
+      "normalized": "ख्वाब सजा दे",
+      "meaning_ja": "夢を飾ってくれ",
+      "type": "poetic",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "राज़ जो सारे हैं",
+      "normalized": "राज जो सारे हैं",
+      "meaning_ja": "すべての秘密",
+      "type": "expression",
+      "importance": 3,
+      "status": "active"
+    }
+  ],
+
+  "vocab_candidates": [
+    {
+      "word": "दिलकश",
+      "normalized": "दिलकश",
+      "pos": "形容詞",
+      "meaning_ja": "魅力的な、心を奪う",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "नज़ारा",
+      "normalized": "नजारा",
+      "pos": "名詞（男）",
+      "meaning_ja": "眺め、光景",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "रहज़न",
+      "normalized": "रहजन",
+      "pos": "名詞（男）",
+      "meaning_ja": "盗賊、追いはぎ",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "रहबर",
+      "normalized": "रहबर",
+      "pos": "名詞（男）",
+      "meaning_ja": "案内人、導き手",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "इल्ज़ाम",
+      "normalized": "इलजाम",
+      "pos": "名詞（男）",
+      "meaning_ja": "非難、容疑、責任",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "हंगामाखेज",
+      "normalized": "हंगामाखेज",
+      "pos": "形容詞",
+      "meaning_ja": "騒動を引き起こすような",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "ज़ुल्फ़",
+      "normalized": "जुल्फ",
+      "pos": "名詞（女）",
+      "meaning_ja": "髪の房、長い髪",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "रेशम",
+      "normalized": "रेशम",
+      "pos": "名詞（男）",
+      "meaning_ja": "絹",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "सुकून",
+      "normalized": "सुकून",
+      "pos": "名詞（男）",
+      "meaning_ja": "安らぎ、平穏",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "जुनून",
+      "normalized": "जुनून",
+      "pos": "名詞（男）",
+      "meaning_ja": "情熱、熱狂、執念",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "ख़्वाब",
+      "normalized": "ख्वाब",
+      "pos": "名詞（男）",
+      "meaning_ja": "夢",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "राज़",
+      "normalized": "राज",
+      "pos": "名詞（男）",
+      "meaning_ja": "秘密",
+      "importance": 3,
+      "status": "active"
+    }
+  ],
+
+  "meta": {
+    "copyright_safe": true,
+    "lyrics_included": false,
+    "source_type": "manual_curated",
+    "dedupe_ready": true
+  }
+}

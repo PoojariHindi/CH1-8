@@ -1,0 +1,215 @@
+{
+  "id": "bolly_061",
+  "schema_version": 2,
+
+  "title": "Galti Se Mistake",
+  "film": "Jagga Jasoos",
+  "year": 2017,
+
+  "singer": [
+    "Arijit Singh",
+    "Amit Mishra"
+  ],
+
+  "lyricist": [
+    "Amitabh Bhattacharya"
+  ],
+
+  "composer": [
+    "Pritam"
+  ],
+
+  "notes": [
+    "ランビール"
+  ],
+
+  "tags": [
+    "ダンス"
+  ],
+
+  "emotion": "playful_youthful",
+  "register": "colloquial_bollywood",
+
+  "key_phrase": "ये ही उम्र है करले गलती से मिस्टेक",
+
+  "expressions": [
+    {
+      "text": "गलती से मिस्टेक",
+      "normalized": "गलती से मिस्टेक",
+      "meaning_ja": "失敗してもやってみろ",
+      "type": "humorous",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "झटका महसूस होना",
+      "normalized": "झटका महसूस होना",
+      "meaning_ja": "衝撃を感じる",
+      "type": "expression",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "कस के ब्रेक मारना",
+      "normalized": "कस के ब्रेक मारना",
+      "meaning_ja": "急ブレーキをかける",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "मशवरा अजमा के देख",
+      "normalized": "मशवरा अजमा के देख",
+      "meaning_ja": "アドバイスを試してみろ",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "मसल फुलाना",
+      "normalized": "मसल फुलाना",
+      "meaning_ja": "筋肉を見せびらかす",
+      "type": "expression",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "बॉडी बनाना",
+      "normalized": "बॉडी बनाना",
+      "meaning_ja": "身体を鍛える",
+      "type": "colloquial",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "फसल उगाना",
+      "normalized": "फसल उगाना",
+      "meaning_ja": "作物を育てる",
+      "type": "metaphor",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "होजा शुरू",
+      "normalized": "हो जा शुरू",
+      "meaning_ja": "さあ始めろ",
+      "type": "expression",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "deo लगाना",
+      "normalized": "डियो लगाना",
+      "meaning_ja": "デオドラントをつける",
+      "type": "colloquial",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "मर्दानी खुशबू",
+      "normalized": "मर्दानी खुशबू",
+      "meaning_ja": "男らしい香り",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "दो बटन ढीले करना",
+      "normalized": "दो बटन ढीले करना",
+      "meaning_ja": "ボタンを二つ外す",
+      "type": "expression",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "सीना दिखाना",
+      "normalized": "सीना दिखाना",
+      "meaning_ja": "胸を見せる",
+      "type": "expression",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "text": "मोटरसाइकिल भगा के देख",
+      "normalized": "मोटरसाइकिल भगा के देख",
+      "meaning_ja": "バイクを飛ばしてみろ",
+      "type": "expression",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "text": "लड़की बिठा के देख",
+      "normalized": "लड़की बिठा के देख",
+      "meaning_ja": "女の子を後ろに乗せてみろ",
+      "type": "expression",
+      "importance": 3,
+      "status": "active"
+    }
+  ],
+
+  "vocab_candidates": [
+    {
+      "word": "झटका",
+      "normalized": "झटका",
+      "pos": "名詞（男）",
+      "meaning_ja": "衝撃、ショック",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "मशवरा",
+      "normalized": "मशवरा",
+      "pos": "名詞（男）",
+      "meaning_ja": "助言、アドバイス",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "अजमाना",
+      "normalized": "अजमाना",
+      "pos": "他動詞",
+      "meaning_ja": "試す",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "मसल",
+      "normalized": "मसल",
+      "pos": "名詞（女）",
+      "meaning_ja": "筋肉",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "फसल",
+      "normalized": "फसल",
+      "pos": "名詞（女）",
+      "meaning_ja": "作物、収穫",
+      "importance": 3,
+      "status": "active"
+    },
+    {
+      "word": "स्टबल",
+      "normalized": "स्टबल",
+      "pos": "名詞（男）",
+      "meaning_ja": "無精ひげ",
+      "importance": 4,
+      "status": "active"
+    },
+    {
+      "word": "मर्दानी",
+      "normalized": "मर्दानी",
+      "pos": "形容詞",
+      "meaning_ja": "男らしい",
+      "importance": 4,
+      "status": "active"
+    }
+  ],
+
+  "meta": {
+    "copyright_safe": true,
+    "lyrics_included": false,
+    "source_type": "manual_curated",
+    "dedupe_ready": true
+  }
+}
